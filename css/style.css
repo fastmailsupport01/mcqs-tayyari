@@ -18,6 +18,7 @@ header.site{position:sticky;top:0;z-index:50;background:rgba(255,255,255,.97);ba
 .header-inner{display:flex;align-items:center;justify-content:space-between;height:74px}
 .brand{display:flex;align-items:center}
 .brand img{height:46px;width:auto;display:block}
+.exam-logo{width:84px;height:84px;object-fit:contain;margin-bottom:14px;background:#fff;border-radius:14px;padding:8px;box-shadow:0 2px 10px rgba(0,0,0,.08)}
 nav.main-nav{display:flex;gap:4px;align-items:center}
 nav.main-nav a{padding:10px 14px;border-radius:10px;font-weight:600;font-size:15.5px;transition:.2s;white-space:nowrap}
 nav.main-nav a:hover{background:var(--green-light);color:var(--green-dark)}
