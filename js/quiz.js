@@ -12,15 +12,22 @@
 
   /* ---------- fetch MCQs ---------- */
   function fetchMCQs(opts, cb){
-    // opts: {subject (slug) | paperId, limit}
+    // opts: {subject (slug) | paperId, exam (slug), limit}
+    // exam filter: MCQs tagged for that exam + untagged (shared) ones.
+    // Falls back gracefully if the exam_body column doesn't exist yet.
     if(!MT.isConfigured()){ cb([]); return; }
-    var q = MT.supabase().from("mcqs").select("id,question,option_a,option_b,option_c,option_d,correct_option,explanation,subject_slug,paper_id");
-    if(opts.subject) q = q.eq("subject_slug", opts.subject);
-    if(opts.paperId) q = q.eq("paper_id", opts.paperId);
-    q.limit(opts.limit || 200).then(function(res){
-      if(res.error){ cb([]); return; }
-      cb(res.data || []);
-    }).catch(function(){ cb([]); });
+    var cols = "id,question,option_a,option_b,option_c,option_d,correct_option,explanation,subject_slug,paper_id";
+    function run(withExam){
+      var q = MT.supabase().from("mcqs").select(cols);
+      if(opts.subject) q = q.eq("subject_slug", opts.subject);
+      if(opts.paperId) q = q.eq("paper_id", opts.paperId);
+      if(withExam && opts.exam) q = q.or("exam_body.eq."+opts.exam+",exam_body.is.null");
+      q.limit(opts.limit || 200).then(function(res){
+        if(res.error){ if(withExam && opts.exam){ run(false); return; } cb([]); return; }
+        cb(res.data || []);
+      }).catch(function(){ if(withExam && opts.exam){ run(false); return; } cb([]); });
+    }
+    run(true);
   }
 
   function toOptions(m){
@@ -36,11 +43,13 @@
   window.MT.startPractice = function(){
     var params = new URLSearchParams(location.search);
     var subject = params.get("subject");
+    var examSlug = params.get("exam");
     var subjMeta = (MT_SUBJECTS || []).find(function(s){ return s.slug === subject; });
+    var examMeta = examSlug ? (window.MT_EXAMS || []).find(function(e){ return e.slug === examSlug; }) : null;
     var titleEl = el("quizTitle");
-    if(titleEl) titleEl.textContent = subjMeta ? subjMeta.name + " — Practice" : "Practice";
+    if(titleEl) titleEl.textContent = (subjMeta ? subjMeta.name : "Practice") + (examMeta ? " (" + examMeta.name + ")" : "") + " — Practice";
 
-    fetchMCQs({subject: subject, limit: 400}, function(data){
+    fetchMCQs({subject: subject, exam: examSlug, limit: 400}, function(data){
       if(!data.length){
         showEmpty("quizBox", "MCQs coming soon",
           "Questions for this subject are being added. Check back soon — new sets drop regularly.");
@@ -186,7 +195,7 @@
       + '<p style="color:var(--muted);max-width:520px;margin:0 auto 24px">'+sim.q+' questions pulled across all subjects. Wrong answers cost '+sim.neg+' marks.</p>'
       + '<button class="btn btn-orange" id="beginExam">Start Exam</button></div>';
     el("beginExam").addEventListener("click", function(){
-      fetchMCQs({limit: 400}, function(data){
+      fetchMCQs({exam: ex.slug, limit: 400}, function(data){
         if(data.length < 20){
           showEmpty("examBox", "Exam pool building",
             "We need more questions before the simulator can run a full exam. Question sets are being added — check back soon.");
