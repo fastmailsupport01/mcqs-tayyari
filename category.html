@@ -54,7 +54,7 @@
         <div class="card-icon">📝</div>
         <h3>Solved Past Papers</h3>
         <p>Previous papers for this exam, structured as practice sets.</p>
-        <a class="btn btn-outline" href="practice.html?subject=past-papers">Practice →</a>
+        <a class="btn btn-outline" id="ppLink" href="practice.html?subject=past-papers">Practice →</a>
       </div>
       <div class="card">
         <div class="card-icon">⏱️</div>
@@ -123,13 +123,14 @@
   document.getElementById("booksMsg").textContent = "Recommended books and notes for " + ex.name + " are being added — check back soon.";
   if(slug === "ppsc"){ document.getElementById("ppscPattern").style.display = ""; }
   document.getElementById("simLink").href = "exam.html?exam=" + ex.slug;
+  document.getElementById("ppLink").href = "practice.html?exam=" + ex.slug + "&subject=past-papers";
   document.getElementById("simTitle").textContent = ex.name + " Simulator";
   var grid = document.getElementById("catSubjects");
   MT_SUBJECTS.forEach(function(s){
     var d = document.createElement("div");
     d.className = "card";
     d.innerHTML = '<div class="card-icon">'+s.icon+'</div><h3>'+MT.esc(s.name)+'</h3><p>'+MT.esc(s.desc)+'</p>'
-      + '<a class="btn btn-outline" href="practice.html?subject='+s.slug+'">Practice →</a>';
+      + '<a class="btn btn-outline" href="practice.html?exam='+ex.slug+'&subject='+s.slug+'">Practice →</a>';
     grid.appendChild(d);
   });
 })();
