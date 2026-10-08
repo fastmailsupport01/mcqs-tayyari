@@ -31,7 +31,7 @@
     return MT.shuffle(opts);
   }
 
-  /* ---------- PRACTICE MODE ---------- */
+  /* ---------- PRACTICE MODE (paginated: 20 MCQs per page) ---------- */
   // URL: practice.html?subject=english
   window.MT.startPractice = function(){
     var params = new URLSearchParams(location.search);
@@ -40,71 +40,124 @@
     var titleEl = el("quizTitle");
     if(titleEl) titleEl.textContent = subjMeta ? subjMeta.name + " — Practice" : "Practice";
 
-    fetchMCQs({subject: subject, limit: 100}, function(data){
+    fetchMCQs({subject: subject, limit: 400}, function(data){
       if(!data.length){
         showEmpty("quizBox", "MCQs coming soon",
           "Questions for this subject are being added. Check back soon — new sets drop regularly.");
         return;
       }
-      runPractice(MT.shuffle(data).slice(0, 20), subjMeta ? subjMeta.name : subject);
+      runPractice(MT.shuffle(data), subjMeta ? subjMeta.name : subject);
     });
   };
 
   function runPractice(questions, subjectName){
-    var idx = 0, correct = 0, answered = 0;
     var box = el("quizBox");
+    var perPage = 20;
+    var totalPages = Math.max(1, Math.ceil(questions.length / perPage));
+    var page = 1;
+    var answers = {};                       // qi -> picked option "A".."D"
+    var qopts = questions.map(function(m){ return toOptions(m); });  // shuffle once
 
-    function render(){
-      var m = questions[idx];
-      var opts = toOptions(m);
-      var html = '<div class="progress"><i style="width:'+Math.round(idx/questions.length*100)+'%"></i></div>';
-      html += '<div class="q-card"><div class="q-top"><span>Question '+(idx+1)+' of '+questions.length+'</span><span>'+MT.esc(subjectName)+'</span></div>';
+    function score(){
+      var a = 0, c = 0;
+      questions.forEach(function(m, qi){
+        if(answers[qi]){ a++; if(answers[qi] === m.correct_option) c++; }
+      });
+      return {a:a, c:c};
+    }
+
+    function qCard(m, qi, num){
+      var html = '<div class="q-card" data-qi="'+qi+'">';
+      html += '<div class="q-top"><span>Question '+num+'</span><span>'+MT.esc(subjectName)+'</span></div>';
       html += '<div class="q-text">'+MT.esc(m.question)+'</div><div class="opts">';
-      opts.forEach(function(o){
+      qopts[qi].forEach(function(o){
         html += '<button class="opt" data-k="'+o.k+'">'+MT.esc(o.t)+'<span class="tick"></span></button>';
       });
-      html += '</div><div class="explain" id="explainBox"></div>';
-      html += '<div class="q-nav"><button class="btn btn-outline" id="skipBtn">Skip</button>';
-      html += '<button class="btn btn-green" id="nextBtn" style="display:none">Next →</button></div></div>';
+      html += '</div><div class="explain"></div></div>';
+      return html;
+    }
+
+    function lockCardVisual(card, qi){
+      var m = questions[qi], pick = answers[qi];
+      card.querySelectorAll(".opt").forEach(function(x){
+        x.disabled = true;
+        var k = x.getAttribute("data-k");
+        if(k === m.correct_option){ x.classList.add("correct"); x.querySelector(".tick").textContent = "\u2713"; }
+        else if(k === pick){ x.classList.add("wrong"); x.querySelector(".tick").textContent = "\u2717"; }
+      });
+      var ex = card.querySelector(".explain");
+      ex.innerHTML = "<strong>Explanation:</strong> " + MT.esc(m.explanation || ("Correct answer is option " + m.correct_option + "."));
+      ex.classList.add("show");
+    }
+
+    function pageNums(cur, total){
+      var out = [];
+      if(total <= 9){ for(var i=1;i<=total;i++) out.push(i); }
+      else if(cur <= 5){ for(var i=1;i<=6;i++) out.push(i); out.push("\u2026"); out.push(total-1); out.push(total); }
+      else if(cur >= total-4){ out.push(1); out.push("\u2026"); for(var i=total-5;i<=total;i++) out.push(i); }
+      else { out.push(1); out.push("\u2026"); for(var i=cur-2;i<=cur+2;i++) out.push(i); out.push("\u2026"); out.push(total); }
+      return out;
+    }
+
+    function pagerHtml(){
+      var h = '<div class="pager">';
+      h += '<button class="pg-btn" data-pg="'+(page-1)+'"'+(page===1?' disabled':'')+'>\u2039</button>';
+      pageNums(page, totalPages).forEach(function(n){
+        if(n === "\u2026") h += '<span class="pg-dots">\u2026</span>';
+        else h += '<button class="pg-btn'+(n===page?' active':'')+'" data-pg="'+n+'">'+n+'</button>';
+      });
+      h += '<button class="pg-btn" data-pg="'+(page+1)+'"'+(page===totalPages?' disabled':'')+'>\u203a</button>';
+      h += '</div>';
+      h += '<div class="pg-goto"><input type="number" id="pgInput" min="1" max="'+totalPages+'" placeholder="Go to page number">'
+        + '<button class="btn btn-green" id="pgGo">Go</button></div>';
+      return h;
+    }
+
+    function updateScore(){
+      var s = score();
+      var strip = el("scoreStrip");
+      if(strip) strip.innerHTML = '<span>Attempted: <b>'+s.a+'</b></span><span>Correct: <b>'+s.c+'</b></span><span>Total MCQs: <b>'+questions.length+'</b></span>';
+    }
+
+    function render(){
+      var start = (page-1)*perPage;
+      var slice = questions.slice(start, start+perPage);
+      var html = '<div class="score-strip" id="scoreStrip"></div>';
+      slice.forEach(function(m, i){ html += qCard(m, start+i, start+i+1); });
+      html += pagerHtml();
       box.innerHTML = html;
 
-      var locked = false;
-      box.querySelectorAll(".opt").forEach(function(b){
-        b.addEventListener("click", function(){
-          if(locked) return; locked = true;
-          answered++;
-          var pick = b.getAttribute("data-k");
-          var ok = (pick === m.correct_option);
-          if(ok) correct++;
-          box.querySelectorAll(".opt").forEach(function(x){
-            x.disabled = true;
-            var k = x.getAttribute("data-k");
-            if(k === m.correct_option){ x.classList.add("correct"); x.querySelector(".tick").textContent = "✓"; }
-            else if(x === b){ x.classList.add("wrong"); x.querySelector(".tick").textContent = "✗"; }
+      box.querySelectorAll(".q-card").forEach(function(card){
+        var qi = parseInt(card.getAttribute("data-qi"), 10);
+        if(answers[qi]){ lockCardVisual(card, qi); return; }
+        card.querySelectorAll(".opt").forEach(function(b){
+          b.addEventListener("click", function(){
+            answers[qi] = b.getAttribute("data-k");
+            lockCardVisual(card, qi);
+            updateScore();
           });
-          var ex = el("explainBox");
-          ex.innerHTML = "<strong>Explanation:</strong> " + MT.esc(m.explanation || "Correct answer is option " + m.correct_option + ".");
-          ex.classList.add("show");
-          el("nextBtn").style.display = "";
-          el("skipBtn").style.display = "none";
         });
       });
-      el("skipBtn").addEventListener("click", next);
-      el("nextBtn").addEventListener("click", next);
-      function next(){
-        idx++;
-        if(idx >= questions.length) return finish();
-        render();
-      }
-    }
-    function finish(){
-      MT.stats.record(subjectName, correct, answered);
-      box.innerHTML = '<div class="result-card"><span class="badge live">Practice complete</span>'
-        + '<div class="result-score">'+correct+'/'+questions.length+'</div>'
-        + '<p style="color:var(--muted)">You attempted '+answered+' questions in '+MT.esc(subjectName)+'.</p>'
-        + '<div class="btn-row" style="justify-content:center;margin-top:24px">'
-        + '<a class="btn btn-orange" href="practice.html?subject='+encodeURIComponent(subjectName === "Past Papers" ? "past-papers" : "")+'">Retry</a>'
-        + '<a class="btn btn-green" href="subjects.html">More Subjects</a></div></div>';
+
+      box.querySelectorAll(".pg-btn").forEach(function(b){
+        if(b.disabled) return;
+        b.addEventListener("click", function(){
+          var p = parseInt(b.getAttribute("data-pg"), 10);
+          if(p >= 1 && p <= totalPages && p !== page){
+            page = p; render();
+            window.scrollTo({top:0, behavior:"smooth"});
+          }
+        });
+      });
+      var go = el("pgGo");
+      if(go) go.addEventListener("click", function(){
+        var v = parseInt(el("pgInput").value, 10);
+        if(v >= 1 && v <= totalPages && v !== page){
+          page = v; render();
+          window.scrollTo({top:0, behavior:"smooth"});
+        }
+      });
+      updateScore();
     }
     render();
   }
