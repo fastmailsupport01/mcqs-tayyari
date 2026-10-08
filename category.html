@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Exam Preparation | MCQs Tayyari</title>
+<meta name="description" content="Subject-wise MCQs, books and past papers for your exam — PPSC, FPSC, CSS, NTS and more.">
+<meta name="robots" content="index, follow">
+<link rel="icon" href="favicon.png">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header class="site">
+  <div class="wrap header-inner">
+    <a class="brand" href="index.html"><img src="logo.png" alt="MCQs Tayyari logo"></a>
+    <button class="menu-btn" id="menuBtn" aria-label="Menu">☰</button>
+    <nav class="main-nav" id="mainNav">
+      <a href="index.html">Home</a>
+      <a href="subjects.html">Subjects</a>
+      <a href="exam.html" class="nav-cta">Exam Simulator</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </div>
+</header>
+
+<section class="block">
+  <div class="wrap">
+    <div class="sec-head">
+      <span class="sec-kicker" id="examKicker">Exam</span>
+      <h2 id="examName">Exam</h2>
+      <p id="examDesc"></p>
+    </div>
+
+    <div class="sec-head" style="margin-bottom:26px">
+      <h2 style="font-size:24px">📚 Subject-wise MCQs</h2>
+      <p>Click any subject to start practicing for this exam.</p>
+    </div>
+    <div class="grid" id="catSubjects" style="margin-bottom:56px"></div>
+
+    <div class="sec-head" style="margin-bottom:26px">
+      <h2 style="font-size:24px">📖 Books &amp; Notes</h2>
+    </div>
+    <div class="empty" id="booksBox" style="margin-bottom:56px">
+      <h3>Books coming soon</h3>
+      <p id="booksMsg">Recommended books and notes for this exam are being added.</p>
+    </div>
+
+    <div class="sec-head" style="margin-bottom:26px">
+      <h2 style="font-size:24px">📝 Past Papers</h2>
+    </div>
+    <div class="grid" style="margin-bottom:20px">
+      <div class="card">
+        <div class="card-icon">📝</div>
+        <h3>Solved Past Papers</h3>
+        <p>Previous papers for this exam, structured as practice sets.</p>
+        <a class="btn btn-outline" href="practice.html?subject=past-papers">Practice →</a>
+      </div>
+      <div class="card">
+        <div class="card-icon">⏱️</div>
+        <h3>Exam Simulator</h3>
+        <p>100 MCQs, 90 minutes, negative marking — the real exam feel.</p>
+        <a class="btn btn-orange" href="exam.html">Start Simulator →</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="wrap"><div class="ad-slot"><span>Advertisement</span><div class="ad-note">AdSense ad unit — responsive</div></div></div>
+
+<footer>
+  <div class="wrap">
+    <div class="foot-grid">
+      <div class="foot-brand"><img src="logo.png" alt="MCQs Tayyari logo"><p>Free PPSC test preparation — subject-wise MCQs, past papers and a real exam simulator.</p></div>
+      <div><h4>Quick Links</h4><ul><li><a href="index.html">Home</a></li><li><a href="subjects.html">Subjects</a></li><li><a href="exam.html">Exam Simulator</a></li><li><a href="about.html">About Us</a></li></ul></div>
+      <div><h4>Legal</h4><ul><li><a href="privacy.html">Privacy Policy</a></li><li><a href="contact.html">Contact Us</a></li></ul></div>
+    </div>
+    <div class="foot-bottom"><span>© 2026 MCQs Tayyari. All rights reserved.</span><span>Developed by <span class="credit">cos (chishti office sammundri)</span> · +92 3264025618</span></div>
+  </div>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="js/config.js"></script>
+<script src="js/app.js"></script>
+<script>
+(function(){
+  var slug = new URLSearchParams(location.search).get("exam");
+  var ex = (MT_EXAMS || []).find(function(e){ return e.slug === slug; }) || MT_EXAMS[0];
+  document.title = ex.seoTitle || (ex.name + " Preparation | MCQs Tayyari");
+  var md = document.querySelector('meta[name="description"]');
+  if(md && ex.seoDesc) md.setAttribute("content", ex.seoDesc);
+  document.getElementById("examKicker").textContent = ex.full;
+  document.getElementById("examName").textContent = ex.h1 || (ex.name + " Preparation");
+  document.getElementById("examDesc").textContent = ex.seoDesc || ex.desc;
+  if(ex.logo){
+    var li = document.createElement("img");
+    li.className = "exam-logo"; li.src = ex.logo;
+    li.alt = ex.seoTitle || ex.name; li.loading = "lazy";
+    li.style.width = "110px"; li.style.height = "110px";
+    document.getElementById("examName").parentNode.insertBefore(li, document.getElementById("examName"));
+  }
+  document.getElementById("booksMsg").textContent = "Recommended books and notes for " + ex.name + " are being added — check back soon.";
+  var grid = document.getElementById("catSubjects");
+  MT_SUBJECTS.forEach(function(s){
+    var d = document.createElement("div");
+    d.className = "card";
+    d.innerHTML = '<div class="card-icon">'+s.icon+'</div><h3>'+MT.esc(s.name)+'</h3><p>'+MT.esc(s.desc)+'</p>'
+      + '<a class="btn btn-outline" href="practice.html?subject='+s.slug+'">Practice →</a>';
+    grid.appendChild(d);
+  });
+})();
+</script>
+</body>
+</html>
