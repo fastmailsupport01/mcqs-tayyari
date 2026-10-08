@@ -58,9 +58,9 @@
       </div>
       <div class="card">
         <div class="card-icon">⏱️</div>
-        <h3>Exam Simulator</h3>
-        <p>100 MCQs, 90 minutes, negative marking — the real exam feel.</p>
-        <a class="btn btn-orange" href="exam.html">Start Simulator →</a>
+        <h3 id="simTitle">Exam Simulator</h3>
+        <p>Timed MCQs with negative marking — the real exam feel.</p>
+        <a class="btn btn-orange" id="simLink" href="exam.html">Start Simulator →</a>
       </div>
     </div>
   </div>
@@ -122,6 +122,8 @@
   }
   document.getElementById("booksMsg").textContent = "Recommended books and notes for " + ex.name + " are being added — check back soon.";
   if(slug === "ppsc"){ document.getElementById("ppscPattern").style.display = ""; }
+  document.getElementById("simLink").href = "exam.html?exam=" + ex.slug;
+  document.getElementById("simTitle").textContent = ex.name + " Simulator";
   var grid = document.getElementById("catSubjects");
   MT_SUBJECTS.forEach(function(s){
     var d = document.createElement("div");
