@@ -14,11 +14,12 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica N
 a{text-decoration:none;color:inherit}
 img{max-width:100%}
 button{font:inherit;cursor:pointer}
+
+/* Header */
 header.site{position:sticky;top:0;z-index:50;background:rgba(255,255,255,.97);backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
 .header-inner{display:flex;align-items:center;justify-content:space-between;height:74px}
 .brand{display:flex;align-items:center}
 .brand img{height:46px;width:auto;display:block}
-.exam-logo{width:84px;height:84px;object-fit:contain;margin-bottom:14px;background:#fff;border-radius:14px;padding:8px;box-shadow:0 2px 10px rgba(0,0,0,.08)}
 nav.main-nav{display:flex;gap:4px;align-items:center}
 nav.main-nav a{padding:10px 14px;border-radius:10px;font-weight:600;font-size:15.5px;transition:.2s;white-space:nowrap}
 nav.main-nav a:hover{background:var(--green-light);color:var(--green-dark)}
@@ -26,6 +27,8 @@ nav.main-nav a.active{background:var(--green-light);color:var(--green-dark)}
 .nav-cta{background:var(--orange)!important;color:#fff!important}
 .nav-cta:hover{background:var(--orange-dark)!important}
 .menu-btn{display:none;background:none;border:1px solid var(--line);border-radius:10px;padding:9px 13px;font-size:18px}
+
+/* Hero */
 .hero{background:linear-gradient(135deg,var(--green-dark) 0%,var(--green) 60%,#0a8a4b 100%);color:#fff;padding:80px 0 88px;position:relative;overflow:hidden}
 .hero::after{content:"";position:absolute;right:-120px;top:-120px;width:420px;height:420px;border-radius:50%;background:rgba(255,255,255,.07)}
 .hero-inner{position:relative;z-index:1;max-width:740px}
@@ -42,11 +45,15 @@ nav.main-nav a.active{background:var(--green-light);color:var(--green-dark)}
 .btn-ghost:hover{background:rgba(255,255,255,.22)}
 .btn-outline{background:#fff;color:var(--green-dark);border:1.5px solid var(--green)}
 .btn-outline:hover{background:var(--green-light)}
+
+/* Sections */
 section.block{padding:68px 0}
 .sec-head{text-align:center;max-width:660px;margin:0 auto 46px}
 .sec-kicker{display:inline-block;color:var(--orange);font-weight:800;font-size:13.5px;letter-spacing:2.5px;text-transform:uppercase;margin-bottom:12px}
 .sec-head h2{font-size:clamp(27px,3.6vw,38px);font-weight:800;letter-spacing:-.4px;margin-bottom:14px}
 .sec-head p{color:var(--muted);font-size:17px}
+
+/* Cards */
 .grid{display:grid;grid-template-columns:repeat(3,1fr);gap:22px}
 .card{background:#fff;border:1px solid var(--line);border-radius:var(--radius);padding:28px 24px;transition:.25s;position:relative;overflow:hidden;display:flex;flex-direction:column}
 .card:hover{transform:translateY(-5px);box-shadow:var(--shadow);border-color:var(--green)}
@@ -60,12 +67,16 @@ section.block{padding:68px 0}
 .badge.soon{background:var(--orange-light);color:var(--orange-dark)}
 .badge.live{background:var(--green);color:#fff}
 .card .btn{margin-top:6px;text-align:center;padding:12px 20px;font-size:15px}
+
+/* Exam pattern table */
 .pattern{background:var(--bg-soft)}
 table.spec{width:100%;border-collapse:collapse;background:#fff;border-radius:var(--radius);overflow:hidden;box-shadow:0 6px 24px rgba(0,0,0,.05);font-size:16px}
 table.spec th{background:var(--green);color:#fff;text-align:left;padding:16px 22px;font-weight:700}
 table.spec td{padding:15px 22px;border-bottom:1px solid var(--line)}
 table.spec tr:last-child td{border-bottom:none}
 table.spec td:first-child{font-weight:700}
+
+/* FAQ */
 .faq{max-width:760px;margin:0 auto}
 .faq-item{border:1px solid var(--line);border-radius:12px;margin-bottom:14px;overflow:hidden;background:#fff}
 .faq-q{width:100%;background:none;border:none;text-align:left;padding:20px 24px;font-size:17px;font-weight:700;display:flex;justify-content:space-between;align-items:center;gap:12px}
@@ -73,6 +84,8 @@ table.spec td:first-child{font-weight:700}
 .faq-item.open .faq-q span.arrow{transform:rotate(45deg)}
 .faq-a{max-height:0;overflow:hidden;transition:max-height .3s ease;color:var(--muted);font-size:15.5px}
 .faq-a div{padding:0 24px 22px}
+
+/* Quiz engine */
 .quiz-shell{max-width:760px;margin:0 auto}
 .q-card{background:#fff;border:1px solid var(--line);border-radius:18px;padding:34px;box-shadow:0 6px 24px rgba(0,0,0,.05);margin-bottom:22px}
 .q-top{display:flex;justify-content:space-between;align-items:center;margin-bottom:18px;font-size:14px;color:var(--muted);font-weight:600}
@@ -98,8 +111,12 @@ table.spec td:first-child{font-weight:700}
 .result-meta b{color:var(--ink);font-size:20px;display:block}
 .empty{background:var(--bg-soft);border:2px dashed #c9d4ce;border-radius:18px;padding:60px 30px;text-align:center;color:var(--muted)}
 .empty h3{color:var(--ink);margin-bottom:10px;font-size:22px}
+
+/* Ad slots */
 .ad-slot{border:2px dashed #c9d4ce;background:#fbfdfc;border-radius:var(--radius);text-align:center;padding:24px;color:#9aa7a0;font-size:12px;letter-spacing:2px;text-transform:uppercase;margin:40px auto;max-width:var(--max)}
 .ad-note{font-size:11px;letter-spacing:1px;opacity:.7}
+
+/* Content pages */
 .page-block{background:#fff;border:1px solid var(--line);border-radius:18px;padding:46px;box-shadow:0 6px 24px rgba(0,0,0,.04)}
 .page-block h2{font-size:29px;font-weight:800;margin-bottom:18px}
 .page-block h2::after{content:"";display:block;width:56px;height:4px;background:linear-gradient(90deg,var(--green),var(--orange));border-radius:4px;margin-top:12px}
@@ -107,6 +124,8 @@ table.spec td:first-child{font-weight:700}
 .page-block ul{color:var(--muted);margin:0 0 15px 22px}
 .contact-card{display:flex;gap:18px;align-items:center;background:var(--green-light);border-radius:var(--radius);padding:24px;margin-top:22px}
 .contact-avatar{width:58px;height:58px;border-radius:50%;background:var(--green);color:#fff;display:flex;align-items:center;justify-content:center;font-size:24px;font-weight:800;flex-shrink:0}
+
+/* Footer */
 footer{background:#232a26;color:#c8d2cc;padding:58px 0 28px;margin-top:40px}
 .foot-grid{display:grid;grid-template-columns:1.4fr 1fr 1fr;gap:40px;margin-bottom:42px}
 .foot-brand img{height:50px;width:auto;background:#fff;border-radius:12px;padding:5px 9px;margin-bottom:14px}
@@ -118,6 +137,7 @@ footer ul a{font-size:14.5px}
 footer ul a:hover{color:var(--orange)}
 .foot-bottom{border-top:1px solid #39423d;padding-top:24px;display:flex;justify-content:space-between;flex-wrap:wrap;gap:10px;font-size:13.5px}
 .credit{color:var(--orange)}
+
 @media(max-width:900px){.grid{grid-template-columns:repeat(2,1fr)}.foot-grid{grid-template-columns:1fr 1fr}.page-block{padding:30px 22px}}
 @media(max-width:640px){
   nav.main-nav{display:none;position:absolute;top:74px;left:0;right:0;background:#fff;flex-direction:column;align-items:stretch;padding:10px 18px 18px;border-bottom:1px solid var(--line);box-shadow:0 18px 30px rgba(0,0,0,.08)}
@@ -130,3 +150,17 @@ footer ul a:hover{color:var(--orange)}
   .foot-grid{grid-template-columns:1fr}
   .q-card{padding:24px 18px}
 }
+.exam-logo{width:84px;height:84px;object-fit:contain;margin-bottom:14px;background:#fff;border-radius:14px;padding:8px;box-shadow:0 2px 10px rgba(0,0,0,.08)}
+
+/* ---------- Practice pagination (20 MCQs per page) ---------- */
+.score-strip{display:flex;gap:26px;justify-content:center;flex-wrap:wrap;background:#fff;border:1px solid var(--line);border-radius:14px;padding:14px 20px;margin-bottom:22px;font-size:15px;color:var(--muted);box-shadow:0 4px 16px rgba(0,0,0,.04)}
+.score-strip b{color:var(--green)}
+.pager{display:flex;flex-wrap:wrap;gap:8px;justify-content:center;margin:34px 0 16px}
+.pg-btn{min-width:48px;height:48px;padding:0 14px;border:1px solid var(--line);background:#f1f2f1;border-radius:8px;font-size:16px;font-weight:600;color:var(--ink);cursor:pointer;transition:.15s}
+.pg-btn:hover:not(:disabled):not(.active){border-color:var(--green);color:var(--green)}
+.pg-btn.active{background:var(--green);border-color:var(--green);color:#fff}
+.pg-btn:disabled{opacity:.35;cursor:default}
+.pg-dots{align-self:center;padding:0 6px;color:var(--muted);font-size:18px}
+.pg-goto{display:flex;gap:10px;justify-content:center;align-items:center;margin-bottom:8px}
+.pg-goto input{width:230px;max-width:60vw;padding:12px 16px;border:1px solid var(--line);border-radius:10px;font-size:15px;font-family:inherit}
+.pg-goto input:focus{outline:none;border-color:var(--green)}
