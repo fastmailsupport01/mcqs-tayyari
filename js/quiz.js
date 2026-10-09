@@ -12,22 +12,48 @@
 
   /* ---------- fetch MCQs ---------- */
   function fetchMCQs(opts, cb){
-    // opts: {subject (slug) | paperId, exam (slug), limit}
+    // opts: {subject (slug) | paperId, exam (slug), limit} — one request, or
+    //        {all: true} — fetches EVERY matching row in 1000-row chunks so
+    //        large subjects (2000+ MCQs) are fully available, not capped.
     // exam filter: MCQs tagged for that exam + untagged (shared) ones.
     // Falls back gracefully if the exam_body column doesn't exist yet.
     if(!MT.isConfigured()){ cb([]); return; }
     var cols = "id,question,option_a,option_b,option_c,option_d,correct_option,explanation,subject_slug,paper_id";
-    function run(withExam){
+    var CHUNK = 1000;
+    function buildQuery(withExam, from, to){
       var q = MT.supabase().from("mcqs").select(cols);
       if(opts.subject) q = q.eq("subject_slug", opts.subject);
       if(opts.paperId) q = q.eq("paper_id", opts.paperId);
       if(withExam && opts.exam) q = q.or("exam_body.eq."+opts.exam+",exam_body.is.null");
-      q.limit(opts.limit || 200).then(function(res){
-        if(res.error){ if(withExam && opts.exam){ run(false); return; } cb([]); return; }
-        cb(res.data || []);
-      }).catch(function(){ if(withExam && opts.exam){ run(false); return; } cb([]); });
+      q = q.order("id", {ascending: true});
+      if(typeof from === "number") q = q.range(from, to);
+      else q = q.limit(opts.limit || 200);
+      return q;
     }
-    run(true);
+    function single(withExam){
+      buildQuery(withExam).then(function(res){
+        if(res.error){ if(withExam && opts.exam){ single(false); return; } cb([]); return; }
+        cb(res.data || []);
+      }).catch(function(){ if(withExam && opts.exam){ single(false); return; } cb([]); });
+    }
+    function fetchAll(withExam){
+      // Chunked: keeps requesting until a chunk comes back short.
+      var all = [], offset = 0;
+      (function next(){
+        buildQuery(withExam, offset, offset + CHUNK - 1).then(function(res){
+          if(res.error){
+            if(withExam && opts.exam){ fetchAll(false); return; }
+            cb(all);
+            return;
+          }
+          var rows = res.data || [];
+          all = all.concat(rows);
+          if(rows.length === CHUNK){ offset += CHUNK; next(); }
+          else cb(all);
+        }).catch(function(){ cb(all); });
+      })();
+    }
+    if(opts.all) fetchAll(true); else single(true);
   }
 
   function toOptions(m){
@@ -49,7 +75,9 @@
     var titleEl = el("quizTitle");
     if(titleEl) titleEl.textContent = (subjMeta ? subjMeta.name : "Practice") + (examMeta ? " (" + examMeta.name + ")" : "") + " — Practice";
 
-    fetchMCQs({subject: subject, exam: examSlug, limit: 400}, function(data){
+    var box0 = el("quizBox");
+    if(box0) box0.innerHTML = '<div class="empty"><h3>Loading questions…</h3><p>Fetching the full question bank for this subject.</p></div>';
+    fetchMCQs({subject: subject, exam: examSlug, all: true}, function(data){
       if(!data.length){
         showEmpty("quizBox", "MCQs coming soon",
           "Questions for this subject are being added. Check back soon — new sets drop regularly.");
@@ -195,7 +223,9 @@
       + '<p style="color:var(--muted);max-width:520px;margin:0 auto 24px">'+sim.q+' questions pulled across all subjects. Wrong answers cost '+sim.neg+' marks.</p>'
       + '<button class="btn btn-orange" id="beginExam">Start Exam</button></div>';
     el("beginExam").addEventListener("click", function(){
-      fetchMCQs({exam: ex.slug, limit: 400}, function(data){
+      var btn = el("beginExam");
+      btn.disabled = true; btn.textContent = "Loading questions…";
+      fetchMCQs({exam: ex.slug, all: true}, function(data){
         if(data.length < 20){
           showEmpty("examBox", "Exam pool building",
             "We need more questions before the simulator can run a full exam. Question sets are being added — check back soon.");
