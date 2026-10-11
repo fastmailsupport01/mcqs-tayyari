@@ -127,7 +127,7 @@
      sim:{q:100,min:90,neg:0.25,pass:40},seoTitle:"OTS Test Preparation 2026 | Open Testing Service MCQs & Past Papers",
      seoDesc:"Free OTS test preparation — Open Testing Service MCQs, solved past papers and recruitment test practice.",
      h1:"OTS Test Preparation 2026"},
-    {slug:"cts", name:"CTS", full:"Central Testing Service", icon:"🗃️", tag:"", desc:"Screening & recruitment tests across departments.", logo:"",
+    {slug:"cts", name:"CTS", full:"Central Testing Service", icon:"🗃️", tag:"", desc:"Screening & recruitment tests across departments.", logo:"img/exams/logos/logo-cts.png",
      sim:{q:100,min:90,neg:0.25,pass:40},seoTitle:"CTS Test Preparation 2026 | Central Testing Service MCQs & Past Papers",
      seoDesc:"Free CTS test preparation — Central Testing Service MCQs, solved past papers and screening test practice.",
      h1:"CTS Test Preparation 2026"}
