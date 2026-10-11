@@ -36,13 +36,20 @@
 </header>
 
 <div class="hero">
+  <span class="orb orb-a"></span><span class="orb orb-b"></span><span class="orb orb-c"></span>
   <div class="wrap hero-inner">
-    <span class="hero-badge">Pakistan Test Preparation Platform</span>
-    <h1>Prepare Smarter for Every Competitive Exam</h1>
+    <span class="hero-badge"><span class="dot"></span>Pakistan Test Preparation Platform</span>
+    <h1>Prepare <span class="hl">Smarter</span> for Every Competitive Exam</h1>
     <p>PPSC, FPSC, CSS, PMS, NTS & more — subject-wise MCQs, solved past papers, and real exam simulators. Free forever, no login needed.</p>
     <div class="btn-row">
       <a class="btn btn-orange" href="exam.html">Start Exam Simulator</a>
       <a class="btn btn-ghost" href="subjects.html">Browse Subjects</a>
+    </div>
+    <div class="hero-stats">
+      <div class="hero-stat"><b data-count="5988">0</b><span>MCQs</span></div>
+      <div class="hero-stat"><b data-count="10">0</b><span>Subjects</span></div>
+      <div class="hero-stat"><b data-count="11">0</b><span>Exams</span></div>
+      <div class="hero-stat"><b>100%</b><span>Free</span></div>
     </div>
   </div>
 </div>
@@ -120,6 +127,28 @@
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 <script src="js/config.js"></script>
 <script src="js/app.js"></script>
+<script>
+// Hero stat count-up (live numbers)
+(function(){
+  var els = document.querySelectorAll('.hero-stat b[data-count]');
+  if(!('IntersectionObserver' in window)){ els.forEach(function(e){ e.textContent = (+e.dataset.count).toLocaleString('en-US') + '+'; }); return; }
+  var io = new IntersectionObserver(function(entries){
+    entries.forEach(function(en){
+      if(!en.isIntersecting) return;
+      io.unobserve(en.target);
+      var el = en.target, target = +el.dataset.count, t0 = null, dur = 1400;
+      function tick(t){
+        if(!t0) t0 = t;
+        var p = Math.min((t - t0) / dur, 1), ease = 1 - Math.pow(1 - p, 3);
+        el.textContent = Math.round(target * ease).toLocaleString('en-US') + (p === 1 ? '+' : '');
+        if(p < 1) requestAnimationFrame(tick);
+      }
+      requestAnimationFrame(tick);
+    });
+  }, {threshold:.4});
+  els.forEach(function(e){ io.observe(e); });
+})();
+</script>
 <script>
 (function(){
   var grid = document.getElementById("homeSubjects");
