@@ -222,7 +222,7 @@
       + '<div class="result-meta"><div><b>'+sim.q+'</b>MCQs</div><div><b>'+sim.min+'</b>Minutes</div><div><b>\u2212'+sim.neg+'</b>Negative marking</div><div><b>'+sim.pass+'%</b>Pass marks</div></div>'
       + '<div class="mode-cards">'
       + '<div class="mode-card"><h3>\uD83D\uDDA5\uFE0F Computer-Based Practice Mode</h3>'
-      + '<p>Timed on-screen test like modern CBT exams — countdown timer, question palette, mark-for-review, auto-submit.</p>'
+      + '<p>Timed on-screen test — instant green/red feedback with explanations, countdown timer, auto-submit.</p>'
       + '<button class="btn btn-green" id="beginCBT">Start Computer Test</button></div>'
       + '<div class="mode-card"><h3>\uD83D\uDCC4 Original Paper Mode</h3>'
       + '<p>Printable question paper + OMR-style answer sheet, exactly like the real paper test. Download as PDF with MCQs Tayyari branding.</p>'
@@ -250,25 +250,18 @@
     var box = el("examBox");
     var examName = ex.name || "PPSC";
     var html = '<div class="cbt"><div class="cbt-instr">'
-      + '<h2>'+MT.esc(examName)+' — Computer-Based Practice Mode</h2>'
+      + '<h2>'+MT.esc(examName)+' — Practice Test</h2>'
       + '<div class="sub">Read the instructions carefully before starting the test.</div>'
       + '<h3>Test Pattern</h3><ul>'
       + '<li>Total questions: <b>'+questions.length+'</b> &nbsp;|&nbsp; Total marks: <b>'+questions.length+'</b> &nbsp;|&nbsp; Time: <b>'+sim.min+' minutes</b></li>'
       + '<li>Each correct answer: <b>+1 mark</b>. Each wrong answer: <b>\u2212'+sim.neg+' marks</b>. Skipped questions score <b>0</b>.</li>'
       + '<li>Qualifying score: <b>'+sim.pass+'%</b>.</li>'
       + '<li>The countdown timer runs at the top-right. The test <b>auto-submits</b> when time runs out.</li>'
-      + '</ul><h3>How to Answer</h3><ul>'
-      + '<li>Click an option to select it, then click <b>Save &amp; Next</b> to save your answer and move ahead.</li>'
-      + '<li><b>Mark for Review &amp; Next</b> flags a question to revisit later — with or without saving an answer.</li>'
-      + '<li><b>Clear Response</b> removes your saved answer for the current question.</li>'
-      + '<li>Jump to any question by clicking its number in the palette on the right.</li>'
-      + '</ul><h3>Question Palette Legend</h3><div class="legend-row">'
-      + '<span class="li"><span class="cbt-dot a"></span>Answered</span>'
-      + '<span class="li"><span class="cbt-dot na"></span>Not Answered</span>'
-      + '<span class="li"><span class="cbt-dot nv"></span>Not Visited</span>'
-      + '<span class="li"><span class="cbt-dot m"></span>Marked for Review</span>'
-      + '<span class="li"><span class="cbt-dot am"></span>Answered &amp; Marked</span>'
-      + '</div>'
+      + '</ul><h3>How It Works</h3><ul>'
+      + '<li>Click an option — you get <b>instant feedback</b>: correct answers turn <b style="color:#2f9e5f">green \u2713</b>, wrong ones turn <b style="color:#e05252">red \u2717</b>, with an explanation.</li>'
+      + '<li>Move with <b>Back</b> / <b>Next</b>. Your answers stay saved as you move.</li>'
+      + '<li>Submit anytime with the <b>Submit Test</b> button on the top bar.</li>'
+      + '</ul>'
       + '<label class="cbt-agree"><input type="checkbox" id="cbtAgree"> <span>I have read all the instructions and the marking scheme above.</span></label>'
       + '<div><button class="cbt-start" id="cbtStart" disabled>Start Test</button></div>'
       + '<div class="cbt-disc">Practice interface inspired by standard computer-based tests. It is not the official screen of any testing authority.</div>'
@@ -278,6 +271,7 @@
     el("cbtStart").addEventListener("click", function(){ renderCBT(questions, sim, ex); });
     window.scrollTo({top:0});
   }
+
 
   /* ---------- CBT: test screen ---------- */
   function cbtOverlay(html){
@@ -299,67 +293,58 @@
     var examSlug = ex.slug || "ppsc";
     var total = questions.length;
     var timeLeft = sim.min * 60;
-    var timerId = null, idx = 0, pending = null;
-    var st = [], i;
-    for(i=0;i<total;i++) st.push({v:false, a:null, m:false});
+    var timerId = null, idx = 0;
+    var answers = new Array(total).fill(null);
     var qopts = questions.map(function(m){ return toOptions(m); });
 
-    function status(k){
-      var s = st[k];
-      if(s.m && s.a) return "am";
-      if(s.m) return "m";
-      if(s.a) return "a";
-      if(s.v) return "na";
-      return "nv";
-    }
-    function counts(){
-      var c = {a:0, na:0, nv:0, m:0, am:0};
-      for(var k=0;k<total;k++) c[status(k)]++;
-      return c;
-    }
     function fmt(s){
       var m = Math.floor(s/60), ss = s%60;
       return (m<10?"0":"")+m+":"+(ss<10?"0":"")+ss;
     }
-    function legendHtml(){
-      return '<div class="cbt-legend">'
-        + '<div class="li"><span class="cbt-dot a"></span>Answered</div>'
-        + '<div class="li"><span class="cbt-dot na"></span>Not Answered</div>'
-        + '<div class="li"><span class="cbt-dot nv"></span>Not Visited</div>'
-        + '<div class="li"><span class="cbt-dot m"></span>Marked for Review</div>'
-        + '<div class="li"><span class="cbt-dot am"></span>Answered &amp; Marked</div></div>';
+    function attempted(){
+      var n = 0;
+      for(var k=0;k<total;k++) if(answers[k] !== null) n++;
+      return n;
     }
 
     function render(){
-      st[idx].v = true;
-      if(pending === null && st[idx].a) pending = st[idx].a;
-      var m = questions[idx];
-      var html = '<div class="cbt"><div class="cbt-top"><div class="cbt-brand">'
+      var m = questions[idx], a = answers[idx];
+      var done = attempted();
+      var html = '<div class="cbt">'
+        + '<div class="cbt-top"><div class="cbt-brand">'
         + (ex.logo ? '<img src="'+ex.logo+'" alt="">' : '')
         + '<span>'+MT.esc(examName)+'</span></div>'
-        + '<span class="cbt-mode">COMPUTER-BASED PRACTICE MODE</span><span class="spacer"></span>'
-        + '<span class="cbt-candidate">Candidate: Guest</span>'
-        + '<button class="cbt-btn cbt-pal-toggle" id="palToggle">Questions</button>'
-        + '<button class="cbt-btn" id="qpBtn">Question Paper</button>'
-        + '<button class="cbt-btn" id="insBtn">Instructions</button>'
+        + '<span class="cbt-mode">PRACTICE TEST</span><span class="spacer"></span>'
+        + '<span class="cbt-qcount">Question '+(idx+1)+' of '+total+'</span>'
         + '<span class="cbt-timer'+(timeLeft<300?' danger':'')+'" id="cbtTimer">'+fmt(Math.max(0,timeLeft))+'</span>'
         + '<button class="cbt-btn submit" id="submitBtn">Submit Test</button></div>'
-        + '<div class="cbt-main"><div class="cbt-qarea">'
-        + '<div class="cbt-qhead"><span class="cbt-qno">Question '+(idx+1)+' of '+total+'</span>'
+        + '<div class="cbt-progress"><i style="width:'+Math.round(done/total*100)+'%"></i></div>'
+        + '<div class="cbt-main solo"><div class="cbt-qarea">'
+        + '<div class="cbt-qhead"><span class="cbt-qno">Question '+(idx+1)+'</span>'
         + '<span class="cbt-marks">Marks: <b>+1</b> <s>\u2212'+sim.neg+'</s></span></div>'
         + '<div class="cbt-qtext">'+MT.esc(m.question)+'</div><div class="cbt-opts">';
       qopts[idx].forEach(function(o){
-        html += '<button class="cbt-opt'+(pending===o.k?' sel':'')+'" data-k="'+o.k+'"><span class="key">'+o.k+'</span><span>'+MT.esc(o.t)+'</span></button>';
+        var cls = "cbt-opt", tick = "";
+        if(a !== null){
+          cls += " locked";
+          if(o.k === m.correct_option){ cls += " correct"; tick = '<span class="tick">\u2713</span>'; }
+          else if(o.k === a){ cls += " wrong"; tick = '<span class="tick">\u2717</span>'; }
+          else { cls += " dim"; }
+        }
+        html += '<button class="'+cls+'" data-k="'+o.k+'"><span class="key">'+o.k+'</span><span>'+MT.esc(o.t)+'</span>'+tick+'</button>';
       });
-      html += '</div><div class="cbt-hint">Select an option, then click <b>Save &amp; Next</b>. Moving to another question without saving discards your selection.</div>'
-        + '<div class="cbt-actions">'
-        + '<button class="cbt-act mark" id="markBtn">Mark for Review &amp; Next</button>'
-        + '<button class="cbt-act clear" id="clearBtn">Clear Response</button>'
-        + '<button class="cbt-act save" id="saveBtn">'+(idx===total-1 ? 'Save' : 'Save &amp; Next')+'</button>'
-        + '</div></div><aside class="cbt-pal" id="cbtPal"><h4>Question Palette</h4><div class="cbt-grid">';
-      for(var k=0;k<total;k++)
-        html += '<button class="cbt-pq '+status(k)+(k===idx?' cur':'')+'" data-i="'+k+'">'+(k+1)+'</button>';
-      html += '</div>'+legendHtml()+'</aside></div></div>';
+      html += '</div>';
+      if(a !== null){
+        html += '<div class="cbt-explain"><strong>Explanation:</strong> '
+          + MT.esc(m.explanation || ("Correct answer is option " + m.correct_option + ".")) + '</div>';
+      }
+      html += '<div class="cbt-actions">'
+        + '<button class="cbt-act clear" id="backBtn"'+(idx===0 ? ' disabled style="opacity:.4;cursor:default"' : '')+'>\u2190 Back</button>'
+        + '<span class="cbt-att">Answered: <b>'+done+' / '+total+'</b></span>'
+        + (idx < total-1
+            ? '<button class="cbt-act save" id="nextBtn">Next \u2192</button>'
+            : '<button class="cbt-act save" id="nextBtn">See Result \u2192</button>')
+        + '</div></div></div></div>';
       box.innerHTML = html;
       if(!timerId){
         timerId = setInterval(function(){
@@ -377,79 +362,34 @@
     }
 
     function bind(){
-      box.querySelectorAll(".cbt-opt").forEach(function(b){
-        b.addEventListener("click", function(){
-          pending = b.getAttribute("data-k");
-          box.querySelectorAll(".cbt-opt").forEach(function(x){ x.classList.remove("sel"); });
-          b.classList.add("sel");
+      var m = questions[idx];
+      if(answers[idx] === null){
+        box.querySelectorAll(".cbt-opt").forEach(function(b){
+          b.addEventListener("click", function(){
+            if(answers[idx] !== null) return;
+            answers[idx] = b.getAttribute("data-k");
+            render();
+          });
         });
+      }
+      var bb = el("backBtn");
+      if(bb && idx > 0) bb.addEventListener("click", function(){ idx--; render(); });
+      el("nextBtn").addEventListener("click", function(){
+        if(idx < total-1){ idx++; render(); }
+        else { showSubmitDialog(); }
       });
-      el("saveBtn").addEventListener("click", function(){
-        if(pending) st[idx].a = pending;
-        pending = null;
-        if(idx < total-1) idx++;
-        render();
-      });
-      el("markBtn").addEventListener("click", function(){
-        st[idx].m = true;
-        if(pending) st[idx].a = pending;
-        pending = null;
-        if(idx < total-1) idx++;
-        render();
-      });
-      el("clearBtn").addEventListener("click", function(){
-        pending = null; st[idx].a = null;
-        render();
-      });
-      box.querySelectorAll(".cbt-pq").forEach(function(b){
-        b.addEventListener("click", function(){
-          var n = parseInt(b.getAttribute("data-i"), 10);
-          if(n !== idx){ idx = n; pending = null; render(); }
-        });
-      });
-      var pt = el("palToggle");
-      if(pt) pt.addEventListener("click", function(){ el("cbtPal").classList.toggle("open"); });
-      el("qpBtn").addEventListener("click", showPaperDialog);
-      el("insBtn").addEventListener("click", showInstrDialog);
       el("submitBtn").addEventListener("click", showSubmitDialog);
     }
 
-    function showInstrDialog(){
-      cbtOverlay('<h3>Instructions</h3><ul style="font-size:14.5px;line-height:1.7;padding-left:20px;margin:0">'
-        + '<li>'+total+' questions, '+sim.min+' minutes. +1 for correct, \u2212'+sim.neg+' for wrong, 0 for skipped.</li>'
-        + '<li>Select an option, then <b>Save &amp; Next</b>. Unsaved selections are discarded when you move away.</li>'
-        + '<li>Use <b>Mark for Review &amp; Next</b> to flag questions for later.</li>'
-        + '<li>The test auto-submits when the timer reaches zero. The timer keeps running while this dialog is open.</li>'
-        + '</ul><div class="cbt-dlg-btns"><button class="cbt-no" id="dlgClose">Close</button></div>');
-      el("dlgClose").addEventListener("click", cbtCloseOverlay);
-    }
-
-    function showPaperDialog(){
-      var h = '<h3>Question Paper — your responses</h3><div class="cbt-qp-grid">';
-      for(var k=0;k<total;k++){
-        var a = st[k].a;
-        h += '<div data-i="'+k+'"><b>Q'+(k+1)+'.</b> '+(a ? 'Option '+a : '<i>not answered</i>')+(st[k].m ? ' \u2691' : '')+'</div>';
-      }
-      h += '</div><div class="cbt-dlg-btns"><button class="cbt-no" id="dlgClose">Close</button></div>';
-      cbtOverlay(h);
-      el("dlgClose").addEventListener("click", cbtCloseOverlay);
-      document.querySelectorAll("#cbtOverlay .cbt-qp-grid div").forEach(function(d){
-        d.addEventListener("click", function(){
-          idx = parseInt(d.getAttribute("data-i"), 10);
-          pending = null; cbtCloseOverlay(); render();
-        });
-      });
-    }
-
     function showSubmitDialog(){
-      var c = counts();
-      cbtOverlay('<h3>Submit Test?</h3><p style="font-size:14.5px;color:#42506a">Review your attempt summary before submitting.</p>'
+      var done = attempted(), left = total - done;
+      cbtOverlay('<h3>Submit Test?</h3>'
         + '<div class="cbt-sum">'
-        + '<div><span class="cbt-dot a"></span>Answered: <b>'+c.a+'</b></div>'
-        + '<div><span class="cbt-dot na"></span>Not Answered: <b>'+c.na+'</b></div>'
-        + '<div><span class="cbt-dot m"></span>Marked for Review: <b>'+(c.m + c.am)+'</b></div>'
-        + '<div><span class="cbt-dot nv"></span>Not Visited: <b>'+c.nv+'</b></div>'
-        + '</div><div class="cbt-dlg-btns">'
+        + '<div><span class="cbt-dot a"></span>Answered: <b>'+done+'</b></div>'
+        + '<div><span class="cbt-dot na"></span>Unanswered: <b>'+left+'</b></div>'
+        + '</div>'
+        + '<p style="font-size:14px;color:#42506a">Unanswered questions score 0. Wrong answers lose \u2212'+sim.neg+' each.</p>'
+        + '<div class="cbt-dlg-btns">'
         + '<button class="cbt-no" id="dlgNo">Keep Solving</button>'
         + '<button class="cbt-yes" id="dlgYes">Yes, Submit</button></div>');
       el("dlgNo").addEventListener("click", cbtCloseOverlay);
@@ -459,11 +399,10 @@
     function finish(auto){
       if(timerId){ clearInterval(timerId); timerId = null; }
       cbtCloseOverlay();
-      var correct = 0, wrong = 0, skipped = 0, marked = 0;
+      var correct = 0, wrong = 0, skipped = 0;
       var review = [];
       questions.forEach(function(m, k){
-        var a = st[k].a;
-        if(st[k].m) marked++;
+        var a = answers[k];
         if(a === null) skipped++;
         else if(a === m.correct_option) correct++;
         else wrong++;
@@ -477,10 +416,9 @@
         + '<div class="cbt-score">'+score.toFixed(2)+' / '+total+'</div>'
         + '<div style="color:#42506a;font-size:14.5px">'+pct+'% — qualifying score is '+sim.pass+'%</div>'
         + '<div class="cbt-break">'
-        + '<div><b style="color:var(--cbt-green)">'+correct+'</b>Correct (+'+correct+')</div>'
-        + '<div><b style="color:var(--cbt-red)">'+wrong+'</b>Wrong (\u2212'+(wrong*sim.neg).toFixed(2)+')</div>'
+        + '<div><b style="color:#2f9e5f">'+correct+'</b>Correct (+'+correct+')</div>'
+        + '<div><b style="color:#e05252">'+wrong+'</b>Wrong (\u2212'+(wrong*sim.neg).toFixed(2)+')</div>'
         + '<div><b>'+skipped+'</b>Skipped</div>'
-        + '<div><b>'+marked+'</b>Marked for Review</div>'
         + '</div>'
         + '<div class="btn-row" style="justify-content:center;display:flex;gap:10px;flex-wrap:wrap">'
         + '<a class="btn btn-orange" href="exam.html?exam='+examSlug+'">Retake Exam</a>'
