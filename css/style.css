@@ -176,6 +176,7 @@ table.spec td:first-child{font-weight:700}
 .page-block ul{color:var(--muted);margin:0 0 15px 22px}
 .contact-card{display:flex;gap:18px;align-items:center;background:linear-gradient(135deg,var(--green-light),#fff);border:1px solid #cde7d8;border-radius:var(--radius);padding:26px;margin-top:24px;box-shadow:0 10px 24px -12px rgba(8,117,64,.35)}
 .contact-avatar{width:60px;height:60px;border-radius:50%;background:linear-gradient(145deg,#12a35c,var(--green-dark));color:#fff;display:flex;align-items:center;justify-content:center;font-size:24px;font-weight:800;flex-shrink:0;box-shadow:0 8px 18px -6px rgba(8,117,64,.6),inset 0 2px 3px rgba(255,255,255,.4)}
+.contact-avatar img{width:100%;height:100%;object-fit:cover;border-radius:50%;background:#fff;display:block}
 
 /* ---------- Footer ---------- */
 footer{background:linear-gradient(180deg,#262e29,#1b211d);color:#c8d2cc;padding:64px 0 28px;margin-top:48px;position:relative}
@@ -260,3 +261,63 @@ footer ul a:hover{color:var(--orange);transform:translateX(4px)}
 .article-cta h3{color:#fff;margin:0 0 .5rem}
 .article-cta p{opacity:.92;margin:0 0 1.1rem}
 .article-cta .btn{background:#fff;color:var(--green-deep)}
+
+/* ==========================================================================
+   Past Papers "real template" (added 2026-10-12)
+   ========================================================================== */
+.pp-filters{background:#fff;border:1px solid var(--line);border-radius:var(--radius);padding:22px;box-shadow:var(--shadow-card);margin-bottom:28px}
+.pp-filter-row{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin-bottom:14px}
+.pp-filter-row:last-child{margin-bottom:0}
+.pp-filter-label{font-weight:800;color:var(--green-dark);min-width:90px;font-size:14px}
+.pp-chips{display:flex;flex-wrap:wrap;gap:8px}
+.pp-chip{border:2px solid var(--line);background:#fff;border-radius:100px;padding:8px 16px;font-weight:700;font-size:14px;cursor:pointer;color:var(--ink);transition:all .15s}
+.pp-chip:hover{border-color:var(--green)}
+.pp-chip.active{background:var(--green);border-color:var(--green-deep);color:#fff}
+.pp-filter-row select,.pp-filter-row input[type="search"]{padding:10px 14px;border:2px solid var(--line);border-radius:12px;font-size:15px;font-family:inherit;background:#fff;color:var(--ink)}
+.pp-filter-row select:focus,.pp-filter-row input[type="search"]:focus{outline:none;border-color:var(--green)}
+.pp-count{font-size:14px;color:var(--muted);font-weight:600}
+.pp-card .pp-top{display:flex;gap:14px;align-items:center;margin-bottom:14px}
+.pp-card .pp-top img{width:56px;height:56px;object-fit:contain;flex:none}
+.pp-card h3{margin:0 0 4px;font-size:18px}
+.pp-card .pp-bodyname{font-size:12.5px;font-weight:700;color:var(--muted);text-transform:uppercase;letter-spacing:.4px}
+.pp-meta{display:flex;flex-wrap:wrap;gap:8px 16px;font-size:13.5px;color:var(--muted);margin:12px 0}
+.pp-meta b{color:var(--ink)}
+.badge.pp-sourced{background:#e6f7ec;color:#0a6b34;border:1px solid #9ed9b4}
+.badge.pp-community{background:#fff3e6;color:#b3540a;border:1px solid #f2c189}
+.badge.pp-practice{background:#e9eefc;color:#27408b;border:1px solid #aebbeb}
+
+/* Real-paper header block */
+.paper-doc{background:#fff;border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow-card);overflow:hidden;margin-bottom:28px}
+.paper-doc-head{text-align:center;padding:34px 24px 24px;border-bottom:3px double var(--green-deep);position:relative}
+.paper-doc-head img{width:72px;height:72px;object-fit:contain;margin-bottom:10px}
+.paper-doc-head h1{font-size:clamp(20px,3vw,28px);margin:0 0 6px;color:var(--green-dark);letter-spacing:.5px}
+.paper-doc-head h2{font-size:clamp(16px,2.4vw,21px);margin:0 0 6px}
+.paper-doc-head .paper-held{font-size:15px;font-weight:700;color:var(--orange)}
+.paper-doc-meta{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px 18px;padding:20px 28px;border-bottom:1px solid var(--line);font-size:14.5px}
+.paper-doc-meta .k{font-size:12px;text-transform:uppercase;letter-spacing:.5px;color:var(--muted);font-weight:700}
+.paper-doc-meta .v{font-weight:700;color:var(--ink)}
+.paper-doc-badge{padding:16px 28px;border-bottom:1px solid var(--line);display:flex;gap:12px;align-items:center;flex-wrap:wrap}
+.paper-doc-badge .why{font-size:13px;color:var(--muted)}
+.paper-instructions{padding:20px 28px;border-bottom:1px solid var(--line);background:var(--bg-soft)}
+.paper-instructions h3{margin:0 0 10px;font-size:16px}
+.paper-instructions .std-note{font-size:12.5px;color:var(--muted);font-style:italic;margin-bottom:10px}
+.paper-instructions ol{margin:0;padding-left:22px;font-size:14.5px;color:#33415c}
+.paper-instructions li{margin-bottom:6px}
+.paper-modes{display:flex;gap:12px;flex-wrap:wrap;padding:20px 28px;border-bottom:1px solid var(--line)}
+.paper-qs{padding:8px 28px 28px}
+
+/* Print: clean paper + light watermark */
+.pp-watermark{display:none}
+.paper-print-foot{display:none}
+@media print{
+  body > header.site,body > footer,.no-print,.ad-slot{display:none !important}
+  #paperBox .paper-doc{display:none !important}
+  #printSheet{display:block !important}
+  .pp-watermark{display:block !important;position:fixed;top:45%;left:50%;transform:translate(-50%,-50%) rotate(-28deg);font-size:34px;font-weight:800;color:rgba(8,117,64,.07);white-space:nowrap;pointer-events:none;z-index:0}
+  .paper-print-foot{display:block !important;text-align:center;font-size:12px;color:#6b7a90;border-top:1px solid #ccc;padding:10px 0;margin-top:20px}
+  #printSheet .q-card{break-inside:avoid;box-shadow:none}
+}
+@media (max-width:640px){
+  .pp-filter-label{min-width:100%}
+  .paper-doc-meta{grid-template-columns:1fr 1fr}
+}
