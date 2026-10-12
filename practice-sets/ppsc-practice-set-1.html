@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PPSC Practice Set 1 | 100 MCQs, 90 Minutes | MCQs Tayyari</title>
+<meta name="description" content="PPSC practice set 1: 100 MCQs on the standard PPSC one-paper pattern (100 marks, 90 minutes, -0.25 negative marking). Free online practice, no login required.">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://mcqstayyari.online/practice-sets/ppsc-practice-set-1.html">
+<link rel="icon" href="../favicon.png">
+<link rel="stylesheet" href="../css/style.css">
+<style>
+.paper-head{background:#fff;border:1px solid #e3e8f0;border-radius:14px;padding:28px 22px;text-align:center;margin:26px 0 18px}
+.paper-head img.ppsc-logo{width:92px;height:92px;object-fit:contain}
+.paper-head h1{font-size:26px;margin:10px 0 4px;color:#1c2b3a}
+.paper-body{font-size:15px;color:#5a6b85;letter-spacing:1px;text-transform:uppercase}
+.badge{display:inline-block;margin:12px 0 4px;padding:6px 18px;border-radius:999px;font-weight:700;font-size:14px;letter-spacing:1px;background:#f76b12;color:#fff}
+.paper-meta{margin:10px 0 4px;font-size:15px;color:#33475f}
+.paper-note{font-size:13px;color:#8a97a8;margin-top:8px}
+.q-card{background:#fff;border:1px solid #e3e8f0;border-radius:14px;padding:22px;margin:0 0 18px}
+.q-num{font-size:13px;color:#8a97a8;margin-bottom:8px}
+.q-text{font-size:18px;font-weight:600;color:#1c2b3a;margin-bottom:16px;line-height:1.6}
+.opts{display:grid;gap:10px}
+.opt{text-align:left;padding:12px 14px;border:2px solid #e3e8f0;border-radius:10px;background:#fff;font-size:16px;cursor:pointer;color:#1c2b3a;line-height:1.5}
+.opt:hover:not(:disabled){border-color:#087540}
+.opt:disabled{cursor:default}
+.opt.correct{border-color:#087540;background:#e9f7ef;font-weight:700}
+.opt.wrong{border-color:#d33;background:#fdecec;font-weight:700}
+.feedback{margin-top:14px;padding:10px 14px;border-radius:10px;font-weight:700}
+.fb-ok{background:#e9f7ef;color:#087540}
+.fb-bad{background:#fdecec;color:#b02a2a}
+.expl{margin-top:10px;padding:10px 14px;background:#f4f7fb;border-radius:10px;font-size:15px;color:#33475f;line-height:1.6}
+.q-nav{display:flex;gap:10px;align-items:center;margin:0 0 18px;flex-wrap:wrap}
+.btn-nav{padding:10px 22px;border-radius:10px;border:2px solid #087540;background:#fff;color:#087540;font-weight:700;cursor:pointer;font-size:15px}
+.btn-nav:disabled{opacity:.4;cursor:default}
+.btn-finish{padding:10px 22px;border-radius:10px;border:none;background:#087540;color:#fff;font-weight:700;cursor:pointer;font-size:15px}
+.btn-print{padding:10px 22px;border-radius:10px;border:2px solid #f76b12;background:#fff;color:#f76b12;font-weight:700;cursor:pointer;font-size:15px}
+.progress{height:10px;background:#eef1f6;border-radius:999px;overflow:hidden;margin:0 0 8px}
+.progress>div{height:100%;background:linear-gradient(90deg,#087540,#f76b12);width:0;transition:width .3s}
+.counter{font-size:14px;color:#5a6b85;margin-bottom:14px}
+.palette{display:grid;grid-template-columns:repeat(auto-fill,minmax(38px,1fr));gap:6px;margin:0 0 26px}
+.pal-btn{padding:8px 0;border:1px solid #dfe5ee;border-radius:8px;background:#fff;font-size:13px;cursor:pointer;color:#33475f}
+.pal-btn.current{border-color:#f76b12;font-weight:700;color:#f76b12}
+.pal-btn.ok{background:#e9f7ef;border-color:#087540;color:#087540}
+.pal-btn.bad{background:#fdecec;border-color:#d33;color:#b02a2a}
+.summary{text-align:center;padding:10px 0}
+.score-big{font-size:56px;font-weight:800;color:#087540;margin:10px 0}
+.score-sub{font-size:17px;color:#33475f}
+.score-note{font-size:14px;color:#8a97a8;margin:8px 0 18px}
+.rev{text-align:left;border:1px solid #e3e8f0;border-radius:10px;padding:14px;margin:10px 0;background:#fff}
+.rev-q{font-weight:600;margin-bottom:6px}
+.rev-a{color:#b02a2a;margin-bottom:6px}
+.rev-e{font-size:14px;color:#33475f}
+.watermark-print{display:none}
+@media print{
+  header.site, footer, .q-nav, .palette, .counter, .progress, .no-print{display:none !important}
+  .paper-head{border:none;margin:0 0 10px;padding:0}
+  .q-card{border:none;border-bottom:1px solid #ccc;border-radius:0;padding:10px 0;page-break-inside:avoid}
+  .opt{border:1px solid #999;padding:6px 10px;font-size:13px}
+  .opt.correct,.opt.wrong{background:none !important;border:1px solid #999;font-weight:400}
+  .feedback,.expl{display:none !important}
+  .watermark-print{display:block;position:fixed;top:45%;left:50%;transform:translate(-50%,-50%) rotate(-30deg);font-size:42px;font-weight:800;color:rgba(8,117,64,.10);white-space:nowrap;pointer-events:none;z-index:9999}
+  .print-foot{display:block !important;text-align:center;font-size:12px;color:#5a6b85;margin-top:16px;border-top:1px solid #ccc;padding-top:8px}
+}
+.print-foot{display:none}
+@media (max-width:640px){ .paper-head h1{font-size:21px} .q-text{font-size:16px} .opt{font-size:15px} }
+</style>
+</head>
+<body>
+<header class="site">
+  <div class="wrap header-inner">
+    <a class="brand" href="../"><img src="../logo.png" alt="MCQs Tayyari logo"></a>
+    <nav class="main-nav">
+      <a href="../">Home</a>
+      <a href="../subjects.html">Subjects</a>
+      <a href="../practice-sets.html">Practice Sets</a>
+      <a href="../exam.html" class="nav-cta">Mock Test</a>
+      <a href="../about.html">About</a>
+      <a href="../contact.html">Contact</a>
+    </nav>
+  </div>
+</header>
+<div class="watermark-print" aria-hidden="true">MCQs Tayyari — cos (chishti office sammundri) · +92 3264025618</div>
+<section class="block">
+  <div class="wrap">
+    <div class="paper-head">
+      <img class="ppsc-logo" src="../img/exams/logos/logo-ppsc.png" alt="PPSC logo" loading="lazy">
+      <div class="paper-body">Punjab Public Service Commission</div>
+      <h1>PPSC Practice Set 1</h1>
+      <div><span class="badge">PRACTICE SET</span></div>
+      <div class="paper-meta">100 MCQs &middot; 100 Marks &middot; 90 Minutes &middot; Negative Marking &minus;0.25 <span style="color:#8a97a8">(standard PPSC one-paper pattern)</span></div>
+      <div class="paper-note">Assembled practice set from MCQs Tayyari's question bank &mdash; not an official past paper. No year or date is claimed.</div>
+    </div>
+
+    <div class="progress no-print"><div id="progressFill"></div></div>
+    <div class="counter no-print" id="counter"></div>
+
+    <div class="q-card" id="qbox"></div>
+
+    <div class="q-nav no-print">
+      <button class="btn-nav" id="prevBtn" type="button">&larr; Back</button>
+      <button class="btn-nav" id="nextBtn" type="button">Next &rarr;</button>
+      <button class="btn-finish" id="finishBtn" type="button">Finish &amp; See Score</button>
+      <button class="btn-print" id="printBtn" type="button">Print / PDF</button>
+    </div>
+
+    <div class="palette no-print" id="palette" aria-label="Question palette"></div>
+
+    <div class="print-foot">Printed from MCQs Tayyari &mdash; MCQs Tayyari — cos (chishti office sammundri) · +92 3264025618 &mdash; PPSC Practice Set 1</div>
+  </div>
+</section>
+<footer>
+  <div class="wrap">
+    <div class="foot-grid">
+      <div class="foot-brand"><img src="../logo.png" alt="MCQs Tayyari logo"><p>Free test preparation for all Pakistan competitive exams — subject-wise MCQs, past papers and real exam mock tests.</p></div>
+      <div><h4>Quick Links</h4><ul><li><a href="../">Home</a></li><li><a href="../subjects.html">Subjects</a></li><li><a href="../practice-sets.html">Practice Sets</a></li><li><a href="../exam.html">Mock Test</a></li><li><a href="../about.html">About Us</a></li></ul></div>
+      <div><h4>Exams</h4><ul>
+        <li><a href="../ppsc-test/">PPSC</a></li><li><a href="../fpsc-test/">FPSC</a></li><li><a href="../css-test/">CSS</a></li><li><a href="../nts-test/">NTS</a></li>
+      </ul></div>
+      <div><h4>Legal</h4><ul><li><a href="../privacy.html">Privacy Policy</a></li><li><a href="../contact.html">Contact Us</a></li></ul></div>
+    </div>
+    <div class="foot-bottom"><span>© 2026 MCQs Tayyari. All rights reserved.</span><span>Developed by <span class="credit">cos (chishti office sammundri)</span> · +92 3264025618</span></div>
+  </div>
+</footer>
+<script type="application/json" id="qdata">[{"q": "One thing the common tasks button allows you to do is", "oa": "Apply a design template to a slide", "ob": "Insert a new slide", "oc": "Choose a new layout for a slide", "od": "All of above", "c": "D", "e": ""}, {"q": "Who among the following was the longest serving chairman of the Senate of Pakistan?", "oa": "Mian Muhammad Soomro", "ob": "Wasim Sajjad", "oc": "G. I. Khan", "od": "Habibullah Marwat", "c": "B", "e": ""}, {"q": "Find the antonym of BARBARIC.", "oa": "Savage", "ob": "Cruel", "oc": "Brutal", "od": "Civilized", "c": "D", "e": "Barbaric means savage; its opposite is civilized."}, {"q": "'نہیں' قواعد کی رو سے کیا ہے؟", "oa": "حرف نفی", "ob": "حرف جار", "oc": "حرف عطف", "od": "ضمیر", "c": "A", "e": "نہیں انکار کے لیے آتا ہے اس لیے حرف نفی ہے۔"}, {"q": "درج ذیل میں سے 'پتھر' کا مترادف کون سا ہے؟", "oa": "لوہا", "ob": "مٹی", "oc": "سنگ", "od": "ریت", "c": "C", "e": "پتھر کا مترادف سنگ ہے۔"}, {"q": "Which port is commonly used for secure web browsing (HTTPS)?", "oa": "21", "ob": "25", "oc": "80", "od": "443", "c": "D", "e": "HTTPS uses port 443."}, {"q": "لفظ 'پوتی' کا مذکر بتائیں؟", "oa": "پوتیاں", "ob": "پوتا", "oc": "پوتے", "od": "پوتئی", "c": "B", "e": "'پوتی' کا مذکر 'پوتا' ہے۔"}, {"q": "Pick the correctly spelled word:", "oa": "Seperate", "ob": "Seprate", "oc": "Seperete", "od": "Separate", "c": "D", "e": "Separate is the correct spelling."}, {"q": "Choose the word most similar in meaning to DERIDE.", "oa": "Respect", "ob": "Admire", "oc": "Honor", "od": "Mock", "c": "D", "e": "Deride means to mock or ridicule."}, {"q": "She takes pride ___ her work.", "oa": "on", "ob": "in", "oc": "at", "od": "of", "c": "B", "e": "Take pride in is the correct phrase."}, {"q": "لفظ 'ظفر' کی جمع بتائیں؟", "oa": "اظافر", "ob": "ظفروں", "oc": "ظفریں", "od": "ظفائر", "c": "A", "e": "'ظفر' کی جمع 'اظافر' ہے۔"}, {"q": "درج ذیل میں سے 'نیکی' کا متضاد کون سا ہے؟", "oa": "اچھائی", "ob": "بھلائی", "oc": "ثواب", "od": "بدی", "c": "D", "e": "نیکی کا متضاد بدی ہے۔"}, {"q": "'اسرار خودی' کس زبان میں لکھی گئی؟", "oa": "فارسی", "ob": "اردو", "oc": "عربی", "od": "انگریزی", "c": "A", "e": "اسرار خودی فارسی میں لکھی گئی۔"}, {"q": "The ratio 35:84 in simplest form is:", "oa": "5:7", "ob": "7:12", "oc": "5:12", "od": "None of these", "c": "C", "e": ""}, {"q": "The main memory of first-generation computers was:", "oa": "Magnetic drums", "ob": "Semiconductor memory", "oc": "Magnetic core", "od": "Cache memory", "c": "A", "e": "First-generation computers used magnetic drums as main memory."}, {"q": "To select the entire worksheet, press:", "oa": "Ctrl+E", "ob": "Ctrl+W", "oc": "Shift+Space", "od": "Ctrl+A", "c": "D", "e": "Ctrl+A selects the entire worksheet."}, {"q": "'لومڑ' کی مونث کیا ہوگی؟", "oa": "لومڑا", "ob": "لومڑے", "oc": "لومڑیں", "od": "لومڑی", "c": "D", "e": "'لومڑ' کی مونث 'لومڑی' ہے۔"}, {"q": "CONSPICUOUS is the opposite of:", "oa": "Obvious", "ob": "Inconspicuous", "oc": "Evident", "od": "Plain", "c": "B", "e": "Conspicuous means obvious; its opposite is inconspicuous."}, {"q": "The meaning of \"subway\" is:", "oa": "Underground path", "ob": "Down path", "oc": "Both A and B", "od": "None of above", "c": "C", "e": ""}, {"q": "Which computer is used for weather forecasting?", "oa": "Microcomputer", "ob": "Laptop", "oc": "Minicomputer", "od": "Supercomputer", "c": "D", "e": "Supercomputers do weather forecasting."}, {"q": "'عوامی شاعر' کسے کہا جاتا ہے؟", "oa": "اکبر الہ آبادی", "ob": "احسان دانش", "oc": "حبیب جالب", "od": "نظیر اکبر آبادی", "c": "D", "e": "نظیر اکبر آبادی عوامی شاعر کہلاتے ہیں۔"}, {"q": "'پہلا انعام' میں 'پہلا' کیا ہے؟", "oa": "صفت عددی", "ob": "اسم", "oc": "ضمیر", "od": "حرف", "c": "A", "e": "پہلا ترتیب بتاتا ہے اس لیے صفت عددی ہے۔"}, {"q": "You can move the insertion point in a table", "oa": "With the up arrow and down arrow keys", "ob": "With the shift + tab keys", "oc": "With the tab key", "od": "All of the above", "c": "D", "e": ""}, {"q": "How can you quickly reinstate a deleted footer placeholder in master view?", "oa": "Create a new slide master", "ob": "Re-apply the footer placeholder", "oc": "Re-apply the slide layout", "od": "All of the above", "c": "B", "e": ""}, {"q": "She is cured ___ her illness now.", "oa": "from", "ob": "of", "oc": "by", "od": "with", "c": "B", "e": "Cured of an illness is correct."}, {"q": "She recovered ___ her illness soon.", "oa": "of", "ob": "by", "oc": "with", "od": "from", "c": "D", "e": "Recover is followed by from."}, {"q": "The startup instructions of a computer are stored in:", "oa": "ROM (BIOS)", "ob": "RAM", "oc": "Hard disk", "od": "Monitor", "c": "A", "e": "Startup instructions are stored in ROM as BIOS."}, {"q": "An email virus most commonly spreads through:", "oa": "The subject line", "ob": "Infected attachments", "oc": "The sender name", "od": "The font style", "c": "B", "e": "Email viruses spread via attachments."}, {"q": "'آب حیات' کس کی تصنیف ہے؟", "oa": "شبلی نعمانی", "ob": "الطاف حسین حالی", "oc": "محمد حسین آزاد", "od": "مولوی عبدالحق", "c": "C", "e": "آب حیات محمد حسین آزاد کی تصنیف ہے۔"}, {"q": "'ہوا ___ رہی ہے۔' خالی جگہ پر مناسب لفظ لگائیں۔", "oa": "چلتا", "ob": "چلتی", "oc": "چل", "od": "چلتے", "c": "C", "e": "ہوا چل رہی ہے درست جملہ ہے۔"}, {"q": "'میں نے کھانا کھایا تھا' میں فعل کی کون سی قسم ہے؟", "oa": "فعل ماضی قریب", "ob": "فعل ماضی مطلق", "oc": "فعل حال", "od": "فعل ماضی بعید", "c": "D", "e": "کھایا تھا دور کا گزرا کام ہے اس لیے فعل ماضی بعید ہے۔"}, {"q": "When a triangle has two congruent sides, it is called ______ triangle.", "oa": "Isosceles", "ob": "Equilateral", "oc": "Scalene", "od": "Iso Scale", "c": "A", "e": ""}, {"q": "محاورہ 'کمر کس لینا' کا مطلب کیا ہے؟", "oa": "کسی کام کے لیے تیار ہو جانا", "ob": "کمر سیدھی کرنا", "oc": "کمر کسنی چاہیے", "od": "کمر دبانا", "c": "A", "e": "کمر کس لینا کا مطلب ہے کسی کام کے لیے تیار ہو جانا۔"}, {"q": "Columns dialog box can be opened from", "oa": "Format menu Columns submenu", "ob": "Double click on column space in ruler", "oc": "Press Alt + O + C", "od": "All of above", "c": "D", "e": ""}, {"q": "He married ___ her last year.", "oa": "No preposition", "ob": "to", "oc": "with", "od": "by", "c": "A", "e": "Marry takes no preposition as a verb."}, {"q": "The COUNT function counts:", "oa": "the sum", "ob": "cells containing numbers", "oc": "the average", "od": "text length", "c": "B", "e": "COUNT counts cells with numeric values."}, {"q": "The laser pointer in a slideshow is activated by holding:", "oa": "Shift", "ob": "Alt", "oc": "Esc", "od": "Ctrl while clicking the mouse", "c": "D", "e": "Hold Ctrl and click to use the laser pointer."}, {"q": "لفظ 'عرق' کی جمع بتائیں؟", "oa": "عروق", "ob": "عرقوں", "oc": "عرقیں", "od": "عرائق", "c": "A", "e": "'عرق' کی جمع 'عروق' ہے۔"}, {"q": "Which function adds numbers in a range?", "oa": "AVERAGE", "ob": "SUM", "oc": "COUNT", "od": "MAX", "c": "B", "e": "SUM adds all numbers in a range."}, {"q": "Which of the following is an example of open source software?", "oa": "Windows 11", "ob": "Linux", "oc": "MS Office", "od": "macOS", "c": "B", "e": "Linux is open source; the others are proprietary."}, {"q": "Which Wi-Fi standard is the fastest among these?", "oa": "802.11b", "ob": "802.11g", "oc": "802.11a", "od": "802.11n", "c": "D", "e": "802.11n is the fastest of these standards."}, {"q": "The word IMPECCABLE is closest in meaning to:", "oa": "Faulty", "ob": "Defective", "oc": "Flawless", "od": "Imperfect", "c": "C", "e": "Impeccable means flawless; without fault."}, {"q": "Find the antonym of DENOUNCE.", "oa": "Condemn", "ob": "Praise", "oc": "Decry", "od": "Attack", "c": "B", "e": "Denounce means to condemn; its opposite is praise."}, {"q": "To insert a page number, go to:", "oa": "Home tab", "ob": "Insert > Page Number", "oc": "Review tab", "od": "File tab", "c": "B", "e": "Page numbers are under Insert."}, {"q": "'پطرس کے مضامین' کس کے مضامین ہیں؟", "oa": "ابن انشا", "ob": "پطرس بخاری", "oc": "کرنل محمد خان", "od": "رشید احمد صدیقی", "c": "B", "e": "پطرس کے مضامین پطرس بخاری کے ہیں۔"}, {"q": "Choose the word most similar in meaning to PARAGON.", "oa": "Model", "ob": "Flaw", "oc": "Defect", "od": "Fault", "c": "A", "e": "Paragon means a model of excellence."}, {"q": "The Analytical Engine was designed by:", "oa": "Blaise Pascal", "ob": "Herman Hollerith", "oc": "Charles Babbage", "od": "John von Neumann", "c": "C", "e": "Charles Babbage designed the Analytical Engine in the 1830s."}, {"q": "Choose the word most similar in meaning to SALUBRIOUS.", "oa": "Unhealthy", "ob": "Harmful", "oc": "Healthy", "od": "Noxious", "c": "C", "e": "Salubrious means healthy or wholesome."}, {"q": "\"قدم لینا\" محاورہ ہے، اس کے معنی کیا ہیں؟", "oa": "خوب خبر لینا", "ob": "لمبے لمبے ڈگ بھرنا", "oc": "قدم اٹھانے کا آغاز کرنا", "od": "تعظیم کرنا یا تعظیم کرنے کو جھکنا", "c": "D", "e": ""}, {"q": "The 'memory wall' problem refers to:", "oa": "Running out of hard disk space", "ob": "The growing speed gap between CPU and main memory", "oc": "Forgetting passwords", "od": "Virus attacks on RAM", "c": "B", "e": "The memory wall is the speed gap between CPU and main memory."}, {"q": "CENSURE most nearly means:", "oa": "Praise", "ob": "Approve", "oc": "Blame", "od": "Commend", "c": "C", "e": "Censure means to blame or criticize severely."}, {"q": "Who among the following was convicted in Rawalpindi Conspiracy Case?", "oa": "Habib Jalib", "ob": "Agha Shorish Kashmiri", "oc": "Faiz Ahmad Faiz", "od": "None of these", "c": "C", "e": ""}, {"q": "Bluetooth operates in which frequency band?", "oa": "2.4 GHz", "ob": "5 GHz", "oc": "900 MHz", "od": "60 GHz", "c": "A", "e": "Bluetooth operates in the 2.4 GHz band."}, {"q": "Who among the following is the current President of Azad and Jammu Kashmir?", "oa": "Raja Farooq Haider", "ob": "Ch Abdul Majid", "oc": "Masood Khan", "od": "Sultan Mehmood Chaudhry", "c": "D", "e": ""}, {"q": "What is the meaning of 'to kill two birds with one stone'?", "oa": "To hunt birds", "ob": "To throw stones", "oc": "To be cruel", "od": "To achieve two things at once", "c": "D", "e": "It means to achieve two things with one action."}, {"q": "___ one-eyed man was begging on the road.", "oa": "An", "ob": "The", "oc": "A", "od": "No article", "c": "C", "e": "One-eyed takes A because it begins with a wu sound."}, {"q": "'جرح' کی جمع کیا ہے؟", "oa": "جرحوں", "ob": "جرحیں", "oc": "جرائح", "od": "جروح", "c": "D", "e": "'جرح' کی جمع 'جروح' ہے۔"}, {"q": "لفظ 'بخیل' کا مترادف بتائیں؟", "oa": "کنجوس", "ob": "سخی", "oc": "فیاض", "od": "کرم فرما", "c": "A", "e": "بخیل کا مترادف کنجوس ہے۔"}, {"q": "'پھوپھا' کی مونث کیا ہوگی؟", "oa": "پھوپھے", "ob": "پھوپھاں", "oc": "پھوپھی", "od": "پھوپھئی", "c": "C", "e": "'پھوپھا' کی مونث 'پھوپھی' ہے۔"}, {"q": "In ring topology, each device connects to:", "oa": "A central hub", "ob": "All other devices", "oc": "Exactly two neighbors forming a closed loop", "od": "A single bus cable", "c": "C", "e": "In ring topology each device connects to two neighbors."}, {"q": "A person who mends shoes is called:", "oa": "Blacksmith", "ob": "Tailor", "oc": "Goldsmith", "od": "Cobbler", "c": "D", "e": "One who mends shoes is a cobbler."}, {"q": "That which cannot be heard is:", "oa": "Invisible", "ob": "Illegible", "oc": "Inaudible", "od": "Incredible", "c": "C", "e": "That which cannot be heard is inaudible."}, {"q": "Government by a king is called:", "oa": "Democracy", "ob": "Republic", "oc": "Oligarchy", "od": "Monarchy", "c": "D", "e": "Government by a king is monarchy."}, {"q": "A macro-enabled Excel workbook has the extension:", "oa": ".xlsx", "ob": ".xltx", "oc": ".xlsm", "od": ".ods", "c": "C", "e": "Macro-enabled workbooks use .xlsm."}, {"q": "Which transmission medium offers the highest speed and longest distance?", "oa": "Twisted pair", "ob": "Coaxial cable", "oc": "UTP", "od": "Fiber optic cable", "c": "D", "e": "Fiber optic offers the highest speed and distance."}, {"q": "The Formula Bar displays:", "oa": "the contents of the active cell", "ob": "sheet tabs", "oc": "column labels", "od": "the status", "c": "A", "e": "The Formula Bar shows the active cell's contents."}, {"q": "The instruction 'ADD' in assembly language is an example of a:", "oa": "Machine code instruction", "ob": "Mnemonic", "oc": "High-level statement", "od": "Compiler directive", "c": "B", "e": "ADD is a mnemonic representing an assembly instruction."}, {"q": "A person who sells flowers is called:", "oa": "Gardener", "ob": "Florist", "oc": "Vendor", "od": "Hawker", "c": "B", "e": "One who sells flowers is a florist."}, {"q": "'خودی کو کر بلند اتنا کہ ہر تقدیر سے پہلے' یہ شعر کس کا ہے؟", "oa": "مرزا غالب", "ob": "علامہ اقبال", "oc": "میر تقی میر", "od": "احمد فراز", "c": "B", "e": "یہ مشہور شعر علامہ اقبال کا ہے۔"}, {"q": "A new presentation can be created from:", "oa": "Blank Presentation", "ob": "From Existing Presentation", "oc": "From Design Template", "od": "All of above", "c": "D", "e": ""}, {"q": "ضرب المثل 'اونچی دکان پھیکا پکوان' کا مطلب کیا ہے؟", "oa": "دکان کھولنی چاہیے", "ob": "بڑے دعوے اور چھوٹا عمل", "oc": "پکوان کھانا چاہیے", "od": "اونچا بننا چاہیے", "c": "A", "e": "اس کا مطلب ہے بڑے دعوے اور چھوٹا عمل۔"}, {"q": "IDE stands for:", "oa": "Integrated Development Environment", "ob": "Internal Data Exchange", "oc": "Integrated Disk Editor", "od": "Internet Development Engine", "c": "A", "e": "IDE stands for Integrated Development Environment."}, {"q": "'دولت' کے مترادف لفظ کی نشاندہی کریں؟", "oa": "ناداری", "ob": "غربت", "oc": "مال", "od": "فقر", "c": "C", "e": "دولت کا مترادف مال ہے۔"}, {"q": "The 'copy' command is used to:", "oa": "move files", "ob": "copy files", "oc": "rename files", "od": "delete files", "c": "B", "e": "The copy command copies files."}, {"q": "'ابن' کی جمع کیا ہوگی؟", "oa": "ابناء", "ob": "ابنوں", "oc": "ابنین", "od": "ابنات", "c": "A", "e": "'ابن' کی جمع 'ابناء' ہے۔"}, {"q": "'مہربان' کے متضاد لفظ کی نشاندہی کریں؟", "oa": "بے رحم", "ob": "کرم فرما", "oc": "رحم دل", "od": "شفیق", "c": "A", "e": "مہربان کا متضاد بے رحم ہے۔"}, {"q": "'دکان' کی جمع کیا ہے؟", "oa": "دکانیں", "ob": "دکانوں", "oc": "دکانے", "od": "دکانیاں", "c": "A", "e": "دکان کی جمع دکانیں ہے۔"}, {"q": "Mozilla Firefox is best described as:", "oa": "A paid antivirus", "ob": "A free and open-source web browser", "oc": "A search engine", "od": "An email protocol", "c": "B", "e": "Firefox is a free and open-source web browser."}, {"q": "CSV stands for:", "oa": "Computer Separated Values", "ob": "Column Split Values", "oc": "Common Sheet Values", "od": "Comma Separated Values", "c": "D", "e": "CSV stands for Comma Separated Values."}, {"q": "JVM stands for:", "oa": "Java Visual Machine", "ob": "Joint Virtual Machine", "oc": "Java Variable Method", "od": "Java Virtual Machine", "c": "D", "e": "JVM stands for Java Virtual Machine."}, {"q": "What is the antonym of INTREPID?", "oa": "Brave", "ob": "Fearful", "oc": "Daring", "od": "Bold", "c": "B", "e": "Intrepid means brave; its opposite is fearful."}, {"q": "Warm booting is:", "oa": "starting from off state", "ob": "shutting down", "oc": "restarting without switching off the power", "od": "sleep mode", "c": "C", "e": "Warm boot restarts the system without cutting power."}, {"q": "Identify the correct spelling:", "oa": "Occassion", "ob": "Ocassion", "oc": "Occasion", "od": "Occasionn", "c": "C", "e": "Occasion is the correct spelling."}, {"q": "لفظ 'احسان مند' کا متضاد کیا ہے؟", "oa": "ممنون", "ob": "سپاس گزار", "oc": "شکرگزار", "od": "احسان فراموش", "c": "D", "e": "احسان مند کا متضاد احسان فراموش ہے۔"}, {"q": "The view that displays the slides on a presentation as miniature representations of the slides is called:", "oa": "slide show", "ob": "slide sorter view", "oc": "notes page view", "od": "outline view", "c": "B", "e": ""}, {"q": "'سارے جہاں سے اچھا ہندوستاں ہمارا' یہ شعر کس کا ہے؟", "oa": "مرزا غالب", "ob": "میر تقی میر", "oc": "فیض احمد فیض", "od": "علامہ اقبال", "c": "D", "e": "یہ مشہور ترانہ علامہ اقبال کا ہے۔"}, {"q": "The main disadvantage of magnetic tape is:", "oa": "Low capacity", "ob": "Slow sequential access", "oc": "High cost", "od": "Volatility", "c": "B", "e": "Magnetic tape suffers from slow sequential access."}, {"q": "Which key is used to run a slideshow?", "oa": "F5", "ob": "F7", "oc": "F2", "od": "F1", "c": "A", "e": "F5 starts the slideshow from the beginning."}, {"q": "محاورہ 'پگڑی اچھالنا' کا مطلب کیا ہے؟", "oa": "پگڑی باندھنا", "ob": "کسی کی عزت اتارنا", "oc": "پگڑی اچھالنی چاہیے", "od": "پگڑی سنبھالنا", "c": "D", "e": "پگڑی اچھالنا کا مطلب ہے کسی کی عزت اتارنا۔"}, {"q": "Animation schemes can be applied to...... in the presentation", "oa": "All slides", "ob": "Select slides", "oc": "Current slide", "od": "All of the above", "c": "D", "e": ""}, {"q": "ضرب المثل 'اتفاق میں برکت ہے' کا مطلب کیا ہے؟", "oa": "برکت چاہنی چاہیے", "ob": "متحد رہنے میں کامیابی ہے", "oc": "الگ تھلگ رہنا چاہیے", "od": "اتفاق کرنا مشکل ہے", "c": "C", "e": "اتفاق میں برکت ہے کا مطلب ہے متحد رہنے میں کامیابی ہے۔"}, {"q": "She is looking ___ her lost keys.", "oa": "at", "ob": "after", "oc": "into", "od": "for", "c": "D", "e": "Looking for means searching."}, {"q": "A speaker is an:", "oa": "Input device", "ob": "Storage device", "oc": "Output device", "od": "Processing device", "c": "C", "e": "A speaker is an output device."}, {"q": "He picked ___ the phone quickly.", "oa": "out", "ob": "on", "oc": "up", "od": "off", "c": "C", "e": "Pick up the phone is correct."}, {"q": "Ctrl+O is used for:", "oa": "Output", "ob": "New", "oc": "Save", "od": "Open", "c": "D", "e": "Ctrl+O opens an existing file."}, {"q": "درج ذیل میں سے 'آخری' کا متضاد کون سا ہے؟", "oa": "خاتمہ", "ob": "پہلا", "oc": "انتہا", "od": "آخر", "c": "B", "e": "آخری کا متضاد پہلا ہے۔"}, {"q": "Which of the following is NOT a type of computer based on working principle?", "oa": "Analog", "ob": "Super", "oc": "Digital", "od": "Hybrid", "c": "B", "e": "Analog, digital and hybrid are working-principle types; super refers to size and power."}, {"q": "غالب اپنا یہ عقیدہ ہے بقولِ ناسخ", "oa": "تضمین", "ob": "لف ونشر", "oc": "حسنِ تعلیل", "od": "مراعات النظیر", "c": "A", "e": ""}, {"q": "'Pros and cons' means:", "oa": "Professionals", "ob": "For and against", "oc": "Advantages and disadvantages", "od": "Profit and loss", "c": "C", "e": "Pros and cons means advantages and disadvantages."}, {"q": "Which of the following is true about first-generation computers?", "oa": "They were small and portable", "ob": "They consumed a lot of electricity and generated much heat", "oc": "They used high-level languages", "od": "They were based on microprocessors", "c": "B", "e": "Vacuum-tube computers consumed much electricity and produced a lot of heat."}]</script>
+<script>
+(function(){
+  var data = JSON.parse(document.getElementById('qdata').textContent);
+  var total = data.length, idx = 0;
+  var picked = new Array(total).fill(null); // 'A'..'D' or null
+  var $ = function(id){ return document.getElementById(id); };
+
+  function el(tag, cls, text){
+    var e = document.createElement(tag);
+    if (cls) e.className = cls;
+    if (text !== undefined && text !== null) e.textContent = text;
+    return e;
+  }
+
+  function renderPalette(){
+    var pal = $('palette'); pal.innerHTML = '';
+    for (var i = 0; i < total; i++){
+      (function(i){
+        var b = el('button', 'pal-btn', String(i+1));
+        b.type = 'button';
+        b.setAttribute('aria-label', 'Question ' + (i+1));
+        if (i === idx) b.classList.add('current');
+        if (picked[i] !== null) b.classList.add(picked[i] === data[i].c ? 'ok' : 'bad');
+        b.addEventListener('click', function(){ idx = i; render(); });
+        pal.appendChild(b);
+      })(i);
+    }
+  }
+
+  function render(){
+    var q = data[idx];
+    var box = $('qbox'); box.innerHTML = '';
+    var wrap = el('div', 'q-wrap');
+    wrap.appendChild(el('div', 'q-num', 'Question ' + (idx+1) + ' of ' + total));
+    var qt = el('div', 'q-text', q.q); qt.setAttribute('dir', 'auto');
+    wrap.appendChild(qt);
+    var opts = el('div', 'opts');
+    ['A','B','C','D'].forEach(function(L){
+      var key = 'o' + L.toLowerCase();
+      var btn = el('button', 'opt', L + ') ' + q[key]);
+      btn.type = 'button'; btn.setAttribute('dir', 'auto');
+      if (picked[idx] !== null){
+        btn.disabled = true;
+        if (L === q.c) btn.classList.add('correct');
+        else if (L === picked[idx]) btn.classList.add('wrong');
+      }
+      btn.addEventListener('click', function(){
+        if (picked[idx] !== null) return;
+        picked[idx] = L;
+        render();
+      });
+      opts.appendChild(btn);
+    });
+    wrap.appendChild(opts);
+    if (picked[idx] !== null){
+      var fb = el('div', 'feedback ' + (picked[idx] === q.c ? 'fb-ok' : 'fb-bad'),
+        picked[idx] === q.c ? '\u2713 Correct' : '\u2717 Wrong — correct answer: ' + q.c);
+      wrap.appendChild(fb);
+      if (q.e){ var ex = el('div', 'expl', 'Explanation: ' + q.e); ex.setAttribute('dir','auto'); wrap.appendChild(ex); }
+    }
+    box.appendChild(wrap);
+    var done = picked.filter(function(p){ return p !== null; }).length;
+    $('progressFill').style.width = (done/total*100) + '%';
+    $('counter').textContent = 'Question ' + (idx+1) + ' of ' + total + '  \u00b7  Answered ' + done + '/' + total;
+    $('prevBtn').disabled = (idx === 0);
+    $('nextBtn').disabled = (idx === total-1);
+    renderPalette();
+  }
+
+  function summary(){
+    var correct = 0, wrong = 0, skipped = 0;
+    var review = [];
+    for (var i = 0; i < total; i++){
+      if (picked[i] === null){ skipped++; review.push(i); }
+      else if (picked[i] === data[i].c){ correct++; }
+      else { wrong++; review.push(i); }
+    }
+    var box = $('qbox'); box.innerHTML = '';
+    var s = el('div', 'summary');
+    s.appendChild(el('h2', null, 'Your Score'));
+    var pct = Math.round(correct/total*100);
+    var big = el('div', 'score-big', correct + ' / ' + total);
+    s.appendChild(big);
+    s.appendChild(el('p', 'score-sub', pct + '%  \u00b7  Correct: ' + correct + '  \u00b7  Wrong: ' + wrong + '  \u00b7  Skipped: ' + skipped));
+    var note = el('p', 'score-note', 'PPSC one-paper pattern: 100 marks, 90 minutes, \u22120.25 per wrong answer.');
+    s.appendChild(note);
+    if (review.length){
+      s.appendChild(el('h3', null, 'Review your mistakes'));
+      review.forEach(function(i){
+        var q = data[i];
+        var r = el('div', 'rev');
+        r.appendChild(el('div', 'rev-q', 'Q' + (i+1) + '. ' + q.q));
+        var was = picked[i] === null ? 'Skipped' : 'You chose ' + picked[i];
+        r.appendChild(el('div', 'rev-a', was + '  \u00b7  Correct: ' + q.c + ') ' + q['o'+q.c.toLowerCase()]));
+        if (q.e){ var ex = el('div', 'rev-e', 'Explanation: ' + q.e); ex.setAttribute('dir','auto'); r.appendChild(ex); }
+        s.appendChild(r);
+      });
+    } else {
+      s.appendChild(el('p', 'score-note', 'Perfect — no mistakes to review!'));
+    }
+    var rb = el('button', 'btn btn-orange', 'Restart Set');
+    rb.type = 'button';
+    rb.addEventListener('click', function(){ picked = new Array(total).fill(null); idx = 0; render(); });
+    s.appendChild(rb);
+    box.appendChild(s);
+    $('palette').innerHTML = '';
+    $('counter').textContent = 'Finished';
+    $('progressFill').style.width = '100%';
+  }
+
+  $('prevBtn').addEventListener('click', function(){ if (idx > 0){ idx--; render(); } });
+  $('nextBtn').addEventListener('click', function(){ if (idx < total-1){ idx++; render(); } });
+  $('finishBtn').addEventListener('click', summary);
+  $('printBtn').addEventListener('click', function(){ window.print(); });
+  render();
+})();
+</script>
+</body>
+</html>

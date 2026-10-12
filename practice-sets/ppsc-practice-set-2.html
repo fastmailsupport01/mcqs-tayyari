@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PPSC Practice Set 2 | 100 MCQs, 90 Minutes | MCQs Tayyari</title>
+<meta name="description" content="PPSC practice set 2: 100 MCQs on the standard PPSC one-paper pattern (100 marks, 90 minutes, -0.25 negative marking). Free online practice, no login required.">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://mcqstayyari.online/practice-sets/ppsc-practice-set-2.html">
+<link rel="icon" href="../favicon.png">
+<link rel="stylesheet" href="../css/style.css">
+<style>
+.paper-head{background:#fff;border:1px solid #e3e8f0;border-radius:14px;padding:28px 22px;text-align:center;margin:26px 0 18px}
+.paper-head img.ppsc-logo{width:92px;height:92px;object-fit:contain}
+.paper-head h1{font-size:26px;margin:10px 0 4px;color:#1c2b3a}
+.paper-body{font-size:15px;color:#5a6b85;letter-spacing:1px;text-transform:uppercase}
+.badge{display:inline-block;margin:12px 0 4px;padding:6px 18px;border-radius:999px;font-weight:700;font-size:14px;letter-spacing:1px;background:#f76b12;color:#fff}
+.paper-meta{margin:10px 0 4px;font-size:15px;color:#33475f}
+.paper-note{font-size:13px;color:#8a97a8;margin-top:8px}
+.q-card{background:#fff;border:1px solid #e3e8f0;border-radius:14px;padding:22px;margin:0 0 18px}
+.q-num{font-size:13px;color:#8a97a8;margin-bottom:8px}
+.q-text{font-size:18px;font-weight:600;color:#1c2b3a;margin-bottom:16px;line-height:1.6}
+.opts{display:grid;gap:10px}
+.opt{text-align:left;padding:12px 14px;border:2px solid #e3e8f0;border-radius:10px;background:#fff;font-size:16px;cursor:pointer;color:#1c2b3a;line-height:1.5}
+.opt:hover:not(:disabled){border-color:#087540}
+.opt:disabled{cursor:default}
+.opt.correct{border-color:#087540;background:#e9f7ef;font-weight:700}
+.opt.wrong{border-color:#d33;background:#fdecec;font-weight:700}
+.feedback{margin-top:14px;padding:10px 14px;border-radius:10px;font-weight:700}
+.fb-ok{background:#e9f7ef;color:#087540}
+.fb-bad{background:#fdecec;color:#b02a2a}
+.expl{margin-top:10px;padding:10px 14px;background:#f4f7fb;border-radius:10px;font-size:15px;color:#33475f;line-height:1.6}
+.q-nav{display:flex;gap:10px;align-items:center;margin:0 0 18px;flex-wrap:wrap}
+.btn-nav{padding:10px 22px;border-radius:10px;border:2px solid #087540;background:#fff;color:#087540;font-weight:700;cursor:pointer;font-size:15px}
+.btn-nav:disabled{opacity:.4;cursor:default}
+.btn-finish{padding:10px 22px;border-radius:10px;border:none;background:#087540;color:#fff;font-weight:700;cursor:pointer;font-size:15px}
+.btn-print{padding:10px 22px;border-radius:10px;border:2px solid #f76b12;background:#fff;color:#f76b12;font-weight:700;cursor:pointer;font-size:15px}
+.progress{height:10px;background:#eef1f6;border-radius:999px;overflow:hidden;margin:0 0 8px}
+.progress>div{height:100%;background:linear-gradient(90deg,#087540,#f76b12);width:0;transition:width .3s}
+.counter{font-size:14px;color:#5a6b85;margin-bottom:14px}
+.palette{display:grid;grid-template-columns:repeat(auto-fill,minmax(38px,1fr));gap:6px;margin:0 0 26px}
+.pal-btn{padding:8px 0;border:1px solid #dfe5ee;border-radius:8px;background:#fff;font-size:13px;cursor:pointer;color:#33475f}
+.pal-btn.current{border-color:#f76b12;font-weight:700;color:#f76b12}
+.pal-btn.ok{background:#e9f7ef;border-color:#087540;color:#087540}
+.pal-btn.bad{background:#fdecec;border-color:#d33;color:#b02a2a}
+.summary{text-align:center;padding:10px 0}
+.score-big{font-size:56px;font-weight:800;color:#087540;margin:10px 0}
+.score-sub{font-size:17px;color:#33475f}
+.score-note{font-size:14px;color:#8a97a8;margin:8px 0 18px}
+.rev{text-align:left;border:1px solid #e3e8f0;border-radius:10px;padding:14px;margin:10px 0;background:#fff}
+.rev-q{font-weight:600;margin-bottom:6px}
+.rev-a{color:#b02a2a;margin-bottom:6px}
+.rev-e{font-size:14px;color:#33475f}
+.watermark-print{display:none}
+@media print{
+  header.site, footer, .q-nav, .palette, .counter, .progress, .no-print{display:none !important}
+  .paper-head{border:none;margin:0 0 10px;padding:0}
+  .q-card{border:none;border-bottom:1px solid #ccc;border-radius:0;padding:10px 0;page-break-inside:avoid}
+  .opt{border:1px solid #999;padding:6px 10px;font-size:13px}
+  .opt.correct,.opt.wrong{background:none !important;border:1px solid #999;font-weight:400}
+  .feedback,.expl{display:none !important}
+  .watermark-print{display:block;position:fixed;top:45%;left:50%;transform:translate(-50%,-50%) rotate(-30deg);font-size:42px;font-weight:800;color:rgba(8,117,64,.10);white-space:nowrap;pointer-events:none;z-index:9999}
+  .print-foot{display:block !important;text-align:center;font-size:12px;color:#5a6b85;margin-top:16px;border-top:1px solid #ccc;padding-top:8px}
+}
+.print-foot{display:none}
+@media (max-width:640px){ .paper-head h1{font-size:21px} .q-text{font-size:16px} .opt{font-size:15px} }
+</style>
+</head>
+<body>
+<header class="site">
+  <div class="wrap header-inner">
+    <a class="brand" href="../"><img src="../logo.png" alt="MCQs Tayyari logo"></a>
+    <nav class="main-nav">
+      <a href="../">Home</a>
+      <a href="../subjects.html">Subjects</a>
+      <a href="../practice-sets.html">Practice Sets</a>
+      <a href="../exam.html" class="nav-cta">Mock Test</a>
+      <a href="../about.html">About</a>
+      <a href="../contact.html">Contact</a>
+    </nav>
+  </div>
+</header>
+<div class="watermark-print" aria-hidden="true">MCQs Tayyari — cos (chishti office sammundri) · +92 3264025618</div>
+<section class="block">
+  <div class="wrap">
+    <div class="paper-head">
+      <img class="ppsc-logo" src="../img/exams/logos/logo-ppsc.png" alt="PPSC logo" loading="lazy">
+      <div class="paper-body">Punjab Public Service Commission</div>
+      <h1>PPSC Practice Set 2</h1>
+      <div><span class="badge">PRACTICE SET</span></div>
+      <div class="paper-meta">100 MCQs &middot; 100 Marks &middot; 90 Minutes &middot; Negative Marking &minus;0.25 <span style="color:#8a97a8">(standard PPSC one-paper pattern)</span></div>
+      <div class="paper-note">Assembled practice set from MCQs Tayyari's question bank &mdash; not an official past paper. No year or date is claimed.</div>
+    </div>
+
+    <div class="progress no-print"><div id="progressFill"></div></div>
+    <div class="counter no-print" id="counter"></div>
+
+    <div class="q-card" id="qbox"></div>
+
+    <div class="q-nav no-print">
+      <button class="btn-nav" id="prevBtn" type="button">&larr; Back</button>
+      <button class="btn-nav" id="nextBtn" type="button">Next &rarr;</button>
+      <button class="btn-finish" id="finishBtn" type="button">Finish &amp; See Score</button>
+      <button class="btn-print" id="printBtn" type="button">Print / PDF</button>
+    </div>
+
+    <div class="palette no-print" id="palette" aria-label="Question palette"></div>
+
+    <div class="print-foot">Printed from MCQs Tayyari &mdash; MCQs Tayyari — cos (chishti office sammundri) · +92 3264025618 &mdash; PPSC Practice Set 2</div>
+  </div>
+</section>
+<footer>
+  <div class="wrap">
+    <div class="foot-grid">
+      <div class="foot-brand"><img src="../logo.png" alt="MCQs Tayyari logo"><p>Free test preparation for all Pakistan competitive exams — subject-wise MCQs, past papers and real exam mock tests.</p></div>
+      <div><h4>Quick Links</h4><ul><li><a href="../">Home</a></li><li><a href="../subjects.html">Subjects</a></li><li><a href="../practice-sets.html">Practice Sets</a></li><li><a href="../exam.html">Mock Test</a></li><li><a href="../about.html">About Us</a></li></ul></div>
+      <div><h4>Exams</h4><ul>
+        <li><a href="../ppsc-test/">PPSC</a></li><li><a href="../fpsc-test/">FPSC</a></li><li><a href="../css-test/">CSS</a></li><li><a href="../nts-test/">NTS</a></li>
+      </ul></div>
+      <div><h4>Legal</h4><ul><li><a href="../privacy.html">Privacy Policy</a></li><li><a href="../contact.html">Contact Us</a></li></ul></div>
+    </div>
+    <div class="foot-bottom"><span>© 2026 MCQs Tayyari. All rights reserved.</span><span>Developed by <span class="credit">cos (chishti office sammundri)</span> · +92 3264025618</span></div>
+  </div>
+</footer>
+<script type="application/json" id="qdata">[{"q": "The binary equivalent of decimal 6 is:", "oa": "101", "ob": "100", "oc": "111", "od": "110", "c": "D", "e": "Decimal 6 = 110 in binary."}, {"q": "In Microsoft PowerPoint in order to see all the slides on one screen use:", "oa": "view, slide sorter", "ob": "view, slide", "oc": "view, master", "od": "view, slide show", "c": "A", "e": ""}, {"q": "لفظ 'موٹا' کا متضاد کیا ہے؟", "oa": "جسیم", "ob": "پتلا", "oc": "فربہ", "od": "بھاری", "c": "B", "e": "موٹا کا متضاد پتلا ہے۔"}, {"q": "'اوورکوٹ' افسانے کے مصنف کون ہیں؟", "oa": "سعادت حسن منٹو", "ob": "پریم چند", "oc": "کرشن چندر", "od": "غلام عباس", "c": "D", "e": "اوورکوٹ غلام عباس کا افسانہ ہے۔"}, {"q": "The octal equivalent of decimal 15 is:", "oa": "17", "ob": "15", "oc": "16", "od": "21", "c": "A", "e": "Decimal 15 = 17 in octal."}, {"q": "DESPONDENT most nearly means:", "oa": "Dejected", "ob": "Hopeful", "oc": "Cheerful", "od": "Joyful", "c": "A", "e": "Despondent means dejected; in low spirits."}, {"q": "'دل ناامید تو نہیں ناکام ہی تو ہے' یہ شعر کس کا ہے؟", "oa": "مرزا غالب", "ob": "علامہ اقبال", "oc": "احمد فراز", "od": "فیض احمد فیض", "c": "D", "e": "یہ مشہور شعر فیض احمد فیض کا ہے۔"}, {"q": "لفظ 'گوش' کے معنی کیا ہیں؟", "oa": "آنکھ", "ob": "کان", "oc": "ناک", "od": "زبان", "c": "B", "e": "گوش کے معنی کان ہیں۔"}, {"q": "Ctrl+click is used to:", "oa": "Open link in new window", "ob": "Close the program", "oc": "Select multiple non-adjacent items", "od": "Delete files", "c": "C", "e": "Ctrl+click selects multiple items."}, {"q": "بتائیے 'کسانن' کا مذکر کیا ہے؟", "oa": "کساننیں", "ob": "کسانے", "oc": "کسانی", "od": "کسان", "c": "D", "e": "'کسانن' کا مذکر 'کسان' ہے۔"}, {"q": "محاورہ 'ناک کٹوانا' کا مطلب کیا ہے؟", "oa": "ناک صاف کرنا", "ob": "ناک اونچی کرنا", "oc": "ناک کٹوانی چاہیے", "od": "ذلت و رسوائی اٹھانا", "c": "D", "e": "ناک کٹوانا کا مطلب ہے ذلت و رسوائی اٹھانا۔"}, {"q": "صحیح جملے کا انتخاب کریں۔", "oa": "تم نے کیا کہا؟", "ob": "تم نے کیا کہی؟", "oc": "تم نے کیا کہے؟", "od": "تم نے کیا کہیں؟", "c": "A", "e": "کیا کے ساتھ کہا درست ہے۔"}, {"q": "'استاد نے بچوں کو ___۔' خالی جگہ پر مناسب لفظ لگائیں۔", "oa": "پڑھایا", "ob": "پڑھائی", "oc": "پڑھائے", "od": "پڑھائیں", "c": "A", "e": "استاد نے بچوں کو پڑھایا درست جملہ ہے۔"}, {"q": "Page Down Key is used to", "oa": "Moves the cursor one line down", "ob": "Moves the cursor one page down", "oc": "Moves the cursor one screen down", "od": "Moves the cursor one paragraph down", "c": "C", "e": ""}, {"q": "درج ذیل میں سے 'بچہ' کا مترادف کون سا ہے؟", "oa": "نوجوان", "ob": "بوڑھا", "oc": "طفل", "od": "جوان", "c": "C", "e": "بچہ کا مترادف طفل ہے۔"}, {"q": "'اک ہی شخص تھا جہاں میں تو کیا' سے پہلا مصرع کون سا ہے؟", "oa": "کون اس گھر کی دیکھ بھال کرے", "ob": "یہ مجھے چین کیوں نہیں پڑتا", "oc": "میں بھی منہ میں زبان رکھتا ہوں", "od": "چپکے چپکے رات دن آنسو بہانا یاد ہے", "c": "B", "e": "اک ہی شخص تھا جہاں میں تو کیا سے پہلا مصرع یہ مجھے چین کیوں نہیں پڑتا ہے۔"}, {"q": "He sat ___ me in the hall.", "oa": "by", "ob": "near", "oc": "close", "od": "beside", "c": "D", "e": "Beside means next to."}, {"q": "The word ACQUIT is the opposite of:", "oa": "Convict", "ob": "Free", "oc": "Release", "od": "Absolve", "c": "A", "e": "Acquit means to free; its opposite is convict."}, {"q": "درج ذیل میں سے غلط جملہ کون سا ہے؟", "oa": "میں یہاں رہتا ہوں۔", "ob": "وہ وہاں گیا۔", "oc": "تم یہاں آؤ۔", "od": "میں یہانوں رہتا ہوں۔", "c": "D", "e": "یہاں درست لفظ ہے۔"}, {"q": "What is the synonym of NEFARIOUS?", "oa": "Virtuous", "ob": "Noble", "oc": "Wicked", "od": "Good", "c": "C", "e": "Nefarious means wicked or villainous."}, {"q": "'To break the ice' means:", "oa": "To feel cold", "ob": "To break something", "oc": "To initiate conversation", "od": "To end a quarrel", "c": "C", "e": "To break the ice means to initiate conversation."}, {"q": "لفظ 'چڑی' کا مذکر بتائیں؟", "oa": "چڑے", "ob": "چڑاں", "oc": "چڑا", "od": "چڑئی", "c": "C", "e": "'چڑی' کا مذکر 'چڑا' ہے۔"}, {"q": "'سرخ پھول' قواعد کی رو سے کیا ہے؟", "oa": "مرکب توصیفی", "ob": "مرکب اضافی", "oc": "مرکب عطفی", "od": "مرکب جاری", "c": "A", "e": "سرخ پھول کی صفت ہے اس لیے مرکب توصیفی ہے۔"}, {"q": "How many total IPv4 addresses are possible?", "oa": "2^16", "ob": "2^32", "oc": "2^64", "od": "2^128", "c": "B", "e": "There are 2^32 possible IPv4 addresses."}, {"q": "He hit ___ a brilliant idea suddenly.", "oa": "upon", "ob": "on", "oc": "at", "od": "up", "c": "A", "e": "Hit upon means discover by chance."}, {"q": "درج ذیل میں سے 'مکمل' کا متضاد کون سا ہے؟", "oa": "تمام", "ob": "پورا", "oc": "کامل", "od": "نامکمل", "c": "D", "e": "مکمل کا متضاد نامکمل ہے۔"}, {"q": "In the context of animations, what is a trigger?", "oa": "An action button that advances to the next slide", "ob": "An item on the slide that performs an action when clicked", "oc": "The name of a motion path", "od": "All of above", "c": "B", "e": ""}, {"q": "Murder of one's brother is known as:", "oa": "Fratricide", "ob": "Patricide", "oc": "Matricide", "od": "Homicide", "c": "A", "e": "Murder of one's brother is fratricide."}, {"q": "'مصنف' کی مونث کیا ہے؟", "oa": "مصنفہ", "ob": "مصنفنی", "oc": "مصنفی", "od": "مصنفیں", "c": "A", "e": "'مصنف' کی مونث 'مصنفہ' ہے۔"}, {"q": "What is the length of Karakoram Highway?", "oa": "810 miles", "ob": "910 miles", "oc": "710 miles", "od": "610 miles", "c": "A", "e": ""}, {"q": "'آب' کے مترادف لفظ کی نشاندہی کریں؟", "oa": "مٹی", "ob": "پانی", "oc": "آگ", "od": "ہوا", "c": "B", "e": "آب کا مترادف پانی ہے۔"}, {"q": "Bhutto was the _____ PM of Pakistan", "oa": "6th", "ob": "8th", "oc": "9th", "od": "10th", "c": "C", "e": ""}, {"q": "لفظ 'حرب' کا مترادف کیا ہے؟", "oa": "صلح", "ob": "معاہدہ", "oc": "امن", "od": "جنگ", "c": "D", "e": "حرب کا مترادف جنگ ہے۔"}, {"q": "Buffer memory is used to:", "oa": "Store the BIOS", "ob": "Increase hard disk size", "oc": "Replace RAM", "od": "Temporarily hold data during transfer between devices", "c": "D", "e": "Buffers temporarily hold data during transfer between devices."}, {"q": "محاورہ 'جان چھوٹنا' کس معنی میں استعمال ہوتا ہے؟", "oa": "مر جانا", "ob": "مصیبت سے نجات پانا", "oc": "بیمار ہونا", "od": "ڈر جانا", "c": "B", "e": "جان چھوٹنا کا مطلب مصیبت سے نجات پانا ہے۔"}, {"q": "In ACID, the D stands for:", "oa": "Data", "ob": "Dependency", "oc": "Duplication", "od": "Durability", "c": "D", "e": "D in ACID stands for Durability."}, {"q": "What is the synonym of \"A bolt from the blue\"?", "oa": "bad luck", "ob": "God sent gift", "oc": "a feared event", "od": "sudden unwelcome event", "c": "D", "e": ""}, {"q": "Application software is designed to:", "oa": "Manage computer hardware", "ob": "Boot the computer", "oc": "Perform specific tasks for the user", "od": "Control memory allocation", "c": "C", "e": "Application software helps users perform specific tasks like word processing."}, {"q": "'ابتدا' کے متضاد لفظ کی نشاندہی کریں؟", "oa": "آغاز", "ob": "شروع", "oc": "انتہا", "od": "اول", "c": "C", "e": "ابتدا کا متضاد انتہا ہے۔"}, {"q": "A scanner is an:", "oa": "Output device", "ob": "Input device", "oc": "Storage device", "od": "Processing device", "c": "B", "e": "A scanner is an input device."}, {"q": "Recipients in BCC:", "oa": "Are visible to all", "ob": "Receive no email", "oc": "Are hidden from other recipients", "od": "Cannot reply", "c": "C", "e": "BCC recipients are hidden from others."}, {"q": "لفظ 'واجب' کا متضاد کیا ہے؟", "oa": "فرض", "ob": "غیر واجب", "oc": "ضروری", "od": "لازم", "c": "B", "e": "واجب کا متضاد غیر واجب ہے۔"}, {"q": "To activate the previous cell in a pre-selected range, press", "oa": "The Alt key", "ob": "The Tab key", "oc": "The Enter key", "od": "None of the above", "c": "D", "e": ""}, {"q": "Excel probably considers the cell entry January 1, 2020 to be a", "oa": "Label", "ob": "Value", "oc": "Formula", "od": "Text string", "c": "B", "e": ""}, {"q": "In order to edit a chart, you can:", "oa": "Triple click the chart object", "ob": "Click and drag the chart object", "oc": "Double click the chart object", "od": "Click the chart object", "c": "C", "e": ""}, {"q": "The word TEMERITY is closest in meaning to:", "oa": "Caution", "ob": "Prudence", "oc": "Wisdom", "od": "Rashness", "c": "D", "e": "Temerity means rashness or boldness."}, {"q": "Choose the word opposite in meaning to EXODUS.", "oa": "Departure", "ob": "Influx", "oc": "Exit", "od": "Escape", "c": "B", "e": "Exodus means departure; its opposite is influx."}, {"q": "The three-schema architecture includes:", "oa": "Physical, logical, view", "ob": "External, conceptual, internal", "oc": "Local, global, remote", "od": "Primary, foreign, candidate", "c": "B", "e": "The three schemas are external, conceptual, internal."}, {"q": "Which SQL command deletes a whole table structure?", "oa": "DELETE", "ob": "REMOVE", "oc": "DROP TABLE", "od": "CLEAR", "c": "C", "e": "DROP TABLE deletes the whole table structure."}, {"q": "Select the correctly spelled word:", "oa": "Neighbour", "ob": "Neighbore", "oc": "Naighbour", "od": "Nieghbour", "c": "A", "e": "Neighbour is the correct British spelling."}, {"q": "Choose the word opposite in meaning to IGNOMINY.", "oa": "Disgrace", "ob": "Honor", "oc": "Shame", "od": "Infamy", "c": "B", "e": "Ignominy means disgrace; its opposite is honor."}, {"q": "'ایک دوسرے' قواعد کی رو سے کیا ہے؟", "oa": "اسم", "ob": "ضمیر باہمی", "oc": "حرف", "od": "صفت", "c": "B", "e": "ایک دوسرے باہمی تعلق ظاہر کرتا ہے اس لیے ضمیر باہمی ہے۔"}, {"q": "'دلیل' کی جمع کیا ہوگی؟", "oa": "دلائل", "ob": "دلیلوں", "oc": "دلیلیں", "od": "دوالل", "c": "A", "e": "'دلیل' کی جمع 'دلائل' ہے۔"}, {"q": "Which of the following is not a PowerPoint view?", "oa": "Slide show view", "ob": "Slide view", "oc": "Presentation view", "od": "Outline view", "c": "C", "e": ""}, {"q": "'لاہور' اسم کی کون سی قسم ہے؟", "oa": "اسم نکرہ", "ob": "اسم معرفہ", "oc": "اسم صفت", "od": "اسم فعل", "c": "B", "e": "لاہور خاص نام ہے اس لیے اسم معرفہ ہے۔"}, {"q": "The ipconfig command in Windows shows:", "oa": "IP configuration of the computer", "ob": "Disk partitions", "oc": "Running processes", "od": "Open ports", "c": "A", "e": "Ipconfig shows the IP configuration."}, {"q": "The octal equivalent of decimal 7 is:", "oa": "7", "ob": "10", "oc": "11", "od": "17", "c": "A", "e": "Decimal 7 = 7 in octal."}, {"q": "زمرد، حسین، شیخ علی وجودی، طور معنی، کاظم جنوبی وغیرہ کس تاریخی ناول کے معروف کردار ہیں؟", "oa": "زوالِ بغداد", "ob": "فلورا فلورینڈا", "oc": "فردوسِ بریں", "od": "ملک العزیز و ورجنا", "c": "C", "e": ""}, {"q": "Less than one per cent of Earth's water is fresh water, but the oceans contain ______ per cent of the Earth's water.", "oa": "87%", "ob": "97%", "oc": "77%", "od": "99%", "c": "B", "e": ""}, {"q": "How many layers does the OSI model have?", "oa": "4", "ob": "5", "oc": "7", "od": "9", "c": "C", "e": "The OSI model has 7 layers."}, {"q": "He stood ___ for his rights bravely.", "oa": "out", "ob": "up", "oc": "for", "od": "by", "c": "B", "e": "Stand up for means defend."}, {"q": "The binary equivalent of decimal 15 is:", "oa": "1110", "ob": "1111", "oc": "1010", "od": "1101", "c": "B", "e": "Decimal 15 = 1111 in binary."}, {"q": "Find the synonym of LUCID.", "oa": "Obscure", "ob": "Confusing", "oc": "Clear", "od": "Vague", "c": "C", "e": "Lucid means clear or easily understood."}, {"q": "ALU performs:", "oa": "Only control functions", "ob": "Only storage", "oc": "Arithmetic and logical operations", "od": "Input operations", "c": "C", "e": "ALU performs arithmetic and logical operations."}, {"q": "Choose the passive voice of: I have seen the movie.", "oa": "The movie has been seen by me.", "ob": "The movie is seen by me.", "oc": "The movie was seen by me.", "od": "The movie had been seen by me.", "c": "A", "e": "Present perfect passive uses has been plus past participle."}, {"q": "Which of the following is a database backup type?", "oa": "Full backup", "ob": "Quick backup", "oc": "Fast backup", "od": "Light backup", "c": "A", "e": "Full backup is a standard backup type."}, {"q": "The chart wizard term data series refers to", "oa": "A chart legend", "ob": "A collection of chart data markers", "oc": "A set of values you plot in a chart", "od": "A data label", "c": "B", "e": ""}, {"q": "SRAM does not need refreshing because it uses:", "oa": "Capacitors", "ob": "Flip-flops (transistors)", "oc": "Magnetic cores", "od": "Laser beams", "c": "B", "e": "SRAM uses flip-flops that hold data without refreshing."}, {"q": "'مراۃ العروس' کس کا ناول ہے؟", "oa": "رتن ناتھ سرشار", "ob": "ڈپٹی نذیر احمد", "oc": "مرزا ہادی رسوا", "od": "عبدالحلیم شرر", "c": "B", "e": "مراۃ العروس ڈپٹی نذیر احمد کا ناول ہے۔"}, {"q": "'لوہار' کی مونث کیا ہوگی؟", "oa": "لوہاری", "ob": "لوہارا", "oc": "لوہارن", "od": "لوہارنیں", "c": "C", "e": "'لوہار' کی مونث 'لوہارن' ہے۔"}, {"q": "FAT32 is a:", "oa": "File system", "ob": "Type of RAM", "oc": "Printer language", "od": "CPU architecture", "c": "A", "e": "FAT32 is a file system."}, {"q": "Cache in a browser:", "oa": "Deletes history", "ob": "Blocks ads", "oc": "Sends emails", "od": "Stores temporary web files for faster loading", "c": "D", "e": "Browser cache speeds up loading."}, {"q": "A checksum is used to:", "oa": "Detect errors in transmitted data", "ob": "Encrypt passwords", "oc": "Compress files", "od": "Route packets", "c": "A", "e": "A checksum detects errors in transmitted data."}, {"q": "Short cut Ctrl + F is used to", "oa": "Open Find and Replace Dialog box with activating Find Tab", "ob": "Open Page Setup Dialog box with activating Layout Tab", "oc": "Open Font Dialog Box with activating Font tab", "od": "Open File Save as Dialog box", "c": "A", "e": ""}, {"q": "ضرب المثل 'صحت ہزار نعمت ہے' کا مطلب کیا ہے؟", "oa": "نعمتیں گننی چاہئیں", "ob": "صحت سب سے بڑی نعمت ہے", "oc": "ہزار روپے کمانے چاہئیں", "od": "بیمار رہنا چاہیے", "c": "B", "e": "صحت ہزار نعمت ہے کا مطلب ہے صحت سب سے بڑی نعمت ہے۔"}, {"q": "Rule by the mob is called:", "oa": "Democracy", "ob": "Ochlocracy", "oc": "Anarchy", "od": "Mobocracy", "c": "D", "e": "Rule by the mob is mobocracy."}, {"q": "'وہ آتا ہوگا' میں فعل کی کون سی قسم ہے؟", "oa": "فعل مضارع احتمالی", "ob": "فعل ماضی", "oc": "فعل امر", "od": "فعل حال", "c": "A", "e": "آتا ہوگا میں احتمال ہے اس لیے فعل مضارع احتمالی ہے۔"}, {"q": "Choose the word most similar in meaning to EFFICACIOUS.", "oa": "Useless", "ob": "Effective", "oc": "Futile", "od": "Vain", "c": "B", "e": "Efficacious means effective in producing results."}, {"q": "'پتہ پتہ بوٹا بوٹا حال ہمارا جانے ہے' کس کا شعر ہے؟", "oa": "مرزا غالب", "ob": "علامہ اقبال", "oc": "فیض احمد فیض", "od": "میر تقی میر", "c": "D", "e": "یہ شعر میر تقی میر کا ہے۔"}, {"q": "The binary equivalent of decimal 8 is:", "oa": "1000", "ob": "1001", "oc": "111", "od": "1010", "c": "A", "e": "Decimal 8 = 1000 in binary."}, {"q": "لفظ 'ہنگامہ' کا مترادف کیا ہے؟", "oa": "خاموشی", "ob": "سکوت", "oc": "امن", "od": "شور", "c": "D", "e": "ہنگامہ کا مترادف شور ہے۔"}, {"q": "Choose the word most similar in meaning to HERETIC.", "oa": "Believer", "ob": "Conformist", "oc": "Dissenter", "od": "Follower", "c": "C", "e": "Heretic means a dissenter from doctrine."}, {"q": "To exit from the Resume Wizard and return to the document window without creating a resume, click the ________ button in any panel in the Resume Wizard dialog box.", "oa": "Cancel", "ob": "Back", "oc": "Next", "od": "Finish", "c": "D", "e": ""}, {"q": "'آسمان سر پر اٹھانا' سے کیا مراد ہے؟", "oa": "چھت بنانا", "ob": "بادل دیکھنا", "oc": "پرندے اڑانا", "od": "بہت شور مچانا", "c": "D", "e": "آسمان سر پر اٹھانا کا مطلب بہت شور مچانا ہے۔"}, {"q": "'دروازہ ___ گیا۔' خالی جگہ پر مناسب لفظ لگائیں۔", "oa": "کھل", "ob": "کھلی", "oc": "کھلے", "od": "کھلیں", "c": "A", "e": "دروازہ کھل گیا درست جملہ ہے۔"}, {"q": "What is the term used when you press and hold the left mouse key and move the mouse around the slide?", "oa": "Highlighting", "ob": "Dragging", "oc": "Selecting", "od": "B and C", "c": "B", "e": ""}, {"q": "Choose the indirect speech: He said, 'Beware of pickpockets.'", "oa": "He said beware of pickpockets.", "ob": "He ordered beware of pickpockets.", "oc": "He warned me to beware of pickpockets.", "od": "He said that beware of pickpockets.", "c": "C", "e": "Warnings become warned plus to-infinitive."}, {"q": "Which file extension is commonly risky in email attachments?", "oa": ".txt", "ob": ".jpg", "oc": ".exe", "od": ".pdf", "c": "C", "e": ".exe files can carry malware."}, {"q": "\"Ctrl + End\" is used to", "oa": "Moves the cursor to the end of Line", "ob": "Moves the cursor to the end of Document", "oc": "Moves the cursor to the end of Paragraph", "od": "None of the Above", "c": "B", "e": ""}, {"q": "One who loves mankind is called:", "oa": "Misanthrope", "ob": "Egoist", "oc": "Philanthropist", "od": "Cynic", "c": "C", "e": "One who loves mankind is a philanthropist."}, {"q": "Which encoding is most widely used on the internet?", "oa": "EBCDIC", "ob": "UTF-8 (Unicode)", "oc": "ASCII only", "od": "BCD", "c": "B", "e": "UTF-8 is the most widely used encoding on the internet."}, {"q": "Single-line comments in C++ start with:", "oa": "/*", "ob": "#", "oc": "//", "od": "<!--", "c": "C", "e": "The // marks a single-line comment in C++."}, {"q": "Linux is a/an:", "oa": "Operating System", "ob": "Utility program", "oc": "Application Software", "od": "Educational Software", "c": "A", "e": ""}, {"q": "Which planet is visible from Earth?", "oa": "Venus", "ob": "Neptune", "oc": "Uranus", "od": "Earth", "c": "A", "e": ""}, {"q": "'موچی' کی مونث کیا ہے؟", "oa": "موچن", "ob": "موچنی", "oc": "موچیا", "od": "موچیاں", "c": "A", "e": "'موچی' کی مونث 'موچن' ہے۔"}, {"q": "In a flowchart, the diamond symbol represents:", "oa": "Decision", "ob": "Process", "oc": "Start", "od": "Connector", "c": "A", "e": "The diamond shows a decision point."}, {"q": "What does 'to fish in troubled waters' mean?", "oa": "To catch fish", "ob": "To take advantage of a disturbed situation", "oc": "To swim well", "od": "To sail", "c": "B", "e": "It means to take advantage of a disturbed situation."}, {"q": "A page file (swap file) is associated with:", "oa": "ROM", "ob": "Cache", "oc": "Virtual memory", "od": "Registers", "c": "C", "e": "The page file is used by virtual memory management."}, {"q": "Which of the following should you use to add shading to a drawing object on or an auto shape object?", "oa": "Text box tool", "ob": "Line tool", "oc": "Fill color", "od": "B and C", "c": "D", "e": ""}, {"q": "محاورہ 'کوڑی کوڑی محتاج ہونا' کس معنی میں استعمال ہوتا ہے؟", "oa": "بہت غریب ہونا", "ob": "پیسے گننا", "oc": "امیر ہونا", "od": "خیرات دینا", "c": "A", "e": "کوڑی کوڑی محتاج ہونا کا مطلب بہت غریب ہونا ہے۔"}]</script>
+<script>
+(function(){
+  var data = JSON.parse(document.getElementById('qdata').textContent);
+  var total = data.length, idx = 0;
+  var picked = new Array(total).fill(null); // 'A'..'D' or null
+  var $ = function(id){ return document.getElementById(id); };
+
+  function el(tag, cls, text){
+    var e = document.createElement(tag);
+    if (cls) e.className = cls;
+    if (text !== undefined && text !== null) e.textContent = text;
+    return e;
+  }
+
+  function renderPalette(){
+    var pal = $('palette'); pal.innerHTML = '';
+    for (var i = 0; i < total; i++){
+      (function(i){
+        var b = el('button', 'pal-btn', String(i+1));
+        b.type = 'button';
+        b.setAttribute('aria-label', 'Question ' + (i+1));
+        if (i === idx) b.classList.add('current');
+        if (picked[i] !== null) b.classList.add(picked[i] === data[i].c ? 'ok' : 'bad');
+        b.addEventListener('click', function(){ idx = i; render(); });
+        pal.appendChild(b);
+      })(i);
+    }
+  }
+
+  function render(){
+    var q = data[idx];
+    var box = $('qbox'); box.innerHTML = '';
+    var wrap = el('div', 'q-wrap');
+    wrap.appendChild(el('div', 'q-num', 'Question ' + (idx+1) + ' of ' + total));
+    var qt = el('div', 'q-text', q.q); qt.setAttribute('dir', 'auto');
+    wrap.appendChild(qt);
+    var opts = el('div', 'opts');
+    ['A','B','C','D'].forEach(function(L){
+      var key = 'o' + L.toLowerCase();
+      var btn = el('button', 'opt', L + ') ' + q[key]);
+      btn.type = 'button'; btn.setAttribute('dir', 'auto');
+      if (picked[idx] !== null){
+        btn.disabled = true;
+        if (L === q.c) btn.classList.add('correct');
+        else if (L === picked[idx]) btn.classList.add('wrong');
+      }
+      btn.addEventListener('click', function(){
+        if (picked[idx] !== null) return;
+        picked[idx] = L;
+        render();
+      });
+      opts.appendChild(btn);
+    });
+    wrap.appendChild(opts);
+    if (picked[idx] !== null){
+      var fb = el('div', 'feedback ' + (picked[idx] === q.c ? 'fb-ok' : 'fb-bad'),
+        picked[idx] === q.c ? '\u2713 Correct' : '\u2717 Wrong — correct answer: ' + q.c);
+      wrap.appendChild(fb);
+      if (q.e){ var ex = el('div', 'expl', 'Explanation: ' + q.e); ex.setAttribute('dir','auto'); wrap.appendChild(ex); }
+    }
+    box.appendChild(wrap);
+    var done = picked.filter(function(p){ return p !== null; }).length;
+    $('progressFill').style.width = (done/total*100) + '%';
+    $('counter').textContent = 'Question ' + (idx+1) + ' of ' + total + '  \u00b7  Answered ' + done + '/' + total;
+    $('prevBtn').disabled = (idx === 0);
+    $('nextBtn').disabled = (idx === total-1);
+    renderPalette();
+  }
+
+  function summary(){
+    var correct = 0, wrong = 0, skipped = 0;
+    var review = [];
+    for (var i = 0; i < total; i++){
+      if (picked[i] === null){ skipped++; review.push(i); }
+      else if (picked[i] === data[i].c){ correct++; }
+      else { wrong++; review.push(i); }
+    }
+    var box = $('qbox'); box.innerHTML = '';
+    var s = el('div', 'summary');
+    s.appendChild(el('h2', null, 'Your Score'));
+    var pct = Math.round(correct/total*100);
+    var big = el('div', 'score-big', correct + ' / ' + total);
+    s.appendChild(big);
+    s.appendChild(el('p', 'score-sub', pct + '%  \u00b7  Correct: ' + correct + '  \u00b7  Wrong: ' + wrong + '  \u00b7  Skipped: ' + skipped));
+    var note = el('p', 'score-note', 'PPSC one-paper pattern: 100 marks, 90 minutes, \u22120.25 per wrong answer.');
+    s.appendChild(note);
+    if (review.length){
+      s.appendChild(el('h3', null, 'Review your mistakes'));
+      review.forEach(function(i){
+        var q = data[i];
+        var r = el('div', 'rev');
+        r.appendChild(el('div', 'rev-q', 'Q' + (i+1) + '. ' + q.q));
+        var was = picked[i] === null ? 'Skipped' : 'You chose ' + picked[i];
+        r.appendChild(el('div', 'rev-a', was + '  \u00b7  Correct: ' + q.c + ') ' + q['o'+q.c.toLowerCase()]));
+        if (q.e){ var ex = el('div', 'rev-e', 'Explanation: ' + q.e); ex.setAttribute('dir','auto'); r.appendChild(ex); }
+        s.appendChild(r);
+      });
+    } else {
+      s.appendChild(el('p', 'score-note', 'Perfect — no mistakes to review!'));
+    }
+    var rb = el('button', 'btn btn-orange', 'Restart Set');
+    rb.type = 'button';
+    rb.addEventListener('click', function(){ picked = new Array(total).fill(null); idx = 0; render(); });
+    s.appendChild(rb);
+    box.appendChild(s);
+    $('palette').innerHTML = '';
+    $('counter').textContent = 'Finished';
+    $('progressFill').style.width = '100%';
+  }
+
+  $('prevBtn').addEventListener('click', function(){ if (idx > 0){ idx--; render(); } });
+  $('nextBtn').addEventListener('click', function(){ if (idx < total-1){ idx++; render(); } });
+  $('finishBtn').addEventListener('click', summary);
+  $('printBtn').addEventListener('click', function(){ window.print(); });
+  render();
+})();
+</script>
+</body>
+</html>
