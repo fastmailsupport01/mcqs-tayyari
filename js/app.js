@@ -146,7 +146,7 @@
       d.innerHTML = visual
         + (e.tag ? '<div class="meta"><span class="badge live">'+MT.esc(e.tag)+'</span></div>' : '')
         + '<h3>'+MT.esc(e.h1 || e.name)+'</h3><p><strong>'+MT.esc(e.full)+'</strong><br>'+MT.esc(e.desc)+'</p>'
-        + '<a class="btn btn-green" href="category.html?exam='+e.slug+'">Open '+MT.esc(e.name)+' →</a>';
+        + '<a class="btn btn-green" href="'+e.slug+'-test/">Open '+MT.esc(e.name)+' →</a>';
       grid.appendChild(d);
     });
   })();
