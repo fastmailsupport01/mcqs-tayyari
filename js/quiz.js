@@ -215,11 +215,11 @@
     var kick = document.querySelector(".sec-head .sec-kicker");
     if(kick && ex.full) kick.textContent = ex.full;
     var sub = document.querySelector(".sec-head p");
-    if(sub) sub.textContent = "Full-length mock test on our free exam simulator — " + sim.q + " questions, " + sim.min + " minutes, negative marking.";
+    if(sub) sub.textContent = "Full-length mock test on our free exam simulator — " + sim.q + " questions, " + sim.min + " minutes" + (sim.neg>0 ? ", negative marking." : ", no negative marking.");
     var logoHtml = ex.logo ? '<div><img class="exam-logo" src="'+ex.logo+'" alt="'+MT.esc(examName)+'" loading="lazy" style="width:96px;height:96px"></div>' : '';
     box.innerHTML = '<div class="result-card">'+logoHtml+'<span class="badge soon">'+MT.esc(examName)+' Mock Test</span>'
       + '<h2 style="margin:16px 0 8px">Choose Your Test Mode</h2>'
-      + '<div class="result-meta"><div><b>'+sim.q+'</b>MCQs</div><div><b>'+sim.min+'</b>Minutes</div><div><b>\u2212'+sim.neg+'</b>Negative marking</div><div><b>'+sim.pass+'%</b>Pass marks</div></div>'
+      + '<div class="result-meta"><div><b>'+sim.q+'</b>MCQs</div><div><b>'+sim.min+'</b>Minutes</div><div><b>'+(sim.neg>0?'\u2212'+sim.neg:'None')+'</b>Negative marking</div><div><b>'+sim.pass+'%</b>Pass marks</div></div>'
       + '<div class="mode-cards">'
       + '<div class="mode-card"><h3>\uD83D\uDDA5\uFE0F Online Mock Test</h3>'
       + '<p>Timed mock test on our exam simulator — instant green/red feedback with explanations, countdown timer, auto-submit.</p>'
@@ -254,7 +254,7 @@
       + '<div class="sub">Read the instructions carefully before starting the test.</div>'
       + '<h3>Test Pattern</h3><ul>'
       + '<li>Total questions: <b>'+questions.length+'</b> &nbsp;|&nbsp; Total marks: <b>'+questions.length+'</b> &nbsp;|&nbsp; Time: <b>'+sim.min+' minutes</b></li>'
-      + '<li>Each correct answer: <b>+1 mark</b>. Each wrong answer: <b>\u2212'+sim.neg+' marks</b>. Skipped questions score <b>0</b>.</li>'
+      + '<li>Each correct answer: <b>+1 mark</b>. '+(sim.neg>0?'Each wrong answer: <b>\u2212'+sim.neg+' marks</b>. ':'No negative marking. ')+'Skipped questions score <b>0</b>.</li>'
       + '<li>Qualifying score: <b>'+sim.pass+'%</b>.</li>'
       + '<li>The countdown timer runs at the top-right. The test <b>auto-submits</b> when time runs out.</li>'
       + '</ul><h3>How It Works</h3><ul>'
@@ -321,7 +321,7 @@
         + '<div class="cbt-progress"><i style="width:'+Math.round(done/total*100)+'%"></i></div>'
         + '<div class="cbt-main solo"><div class="cbt-qarea">'
         + '<div class="cbt-qhead"><span class="cbt-qno">Question '+(idx+1)+'</span>'
-        + '<span class="cbt-marks">Marks: <b>+1</b> <s>\u2212'+sim.neg+'</s></span></div>'
+        + '<span class="cbt-marks">Marks: <b>+1</b> '+(sim.neg>0?' <s>\u2212'+sim.neg+'</s>':' <i>(no negative marking)</i>')+'</span></div>'
         + '<div class="cbt-qtext">'+MT.esc(m.question)+'</div><div class="cbt-opts">';
       qopts[idx].forEach(function(o){
         var cls = "cbt-opt", tick = "";
@@ -388,7 +388,7 @@
         + '<div><span class="cbt-dot a"></span>Answered: <b>'+done+'</b></div>'
         + '<div><span class="cbt-dot na"></span>Unanswered: <b>'+left+'</b></div>'
         + '</div>'
-        + '<p style="font-size:14px;color:#42506a">Unanswered questions score 0. Wrong answers lose \u2212'+sim.neg+' each.</p>'
+        + '<p style="font-size:14px;color:#42506a">Unanswered questions score 0.'+(sim.neg>0?' Wrong answers lose \u2212'+sim.neg+' each.':' No negative marking.')+'</p>'
         + '<div class="cbt-dlg-btns">'
         + '<button class="cbt-no" id="dlgNo">Keep Solving</button>'
         + '<button class="cbt-yes" id="dlgYes">Yes, Submit</button></div>');
@@ -457,7 +457,7 @@
       + '<div class="paper-meta"><span>Total Questions: <b>'+total+'</b></span><span>Total Marks: <b>'+total+'</b></span>'
       + '<span>Time Allowed: <b>'+sim.min+' Minutes</b></span><span>Date: <b>'+dateStr+'</b></span></div>'
       + '<div class="paper-rules"><b>Instructions:</b><ol>'
-      + '<li>Each question carries <b>1 mark</b>. Each wrong answer loses <b>\u2212'+sim.neg+' marks</b>. Unattempted questions score 0.</li>'
+      + '<li>Each question carries <b>1 mark</b>. '+(sim.neg>0?'Each wrong answer loses <b>\u2212'+sim.neg+' marks</b>. ':'No negative marking. ')+'Unattempted questions score 0.</li>'
       + '<li>On the OMR sheet, fill the bubble <b>completely and darkly</b> with a blue or black ball-point pen.</li>'
       + '<li>Do not use tick marks, cross marks or correction fluid on the answer sheet.</li>'
       + '<li>Qualifying score: <b>'+sim.pass+'%</b>.</li></ol></div>'
@@ -473,7 +473,7 @@
     html += '</div>'
       // OMR sheet page
       + '<div class="paper-omr"><h3>OMR Answer Sheet</h3>'
-      + '<p class="omr-note">Correct (+1) &nbsp;&middot;&nbsp; Wrong (\u2212'+sim.neg+') &nbsp;&middot;&nbsp; Fill the circle of your chosen option completely.</p>'
+      + '<p class="omr-note">Correct (+1) &nbsp;&middot;&nbsp; '+(sim.neg>0?'Wrong (\u2212'+sim.neg+')':'No negative marking')+' &nbsp;&middot;&nbsp; Fill the circle of your chosen option completely.</p>'
       + '<div class="omr-fields"><span>Name: ______________________</span><span>Roll No: ______________</span><span>Date: ______________</span></div>'
       + '<div class="omr-grid">';
     var perCol = Math.ceil(total / 5);
