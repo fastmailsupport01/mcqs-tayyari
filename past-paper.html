@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Past Paper | MCQs Tayyari</title>
+<meta name="description" content="Solved past paper in real-paper format with practice mode, timed mock test and PDF print. No login.">
+<link rel="canonical" href="https://mcqstayyari.online/past-paper.html">
+<meta name="robots" content="index, follow">
+<link rel="icon" href="favicon.png">
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/cbt.css">
+</head>
+<body>
+<header class="site">
+  <div class="wrap header-inner">
+    <a class="brand" href="./"><img src="logo.png" alt="MCQs Tayyari logo"></a>
+    <button class="menu-btn" id="menuBtn" aria-label="Menu">☰</button>
+    <nav class="main-nav" id="mainNav">
+      <a href="./">Home</a>
+      <a href="subjects.html">Subjects</a>
+      <a href="past-papers.html">Past Papers</a><a href="blog.html">Blog</a>
+      <a href="exam.html" class="nav-cta">Mock Test</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </div>
+</header>
+
+<section class="block">
+  <div class="wrap">
+    <div id="paperBox"><div class="empty"><h3>Loading paper…</h3></div></div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <div class="foot-grid">
+      <div class="foot-brand"><img src="logo.png" alt="MCQs Tayyari logo"><p>Free test preparation for all Pakistan competitive exams — subject-wise MCQs, past papers and real exam simulators.</p></div>
+      <div><h4>Quick Links</h4><ul><li><a href="./">Home</a></li><li><a href="subjects.html">Subjects</a></li><li><a href="past-papers.html">Past Papers</a></li><li><a href="blog.html">Blog</a></li><li><a href="exam.html">Mock Test</a></li><li><a href="about.html">About Us</a></li></ul></div>
+      <div><h4>Legal</h4><ul><li><a href="privacy.html">Privacy Policy</a></li><li><a href="terms.html">Terms of Service</a></li><li><a href="contact.html">Contact Us</a></li></ul></div>
+    </div>
+    <div class="foot-bottom"><span>© 2026 MCQs Tayyari. All rights reserved.</span><span>Developed by <span class="credit">cos (chishti office sammundri)</span> · +92 3264025618</span></div>
+  </div>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="js/config.js"></script>
+<script src="js/app.js"></script>
+<script src="js/pastpapers.js"></script>
+<script>
+(function(){
+  "use strict";
+  var PP = window.MT_PP;
+  var box = document.getElementById("paperBox");
+  var params = new URLSearchParams(location.search);
+  var paperId = params.get("id");
+  var UUID_RE = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i;
+
+  function showEmpty(title, msg){
+    box.innerHTML = '<div class="empty"><h3>'+MT.esc(title)+'</h3><p>'+MT.esc(msg)+'</p>'
+      + '<a class="btn btn-green" href="past-papers.html" style="margin-top:18px">Browse Past Papers</a></div>';
+  }
+  if(!paperId || !UUID_RE.test(paperId)){ showEmpty("Paper not found", "The paper link looks invalid."); return; }
+
+  var paper = null, questions = [];
+
+  PP.fetchPaper(paperId, function(p){
+    if(!p){ showEmpty("Paper not found", "This paper may have been removed."); return; }
+    paper = p;
+    document.title = MT.esc(p.post) + " Past Paper " + PP.fmtYear(p.year) + " | MCQs Tayyari";
+    PP.fetchPaperQuestions(paperId, function(qs){
+      questions = qs;
+      renderPaper();
+    });
+  });
+
+  /* ---------- header block (real-paper style) ---------- */
+  function headerHtml(){
+    var ex = PP.examMeta(paper.exam_body);
+    var badge = PP.badgeFor(paper);
+    var held = (paper.year !== null && paper.year !== undefined && paper.year !== "")
+      ? "Past Paper \u2014 Held in " + MT.esc(paper.year)
+      : (paper.paper_kind === "practice_set" ? "Practice Set" : "Past Paper");
+    var why = paper.paper_kind === "practice_set"
+      ? "Assembled practice set \u2014 NOT a real past paper."
+      : (paper.verification_status === "official_sourced"
+          ? "Real paper \u2014 source recorded" + (paper.source_url ? ' (<a href="'+MT.esc(paper.source_url)+'" target="_blank" rel="noopener">source</a>)' : "") + "."
+          : (paper.verification_status === "unverified"
+              ? "Imported paper \u2014 answers not yet verified."
+              : "Collected from public solved papers \u2014 answers spot-checked."));
+    return '<div class="paper-doc">'
+      + '<div class="paper-doc-head">'
+      + (ex.logo ? '<img src="'+ex.logo+'" alt="'+MT.esc(ex.name)+'">' : "")
+      + '<h1>'+MT.esc((ex.full || ex.name).toUpperCase())+'</h1>'
+      + '<h2>'+MT.esc(paper.post)+'</h2>'
+      + '<div class="paper-held">'+held+'</div>'
+      + '</div>'
+      + '<div class="paper-doc-meta">'
+      + meta("Exam Date", PP.fmtDate(paper.exam_date))
+      + meta("Subject", paper.subject || "\u2014")
+      + meta("Time Allowed", PP.fmtTime(paper.time_allowed_minutes))
+      + meta("Total Marks", PP.fmtMarks(paper.total_marks))
+      + meta("Questions", PP.fmtCount(paper.total_questions || questions.length))
+      + meta("Negative Marking", PP.fmtNeg(paper.negative_marking))
+      + meta("Ad No.", paper.advertisement_no || "\u2014")
+      + '</div>'
+      + '<div class="paper-doc-badge"><span class="'+badge.cls+'">'+badge.label+'</span>'
+      + '<span class="why">'+why+'</span></div>'
+      + '<div class="paper-instructions"><h3>Instructions</h3>'
+      + '<div class="std-note">Standard instructions for practice \u2014 not the testing body\u2019s official text.</div>'
+      + '<ol>'
+      + '<li>Each question carries <b>1 mark</b> \u2014 attempt all questions.</li>'
+      + '<li>Choose <b>only one option</b> per question.</li>'
+      + (PP.negValue(paper.negative_marking) > 0
+          ? '<li>Each wrong answer loses <b>\u2212'+PP.negValue(paper.negative_marking)+' marks</b> \u2014 skip a question if you are unsure.</li>'
+          : '<li>There is <b>no negative marking</b> \u2014 attempt every question.</li>')
+      + '<li>Use <b>Practice mode</b> for instant feedback with explanations, or <b>Paper Mock Test</b> for the real timed experience.</li>'
+      + '</ol></div>'
+      + '<div class="paper-modes no-print">'
+      + '<button class="btn btn-green" id="modePractice">\uD83D\uDCDD Practice Mode</button>'
+      + '<button class="btn btn-orange" id="modeMock">\u23F1 Paper Mock Test</button>'
+      + '<button class="btn btn-outline" id="modePrint">\u2B07 Print / PDF</button>'
+      + '</div>'
+      + '<div class="paper-qs no-print" id="modeArea"></div>'
+      + '</div>'
+      // print-only clean question list (no answers)
+      + '<div class="pp-watermark" aria-hidden="true">'+MT.esc(PP.CREDIT)+'</div>'
+      + '<div id="printSheet" style="display:none">'
+      + printSheetHtml(ex)
+      + '<div class="paper-print-foot">'+MT.esc(PP.CREDIT)+' &middot; mcqstayyari.online</div>'
+      + '</div>';
+  }
+  function meta(k, v){
+    return '<div><div class="k">'+MT.esc(k)+'</div><div class="v">'+MT.esc(v)+'</div></div>';
+  }
+  function printSheetHtml(ex){
+    var h = '<div class="paper-doc-head">'
+      + '<h1>'+MT.esc((ex.full || ex.name).toUpperCase())+'</h1>'
+      + '<h2>'+MT.esc(paper.post)+'</h2>'
+      + '<div class="paper-held">Questions: '+questions.length+' &middot; Marks: '+MT.esc(PP.fmtMarks(paper.total_marks))+' &middot; Time: '+MT.esc(PP.fmtTime(paper.time_allowed_minutes))+'</div>'
+      + '</div><div style="padding:18px 6px">';
+    questions.forEach(function(m, i){
+      var n = (m.question_no !== null && m.question_no !== undefined) ? m.question_no : (i + 1);
+      h += '<div class="q-card" style="box-shadow:none"><div class="q-text" style="font-size:16px"><b>Q'+n+'.</b> '+MT.esc(m.question)+'</div><div class="opts" style="display:grid;grid-template-columns:1fr 1fr;gap:6px 18px;font-size:14px">'
+        + '<span><b>A.</b> '+MT.esc(m.option_a)+'</span>'
+        + '<span><b>B.</b> '+MT.esc(m.option_b)+'</span>'
+        + '<span><b>C.</b> '+MT.esc(m.option_c)+'</span>'
+        + '<span><b>D.</b> '+MT.esc(m.option_d)+'</span>'
+        + '</div></div>';
+    });
+    return h + '</div>';
+  }
+
+  function renderPaper(){
+    box.innerHTML = headerHtml();
+    var area = document.getElementById("modeArea");
+    document.getElementById("modePractice").addEventListener("click", function(){ renderPractice(area); scrollToArea(); });
+    document.getElementById("modeMock").addEventListener("click", function(){ renderMockIntro(area); scrollToArea(); });
+    document.getElementById("modePrint").addEventListener("click", function(){ window.print(); });
+    if(!questions.length){
+      area.innerHTML = '<div class="empty"><h3>Questions coming soon</h3><p>This paper\u2019s questions are being added.</p></div>';
+    } else {
+      renderPractice(area);
+    }
+    window.scrollTo({top: 0});
+  }
+  function scrollToArea(){
+    var a = document.getElementById("modeArea");
+    if(a && a.scrollIntoView) a.scrollIntoView({behavior: "smooth", block: "start"});
+  }
+
+  /* ---------- PRACTICE MODE: instant feedback, original question order ---------- */
+  function renderPractice(area){
+    if(!questions.length) return;
+    var answers = {};
+    var html = '<div class="score-strip" id="prScore"></div>';
+    questions.forEach(function(m, i){
+      var n = (m.question_no !== null && m.question_no !== undefined) ? m.question_no : (i + 1);
+      html += '<div class="q-card" data-i="'+i+'">'
+        + '<div class="q-top"><span>Question '+n+'</span><span>'+MT.esc(m.subject_slug || "")+'</span></div>'
+        + '<div class="q-text">'+MT.esc(m.question)+'</div><div class="opts">'
+        + ["A","B","C","D"].map(function(k){
+            return '<button class="opt" data-k="'+k+'"><span class="key">'+k+'.</span> '+MT.esc(m["option_"+k.toLowerCase()])+'<span class="tick"></span></button>';
+          }).join("")
+        + '</div><div class="explain"></div></div>';
+    });
+    area.innerHTML = html;
+    function updateScore(){
+      var a = 0, c = 0;
+      questions.forEach(function(m, i){
+        if(answers[i]){ a++; if(answers[i] === m.correct_option) c++; }
+      });
+      var s = document.getElementById("prScore");
+      if(s) s.innerHTML = '<span>Attempted: <b>'+a+'</b></span><span>Correct: <b>'+c+'</b></span><span>Total: <b>'+questions.length+'</b></span>';
+    }
+    area.querySelectorAll(".q-card").forEach(function(card){
+      var i = parseInt(card.getAttribute("data-i"), 10);
+      var m = questions[i];
+      card.querySelectorAll(".opt").forEach(function(b){
+        b.addEventListener("click", function(){
+          if(answers[i]) return;
+          answers[i] = b.getAttribute("data-k");
+          card.querySelectorAll(".opt").forEach(function(x){
+            x.disabled = true;
+            var k = x.getAttribute("data-k");
+            if(k === m.correct_option){ x.classList.add("correct"); x.querySelector(".tick").textContent = "\u2713"; }
+            else if(k === answers[i]){ x.classList.add("wrong"); x.querySelector(".tick").textContent = "\u2717"; }
+          });
+          var ex = card.querySelector(".explain");
+          ex.innerHTML = "<strong>Explanation:</strong> " + MT.esc(m.explanation || ("Correct answer is option " + m.correct_option + "."));
+          ex.classList.add("show");
+          updateScore();
+        });
+      });
+    });
+    updateScore();
+  }
+
+  /* ---------- PAPER MOCK TEST: timed, hidden answers, real paper timing ---------- */
+  function renderMockIntro(area){
+    if(!questions.length) return;
+    var mins = paper.time_allowed_minutes || 90;
+    var neg = PP.negValue(paper.negative_marking);
+    area.innerHTML = '<div class="cbt"><div class="cbt-instr">'
+      + '<h2>Paper Mock Test</h2>'
+      + '<div class="sub">'+MT.esc(paper.post)+' \u2014 real paper timing.</div>'
+      + '<h3>Test Pattern</h3><ul>'
+      + '<li>Total questions: <b>'+questions.length+'</b> &nbsp;|&nbsp; Total marks: <b>'+MT.esc(PP.fmtMarks(paper.total_marks))+'</b> &nbsp;|&nbsp; Time: <b>'+mins+' minutes</b></li>'
+      + '<li>Each correct answer: <b>+1 mark</b>. '+(neg > 0 ? 'Each wrong answer: <b>\u2212'+neg+' marks</b>. ' : 'No negative marking. ')+'Skipped questions score <b>0</b>.</li>'
+      + '<li>Answers stay <b>hidden</b> until you submit \u2014 just like the real paper.</li>'
+      + '<li>The countdown timer runs at the top. The test <b>auto-submits</b> when time runs out.</li>'
+      + '</ul>'
+      + '<label class="cbt-agree"><input type="checkbox" id="mkAgree"> <span>I have read the instructions and the marking scheme.</span></label>'
+      + '<div><button class="cbt-start" id="mkStart" disabled>Start Mock Test</button></div>'
+      + '<div class="cbt-disc">Practice rendering on the MCQs Tayyari simulator. Not the official screen of any testing authority.</div>'
+      + '</div></div>';
+    document.getElementById("mkAgree").addEventListener("change", function(){
+      document.getElementById("mkStart").disabled = !this.checked;
+    });
+    document.getElementById("mkStart").addEventListener("click", function(){ renderMock(area); });
+  }
+
+  function renderMock(area){
+    var mins = paper.time_allowed_minutes || 90;
+    var neg = PP.negValue(paper.negative_marking);
+    var total = questions.length, idx = 0, timeLeft = mins * 60, timerId = null;
+    var answers = new Array(total).fill(null);
+    var ex = PP.examMeta(paper.exam_body);
+
+    function fmt(s){ var m = Math.floor(s/60), ss = s%60; return (m<10?"0":"")+m+":"+(ss<10?"0":"")+ss; }
+    function attempted(){ var n = 0; for(var k=0;k<total;k++) if(answers[k]!==null) n++; return n; }
+
+    function draw(){
+      var m = questions[idx], a = answers[idx];
+      var n = (m.question_no !== null && m.question_no !== undefined) ? m.question_no : (idx+1);
+      var html = '<div class="cbt">'
+        + '<div class="cbt-top"><div class="cbt-brand">'
+        + (ex.logo ? '<img src="'+ex.logo+'" alt="">' : '')
+        + '<span>'+MT.esc(paper.post)+'</span></div>'
+        + '<span class="cbt-mode">MOCK TEST</span><span class="spacer"></span>'
+        + '<span class="cbt-qcount">Question '+n+' of '+total+'</span>'
+        + '<span class="cbt-timer'+(timeLeft<300?' danger':'')+'" id="mkTimer">'+fmt(Math.max(0,timeLeft))+'</span>'
+        + '<button class="cbt-btn submit" id="mkSubmit">Submit Test</button></div>'
+        + '<div class="cbt-progress"><i style="width:'+Math.round(attempted()/total*100)+'%"></i></div>'
+        + '<div class="cbt-main solo"><div class="cbt-qarea">'
+        + '<div class="cbt-qhead"><span class="cbt-qno">Question '+n+'</span>'
+        + '<span class="cbt-marks">Marks: <b>+1</b> '+(neg>0?' <s>\u2212'+neg+'</s>':' <i>(no negative marking)</i>')+'</span></div>'
+        + '<div class="cbt-qtext">'+MT.esc(m.question)+'</div><div class="cbt-opts">';
+      ["A","B","C","D"].forEach(function(k){
+        var sel = (a === k) ? " picked" : "";
+        html += '<button class="cbt-opt'+sel+'" data-k="'+k+'"><span class="key">'+k+'</span><span>'+MT.esc(m["option_"+k.toLowerCase()])+'</span></button>';
+      });
+      html += '</div><div class="cbt-actions">'
+        + '<button class="cbt-act clear" id="mkBack"'+(idx===0?' disabled style="opacity:.4;cursor:default"':'')+'>\u2190 Back</button>'
+        + '<span class="cbt-att">Answered: <b>'+attempted()+' / '+total+'</b></span>'
+        + (idx < total-1 ? '<button class="cbt-act save" id="mkNext">Next \u2192</button>' : '<button class="cbt-act save" id="mkNext">See Result \u2192</button>')
+        + '</div></div></div></div>';
+      area.innerHTML = html;
+      if(!timerId){
+        timerId = setInterval(function(){
+          timeLeft--;
+          var t = document.getElementById("mkTimer");
+          if(t){ t.textContent = fmt(Math.max(0,timeLeft)); if(timeLeft<300) t.classList.add("danger"); }
+          if(timeLeft <= 0) finish(true);
+        }, 1000);
+      }
+      area.querySelectorAll(".cbt-opt").forEach(function(b){
+        b.addEventListener("click", function(){ answers[idx] = b.getAttribute("data-k"); draw(); });
+      });
+      var bb = document.getElementById("mkBack");
+      if(bb && idx > 0) bb.addEventListener("click", function(){ idx--; draw(); });
+      document.getElementById("mkNext").addEventListener("click", function(){
+        if(idx < total-1){ idx++; draw(); } else finish(false);
+      });
+      document.getElementById("mkSubmit").addEventListener("click", function(){ finish(false); });
+      window.scrollTo({top: 0});
+    }
+
+    function finish(auto){
+      if(timerId){ clearInterval(timerId); timerId = null; }
+      var correct = 0, wrong = 0, skipped = 0;
+      questions.forEach(function(m, k){
+        var a = answers[k];
+        if(a === null) skipped++;
+        else if(a === m.correct_option) correct++;
+        else wrong++;
+      });
+      var score = correct - wrong * neg;
+      var pct = total ? Math.round(score / total * 100) : 0;
+      var html = '<div class="cbt"><div class="cbt-result"><div class="cbt-rcard">'
+        + '<span class="badge '+(pct >= 40 ? 'live' : 'soon')+'">'+(pct >= 40 ? 'QUALIFIED \u2713' : 'NOT QUALIFIED')+(auto ? ' (auto-submitted \u2014 time up)' : '')+'</span>'
+        + '<div class="cbt-score">'+score.toFixed(2)+' / '+total+'</div>'
+        + '<div style="color:#42506a;font-size:14.5px">'+pct+'%</div>'
+        + '<div class="cbt-break">'
+        + '<div><b style="color:#2f9e5f">'+correct+'</b>Correct (+'+correct+')</div>'
+        + '<div><b style="color:#e05252">'+wrong+'</b>Wrong (\u2212'+(wrong*neg).toFixed(2)+')</div>'
+        + '<div><b>'+skipped+'</b>Skipped</div>'
+        + '</div>'
+        + '<div class="btn-row" style="justify-content:center;display:flex;gap:10px;flex-wrap:wrap">'
+        + '<a class="btn btn-green" href="past-papers.html">More Past Papers</a>'
+        + '<a class="btn btn-orange" href="past-paper.html?id='+paperId+'">Retake Paper</a></div>'
+        + '</div><div class="cbt-review"><h3 style="color:#16305b">Answer Review</h3>';
+      questions.forEach(function(m, k){
+        var a = answers[k];
+        var n = (m.question_no !== null && m.question_no !== undefined) ? m.question_no : (k+1);
+        var cls = a === null ? "soon" : (a === m.correct_option ? "live" : "soon");
+        var mark = a === null ? "Skipped" : (a === m.correct_option ? "\u2713 Correct" : "\u2717 Wrong \u2014 you chose "+a+", answer is "+m.correct_option);
+        html += '<div class="rv"><div class="rvq">'+n+'. '+MT.esc(m.question)+'</div>'
+          + '<span class="badge '+cls+'">'+mark+'</span>'
+          + (m.explanation ? '<div style="margin-top:10px;font-size:14.5px;color:#42506a">'+MT.esc(m.explanation)+'</div>' : '')
+          + '</div>';
+      });
+      html += '</div></div></div>';
+      area.innerHTML = html;
+      window.scrollTo({top: 0, behavior: "smooth"});
+    }
+
+    draw();
+  }
+})();
+</script>
+</body>
+</html>

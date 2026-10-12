@@ -52,11 +52,18 @@
     </div>
 
     <div class="sec-head" style="margin-bottom:26px">
-      <h2 style="font-size:24px">📖 Books &amp; Notes</h2>
+      <h2 style="font-size:24px" id="prepTitle">📚 How to Prepare</h2>
     </div>
-    <div class="empty" id="booksBox" style="margin-bottom:56px">
-      <h3>Books coming soon</h3>
-      <p id="booksMsg">Recommended books and notes for this exam are being added.</p>
+    <div class="page-block" style="margin-bottom:56px">
+      <p>Smart Your Exam preparation is about <strong>pattern, practice and revision</strong> — not just reading more books. Here is a practical plan built around this site’s free tools:</p>
+      <ol>
+        <li><strong>Master the pattern first.</strong> Study the exam pattern table above — questions, time limit, marks and negative marking — before attempting a single MCQ.</li>
+        <li><strong>Build subject-wise depth.</strong> Practice one subject at a time with explanations on, so every mistake teaches you something new.</li>
+        <li><strong>Train under time pressure.</strong> Take the <a href="exam.html?exam=exam">timed Your Exam mock test</a> regularly — answering against the clock builds the speed and accuracy the real test demands.</li>
+        <li><strong>Revise your weak areas.</strong> Re-attempt the questions you got wrong and drill the subjects where your score is lowest.</li>
+        <li><strong>Stay current.</strong> Current affairs and everyday science change every month — keep practicing fresh MCQs right up to exam week.</li>
+      </ol>
+      <p>Start today: <a href="exam.html?exam=exam">take a mock test →</a> or <a href="subjects.html">practice subject-wise MCQs →</a>.</p>
     </div>
 
     <div class="sec-head" style="margin-bottom:26px">
@@ -78,8 +85,6 @@
     </div>
   </div>
 </section>
-
-
 
 <div class="wrap"><div class="ad-slot"><span>Advertisement</span><div class="ad-note">AdSense ad unit — responsive</div></div></div>
 
@@ -114,7 +119,7 @@
     li.style.width = "110px"; li.style.height = "110px";
     document.getElementById("examName").parentNode.insertBefore(li, document.getElementById("examName"));
   }
-  document.getElementById("booksMsg").textContent = "Recommended books and notes for " + ex.name + " are being added — check back soon.";
+    document.getElementById("prepTitle").textContent = "📚 How to Prepare for " + ex.name;
   document.getElementById("simLink").href = "exam.html?exam=" + ex.slug;
   document.getElementById("ppLink").href = "practice.html?exam=" + ex.slug + "&subject=past-papers";
   document.getElementById("simTitle").textContent = ex.name + " Mock Test";
@@ -124,6 +129,7 @@
       ? "Timed MCQs with negative marking — the real exam feel."
       : "Timed MCQs, no negative marking — the real exam feel.";
   }
+  // Subjects: only this exam's subjects (extras removed per research)
   var grid = document.getElementById("catSubjects");
   var subSlugs = ex.subjects || MT_SUBJECTS.map(function(s){return s.slug;});
   var subjCount = 0;
@@ -138,10 +144,11 @@
     grid.appendChild(d);
   });
   document.getElementById("subjSub").textContent = "Click any subject to start practicing for this exam — " + subjCount + " subjects in the " + ex.name + " syllabus.";
+  // Pattern table: this exam's real pattern (from research)
   var sim = ex.sim || {q:100,min:90,neg:0.25,pass:40};
   document.getElementById("patKicker").textContent = ex.name + " Pattern Guide";
   document.getElementById("patTitle").textContent = ex.name + " Exam Pattern";
-  var negTxt = sim.neg>0 ? "−"+sim.neg+" per wrong answer" : "None";
+  var negTxt = sim.neg>0 ? "\u2212"+sim.neg+" per wrong answer" : "None";
   var rows = [
     ["Total Questions", sim.q + " MCQs"],
     ["Total Marks", sim.q],
