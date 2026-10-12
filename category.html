@@ -18,7 +18,7 @@
     <nav class="main-nav" id="mainNav">
       <a href="index.html">Home</a>
       <a href="subjects.html">Subjects</a><a href="blog.html">Blog</a>
-      <a href="exam.html" class="nav-cta">Exam Simulator</a>
+      <a href="exam.html" class="nav-cta">Mock Test</a>
       <a href="about.html">About</a>
       <a href="contact.html">Contact</a>
     </nav>
@@ -59,9 +59,9 @@
       </div>
       <div class="card">
         <div class="card-icon">⏱️</div>
-        <h3 id="simTitle">Exam Simulator</h3>
+        <h3 id="simTitle">Mock Test</h3>
         <p>Timed MCQs with negative marking — the real exam feel.</p>
-        <a class="btn btn-orange" id="simLink" href="exam.html">Start Simulator →</a>
+        <a class="btn btn-orange" id="simLink" href="exam.html">Start Mock Test →</a>
       </div>
     </div>
   </div>
@@ -94,7 +94,7 @@
   <div class="wrap">
     <div class="foot-grid">
       <div class="foot-brand"><img src="logo.png" alt="MCQs Tayyari logo"><p>Free PPSC test preparation — subject-wise MCQs, past papers and a real exam simulator.</p></div>
-      <div><h4>Quick Links</h4><ul><li><a href="index.html">Home</a></li><li><a href="subjects.html">Subjects</a></li><li><a href="blog.html">Blog</a></li><li><a href="exam.html">Exam Simulator</a></li><li><a href="about.html">About Us</a></li></ul></div>
+      <div><h4>Quick Links</h4><ul><li><a href="index.html">Home</a></li><li><a href="subjects.html">Subjects</a></li><li><a href="blog.html">Blog</a></li><li><a href="exam.html">Mock Test</a></li><li><a href="about.html">About Us</a></li></ul></div>
       <div><h4>Legal</h4><ul><li><a href="privacy.html">Privacy Policy</a></li><li><a href="terms.html">Terms of Service</a></li><li><a href="contact.html">Contact Us</a></li></ul></div>
     </div>
     <div class="foot-bottom"><span>© 2026 MCQs Tayyari. All rights reserved.</span><span>Developed by <span class="credit">cos (chishti office sammundri)</span> · +92 3264025618</span></div>
@@ -125,7 +125,7 @@
   if(slug === "ppsc"){ document.getElementById("ppscPattern").style.display = ""; }
   document.getElementById("simLink").href = "exam.html?exam=" + ex.slug;
   document.getElementById("ppLink").href = "practice.html?exam=" + ex.slug + "&subject=past-papers";
-  document.getElementById("simTitle").textContent = ex.name + " Simulator";
+  document.getElementById("simTitle").textContent = ex.name + " Mock Test";
   var grid = document.getElementById("catSubjects");
   MT_SUBJECTS.forEach(function(s){
     var d = document.createElement("div");

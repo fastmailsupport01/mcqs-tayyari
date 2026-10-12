@@ -209,23 +209,23 @@
     var ex = exams.find(function(e){ return e.slug === slug; }) || exams[0] || {name:"PPSC", slug:"ppsc", full:"", logo:"", sim:null};
     var sim = ex.sim || {q:100, min:90, neg:0.25, pass:40};
     var examName = ex.name || "PPSC";
-    document.title = examName + " Practice Simulator | MCQs Tayyari";
+    document.title = examName + " Mock Test | MCQs Tayyari";
     var h2 = document.querySelector(".sec-head h2");
-    if(h2) h2.textContent = examName + " Practice Simulator";
+    if(h2) h2.textContent = examName + " Mock Test";
     var kick = document.querySelector(".sec-head .sec-kicker");
     if(kick && ex.full) kick.textContent = ex.full;
     var sub = document.querySelector(".sec-head p");
-    if(sub) sub.textContent = "Practice like the real exam — " + sim.q + " questions, " + sim.min + " minutes, negative marking.";
+    if(sub) sub.textContent = "Full-length mock test on our free exam simulator — " + sim.q + " questions, " + sim.min + " minutes, negative marking.";
     var logoHtml = ex.logo ? '<div><img class="exam-logo" src="'+ex.logo+'" alt="'+MT.esc(examName)+'" loading="lazy" style="width:96px;height:96px"></div>' : '';
-    box.innerHTML = '<div class="result-card">'+logoHtml+'<span class="badge soon">'+MT.esc(examName)+' Practice Simulator</span>'
+    box.innerHTML = '<div class="result-card">'+logoHtml+'<span class="badge soon">'+MT.esc(examName)+' Mock Test</span>'
       + '<h2 style="margin:16px 0 8px">Choose Your Test Mode</h2>'
       + '<div class="result-meta"><div><b>'+sim.q+'</b>MCQs</div><div><b>'+sim.min+'</b>Minutes</div><div><b>\u2212'+sim.neg+'</b>Negative marking</div><div><b>'+sim.pass+'%</b>Pass marks</div></div>'
       + '<div class="mode-cards">'
-      + '<div class="mode-card"><h3>\uD83D\uDDA5\uFE0F Computer-Based Practice Mode</h3>'
-      + '<p>Timed on-screen test — instant green/red feedback with explanations, countdown timer, auto-submit.</p>'
+      + '<div class="mode-card"><h3>\uD83D\uDDA5\uFE0F Online Mock Test</h3>'
+      + '<p>Timed mock test on our exam simulator — instant green/red feedback with explanations, countdown timer, auto-submit.</p>'
       + '<button class="btn btn-green" id="beginCBT">Start Computer Test</button></div>'
-      + '<div class="mode-card"><h3>\uD83D\uDCC4 Original Paper Mode</h3>'
-      + '<p>Printable question paper + OMR-style answer sheet, exactly like the real paper test. Download as PDF with MCQs Tayyari branding.</p>'
+      + '<div class="mode-card"><h3>\uD83D\uDCC4 Paper Mock Test</h3>'
+      + '<p>Printable mock test paper + OMR-style answer sheet, exactly like the real paper test. Download as PDF with MCQs Tayyari branding.</p>'
       + '<button class="btn btn-orange" id="beginPaper">Open Paper Mode</button></div>'
       + '</div></div>';
     function loadQs(btnId, label, go){
@@ -235,7 +235,7 @@
         fetchMCQs({exam: ex.slug, all: true}, function(data){
           if(data.length < 20){
             showEmpty("examBox", "Exam pool building",
-              "We need more questions before the simulator can run a full exam. Question sets are being added — check back soon.");
+              "We need more questions before the mock test can run. Question sets are being added — check back soon.");
             return;
           }
           go(MT.shuffle(data).slice(0, Math.min(sim.q, data.length)));
@@ -250,7 +250,7 @@
     var box = el("examBox");
     var examName = ex.name || "PPSC";
     var html = '<div class="cbt"><div class="cbt-instr">'
-      + '<h2>'+MT.esc(examName)+' — Practice Test</h2>'
+      + '<h2>'+MT.esc(examName)+' Mock Test</h2>'
       + '<div class="sub">Read the instructions carefully before starting the test.</div>'
       + '<h3>Test Pattern</h3><ul>'
       + '<li>Total questions: <b>'+questions.length+'</b> &nbsp;|&nbsp; Total marks: <b>'+questions.length+'</b> &nbsp;|&nbsp; Time: <b>'+sim.min+' minutes</b></li>'
@@ -264,7 +264,7 @@
       + '</ul>'
       + '<label class="cbt-agree"><input type="checkbox" id="cbtAgree"> <span>I have read all the instructions and the marking scheme above.</span></label>'
       + '<div><button class="cbt-start" id="cbtStart" disabled>Start Test</button></div>'
-      + '<div class="cbt-disc">Practice interface inspired by standard computer-based tests. It is not the official screen of any testing authority.</div>'
+      + '<div class="cbt-disc">This mock test runs on the MCQs Tayyari exam simulator. It is not the official screen of any testing authority.</div>'
       + '</div></div>';
     box.innerHTML = html;
     el("cbtAgree").addEventListener("change", function(){ el("cbtStart").disabled = !this.checked; });
@@ -314,7 +314,7 @@
         + '<div class="cbt-top"><div class="cbt-brand">'
         + (ex.logo ? '<img src="'+ex.logo+'" alt="">' : '')
         + '<span>'+MT.esc(examName)+'</span></div>'
-        + '<span class="cbt-mode">PRACTICE TEST</span><span class="spacer"></span>'
+        + '<span class="cbt-mode">MOCK TEST</span><span class="spacer"></span>'
         + '<span class="cbt-qcount">Question '+(idx+1)+' of '+total+'</span>'
         + '<span class="cbt-timer'+(timeLeft<300?' danger':'')+'" id="cbtTimer">'+fmt(Math.max(0,timeLeft))+'</span>'
         + '<button class="cbt-btn submit" id="submitBtn">Submit Test</button></div>'
