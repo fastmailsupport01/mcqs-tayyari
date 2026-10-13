@@ -18,6 +18,7 @@
     <nav class="main-nav" id="mainNav">
       <a href="./">Home</a>
       <a href="subjects.html">Subjects</a><a href="blog.html">Blog</a>
+<a href="ebooks.html">eBooks</a>
       <a href="exam.html" class="nav-cta">Mock Test</a>
       <a href="about.html">About</a>
       <a href="contact.html">Contact</a>
@@ -62,9 +63,12 @@
       var n = counts[s.slug] || 0;
       var d = document.createElement("div");
       d.className = "card";
+      var link = s.slug === "past-papers"
+        ? '<a class="btn btn-orange" href="past-papers.html">Browse Papers →</a>'
+        : '<a class="btn '+(n?'btn-green':'btn-outline')+'" href="practice.html?subject='+s.slug+'">Practice →</a>';
       d.innerHTML = '<div class="card-icon">'+s.icon+'</div><h3>'+MT.esc(s.name)+'</h3><p>'+MT.esc(s.desc)+'</p>'
         + '<div class="meta">'+(n ? '<span class="badge live">'+n+' MCQs</span>' : '<span class="badge soon">Coming soon</span>')+'</div>'
-        + '<a class="btn '+(n?'btn-green':'btn-outline')+'" href="practice.html?subject='+s.slug+'">Practice →</a>';
+        + link;
       grid.appendChild(d);
     });
   }
