@@ -318,3 +318,31 @@ footer ul a:hover{color:var(--orange);transform:translateX(4px)}
   .pp-filter-label{min-width:100%}
   .paper-doc-meta{grid-template-columns:1fr 1fr}
 }
+
+/* ==========================================================================
+   App-style UI refresh (2026-10-19): phone bottom nav + desktop polish
+   ========================================================================== */
+.mobile-nav{display:none}
+@media(max-width:768px){
+  body{padding-bottom:66px}
+  .mobile-nav{display:flex;position:fixed;left:0;right:0;bottom:0;z-index:90;
+    background:rgba(255,255,255,.97);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);
+    border-top:1px solid var(--line);box-shadow:0 -8px 24px -12px rgba(8,60,35,.25);
+    padding-bottom:env(safe-area-inset-bottom)}
+  .mobile-nav a{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;
+    gap:2px;padding:8px 0 7px;font-size:11px;font-weight:700;color:#5c6a62;-webkit-tap-highlight-color:transparent}
+  .mobile-nav a .mi{font-size:21px;line-height:1.1}
+  .mobile-nav a:active{color:var(--green-dark);background:var(--green-light)}
+  .hero h1{font-size:33px}
+  .hero p{font-size:16.5px}
+  .btn-row .btn{flex:1 1 100%;text-align:center}
+}
+@media(min-width:1024px){
+  .hero{padding:110px 0 118px}
+  section.block{padding:88px 0}
+  .wrap{padding:0 32px}
+}
+@media print{
+  .mobile-nav{display:none!important}
+  body{padding-bottom:0!important}
+}
