@@ -88,7 +88,7 @@
 
   window.MT_EXAMS = [
     {slug:"ppsc", name:"PPSC", full:"Punjab Public Service Commission", icon:"🎯", tag:"Most Popular", desc:"Lecturer, ASI, Patwari, Junior Clerk & all Punjab posts.", logo:"img/exams/logos/logo-ppsc.png",
-     sim:{q:100,min:90,neg:0.25,pass:40},subjects:["computer-science","english","urdu","islamiyat","everyday-science","pak-study","general-knowledge","current-affairs","basic-mathematics","past-papers"],patternNote:"~80% post-related / ~20% General Ability (English, Urdu, Math, GK, Pak Study, Current Affairs, EDS, Islamiyat, Computer).",seoTitle:"PPSC Test Preparation 2026 | PPSC MCQs, Past Papers & One Paper Guide",
+     sim:{q:100,min:90,neg:0.25,pass:40},subjects:["computer-science","english","urdu","islamiyat","everyday-science","pak-study","general-knowledge","current-affairs","basic-mathematics","past-papers"],patternNote:"~80% post-related / ~20% General Ability (typical published split). −0.25 & 40% per official PPSC Manual of Policy Decision (regs 17.36–17.37); 100 MCQs / 90 min per PPSC syllabi.",seoTitle:"PPSC Test Preparation 2026 | PPSC MCQs, Past Papers & One Paper Guide",
      seoDesc:"Free PPSC test preparation 2026 — Punjab Public Service Commission MCQs, solved past papers, one-paper pattern guide and online practice. No login required.",
      h1:"PPSC Test Preparation 2026"},
     {slug:"fpsc", name:"FPSC", full:"Federal Public Service Commission", icon:"🏛️", tag:"", desc:"CSS, General Recruitment & all federal posts.", logo:"img/exams/logos/logo-fpsc.png",
@@ -130,7 +130,11 @@
     {slug:"cts", name:"CTS", full:"Central Testing Service", icon:"🗃️", tag:"", desc:"Screening & recruitment tests across departments.", logo:"img/exams/logos/logo-cts.png",
      sim:{q:100,min:100,neg:0,pass:50},subjects:["computer-science","english","urdu","islamiyat","everyday-science","pak-study","general-knowledge","current-affairs","basic-mathematics","past-papers"],patternNote:"No universal pattern - set per client; typical screening shown.",seoTitle:"CTS Test Preparation 2026 | Central Testing Service MCQs & Past Papers",
      seoDesc:"Free CTS test preparation — Central Testing Service MCQs, solved past papers and screening test practice.",
-     h1:"CTS Test Preparation 2026"}
+     h1:"CTS Test Preparation 2026"},
+    {slug:"navttc", name:"NAVTTC", full:"National Vocational & Technical Training Commission", icon:"🛠️", tag:"New", desc:"Vocational & technical training admissions and job tests.", logo:"img/exams/logos/logo-navttc.png",
+     sim:{q:100,min:90,neg:0,pass:50},subjects:["computer-science","english","urdu","islamiyat","everyday-science","pak-study","general-knowledge","current-affairs","basic-mathematics","past-papers"],patternNote:"No universal pattern - NAVTTC tests are usually conducted through designated testing services; typical screening shown.",seoTitle:"NAVTTC Test Preparation 2026 | NAVTTC MCQs, Past Papers & Guide",
+     seoDesc:"Free NAVTTC test preparation — National Vocational & Technical Training Commission MCQs, solved past papers and screening test practice.",
+     h1:"NAVTTC Test Preparation 2026"}
   ];
 
   // Render exam cards on homepage (populates #examGrid if present)
