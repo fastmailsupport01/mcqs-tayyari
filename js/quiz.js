@@ -495,4 +495,55 @@
     window.scrollTo({top:0});
   }
 
+/* ---------- Paper-Style Mock (per official paper) ----------
+   Entry point for paper-mock.html. `paper` = one row from MT_PAPERS
+   {slug, name, year, pages, exam_body, official_pdf, img, subject}.
+   Reuses the same CBT + printable-paper engines as MT.startExam.
+   Questions come from the MCQs Tayyari bank (exam_body + subject filter);
+   they are NEVER the paper's own questions — the page carries the honesty note.
+   APPEND INSIDE the quiz.js IIFE, just before the final })(); */
+window.MT.startPaperMock = function(paper){
+  var box = el("examBox");
+  var sim = {q:100, min:90, neg:0.25, pass:40};
+  var examName = (paper.exam_body === "spsc") ? "SPSC" : "KPPSC";
+  var paperTitle = paper.name + " (" + paper.year + ")";
+  var ex = {name: paperTitle, slug: paper.exam_body, full: "", logo: ""};
+  box.innerHTML = '<div class="result-card">'
+    + '<span class="badge soon">' + MT.esc(paperTitle) + ' · Paper-Style Mock</span>'
+    + '<h2 style="margin:16px 0 8px">Choose Your Test Mode</h2>'
+    + '<div class="result-meta"><div><b>' + sim.q + '</b>MCQs</div><div><b>' + sim.min
+    + '</b>Minutes</div><div><b>\u2212' + sim.neg + '</b>Negative marking</div><div><b>'
+    + sim.pass + '%</b>Pass marks</div></div>'
+    + '<div class="mode-cards">'
+    + '<div class="mode-card"><h3>\uD83D\uDDA5\uFE0F Online Mock Test</h3>'
+    + '<p>Timed mock test on our exam simulator — instant green/red feedback with explanations, countdown timer, auto-submit.</p>'
+    + '<button class="btn btn-green" id="beginCBT">Start Computer Test</button></div>'
+    + '<div class="mode-card"><h3>\uD83D\uDCC4 Paper Mock Test</h3>'
+    + '<p>Printable mock test paper + OMR-style answer sheet, exactly like the real paper test. Download as PDF with MCQs Tayyari branding.</p>'
+    + '<button class="btn btn-orange" id="beginPaper">Open Paper Mode</button></div>'
+    + '</div>'
+    + '<p style="margin-top:14px;color:#777;font-size:.85rem">Practice questions are drawn from the MCQs Tayyari bank'
+    + (paper.subject ? ' (' + MT.esc(paper.subject) + ' pool, ' + MT.esc(examName) + ' exam)' : ' (' + MT.esc(examName) + ' exam pool)')
+    + ' — not from the official paper itself.</p></div>';
+  function loadQs(btnId, go){
+    el(btnId).addEventListener("click", function(){
+      var btn = el(btnId);
+      btn.disabled = true; btn.textContent = "Loading questions\u2026";
+      var opts = {exam: paper.exam_body, all: true};
+      if(paper.subject) opts.subject = paper.subject;
+      fetchMCQs(opts, function(data){
+        if(data.length < 20){
+          showEmpty("examBox", "Question pool building",
+            "We need more questions before this paper's mock can run. Question sets are being added \u2014 check back soon.");
+          return;
+        }
+        go(MT.shuffle(data).slice(0, Math.min(sim.q, data.length)));
+      });
+    });
+  }
+  loadQs("beginCBT", function(qs){ showCBTInstructions(qs, sim, ex); });
+  loadQs("beginPaper", function(qs){ renderPaper(qs, sim, ex); });
+};
+
+
 })();
