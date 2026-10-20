@@ -7,7 +7,7 @@
   function el(id){ return document.getElementById(id); }
   function showEmpty(boxId, title, msg){
     var box = el(boxId);
-    if(box) box.innerHTML = '<div class="empty"><h3>'+MT.esc(title)+'</h3><p>'+MT.esc(msg)+'</p><a class="btn btn-green" href="subjects.html" style="margin-top:18px">Browse Subjects</a></div>';
+    if(box) box.innerHTML = '<div class="empty"><h3>'+MT.esc(title)+'</h3><p>'+MT.esc(msg)+'</p><a class="btn btn-green" href="subjects" style="margin-top:18px">Browse Subjects</a></div>';
   }
 
   /* ---------- fetch MCQs ---------- */
@@ -65,7 +65,7 @@
   }
 
   /* ---------- PRACTICE MODE (paginated: 20 MCQs per page) ---------- */
-  // URL: practice.html?subject=english
+  // URL: practice?subject=english
   window.MT.startPractice = function(){
     var params = new URLSearchParams(location.search);
     var subject = params.get("subject");
@@ -200,7 +200,7 @@
   }
 
   /* ---------- PER-EXAM SIMULATOR ---------- */
-  // URL: exam.html?exam=ppsc — every exam gets its own branded simulator
+  // URL: exam?exam=ppsc — every exam gets its own branded simulator
   window.MT.startExam = function(){
     var box = el("examBox");
     var params = new URLSearchParams(location.search);
@@ -421,8 +421,8 @@
         + '<div><b>'+skipped+'</b>Skipped</div>'
         + '</div>'
         + '<div class="btn-row" style="justify-content:center;display:flex;gap:10px;flex-wrap:wrap">'
-        + '<a class="btn btn-orange" href="exam.html?exam='+examSlug+'">Retake Exam</a>'
-        + '<a class="btn btn-green" href="subjects.html">Practice Subjects</a></div>'
+        + '<a class="btn btn-orange" href="exam?exam='+examSlug+'">Retake Exam</a>'
+        + '<a class="btn btn-green" href="subjects">Practice Subjects</a></div>'
         + '</div><div class="cbt-review"><h3 style="color:#16305b">Answer Review</h3>';
       review.forEach(function(r, k){
         var cls = r.a === null ? "soon" : (r.a === r.m.correct_option ? "live" : "soon");

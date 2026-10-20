@@ -10,10 +10,10 @@
       a.addEventListener("click", function(){ nav.classList.remove("open"); });
     });
     // active link
-    var page = location.pathname.split("/").pop() || "index.html";
+    var page = location.pathname.split("/").pop() || "/";
     nav.querySelectorAll("a").forEach(function(a){
       var href = a.getAttribute("href");
-      if(href === page || (page === "" && href === "index.html")) a.classList.add("active");
+      if(href === page || (page === "" && href === "/")) a.classList.add("active");
     });
   }
 

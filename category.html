@@ -6,7 +6,7 @@
 <title>Exam Preparation | MCQs Tayyari</title>
 <meta name="description" content="Subject-wise MCQs, books and past papers for your exam — PPSC, FPSC, CSS, NTS and more.">
 <meta name="robots" content="index, follow">
-<link rel="canonical" href="https://mcqstayyari.online/category.html">
+<link rel="canonical" href="https://mcqstayyari.online/category">
 <link rel="icon" href="favicon.png">
 <link rel="stylesheet" href="css/style.css">
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9781370643011781"
@@ -19,11 +19,11 @@
     <button class="menu-btn" id="menuBtn" aria-label="Menu">☰</button>
     <nav class="main-nav" id="mainNav">
       <a href="./">Home</a>
-      <a href="subjects.html">Subjects</a><a href="blog.html">Blog</a>
-<a href="ebooks.html">eBooks</a>
-      <a href="exam.html" class="nav-cta">Mock Test</a>
-      <a href="about.html">About</a>
-      <a href="contact.html">Contact</a>
+      <a href="subjects">Subjects</a><a href="blog">Blog</a>
+<a href="ebooks">eBooks</a>
+      <a href="exam" class="nav-cta">Mock Test</a>
+      <a href="about">About</a>
+      <a href="contact">Contact</a>
     </nav>
   </div>
 </header>
@@ -62,11 +62,11 @@
       <ol>
         <li><strong>Master the pattern first.</strong> Study the exam pattern table above — questions, time limit, marks and negative marking — before attempting a single MCQ.</li>
         <li><strong>Build subject-wise depth.</strong> Practice one subject at a time with explanations on, so every mistake teaches you something new.</li>
-        <li><strong>Train under time pressure.</strong> Take the <a href="exam.html?exam=exam">timed Your Exam mock test</a> regularly — answering against the clock builds the speed and accuracy the real test demands.</li>
+        <li><strong>Train under time pressure.</strong> Take the <a href="exam?exam=exam">timed Your Exam mock test</a> regularly — answering against the clock builds the speed and accuracy the real test demands.</li>
         <li><strong>Revise your weak areas.</strong> Re-attempt the questions you got wrong and drill the subjects where your score is lowest.</li>
         <li><strong>Stay current.</strong> Current affairs and everyday science change every month — keep practicing fresh MCQs right up to exam week.</li>
       </ol>
-      <p>Start today: <a href="exam.html?exam=exam">take a mock test →</a> or <a href="subjects.html">practice subject-wise MCQs →</a>.</p>
+      <p>Start today: <a href="exam?exam=exam">take a mock test →</a> or <a href="subjects">practice subject-wise MCQs →</a>.</p>
     </div>
 
     <div class="sec-head" style="margin-bottom:26px">
@@ -77,13 +77,13 @@
         <div class="card-icon">📝</div>
         <h3>Solved Past Papers</h3>
         <p>Previous papers for this exam, structured as practice sets.</p>
-        <a class="btn btn-outline" id="ppLink" href="practice.html?subject=past-papers">Practice →</a>
+        <a class="btn btn-outline" id="ppLink" href="practice?subject=past-papers">Practice →</a>
       </div>
       <div class="card">
         <div class="card-icon">⏱️</div>
         <h3 id="simTitle">Mock Test</h3>
         <p>Timed MCQs with negative marking — the real exam feel.</p>
-        <a class="btn btn-orange" id="simLink" href="exam.html">Start Mock Test →</a>
+        <a class="btn btn-orange" id="simLink" href="exam">Start Mock Test →</a>
       </div>
     </div>
   </div>
@@ -95,8 +95,8 @@
   <div class="wrap">
     <div class="foot-grid">
       <div class="foot-brand"><img src="logo.png" alt="MCQs Tayyari logo"><p>Free PPSC test preparation — subject-wise MCQs, past papers and a real exam simulator.</p></div>
-      <div><h4>Quick Links</h4><ul><li><a href="./">Home</a></li><li><a href="subjects.html">Subjects</a></li><li><a href="blog.html">Blog</a></li><li><a href="exam.html">Mock Test</a></li><li><a href="about.html">About Us</a></li></ul></div>
-      <div><h4>Legal</h4><ul><li><a href="privacy.html">Privacy Policy</a></li><li><a href="terms.html">Terms of Service</a></li><li><a href="contact.html">Contact Us</a></li></ul></div>
+      <div><h4>Quick Links</h4><ul><li><a href="./">Home</a></li><li><a href="subjects">Subjects</a></li><li><a href="blog">Blog</a></li><li><a href="exam">Mock Test</a></li><li><a href="about">About Us</a></li></ul></div>
+      <div><h4>Legal</h4><ul><li><a href="privacy">Privacy Policy</a></li><li><a href="terms">Terms of Service</a></li><li><a href="contact">Contact Us</a></li></ul></div>
     </div>
     <div class="foot-bottom"><span>© 2026 MCQs Tayyari. All rights reserved.</span><span>Developed by <span class="credit">cos (chishti office sammundri)</span> · +92 3264025618</span></div>
   </div>
@@ -123,8 +123,8 @@
     document.getElementById("examName").parentNode.insertBefore(li, document.getElementById("examName"));
   }
     document.getElementById("prepTitle").textContent = "📚 How to Prepare for " + ex.name;
-  document.getElementById("simLink").href = "exam.html?exam=" + ex.slug;
-  document.getElementById("ppLink").href = "practice.html?exam=" + ex.slug + "&subject=past-papers";
+  document.getElementById("simLink").href = "exam?exam=" + ex.slug;
+  document.getElementById("ppLink").href = "practice?exam=" + ex.slug + "&subject=past-papers";
   document.getElementById("simTitle").textContent = ex.name + " Mock Test";
   var simCardP = document.querySelector("#simLink").closest(".card").querySelector("p");
   if(simCardP){
@@ -143,7 +143,7 @@
     var d = document.createElement("div");
     d.className = "card";
     d.innerHTML = '<div class="card-icon">'+s.icon+'</div><h3>'+MT.esc(s.name)+'</h3><p>'+MT.esc(s.desc)+'</p>'
-      + '<a class="btn btn-outline" href="practice.html?exam='+ex.slug+'&subject='+s.slug+'">Practice →</a>';
+      + '<a class="btn btn-outline" href="practice?exam='+ex.slug+'&subject='+s.slug+'">Practice →</a>';
     grid.appendChild(d);
   });
   document.getElementById("subjSub").textContent = "Click any subject to start practicing for this exam — " + subjCount + " subjects in the " + ex.name + " syllabus.";
@@ -170,10 +170,10 @@
 </script>
 <nav class="mobile-nav" aria-label="Mobile">
   <a href="/"><span class="mi">🏠</span>Home</a>
-  <a href="/subjects.html"><span class="mi">📚</span>Subjects</a>
-  <a href="/exam.html"><span class="mi">📝</span>Mock Test</a>
-  <a href="/ebooks.html"><span class="mi">📖</span>eBooks</a>
-  <a href="/blog.html"><span class="mi">📰</span>Blog</a>
+  <a href="/subjects"><span class="mi">📚</span>Subjects</a>
+  <a href="/exam"><span class="mi">📝</span>Mock Test</a>
+  <a href="/ebooks"><span class="mi">📖</span>eBooks</a>
+  <a href="/blog"><span class="mi">📰</span>Blog</a>
 </nav>
 </body>
 </html>
