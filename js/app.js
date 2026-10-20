@@ -1,3 +1,9 @@
+// Canonical host: everything lives on the main domain (David, 2026-10-20).
+// Any visit to the *.onrender.com address is sent straight to mcqstayyari.online.
+if (location.hostname.indexOf("onrender.com") !== -1) {
+  location.replace("https://mcqstayyari.online" + location.pathname + location.search + location.hash);
+}
+
 /* MCQs Tayyari — shared app logic (no login, guest mode) */
 (function(){
   "use strict";
