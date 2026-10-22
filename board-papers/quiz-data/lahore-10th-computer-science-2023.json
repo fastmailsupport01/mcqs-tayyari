@@ -1,0 +1,569 @@
+{
+ "board": "BISE Lahore",
+ "class": "10th",
+ "subject": "Computer Science",
+ "year": 2023,
+ "slug": "lahore-10th-computer-science-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The operator % is used to calculate----------:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Percentage",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Remainder",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Factorial",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Square",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "-------- part of For Loop is executed first:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Condition",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Body",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Initialization",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Increment/decrement",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Readability help to --------- the code :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Understand",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Modify",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Debug",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "A float uses --------- bytes of memory:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "--------- are the values that do not change during the whole execution of program:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Variable",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Constant",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "String",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Comments",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Which of the following is not a type of operator:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Arithmetic operator",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Relational operator",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Check operator",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Logical operator",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "---------- means to transfer the control to another function:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Calling",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Defining",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Rewriting",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Including",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Using loop inside loop is called ----------- loop:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "FOR",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "WHILE",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "DO WHILE",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NESTED",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "A set of multiple statements enclosed in braces is called a:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Box",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "List",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Block",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Job",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "An if statement inside another if statement is called ----------- structure:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nested",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Boxed",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Repeated",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Decomposed",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "C-programming language also provide ---------- structure to deal with conditions :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Tree",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Function",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Loop",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Switch case",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "---------- means to transfer the control to another function:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Calling",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Defining",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Rewriting",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Including",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Format specifier % C shows the data type :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "int",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "float",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "char",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "void",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Which one of the following is the size of int arr [5]:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Which of the following keyword used for store integer data type:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "float",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "char",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "int",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "void",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "A set of multiple instructions enclosed in braces is called a -----------:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "List",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Block",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Box",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Job",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Single line comments start with :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "/*",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "// *",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "//.",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "\\",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "How many values return by a function :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "One",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Two",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Three",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "An array is a ---------- structure :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Data",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Control",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Loop",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Conditional",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Which operator has highest precedence among the following :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "( )",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "=",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "||",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "==",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

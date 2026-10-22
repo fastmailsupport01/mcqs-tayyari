@@ -1,0 +1,1129 @@
+{
+ "board": "BISE Lahore",
+ "class": "11th",
+ "subject": "Mathematics",
+ "year": 2021,
+ "slug": "lahore-11th-mathematics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The number of roots of polynomial equation 8x⁶ − 19x³ − 27 = 0 are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "For an infinite geometric series of which |r| < 1, we have S∞ =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a(1+r)/(1−r)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a/(1+r)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a/(2r)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a/(1−r)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The property used in (a+1)+3/4 = a+(1+3/4) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Closure",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Associative",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Commutative",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Additive",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "If aₙ₋₃ = 2n − 5, then 7ᵗʰ term is =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "9",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "15",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "11",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "13",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The converse of p → q is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "~p → q",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "p → ~q",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "q → p",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "~p → ~q",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Partial fraction of 1/(x²−1) will be in of the form:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(Ax+B)/(x²−1)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A/(x+1) + B/(x−1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A/(x+1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "B/(x−1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "When p(x) = x³ + 4x² − 2x + 5 is divided by (x − 1), then remainder is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−10",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−8",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "If |k 4; 4 k| = 0, then value of k is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "±16",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "±4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "±8",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "If H is H.M. between a and b, then H =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2ab/(a+b)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(a+b)/(2ab)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(a+b)/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "±√ab",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The trivial solution of the homogeneous linear equation in three variables is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(0,0,0)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(1,0,0)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(0,1,0)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(0,0,1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The period of 3 cos(x/5) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10π",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/10",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π/5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The factorial of a positive integer 'n' is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "n! = n(n−1)!(n−2)!",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "n! = n(n+2)!",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "n! = n(n−1)!",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "n! = n(n−2)!",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "The solution of 1 + cos x = 0 if 0 < x ≤ 2π is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "{0}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{π/2}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{π/3}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{π}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "cos 48° + cos 12° =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2 cos 30° cos 18°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3 cos 18°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√3 cos 18°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√2 cos 18°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "sec[cos⁻¹(1/2)] =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π/6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "The middle term in expansion of (a+x)ⁿ when n is even:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(n/2+1)ᵗʰ term",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(n/2−1)ᵗʰ term",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(n/2)ᵗʰ term",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "((n+1)/2)ᵗʰ term",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "9π/5 rad in degree measure is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "321°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "322°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "323°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "324°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group I",
+   "q_en": "If Δ is the area of a triangle ABC, then Δ =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "½ bc sinβ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "½ ab sinα",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "½ bc sinα",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ab sinα",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group I",
+   "q_en": "In anti-clockwise direction, ¼ rotation is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "180°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "270°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "45°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group I",
+   "q_en": "With usual notations, the value of a + b + c is =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "s",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2s",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3s",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "s/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "If x is a cube root of unity then x² + x + 1 =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "(1 − w¹⁷)² =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "9",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−4w",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−3w²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "(6, −5)² =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "11 − 60i",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "61 − 60i",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "61 + 60i",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "11 + 60i",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "A is the power set of {a, b}, then n[A] =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The converse of the conditional p → q is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "p → ~q",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "~p → q",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "q → p",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "~q → p",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "The partial fractions of 1/(x² + 2x + 1) are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A/(x+1) + B/(x+1)²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A/(x+1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(Ax+B)/(x²+2x+1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A/(x+1)² + B/(x+1)²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "If a, b ∈ R then a + b ∈ R is the property of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Commutative",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Closure",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Associative",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Additive inverse",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "If A is a square matrix and Aᵗ = A then A is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Symmetric matrix",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Skew-symmetric matrix",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Diagonal matrix",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Singular matrix",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "If 3C₃ + 3C₄ = 4Cᵣ, then r =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "[illegible in source scan]",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "8C₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8P₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8P₈",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8C₈",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "The period of 3 cos(2x) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2π",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3π",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6π",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "The solution set of 1 − cos x = 0 if x ∈ [0, 2π] is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "{0}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{2π}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{0, 2π}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{π}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "tan(360° − θ) =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "tan θ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−tan θ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "cot θ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−cot θ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "3π/5 rad in degree measure is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "108°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "109°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "110°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "111°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "The general solution of cot x = 0 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x = nπ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x = (2n + 1)π/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x = (n + 1/2)π",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x = nπ/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "In a triangle ABC, the value of s =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a+b−c/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a+b+c/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a−b+c/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−a+b+c/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "In a triangle ABC, if a = 3, b = 4, c = 5, then r =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group II",
+   "q_en": "The solution set of equation sin² x − sin x = 0 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "{x: x = nπ, n ∈ Z}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{x: x = nπ, n ∈ Z} ∪ {x: x = 2nπ + π/2, n ∈ Z}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{x: x = nπ, n ∈ Z} ∪ {x: x = 2nπ − π/2, n ∈ Z}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{x: x = nπ, n ∈ Z} ∪ {x: x = 2nπ ± π/2, n ∈ Z}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group II",
+   "q_en": "In triangle ABC, the value of sin(α/2) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "√[(s−b)(s−c)/bc]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "√[(s−b)(s−a)/ac]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√[(s−c)(s−a)/ab]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√[(s−a)(s−b)/ac]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group II",
+   "q_en": "If 2 is the arithmetic mean of √2 and √8, then the common difference is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "√2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−√2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

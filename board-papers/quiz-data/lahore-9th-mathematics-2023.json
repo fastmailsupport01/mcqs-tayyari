@@ -1,0 +1,849 @@
+{
+ "board": "BISE Lahore",
+ "class": "9th",
+ "subject": "Mathematics",
+ "year": 2023,
+ "slug": "lahore-9th-mathematics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Product of [x y][2; −1] is-----------:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[2x + y]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[x − 2y]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[2x − y]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[x + 2y]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Which set has closure property w.r.t. addition:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "{0}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{0, −1}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{0, 1}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{1/√2, 1/2}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "log e = ---------, where e ≈ 2.718:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.4343",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "(√a + √b)(√a − √b) is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a²+b²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a²−b²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a+b",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(a−b)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Factors of 5x² − 17xy − 12y² are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(x+4y), (5x+3y)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(x−4y), (5x−3y)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(x−4y), (5x+3y)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(5x−4y), (x+3y)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "L.C.M. of a²+b² and a⁴−b⁴ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a²+b²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a⁴−b⁴",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a²−b²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a−b",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Which is the solution of the inequality 3 − 4x ≤ 11:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−8",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−14/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "If (x, 0) = (0, y), then (x, y) is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(0, 0)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(0, 1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(1, 0)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(1, 1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Distance between the points (1, 0) and (0, 10) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Sum of interior angles of a triangle is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "180°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "360°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Total number of medians in a triangle are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The right bisectors of the sides of the triangle are ------------:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Parallel",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Collinear",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Concurrent",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Non-concurrent",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Ratio between two elements 'a' and 'b' is represented by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a + b",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a × b",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a − b",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a : b",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "The region enclosed by the bounding lines of a closed figure is called ------------ of the figure:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Perimeter",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Area",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Volume",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "The medians of a triangle cut each other in the ratio ------------:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4 : 1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3 : 1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2 : 1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1 : 1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "4x + 3y − 2 is an algebraic ----------:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Expression",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Sentence",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Equation",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Inequation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "The symbol used for \"is perpendicular to\":",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "∥",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "⊥",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "≅",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "↔",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Congruent figures have same -----------:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mode",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Area",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Median",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Diagonal",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Bisection means to divide into--------- equal parts:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Imaginary part of −i(3i + 2) is ----------:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2ab",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "In parallelogram opposite sides are -------------:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Opposite",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Diagonal",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Same",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Congruent",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "One angle on the base of an isosceles triangle is 30°, what is the measure of its vertical angle:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "30°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "120°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "The logarithm of unity to any base is --------------:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "e",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Factors of 5x² − 17xy − 12y² are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(x+4y), (5x+3y)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(x−4y), (5x−3y)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(x−4y), (5x+3y)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(5x−4y), (x+3y)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "[√2 0; 0 √2] is called ------------ matrix:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Unit",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Scalar",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Singular",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Mid point of the points (2, -2) and (-2, 2) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(0, 0)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(1, 0)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(0, 1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(1, 1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "---------- has no unit:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ratio",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Proportion",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Congruent",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Equality",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "If the capacity 'c' of an elevator is at most 1600 pounds, then ----------:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "c < 1600",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "c ≥ 1600",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "c ≤ 1600",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "c > 1600",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "H.C.F of a³ + b³ and a² − ab + b² is -----------:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a + b",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a² + b²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(a − b)²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a² − ab + b²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "If y = 2x + 1, x = 2 then y is ------------:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

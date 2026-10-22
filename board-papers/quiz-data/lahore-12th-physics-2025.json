@@ -1,0 +1,961 @@
+{
+ "board": "BISE Lahore",
+ "class": "12th",
+ "subject": "Physics",
+ "year": 2025,
+ "slug": "lahore-12th-physics-2025",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The Davisson and Germer experiment confirmed:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Wave nature of particles",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Polarization",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Compton effect",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Photoelectric effect",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The frequency of an inductor of 1.0 H have a reactance of 500 Ω is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "70 Hz",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "80 Hz",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "90 Hz",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "100 Hz",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Shunt resistance of an ammeter is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Rs = (I − Ig) / Ig × Rg",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Rs = (I − Ig) Rg",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Rs = Ig / Rg",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Rs = Ig / (I − Ig) × Rg",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "In a certain circuit, the transistor has a collector current of 10 mA and a base current of 40μA. The current gain of the transistor is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "250",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "300",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "350",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "450",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The A.M. transmission frequencies range is from:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "540 μHz to 1600 μHz",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "540 KHz to 1600 KHz",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "540 MHz to 1600 MHz",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "540 Hz to 1600 Hz",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "In case of capacitor, formula for energy density is given by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "½ εr ε0 E²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "½ εr ε0 E² Ad",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "½ εr E²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "½ ε0 E²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The dead time of the G.M. counter is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "~ 10⁻⁸s",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "~ 10⁻⁶s",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "~ 10⁻⁴s",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "~ 10⁻³s",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "One henry is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "VS⁻¹A⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "VSA⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "VS⁻¹A",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "VSA",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "When platinum wire is heated, it appears white at about:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "500°C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "900°C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1100°C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1600°C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The statement that the flux through any closed surface is 1/ε0 times the total charge enclosed in it was given by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Plank",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Maxwell",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Faraday",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Gauss",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The curie temperature for iron is about:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "75°C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "750°C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7500°C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "75000°C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The device which converts heat energy into electrical energy is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Thermocouple",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Solar cell",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Electric generator",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cell",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "An atom can reside in metastable state for:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "~ 10⁻⁶s",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "~ 10⁻⁵s",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "~ 10⁻⁷s",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "~ 10⁻³s",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "Output resistance of an operational amplifier is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A few ohms",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Mili ohms",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mega ohms",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Micro ohms",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "One twelveth the mass of carbon atom is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 μ = 1.6606×10⁻³¹kg",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1 μ = 1.6606×10⁻²⁷kg",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1 μ = 1.6606×10⁻¹⁵kg",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1 μ = 1.6606×10⁻⁶kg",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "A device which converts electrical energy into mechanical energy is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Transformer",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "D.C. generator",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A.C. generator",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "D.C. motor",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "Torque produces in a current carrying coil when it is placed in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Gravitational field",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Electric field",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Magnetic field",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nuclear field",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "The rest mass of photon is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "m₀",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Infinite",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9.1×10⁻³¹ kg",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Peak to peak value of A.C. is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "V₀",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2V₀",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "V₀/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "V₀²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Voltmeter is a device like:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "High resistance galvanometer",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Low resistance galvanometer",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ammeter",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero resistance galvanometer",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "The width of depletion region of pn junction depends upon which factor:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Biasing conditions",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Doping density",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Both A and B",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Which of the following does not vary by varying the frequency of A.C.:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Resistance",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Capacitive reactance",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Inductive reactance",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Electric field and electric potential are related by the relation:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "E = ΔVr",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "E = −ΔV/Δr",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "E = K q/r²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "E = −Δr/ΔV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Which of the following has greater ionizing power:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "α-rays",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "β-rays",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "γ-rays",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Neutrons",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Mutual induction has practical role in the working of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Galvanometer",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ammeter",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A.C. generator",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Transformer",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "When a platinum wire is heated it becomes white at about:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "500°C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1600°C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2000°C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2500°C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Three capacitors each of capacitance 2μF are connected in parallel, their equivalent capacitance will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2 μF",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4 μF",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6 μF",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8 μF",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Above curie temperature, iron becomes:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ferromagnetic",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Diamagnetic",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Insulator",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Paramagnetic",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "The SI unit for electric power is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Horse power",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Watt",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "K Wh",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "JS",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "X-rays can be deflected by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electric field",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Magnetic field",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Both Electric and magnetic",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cannot be deflected by fields",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "A diode characteristic curve is a graph between:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Current and time",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Voltage and time",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Voltage and current",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Current and resistance",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "After two half life, the fraction of the radioactive sample remain undecayed is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "N₀",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "N₀/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "N₀/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "N₀/6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "Which of the following converts electrical energy into mechanical energy:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A.C. generator",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Heat engine",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Transformer",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Motor",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "The range of ammeter can be increased, if the value of shunt resistance is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Decreased",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Increased",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Doubled",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Remains Constant",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

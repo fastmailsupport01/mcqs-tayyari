@@ -1,0 +1,849 @@
+{
+ "board": "BISE Lahore",
+ "class": "10th",
+ "subject": "Mathematics",
+ "year": 2025,
+ "slug": "lahore-10th-mathematics-2025",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Cosec²θ - cot²θ = -------- :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "tan θ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Value of x in 4 : x :: 5 : 10 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "12",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "16",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "(A∪B)∪C = ------- :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A∩(B∪C)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(A∪B)∩C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A∪(B∪C)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A∩(B∩C)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The lengths of two transverse tangents to a pair of circle is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Over-lapping",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Parallel",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Unequal",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Equal",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Identity (5x + 4)² = 25x² + 40x +16 is true for:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "One value of x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Two values of x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Three values of x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All values of x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "α² + β² = --------:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "α²-β²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/α² + 1/β²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(α + β)² - 2αβ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "α + β",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The tangents drawn at the ends of diameter of circle are ---- to each other.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Parallel",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Non-parallel",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Collinear",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Perpendicular",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Two linear factors of x² - 15x + 56 are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(x + 7) & (x + 8)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(x - 7) & (x + 8)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(x + 8) & (x + 7)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(x - 7) & (x - 8)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The third proportional of x² and y² is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "y²/x²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x²y²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "y⁴/x²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "y²/x³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The quadratic formula of ax² + bx + c = 0 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(b ± √(b²-4ac))/2a",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(-b ± √(b²-4ac))/2a",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(b ± √(b²+4ac))/2a",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(-b ± √(b²+4ac))/2a",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The number of elements in power set of {1, 2, 3} is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "An arc subtended a central angle of 40° then the corresponding chord will subtend central angle of --------:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "20°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "40°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "80°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "The measure that determines the middle most observation in a data set is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Median",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Mode",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mean",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Geometric mean",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "The square roots of unity are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1, -1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1, ω",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1, -ω",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ω, ω²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "A complete circle is divided into:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "360°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "270°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "180°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "sec²θ = ------ :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1+ tan²θ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1- sin²θ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1+ cos²θ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1- tan²θ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "In a ratio a: b, a is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Relation",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Consequent",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Antecedent",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Proportion",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "The number of elements in power set {1, 2, 3} is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Angle inscribed in a semicircle is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π/6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "(2x + 1)/((x + 1)(x - 1)) is --- :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A proper fraction",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "An equation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "An improper fraction",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A constant term",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Cube roots of -1 are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1,-ω,-ω²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-1,-ω,ω²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-1,ω,-ω²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-1,ω,-ω²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "A line which has only one point in common with a circle is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sine of a circle",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cosine of a circle",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Tangent of a circle",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Secant of a circle",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "The number of methods to solve a quadratic equation is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Find x in proportion 4 : x :: 5 : 15 :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "75/4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "12",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4/3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3/4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "The solution set of equation 4x² - 36 = 0 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "{3}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{±3}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{4}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{±4}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "A set with no element is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Subset",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Empty set",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Singleton set",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Super set",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "A pair of chords of a circle subtending two congruent central angles is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Incongruent",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Parallel",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Over-lapping",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Congruent",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "A frequency polygon is a many sided:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Triangles",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Rectangle",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Square",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Closed figure",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "If b² - 4ac < 0, then the roots of ax² + bx + c = 0 are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Rational",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Real",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Irrational",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Imaginary",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "The distance of any point of the circle to its centre is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Diameter",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Radius",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A chord",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "An arc",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

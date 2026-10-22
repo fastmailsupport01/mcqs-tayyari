@@ -1,0 +1,569 @@
+{
+ "board": "BISE Lahore",
+ "class": "10th",
+ "subject": "Computer Science",
+ "year": 2022,
+ "slug": "lahore-10th-computer-science-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "How many types of control statements are available in C-language:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The statements enclosed inside -------- form the body of the function:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "{ }",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "( )",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[ ]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "< >",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Inputs of a function are called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Parameters",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Return value",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Function signature",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Identifier",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The operator \"%\" is used to calculate----------:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Percentage",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Remainder",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Factorial",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Square",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "For initializing a variable, we use ---------- operator:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "→",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "*",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "@",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "?",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Which of the following format specifier is used for character data type:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "% C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "% d",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "% f",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "% i",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "If there are three return statements in the function body -------- of them will be executed:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Four",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Three",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Two",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "One",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Each run of a loop is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cycle",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Iteration",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Duration",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Test",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "What is the output of the following code: int c [2] = {25, 30} ; printf (\"%d\", C [1]) ;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "30",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "25",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "24",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "23",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "In if statement, the condition is written these symbols:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "<<<<",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[ ]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{.}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "( )",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Include statements are written in ------- section:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Header",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Main",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Comments",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Print",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Scanf is a ----------- in C-programming language:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Operator",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Escape sequence",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Function",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Statement terminator",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Which operator has highest precedence among the following:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "/",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "*",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": ">",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "!",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Conditional logic helps in -----------:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Decisions",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Iterations",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Traversing",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Relation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Which of the following option is used for making two way decisions:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "for",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "if-else",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "while",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "control",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "What is the output of the following code: int b [3] = {15, 20, 16}; printf (\"%d\", b [2]);",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "16",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "17",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "18",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "19",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Using loops inside loops is called --------- loops:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "for",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "while",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "do while",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "nested",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Define the inputs and output of a function:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Function signature",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Return value",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Parameters",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Identifier",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "The functions which are variable in C-standard library are called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "User defined",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Built-in",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Recursive",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Repetitive",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "------ is a block of statements which performs a particular task:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Computer",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Program",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Function",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Parameters",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,681 @@
+{
+ "board": "BISE Lahore",
+ "class": "10th",
+ "subject": "Physics",
+ "year": 2024,
+ "slug": "lahore-10th-physics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The half-life of a certain isotope is one day. What is the quantity of isotope after two days :",
+   "q_ur": "ایک مخصوص آئسوٹوپ کی ہاف لائف ایک دن ہے۔ دو دن گزرنے کے بعد اس آئسوٹوپ کی کتنی مقدار باقی رہ جائے گی :",
+   "options": [
+    {
+     "k": "A",
+     "en": "One-half",
+     "ur": "آدھی ہو جائے گی"
+    },
+    {
+     "k": "B",
+     "en": "One-quarter",
+     "ur": "ایک چوتھائی"
+    },
+    {
+     "k": "C",
+     "en": "One-eighth / 1/8",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": "ان میں سے کوئی نہیں"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The turn ratios of a transformer is 10. It means :",
+   "q_ur": "اگر ٹرانسفارمر کے چکرون کی نسبت 10 ہو تو :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Is = 10 Ip",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ns = Np/10",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ns = 10 Np",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Vs = Vp/10",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "To make burglar alarm we use :",
+   "q_ur": "برگر الارم بنانے کے لیے استعمال کرتے ہیں :",
+   "options": [
+    {
+     "k": "A",
+     "en": "NOT gate",
+     "ur": "ناٹ گیٹ"
+    },
+    {
+     "k": "B",
+     "en": "OR gate",
+     "ur": "آر گیٹ"
+    },
+    {
+     "k": "C",
+     "en": "NOR gate",
+     "ur": "نار گیٹ"
+    },
+    {
+     "k": "D",
+     "en": "NAND gate",
+     "ur": "نینڈ گیٹ"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The relation between v, f and λ of a wave is :",
+   "q_ur": "ایک ویو کی ولاسٹی ، فریکوئنسی اور ویولینتھ کے درمیان تعلق ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "vf = λ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "fλ = v",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "λv = f",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "v = λ/f",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Which refers to computer programmes and the manuals that support them :",
+   "q_ur": "کمپیوٹر پروگرامز اور ان کو سپورٹ کرنے والے مینوئلز ہیں :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Data",
+     "ur": "ڈیٹا"
+    },
+    {
+     "k": "B",
+     "en": "Hardware",
+     "ur": "ہارڈویئر"
+    },
+    {
+     "k": "C",
+     "en": "Software",
+     "ur": "سافٹ ویئر"
+    },
+    {
+     "k": "D",
+     "en": "Information",
+     "ur": "انفارمیشن"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The loudness of a sound is most closely related to its :",
+   "q_ur": "ساؤنڈ کی لاؤڈنیس کا زیادہ تر انحصار کس پر ہوتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Frequency",
+     "ur": "فریکوئنسی"
+    },
+    {
+     "k": "B",
+     "en": "Period",
+     "ur": "پیریڈ"
+    },
+    {
+     "k": "C",
+     "en": "Wavelength",
+     "ur": "ویولینتھ"
+    },
+    {
+     "k": "D",
+     "en": "Amplitude",
+     "ur": "ایمپلیٹیوڈ"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Which compound is used for diagnosis of brain tumor :",
+   "q_ur": "دماغ کی رسولی کی نشاندہی کے لیے کون سا آئسوٹوپ استعمال ہوتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "P-32",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "I-131",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "H-3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "N-152",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Capacitance is defined as :",
+   "q_ur": "کیپیسیٹینس کی تعریف اس طرح کی جاتی ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "VC",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "QV",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Q/V",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "V/Q",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Image formed by a camera is :",
+   "q_ur": "کیمرہ میں جو امیج بنتی ہے وہ ہوتی ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Real, inverted and diminished",
+     "ur": "رئیل ، الٹی اور بہت چھوٹی"
+    },
+    {
+     "k": "B",
+     "en": "Virtual, upright and diminished",
+     "ur": "ورچوئل ، سیدھی اور بہت چھوٹی"
+    },
+    {
+     "k": "C",
+     "en": "Virtual, upright and magnified",
+     "ur": "ورچوئل ، سیدھی اور بہت بڑی"
+    },
+    {
+     "k": "D",
+     "en": "Real, inverted and magnified",
+     "ur": "رئیل ، الٹی اور بہت بڑی"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The logical operation performed by this gate is : [diagram of AND gate with inputs A, B and output X]",
+   "q_ur": "اس گیٹ سے کون سا لاجک آپریشن حاصل ہوتا ہے : [diagram of AND gate with inputs A, B and output X]",
+   "options": [
+    {
+     "k": "A",
+     "en": "NAND",
+     "ur": "نینڈ"
+    },
+    {
+     "k": "B",
+     "en": "NOR",
+     "ur": "نار"
+    },
+    {
+     "k": "C",
+     "en": "AND",
+     "ur": "اینڈ"
+    },
+    {
+     "k": "D",
+     "en": "OR",
+     "ur": "آر"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "What happens to the intensity or the brightness of the lamps connected in series as more and more lamps are added :",
+   "q_ur": "سیریز کے طریقے سے جوڑے گئے بلبوں کی تعداد میں اضافہ کرنے سے ان کی روشنی کی شدت پر کیا فرق پڑتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Increases",
+     "ur": "اضافہ ہوتا ہے"
+    },
+    {
+     "k": "B",
+     "en": "Decreases",
+     "ur": "کمی ہوتی ہے"
+    },
+    {
+     "k": "C",
+     "en": "Remains the same",
+     "ur": "کوئی فرق نہیں پڑتا"
+    },
+    {
+     "k": "D",
+     "en": "Cannot be predicted",
+     "ur": "بتانا مشکل ہے"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "From which of the following we can get information almost about every thing :",
+   "q_ur": "مندرجہ ذیل میں سے کس سے آپ ہر طرح کی انفارمیشن حاصل کر سکتے ہیں :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Books",
+     "ur": "کتابیں"
+    },
+    {
+     "k": "B",
+     "en": "Teacher",
+     "ur": "استاد"
+    },
+    {
+     "k": "C",
+     "en": "Computer",
+     "ur": "کمپیوٹر"
+    },
+    {
+     "k": "D",
+     "en": "Internet",
+     "ur": "انٹرنیٹ"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Which among the following radiations has more penetrating power :",
+   "q_ur": "مندرجہ ذیل ریڈی ایشنز میں سے کس کی پینی ٹریٹنگ پاور زیادہ ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "A beta particle",
+     "ur": "بیٹا پارٹیکل"
+    },
+    {
+     "k": "B",
+     "en": "A gamma ray",
+     "ur": "گیما رے"
+    },
+    {
+     "k": "C",
+     "en": "An alpha particle",
+     "ur": "الفا پارٹیکل"
+    },
+    {
+     "k": "D",
+     "en": "All have the same penetrating ability",
+     "ur": "تمام کی مادے سے گزرنے کی صلاحیت ایک جیسی ہوتی ہے"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "The direction of induced emf in a circuit is in accordance with conservation of :",
+   "q_ur": "انڈیوسڈ ای ایم ایف کی سمت سرکٹ میں کس قانون کے مطابق ہوتی ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mass",
+     "ur": "ماس کے کنزرویشن کے قانون کے مطابق"
+    },
+    {
+     "k": "B",
+     "en": "Charge",
+     "ur": "چارج کے کنزرویشن کے قانون کے مطابق"
+    },
+    {
+     "k": "C",
+     "en": "Momentum",
+     "ur": "مومنٹم کے کنزرویشن کے قانون کے مطابق"
+    },
+    {
+     "k": "D",
+     "en": "Energy",
+     "ur": "انرجی کے کنزرویشن کے قانون کے مطابق"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Farsightedness can be corrected by using :",
+   "q_ur": "بعید نظری کو ٹھیک کیا جا سکتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Diverging mirror",
+     "ur": "ڈائیورجنگ مرر سے"
+    },
+    {
+     "k": "B",
+     "en": "Converging mirror",
+     "ur": "کنورجنگ مرر سے"
+    },
+    {
+     "k": "C",
+     "en": "Diverging lens",
+     "ur": "ڈائیورجنگ لینز سے"
+    },
+    {
+     "k": "D",
+     "en": "Converging lens",
+     "ur": "کنورجنگ لینز سے"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Wave transfers :",
+   "q_ur": "ویو منتقل کرتی ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Energy",
+     "ur": "انرجی"
+    },
+    {
+     "k": "B",
+     "en": "Frequency",
+     "ur": "فریکوئنسی"
+    },
+    {
+     "k": "C",
+     "en": "Wavelength",
+     "ur": "ویولینتھ"
+    },
+    {
+     "k": "D",
+     "en": "Velocity",
+     "ur": "ولاسٹی"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "We can see sound waves by using :",
+   "q_ur": "ہم ساؤنڈ ویوز کو دیکھ سکتے ہیں :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Microscope",
+     "ur": "مائیکروسکوپ"
+    },
+    {
+     "k": "B",
+     "en": "Telescope",
+     "ur": "ٹیلی سکوپ"
+    },
+    {
+     "k": "C",
+     "en": "Oscilloscope",
+     "ur": "اوسیلوسکوپ"
+    },
+    {
+     "k": "D",
+     "en": "Stethoscope",
+     "ur": "سٹیتھوسکوپ"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Which is an example of longitudinal waves :",
+   "q_ur": "لونگیٹیوڈنل ویوز کی مثال ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sound waves",
+     "ur": "ساؤنڈ ویوز"
+    },
+    {
+     "k": "B",
+     "en": "Light waves",
+     "ur": "روشنی کی ویوز"
+    },
+    {
+     "k": "C",
+     "en": "Radio waves",
+     "ur": "ریڈیو ویوز"
+    },
+    {
+     "k": "D",
+     "en": "Water waves",
+     "ur": "پانی کی ویوز"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "In case of simple pendulum which component of weight acts as restoring force :",
+   "q_ur": "سادہ پینڈولم کی صورت میں وزن کا کون سا کمپونینٹ ریسٹورنگ فورس کا کام کرتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "mg sin θ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "mg cos θ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "mg sec θ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "mg cosec θ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "A positive electric charge :",
+   "q_ur": "ایک پوزیٹیو الیکٹرک چارج دوسرے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Attracts other positive charge",
+     "ur": "پوزیٹیو چارج کو کشش کرتا ہے"
+    },
+    {
+     "k": "B",
+     "en": "Repels other positive charge",
+     "ur": "پوزیٹیو چارج کو دفع کرتا ہے"
+    },
+    {
+     "k": "C",
+     "en": "Attracts a neutral charge",
+     "ur": "نیوٹرل چارج کو کشش کرتا ہے"
+    },
+    {
+     "k": "D",
+     "en": "Repels a neutral charge",
+     "ur": "نیوٹرل چارج کو دفع کرتا ہے"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Which of the following quantity is not changed during refraction of light :",
+   "q_ur": "روشنی کی رفریکشن کے دوران مندرجہ ذیل میں سے کون سی مقدار تبدیل نہیں ہوتی :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Its direction",
+     "ur": "اس کی سمت"
+    },
+    {
+     "k": "B",
+     "en": "Its speed",
+     "ur": "اس کی سپیڈ"
+    },
+    {
+     "k": "C",
+     "en": "Its wavelength",
+     "ur": "اس کی ویولینتھ"
+    },
+    {
+     "k": "D",
+     "en": "Its frequency",
+     "ur": "اس کی فریکوئنسی"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "AND gate can be formed by using two :",
+   "q_ur": "کون سے دو گیٹس استعمال کریں تو اینڈ گیٹ جیسی آؤٹ پٹ حاصل ہو سکتی ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "NOT gates",
+     "ur": "ناٹ گیٹس"
+    },
+    {
+     "k": "B",
+     "en": "OR gates",
+     "ur": "آر گیٹس"
+    },
+    {
+     "k": "C",
+     "en": "NAND gates",
+     "ur": "نینڈ گیٹس"
+    },
+    {
+     "k": "D",
+     "en": "NOR gates",
+     "ur": "نار گیٹس"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "What is the power rating of lamp connected to 12 V source when it carries 2.5 A current :",
+   "q_ur": "12V کے سورس سے جوڑے گئے ایک لیمپ کی پاور کی شرح کیا ہوگی جبکہ اس میں سے 2.5A کرنٹ بہہ رہا ہو :",
+   "options": [
+    {
+     "k": "A",
+     "en": "4.8 W",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "14.5 W",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "30 W",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "60 W",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "The brain of any computer system is :",
+   "q_ur": "کسی بھی کمپیوٹر سسٹم کا دماغ ہوتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Monitor",
+     "ur": "مونیٹر"
+    },
+    {
+     "k": "B",
+     "en": "C. P. U.",
+     "ur": "سی پی یو"
+    },
+    {
+     "k": "C",
+     "en": "Memory",
+     "ur": "میموری"
+    },
+    {
+     "k": "D",
+     "en": "Control unit",
+     "ur": "کنٹرول یونٹ"
+    }
+   ]
+  }
+ ]
+}

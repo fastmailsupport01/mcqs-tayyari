@@ -1,0 +1,961 @@
+{
+ "board": "BISE Lahore",
+ "class": "12th",
+ "subject": "Biology",
+ "year": 2024,
+ "slug": "lahore-12th-biology-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Nervous system of hydra lacks :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Tentacle receptors",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Superficial nerve net",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ganglia",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Motor neurons",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "A set of three nucleotides on tRNA specifying a particular amino acid, is called :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Code",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Genetic code",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Codon",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Anticodon",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The oldest homologous structures are :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Gills",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Lungs",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Human ear muscles",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Eyes",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Which one of the following is not a nutritional disorder :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Kwashiorkor",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Goitre",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Scurvy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Osteoarthritis",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The removal of salts and water by sweating is meant for :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Excretion",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Osmoregulation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Thermoregulation",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Both A and C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Ex-vivo gene therapy is used to treat children having :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "SCID",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "AIDS",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cystic fibrosis",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Both A and B",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "What is not true about sclerenchyma :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Lignin",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Branched pits",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Non-living",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Elastic",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "A normal man whose father is albino, has married an albino woman. Which disorder other than albinism can occur in his children :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Protanopia",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Leukemia",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Deuteranopia",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Both B and C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Grassland in tropical climate is called :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Prairies",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Savanna",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Pampas",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Taiga",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Root primordium develops root cambium, also called as :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Pericycle",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Pith",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cortex",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Both A and C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "What is involved in ecdysis :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nervous system",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ecdysone",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Enzyme",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "In a nucleotide, Uracil is attached to pentose sugar at carbon No :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Climacteric is associated with production of :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ethene",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Auxins",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cytokinin",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Both A and C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "Number of chromosomes in Turner's syndrome individual's cell is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "45 + X",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "44 + Y",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "44 + X",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "46 + X",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Indicate the incorrect matching among the following :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Amygdala ↔ rage",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Pons ↔ hunger",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NAA ↔ fruit set",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Auxins ↔ geotropism",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "A patient that lacks a gene coding for trans-membrane carrier of chloride ions, suffers from :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "SCID",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cystic fibrosis",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cancer",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Hodgkin's lymphoma",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "Which of the following is a macronutrient :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Iron",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Iodine",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Molybdenum",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Phosphorus",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "The hormone that keeps the flower fresh :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Auxins",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ethene",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Gibberellins",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cytokinins",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "The strand which leads towards the replication fork is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Lagging",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Leading",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Master",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Plandromic",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "How many base pairs are present in human genome :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "05 billions",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "03 billions",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "07 billions",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "09 billions",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Coal, oil and natural gas are examples of which resource :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Renewable",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Non-renewable",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Exhaustible",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Both B and C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Liver helps to synthesize :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Bile",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Citric acid",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Lactic acid",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Pesticide",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Genes for albinism are located on :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "X chromosome",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Y chromosome",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "11 chromosome",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9 chromosome",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "The muscles which have intercalated discs :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Smooth",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cardiac",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Skeletal",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Striped",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Principle of population was published by :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cuvier",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Darwin",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Wallace",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Malthus",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "The grass-land having no woody plants known as :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Alpine",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Savanna",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Coniferous",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Prairies",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Gray crescent is present in :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nucleus",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cytoplasm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ribosomes",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cell membrane",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "In plants which are involved in testa formation :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Trachea",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Tracheids",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Sclereids",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Collenchyma",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "The genetic code for methionine is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "UAA",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "GGC",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "UAC",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "AUG",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "The endosperm of angiosperm is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Triploid",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Haploid",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Diploid",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Polyploid",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "The chromosomes become visible, short and thick during :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Diakinesis",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Diplotene",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Leptotene",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Anaphase",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "MSH is secreted from the :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Median lobe of pituitary gland",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Posterior lobe of pituitary gland",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Adrenal gland",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Anterior lobe of pituitary gland",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "The enzyme luciferase is produced in an insect called :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Firefly",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Housefly",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Butterfly",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Tsetse fly",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "In Sindh the desert ecosystem is called :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Thar",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Thal",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Rohi",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cholistan",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

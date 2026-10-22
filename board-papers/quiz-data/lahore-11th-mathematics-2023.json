@@ -1,0 +1,1129 @@
+{
+ "board": "BISE Lahore",
+ "class": "11th",
+ "subject": "Mathematics",
+ "year": 2023,
+ "slug": "lahore-11th-mathematics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Sum of cube roots of unity is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2i",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "If nP2 = 30 then n = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The modulus of complex number 1 - i sqrt(3) is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 + i sqrt(3)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-1 + i sqrt(3)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Arithmetic mean between sqrt(2) and 3 sqrt(2) is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2 sqrt(2)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "sqrt(6)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3/sqrt(2)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "sqrt(2)/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "If a function f: A -> B is such that Ran f is a subset of B i.e. Ran f != B then f is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Into function",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Onto function",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Injective function",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Bijective function",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Partial fractions of (x^2 + 1)/((x + 1)(x - 1)) are of the type:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A/(x+1) + B/(x-1)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1 - A/(x+1) - B/(x-1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1 + A/(x+1) + B/(x-1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(Ax+B)/(x+1) + C/(x-1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Quadratic equation whose roots are 2 and 3:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x^2 - 5x + 6 = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x^2 + 5x + 6 = 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x^2 - 5x - 6 = 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x^2 + 5x - 6 = 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "If A is a square matrix of order 3 then |KA| = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "K|A|",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "K^3|A|",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "K^2|A|",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "K^4|A|",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "7th term of the sequence of 2, 6, 11, 17, ..... is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "24",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "26",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "30",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "32",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The trivial solution of homogeneous linear equation is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(0, 1, 1)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(0, 1, 0)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(1, 0, 0)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(0, 0, 0)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Domain of the function y = cot x is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-infinity < x < +infinity",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-infinity < x < +infinity, x != (2pi+1)x/2, pi in Z",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-1 <= x <= 1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-infinity < x < +infinity, x != n pi, n in Z",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "If A and B are overlapping events then P(A union B) = -------- :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "P(A) + P(B)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1 - P(A)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "P(A) + P(B) - P(A intersect B)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1 - P(B)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "The solutions of cosec theta = 2 which lie in [0, 2pi] :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4pi/3, 5pi/3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2pi/3, 4pi/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "pi/4, 3pi/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "pi/6, 5pi/6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "cos(pi/2 - beta) = -------- :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-sin beta",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "sin beta",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "cos beta",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-cos beta",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "cos^-1(-x) = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "cos^-1 x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-cos^-1 x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "pi - cos^-1 x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2pi - cos^-1 x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "2nd term in the expansion of (a/2 + 2/a)^6 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a^6/64",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "15/4 a^2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-20",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3/8 a^4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "If sin theta = 12/13 and terminal arm is in quad - 1 then cos theta = -------- :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "13/5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-5/13",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5/13",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-13/5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group I",
+   "q_en": "In any triangle with usual notations sin(alpha/2) = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "sqrt((s-a)(s-b)/ab)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "sqrt((s-b)(s-c)/bc)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "sqrt((s-c)(s-a)/ca)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "sqrt(s(s-c)/ab)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group I",
+   "q_en": "If n is odd in the expansion of (a + x)^n then number of middle term are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group I",
+   "q_en": "In law of cosine if beta = 90 degrees then it reduces to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "b^2 + c^2 = a^2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "c^2 + a^2 = b^2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a^2 + b^2 = c^2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "c^2 - a^2 = b^2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Product of all three cube roots of unity is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "i",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-i",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "P(E) represents the probability of an event 'E' and 0 <= P(E) <= 1 for P(E) = 0 the event will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Certain",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "One",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Possible",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Impossible",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "The multiplicative inverse of (1, 0) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(1, 0)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(0, 1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "G.M. between 1 and 16 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Which one of them is unary operation:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Addition",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Multiplication",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Subtraction",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Negation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Types of rational fractions are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Roots of quadratic equation x^2 - 7x + 10 = 0 are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2, 5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-2, 5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2, -5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-2, -5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "If A is a square matrix of order 3 x 3 then |KA| = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "K|A|",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "K^2|A|",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "K^3|A|",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "K^4|A|",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "A.M. between x - 3 and x + 5 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x + 1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2x + 1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2x + 2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "A square matrix A = [a_ij] is called a skew-symmetric if:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A^t = A",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A^t = -A",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A^t = +- A",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A^-1 = A",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "The period of tangent function is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "pi/4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "pi/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "pi/3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "pi",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "The probability that an event does not occur, P(complement of E) = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 - P(E)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1 + P(E)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2 - P(E)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2 + P(E)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "Solution of the equation sin x = 1/2 in [0, 2pi] is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "pi/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "pi/6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "pi/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "pi/3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "1 - sin^2 alpha = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "sin 2alpha",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "sin(alpha/2)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "cos 2alpha",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "cos alpha",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "cos^-1(1/2) = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "pi/3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "pi/4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "pi/6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "pi/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "The total number of terms in the expansion of (a + x)^n is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "n + 2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "n + 1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "n",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "n - 1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "2pi/3 radian in degree is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "75 degrees",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "100 degrees",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "110 degrees",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "120 degrees",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group II",
+   "q_en": "Delta/s = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "r",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "r1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "r2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "r3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group II",
+   "q_en": "The statement n^2 > n + 3 hold for n = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group II",
+   "q_en": "sqrt(s(s-a)(s-b)(s-c)) = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "r",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Delta",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Delta s",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "r1",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

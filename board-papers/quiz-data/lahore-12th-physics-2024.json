@@ -1,0 +1,961 @@
+{
+ "board": "BISE Lahore",
+ "class": "12th",
+ "subject": "Physics",
+ "year": 2024,
+ "slug": "lahore-12th-physics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The rest mass energy of electron positron pair is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.51 MeV",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.71 MeV",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.02 MeV",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2 MeV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The SI unit of impedance is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ohm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Farad",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Volt",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ampere",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "To convert galvanometer into voltmeter, high resistance is connected to the galvanometer in :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Parallel",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Series",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Anti parallel",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Perpendicular",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "In transistor, concentration of impurity is highest in :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Collector",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Emitter",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Base and collector",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Base",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "At high frequency, RLC series circuit behaves like :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "R-C circuit",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "R-L circuit",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "RLC series circuit",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "L-C circuit",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "If electric and gravitational forces on an electron balance each other, then electric field intensity will be :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "mgq",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "q/mg",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "mg/q",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "q / 4πε₀r²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The temperature of steam coming out of turbine in nuclear reactor is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "200 °C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[illegible in source scan]00 °C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "600 °C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1300 °C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The dimensions of motional emf are same as that of :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Magnetic induction",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Magnetic flux",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Potential difference",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Magnetic force",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The value of Stefen's constant 'σ' is given by :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5.67×10⁻⁸ Wm⁻²K⁻²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5.67×10⁻⁸ Wm⁻²K⁻⁴",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5.67×10⁻⁸ Wm²K²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5.67×10⁻⁸ W²m²K⁻²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "A charge of 4C is placed in the field of intensity 8NC⁻¹. The force on the charge is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2 N",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4 N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "16 N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "32 N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The example of crystalline solid is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zirconia",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Natural rubber",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Polystrene",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nylon",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Heat sensitive resistors are called :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Resistor",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Thermistor",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Inductor",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Capacitor",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "The atoms can reside in metastable state for about :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10⁻²s",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10⁻³s",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10⁻⁴s",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10⁻⁸s",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "X = A + B is the mathematical notation for :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "OR gate",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NOR gate",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NOT gate",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NAND gate",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Binding energy per nucleon for isotope iron-58 has a value of :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "6.6 MeV",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "7.7 MeV",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8.8 MeV",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9.9 MeV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "For step up transformer :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ns < Np",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ns > Np",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ns = Np",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ns ≥ Np",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "Brightness of screen of CRO is controlled by :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Grid",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Anode",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cathode",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Filament",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "What is the critical temperature of Yttrium Barium Copper Oxide (YBa₂Cu₃O₇) :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4.2 K",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "110 K",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "163 K",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "7.2 K",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "One henry (H) is defined as :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1H = 1VS⁻¹A⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1H = 1VSA",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1H = 1VSA⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1H = 1VS⁻¹A",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Choose the photon of highest energy among the following :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "X-rays",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Infrared",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Radiowaves",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Gamma rays",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "A particle having a charge of 2e falls through a potential difference of 3V. The energy acquired by it will be :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5 eV",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.5 eV",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6 eV",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.6 eV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "SI unit of equivalent dose is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sievert",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Gray",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Rad",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Curie",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "If peak value of AC voltage is 100 V, then the peak to peak value will be :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "200 V",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "50 V",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "70 V",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1000 V",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "The direction of magnetic lines of force around a straight current carrying conductor is found by :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ampere's law",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Coulomb's law",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Lenz's law",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Right hand rule",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Which of the following is the correct relation between electric intensity E and potential difference ΔV :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "E = −ΔV/Δr",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ΔV = E/Δr",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "E = ΔV + Δr",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "E = ΔV²/Δr²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Which of the following requires no external bias for its operation :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "LED",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Photo diode",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Photo-voltaic cell",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Transistor",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "The energy of Kα X-rays is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "hf_kα = E_M − E_K",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "hf_kα = E_L − E_K",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "hf_kα = E_K − E_M",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "hf_kα = E_N − E_M",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "The power factor of a series resonance circuit at resonance frequency is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Infinite",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "In AVO meter, the part which connects the galvanometer with the relevant measuring circuit is known as :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Range switch",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Diode",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ground",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Function selector",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "How much time is required for the complete decay of a radioactive element :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Five half lives",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Two half lives",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ten half lives",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Infinite",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "Choose the device which converts electrical energy into mechanical energy :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Motor",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Generator",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Transformer",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Inductor",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "The current-voltage graph of an ohmic material is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Curve",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Straight line",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Parabolic",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Circular",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "The phase shift between the input and output of a common-emitter transistor amplifier is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "180°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "45°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "Which of the following factor is called Compton Wavelength :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "h / m₀c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "m₀c / h",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "hc / m₀",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "m₀ / hc",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

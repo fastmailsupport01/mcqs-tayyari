@@ -1,0 +1,681 @@
+{
+ "board": "BISE Lahore",
+ "class": "12th",
+ "subject": "Computer Science",
+ "year": 2019,
+ "slug": "lahore-12th-computer-science-2019",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The graphical query tool is known as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Query grid",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Design grid",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Query form",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Design form",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Every relation should have:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Primary key",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Candidate key",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Secondary key",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mutually key",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Which of the following can be a primary key:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Last name",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Salary",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Customer ID",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Region",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Which of the following is used to describe the characteristics of an object:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Attribute",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Relationship",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cardinality",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Modality",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "SQL stands for:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sort Query Language",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Self Query Language",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Seek Query Language",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Structured Query Language",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Which of the following is not a database object:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Table",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Query",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Query Report",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "MS-Word",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Switch statement is an alternate of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "nested if",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "if-else",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "nested if-else",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "if",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Semicolon is placed at the end of condition in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "while loop",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "do-while loop",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "for loop",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Which loop structure always executes at least once:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "do-while",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "for",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "while",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The scope of variable refers to its:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Length",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Name",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Accessibility",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Data type",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Variable and constant name can not contain:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Number",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Underscore",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Letter",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Period",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Which of the following character is used to mark the end of string:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "/o",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "/r",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "/a",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "/n",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "The function that is used to display output on the screen is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Printf",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Scanf",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Pow",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Display",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "The case block ends with:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "End Select",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "End Case",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "break",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Case Else",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "The output of the compiler is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Library code",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Source code",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Linked code",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Object code",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "For A = 4 and B = 4, which of the following evaluates to true:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A<>B",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A<B",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A>=B",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A>B",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "If step keyword is not used in For --- Next loop, counter variable is incremented by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Unknown",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "If number of iterations are not known is advance, the suitable loop is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Do---Loop Until",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "For---Next",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "For---each Next",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "For---While",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "A two dimensional array can view as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "One column",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "One row",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Row, column",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Use---to declare variable in VB:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Event",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Identifier",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Sub",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Dim",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "When no item is currently selected in a list box, the 'List Index' property is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "+1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Null",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Which of the following is a valid VB data type:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Boolean",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Array",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Int",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "char",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "Another term used for making a decision is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sequential",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Repetition",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Selection",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Iteration",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Writing program in machine language is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Impossible",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Simple",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Time consuming",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Complex",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

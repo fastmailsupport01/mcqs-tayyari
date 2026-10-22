@@ -1,0 +1,849 @@
+{
+ "board": "BISE Lahore",
+ "class": "11th",
+ "subject": "Computer Science",
+ "year": 2024,
+ "slug": "lahore-11th-computer-science-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Which type of printer operates most like a photocopy machine :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "LASER printer",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Line printer",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ink-jet printer",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Dot-matrix printer",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The smallest unit of information in the computer is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Character",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Word",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Bit",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Byte",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The most commonly used LAN protocol is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ethernet",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Token Ring",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ARCnet",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "TCP / IP",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "In OSI model, encryption and decryption are functions of which layer :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Application",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Presentation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Transport",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Session",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The process of transferring data electronically from one place to another is called :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Data communication",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Data processing",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Data sequencing",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Data sender",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Sound, light and radio waves are examples of which signal :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Digital",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Analog",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Unique",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Simple",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "CBT software is used in :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Education",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Forecasting",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Manufacturing",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Farming",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Which component of CPU interacts with primary memory :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Register",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ALU",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Control unit",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Bus",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Which register has special role in division and multiplication :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "AX",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "BX",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CX",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "DX",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Which of the following is a biometric technique for person identification :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Access card",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Finger print",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Password",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Badge",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "All files deleted from computer are stored in :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sys-tray",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Temporary files",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "My document",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Recycle bin",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The feature of MS-Word used to change font color, size and style is called :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Formatting",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Styles",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Composing",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Attractive",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "If the custom format is # # # . 00 then 261 will be displayed as :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "261",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "261.0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2.61",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "261.00",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "To calculate sum of cells A1, A2, A3, A4 the formula is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "= ( A1 + A2 + A3 + A4 )",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A1 + A2 + A3 + A4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "= A1 + A4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "= A1 + A3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "The four numbers in an IP address are called :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Octets",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Codec",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Octal",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Bytes",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Two dissimilar networks can be connected by using :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Bridge",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Repeater",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Hub",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Gateway",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "FormatC is an example of :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Boot Sector",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Trojan Horse",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Chernobal",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Logic Bomb",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Which one of the following cell address is correct :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "AA",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3B",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "25",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "C5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Which one of the following is word processor :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "MS-Word",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "MS-Excel",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "MS-PowerPoint",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "MS-Access",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Data processing is also known as :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Accuracy",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Computing",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Speed",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Merging",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "An operating system is a :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "System utility",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Application software",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "System software",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Software package",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "The length of IP-address is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "8-bits",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "16-bits",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "24-bits",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "32-bits",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "All nodes are connected to a single cable in :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Bus topology",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ring topology",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Star topology",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mesh topology",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "How many characters ASCII 8-bit code can represent :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "256",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "128",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "64",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "65536",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "The name of screen clarity is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Pixel",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Resolution",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Density",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Picture clarity",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Brain of computer that executes instructions is called :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Bus",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Register",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CPU",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "RAM",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "A workbook is a collection of :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Tables",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Formula",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Sheets",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Functions",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "Electronic banking is also known as :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cyber banking",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Offline banking",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Interactive banking",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Global banking",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "Television broadcast is an example of :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Simplex mode",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Half duplex mode",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Full duplex mode",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Triplex mode",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "The program that contains instructions to operate a device is called :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Device system",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Device operator",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Device linking",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Device driver",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

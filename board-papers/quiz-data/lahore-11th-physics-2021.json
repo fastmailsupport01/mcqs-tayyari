@@ -1,0 +1,961 @@
+{
+ "board": "BISE Lahore",
+ "class": "11th",
+ "subject": "Physics",
+ "year": 2021,
+ "slug": "lahore-11th-physics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The maximum height attained by a projectile is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "vi²sin²θ/2g",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "vi²sin²θ/g",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "vi²cos²θ/2g",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "vi²cos²θ/g",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "One radian is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "57.3°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "67.3°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "87.3°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "60°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The property of bending of light around obstacles is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Reflection",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Refraction",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Diffraction",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Polarization",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The K.E. of molecules of an ideal gas at absolute zero will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Infinite",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Very high",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Below zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Travel time of light from sun to earth is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 min 20 s",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8 min 20 s",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10 min 20 s",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5 h 20 s",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The frequency range of Dog ear is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "20-20,000 Hz",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "60-70,000 Hz",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1000-120,000 Hz",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "15-50,000 Hz",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Unit of torque in SI unit is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "N−m⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "N⁻¹−m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "N⁻¹−m⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "N−m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "At resonance, the transfer of energy is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Minimum",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Maximum",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Negative",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The efficiency of diesel engine is about:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "25-30%",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "35-40%",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "35-50%",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "45-60%",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Kilowatt hour is the unit of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Power",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Work",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Force",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Momentum",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The dimensions of relation mc² are equal to the dimensions of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Force",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Momentum",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Energy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Torque",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "If a body of mass 10 kg is allowed to fall freely, its apparent weight becomes:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "89 N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "9.8 N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "The angle of projection of a projectile for which its maximum height and horizontal range are equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "56°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "66°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "76°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "A ten meter high tank is full of water. A hole appears at its middle. The speed of efflux be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5ms",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "9.9 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8.9 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5.11 ms⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "The dot product î·î is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ĵ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "Beats can be heard by man when difference of frequency is not more than:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3 Hz",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "9 Hz",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10 Hz",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "16 Hz",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "The least distance of distinct vision for normal eye is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10 cm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "20 cm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "25 cm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "30 cm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Venturi meter is a device used to measure:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Density of fluid",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Speed of fluid",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Viscosity of fluid",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Pressure of fluid",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "The horizontal range of a projectile is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2vi sinθ/g",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "vi²sin²θ/2g",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "vi² sin2θ/g",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "vi sin²θ/2g",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "If 20 waves pass through the medium in 1 second with speed of 20ms⁻¹, then the wavelength is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "20 m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10 m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2 m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1 m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "The dimensions of torque are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[MLT⁻²]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[ML⁻¹T⁻²]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[ML⁻¹T⁻¹]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[ML²T⁻²]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The efficiency of a carnot engine is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Infinite",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Greater than one",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Less than one",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "One radian is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "57.3°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "67.3°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "87.3°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "60°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Which of the following is the only scalar quantity:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Energy",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Velocity",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Force",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Torque",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "[M⁰L⁰T⁻¹] refer to quantity:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Velocity",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Frequency",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Time period",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Force",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "If length of the simple pendulum is double then its period increases:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.44 times",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2 times",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2.4 times",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3 times",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "For normal adjustment, length of telescope is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "fo + fe",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "fo − fe",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "fo/fe",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "fe/fo",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "The angular displacement per second is called angular:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Acceleration",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Rotation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Velocity",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Speed",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "SI unit of impulse is equivalent to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Force",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Momentum",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Torque",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Velocity",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "Pressure of an ideal gas can be written in terms of its density:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "P = ρ<v²>",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "P = 1/3 ρ<v²>",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "P = 2/3 ρ<v²>",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "P = 1/2 ρ<v²>",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "Kilowatt hour is the unit of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Power",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Work",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Force",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Momentum",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "Position vector of a point in x-z plane is given by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "yî + zk̂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "xî + yk̂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "xî + zk̂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "xî + yĵ + zk̂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "The number of nodes between two consecutive antinodes is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "Bragg's equation is given by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "d = 2sinθ/nλ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "d = 2n sinθ/λ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "d = 2λ sinθ/n",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

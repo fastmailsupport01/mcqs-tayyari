@@ -1,0 +1,961 @@
+{
+ "board": "BISE Lahore",
+ "class": "11th",
+ "subject": "Physics",
+ "year": 2022,
+ "slug": "lahore-11th-physics-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The prefix femto is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10^-9",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10^-12",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10^-14",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10^-15",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "If |A·B| = |A×B|, then the angle between A and B is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "180°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "A typical rocket eject the burn gases at the rate:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "400 ms^-1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4000 ms^-1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8000 ms^-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10000 ms^-1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Gravity perform zero work when body moves:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Vertically",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Horizontally",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "At 60° with vertical",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "At 45° with horizontal",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "In rotational motion, the analogues of force is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Rotational inertia",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Moment of inertia",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Torque",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Inertia",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The time period of simple pendulum is independent of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Length",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Acceleration",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mass",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Height",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The time period of simple pendulum is independent of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Length",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Acceleration",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mass",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Height",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Speed of sound in air at 0°C is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "280 ms^-1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "330 ms^-1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "331 ms^-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "332 ms^-1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Bragg's equation is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2d sinθ = λ/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "d sinθ = nλ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "d sinθ = nλ/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "d sinθ = 2λ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Refractive index of water is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.33",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "In carnot engine, each process is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[illegible in source scan]eversible",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Perfectly reversible",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[illegible in source scan]eversible",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Perfectly irreversible",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The dimension of torque are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[ML^-1T]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[ML^2T^1]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[ML^2T^-2]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[ML^-1T^-2]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Projection of B on A:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A cos θ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "B cos θ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A sin θ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "B sin θ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "π-radian is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "180°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "360°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Example of mechanical wave is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Water wave",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Radio wave",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Infrared wave",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ultraviolet wave",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "The value of horizontal acceleration during projectile motion:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "45 ms^-2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "9.8 ms^-2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Maximum",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "Heat is a form of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Power",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Momentum",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Volume",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Energy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "SI unit of intensity of light is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mole",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Kelvin",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Candela",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ampere",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "SI system is built up by how many kinds of units:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Six",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Five",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Four",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Three",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "SI unit of torque is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nm[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Nm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Nm[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Kgm^-1s^-1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "For a body to be in complete equilibrium:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a = 0 and α = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ΣF = 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Στ = 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ΣFx = ΣFy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The acceleration of 1.5 ms^-2 is expressed in kmh^-2:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "324",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "19440",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2.25",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5400",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "For what angle of projection projectile has maximum horizontal range:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "30°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "One kiln wall is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1000 J/S",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10 watt",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.1 × 10^3 watt",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6.25 × 10^25 J",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Magnitude of centripetal acceleration is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "rw^2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "r^2w",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "w^2/r",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "r^2w^2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "One torr in Nm^-2 is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.333",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "133.3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "13333",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "13.33",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Radius of geostationary orbit is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4.23 × 10^4 m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4.23 × 10^4 km",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6400 km",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "423 × 10^4 km",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Example of mechanical wave is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Water wave",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Radio wave",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Infrared wave",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ultraviolet wave",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Distance between node and consecutive antinode is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "λ/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3λ/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "λ/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "λ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "Open end of an organ pipe act as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Node",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Antinode",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Crest",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Trough",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "In Young's double slit experiment fringe spacing will be maximum if we use:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Green light",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Red light",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Blue light",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Yellow light",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "If N is number of ruling on the grating then the resolving power in mth order diffraction is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "R = N/m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "R = N × m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "R = m/N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "m + N/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "For one mole of an ideal gas, the gas equation becomes:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "PV = nRT",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "PV = 3RT",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "PV = 3/2 RT",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "PV = RT",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "SI unit of entropy is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "J/Kg",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "J/K",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Kgms^-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "JK",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,569 @@
+{
+ "board": "BISE Lahore",
+ "class": "10th",
+ "subject": "Computer Science",
+ "year": 2024,
+ "slug": "lahore-10th-computer-science-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Which of the following is a valid line of code :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "int = 10 ;",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "float = 3.4 ;",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "char grade = 'A' ;",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "char = 'A' ;",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "— part of for loop is executed first:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Initialization",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Condition",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Increment/decrement",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Body",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "If there are three return statements in the function body --------- of them will be executed :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "One",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Two",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Three",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "First and last",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "In C language character constant is written within :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "\" \"",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "' '",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "#",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "A software that facilitates programmers in writing computer programmes is known as :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Compiler",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Debugger",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Editor",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "IDE",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "What is the result of 13+21% (41-20):",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "34",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "13",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "12",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "In this function int is a: int msg () { printf (\"keep it up\") ; }",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Argument",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Parameter",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Body",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Return type",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "An array is a — structure:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Control",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Loop",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Data",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Conditional",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Which of the following is the condition to check a is a factor of b:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a % b == 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "b % a == 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a / b == 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "b / a == 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "What is the output of the following code : int m = 80 ; if (m > 70 && m < 80) printf ( \"Pass\") ; else printf (\"Fail\") ;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Pass",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Fail",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "A float uses — bytes of memory:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "7",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "— is a software that is responsible for the conversion of programme files to machine understandable and executable code :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Compiler",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Editor",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Debugger",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "IDE",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "What will be the answer of following statement: float a = 10.0/4",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2.5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "The operator % is used to calculate —:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Percentage",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Remainder",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Factorial",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Square",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "What will be the output of the following code : if ( 1 > 0 ) printf (\" 1 \"); else printf (\"0\");",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "\"1\"",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "\"0\"",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Conditional logic helps in —:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Decisions",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Iterations",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Traversing",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Reversing",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "— part of For Loop is executed first:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Initialization",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Condition",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Body",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Increment/decrement",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "— make it easier to read and write values in array:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Loops",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Conditions",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Expressions",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Functions",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "The advantages of using functions are —:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Executing",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Reusability",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Printing",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Compiling",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Function input is called —:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Parameters",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Return value",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Function signature",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Identifier",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

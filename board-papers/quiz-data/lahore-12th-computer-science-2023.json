@@ -1,0 +1,289 @@
+{
+ "board": "BISE Lahore",
+ "class": "12th",
+ "subject": "Computer Science",
+ "year": 2023,
+ "slug": "lahore-12th-computer-science-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Which of the following is a hardware component :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Web page",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Device driver",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CPU",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "System software",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Which plotter consists of two arms :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Drum",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Flat bed",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Electrostatic",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ruler",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Which of the following is incorrect :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2 base 10",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2 base 16",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2 base 2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2 base 8",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Which of the following error is detected at compile time of program :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Syntax",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Runtime",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Logical",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Debug",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "How many possible solutions are there for a problem :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "One",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Two",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Three",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Multiple",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The output of compiler is called :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Binary",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Low level",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Machine code",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "A set of instructions given to computer is called :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Program",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Hardware",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CPU",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "How many types of arrays are in GW-BASIC :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Another name for keywords is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Reserve words",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Remarks",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Alphabets",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The benefit of CAD may be summed up as :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Accuracy",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Repeatability",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Speed",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

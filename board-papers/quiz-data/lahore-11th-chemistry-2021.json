@@ -1,0 +1,961 @@
+{
+ "board": "BISE Lahore",
+ "class": "11th",
+ "subject": "Chemistry",
+ "year": 2021,
+ "slug": "lahore-11th-chemistry-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Density of an ideal gas can be calculated by the formula:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "d = nRT",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "d = PM/RT",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "d = m/M RT",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "d = PV/M",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Which of the following species has unpaired electrons in anti-bonding molecular orbitals:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "O₂²⁺",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "N₂²⁻",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "B₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "F₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The pH of mixture of CH₃COONa and CH₃COOH is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": ">7",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "<7",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The unit of rate constant is the same as that of rate of reaction in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "First order reaction",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Second order reaction",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Zero order reaction",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Third order reaction",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Many elements have fractional atomic masses, this is because:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "The mass of an atom is itself fractional",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Atomic masses are average masses of isobars",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Atomic masses are average masses of isotopes",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Atomic masses are average masses of isotopes proportional to their relative abundance",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "In the monoclinic crystal system, bond axes are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a = b = c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a = b ≠ c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a ≠ b = c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a ≠ b ≠ c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Which of the following compounds do not show process of sublimation:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ammonium chloride",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Iodine",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Naphthalene",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Carbon tetra chloride",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "In endothermic reactions, the heat content of the:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Products is more than that of reactants",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Reactants is more than that of products",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Surrounding increases",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Reactants and products are equal",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "If a salt bridge is not used between two half cells, then the voltage:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Decreases rapidly",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Decreases slowly",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Does not change",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Drops to zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Orbitals having same energy are called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hybrid orbitals",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Valence orbitals",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Degenerate orbitals",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "d-orbitals",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "1 gram formula of NaCl, is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "58.5 g",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "23 g",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "35.5 g",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "12 g",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Balmer series in hydrogen spectrum lies in the region:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ultraviolet",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Visible",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Infrared",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Microwave",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "When water freezes at 0°C, its density decreases due to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cubic structure of ice",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Empty spaces present in structure of ice",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Change of bond lengths",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Change of bond angles",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "According to VSEPR theory, the shape of PFR molecule is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Trigonal pyramidal",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Tetragonal",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Linear",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Trigonal planer",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "If absolute temperature of a gas is doubled and the pressure is reduced to one half, the volume of the gas will:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Remain unchanged",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Increase four times",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Reduce to ¼",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Be doubled",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "An excess of silver nitrate in aqueous form is added to aqueous barium chloride and precipitate is removed by filtration. What are main ions in the filtrate:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ag⁺ and NO₃⁻ only",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ag⁺ and Ba²⁺ and O₃⁻",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ba²⁺ and NO₃⁻ only",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ba²⁺ and O₃⁻ and Cl⁻",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "A thermometer used in Landsberger's method can read upto:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.1 K",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.01 F",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.01 K",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.01°C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "An excess of aqueous silver nitrate is added to aqueous barium chloride and precipitate is removed by filtration. What are the main ions in the filterate?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ag⁺ and NO₃⁻ only",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ag⁺ and Ba²⁺ and NO₃⁻",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ba⁺ and NO₃⁻ only",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ba²⁺ and NO₃⁻ and Cl⁻",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Pressure remaining constant, at which temperature the volume of a gas will become twice of what it is at 0°C.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "546°C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "200°C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "546K",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "273K",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "The number of bonds in nitrogen molecule is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "one σ and one π",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "one σ and two π",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "three sigma only",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "two σ and one π",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "When water freezes at 0°C, its density decreases due to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "cubic structure of ice",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "empty spaces present in the structure of ice",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "change of bond lengths",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "change of bond angles",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Isotopes differ in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "properties which depend upon mass",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "arrangement of electrons in orbitals",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "chemical properties",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "the extent to which they may be affected in electromagnetic field",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "18g glucose is dissolved in 90g of water. The relative lowering of vapour pressure is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5.1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/51",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "The nature of the positive rays depend on:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "the nature of electrode",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "the nature of the discharge tube",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "the nature of the residual gas",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "all of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "The velocity of photon is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "independent of its wavelength",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "depends on its wavelength",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "equal to square of its amplitude",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "depends on its source",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "One calorie is equivalent to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.4184 J",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "41.84 J",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4.184 J",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "418.4 J",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Acetone and chloroform are soluble in each other due to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "intermolecular hydrogen bonding",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ion-dipole interaction",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "instantaneous dipole",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "all of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Solvent extraction is an equilibrium process and it is controlled by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "law of mass action",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "the amount of solvent used",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "distribution law",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "the amount of solute",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "In zero order reaction, the rate is independent of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "temperature of reaction",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "concentration of reactants",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "concentration of products",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "none of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "Which of the following species has unpaired electrons in antibonding molecular orbitals?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "O₂²⁺",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "N₂²⁻",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "B₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "F₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "27g of Al react completely with how much mass of O₂ to produce Al₂O₃.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "8g of oxygen",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "16g of oxygen",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "24g of oxygen",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "32g of oxygen",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "The cathodic reaction in electrolysis of dil. H₂SO₄ with Pt electrodes is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "reduction",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "oxidation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "both oxidation and reduction",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "neither oxidation nor reduction",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "The molar volume of CO₂ is maximum at:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "STP",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "127°C and 1 atm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0°C and 2 atm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "273°C and 2 atm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "The pH of 10⁻³ mol dm⁻³ of an aqueous solution of H₂SO₄ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3.0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2.7",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2.0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.5",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

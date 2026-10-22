@@ -1,0 +1,849 @@
+{
+ "board": "BISE Lahore",
+ "class": "10th",
+ "subject": "Mathematics",
+ "year": 2024,
+ "slug": "lahore-10th-mathematics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The number of terms in a standard quadratic equation ax² + bx + c = 0 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Solution set of 5x² = 15x is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "{0}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{5}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{15}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{0, 3}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "ω = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ω²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ω⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ω⁻²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ω⁻³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "If α, β are the roots of 3x²+5x-2=0 , then α + β is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5/3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-2/3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2/3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "If a : b = x: y, then invertendo property is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "b/a = y/x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "b/a = x/y",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a/b = y/x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a/b = x/y",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "If u ∝ v² , then :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "u = kv",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "u = k/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "u = kv²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "u = k²v",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "(2x+1)/((x+1)(x-1)) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Equation",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "An identity",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Improper fraction",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Proper fraction",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "{∅} is ---- set :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Empty",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Singleton",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Universal",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Domain",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "If A ⊆ B, then A ∩ B is equal to :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "{∅}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "∅",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "B",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The extent of variation between two extreme observations of a data set is measured by :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Variance",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Mode",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Range",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Average",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "(1/2) cosec 45° = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/(2√2)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/√2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2√2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The distance of any point of the circle to its centre is called :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Radius",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Diameter",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Chord",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Tangent",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "A circle has only one ---- :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Chord",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Radius",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Diameter",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Centre",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "Out of two congruent arcs of a circle, if one arc make a central angle of 30°, then the other arc will subtend the central angle of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "30°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "45°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "The measure of the external angle of a regular octagon is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π/6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "If x ∝ v², then:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x = v²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x = kv²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "xv² = k",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "xv² = 1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "A tangent line intersects the circle at —:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Three points",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Two points",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Single point",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "No point at all",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Sum of the deviations of the variable x from its mean is always :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "One",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Same",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Different",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "How many common tangents can be drawn for two touching circles :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "solution set of equation 4x² – 16 = 0 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "{±4}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{4}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{±2}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{2}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "(2x+1)/((x+1)(x-1)) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "An improper fraction",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A proper fraction",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "An equation",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "An identity",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "A complete circle is divided into :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "180°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "270°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "360°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "ω.ω² = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ω",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ω²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "The length of a chord and the radial segment of a circle are congruent, the central angle made by the chord will be :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "30°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "75°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Power set of an empty set is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "∅",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{a}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{∅, {a}}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{∅}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "If α, β are the roots of 7x² – x + 4 = 0 then αβ is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-1/7",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4/7",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7/-4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-4/7",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "In a ratio x : y , y is called :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Relation",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Antecedent",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Consequent",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ratio",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "If A = {2,3,5} and B = {3,5,8}, then A ∩ B = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "{3, 5}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{5, 8}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{3, 8}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{2, 3}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "The solution set of equation 5x² = 30x is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "{0, 6}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{2, 3}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{3, 2}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{5, 2}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "sec²θ = ------- :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 – sin²θ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1 + tan²θ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1 + cos²θ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1 – tan²θ",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

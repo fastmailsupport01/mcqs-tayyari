@@ -1,0 +1,961 @@
+{
+ "board": "BISE Lahore",
+ "class": "12th",
+ "subject": "Physics",
+ "year": 2022,
+ "slug": "lahore-12th-physics-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The difference of potential energy between two points per unit charge is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electrical Potential",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Potential difference",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Absolute potential",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The space between the plates of the capacitor is filled by a dielectric of dielectric constant 'k'. The capacitance of the capacitor:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Increased by a factor k",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Increased by a factor k2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Decreased by factor k",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Remains unchanged",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The current flowing through each resistor of equal resistances in parallel combination is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Different",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Same",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Infinite",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Beam of electron is also called :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "X-rays",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Alpha rays",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Gamma rays",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cathode rays",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Work done on a charge moving in a uniform magnetic field is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Positive",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Negative",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Maximum",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Unit of self inductance is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Weber",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Henry",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Tesla",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Farad",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The energy stored in the inductor per unit volume is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "B2 / 2 mu0 2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "mu0 / 2B",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "B2 / 2 mu0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The mean value of A.C. in one complete cycle is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "I0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "I0 / sqrt(2)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The most common source of alternating voltage is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Motor",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cell",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Generator",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Thermocouple",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The number of crystal systems are :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Three",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Five",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Fourteen",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Seven",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The Boolean expression of NAND gale is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "X = A.B",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "X = A bar",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "X = bar over (A.B)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "X = bar over (A + B)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The devices which are used to convert various physical quantities into electrical voltages are called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Filters",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Sensor",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Rectifiers",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Amplifiers",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Light emitting diodes ( LEDs) are made from semi-conductors :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Silicon",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Germanium",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Gallium arsenide",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Carbon",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "Compton effect is associated with :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Gamma rays",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Beta rays",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "X-rays",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Positive rays",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "In electronic transition, atom cannot emit:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Infrared radiations",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Visible radiations",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Gamma radiations",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ultraviolet radiations",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "Energy released by conversion of 1 amu of mass is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.6 x 10-19 ev.",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.6 x 10-19 Mev",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "200 Mev",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "931 Mev",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "Alpha particle carries a charge of :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "+2e",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "- 2e",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "+e [watermarked, uncertain]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Electric flux through a closed surface enclosing a charge depends on :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Medium",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Size",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Shape",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Location of charge",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Unit of electric intensity is same as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Force",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Potential gradient",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Viscosity",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Magnetic field",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Thermo-couples produce electric energy by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Heat",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Chemical energy",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Sunlight",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mechanical energy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Work done by a magnetic force of 5 N when a q charge is displaced 2 m is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Non-zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10 J",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5 J",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "E / B has the unit of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "meter",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ms-1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ms-2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "s-2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "A metal meter rod is moving at the speed of 0.5 ms-1 in the direction parallel to a 0.5T magnetic field, emf will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.25 V",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.5 V",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.125 V",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Lenz's law is also a statement of law of conservation of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Linear momentum",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Angular momentum",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Energy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Charge",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "If the frequency of A.C. is 40 Hz then current passing through filament bulb get brilliance:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "100 times",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "80 times",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "40 times",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "50 times",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "If V0 is peak value of A.C. voltage then mean square value of voltage is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "V0 / sqrt(2)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "V0 2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/2 V0 2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "V",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "In cubical crystal, all the sides meet at:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Acute angle",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Abtuse angle [sic, print for 'Obtuse angle']",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Right angle",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "45 degrees",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "When PN junction is conducting then its resistance is of the order of :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mega Ohm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Kilo Ohm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "100 Ohm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Few Ohms",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "[battery symbol with diagonal arrow (variable), partially watermarked] is symbol of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "High tension battery",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Low tension battery",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Variable voltage battery",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero resistance battery",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "The observations on objects moving very fast, approaching the speed of light, arc [sic, print for 'are'] well explained by :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Quantum theory",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Newton's law",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Special theory of relativity",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Kepler's law",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "A block body [sic, print for 'black body'] is both an ideal absorber and an ideal :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Reflector",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Radiator",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Conductor",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Insulator",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "Plank's [sic, print for \"Planck's\"] constant has the unit of ::",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Linear momentum",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Angular momentum",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Torque",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Force",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "Two quark combination forms :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mesons",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Baryons",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Leptons",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "No Composite particle",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "Energy given out per nucleon per fission of heavy element like uranium is ::",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "200 MeV",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "208 MeV",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5 MeV",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.9 MeV",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

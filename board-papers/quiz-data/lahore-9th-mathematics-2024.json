@@ -1,0 +1,849 @@
+{
+ "board": "BISE Lahore",
+ "class": "9th",
+ "subject": "Mathematics",
+ "year": 2024,
+ "slug": "lahore-9th-mathematics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Identity matrix of order 2-by-2 is :",
+   "q_ur": "ضربی ذاتی قالب جس کا درجہ 2-by-2 ہو ---- ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "[1 1; 0 1]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[0 1; 1 0]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[1 0; 0 1]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[1 0; 1 0]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "i¹⁹ = ---- :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "i",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−i",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "logₐmⁿ = ---- :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "n logₐm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "m logₐn",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "logₐm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "logₐn",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Conjugate of surd x+√y is ---- :",
+   "q_ur": "مقدار اصم x+√y کا زوج جملہ ---- ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "−x+√y",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x−√y",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−x−√y",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√x−y",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Find 'm' so that x²+4x+m is a complete square :",
+   "q_ur": "m کی کس قیمت کیلئے x²+4x+m کامل مربع بن جائے گا :",
+   "options": [
+    {
+     "k": "A",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−8",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Simplify a/(9a²−b²) + 1/(3a−b) = ---- :",
+   "q_ur": "a/(9a²−b²) + 1/(3a−b) کا اختصار ---- ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "4a/(9a²−b²)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(4a−b)/(9a²−b²)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(4a+b)/(9a²−b²)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "b/(9a²−b²)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "If x is no larger than 10, then ---- :",
+   "q_ur": "اگر x کی قیمت 10 سے بڑی نہ ہو تو ---- :",
+   "options": [
+    {
+     "k": "A",
+     "en": "x ≥ 8",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x ≤ 10",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x < 10",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x > 10",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Point (2,−3) lies in the quadrant ---- :",
+   "q_ur": "نقطہ (2,−3) مستوی کے ---- ربع میں ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "I",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "II",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "III",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "IV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Distance between the points (0,0) and (1,1) is :",
+   "q_ur": "نقاط (0,0) اور (1,1) کا درمیانی فاصلہ ---- ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Symbol used for congruency of two triangles is ---- :",
+   "q_ur": "دو مثلثوں کی مماثلت کے لیے ---- علامت استعمال ہوتی ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "≅",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "∼",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Δ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "=",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "If two opposite sides of a quadrilateral are congruent and parallel, it is a ----- :",
+   "q_ur": "اگر کسی چوکور کے دو مخالف اضلاع مماثل اور متوازی ہوں تو وہ ---- ہوتی ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Parallelogram",
+     "ur": "متوازی الاضلاع"
+    },
+    {
+     "k": "B",
+     "en": "Square",
+     "ur": "مربع"
+    },
+    {
+     "k": "C",
+     "en": "Rhombus",
+     "ur": "معین"
+    },
+    {
+     "k": "D",
+     "en": "Trapezium",
+     "ur": "ذوزنقہ"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The bisector of the angles of triangle are ---:",
+   "q_ur": "مثلث کے زاویوں کے ناصف ---- ہوتے ہیں :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Parallel",
+     "ur": "متوازی"
+    },
+    {
+     "k": "B",
+     "en": "Perpendicular",
+     "ur": "عموداً"
+    },
+    {
+     "k": "C",
+     "en": "Congruent",
+     "ur": "متماثل"
+    },
+    {
+     "k": "D",
+     "en": "Concurrent",
+     "ur": "ہم نقطہ"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Congruent triangles are :",
+   "q_ur": "متماثل مثلثیں ---- ہوتی ہیں :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Concurrent",
+     "ur": "ہم نقطہ"
+    },
+    {
+     "k": "B",
+     "en": "Same size and shape",
+     "ur": "سائز اور شکل میں ایک جیسی"
+    },
+    {
+     "k": "C",
+     "en": "Different",
+     "ur": "مختلف"
+    },
+    {
+     "k": "D",
+     "en": "Parallel",
+     "ur": "متوازی"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "Triangles on equal bases and of equal altitudes are ---- in area :",
+   "q_ur": "برابر قاعدہ اور برابر ارتفاع والی مثلثیں رقبہ میں ---- ہوتی ہیں :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Equal",
+     "ur": "برابر"
+    },
+    {
+     "k": "B",
+     "en": "Unequal",
+     "ur": "نابرابر"
+    },
+    {
+     "k": "C",
+     "en": "Different",
+     "ur": "مختلف"
+    },
+    {
+     "k": "D",
+     "en": "Similar",
+     "ur": "متشابہ"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "A triangle having two sides congruent is called ---- :",
+   "q_ur": "ایک مثلث جس کے دو اضلاع مماثل ہوں ---- کہلاتی ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Scalene",
+     "ur": "مختلف الاضلاع"
+    },
+    {
+     "k": "B",
+     "en": "Right angled",
+     "ur": "قائمۃ الزاویہ"
+    },
+    {
+     "k": "C",
+     "en": "Equilateral",
+     "ur": "مساوی الاضلاع"
+    },
+    {
+     "k": "D",
+     "en": "Isosceles",
+     "ur": "متساوی الساقین"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "A⁻¹ = 1/? Adj A",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "|A|",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[A]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ā",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "The conjugate of −5−i is :",
+   "q_ur": "−5−i کا کنجوگیٹ ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "−5+i",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5+i",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5−i",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−i−5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "The relation x = logₐy implies ---- :",
+   "q_ur": "اگر x = logₐy تو ---- :",
+   "options": [
+    {
+     "k": "A",
+     "en": "aʸ = x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "yᵃ = [illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "yˣ = a",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "aˣ = y",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "If x = 2+√3 then 1/x = ? :",
+   "q_ur": "اگر x = 2+√3 تو 1/x = ? :",
+   "options": [
+    {
+     "k": "A",
+     "en": "√3+2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−2+√[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2−√3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−2−√3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "L.C.M. of a²+b² and a⁴−b⁴ is ---- :",
+   "q_ur": "a²+b² اور a⁴−b⁴ کا ذواضعاف اقل ---- ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "a²+b²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a²−b²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a⁴−b⁴",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a−b",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "The factors of x²−5x+6 are --- :",
+   "q_ur": "x²−5x+6 کے اجزائے ضربی ---- ہیں :",
+   "options": [
+    {
+     "k": "A",
+     "en": "x+1, x+6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x−2, x−3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x+6, x−1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x+2, x+3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "A statement involving any of the symbols <, >, ≤ or ≥ is called --- :",
+   "q_ur": "کوئی بیان جس میں <, >, ≤ یا ≥ میں سے کوئی ایک علامت پائی جائے ---- کہلاتی ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Equation",
+     "ur": "مساوات"
+    },
+    {
+     "k": "B",
+     "en": "Inequality",
+     "ur": "غیر مساوات"
+    },
+    {
+     "k": "C",
+     "en": "Identity",
+     "ur": "ایسی مساوات جو متغیر کی ہر قیمت کیلئے درست ہو"
+    },
+    {
+     "k": "D",
+     "en": "Linear equation",
+     "ur": "یک درجی مساوات"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "If y = 2x+1, x = 2, then y is :",
+   "q_ur": "اگر y = 2x+1, x = 2 ہو تو 'y' برابر ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Mid-point of the points (2,2) and (0,0) is :",
+   "q_ur": "نقاط (0,0) اور (2,2) کا درمیانی نقطہ ---- ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "(1,1)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(1,0)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(0,1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(−1,−1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Symbol used for perpendicular is :",
+   "q_ur": "عمود کیلئے علامت استعمال کی جاتی ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "↔",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "≡",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "→",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "⊥",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Diagonals of a parallelogram --- each other at a point :",
+   "q_ur": "متوازی الاضلاع کے وتر ایک دوسرے کو ایک نقطہ پر ---- کرتے ہیں :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Intersect",
+     "ur": "قطع"
+    },
+    {
+     "k": "B",
+     "en": "Do not intersect",
+     "ur": "قطع نہیں"
+    },
+    {
+     "k": "C",
+     "en": "Parallel",
+     "ur": "متوازی"
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": "ان میں سے کوئی نہیں"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "A point on the right bisector of a line segment is equidistant from its --- :",
+   "q_ur": "ایک نقطہ جو کسی قطعہ خط کے عمودی ناصف پر واقع ہو تو وہ قطعہ خط کے ---- سے مساوی الفاصلہ ہوتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mid-point",
+     "ur": "وسطی نقطہ"
+    },
+    {
+     "k": "B",
+     "en": "End points",
+     "ur": "سروں سے / آخری سرے"
+    },
+    {
+     "k": "C",
+     "en": "Vertex",
+     "ur": "راس"
+    },
+    {
+     "k": "D",
+     "en": "Any point",
+     "ur": "کسی نقطہ"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "One and only one line can be drawn through --- points :",
+   "q_ur": "---- نقاط میں سے ایک اور صرف ایک خط کھینچا جا سکتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "One",
+     "ur": "ایک"
+    },
+    {
+     "k": "B",
+     "en": "Two",
+     "ur": "دو"
+    },
+    {
+     "k": "C",
+     "en": "Three",
+     "ur": "تین"
+    },
+    {
+     "k": "D",
+     "en": "Many",
+     "ur": "کئی"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "Area of ---- = base × altitudes :",
+   "q_ur": "---- کا رقبہ = قاعدہ × ارتفاع :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Triangle",
+     "ur": "مثلث"
+    },
+    {
+     "k": "B",
+     "en": "Square",
+     "ur": "مربع"
+    },
+    {
+     "k": "C",
+     "en": "Parallelogram",
+     "ur": "متوازی الاضلاع"
+    },
+    {
+     "k": "D",
+     "en": "Circle",
+     "ur": "دائرہ"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "A triangle having two sides congruent is called ---- :",
+   "q_ur": "ایک مثلث جس کے دو اضلاع متماثل ہوں ---- کہلاتی ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Scalene",
+     "ur": "مختلف الاضلاع"
+    },
+    {
+     "k": "B",
+     "en": "Right angled",
+     "ur": "قائمۃ الزاویہ"
+    },
+    {
+     "k": "C",
+     "en": "Trapezium",
+     "ur": "مساوی الاضلاع"
+    },
+    {
+     "k": "D",
+     "en": "Isosceles",
+     "ur": "متساوی الساقین"
+    }
+   ]
+  }
+ ]
+}

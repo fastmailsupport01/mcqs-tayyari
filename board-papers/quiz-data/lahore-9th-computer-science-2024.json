@@ -1,0 +1,569 @@
+{
+ "board": "BISE Lahore",
+ "class": "9th",
+ "subject": "Computer Science",
+ "year": 2024,
+ "slug": "lahore-9th-computer-science-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The order of variables of two separate terms is not important in ---- :",
+   "q_ur": "---- قانون میں ویری ایبل کی ترتیب ضروری نہیں ہوتی :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Associative law",
+     "ur": "قانون تلازم"
+    },
+    {
+     "k": "B",
+     "en": "Commutative law",
+     "ur": "قانون مبادلہ"
+    },
+    {
+     "k": "C",
+     "en": "Distributive law",
+     "ur": "قانون تقسیمی"
+    },
+    {
+     "k": "D",
+     "en": "Identity law",
+     "ur": "ضریبی اور جمعی ذاتی قانون"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Which of the following is not a characteristic of good password :",
+   "q_ur": "درج ذیل میں سے کون سی اچھے پاس ورڈ کی خوبی نہیں ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Is eight character long",
+     "ur": "آٹھ حروف پر طوالت"
+    },
+    {
+     "k": "B",
+     "en": "Does not contain user name",
+     "ur": "یوزر نیم پر مشتمل نہ ہو"
+    },
+    {
+     "k": "C",
+     "en": "Contain upper case letter",
+     "ur": "بڑے حروف پر مشتمل ہو"
+    },
+    {
+     "k": "D",
+     "en": "Password is your name",
+     "ur": "پاس ورڈ آپ کا نام ہو"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The ----- element is a container for metadata :",
+   "q_ur": "اپنے اندر میٹا ڈیٹا رکھتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "< body >",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "< head >",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "< Title >",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "< html >",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Due to ---- error, the solution is working but not giving correct result :",
+   "q_ur": "---- قسم کی غلطی کی وجہ سے الگورتھم چل رہا ہوتا ہے مگر درست جواب نہیں دے رہا ہوتا :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Random error",
+     "ur": "رینڈم ایرر"
+    },
+    {
+     "k": "B",
+     "en": "Logical error",
+     "ur": "لاجیکل ایرر"
+    },
+    {
+     "k": "C",
+     "en": "Syntax error",
+     "ur": "سینٹیکس ایرر"
+    },
+    {
+     "k": "D",
+     "en": "Runtime error",
+     "ur": "رن ٹائم ایرر"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "----- is a symbol of start and end in flow chart :",
+   "q_ur": "----- فلو چارٹ کے آغاز اور اختتام کی علامت ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "[arrow: →]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[oval / stadium shape]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[rectangle]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[diamond: ◇]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "An example of volatile / primary memory is ---- :",
+   "q_ur": "وولاٹائل / پرائمری میموری کی مثال ----- ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hard Disk",
+     "ur": "ہارڈ ڈسک"
+    },
+    {
+     "k": "B",
+     "en": "USB",
+     "ur": "یو۔ایس۔بی"
+    },
+    {
+     "k": "C",
+     "en": "RAM",
+     "ur": "ریم"
+    },
+    {
+     "k": "D",
+     "en": "CD",
+     "ur": "سی ڈی"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "There are ---- of headings in HTML :",
+   "q_ur": "HTML ڈاکیومنٹ میں ---- قسم کی ہیڈنگ ہو سکتی ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "---- used method of encryption for sending message to his Soldiers and Generals :",
+   "q_ur": "---- نے اپنے فوجیوں اور جنرلوں کو پیغامات بھیجنے کے لیے ایک خفیہ کاری کا طریقہ استعمال کیا :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cipher",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Vigenere",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Caesar",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Hacker",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "DHCP stands for ------ :",
+   "q_ur": "DHCP کا مخفف ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Data Host Computer Protocol",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Dynamic Host Computer Protocol",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Dynamic Host Configuration Protocol",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Double Host Computer Protocols",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "To home user internet service is given by ---- :",
+   "q_ur": "گھریلو صارفین کو انٹرنیٹ کی سہولت مہیا کرتا ہے ---- :",
+   "options": [
+    {
+     "k": "A",
+     "en": "FTP",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "SMTP",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "HTTP",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ISP",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Every data packet has an ---- address :",
+   "q_ur": "ہر ڈیٹا پیکٹ کا ایک ---- ایڈریس ہوتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Virtual",
+     "ur": "خیالی"
+    },
+    {
+     "k": "B",
+     "en": "Common",
+     "ur": "عام"
+    },
+    {
+     "k": "C",
+     "en": "Real",
+     "ur": "حقیقی"
+    },
+    {
+     "k": "D",
+     "en": "IP",
+     "ur": "آئی پی"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "To save the HTML page, we can use ----- as file extension :",
+   "q_ur": "ایک HTML پیج کو محفوظ کرنے کیلئے ہم --- ایکسٹینشن استعمال کرتے ہیں :",
+   "options": [
+    {
+     "k": "A",
+     "en": "htm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "html",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Both A and B",
+     "ur": "دونوں A اور B"
+    },
+    {
+     "k": "D",
+     "en": "xhtml",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "----- is not example of non-volatile memory :",
+   "q_ur": "----- نان وولاٹائل میموری کی مثال نہیں ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Flash drive",
+     "ur": "فلیش ڈرائیو"
+    },
+    {
+     "k": "B",
+     "en": "Memory card",
+     "ur": "میموری کارڈ"
+    },
+    {
+     "k": "C",
+     "en": "RAM",
+     "ur": "ریم"
+    },
+    {
+     "k": "D",
+     "en": "Hard drive",
+     "ur": "ہارڈ ڈرائیو"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Which is not a cyber crime :",
+   "q_ur": "کون سا سائبر کرائم نہیں ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hacking",
+     "ur": "ہیکنگ"
+    },
+    {
+     "k": "B",
+     "en": "Phishing crime",
+     "ur": "فشنگ کرائم"
+    },
+    {
+     "k": "C",
+     "en": "Identity theft",
+     "ur": "شناخت کی چوری"
+    },
+    {
+     "k": "D",
+     "en": "Decryption",
+     "ur": "ڈیکرپشن"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Efficiency of an algorithm is measured on the basis of ---- metrics :",
+   "q_ur": "الگورتھم کی کارگزاری ---- بنیادوں پر جانچی جاسکتی ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Two",
+     "ur": "دو"
+    },
+    {
+     "k": "B",
+     "en": "Four",
+     "ur": "چار"
+    },
+    {
+     "k": "C",
+     "en": "Five",
+     "ur": "پانچ"
+    },
+    {
+     "k": "D",
+     "en": "Six",
+     "ur": "چھ"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Routers connect multiple ---- together :",
+   "q_ur": "روٹر بہت سارے ---- کو آپس میں ملاتے ہیں :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Softwares",
+     "ur": "سافٹ ویئر"
+    },
+    {
+     "k": "B",
+     "en": "Networks",
+     "ur": "نیٹ ورکس"
+    },
+    {
+     "k": "C",
+     "en": "People",
+     "ur": "لوگوں"
+    },
+    {
+     "k": "D",
+     "en": "Places",
+     "ur": "جگہوں"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "In formation of an algorithm, which symbol is used to display values :",
+   "q_ur": "الگورتھم کی تشکیل میں اقدار دکھانے کیلئے کون سی علامت استعمال کی جاتی ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Input",
+     "ur": "ان پٹ"
+    },
+    {
+     "k": "B",
+     "en": "Output",
+     "ur": "آؤٹ پٹ"
+    },
+    {
+     "k": "C",
+     "en": "Start",
+     "ur": "سٹارٹ"
+    },
+    {
+     "k": "D",
+     "en": "Goto",
+     "ur": "گوٹو"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "----- tag is used to display data in tabular form :",
+   "q_ur": "----- ٹیگ مواد کو ٹیبل کی شکل میں دکھانے کے لیے استعمال ہوتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "< td >",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "< table >",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "< tr >",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "< th >",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "The foundation of all security system is formed on which principles :",
+   "q_ur": "تمام حفاظتی نظام کی بنیاد کون سے اصولوں پر قائم ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Logical",
+     "ur": "منطقی"
+    },
+    {
+     "k": "B",
+     "en": "Simple",
+     "ur": "سادہ"
+    },
+    {
+     "k": "C",
+     "en": "Complex",
+     "ur": "پیچیدہ"
+    },
+    {
+     "k": "D",
+     "en": "Ethical",
+     "ur": "اخلاقی"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Expression (A+B) . (A+C) is equal to ----- :",
+   "q_ur": "ایکسپریشن (A+B) . (A+C) --- کے برابر ہوتی ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "A + (B.C)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A.B + A.C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A. (B.C)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A + (B+C)",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

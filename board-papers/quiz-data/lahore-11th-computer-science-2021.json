@@ -1,0 +1,429 @@
+{
+ "board": "BISE Lahore",
+ "class": "11th",
+ "subject": "Computer Science",
+ "year": 2021,
+ "slug": "lahore-11th-computer-science-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Which communication medium requires line-of-sight:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Fiber optic",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Coaxial",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Satellite",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Microwave",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Which of the following is a word processor:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Adobe Acrobat",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Photo Express",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "MS Word",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "MS Excel",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Which of the following is a biometric technique:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Access card",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Password",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Eye retina",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "PIN",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "A domain name is the text version of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "IP address",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Hypertext",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "HTTP",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "FTP",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Which of the following is not a data gathering method:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Interviews",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Sampling",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Analysis",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Written documents",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Banks are providing the facility of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CAL",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CBT",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ATM",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CAD",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The devices that are automatically detected by windows are called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Automatic devices",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Semi-automatic devices",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Plug and play devices",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Parallel devices",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Number of layers in OSI Model:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "05",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "07",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "14",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Which of the following is correct cell address:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5A",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ZA",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "55",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Which register has special role in division and multiplication:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "AX",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "BX",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CX",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "DX",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Which is most complicated topology:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ring",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Star",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Tree",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mesh",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Which is an example of un-guided media:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Twisted pair",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Fiber optic",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Microwave",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Coaxial",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "The step that obtains next instruction from memory is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Get",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Fetch",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Reading",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Decode",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "Number of characters a byte can store:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Windows was developed by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sun system",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ANSI",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "IEEE",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Microsoft",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

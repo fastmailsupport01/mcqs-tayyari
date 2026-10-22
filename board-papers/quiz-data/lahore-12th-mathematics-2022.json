@@ -1,0 +1,1129 @@
+{
+ "board": "BISE Lahore",
+ "class": "12th",
+ "subject": "Mathematics",
+ "year": 2022,
+ "slug": "lahore-12th-mathematics-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "(0,0) is the solution of inequality :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3x - 7y < 3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x + y > 2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x - y > 1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3x + 5y > 7",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The slope of a line with inclination 90 degrees is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Undefined",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "If a and b are parallel vectors then a x b = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0 (zero vector)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Two lines a1x + b1y + c1 = 0, a2x + b2y + c2 = 0 are parallel if:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a1/a2 = b1/b2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a1/a2 = b1/b2 [sic, printed identical to option A]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "b1/c1 = b2/c2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a1/c1 = a2/c2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The value of 3 j, k x i is: [sic, as printed]",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "If a straight line is parallel to x-axis, then its slope is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Undefined",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The centre of the circle 5x2 + 5y2 + 24x + 36y + 10 = 0 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(12/5, 18/5)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(-12/5, -18/5)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(12/5, -18/5)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(-12/5, 18/5)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The length of the latus rectum of the parabola y2 = 8x is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2 sqrt(8)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The point of intersection of angle bisectors of a triangle is called :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Orthocentre",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Centroid",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "In-centre",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Circumcentre",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The coordinates of the vertices of hyperbola y2/16 - x2/49 = 1 are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(0, +-7)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(+-4, 0)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(0, +-4)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(+-7, 0)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "d/dx (sin 2x + cos 2x) = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(cos 2x - sin 2x)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(cos 2x + sin 2x)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(2 cos 2x + 2 sin 2x)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2(cos 2x - sin 2x)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "lim (h->0) (1 + 2h)^(1/h) = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "e2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "e",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/e",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/e2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Integral of e^sinx cosx dx = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "e^cosx + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ln|sinx| + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ln|cosx| + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "e^sinx + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "d/dx (cot-1 x) = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[numerator cut in source scan] / (1+x2)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[numerator cut in source scan] / (1-x2)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-1/(1+x2)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-1/(1-x2)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Integral of e^x (cos x + sin x) dx = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "e^-x sinx + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "e^x sinx + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-e^x sinx + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "e^-x cosx + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "If y = e^-ax, then dy/dx = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ae^-ax",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "e^-ax",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a2e^-ax",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-ae^-ax",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "Integral of 1/(1+x2) dx = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "tan-1 x + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-tan-1 x + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "sin-1 x + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "cos-1 x + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group I",
+   "q_en": "The range of f(x) = sqrt(x2 - 9) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(-infinity, 0]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[0, +infinity)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(0, +infinity)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(-infinity, infinity) [partially cut in source scan]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group I",
+   "q_en": "Integral of sinx cosx dx = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ln|sin x| + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "cos2x/2 + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "sin2x/2 + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(sin2x cos2x)/2 + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group I",
+   "q_en": "d/dx (1/cosec x) = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/sec x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "cosec2x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "cot x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/cosec2x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "(0,0) is the solution of inequality :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "7x + 2y > 3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x - 3y > 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x + 2y < 6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x - 3y < 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "An equation of the horizontal line through the point P (7, -9) is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "y = -9",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "y = 9",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x = 7",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x = -7",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Length of the vector 2i - j + 2k is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Point of intersection of lines x - 2, y + 1 = 0 and 2x - y + 2 = 0 equals : [sic, as printed]",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(1, 0)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(0, 1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(-1, 0)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(0, -1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Cosine of the angle between two non-zero vectors a and b is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a.b",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "|a||b| / (a.b) [partially obscured in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(a.b) / (|a||b|)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(a x b) / (|a||b|)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "The perpendicular distance of line 3x + 4 > + 10 = 0 from the origin is : [sic, as printed]",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "The radius of the circle x2 + y2 + 2gx + 2fy + c = 0 is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "sqrt(g2 + f2 + c) [radical extent uncertain in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "sqrt(g2 - f2 + c)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "g + f - c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "sqrt(g2 + f2 - c)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "The condition for a line y = mx + c to be the tangent to the circle x2 + y2 = a2 is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "c +- m sqrt(1+a2) [watermarked, uncertain]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "c +- a sqrt(1+m2)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "c = +-a sqrt(1-m2)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "c = +-m sqrt(1-a2)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Slope of line perpendicular to line 3x - 4y + 5 = 0 is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-3/4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-4/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4/3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "In an ellipse, the foci lie on:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Major axis",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Minor axis",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Directrix",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Z-axis",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "d/dx [f(x)/g(x)] = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(f(x)g'(x) - f'(x)g(x)) / [g(x)]2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(f'(x)g(x) - f(x)g'(x)) / [f(x)]2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(g(x)f'(x) - f(x)g'(x)) / [g(x)]2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(g'(x)f(x) - g(x)f(x)) / [g(x)]2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "If the degree of a polynomial function is 1, then it is called :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Identity function",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Linear function",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Constant function",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Trigonometric function",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "Integral of sin 3x dx = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-cos3x/3 + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "cos3x/3 + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3 cos 3x + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-3 cos 3x + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "If y = 1/x2, then dy/dx at x = 1 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2 [as printed; sign obscured]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "The solution of differential equation dy/dx = -y is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "y = xe^-x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "y = ce^-x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "y = e^x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "y = ce^x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "Two positive integer whose sum is 30 and their product will be maximum are :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "14, 16",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "15, 15",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10, 20",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "12, 18",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "Integral from -1 to 3 of x3 dx = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "20",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "40",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "30",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "80",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group II",
+   "q_en": "lim (x->1) (x2 - 1)/(x2 - x) = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group II",
+   "q_en": "Integral of sec x dx = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ln(sec x + tan x) + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ln(cosec x + cot x) + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ln(sin x + cos x) + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "sec x + tan x + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group II",
+   "q_en": "d/dx (cot-1 x) = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/(1+x2)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-1/(1+x2)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-cosec2x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "sec2x",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

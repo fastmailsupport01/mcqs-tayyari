@@ -1,0 +1,429 @@
+{
+ "board": "BISE Lahore",
+ "class": "12th",
+ "subject": "Computer Science",
+ "year": 2022,
+ "slug": "lahore-12th-computer-science-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "How many table views are available in MS Access:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "In relational database, a table is also called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Tuple",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Relation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "CREATE command is used to create a:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Table",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Form",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Report",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Query",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "In ERD model, the relationship between two entities is represented by a:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Diamond symbol",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Rectangular box",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Oval symbol",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Line",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Which of the following type of file require largest processing time:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sequential file",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Random file",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Indexed sequential file",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Direct access file",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "A database consists of various components called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Tool",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Properties",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Entities",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Object",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Single line command starts with:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "#",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "//",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Function prototypes for built-in functions are specified in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Source files",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Object files",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Header files",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Image files",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Which of the following is the simplest form of a decision structure:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "If statement",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Switch",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "If-else-if",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nested if",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The set of statement in curly braces in a loop is known as -------- of the loop:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Title",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Header",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Center",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Body",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Which of the following key is used to save a file:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "F2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "F3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "F4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "F5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "On successfully closing a file, the fclose() returns:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Null",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1 (one)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "file pointer",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "The logical not operator, denoted by !, is a:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ternary operator",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Unary operator",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Binary operator",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Bitwise operator",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "a += b is equivalent to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "b + a",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a = + b",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "b = b + a",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a = a + b",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Turbo C++ can compile:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "C++ programs only",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "C and C++ programs",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Turbo C programs only",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Turbo C++ programs",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,569 @@
+{
+ "board": "BISE Lahore",
+ "class": "10th",
+ "subject": "Computer Science",
+ "year": 2021,
+ "slug": "lahore-10th-computer-science-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "-----------is a pictorial representation of an algorithm :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Documentation",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Desk checking",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Coding",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Flow chart",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "A ---------is a sequence of characters enclosed in a double quotations :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Variable",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Constant number",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "String",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Statement",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "This command is used to modify a program line :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "AUTO",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "LIST",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "RENUM",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "REM",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "There are---------types of control structures in BASIC :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Two",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Three",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Four",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Five",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "--------- loop is preferred when number of iterations are known in advance :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "FOR ---- NEXT",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "WHILE----WEND",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NESTED",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "IF----ELSE",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "---------is called a subscripted variable :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Subroutine",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Function",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Module",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Array",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Array can be divided into ----------major categories :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Two",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Three",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Four",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Five",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "A user can define the function with -----------statement:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Define Fn",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "DEF FN",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "DEF FUNCTION",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "DEF FNS",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The output of function INT (-5.7) is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Which function changes the way of displaying output in BASIC :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "SCREEN",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "PRINT",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "LEFT$",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ABS",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "How many possible solutions are there for a problem :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "One",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Two",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "The maximum length of a variable name in GW-BASIC is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "31",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "32",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "40",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "45",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "A variable name must start with a (n) :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Alphabet",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Under score",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Digit",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Alphabet or underscore",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Which of the following is not a logical operator:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "AND",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "OR",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NEITHER",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NOT",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "FOR - NEXT statement is used to implement:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Iteration",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Selection",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Sequence",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Which of the following is not a valid subscript:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "NUM (10)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A(2)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "B (4)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A(-2)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "An element of an array is mentioned by its :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Subscript",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Array",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Object",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Name of element",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "The output of a function INT (-5.7) :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "The --- function is used to convert ASCII codes to its character equivalent:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CHAR$ ()",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CHR ()",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CHAR",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CHR$ ()",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Which function changes the way of displaying output in BASIC :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "SCREEN",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "PRINT",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "LEFT$",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ABS",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

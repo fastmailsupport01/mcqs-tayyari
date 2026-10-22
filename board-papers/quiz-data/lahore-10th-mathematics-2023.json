@@ -1,0 +1,849 @@
+{
+ "board": "BISE Lahore",
+ "class": "10th",
+ "subject": "Mathematics",
+ "year": 2023,
+ "slug": "lahore-10th-mathematics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Standard form of quadratic equation is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "bx + c = 0, b ≠ 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ax² + bx + c = 0, a ≠ 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ax² = bx, a ≠ 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ax² = 0, a ≠ 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "If α, β are the roots of 7x² − x + 4 = 0 then αβ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−1/7",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4/7",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−4/7",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "1/α + 1/β is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/α",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/α − 1/β",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(α − β)/αβ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(α + β)/αβ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The fourth proportional w of x : y :: v : w is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "vy/x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "xy/v",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "xyv",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x/vy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "In a proportion a : b :: c : d, a and d are called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Means",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Fourth proportional",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Extremes",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Third proportional",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "A fraction in which the degree of the numerator is greater or equal to the degree of denominator is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Proper fraction",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Equation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Identity",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Improper fraction",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Power set of an empty set is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "φ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{φ}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{a}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{φ, {a}}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "If A ⊆ B then A ∩ B is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "B",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "φ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{φ}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Mean is affected by change in --------:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Value",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ratio",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Origin",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Place",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "A data in the form of frequency distribution is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ungrouped data",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Range",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Histogram",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Grouped data",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "20° = ---------",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1200°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "360°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "630°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3600°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Through how many non-collinear points can a circle pass:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "One",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Two",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Three",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Four",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Tangents drawn at the ends of diameter of a circle are ------ to each other.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Perpendicular",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Non parallel",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Collinear",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Parallel",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "The length of a chord and the radial segment of a circle are congruent, the central angle made by the chord will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "30°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "75°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "The circumference of a circle is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Boundary",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Segment",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Tangent",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Chord",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "(x³ + 1)/((x−1)(x+2)) is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A proper fraction",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "An identity",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A constant term",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "An improper fraction",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Two tangents drawn to a circle from a point outside it are of ------ in length.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Half",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Equal",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Double",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Triple",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "The spread or scatterness of observation in a data set is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Average",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Dispersion",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Central tendency",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mode",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "How many common tangents can be drawn for two touching circles:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Cube roots of −1 are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−1, −ω, −ω²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−1, ω, −ω²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1, −ω, −ω²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−1, −ω, ω²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "The number of elements in power set of {1, 2, 3} is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Through how many non-collinear points can a circle pass:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "One",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Two",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Three",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Four",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "In continued proportion a : b :: b : c, ac = b² b is said to be ---- proportional between a and c.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Second",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Third",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Fourth",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Means",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "An arc subtends a central angle of 40° then the corresponding chord will subtend a central angle of :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "20°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "40°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "80°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Point 0, 1, 4 lies in the quadrant:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "I",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "II",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "III",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "IV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "If u/v = v/w = k then:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "u = wk²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "u = vk²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "u = w²k",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "u = v²k",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "If a : b = x : y, then alternendo property is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a/x = b/y",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a/b = x/y",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(a+b)/b = (x+y)/y",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(a−b)/x = (x−y)/y",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "Mean is affected by change in ---------:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Value",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ratio",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Origin",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Place",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "Standard form of quadratic equation is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "bx + c = 0, b ≠ 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ax² = 0, a ≠ 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ax² = bx, a ≠ 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ax² + bx + c = 0, a ≠ 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "1/(1+sinθ) + 1/(1−sinθ) = ---------",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2sec²θ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2 cos²θ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "sec²θ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "cos θ",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

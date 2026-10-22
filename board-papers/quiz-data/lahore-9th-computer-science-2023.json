@@ -1,0 +1,569 @@
+{
+ "board": "BISE Lahore",
+ "class": "9th",
+ "subject": "Computer Science",
+ "year": 2023,
+ "slug": "lahore-9th-computer-science-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "------ is a graphical representation of an algorithm:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Matrix",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Graph",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Flow chart",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Solution",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "In a flow chart [rectangle] symbol represents:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Decision",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Input/output",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Processing",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Connector",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Number \"15\" is equal to ------ in binary system:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1111",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10010",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10011",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0000",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Expression (A+B)+C is equal to -----------:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A+(B.C)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A.B + A.C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A.(B.C)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A+(B+C)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "IPV6 address is made up of ------ binary bits:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "16",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "32",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "128",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "255",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "E-mail stands for ---------:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electrical mail",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Electronic mail",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Electronic medium",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Electronic message",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "How many rows are in vigenere table:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "26",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "20",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "32",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "54",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Installing and selling unauthorized copies of software on refurbished or new computer are known as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Client server over use",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Online piracy",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Counterfeiting",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Hard disk loading",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Which of the following HTML tag is used to make text bold:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "< b >",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "< hr >",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "< hi >",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Which of the following tag is used for writing most important heading:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "< h1 >",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "< h5 >",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "< h2 >",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "< h3>",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Which of the following is not a valid list taq in HTML:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "< ul >",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "< ml >",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "< ol >",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "< dl >",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Which topology is more reliable:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Bus topology",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Star topology",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ring topology",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mesh topology",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "It is used to transmit e-mails from one place to another place:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "FTP",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "HTTP",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "SMTP",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "I.P",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Making illegal copies of software is called -----------:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Piracy",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Phishing",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Hacking",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "DOS",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Best example of volatile memory is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "USB",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "RAM",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ROM",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Hard disk",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "< u > tag is used for:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Bold the text",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Italic the text",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Underline the text",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Colour the text",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "All of the following are types of test data except:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Valid test data",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Invalid test data",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Absent text data",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Positive text data",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "AND operator \"P and Q\" can also be written as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "P.Q",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "P+Q",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "P/Q",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "P=Q",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Which of the following does not include the types of software piracy:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Soft lifting",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Liability",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Client server over use",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Online piracy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Total steps of problem solving are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "7",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,569 @@
+{
+ "board": "BISE Lahore",
+ "class": "10th",
+ "subject": "Computer Science",
+ "year": 2025,
+ "slug": "lahore-10th-computer-science-2025",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "If there are three return statements in the function body --- of them will be executed :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "One",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Two",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Three",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Four",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "------ make it easier to read and write values in array:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Loops",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Conditions",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Expressions",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Functions",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Which of the following is not a type of operator:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Arithmetic operator",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Relational operator",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Check operator",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Logical operator",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "----- can be thought of as a container to store constants:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Box",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Jar",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Variable",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Collection",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Include statements are written in -------- section :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Header",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Main",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Comments",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Print",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "getch ( ) is not used to take — as input from user:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "int",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "float",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "char",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "array",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Identify the function name in the following : int function (float, char)",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "int",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "function",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "float",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "char",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "------ part of for loop is executed first:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Condition",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Initialization",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Body",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Increment/decrement",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "An if statement inside another if statement is called ----- structure :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Boxed",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Repeated",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Nested",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Decomposed",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "How many types of selection statement are there in C language:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "IDE stands for:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Integrated Digital Environment",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Integrated Desktop Environment",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Integrated Development Environment",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Internal Disk Error",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "How many parts to develop C-program:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Two",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Four",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "One",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Three",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "The answer of expression 12+6/3 in C-language is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "18",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "20",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "12",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "14",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Which of the following format specifier is used for integer data type:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "%f",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "%c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "%d",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "%m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "if-else statement is known as ------:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Control variable",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Selection variable",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Logical variable",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Loop variable",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Which of the following expression is True:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "15 < 6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5 = = 4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5 + 4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4 > 5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Using loops inside loops is called ------ loops:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "For",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "While",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Do-while",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nested",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "---- make it easier to read and write values in array:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Loops",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Conditions",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Expressions",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Functions",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Which values passed to a function is called -------:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Arguments",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Parameter",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Bodies",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Array",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "The ----- of a function is the data type of the value returned by function:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Prototype",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Signature",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Body",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Return type",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

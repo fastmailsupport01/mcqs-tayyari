@@ -1,0 +1,429 @@
+{
+ "board": "BISE Lahore",
+ "class": "11th",
+ "subject": "Computer Science",
+ "year": 2023,
+ "slug": "lahore-11th-computer-science-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Transmission that is used without timing signal:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Synchronous",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Isochronous",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Asynchronous",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Parallel",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "A tool used to find a similar or alternative word in a document is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Thesaurus",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Finding Tool",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Font",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Search and Replace",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Which of the following is a signal:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "DMA",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Interrupt",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Memory",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "URL stands for:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Universal Research Locator",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Universal Resource Locator",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Uniform Research Locator",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Uniform Resource Locator",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Pixel stands for:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Place edit",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Picture enter",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Page edit",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Picture element",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Many products are manufactured by using:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CAM",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CAD",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ATM",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CAL",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Pressing and releasing the left mouse button quickly is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Dropping",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Clicking",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Dragging",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Pointing",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Which of the following OSI layer is responsible for data encryption and decryption:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Transport",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Session",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Application",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Presentation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Which of the following is absolute address:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "AT",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "SAS",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "SAI",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "AIS",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Which component is used to connect different parts of computer together:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "RAM",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ROM",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CU",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Bus Interconnection",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Two dissimilar networks can be connected by using:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Gateway",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Bridge",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Terminator",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "System Bus",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The electromagnetic or light waves representing data are called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mode",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Signal",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Information",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Coding",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Which of the following has the fastest speed:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Registers",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cache",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "DRAM",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Floppy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "Which of the following is largest unit of data:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Kilo Byte",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Giga Byte",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mega Byte",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Tera Byte",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Which of the given is a biometric technique:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Access card",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Password",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Face recognition",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Pin number",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

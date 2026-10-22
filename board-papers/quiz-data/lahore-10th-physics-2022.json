@@ -1,0 +1,681 @@
+{
+ "board": "BISE Lahore",
+ "class": "10th",
+ "subject": "Physics",
+ "year": 2022,
+ "slug": "lahore-10th-physics-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "What does the term e-mail stand for:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Emergency mail",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Electronic mail",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Extra mail",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "External mail",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Michael Faraday belonged to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "British",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "USA",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "KSA",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Russia",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Release of energy by the sun is due to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nuclear fission",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Nuclear fusion",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Burning of gases",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Chemical reaction",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Which of the following characteristics of a wave is independent of the others:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Speed",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Frequency",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Amplitude",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Wavelength",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Charge on alpha particles is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2e",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3e",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4e",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5e",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "For a normal person, audible frequency range for sound wave lies between:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10Hz - 10KHz",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "20Hz - 20KHz",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "25Hz - 25KHz",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "30Hz - 30KHz",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "How many components a CBIS has:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The instrument used to detect the nature of charge is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Stroboscope",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Electroscope",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Spectroscope",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Microscope",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "An object is 14cm in front of a convex mirror. The image is 5.8cm behind the mirror. What is the focal length of the mirror:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-4.1cm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-8.2cm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-9.9cm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-20cm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The output of the NAND gate is written as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "X= A+B",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "X= A-B",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "X= A.B",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "X= overline(A+B)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "One watt is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "JS",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "JS⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "J",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Sec",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "AND gates can be form by using two:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "NAND gates",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "OR gates",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NOR gates",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NOT gates",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "If the length of the pendulum is doubled, its time period will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "√2T",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2T",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "T/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "T/√2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "The characteristic of sound by which we can distinguish between two sounds of same loudness and pitch is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Pitch",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Quality",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Loudness",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Intensity",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "The image formed by concave mirror is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Real",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Virtual",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Real or Virtual",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Real and Virtual",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Two capacitors of capacitance 12μf and 6μf are connected in parallel with 12V battery, The equivalent capacitance is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "6μf",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "12μf",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.2μf",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "18μf",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "What is the voltage across a 3Ω resistor when 6A of current passes through it:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "36V",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "9V",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "18V",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2V",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "The application of mutual induction is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "D.C. motor",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Transformer",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Relay",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A.C. motor",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Boolean expression for NAND gate is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "X = overline(A.B)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "X = A.B",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "X = overline(A+B)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "X = A+B",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Number of components of computer based information system is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Which of the following radiations has more penetrating power:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Gamma rays",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Alpha particles",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Beta particles",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All have same",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "The number of protons in ²³⁸₉₂U are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "146",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "238",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "196",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "92",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "The current of 3A is flowing through a wire for one minute. What is charge in wire:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "180C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "180×10⁻³C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "20C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "The unit of sound intensity is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Wm⁻²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Wm⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Wm²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Wm",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

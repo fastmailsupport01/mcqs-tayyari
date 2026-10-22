@@ -1,0 +1,961 @@
+{
+ "board": "BISE Lahore",
+ "class": "11th",
+ "subject": "Physics",
+ "year": 2024,
+ "slug": "lahore-11th-physics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Two S.H.M having displacements are x₁ = a sin ωt and x₂ = b cos ωt. The path difference between them will be :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "A particle of 1 Kg moving with initial velocity 5 ms⁻¹ is acting upon by a constant force 10N. After 5 seconds its velocity becomes :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "50 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "55 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10 ms⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Dolphins detect small differences in the shape, size and thickness of objects through :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Beats",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Radio waves",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Echolocation",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Both A and B",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The ratio of dimensions of torque to angular momentum is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 : T",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "M : T",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "T : 1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "L : T",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Potential energy associated to the molecules of an ideal gas is considered to be :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "100 J",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Low",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "High",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "A particle moves in a circle of radius r. In half the period of revolution, its displacement and distance covered are :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2r, πr",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2r, 2πr",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√2r, πr",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "r, πr",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The magnitude of -î.(k̂×ĵ) is equal to :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-2 î",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2 î",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The percentage uncertainty in mass and radius of earth is 2% and 5% respectively. The total percentage uncertainty in the volume of earth is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "7%",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "15%",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "9%",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2%",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The frequency of heart of normal human being is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.2 Hz",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.83 Hz",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "72 Hz",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2 Hz",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The magnifying power of a magnifying glass is 3. Its focal length will be :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "15 cm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "20 cm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8.3 cm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "12.5 cm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "A flywheel gains an angular speed of 540 rev / min in 9 second. Its angular acceleration is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "9 π rad s⁻²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6 π rad s⁻²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "12 π rad s⁻²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2 π rad s⁻²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The horizontal range of a projectile is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Equal to height at 30°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Double of height at 45°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "One fourth of the height at 90°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Four times of height at 45°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "The efficiency of diesel engine is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "25% to 35%",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "35% to 40%",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "45% to 50%",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "20% to 25%",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "A mass is lifted to a height in 10 seconds. Now if the same mass is lifted to the same height in 20 seconds then work done in two cases are in the ratio :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 : 2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2 : 1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1 : 1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4 : 1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Which of the vector can not be represented on graph :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Unit vector",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Position vector",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Negative vector",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Null vector",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "Energy cannot flow away in the :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Transverse waves",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Stationary waves",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Longitudinal waves",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Sound waves",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "The direction in which light energy is carried called a :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ray",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Wave front",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Locus",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Spherical wave",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "A body completes five revolutions in a circular path having radius 5 cm, the displacement of the body is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10 cm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.157 rad",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.314 rad",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "How many satellites can track your Switch ON mobile phone location globally :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "24",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "14",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Longitudinal waves do not exhibit :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Refraction",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Reflection",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Polarization",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Diffraction",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "The unit of thermodynamic scale is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Centigrade",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Fahrenheit",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Joule",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Kelvin",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The dimensions of = (v/(v-us)) 1/λ are :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[T]⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[L]⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[MT⁻¹]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[T⁻¹L]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "The speed of sound in air at 373 K is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "332 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "300 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "291 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "393 ms⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "The resultant force of two forces 30 N and 50 N acting on a body in opposite direction is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "80 N",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10√34 N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "50 N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "20 N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "When the bob of simple pendulum is at its extreme position, it has :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "K.E",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "P.E and K.E",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "P.E",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "P.E or K.E",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "At constant temperature, the graph between v and 1/p is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hyperbola",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Straight line",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Parabola",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ellipse",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "All the food we eat in one day has about the same energy as ( if one litre petrol energy = 5 × 10⁷ J ) :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5 × 10⁷ J",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.33 J",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10 × 10⁷ J",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.66 × 10⁷ J",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "The diameter of the milky way is of the order of :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10²⁰ m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10¹⁰ m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10³ m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10⁴⁰ m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "The angular speed of hour's hand of mechanical watch at 2 o'clock is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π/3 rad/hour",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2π rad/hour",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/6 rad/hour",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4π rad/hour",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "The time of flight of projectile is maximum when it is projected at an angle of :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "76°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "A two meter high tank is full of water. A hole appears at its middle. What is the speed of efflux of water ( If g = 10 ms⁻² ) :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4.47 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4.32 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10.0 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "20.0 ms⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "Name the quantity which is vector :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Density",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Power",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Impulse",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Charge",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "Twenty waves passes through the medium in one second with speed 20 ms⁻¹, the frequency of wave is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "400 Hz",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "20 Hz",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "50 Hz",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2 Hz",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "The magnification of a simple microscope when the final image is formed at infinity :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "d/f",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1 + d/f",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "f_o + f_e",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "f_o/f_e",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

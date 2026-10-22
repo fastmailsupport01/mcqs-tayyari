@@ -1,0 +1,961 @@
+{
+ "board": "BISE Lahore",
+ "class": "12th",
+ "subject": "Physics",
+ "year": 2021,
+ "slug": "lahore-12th-physics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The quantity -DeltaV/DeltaR is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electric potential",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Electric energy",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Potential energy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Potential gradient",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "If the potential difference across two plates of capacitor is doubled, the energy in it will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Two times",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Eight times",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Four times",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Remains same",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Kirchhoff's second rule is a way of stating conservation of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mass",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Charge",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Energy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Momentum",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The brightness of spot on CRO screen is controlled by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Plates",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cathode",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Anode",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Grid",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The e/m of neutron is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Less than electron",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Greater than electron",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "The same as electron",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The energy stored in inductor is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/2 LI^2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/2 LI",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/2 NI",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/2 L^2I^2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The unit of self inductance is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Weber",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Tesla",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Henry",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Farad",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "At high frequency the value of reactance of capacitor will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Small",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Large",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Infinite",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "When 10 V are applied to an A.C. circuit, the current flowing in it 100 mA, it's impedance is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10 Ohm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "100 Ohm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1000 Ohm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1 Ohm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The critical temperature of mercury is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.18 K",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4.2 K",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3.72 K",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "7.2 K",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The current gain Beta of the transistor is given by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Beta = I_B / I_C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Beta = I_B + I_C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Beta = I_B - I_C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Beta = I_C / I_B",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The input resistance of an operational amplifier is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Low",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "High",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Equal to output resistance",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "The value of Planck's constant h is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "6.63 x 10^-34 Js",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6.63 x 10^-34 J/s",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6.63 x 10^-34 Js^2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6.63 x 10^-34 J/s^2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "Albert Einstein was awarded Nobel Prize in physics in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1905",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1911",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1918",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1921",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Radius of first bohr orbit of hydrogen atom is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.053 nm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.053 mm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.053 um",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.053 m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "Gamma rays emitted from radioactive element have speed:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 x 10^7 ms^-1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1 x 10^8 ms^-1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3 x 10^8 ms^-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4 x 10^19 ms^-1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "The dead time of G.M. counter is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10^-3 s",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10^-4 s",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10^-6 s",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10^-8 s",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "The rest mass energy of an electron positron pair is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.51 Mev",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.02 Mev",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.2 Mev",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.00 Mev",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "The device which allows only flow of A.C. through it is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Capacitor",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Inductor",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Battery",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Thermistor",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Output wave form of sweep or time base generator is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Saw tooth wave",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Digital wave",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Sinusoidal wave",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Square wave",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "If R1 = 10 K-Ohm and R_f = 100 K-Ohm then gain of inverting amplifier is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-11",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-10",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "11",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "S.I. unit of impedance is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Henry",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Hertz",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ampere",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ohm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Coulomb per volt is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ampere",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Joule",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Henry",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Farad",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Binding energy per nucleon is maximum for:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Helium",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Iron",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Radium",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Polonium",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Energy stored in the inductor is in the form of :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electrical energy",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Magnetic energy",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Kinetic energy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Chemical energy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "When platinum wire is heated. It changes to cherry red at temperature :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "500 degree C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "900 degree C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1100 degree C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1300 degree C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "When some dielectric is inserted between the plates of a capacitor then capacitance :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Increased",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Decreased",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Infinity",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Very weak magnetic field produced by brain can be detected by :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Compass",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Metallic needle",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Squid",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Liquid",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Kirchhoff's first rule is a manifestation of law of conservation of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mass",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Energy",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Charge",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Kinetic energy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "The value of Rydberg constant is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.0974x10^7 m^-1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6.02 x 10^-34 m^-1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3 x 10^8 -1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.6 x 10^19 m^-1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "Automatic functioning of street light can be done by the use of :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Inductor",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Capacitor",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Comparator",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Thermistor",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "The half life of uranium 239 is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1620 years",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3.8 days",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2.5 days",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "23.5 minutes",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "The principle of an electric generator is based upon :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ampere's law",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Faraday's law",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Coulomb's law",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Kirchhoff's law",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "Work done on a charged particle moving in uniform magnetic field is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Maximum",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Minimum",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Negative",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

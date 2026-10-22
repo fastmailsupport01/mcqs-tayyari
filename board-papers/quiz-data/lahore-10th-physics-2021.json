@@ -1,0 +1,681 @@
+{
+ "board": "BISE Lahore",
+ "class": "10th",
+ "subject": "Physics",
+ "year": 2021,
+ "slug": "lahore-10th-physics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Waves transfer:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Velocity",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Energy",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Wavelength",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Frequency",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The unit of intensity of sound is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Wm⁻²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Wm²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Wm⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Wm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Snell's law is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "n = sin r / sin i",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "n = sin r",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "n = sin i / sin r",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "n = sin i",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The S.I. unit of electric field intensity is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "NC⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NC⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NC",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Capacitance of any capacitor is equal to :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "C = Q / V",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "C = V / Q",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "C = QV",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "C = 1 / QV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Formula of e.m.f is equal to :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "E = Q / W",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "E = Q / t",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "E = W / t",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "E = W / Q",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The unit of electric power is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ohm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Watt",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Farad",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Joule",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "For an ideal transformer:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Pp < Ps",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Pp > Ps",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Pp = Ps",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Pp ≠ Ps",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The logical operation performed by this gate is : (gate symbol shown in the paper)",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "AND",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NOR",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "OR",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NAND",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Boolean expression of NOR gate is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "X = A.B (with overline over A.B)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "X = A+B (with overline over A+B)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "X = A+B",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "X = A.B",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Number of components of computer based information system is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Generally an atom is represented by the symbol :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ᴬ/ᴢ X",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ᶻX (partially obscured by watermark)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ᶻX / (Z+N)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "X with ᴬ over (A+Z) (partially obscured by watermark)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Which of the gate is used to convert one logic level into opposite logic level :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "AND gate",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "OR gate",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NOR gate",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NOT gate",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "How will be electric lines of force where intensity of electric field is maximum :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Wider",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "+ve to -ve",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Narrow",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-ve to +ve",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "If the current in a wire which is placed perpendicular to a magnetic field increases, the force on the wire :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Will be zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Remains the same",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Decreases",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Increases",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "In which state of matter longitudinal waves move faster:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Liquid",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Solid",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Gas",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Liquid and gas",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Isotopes of hydrogen are :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Speed of sound in hydrogen at 0°C is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1290 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "972 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1498 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "317 ms⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Which of these is not a web browser:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Youtube",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Chrome",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mozilla firefox",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Safari",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "The refractive index of medium is equal to :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "n = 1/cv",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "n = v/c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "n = cv",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "n = c/v",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "The image formed by convex mirror is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Real and erect",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Inverted and real",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Erect and virtual",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Inverted and virtual",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "One micro ampere is equal to :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10⁻³A",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10⁻⁶A",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10⁻⁹A",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10⁻¹²A",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "According to Coulomb's law what happens to force of attraction of two oppositely charged objects as their distance of separation increases :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Decreases",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Increases",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Remains unchanged",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cannot be determined",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "In parallel combination of resistors, each resistor will have the same :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Resistance",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Voltage and current",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Voltage",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Current",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

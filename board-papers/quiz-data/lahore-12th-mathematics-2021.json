@@ -1,0 +1,1129 @@
+{
+ "board": "BISE Lahore",
+ "class": "12th",
+ "subject": "Mathematics",
+ "year": 2021,
+ "slug": "lahore-12th-mathematics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "If f(x) = x/(x^2 - 4) then range of f(x) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "All real number",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Rational number",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "All negative real number",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Integer",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Lt (x->0) sin ax / sin bx =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "b/a",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a/b",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/b",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "If f(x) = 1/x^m then f'(x) = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-xm^-1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-mx^-m-1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-mx^-m+1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-m^-1 x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The derivative of 1/(1+x) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1 + x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(1 + x)^-2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-1(1+x)^-2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Integral sec x dx =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "sec x + tan",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "sec^2 x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ln |sec x - tan x|",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ln |sec x + tan x| + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Integral (2x+3)^1/2 dx =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(2x+3)^3/2 / 2 + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/3 (2x+3)^3/2 + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/2 (2x+3)^1/2 + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/3 (2x+3)^2 + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Integral (a-2x)^3/2 dx =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/5 (a-2x)^3/2 + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/5 (a-2x)^5/2 + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-1/5 (a-2x)^5/2 + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-3/5 (a-2x)^5/2 + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Midpoint of the line segment joining A (3, 1) and B (-2, -4) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(1/2, 3/2)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(5/2, 5/2)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(1/2, 3/2)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(1/2, 5/2)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Slope 'm' through A (x1, y1), B (x2, y2) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(x2-x1)/(y2-y1)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(x2+x1)/(y2-y1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(y2-y1)/(x2-x1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(y1-y2)/(x1+x2)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Distance between A (3, 1) and B (-2, -4) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "sqrt(17)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5 sqrt(2)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "sqrt(26)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2 sqrt(5)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "x = 5 is the solution of inequality:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2x - 3 > 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2x + 3 < 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x + 4 < 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x + 3 < 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "d/dx (cos^-1 x) =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/sqrt(1-x^2)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-1/sqrt(1-x^2)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/sqrt(1+x^2)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/(1+x^2)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "d/dx tan^-1 x =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/sqrt(1-x^2)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/sqrt(1-x^2)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/sqrt(1+x^2)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/(1+x^2)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "1 + x + x^2/2! + x^3/3! + ---- is Maclaurin series for:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "e^x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "sqrt(1+x)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "cos x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "sin x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "in equation of circle x^2 + y^2 = r^2 the centre of circle is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(x, y)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(0, 0)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(1, 0)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(0, r)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "In circle x^2 + y^2 + 2gx + 2fy + c = 0, the radius is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "sqrt(g^2 + f^2 + c)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "g^2 + f^2 - c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "sqrt(g^2 + f^2 - c)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "g^2 + f^2 + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "The focus of parabola y^2 = 4ax is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(0, a)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(-a, 0)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(a, 0)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(0, -a)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group I",
+   "q_en": "The vector PQ through P (0, 5) and Q (-1, -6) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[-1, 11]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[-1, -11]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[0, 11]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[1, 1]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group I",
+   "q_en": "Magnitude of vector u = 2i = 7i [sic, as printed] is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "sqrt(53)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "sqrt(55)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "sqrt(48)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "sqrt(52)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group I",
+   "q_en": "In vectors a x b =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "b x a",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-b x a",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-b",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-a x b",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "The derivative of 1/(1+x) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1 + x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(1+x)^-2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1-(1+x)^-2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Integral cosx dx =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1-sin^2x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "sqrt(1-sin^2x)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "sin x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "- sin x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Integral_1^2 (x^2+1)dx =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10/3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3/10",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "pi",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "pi/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "If y = cot^-1x, then dy/dx =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/(1-x^2)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-1/(1+x^2)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The derivative of ln (tanh x) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/tanh x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "sech^2x/tanh x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "sech^2x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "sech x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "x = at^2 and y = 2at are parametric equations of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Parabola",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ellipse",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Circle",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Hyperbola",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "If y^2 + x^2 = a^2, then dy/dx =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x/y",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-y/x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x/y",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "y/x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "The order of dy/dx = 4/3 x^3 + x - 3 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3/4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4/3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Integral_a^x 3x^2 dx =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x^3 + a^3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x^3 - a^3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3x^3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x^3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "If theta is measured in radian then limit (theta->0) sin theta/theta =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/7",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7pi/22",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "7pi/12",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "The measure of the angle between the lines ax^2 + 2hy + by^2 = 0 [sic, print for '2hxy'] is given by tan theta =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "sqrt(h^2-ab)/(a-b)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2 sqrt(h^2-ab)/(a+b)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(h^2-ab)/(a+b)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "infinity",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "If a = i - j and b = j + k then a.b =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "The feasible solution which maximize or minimize the objective function is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Boundary",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Half plane",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Optimal solution",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Initial values",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "The value of c for [x^2/16 - y^2/49 = 1 is]:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "16",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "49",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "65",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "sqrt(65)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "The equation of a straight line represented by x cos a + y sin a = P is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Normal form",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Angular form",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Symmetric form",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "P - form",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "The unit vector in the direction of v = [3, -4]:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5[3, -4]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/5[3, -4]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "i",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "j",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "The points A (-5, -2), B(5, -4) are ends point of a diameter of the circle. The centre will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(0, 3)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(0, -3)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(5, 2)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(-5, 4)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group II",
+   "q_en": "xy = 0 represents:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A pair of lines",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Hyperbola",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Parabola",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ellipse",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group II",
+   "q_en": "The projections of v along u is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(u.v)/|u|",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(u.v)/|v|",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(u.v)/(|u||v|)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(u.v)/(|u|+|v|)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group II",
+   "q_en": "An angle inscribed in a semi-circle is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "pi/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "pi",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2pi",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

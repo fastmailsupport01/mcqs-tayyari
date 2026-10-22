@@ -1,0 +1,849 @@
+{
+ "board": "BISE Lahore",
+ "class": "11th",
+ "subject": "Computer Science",
+ "year": 2022,
+ "slug": "lahore-11th-computer-science-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The --------- layer that is in between of session layer and application layer:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Network",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Transport",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Presentation",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Data link",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Math Coprocessor is a:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Software",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Special circuit",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Register",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Memory name",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The currently selected cell in spreadsheet is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Idle cell",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Active cell",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Passive cell",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Present cell",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Software can be removed / installed through:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Installer",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Control panel",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Debugger",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Linker",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Smallest unit of memory is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Byte",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Bit",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Character",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Word",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Making illegal copies of copyrighted software is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Software piracy",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Collaboration",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Browsing",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Hacking",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "A collection of related web pages is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Web page",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Website",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Exite",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Web server",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The process of sending and receiving messages and files on internet is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Transmission",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Messaging",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Electronic mail",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Internet",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "A cable consists of tubes of glass through which data are transmitted as pulse of light is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Coaxial cable",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Twisted pair",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Fiber optic cable",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Coaxial tubes",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Core area of system development process is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Report",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Testing",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Coding",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Compiling",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Temporary area within CPU is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Register",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ROM",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "RAM",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cache Memory",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Changing an existing document is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Editing",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Entering",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Printing",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Typing",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Office support system is enable to coordinate and manage the activities of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Workgroup",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Business",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Security",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Marketing",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "The number of time a wave repeats during a specific time period is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Oscillation",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Frequency",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Signals",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Amplitude",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Which of the computer component is responsible for computations of data:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ALU",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Control Unit",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Memory",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ROM",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "How many table views are available in MS Access:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "In relational database, a table is also called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Tuple",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Relation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "CREATE command is used to create a:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Table",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Form",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Report",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Query",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "In ERD model, the relationship between two entities is represented by a:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Diamond symbol",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Rectangular box",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Oval symbol",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Line",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Which of the following type of file require largest processing time:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sequential file",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Random file",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Indexed sequential file",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Direct access file",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "A database consists of various components called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Tool",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Properties",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Entities",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Object",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Single line command starts with:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "#",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "//",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "*/",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "/*",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Function prototypes for built-in functions are specified in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Source files",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Object files",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Header files",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Image files",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Which of the following is the simplest form of a decision structure:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "If statement",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Switch",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "If-else-if",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nested if",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "The set of statement in curly braces in a loop is known as -------- of the loop:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Title",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Header",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Center",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Body",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Which of the following key is used to save a file:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "F2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "F3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "F4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "F5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "On successful closing a file, the fclose () returns:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Null",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0 (zero)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1 (one)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "file pointer",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "The logical not operator, denoted by !, is a:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ternary operator",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Unary operator",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Binary operator",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Bitwise operator",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "a += b is equivalent to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "b + a",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a = + b",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "b = b + a",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a = a + b",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "Turbo C++ can compile:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "C++ programs only",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "C and C++ programs",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Turbo C programs only",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Turbo C++ programs",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

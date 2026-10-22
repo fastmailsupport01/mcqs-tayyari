@@ -1,0 +1,569 @@
+{
+ "board": "BISE Lahore",
+ "class": "12th",
+ "subject": "Mathematics",
+ "year": 2023,
+ "slug": "lahore-12th-mathematics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "If y = tanh^-1 x, then dy/dx =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 / (1 + x^2)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1 / (1 - x^2)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-1 / (1 + x^2)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-1 / (1 - x^2)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Integral from 0 to 3 of dx / (x^2 + 9) =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "pi / 4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-pi / 4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "pi / 12",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Integral of e^x (sin x + cos x) dx =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "e^x cos x + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "e^x sin x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "e^x sin x + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "e^x cos x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "d/dx (sin sqrt(x)) =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "cos sqrt(x)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "cos sqrt(x) . 1 / sqrt(x)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "sqrt(x) cos sqrt(x)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "cos sqrt(x) . 1 / (2 sqrt(x))",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "d/dx (a^(lambda x)) =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a^(lambda x)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a^(lambda x) lambda ln a",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "lambda a^(lambda x) ln a",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a^(lambda x) / (lambda ln a)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The perimeter P of a square as a function of its area A is given as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4A",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4 sqrt(A)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2A",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2 sqrt(A)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "If y = x^2 - 1, then dy =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "xdx + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(x - 1)dx",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2x dx + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2x dx",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Integral of 2 / (x + 2) dx =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ln |x + 2| + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ln |x + 2|^2 + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1 / ln |x + 2|",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2 ln x + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Integral of 1 / cos^2 x dx =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 / sin^2 x + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "tan x + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "sec^2 x + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "cosec^2 x + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Domain of cosine function y = cos x is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Real numbers",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[-1, 1]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(0, infinity)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "]-1, 1[",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Two lines a1x + b1y + c1 = 0 and a2x + b2y + c2 = 0 are parallel if:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a1a2 + b1b2 = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a1a2 - b1b2 = 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a1b2 - a2b1 = 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a1b2 + a2b1 = 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "For parabola, value of eccentricity e is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "e = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "e < 1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "e > 1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "e = 1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "A region is said to feasible region which is restricted to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "I quadrant",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "II quadrant",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "III quadrant",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "IV quadrant",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "Focus of the parabola x^2 - 5y = 0 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(5/4, 0)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(0, 5/4)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(0, -5/4)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(-5/4, 0)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "The lines represented by ax^2 + 2hxy + by^2 = 0 are imaginary if :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "h^2 - ab = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "h^2 - ab < 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "h^2 - ab > 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "h^2 - ab != 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "A vector perpendicular to both vectors a and b is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a . b",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a x b",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ab / |a|",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "b . a",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "Inclination of the line joining the points (4, 6) and (4, 8) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "90 degrees",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "45 degrees",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "30 degrees",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Undefined",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group I",
+   "q_en": "The coordinate of the vertices of the hyperbola x^2 / a^2 - y^2 / b^2 = 1 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(0, +-b)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(+-b, 0)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(0, +-a)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(+-a, 0)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group I",
+   "q_en": "If u, v and w are coterminous edges of a tetrahedron, then its volume is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[u v w]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/3 [u v w]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/6 [u v w]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/9 [u v w]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group I",
+   "q_en": "An angle in a semicircle is of measure:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "90 degrees",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "60 degrees",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "45 degrees",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "30 degrees",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

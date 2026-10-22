@@ -1,0 +1,681 @@
+{
+ "board": "BISE Lahore",
+ "class": "10th",
+ "subject": "Physics",
+ "year": 2025,
+ "slug": "lahore-10th-physics-2025",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Half life of an isotope is one day, what quantity remains after 2 days:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Half",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "One quarter",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "One eighth 1/8",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Presence of magnetic field can be detected by a:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Small mass",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Stationary positive charge",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Stationary negative charge",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Magnetic compass",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Ohm's law is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "I × V = R",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "V = R/I",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "V = I/R",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "V = IR",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "If mass of bob is increased by 3 times then time period of simple pendulum:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Increased",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Same",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Decreased",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Refractive index of ice is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.30",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.31",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.32",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.33",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Which form of energy is sound:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electrical",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Mechanical",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Thermal",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Chemical",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "One byte is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "8 bits",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "16 bits",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "64 bits",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "128 bits",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "A positive electric charge:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Attract positive",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Attract neutral",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Repel positive",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Repel neutral",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "It does not change during refraction of light:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Speed",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Frequency",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Direction",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Wavelength",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The output of NAND gate is zero if :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "B = 0, A = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "B = 1, A = 1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A = 0, B = 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A = 1, B = 1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Equivalent resistance in series is 8Ω, what will be in parallel :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2Ω",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4Ω",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8Ω",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "12Ω",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "In computer terminology, information means:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Any data",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Raw data",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Processed data",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Large data",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "The relation between v, f and λ of a wave is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "vf = λ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "fλ = v",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "vλ = f",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "v = λf",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Which form of energy is sound:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mechanical",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Electrical",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Thermal",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Chemical",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "S.I unit of capacitance of a capacitor is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "V (volt)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A (ampere)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "F (farad)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "N (newton)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Which of the following quantity is not changed during refraction of light:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Its direction",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Its speed",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Its wavelength",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Its frequency",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Five joules of work is needed to shift 10 C of charge from one place to another. The potential difference between the places is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.5 V",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2 V",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5 V",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10 V",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "An electric current in conductors is due to the flow of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Positive ions",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Negative ions",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Positive charges",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Free electrons",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "The direction of induced e.m.f. in a circuit is in accordance with conservation of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mass",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Energy",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Charge",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Momentum",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Half-life of carbon-14 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "123 years",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "30 years",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5730 years",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "7530 years",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "The process by which electrons are emitted by a hot metal surface is known as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Boiling",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Evaporation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Conduction",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Thermionic emission",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "What does the term e-mail stand for:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Emergency mail",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Electronic mail",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Extra mail",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "External mail",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Release of energy by the sun is due to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nuclear fission",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Chemical reaction",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Nuclear fusion",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Burning of gases",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Formula for the electric potential is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "V = W/q",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "V = qW",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "V = q/W",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "V = 2qW",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

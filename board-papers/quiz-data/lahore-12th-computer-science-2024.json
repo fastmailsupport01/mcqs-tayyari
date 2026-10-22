@@ -1,0 +1,1353 @@
+{
+ "board": "BISE Lahore",
+ "class": "12th",
+ "subject": "Computer Science",
+ "year": 2024,
+ "slug": "lahore-12th-computer-science-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "An example of a wildcard character is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "&",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "#",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "*",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "\"",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "A functional dependency is a relationship between two :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Attributes",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Entities",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Rows",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Relations",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "A row of a relation is also called :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Attribute",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Entity",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Tuple",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Field",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "All the hardware costs are considered during :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Project planning",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Requirement analysis",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Data analysis",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Feasibility study",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The most commonly used database model in current database development is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hierarchical",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Network",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Object-oriented",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Relational",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Each set of related items in a table is called :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Form",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Record",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Field",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Query",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Format specifier % 4.2 f for value .78962, will produce output :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.78",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[two blank boxes].78",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[three blank boxes].78",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.7896",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "In which loop, statement terminator is part of its syntax :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "for",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "do-while",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "while",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "nested loop",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "If x = 2 and y = 3, what will the output of the following expression x < y ? x : y ;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Another name for built-in function is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "User-defined function",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Library function",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Custom made function",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Customized function",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The total number of keywords in C is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "32",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "34",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "36",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "38",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The following function is used to copy a string to an array of characters :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Strcpy",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Strpcy",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Strncpy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Copy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Following format specifier used for string :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "% f",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "% c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "% d",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "% s",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "Another term for a computer making a decision is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sequence",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Selection",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Repetition",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Iteration",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "The process of identifying and removing errors in program is called :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Debugging",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Fixing",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Updating",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Modifying",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Statement that initializes and loads a form in memory without displaying it on screen :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Load",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Unload",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Hide",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Remove",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "In Visual Basic, which keyword indicates the starting point of a decision structure :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "then",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "if",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "start",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "else",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The MOD operator is used for :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Integer remainder",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Exponentiation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Multiplication",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Division",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Which structure is an example of multiple branches from single expression :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "If --- Then",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Select Case",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "For --- Next",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "If --- Then --- Else",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "All of the following are examples of control except :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Property",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Label",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Text box",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Button",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "If number of iterations are not known in advance, the suitable programming structure is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "For --- Next",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Do --- Loop Until",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "For --- Each Next",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "For --- While",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "In Visual Basic, a form is another name for a (n) :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Object",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Property",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Label",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Window",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "How many bytes are occupied by long data type in Visual Basic :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "12",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "16",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "The rectangle symbol in a flow chart indicates :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Process",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Condition",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Input",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Output",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "A functional dependency is a relationship between two :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Entities",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Rows",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Relations",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Attributes",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "The process of arranging data in a logical sequence is called :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sorting",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Summarize",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Data capturing",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Classifying",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Merging the relation is also known as :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "View entities",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "View integration",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "View relationship",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "View constraints",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "The smallest meaningful unit of data in the database is called :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Field",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Character",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Record",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Byte",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Default field size of text data type in MS-Access is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "20",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "30",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "40",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "50",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "A set of related files created and managed by a DBMS is called :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Field",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Record",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Database",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Module",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Total number of keywords in C-Language is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "30",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "32",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "34",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "36",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "In the statement File * fp ; the * represents :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Variable",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Pointer",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Argument",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Parameter",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "The statement that activates a function is known as :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Function design",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Function definition",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Return type",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Function call",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "If a = 2 and b = 4, the expression b = ( a > b ) ? a + b : a * b will display output as :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "12",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Format specifier % 5.2 f for value 4.1257, will produce the output :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4.12",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4.13",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4.126",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4.1257",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Preprocessor directives are commands for :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Microprocessor",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Language processor",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "C-processor",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Loader",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "Switch statement is an alternative of :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "if-else-if",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Nested if-else",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "for loop",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "While loop",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "Escape sequence used to beep from speaker in C-Language is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "\\a",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "\\b",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "\\t",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "\\r",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "In for statement, the expression is executed only once :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Validation",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Test",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Condition",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Initialization",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Forms and controls are collectively recognized as :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Events",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Objects",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Properties",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Methods",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "The Window that is used to establish initial property values for objects is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Code Window",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Property Window",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Form Window",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Main Window",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Which operator is used for comparison :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Unary",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Binary",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Arithmetic",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Relational",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Which method removes a form from screen and from memory :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hide",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Unload",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Show",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Load",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "The statement that activates a function is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Function design",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Function call",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Function definition",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Function declaration",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Graphical representation of a program is called :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Logical chart",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Binary chart",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Flow chart",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "E-R chart",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "The programmer usually enter source code into computer using :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Text editor",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Program editor",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Compiler",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Debugger",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "The control structure used to repeat statements is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Loop",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Selection",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Sequential",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Logical",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "Image controls hold a graphics that is assigned to :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Frame property",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Text property",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Caption property",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Picture property",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,429 @@
+{
+ "board": "BISE Lahore",
+ "class": "12th",
+ "subject": "Computer Science",
+ "year": 2021,
+ "slug": "lahore-12th-computer-science-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The manipulated and processed data is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Object",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Information",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Knowledge",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Data",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Insert command is used to insert:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A new table",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A new record",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Dependencies",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A new query",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Customers, cars and parts are examples of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Entities",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Attributes",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cardinals",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Relationships",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Different attributes in two different tables having same name are referred to as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Synonym",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Homonym",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Acronym",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mutually exclusive",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "A database consists of various components called the:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Tool",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Properties",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Entities",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Object",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "In the relational model--is the basic structure in which data is stored:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Attribute",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Record",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Table",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Form",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Preprocessor directives are commands for:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Microprocessor",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Language processor",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cpreprocessor [sic, print for 'C preprocessor']",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Loader",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Void occupy how many bytes in memory:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "One",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Two",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Four",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Which of the following operators has lowest precedence:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "!",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "+",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "= =",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The symbol ' = ' represents:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Comparison operator",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Assignment operator",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Equal to operator",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Termina' [sic, print for 'Terminal'] operator",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "getch ( ) is a part of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "stdio.h",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "conio.h",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "math.h",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "string.h",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Escape sequence \\\\ is used to print:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "New line",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Backslash",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Space",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Tab",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "An if statement inside another if statement:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "if statement",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "inside if",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Nested if statement",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mid if",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "A loop inside the body of another loop:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "while loop",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "for loop",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Nested loop",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Infinite loop",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Formal arguments are also called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Actual arguments",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Dummy arguments",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Original arguments",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Referenced arguments",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}
