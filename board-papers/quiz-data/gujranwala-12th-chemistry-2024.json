@@ -1,0 +1,962 @@
+{
+ "board": "BISE Gujranwala",
+ "board_slug": "gujranwala",
+ "class": "12th",
+ "subject": "Chemistry",
+ "year": 2024,
+ "slug": "gujranwala-12th-chemistry-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "1. The main pollutant of leather tanneries in the waste water is due to salt of",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Lead",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Chromium (VI)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Copper",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Chromium (III)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "One of the following will have the highest boiling point",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "methanal",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ethanal",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "propanal",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2 – hexanone",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The normal amount of overhead Ozone is about",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "150 DU",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "250 DU",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "350 DU",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "450 DU",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Ethanol can be converted into ethanoic acid by",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hydrogenation",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Hydration",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Oxidation",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Fermentation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Phosphorus helps the growth of",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "root",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "leaf",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "stem",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "seed",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "When ethanal (CH₃−C(=O)−H) is made to react with ethyl Magnesium Bromide followed by acid hydrolysis, the product formed is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1–propanol",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2–propanol",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1–butanol",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2–butanol",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Which one of the following elements is not present in all proteins?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sulphur",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Carbon",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Hydrogen",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nitrogen",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The anhydride of HClO₄ is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ClO₃",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ClO₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cl₂O₅",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cl₂O₇",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Which reagent is used to reduce a Carboxylic group to an alcohol?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "H₂/Ni",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "H₂/Pt",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NaBH₄",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "LiAlH₄",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "In ring test, the colour of FeSO₄·NO is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Brown",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Red",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Green",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Black",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The conversion of n-hexane into benzene by heating in the presence of Pt is called",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Isomerization",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Aromatization",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "de-alkylation",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Re-arrangement",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The chief ore of aluminium is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Na₃AlF₆",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Al₂O₃·2H₂O",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Al₂O₃",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Al₂O₃·H₂O",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "β–β′–dichloroethyl sulphide is commonly known as",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Laughing gas",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Bio-gas",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mustard gas",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Phosgene gas",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "One of the following is not an alkali metal",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Francium",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Caesium",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Rubidium",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Radium",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "The state of hybridization of Carbon atom in Methane is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "sp³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "sp²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "sp",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "dsp²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "Select the two elements which are present in third period",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Li , Be",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Na , Mg",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "K , Ca",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Rb , Sr",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "One of the following is a typical transition metal",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sc",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Y",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Co",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ra",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "1. Which one of the following compounds is most reactive?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Benzene",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ethene",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ethane",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ethyne",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Which one of the following is a non-typical transition element?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cr",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Mn",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Zn",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Fe",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "β–β′–dichloroethyl sulphide is commonly known as",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Laughing gas",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Bio-gas",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Phosgene gas",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mustard gas",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Which three elements are needed for the healthy growth of plants?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "N , S , P",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "N , Ca , P",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "N , P , K",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "N , K , C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The reaction between fat and NaOH is called",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Esterification",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Hydrogenolysis",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Fermentation",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Saponification",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Which compound is more soluble in water?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "C₂H₅OH",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "C₆H₅OH",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CH₃COCH₃",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "n–hexanol",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Which one of the following ions has maximum value of heat of hydration?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Na⁺",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cs²⁺",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ba²⁺",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mg²⁺",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Hydrogen bond is the strongest between the molecules of",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "HF",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "HCl",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "HBr",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "HI",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Tincal is a mineral of",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Al",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "B",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Si",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "The amount of Ozone in the atmosphere is expressed in units",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "KJ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "KJ/mole",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "DU",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "The solution of which acid is used for seasoning of food?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Formic acid",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Acetic acid",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Benzoic acid",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Butanoic acid",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "The state of hybridization of Carbon atom in Methane is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "sp³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "sp²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "sp",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "dsp²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "Peroxyacetyl nitrate (PAN) is an irritant to human beings and it affects",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Eyes",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ears",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Stomach",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nose",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "Choose the gas which is obtained by the reaction of Ethyl alcohol with conc. H₂SO₄",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CO",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CO₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "C₂H₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "C₂H₄",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "Select the two normal elements present in sixth period",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "K , Ca",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Rb , Sr",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cs , Ba",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "La , Hf",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "Cannizzaro's reaction is not given by",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Formaldehyde",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Acetaldehyde",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Benzaldehyde",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Trimethylacetaldehyde",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "When water (H – OH) is made to react with Ethyl Magnesium Bromide, the product formed is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CH₂ = CH₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "HC ≡ CH",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CH₃ – CH₃",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CH₄",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

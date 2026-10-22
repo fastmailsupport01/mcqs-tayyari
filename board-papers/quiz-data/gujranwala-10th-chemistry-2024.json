@@ -1,0 +1,682 @@
+{
+ "board": "BISE Gujranwala",
+ "board_slug": "gujranwala",
+ "class": "10th",
+ "subject": "Chemistry",
+ "year": 2024,
+ "slug": "gujranwala-10th-chemistry-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "1.1 - Which one of the following is found in gasoline?",
+   "q_ur": "1.1 - درج ذیل میں سے کونسا گیسولین میں پایا جاتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "C₂H₄",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "C₃H₈",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "C₈H₁₈",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "C₁₂H₂₆",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Which one of the following is a reducing sugar?",
+   "q_ur": "درج ذیل میں سے کونسی ریڈیوسنگ شوگر ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "glucose",
+     "ur": "گلوکوز"
+    },
+    {
+     "k": "B",
+     "en": "maltose",
+     "ur": "مالٹوز"
+    },
+    {
+     "k": "C",
+     "en": "sucrose",
+     "ur": "سکروز"
+    },
+    {
+     "k": "D",
+     "en": "starch",
+     "ur": "سٹارچ"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Which one of the following vitamins is water soluble?",
+   "q_ur": "مندرجہ ذیل میں سے کونسا وٹامن واٹر سولیوبل ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Vitamin A",
+     "ur": "وٹامن"
+    },
+    {
+     "k": "B",
+     "en": "Vitamin C",
+     "ur": "وٹامن"
+    },
+    {
+     "k": "C",
+     "en": "Vitamin D",
+     "ur": "وٹامن"
+    },
+    {
+     "k": "D",
+     "en": "Vitamin E",
+     "ur": "وٹامن"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Water dissolves non-ionic compounds by",
+   "q_ur": "پانی نان آئنک کمپاؤنڈز کو کس کی وجہ سے حل کرتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "ion-ion forces",
+     "ur": "آئن۔آئن فورسز"
+    },
+    {
+     "k": "B",
+     "en": "ion-dipole forces",
+     "ur": "آئن۔ڈائی پول فورسز"
+    },
+    {
+     "k": "C",
+     "en": "dipole-dipole forces",
+     "ur": "ڈائی پول۔ڈائی پول فورسز"
+    },
+    {
+     "k": "D",
+     "en": "hydrogen bonding",
+     "ur": "ہائیڈروجن بانڈنگ"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Which gas is the cause of global warming?",
+   "q_ur": "کونسی گیس گلوبل وارمنگ کا باعث ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "CO₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "SO₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NOₓ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "O₃",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Rapid growth of algae in water bodies is because of detergents having",
+   "q_ur": "آبی پانی میں تیز گروتھ کی وجہ ایسے ڈیٹرجنٹس ہیں جن میں سالٹس موجود ہوتے ہیں",
+   "options": [
+    {
+     "k": "A",
+     "en": "carbonate salts",
+     "ur": "کاربونیٹ سالٹس"
+    },
+    {
+     "k": "B",
+     "en": "sulphonic acid salts",
+     "ur": "سلفونک ایسڈ سالٹس"
+    },
+    {
+     "k": "C",
+     "en": "suphate salts",
+     "ur": "سلفیٹ سالٹس"
+    },
+    {
+     "k": "D",
+     "en": "phosphate salts",
+     "ur": "فاسفیٹ سالٹس"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Acetic acid is used for",
+   "q_ur": "ایسیٹک ایسڈ استعمال ہوتا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "flavouring food",
+     "ur": "خوراک کو خوش ذائقہ بنانے کیلئے"
+    },
+    {
+     "k": "B",
+     "en": "making explosives",
+     "ur": "دھماکہ خیز مواد کیلئے"
+    },
+    {
+     "k": "C",
+     "en": "etching designs",
+     "ur": "نقش و نگار بنانے کیلئے"
+    },
+    {
+     "k": "D",
+     "en": "cleaning metals",
+     "ur": "میٹلز کو صاف کرنے کیلئے"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Halogenation of methane does not produce",
+   "q_ur": "میتھین کی ہیلوجینیشن سے نہیں بنتا",
+   "options": [
+    {
+     "k": "A",
+     "en": "carbon tetrachloride",
+     "ur": "کاربن ٹیٹرا کلورائیڈ"
+    },
+    {
+     "k": "B",
+     "en": "chloroform",
+     "ur": "کلوروفارم"
+    },
+    {
+     "k": "C",
+     "en": "carbon black",
+     "ur": "کاربن بلیک"
+    },
+    {
+     "k": "D",
+     "en": "chloromethane",
+     "ur": "کلورومیتھین"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "About 99% of atmosphere's mass lies within ____ km.",
+   "q_ur": "ایٹموسفیئر کا 99% ماس ____ کلومیٹر میں موجود ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "30",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "35",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "15",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "11",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Which statement is not correct about active mass?",
+   "q_ur": "کونسا بیان ایکٹو ماس کے بارے میں صحیح نہیں ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "rate of reaction is directly proportional to active mass",
+     "ur": "ری ایکشن کا ریٹ ایکٹو ماس کے ڈائریکٹلی پروپورشنل ہوتا ہے"
+    },
+    {
+     "k": "B",
+     "en": "active mass is taken in molar concentration",
+     "ur": "ایکٹو ماس کو مولر کنسنٹریشن کی صورت میں لیا جاتا ہے"
+    },
+    {
+     "k": "C",
+     "en": "active mas is represented by square brackets",
+     "ur": "ایکٹو ماس کو اسکوائر بریکٹ سے ظاہر کیا جاتا ہے"
+    },
+    {
+     "k": "D",
+     "en": "active mass means total mass of substance",
+     "ur": "ایکٹو ماس سے مراد اس کے ٹوٹل ماس ہے"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The product of Lewis acid-base reaction is called adduct. The bond between the adduct specie is",
+   "q_ur": "لیوس ایسڈ بیس ری ایکشن سے ایڈکٹ بنتا ہے۔ ایڈکٹ میں پایا جانے والا بانڈ ہوتا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "ionic",
+     "ur": "آئنک"
+    },
+    {
+     "k": "B",
+     "en": "covalent",
+     "ur": "کوویلنٹ"
+    },
+    {
+     "k": "C",
+     "en": "metallic",
+     "ur": "میٹالک"
+    },
+    {
+     "k": "D",
+     "en": "co-ordinate covalent",
+     "ur": "کوآرڈی نیٹ کوویلنٹ"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Natural gas is 85% methane. It is used to make",
+   "q_ur": "قدرتی گیس جو کہ 85% میتھین ہے، سے بنتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "carbon black",
+     "ur": "کاربن بلیک"
+    },
+    {
+     "k": "B",
+     "en": "coke",
+     "ur": "کوک"
+    },
+    {
+     "k": "C",
+     "en": "coal tar",
+     "ur": "کول تار"
+    },
+    {
+     "k": "D",
+     "en": "coal gas",
+     "ur": "کول گیس"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "1.1 - Glucose is",
+   "q_ur": "1.1 - گلوکوز ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "pentahydroxy ketone",
+     "ur": "پینٹا ہائیڈروکسی کیٹون"
+    },
+    {
+     "k": "B",
+     "en": "pentahydroxy aldehyde",
+     "ur": "پینٹا ہائیڈروکسی ایلڈیہائیڈ"
+    },
+    {
+     "k": "C",
+     "en": "hexahydroxy ketone",
+     "ur": "ہیکسا ہائیڈروکسی کیٹون"
+    },
+    {
+     "k": "D",
+     "en": "hexahydroxy aldehyde",
+     "ur": "ہیکسا ہائیڈروکسی ایلڈیہائیڈ"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "General formula of alkyl radical is",
+   "q_ur": "الکائل ریڈیکل کا جنرل فارمولا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "CₙH₂ₙ₊₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CₙH₂ₙ₊₁",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CₙH₂ₙ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CₙH₂ₙ₋₁",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Formula of Urea is",
+   "q_ur": "یوریا کا فارمولا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "NH₂CONH₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NH₂COONH₄",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NH₄COONH₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NH₂CONH₄",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "A disease that causes bone and tooth damage is",
+   "q_ur": "ہڈیوں اور دانتوں کے خراب ہونے کی وجہ کونسی بیماری ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "cholera",
+     "ur": "ہیضہ"
+    },
+    {
+     "k": "B",
+     "en": "fluorosis",
+     "ur": "فلوروسس"
+    },
+    {
+     "k": "C",
+     "en": "hepatitis",
+     "ur": "ہیپاٹائٹس"
+    },
+    {
+     "k": "D",
+     "en": "jaundice",
+     "ur": "یرقان"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "According to the Lewis concept, acid is a substance which can",
+   "q_ur": "لیوس نظریے کے مطابق ایسڈ ایک ایسی شے ہے جو",
+   "options": [
+    {
+     "k": "A",
+     "en": "donate a proton",
+     "ur": "پروٹون دے سکتا ہے"
+    },
+    {
+     "k": "B",
+     "en": "donate a pair of electrons",
+     "ur": "الیکٹرونز کا جوڑا دے سکتا ہے"
+    },
+    {
+     "k": "C",
+     "en": "accept a proton",
+     "ur": "پروٹون قبول کر سکتا ہے"
+    },
+    {
+     "k": "D",
+     "en": "accept a pair of electrons",
+     "ur": "الیکٹرونز کا جوڑا قبول کر سکتا ہے"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "About 99% atmosphere's mass lies within",
+   "q_ur": "ایٹموسفیئر ماس کا تقریباً 99 فیصد کس میں موجود ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "35 Kilometre",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "40 Kilometre",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "45 Kilometre",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "50 Kilometre",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Which gas protects the earth's surface from ultraviolet radiations?",
+   "q_ur": "کون سی گیس زمین کی سطح کو الٹراوائلٹ ریڈی ایشن سے محفوظ رکھتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "CO₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CO",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "O₃",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "N₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Alkenes are prepared from alcohols by a process called",
+   "q_ur": "الکینز (Alkenes) الکحلز سے کس پروسس کے تحت تیار کیا جاتا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "dehydration",
+     "ur": "ڈی ہائیڈریشن"
+    },
+    {
+     "k": "B",
+     "en": "dehydrogenation",
+     "ur": "ڈی ہائیڈروجینیشن"
+    },
+    {
+     "k": "C",
+     "en": "dehalogenation",
+     "ur": "ڈی ہیلوجینیشن"
+    },
+    {
+     "k": "D",
+     "en": "dehydrohalogenation",
+     "ur": "ڈی ہائیڈرو ہیلوجینیشن"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Deficiency of Vitamin D causes",
+   "q_ur": "وٹامن D کی کمی سے کونسی بیماری ہوتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "rickets",
+     "ur": "رکٹس"
+    },
+    {
+     "k": "B",
+     "en": "scurvy",
+     "ur": "سکروی"
+    },
+    {
+     "k": "C",
+     "en": "anemia in babies",
+     "ur": "بچوں میں اینیمیا"
+    },
+    {
+     "k": "D",
+     "en": "night blindness",
+     "ur": "نائٹ بلائنڈنس"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "For a reaction between PCl₃ and Cl₂ to form PCl₅ the units of Kc are",
+   "q_ur": "PCl₃ اور Cl₂ سے PCl₅ بنانے کے لیے Kc کے یونٹس کیا ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "mol dm⁻³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "mol⁻¹ dm³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "mol⁻¹ dm³",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "mol dm³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "The conjugate acid of HPO₄²⁻ is",
+   "q_ur": "HPO₄²⁻ کا کنجوگیٹ ایسڈ ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "PO₄³⁻",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "H₂PO₄⁻",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "H₂PO₄⁻",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "H₃PO₄",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Temporary hardness is because of",
+   "q_ur": "عارضی پانی کی سختی کی وجہ ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ca(HCO₃)₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CaCO₃",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "MgCO₃",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "MgSO₄",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

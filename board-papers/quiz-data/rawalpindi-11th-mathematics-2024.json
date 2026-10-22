@@ -1,0 +1,1130 @@
+{
+ "board": "BISE Rawalpindi",
+ "board_slug": "lahore",
+ "class": "11th",
+ "subject": "Mathematics",
+ "year": 2024,
+ "slug": "rawalpindi-11th-mathematics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Four 4th roots of 625 are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "±4, ±4i",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "±5, ±5i",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "±16, ±16i",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "±25, ±25i",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Partial fractions of (x²+1)/((x+1)(x−1)) are of the form:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A/(x+1) + B/(x−1)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ax/(x+1) + B/(x−1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1 + A/(x+1) + B/(x−1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(Ax+B)/(x+1) + (Cx+D)/(x−1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "A.M between x−3 and x+5 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x+1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x−1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x−3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x+5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "No term of a G.P can be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "i",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "8.7.6 =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "8!/8",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8!/7!",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8!/6!",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8!/5!",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "4ⁿ > 3ⁿ + 4 is true for integers:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "n ≥ 2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "n ≥ 3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "n ≥ 4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "n ≥ 5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "If sinθ < 0 and cosθ > 0, then terminal arm of θ lies in quadrant:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "I",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "II",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "III",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "IV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "(1−cosθ)/2 =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "sinθ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "sin²(θ/2)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "cosθ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "cos²(θ/2)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Range of y = tanx is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−π/2 ≤ y ≤ π/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−∞ < y < ∞",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[partially obscured by watermark on source scan]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−∞ < x < ∞",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "2R sin α =  [(A)–(D) heavily watermarked on source scan; read as shown]",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "r",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "S",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Δ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Sin(cos⁻¹(√3/2)) =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "√3/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/√3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Reference Angle for 1 − 2 sinx = 0 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π/6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "∀ z ∈ C, which one is true:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "z = −z",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "z̄ = −z",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "z̿ = z",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "z̿ = −z",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "A prime number can be factor of a square only if it occurs in it at least:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Once",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Twice",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Thrice",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Four times",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "If A and B are disjoint sets, then A − B =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "B",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "B − A",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "φ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "The converse of ∼ p → q is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "q → ∼ p",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "p → q",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "q → p",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "p → ∼ q",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "p ∧ q is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Conjunction",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Disjunction",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Conditional",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Equivalence",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group I",
+   "q_en": "(AB)^t =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A^t B^t",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A^t B",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "AB",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "B^t A^t",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group I",
+   "q_en": "A square matrix A is anti-symmetric if:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A^t = −A",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A^t = A",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ā = A",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ā = −A",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group I",
+   "q_en": "1 + ω + ω² =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ω",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ω²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "A complex number 1 + i can also be expressed as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2(cos45° + i sin45°)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "√2(cos45° − i sin45°)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√2(cos45° + i sin45°)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2(cos45° − i sin45°)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "If Z is a complex number and Z = Z̄ then Z must be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Real",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Imaginary",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Rational",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Irrational",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "The set {(a, b)} is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Infinite set",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Singleton set",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Empty set",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Set with two elements",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Drawing conclusion from premises believed to be true is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Proposition",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Contradiction",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Induction",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Deduction",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "If p is a logical statement p ∧ ∼p is always:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Absurdity",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Contigency [sic, as printed]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Tautology",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Conditional",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "If A = [a b c], then order of A^t is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 × 3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3 × 1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3 × 3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1 × 1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "If the matrix [[λ, 1], [−2, 1]] is singular then λ =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "IF 4^{3x} = 1/2 then x is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−1/6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "If ω is cube root of unity, then ω + ω² =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/ω",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "From the identity 5x + 4 = A(x−1) + B(x+2), value of B is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Which of the term cannot be a term of G.P:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Σ_{k=1}^n K is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(n+1)/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "n(n+1)/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "n(n+1)(2n+1)/6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "n(n−1)/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "ⁿP_r / r! is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ⁿC_r",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ⁿC_{r−1}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ⁿ⁺¹C_r",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ⁿ⁻¹C_r",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "In expansion of (a + b)^16 middle term will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "11th",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "12th",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8th",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9th",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "Which of the following is NOT Quadrantal angle?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(9/2)π",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "13π",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(4/3)π",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "The angle (3π/2) − θ lies in quadrant:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "I",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "II",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "III",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "IV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "The range of sinx is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[−1, 1]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[−1, 0]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[0, 2]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[−2, 2]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group II",
+   "q_en": "The radius of inscribed circle is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "abc/(4Δ)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "S/Δ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Δ/(S−a) [partially obscured by watermark on source scan]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Δ/S",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group II",
+   "q_en": "Cos(sin⁻¹(1/√2)) is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/√2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−π/4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group II",
+   "q_en": "If sinx = 1/2, then reference angle is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π/3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−π/6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π/6",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

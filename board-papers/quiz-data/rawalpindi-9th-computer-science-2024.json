@@ -1,0 +1,570 @@
+{
+ "board": "BISE Rawalpindi",
+ "board_slug": "lahore",
+ "class": "9th",
+ "subject": "Computer Science",
+ "year": 2024,
+ "slug": "rawalpindi-9th-computer-science-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "______ is a graphical representation of an algorithm.",
+   "q_ur": "______ الگورتھم کا تصویری اظہار ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Matrix",
+     "ur": "کتاب"
+    },
+    {
+     "k": "B",
+     "en": "Graph",
+     "ur": "گراف"
+    },
+    {
+     "k": "C",
+     "en": "Flowchart",
+     "ur": "فلو چارٹ"
+    },
+    {
+     "k": "D",
+     "en": "Solution",
+     "ur": "حل"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Which symbol in the flowchart is used to either start or end the flowchart?",
+   "q_ur": "فلو چارٹ میں کون سی علامت آغاز اور اختتام کے لیے استعمال کی جاتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Terminal",
+     "ur": "ٹرمینل"
+    },
+    {
+     "k": "B",
+     "en": "Connector",
+     "ur": "کنیکٹر"
+    },
+    {
+     "k": "C",
+     "en": "Process",
+     "ur": "پروسیس"
+    },
+    {
+     "k": "D",
+     "en": "Decision",
+     "ur": "فیصلہ سازی"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Expression (A+B).(A+C) is equal to:",
+   "q_ur": "ایکسپریشن (A+B).(A+C) برابر ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "A+(B.C)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A.B + A.C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A.(B.C)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A+(B+C)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "One (1) megabyte is equal to:",
+   "q_ur": "ایک (1) میگا بائٹ برابر ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "1024 TB",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1024 GB",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1024 MB",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1024 KB",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "URL stands for:",
+   "q_ur": "URL مخفف ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Unique resource locator",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Uniform resource locator",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Universal research laboratory",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Universal resource locator",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "In IPv4, there are four groups separated by:",
+   "q_ur": "IPv4 میں چار گروپس ______ سے علیحدہ کیے جاتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "/",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": ",",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": ":",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": ".",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "______ typically involves downloading illegal software.",
+   "q_ur": "______ میں عموماً غیر قانونی سافٹ ویئر ڈاؤن لوڈ کرنا شامل ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Counterfeiting",
+     "ur": "جعل سازی"
+    },
+    {
+     "k": "B",
+     "en": "Hard disk loading",
+     "ur": "ہارڈ ڈسک لوڈنگ"
+    },
+    {
+     "k": "C",
+     "en": "Online piracy",
+     "ur": "آن لائن پائریسی"
+    },
+    {
+     "k": "D",
+     "en": "Client-server over use",
+     "ur": "کلائنٹ سرور اوور یوز"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "______ are the secrets that are playing an important role for the success of a company.",
+   "q_ur": "______ سے مراد وہ راز ہیں جو کسی کمپنی کی کامیابی کے لیے اہم کردار ادا کرتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Copyright law",
+     "ur": "کاپی رائٹ لاء"
+    },
+    {
+     "k": "B",
+     "en": "Trade secret",
+     "ur": "تجارتی راز"
+    },
+    {
+     "k": "C",
+     "en": "Confidentiality & privacy",
+     "ur": "رازداری اور پرائیویسی"
+    },
+    {
+     "k": "D",
+     "en": "Patent",
+     "ur": "پیٹنٹ"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "______ tag marks starting of the paragraph.",
+   "q_ur": "______ ٹیگ ایک پیرا گراف شروع کرنے کے لیے ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "<b>",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "<P>",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "<U>",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "<i>",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "HTML uses ______ tag to underline text.",
+   "q_ur": "______ HTML ٹیگ ٹیکسٹ کے نیچے لائن لگانے کے لیے استعمال ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "<b>",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "<U>",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "<i>",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "<a>",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Which solutions are not reached through proper algorithms planning?",
+   "q_ur": "کس حل کو مناسب الگورتھم پلاننگ سے نہیں سمجھا جاتا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Prepared solution",
+     "ur": "تیار شدہ حل"
+    },
+    {
+     "k": "B",
+     "en": "Candid solution",
+     "ur": "کینڈیڈ حل"
+    },
+    {
+     "k": "C",
+     "en": "Strategized solution",
+     "ur": "حکمت عملی پر مبنی حل"
+    },
+    {
+     "k": "D",
+     "en": "Best solution",
+     "ur": "بہترین حل"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "In a ______ error, the solution is working but not giving required results.",
+   "q_ur": "______ غلطی کی وجہ سے الگورتھم کام تو کرتا ہے مگر درست نتائج نہیں دے رہا ہوتا۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Random error",
+     "ur": "رینڈم ایرر"
+    },
+    {
+     "k": "B",
+     "en": "Logical error",
+     "ur": "لاجیکل ایرر"
+    },
+    {
+     "k": "C",
+     "en": "Syntax error",
+     "ur": "سنٹیکس ایرر"
+    },
+    {
+     "k": "D",
+     "en": "Runtime error",
+     "ur": "رن ٹائم ایرر"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Hexadecimal system has total ______ number.",
+   "q_ur": "ہیکزا ڈیسیمل سسٹم میں ______ نمبر ہوتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "17",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "16",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "18",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "15",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "One (1) petabyte is equal to ______.",
+   "q_ur": "ایک پیٹا بائٹ ______ کے برابر ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "(1024)⁴ byte",
+     "ur": "بائٹ"
+    },
+    {
+     "k": "B",
+     "en": "(1024)⁶ byte",
+     "ur": "بائٹ"
+    },
+    {
+     "k": "C",
+     "en": "(1025)⁵ byte",
+     "ur": "بائٹ"
+    },
+    {
+     "k": "D",
+     "en": "(1024)⁷ byte",
+     "ur": "بائٹ"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The IPV4 address is made up of ______ binary bits:.",
+   "q_ur": "IPV4 ایڈریس ______ بائنری بٹس سے بنتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "31",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "29",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "32",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "30",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "DHCP stands for:",
+   "q_ur": "______ DHCP کا مخفف ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Data hosting computer protocol",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Dynamic host computer protocol.",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Dynamic host configuration protocol.",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Data host configuration protocol",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Which is NOT a type of piracy?",
+   "q_ur": "سافٹ ویئر پائریسی کی قسم نہیں ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Soft lifting",
+     "ur": "سافٹ لفٹنگ"
+    },
+    {
+     "k": "B",
+     "en": "Liability",
+     "ur": "ذمہ داری"
+    },
+    {
+     "k": "C",
+     "en": "Client server over use",
+     "ur": "کلائنٹ سرور اوور یوز"
+    },
+    {
+     "k": "D",
+     "en": "Online piracy",
+     "ur": "آن لائن پائریسی"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Which of the following is NOT cyber crime?",
+   "q_ur": "درج ذیل میں کون سا سائبر کرائم نہیں ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hacking",
+     "ur": "ہیکنگ"
+    },
+    {
+     "k": "B",
+     "en": "Phising crime",
+     "ur": "فشنگ کرائم"
+    },
+    {
+     "k": "C",
+     "en": "Identity theft",
+     "ur": "شناخت چوری"
+    },
+    {
+     "k": "D",
+     "en": "Decryption",
+     "ur": "ڈکرپشن"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "An individual list item which can contain another entire list is called:",
+   "q_ur": "ایک لسٹ جو کہ اپنے اندر ایک اور لسٹ رکھ سکتی ہے کہلاتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ordered list",
+     "ur": "ترتیب وار لسٹ"
+    },
+    {
+     "k": "B",
+     "en": "Unordered list",
+     "ur": "بے ترتیب لسٹ"
+    },
+    {
+     "k": "C",
+     "en": "Nested list",
+     "ur": "نیسٹڈ لسٹ"
+    },
+    {
+     "k": "D",
+     "en": "Definition list",
+     "ur": "تعریفی شدہ لسٹ"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "HTML is not ______ language.",
+   "q_ur": "______ ایک HTML لینگویج نہیں ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Programming",
+     "ur": "پروگرامنگ"
+    },
+    {
+     "k": "B",
+     "en": "Mark up",
+     "ur": "مارک اپ"
+    },
+    {
+     "k": "C",
+     "en": "Hyper text",
+     "ur": "ہائپر ٹیکسٹ"
+    },
+    {
+     "k": "D",
+     "en": "Both B & C",
+     "ur": "B اور C دونوں"
+    }
+   ]
+  }
+ ]
+}

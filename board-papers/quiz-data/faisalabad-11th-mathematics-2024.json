@@ -1,0 +1,1130 @@
+{
+ "board": "BISE Faisalabad",
+ "board_slug": "faisalabad",
+ "class": "11th",
+ "subject": "Mathematics",
+ "year": 2024,
+ "slug": "faisalabad-11th-mathematics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Multiplicative inverse of - i is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "i",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "- i",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "- 1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "If n is prime, then √n is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Rational number",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Whole number",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Natural number",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Irrational number",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "A function f: A → B is surjective if:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Range f = A",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Range f = B",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Range f ≠ A",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Range f ≠ B",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Set of integers is a group with respect to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "+",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "÷",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "×",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Which symbol is used for membership of a set?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "∧",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "∨",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "∈",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "∼",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Transpose of diagonal matrix is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Scalar matrix",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Row matrix",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Null matrix",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Diagonal matrix",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "For any non-singular matrix A, A⁻¹ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "|A| adj (A)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/(|A| adj (A))",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "adj (A)/|A|",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "|A|/adj (A)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "A quadratic equation ax² + bx + c = 0 becomes linear equation if:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "b = 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "c = 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a = b",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "If ω is complex root of unity then value of (3 + ω)(3 + ω²) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "9",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "13",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The improper fraction can be changed into proper fraction by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Addition",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Subtraction",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Multiplication",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Division",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The sequence 3, 6, 12 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A.P",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "G.P",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "H.P",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Arithmetic series",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "If a, b are negative and G.M is also negative then:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "H < A < G",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A < H < G",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "G < A < H",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A < G < H",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "If n is a negative integer then n̲ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Not defined",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "n",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "The number of term in the expansion of (a + b)ⁿ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "n² +1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "n +1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "n -1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "n",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "The 60th part of 1 degree is called one:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Second",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Radian",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Degree",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Minute",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "cot(π - α) = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "sin α",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "cot α",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-cot α",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "tan α",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "The domain of cosx is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[-1,1]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(-π/2, π/2)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "R",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Q",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group I",
+   "q_en": "A circle passing through the three vertices of a triangle is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Circumcircle",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "In-circle",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Escribed circle",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Both A and B",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group I",
+   "q_en": "sin⁻¹(-1/2) = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π/3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-π/6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-π/3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group I",
+   "q_en": "If sinx = cosx, then x = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "30°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "60°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "If sinx = 1/2, then x = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π/6, 5π/6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-π/6, 5π/6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-π/6, -5π/6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π/3, 2π/3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Domain of y = tan⁻¹x is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "R",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Q",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Z",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Angle below the horizontal line is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Right angle",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Oblique angle",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Angle of depression",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Angle of elevation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Period of cosθ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2π",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3π/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "cos(θ - 90°) - cos(θ + 90°) equals to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-2cosθ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2cosθ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-2sinθ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2sinθ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "The angle π/12 in degree measure is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "30°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "20°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "15°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "If n² > n + 3 then it is true for:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "n = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "n < 1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "n ≥ 2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "n ≥ 3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "For an event A, the range of P(A) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0 < P(A) ≤ 1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0 ≤ P(A) < 1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0 ≤ P(A) ≤ 1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0 < P(A) < 1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "If a = 1, b = 5 then A×H is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-5/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2/5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Sum of infinite geometric series is valid if:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "r < 1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "|r| < 1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "|r| = 1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "|r| > 1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "The fraction (x + 1)/(x² + 2) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Proper fraction",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Improper fraction",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Identity",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mixed",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Complex cube roots of -1 are :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ω, ω²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1, ω, ω²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-1, -ω, -ω²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-ω, -ω²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "Sum of all the three cube roots of unity is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "The additive inverse of matrix A is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-A",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "The trivial solution of homogeneous linear equations is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(1, 0,0)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(0, 1, 0)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(0, 0, 1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(0, 0, 0)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "The domain of f = {(a, 1), (b, 1), (c, 1)} is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "{a, b, c}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{1}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{b, c}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{a, b, c, 1}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "A function which is onto is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Injective",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Surjective",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Objective",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Bijective",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group II",
+   "q_en": "The set {(a, b)} is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Infinite set",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Set with two elements",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Singleton set",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Empty set",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group II",
+   "q_en": "Imaginary part of 1/(1 + i) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "i/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-i/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group II",
+   "q_en": "√(-5) belongs to the set of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Rational numbers",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Real numbers",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Complex numbers",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Integers",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

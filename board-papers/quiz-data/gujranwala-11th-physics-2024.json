@@ -1,0 +1,962 @@
+{
+ "board": "BISE Gujranwala",
+ "board_slug": "gujranwala",
+ "class": "11th",
+ "subject": "Physics",
+ "year": 2024,
+ "slug": "gujranwala-11th-physics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "1 - A 2 Kg mass is placed on the floor of an elevator which is moving downward with 4.9 m/s² acceleration, the reaction of floor on the mass is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "9.8 N",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0 N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4.9 N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "14.7 N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Which pair of angles gives same range of projectile thrown with velocity vᵢ",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(20°, 60°)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(20°, 40°)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(30°, 60°)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(30°, 70°)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "For circular motion with constant speed v, ω and r are at",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "90° with each other",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "120° with each other",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "60° with each other",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "30° with each other",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Which of the following is correct",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "in irreversible process entropy remains constant",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "in reversible process entropy increases",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "in reversible process entropy remains constant",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "in irreversible process entropy decreases",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "To observe one hundred fringes in Michelson's interferometer, the distance travelled by moveable mirror will be minimum in case of ____ light.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Red",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Green",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Blue",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Yellow",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "A body in SHM with amplitude xₒ goes from mean position to xₒ/2. Its phase is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "30°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "90°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "î·(ĵ×k̂) = ____",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "î",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ĵ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Two masses 2 Kg and 3 Kg are moving towards each other with velocity 3 m/s and 2 m/s. The total momentum of the system is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "12 Ns",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0 Ns",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "13 Ns",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−12 Ns",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Mass is a highly concentrated form of ____.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Momentum",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Inertia",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Energy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Acceleration",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "A spectrometer is not used to",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "study spectrum of light",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "measure refractive index of material of prism",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "study polarization of light",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "measure wavelength of light",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "If frequency of stationary waves are increased to higher harmonic which of the following decreases",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "speed",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "wavelength",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "tension in the string",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "density of string",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Which is renewable source of energy",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Biomass",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Coal",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Oil",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Uranium",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Heat is transferred slowly to a gas in a cylinder, the piston is pushed up through 4.0 cm at constant pressure of 8000Nm⁻². If cross-sectional area of the piston is 0.10m², work done by the gas is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "32 j",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "64 j",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "16 j",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "96 j",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "The complete requirement for a body to be in equilibrium are",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ΣF⃗=0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ΣF⃗ₓ=0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Στ=0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ΣF⃗=0 and Στ=0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "If the percentage uncertainty in the radius of a sphere is 3%, then percentage uncertainty in its area is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3%",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6%",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "9%",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4%",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "Two points in a wave λ/4 distance apart have phase difference",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2π",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "Bernoulli's equation relates to",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "pressure, speed and height",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "pressure, force and height",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "force, speed and pressure",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "force, height and speed",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "1 - In angular motion, the centripetal force is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "mr²ω²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "m²r²ω",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "mr²ω",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "mrω²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "If temperature of sink increases, the efficiency of Carnot Engine",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "decreases",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "increases",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "remains the same",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "first increases then decreases",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "The detector in photo-phone is made up of",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Germanium",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Selenium",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cadmium",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Silicon",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "The dimensions of the relation √((F×l)/m) are equal to the dimensions of",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Force",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Impulse",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Momentum",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Velocity",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Dot product of force and velocity is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Work",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Momentum",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Power",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Impulse",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "In reversible process the entropy of system",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "increases",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "decreases",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "remains constant",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "becomes zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Newton rings are formed due to",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "diffraction",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "reflection",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "refraction",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "interference",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "The maximum drag force on falling sphere is 9.8 N, its weight is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "9.8 N",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "19.8 N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4.9 N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "49 N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Distance covered by a body in one vibration is 20 cm. The amplitude of vibration will be",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5 cm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10 cm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "15 cm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "20 cm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Torque is the rotational analogous of",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Momentum",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Impulse",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Force",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Power",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "In which quadrant, vector 3î−5ĵ lies?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1st",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2nd",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3rd",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4th",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "A fighter plane is chasing another plane, when it opens fire, its speed",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "increases",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "decreases",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "remains constant",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "first increases then decreases",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "2 revolutions are equal to",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π/2 rad",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π rad",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2π rad",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4π rad",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "Speed of sound is independent of",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "density",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "temperature",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "elasticity",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "pressure",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "The unit of work in base units is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "kg ms²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "kg m²s⁻²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "kg m⁻²s²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "kg m²s²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "Star moving towards the earth shows",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "red shift",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "blue shift",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "yellow shift",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "green shift",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "The distance covered by free falling body in 2 seconds is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "9.8 m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "19.6 m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4.9 m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "49 m",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

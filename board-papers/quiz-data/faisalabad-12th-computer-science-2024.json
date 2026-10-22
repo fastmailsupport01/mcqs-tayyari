@@ -1,0 +1,682 @@
+{
+ "board": "BISE Faisalabad",
+ "board_slug": "faisalabad",
+ "class": "12th",
+ "subject": "Computer Science",
+ "year": 2024,
+ "slug": "faisalabad-12th-computer-science-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Paper",
+   "q_en": "Storage and retrieval of data is related to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Data capturing",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Data manipulation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Managing output results",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Data sorting",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Paper",
+   "q_en": "An attribute is also known as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Record",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Row",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Relation",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Field",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Paper",
+   "q_en": "Organizing the database in computer storage is done in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Logical design",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Physical design",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Analysis",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Implementation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Paper",
+   "q_en": "A functional dependency is a relationship between two:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Entities",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Relations",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Rows",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Attributes",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Paper",
+   "q_en": "A database consists of various components called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Objects",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Properties",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Tools",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Entities",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Paper",
+   "q_en": "The degree of relation refers to the number of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Rows",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Tables",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Fields",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Columns",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Paper",
+   "q_en": "The target code produced by the compiler is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Object code",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Source code",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Library code",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Linked code",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Paper",
+   "q_en": "The symbols that perform operations on data are called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Syntax",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Operands",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Operators",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Rules",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Paper",
+   "q_en": "An ampersand before the name of a variable in scanf ( ) function denotes:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Address",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Actual value",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Format",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Data type",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Paper",
+   "q_en": "Format specifier %5d for the value 8135 will produce the output: [options (B)-(D) show leading blank spaces in the printed output]",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "8135",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[space]8135",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[space][space]8135",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[space][space][space]8135",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Paper",
+   "q_en": "The case block ends with:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "End select",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "End case",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Case else",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Break",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Paper",
+   "q_en": "If X = 5 and Y = 3, the expression ( X > Y ) ? ( X + Y ) : ( X - Y ) ; will display output as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "- 2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Paper",
+   "q_en": "The do-while ( ) loop structure always ends with:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Comma",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Colon",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Break",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Semi-colon",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Paper",
+   "q_en": "The scope of variable refers to its:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Length",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Name",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Accessibility",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Data type",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Paper",
+   "q_en": "On successfully closing a file, the fclose ( ) returns:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Null",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "One",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "File pointer",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Paper",
+   "q_en": "The step-by-step procedure to solve a problems is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Algorithm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Programming",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Control",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Flowchart",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Paper",
+   "q_en": "The bar that contains command needed to work with Visual Basic is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Title Bar",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Status Bar",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Menu Bar",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Scroll Bar",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Paper",
+   "q_en": "The diamond symbol in a flowchart indicates:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Condition",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Input",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Output",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Program",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Paper",
+   "q_en": "Control used to display text or to accept user input is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Label",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Textbox",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Button",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Property",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Paper",
+   "q_en": "Forms and controls are collectively recognized as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Methods",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Properties",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Events",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Objects",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Paper",
+   "q_en": "Relational operators are used to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Compare",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Add",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Multiply",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Divide",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Paper",
+   "q_en": "Form property that displays text in the title bar of the form is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Title",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Header",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Border text",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Caption",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Paper",
+   "q_en": "In Visual Basic, which statement indicates the end of a decision structure?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Next",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "End",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "End if",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Else",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Paper",
+   "q_en": "Which language is used for solving business problems?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "C++",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "COBOL",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "FORTRAN",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Assembly",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

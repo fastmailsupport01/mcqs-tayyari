@@ -1,0 +1,682 @@
+{
+ "board": "BISE Rawalpindi",
+ "board_slug": "lahore",
+ "class": "12th",
+ "subject": "Computer Science",
+ "year": 2024,
+ "slug": "rawalpindi-12th-computer-science-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Part - I (Objective)",
+   "q_en": "In an ER diagram, the rectangle represents:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Attribute",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Entity",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Record",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Relationship",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Part - I (Objective)",
+   "q_en": "In 3NF, a non-key attribute must not depend on a:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Key attribute",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Composite attribute",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Primary attribute",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Non-key attribute",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Part - I (Objective)",
+   "q_en": "The output of the query is in the form of a:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Form",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Object",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Table",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Report",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Part - I (Objective)",
+   "q_en": "In MS Access, text type allows maximum number of characters up to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "254",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "255",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "260",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "266",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Part - I (Objective)",
+   "q_en": "Select a data model which is more flexible among others:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Network data model",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Hierarchical model",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Logical data model",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Relational data model",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Part - I (Objective)",
+   "q_en": "In a table, each primary key value should be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Unique",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Summarized",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Non-unique",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Null",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Part - I (Objective)",
+   "q_en": "Format specifier %.3f for the value of −.005 will produce output:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "□.005",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−.005",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "□−.005",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−0.005",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Part - I (Objective)",
+   "q_en": "Select a statement which is used for making two-way decision:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Switch",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "If – else",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "If",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "nested if",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Part - I (Objective)",
+   "q_en": "Consider x = 12 and y = 13, the output of the expression x > y ? x + y : x − y; will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "25",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "15",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Part - I (Objective)",
+   "q_en": "Select the loop in which condition is written before the body of the loop:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "do – while loop",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "wend loop",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "infinite loop",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "while loop",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Part - I (Objective)",
+   "q_en": "Local variables are created in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hard disk",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ROM",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "RAM",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cache",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Part - I (Objective)",
+   "q_en": "On successfully closing a file, the fclose( ) returns:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Null",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Part - I (Objective)",
+   "q_en": "A program that combines object program with additional object files is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Linker",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Loader",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Preprocessor",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Interpreter",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Part - I (Objective)",
+   "q_en": "An equivalent expression to a /= b is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "b /= a",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a =/ b",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a = a/b",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "b = b/a",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Part - I (Objective)",
+   "q_en": "Select format specifier that displays character on the screen:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "% d",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "% f",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "% c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "% X",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Part - I (Objective)",
+   "q_en": "Select the operator used for string concatenation:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "– (Under score)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "& (Ampersand)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "/ (slash)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "+ (plus sign)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Part - I (Objective)",
+   "q_en": "In VB which statement is used to declare variable:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sub",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Dim",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Identifier",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Event",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Part - I (Objective)",
+   "q_en": "The entire select case construct is terminated with:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "End Select",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Case Else",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "End if",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Stop select",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Part - I (Objective)",
+   "q_en": "The statement that will immediately terminate a For …. Next loop is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "End for",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Exit loop",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "End loop",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Exit for",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Part - I (Objective)",
+   "q_en": "Select a control which is invisible at run time:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Label",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Image",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Timer",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Drive List Box",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Part - I (Objective)",
+   "q_en": "A window that requires the user to take some action before the focus can move to another form:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Modelessly",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Modal",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Modular",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Module",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Part - I (Objective)",
+   "q_en": "The rectangle symbol in flow chart indicates:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Process",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Input",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Output",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Condition",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Part - I (Objective)",
+   "q_en": "In Visual Basic, a form is another name for:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Tool",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Property",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Object",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Code",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Part - I (Objective)",
+   "q_en": "The property that changes text color is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Back color",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Font color",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Fore color",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Text color",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

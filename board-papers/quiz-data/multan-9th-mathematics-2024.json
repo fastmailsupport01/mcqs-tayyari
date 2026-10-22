@@ -1,0 +1,850 @@
+{
+ "board": "BISE Multan",
+ "board_slug": "lahore",
+ "class": "9th",
+ "subject": "Mathematics",
+ "year": 2024,
+ "slug": "multan-9th-mathematics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Symbol of ratio is _____.",
+   "q_ur": "نسبت کے لیے علامت استعمال ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": ":",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "∴",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "∵",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "::.",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Find the area: [square 4 cm × 4 cm]",
+   "q_ur": "رقبہ معلوم کریں۔ [مربع 4 سینٹی میٹر × 4 سینٹی میٹر]",
+   "options": [
+    {
+     "k": "A",
+     "en": "4cm²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8cm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "16cm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "16cm²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "_____ congruent triangles can be made by joining the mid-points of the sides of a triangle.",
+   "q_ur": "ایک مثلث کے اضلاع کے وسطی نقطوں کو ملانے سے _____ مثلثیں بنائی جاسکتی ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Two",
+     "ur": "دو"
+    },
+    {
+     "k": "B",
+     "en": "Three",
+     "ur": "تین"
+    },
+    {
+     "k": "C",
+     "en": "Four",
+     "ur": "چار"
+    },
+    {
+     "k": "D",
+     "en": "Five",
+     "ur": "پانچ"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Which is one of the associative law under multiplication?",
+   "q_ur": "ان میں سے کون سا ایک قانون تلازم ضرب ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "AB = BA",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(AB)C = A(BC)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A(B + C) = AB + AC",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A(B − C) = AB − AC",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Write ∛x² in exponential form.",
+   "q_ur": "∛x² کو قوت نمائی شکل میں لکھیے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "x²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x⁷",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x^(7/2)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x^(2/7)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Find the value of x from log₃ x = 4:",
+   "q_ur": "log₃ x = 4 میں x کی قیمت _____ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "12",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "64",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "81",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.12",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Order of the surd ∛x is _____.",
+   "q_ur": "مذکورہ √x∛ کی قوت _____ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "5/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2/5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "What will be added to complete the square of 9a² − 12ab?",
+   "q_ur": "9a² − 12ab کو مکمل مربع بنانے کے لیے اس میں کیا جمع کریں گے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "4b²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "16b²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−16b²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−4b²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "H.C.F of a² − b² and a³ − b³ is _____.",
+   "q_ur": "a² − b² اور a³ − b³ کا H.C.F _____ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "a² + ab + b²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a + b",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a − b",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a² − ab + b²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Which of the following is the solution of the inequality 3 − 4x ≤ 11?",
+   "q_ur": "درج ذیل میں سے کون سا نابرابری 3 − 4x ≤ 11 کا حل ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "−8",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−14/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": "ان میں سے کوئی بھی نہیں"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "If (x, 0) = (0, y) then (x, y) is:",
+   "q_ur": "اگر (x, 0) = (0, y) ہو تو (x, y) _____ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "(0, 0)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(1, 0)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(0, 1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(1, 1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "A triangle having all sides equal is called:",
+   "q_ur": "ایسی مثلث جس کے تینوں اضلاع برابر ہوں _____ کہلاتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Isoceles",
+     "ur": "تساوی الساقین"
+    },
+    {
+     "k": "B",
+     "en": "Scalene",
+     "ur": "مختلف الاضلاع"
+    },
+    {
+     "k": "C",
+     "en": "Equilateral",
+     "ur": "مساوی الاضلاع"
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": "ان میں سے کوئی بھی نہیں"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "How many end points of a ray?",
+   "q_ur": "ایک شعاع کے کتنے سرے ہوتے ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "Medians of a triangle are _____.",
+   "q_ur": "مثلث کے وسطانیے _____ ہوتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Equal",
+     "ur": "برابر"
+    },
+    {
+     "k": "B",
+     "en": "Congruent",
+     "ur": "ہم مثلث"
+    },
+    {
+     "k": "C",
+     "en": "Concurrent",
+     "ur": "ہم نقط"
+    },
+    {
+     "k": "D",
+     "en": "Parallel",
+     "ur": "متوازی"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "The bisectors of the angles of a triangle are _____.",
+   "q_ur": "کسی مثلث کے زاویوں کے ناصف _____ ہوتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Equal",
+     "ur": "برابر"
+    },
+    {
+     "k": "B",
+     "en": "Perpendicular",
+     "ur": "عمودی"
+    },
+    {
+     "k": "C",
+     "en": "Equal distance",
+     "ur": "برابر فاصلہ"
+    },
+    {
+     "k": "D",
+     "en": "Concurrent",
+     "ur": "ہم نقط"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "The symbol used for \"is congruent to:\"",
+   "q_ur": "کے \"مطابق ہے\" کے لیے علامت استعمال ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "≅",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "≈",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "↔",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "→.",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Medians of triangle are _____.",
+   "q_ur": "مثلث کے وسطانیے _____ ہوتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Parallel",
+     "ur": "متوازی"
+    },
+    {
+     "k": "B",
+     "en": "Concurrent",
+     "ur": "ہم نقط"
+    },
+    {
+     "k": "C",
+     "en": "Equal",
+     "ur": "برابر"
+    },
+    {
+     "k": "D",
+     "en": "Congruent",
+     "ur": "ہم مثلث"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "The right bisectors of the sides of right triangle intersect each other on the ____.",
+   "q_ur": "قائمۃ الزاویہ مثلث کے اضلاع کے عمودی ناصف ایک دوسرے کو _____ پر قطع کرتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Perpendicular",
+     "ur": "عمود"
+    },
+    {
+     "k": "B",
+     "en": "Base",
+     "ur": "قاعدہ"
+    },
+    {
+     "k": "C",
+     "en": "Hypotenuse",
+     "ur": "وتر"
+    },
+    {
+     "k": "D",
+     "en": "Inside",
+     "ur": "اندر"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Similar triangles are of same shape but ____ sizes.",
+   "q_ur": "متشابہ مثلثان کی شکل ایک جیسی لیکن ان کے سائز _____ ہوتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Different",
+     "ur": "مختلف"
+    },
+    {
+     "k": "B",
+     "en": "Similar",
+     "ur": "ایک جیسے"
+    },
+    {
+     "k": "C",
+     "en": "Large",
+     "ur": "بڑے"
+    },
+    {
+     "k": "D",
+     "en": "Small",
+     "ur": "چھوٹے"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Area of parallelogram is equal to product of base and _____.",
+   "q_ur": "کسی متوازی الاضلاع کا رقبہ اس کے قاعدہ اور _____ کے حاصل ضرب کے برابر ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Width",
+     "ur": "چوڑائی"
+    },
+    {
+     "k": "B",
+     "en": "Length",
+     "ur": "لمبائی"
+    },
+    {
+     "k": "C",
+     "en": "Distance",
+     "ur": "فاصلہ"
+    },
+    {
+     "k": "D",
+     "en": "Altitude",
+     "ur": "ارتفاع"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "A quadrilateral having each angle equal to 90° is called _____.",
+   "q_ur": "ایک چوکور جس کا ہر زاویہ 90° ہو _____ کہلاتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Parallelogram",
+     "ur": "متوازی الاضلاع"
+    },
+    {
+     "k": "B",
+     "en": "Trapezium",
+     "ur": "ذوزنقہ"
+    },
+    {
+     "k": "C",
+     "en": "Rectangle",
+     "ur": "مستطیل"
+    },
+    {
+     "k": "D",
+     "en": "Rhombus",
+     "ur": "معین"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Adjoint of [2 2; 0 −2] is equal to:",
+   "q_ur": "Adj [2 2; 0 −2] برابر ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "[2 −2; 0 −2]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[−2 −2; 0 −2]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[0 2; 2 −2]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[−2 −2; 0 2]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "The conjugate of −3 − 4i is _____.",
+   "q_ur": "−3 − 4i کا کانجوگیٹ _____ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "−3 + 4i",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3 − 4i",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−3 − 4i",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3 + 4i",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "The value of log(p/q)² is _____.",
+   "q_ur": "log(p/q)² کی قیمت _____ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "log p² − log q²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2[log p − log q]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2[log p + log q]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "log(p − q)²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "(a³ − b³)/(a − b) is equal to:",
+   "q_ur": "(a³ − b³)/(a − b) برابر ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "(a + b)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(a − b)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a² − ab + b²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a² + ab + b²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "What will be added to complete the square of 9a² − 12ab?",
+   "q_ur": "9a² − 12ab کو مکمل مربع بنانے کے لیے اس میں کیا جمع کریں گے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "−16b²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "16b²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4b²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−4b²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "L.C.M of 15x², 45xy and 30xyz is _____.",
+   "q_ur": "15x², 45xy اور 30xyz کا ذواضعاف اقل _____ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "90xyz",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "90x²yz",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "15xyz",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "15x²yz",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "If x is no longer than 10, then:",
+   "q_ur": "اگر x کی قیمت 10 سے زیادہ نہ ہو:",
+   "options": [
+    {
+     "k": "A",
+     "en": "x ≤ 10",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x ≥ 8",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x < 10",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x > 10",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "Point (−3, −3) lies in quadrant:",
+   "q_ur": "نقطہ (−3, −3) _____ ربع میں ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "I",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "II",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "III",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "IV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "Distance between points (0, 0) and (1, 1) is _____.",
+   "q_ur": "نقطہ (0,0) اور (1,1) کے درمیان فاصلہ _____ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√2",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

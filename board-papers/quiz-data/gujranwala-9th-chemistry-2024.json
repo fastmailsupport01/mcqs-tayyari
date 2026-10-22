@@ -1,0 +1,682 @@
+{
+ "board": "BISE Gujranwala",
+ "board_slug": "gujranwala",
+ "class": "9th",
+ "subject": "Chemistry",
+ "year": 2024,
+ "slug": "gujranwala-9th-chemistry-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "1.1 - Out of the following, ______ is less malleable metal.",
+   "q_ur": "1.1 - درج ذیل میں سے جو دھات کم میلے ایبل ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sodium",
+     "ur": "سوڈیم"
+    },
+    {
+     "k": "B",
+     "en": "Iron",
+     "ur": "آئرن"
+    },
+    {
+     "k": "C",
+     "en": "Gold",
+     "ur": "گولڈ"
+    },
+    {
+     "k": "D",
+     "en": "Silver",
+     "ur": "سلور"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "______ of the following gases diffuses faster.",
+   "q_ur": "ان میں سے ______ گیس تیزی سے ڈیفیوز کرتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hydrogen",
+     "ur": "ہائیڈروجن"
+    },
+    {
+     "k": "B",
+     "en": "Nitrogen",
+     "ur": "نائٹروجن"
+    },
+    {
+     "k": "C",
+     "en": "Chlorine",
+     "ur": "کلورین"
+    },
+    {
+     "k": "D",
+     "en": "Fluorine",
+     "ur": "فلورین"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "______ is the compound which is not soluble in water.",
+   "q_ur": "درج ذیل میں سے ______ کمپاؤنڈ پانی میں حل پذیر نہیں ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "KBr",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NaCl",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "C₆H₆",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "MgCl₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The most common example of corrosion is",
+   "q_ur": "کوروشن کی سب سے عام مثال ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "chemical decay",
+     "ur": "کیمیکل ڈی کمپوز"
+    },
+    {
+     "k": "B",
+     "en": "rusting of iron",
+     "ur": "لوہے کو زنگ لگنا"
+    },
+    {
+     "k": "C",
+     "en": "rusting of aluminium",
+     "ur": "ایلومینیم کو زنگ لگنا"
+    },
+    {
+     "k": "D",
+     "en": "rusting of tin",
+     "ur": "ٹن کو زنگ لگنا"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Molarity is the number of moles of solute dissolved in",
+   "q_ur": "مولریٹی سولیوٹ کے مولز کی وہ تعداد ہے جو حل شدہ ہو",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 Kg of solution",
+     "ur": "سلوشن کے 1 کلوگرام میں"
+    },
+    {
+     "k": "B",
+     "en": "100 g of solvent",
+     "ur": "سلونٹ کے 100 گرام میں"
+    },
+    {
+     "k": "C",
+     "en": "1 dm³ of solvent",
+     "ur": "سلونٹ کے 1 dm³ میں"
+    },
+    {
+     "k": "D",
+     "en": "1 dm³ of solution",
+     "ur": "سلوشن کے 1 dm³ میں"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "In the redox reaction between Zn and HCl, oxidizing agent is",
+   "q_ur": "زنک اور ہائیڈروکلورک ایسڈ کے درمیان ریڈاکس (Redox) ری ایکشن کے دوران ______ آکسیڈائزنگ ایجنٹ ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zn",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cl⁻",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "H⁺",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "H₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "______ moles are equivalent to 8 grams of CO₂.",
+   "q_ur": "CO₂ کے 8 گرام اس کے ______ مولز کے برابر ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.15",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.21",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.28",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.18",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "A bond pair in Covalent molecules usually has",
+   "q_ur": "کوویلنٹ مالیکیول میں موجود بانڈ پیئر عموماً رکھتا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 electron",
+     "ur": "1 الیکٹرون"
+    },
+    {
+     "k": "B",
+     "en": "2 electrons",
+     "ur": "2 الیکٹرونز"
+    },
+    {
+     "k": "C",
+     "en": "3 electrons",
+     "ur": "3 الیکٹرونز"
+    },
+    {
+     "k": "D",
+     "en": "4 electrons",
+     "ur": "4 الیکٹرونز"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Butter is an example of solution",
+   "q_ur": "مکھن جس سلوشن کی مثال ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "gas in solid",
+     "ur": "ٹھوس میں گیس"
+    },
+    {
+     "k": "B",
+     "en": "liquid in solid",
+     "ur": "ٹھوس میں مائع"
+    },
+    {
+     "k": "C",
+     "en": "solid in liquid",
+     "ur": "مائع میں ٹھوس"
+    },
+    {
+     "k": "D",
+     "en": "liquid in gas",
+     "ur": "گیس میں مائع"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "One amu (atomic mass unit) is equivalent to",
+   "q_ur": "ایک amu (ایٹامک ماس یونٹ) جس کے برابر ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.66x10⁻²⁴ mg",
+     "ur": "1.66x10⁻²⁴ ملی گرام"
+    },
+    {
+     "k": "B",
+     "en": "1.66x10⁻²⁴ g",
+     "ur": "1.66x10⁻²⁴ گرام"
+    },
+    {
+     "k": "C",
+     "en": "1.66x10⁻²⁴ Kg",
+     "ur": "1.66x10⁻²⁴ کلوگرام"
+    },
+    {
+     "k": "D",
+     "en": "1.66x10⁻²³ g",
+     "ur": "1.66x10⁻²³ گرام"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "From the following scientists ______ discovered the proton.",
+   "q_ur": "درج ذیل سائنسدانوں میں سے جس نے پروٹون دریافت کیا",
+   "options": [
+    {
+     "k": "A",
+     "en": "Goldstein",
+     "ur": "گولڈ سٹائن"
+    },
+    {
+     "k": "B",
+     "en": "J.J Thomson",
+     "ur": "جے۔جے تھامسن"
+    },
+    {
+     "k": "C",
+     "en": "Neil Bohr",
+     "ur": "نیل بوہر"
+    },
+    {
+     "k": "D",
+     "en": "Rutherford",
+     "ur": "ردرفورڈ"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Out of the following halogens, ______ has the lowest electronegativity.",
+   "q_ur": "مندرجہ ذیل میں سے جس ہیلوجن کی الیکٹرونیگیٹیویٹی سب سے کم ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "Fluorine",
+     "ur": "فلورین"
+    },
+    {
+     "k": "B",
+     "en": "Chlorine",
+     "ur": "کلورین"
+    },
+    {
+     "k": "C",
+     "en": "Bromine",
+     "ur": "برومین"
+    },
+    {
+     "k": "D",
+     "en": "Iodine",
+     "ur": "آئیوڈین"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "1.1 - Out of the following, ______ is a weak electrolyte.",
+   "q_ur": "1.1 - درج ذیل میں سے ______ کمزور الیکٹرولائٹ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "NaCl in water",
+     "ur": "پانی میں NaCl"
+    },
+    {
+     "k": "B",
+     "en": "NaOH in water",
+     "ur": "پانی میں NaOH"
+    },
+    {
+     "k": "C",
+     "en": "H₂SO₄ in water",
+     "ur": "پانی میں H₂SO₄"
+    },
+    {
+     "k": "D",
+     "en": "CH₃COOH in water",
+     "ur": "پانی میں CH₃COOH"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Out of the following, ______ solutions contain less water.",
+   "q_ur": "ان میں سے جس سلوشن میں پانی کم ہوتا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "2M",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1M",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.5M",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.25M",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "______ of the following motions is possessed by solid particles",
+   "q_ur": "ٹھوس پارٹیکلز میں پائی جانے والی موشن ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "rotational motion",
+     "ur": "روٹیشنل موشن"
+    },
+    {
+     "k": "B",
+     "en": "vibrational motion",
+     "ur": "وائبریشنل موشن"
+    },
+    {
+     "k": "C",
+     "en": "translational motion",
+     "ur": "ٹرانسلیشنل موشن"
+    },
+    {
+     "k": "D",
+     "en": "non-vibrational motion",
+     "ur": "نان-وائبریشنل موشن"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "The Empirical Formula of Benzene is",
+   "q_ur": "بنزین کا ایمپیریکل فارمولا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "C₆H₆",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CH",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "HO",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "C₆H₁₂O₆",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Mist is an example of solution",
+   "q_ur": "دھند جس سلوشن کی مثال ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "liquid in gas",
+     "ur": "گیس میں مائع"
+    },
+    {
+     "k": "B",
+     "en": "gas in liquid",
+     "ur": "مائع میں گیس"
+    },
+    {
+     "k": "C",
+     "en": "solid in gas",
+     "ur": "گیس میں ٹھوس"
+    },
+    {
+     "k": "D",
+     "en": "gas in solid",
+     "ur": "ٹھوس میں گیس"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "When U-235 breaks up, it produces",
+   "q_ur": "جب یورینیم - 235 ٹوٹتا ہے تو اس سے پیدا ہوتا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "electrons",
+     "ur": "الیکٹرونز"
+    },
+    {
+     "k": "B",
+     "en": "protons",
+     "ur": "پروٹونز"
+    },
+    {
+     "k": "C",
+     "en": "neutrons",
+     "ur": "نیوٹرونز"
+    },
+    {
+     "k": "D",
+     "en": "positrons",
+     "ur": "پوزیٹرونز"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "In a period, ______ remains same.",
+   "q_ur": "ایک پیریڈ میں ان میں سے ______ ایک جیسی رہتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Shielding Effect",
+     "ur": "شیلڈنگ ایفیکٹ"
+    },
+    {
+     "k": "B",
+     "en": "Atomic Radius",
+     "ur": "ایٹامک ریڈیس"
+    },
+    {
+     "k": "C",
+     "en": "Ionization Energy",
+     "ur": "آئیونائزیشن انرجی"
+    },
+    {
+     "k": "D",
+     "en": "Electron Affinity",
+     "ur": "الیکٹرون افینیٹی"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "______ of the following molecules is diatomic.",
+   "q_ur": "درج ذیل میں ______ ڈائی ایٹامک مالیکیول ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "H₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "O₃",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "H₂O",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CO₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Out of the following compounds, ______ is not directional in its bonding.",
+   "q_ur": "درج ذیل میں سے ______ بانڈنگ کے لحاظ سے غیر سمتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "CH₄",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "KBr",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CO₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "H₂O",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Melting point of Sodium Chloride is",
+   "q_ur": "سوڈیم کلورائیڈ کا میلٹنگ پوائنٹ ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "800⁰C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "900⁰C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1000⁰C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1413⁰C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Out of the following non-metals, ______ is lustrous.",
+   "q_ur": "درج ذیل میں سے ______ نان میٹل چمکدار ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sulphur",
+     "ur": "سلفر"
+    },
+    {
+     "k": "B",
+     "en": "Phosphorus",
+     "ur": "فاسفورس"
+    },
+    {
+     "k": "C",
+     "en": "Iodine",
+     "ur": "آئیوڈین"
+    },
+    {
+     "k": "D",
+     "en": "Carbon",
+     "ur": "کاربن"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "The oxidation number of Sulphur in H₂SO₄ is",
+   "q_ur": "H₂SO₄ میں سلفر کا آکسیڈیشن نمبر ہوتا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "+ 2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "+ 4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "+ 6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "+ 8",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

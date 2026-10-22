@@ -1,0 +1,570 @@
+{
+ "board": "BISE Faisalabad",
+ "board_slug": "faisalabad",
+ "class": "10th",
+ "subject": "Computer Science",
+ "year": 2024,
+ "slug": "faisalabad-10th-computer-science-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "An \"if\" statement inside another \"if\" statement is called ____ structure.",
+   "q_ur": "اگر \"if\" سٹیٹمنٹ کے اندر ایک اور \"if\" سٹیٹمنٹ ہو تو یہ سٹرکچر کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nested",
+     "ur": "نیسٹڈ"
+    },
+    {
+     "k": "B",
+     "en": "Boxed",
+     "ur": "باکسڈ"
+    },
+    {
+     "k": "C",
+     "en": "Repeated",
+     "ur": "ریپیٹڈ"
+    },
+    {
+     "k": "D",
+     "en": "Decomposed",
+     "ur": "ڈی کمپوزڈ"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "What is output of the code? int y = 14 % 3 ;",
+   "q_ur": "int y = 14 % 3 ; کوڈ کی آؤٹ پٹ کیا ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Which operator has highest precedence?",
+   "q_ur": "کس آپریٹر کی ترجیح سب سے زیادہ ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "/",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "=",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": ">",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "!",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "____ are added in the source code to further explain the techniques and algorithms used by the programmer.",
+   "q_ur": "____ کو سورس کوڈ میں پروگرام کے استعمال کئے گئے الگورتھم اور طریقے کار کی مزید وضاحت کرنے کے لئے استعمال کیا جاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Messages",
+     "ur": "پیغامات"
+    },
+    {
+     "k": "B",
+     "en": "Hints",
+     "ur": "اشارے"
+    },
+    {
+     "k": "C",
+     "en": "Comments",
+     "ur": "کمنٹس"
+    },
+    {
+     "k": "D",
+     "en": "Explanations",
+     "ur": "وضاحتیں"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Every programming language has some primitive building blocks and follows some grammar rules known as its:",
+   "q_ur": "ہر پروگرامنگ لینگویج میں کچھ ابتدائی تعمیراتی عناصر ہوتے ہیں اور گرامر کے کچھ اصولوں کے پابند ہوتے ہیں جنہیں ____ کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Programming rules",
+     "ur": "پروگرامنگ رولز"
+    },
+    {
+     "k": "B",
+     "en": "Syntax",
+     "ur": "سینٹیکس"
+    },
+    {
+     "k": "C",
+     "en": "Building blocks",
+     "ur": "تعمیراتی عناصر"
+    },
+    {
+     "k": "D",
+     "en": "Semantic rules",
+     "ur": "سیمانٹک عناصر"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "____ means to transfer the control to another function.",
+   "q_ur": "____ سے مراد کوڈ کو ایک فنکشن میں ٹرانسفر کرنا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Calling",
+     "ur": "کالنگ"
+    },
+    {
+     "k": "B",
+     "en": "Defining",
+     "ur": "ڈیفائننگ"
+    },
+    {
+     "k": "C",
+     "en": "Re-writing",
+     "ur": "ری رائٹنگ"
+    },
+    {
+     "k": "D",
+     "en": "Including",
+     "ur": "انکلوڈنگ"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "char cd ( ) {return 'a'}. In this function \"char\" is:",
+   "q_ur": "char cd ( ) { return 'a' } اس فنکشن میں \"char\" ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Body",
+     "ur": "باڈی"
+    },
+    {
+     "k": "B",
+     "en": "Return type",
+     "ur": "ریٹرن ٹائپ"
+    },
+    {
+     "k": "C",
+     "en": "Array",
+     "ur": "ارے"
+    },
+    {
+     "k": "D",
+     "en": "Arguments",
+     "ur": "آرگیومنٹس"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "____ part of for loop is executed first.",
+   "q_ur": "for لوپ کا ____ حصہ سب سے پہلے چلتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Condition",
+     "ur": "کنڈیشن"
+    },
+    {
+     "k": "B",
+     "en": "Body",
+     "ur": "باڈی"
+    },
+    {
+     "k": "C",
+     "en": "Initialization",
+     "ur": "انیشلائزیشن"
+    },
+    {
+     "k": "D",
+     "en": "Increment / decrement",
+     "ur": "انکریمنٹ / ڈیکریمنٹ"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Using loops inside loops is called ____ loops.",
+   "q_ur": "لوپس کے اندر لوپس کے استعمال کو ____ لوپس کہا جاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "for",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "while",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "do-while",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "nested",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "What is output of the code? int x = 7 + 3 * ( 12 + 2 ) ;",
+   "q_ur": "int x = 7 + 3 * ( 12 + 2 ) ; کوڈ کی آؤٹ پٹ کیا ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "49",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "47",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "45",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "44",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "____ converts source program into machine code.",
+   "q_ur": "سورس پروگرام کو مشین کوڈ میں تبدیل کرتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Compiler",
+     "ur": "کمپائلر"
+    },
+    {
+     "k": "B",
+     "en": "Debugger",
+     "ur": "ڈی بگر"
+    },
+    {
+     "k": "C",
+     "en": "Editor",
+     "ur": "ایڈیٹر"
+    },
+    {
+     "k": "D",
+     "en": "Loader",
+     "ur": "لوڈر"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "____ symbol is used for single line comment.",
+   "q_ur": "سنگل لائن کمنٹ کے لئے علامت استعمال ہوتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "#",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "*",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "//",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "*/",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Output of printf ( \" %d \" , 10 = = 10 ) ; is ____ .",
+   "q_ur": "printf ( \" %d \" , 10 = = 10 ) ; کی آؤٹ پٹ کیا ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "20",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "getch ( ) function is used for:",
+   "q_ur": "getch ( ) فنکشن کے لئے استعمال ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Character input",
+     "ur": "کریکٹر ان پٹ"
+    },
+    {
+     "k": "B",
+     "en": "Character output",
+     "ur": "کریکٹر آؤٹ پٹ"
+    },
+    {
+     "k": "C",
+     "en": "Library",
+     "ur": "لائبریری"
+    },
+    {
+     "k": "D",
+     "en": "Header file",
+     "ur": "ہیڈر فائل"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Code after else statement will be executed when if condition is:",
+   "q_ur": "else سٹیٹمنٹ کے بعد صرف تب ایگزیکیوٹ ہوگا: تو ہوگا if کنڈیشن:",
+   "options": [
+    {
+     "k": "A",
+     "en": "True",
+     "ur": "درست"
+    },
+    {
+     "k": "B",
+     "en": "False",
+     "ur": "غلط"
+    },
+    {
+     "k": "C",
+     "en": "Similar",
+     "ur": "ایک جیسی"
+    },
+    {
+     "k": "D",
+     "en": "Different",
+     "ur": "مختلف"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "If int p = 21 ; which statement will be true?",
+   "q_ur": "اگر int p = 21 ; ہو تو ان میں کون سی سٹیٹمنٹ درست ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "if ( p % 2 = = 0 ) ;",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "if ( p % 3 = = 0 ) ;",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "if ( p % 6 = = 0 ) ;",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "if ( p % 5 = = 0 ) ;",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "____ is a unique identifier used to refer to an array.",
+   "q_ur": "____ ایسا یونیک شناخت کنندہ ہے جو ارے کو ریفر کرنے کے لئے استعمال ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Array data type",
+     "ur": "ارے ڈیٹا ٹائپ"
+    },
+    {
+     "k": "B",
+     "en": "Array index",
+     "ur": "ارے انڈیکس"
+    },
+    {
+     "k": "C",
+     "en": "Array size",
+     "ur": "ارے کا سائز"
+    },
+    {
+     "k": "D",
+     "en": "Array name",
+     "ur": "ارے کا نام"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "C-language provides ____ types of loops.",
+   "q_ur": "C-لینگویج ____ طرح کے لوپ مہیا کرتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "The values passed to a function are called:",
+   "q_ur": "فنکشن کو پاس کی گئی قیمتیں کہلاتی ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Statements",
+     "ur": "سٹیٹمنٹس"
+    },
+    {
+     "k": "B",
+     "en": "Arguments",
+     "ur": "آرگیومنٹس"
+    },
+    {
+     "k": "C",
+     "en": "Comments",
+     "ur": "کمنٹس"
+    },
+    {
+     "k": "D",
+     "en": "Numbers",
+     "ur": "نمبرز"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "The advantage of using functions are:",
+   "q_ur": "فنکشن کو استعمال کرنے کا فائدہ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Compiling",
+     "ur": "کمپائلنگ"
+    },
+    {
+     "k": "B",
+     "en": "Executing",
+     "ur": "ایگزیکیوٹنگ"
+    },
+    {
+     "k": "C",
+     "en": "Reusability",
+     "ur": "ری یوزیبلیٹی"
+    },
+    {
+     "k": "D",
+     "en": "Coding",
+     "ur": "کوڈنگ"
+    }
+   ]
+  }
+ ]
+}

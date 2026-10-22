@@ -1,0 +1,570 @@
+{
+ "board": "BISE Multan",
+ "board_slug": "lahore",
+ "class": "9th",
+ "subject": "Computer Science",
+ "year": 2024,
+ "slug": "multan-9th-computer-science-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "_____ means making illegal and unauthorized copies of the software without owner's permission.",
+   "q_ur": "_____ کا مطلب ہے مالک کی اجازت کے بغیر سافٹ ویئر کی غیر قانونی، غیر مجاز شدہ نقل تیار کرنا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Piracy",
+     "ur": "پائریسی"
+    },
+    {
+     "k": "B",
+     "en": "Privacy",
+     "ur": "پرائیویسی"
+    },
+    {
+     "k": "C",
+     "en": "Right",
+     "ur": "رائٹ"
+    },
+    {
+     "k": "D",
+     "en": "Browsing",
+     "ur": "براؤزنگ"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Some companies sell software with a confidential text, called the _____.",
+   "q_ur": "کچھ کمپنیاں سافٹ ویئر ایک خفیہ تحریر کے ساتھ فروخت کرتی ہیں جسے _____ کہتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Password",
+     "ur": "پاس ورڈ"
+    },
+    {
+     "k": "B",
+     "en": "Key of that software",
+     "ur": "سافٹ ویئر کی کی"
+    },
+    {
+     "k": "C",
+     "en": "Encryption",
+     "ur": "خفیہ کاری"
+    },
+    {
+     "k": "D",
+     "en": "Description",
+     "ur": "بیانیہ"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "How many types of tags are there in HTML document?",
+   "q_ur": "HTML ڈاکیومنٹ میں کتنی طرح کے ٹیگز ہوتے ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "There are _____ headings in HTML document.",
+   "q_ur": "HTML ڈاکیومنٹ میں _____ قسم کی ہیڈنگ ہو سکتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Which solution is not reached through proper algorithm planning?",
+   "q_ur": "کس حل کو مناسب الگورتھم پلاننگ سے نہیں لکھا جاتا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Best solution",
+     "ur": "بہترین حل"
+    },
+    {
+     "k": "B",
+     "en": "Prepared solution",
+     "ur": "تیار شدہ حل"
+    },
+    {
+     "k": "C",
+     "en": "Candid solution",
+     "ur": "کینڈڈ حل"
+    },
+    {
+     "k": "D",
+     "en": "Strategized solution",
+     "ur": "حکمت عملی پر مبنی حل"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "How many W's are necessary to understand a problem?",
+   "q_ur": "ایک مسئلہ کو سمجھنے کے لیے کتنے ڈبلیوز ضروری ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Decimal number system has total _____ digits.",
+   "q_ur": "اعشاری نمبر سسٹم میں کل _____ اعداد ہوتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "16",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Petabyte is equal to _____ bytes.",
+   "q_ur": "پیٹا بائٹ _____ کے برابر ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "(1024)⁵",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(1024)⁴",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(1024)⁶",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(1024)⁷",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "E-mail stands for _____.",
+   "q_ur": "ای میل _____ کا مخفف ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electronic message",
+     "ur": "الیکٹرونک میسج"
+    },
+    {
+     "k": "B",
+     "en": "Electronic medium",
+     "ur": "الیکٹرونک میڈیم"
+    },
+    {
+     "k": "C",
+     "en": "Electronic mail",
+     "ur": "الیکٹرونک میل"
+    },
+    {
+     "k": "D",
+     "en": "Electrical mail",
+     "ur": "الیکٹریکل میل"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "TCP/IP model has _____ layers.",
+   "q_ur": "TCP/IP ماڈل کی _____ لیئرز ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Sender is also called _____.",
+   "q_ur": "ترسیل کنندہ کو _____ بھی کہتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Receiver",
+     "ur": "وصول کنندہ"
+    },
+    {
+     "k": "B",
+     "en": "Header",
+     "ur": "ہیڈر"
+    },
+    {
+     "k": "C",
+     "en": "Source",
+     "ur": "سورس"
+    },
+    {
+     "k": "D",
+     "en": "Storage",
+     "ur": "سٹوریج"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "DHCP stands for _____.",
+   "q_ur": "DHCP _____ کا مخفف ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Data Hosting Computer Protocol",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Dynamic Host Computer Protocol",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Dynamite House Converter protocol",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Dynamic Host Configuration Protocol",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "To keep data correct is called:",
+   "q_ur": "ڈیٹا کو درست رکھنا کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Integrity",
+     "ur": "صداقت"
+    },
+    {
+     "k": "B",
+     "en": "Encryption",
+     "ur": "خفیہ کاری"
+    },
+    {
+     "k": "C",
+     "en": "Patent",
+     "ur": "پیٹنٹ"
+    },
+    {
+     "k": "D",
+     "en": "Key",
+     "ur": "کی"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Which is not the characteristic of phishing email?",
+   "q_ur": "کون سی فشنگ ای میل کی خوبی نہیں ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Official data breach notification",
+     "ur": "سرکاری ڈیٹا کی خلاف ورزی کی اطلاع"
+    },
+    {
+     "k": "B",
+     "en": "Email account update",
+     "ur": "ای میل اکاؤنٹ اپ ڈیٹ"
+    },
+    {
+     "k": "C",
+     "en": "IT reminder",
+     "ur": "آئی ٹی یاددہانی"
+    },
+    {
+     "k": "D",
+     "en": "Similar domain of actual website",
+     "ur": "اصل ویب سائٹ کی ڈومین"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The _____ element is container for meta data.",
+   "q_ur": "_____ اپنے اندر میٹا ڈیٹا رکھتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "<body>",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "<head>",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "<title>",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "<html>",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "A hyperlink can be applied to _____.",
+   "q_ur": "ایک ہائپر لنک کو ہم _____ پر لگا سکتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Image",
+     "ur": "تصویر"
+    },
+    {
+     "k": "B",
+     "en": "Text",
+     "ur": "ٹیکسٹ"
+    },
+    {
+     "k": "C",
+     "en": "Both A and B",
+     "ur": "دونوں A اور B"
+    },
+    {
+     "k": "D",
+     "en": "Attributes",
+     "ur": "ایٹری بیوٹ"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "_____ is a graphical representation of an algorithm.",
+   "q_ur": "_____ الگورتھم کا ایک تصویری اظہار ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Matrix",
+     "ur": "قالب"
+    },
+    {
+     "k": "B",
+     "en": "Graph",
+     "ur": "گراف"
+    },
+    {
+     "k": "C",
+     "en": "Flowchart",
+     "ur": "فلو چارٹ"
+    },
+    {
+     "k": "D",
+     "en": "Solution",
+     "ur": "حل"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "In flowchart, ▭ symbol is used to show a:",
+   "q_ur": "فلو چارٹ میں ▭ کی علامت _____ کو ظاہر کرتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Flow line",
+     "ur": "فلو لائن"
+    },
+    {
+     "k": "B",
+     "en": "Terminal",
+     "ur": "ٹرمینل"
+    },
+    {
+     "k": "C",
+     "en": "Decision",
+     "ur": "فیصلہ سازی"
+    },
+    {
+     "k": "D",
+     "en": "Process",
+     "ur": "عمل"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Hexa decimal number system has total _____ numbers.",
+   "q_ur": "ہیکسا ڈیسیمل نمبر سسٹم میں کل _____ اعداد ہوتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "15",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "16",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "17",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "18",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Number (15)₁₀ is equal to _____ in binary system.",
+   "q_ur": "بائنری سسٹم میں نمبر (15)₁₀ _____ کے برابر ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1111₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1110₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1101₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1100₂",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

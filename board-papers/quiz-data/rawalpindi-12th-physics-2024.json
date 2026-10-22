@@ -1,0 +1,962 @@
+{
+ "board": "BISE Rawalpindi",
+ "board_slug": "rawalpindi",
+ "class": "12th",
+ "subject": "physics",
+ "year": 2024,
+ "slug": "rawalpindi-12th-physics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "One henry is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "VS⁻¹A⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "VSA⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "VS⁻¹A",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "V⁻¹SA",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "When motor is overloaded, the magnitude of back emf is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Constant",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Increases",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Decreases",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Infinite",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "In capacitor circuit phase between current and charge is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Parallel",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "In phase",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Anti parallel",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Out of phase",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "At resonance frequency the impedence of RLC series circuit is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Minimum",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Maximum",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Both (A) and (B)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Infinite",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Which has least hysteresis loop area?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Soft iron",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Steel",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Wrought iron",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cobalt",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "During negative half cycle of A.C., p−n junction has:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Low resistance",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "No resistance",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "High resistance",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Remain same",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Device which converts low voltage or current to high voltage or current is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Rectifier",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Transformer",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Inductor",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Amplifier",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The momentum of photon is represented by the equation:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "p = mv",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "p = h/λ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "p = λ/h",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "p = hλ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The energy needed by photon to create electron-positron pair is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.02 MeV",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.52 MeV",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.051 MeV",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.51 MeV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Bremsstrahlung radiations are example of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Molecular spectra",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Atomic spectra",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Continuous spectra",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Discrete spectra",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "1 rem is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.1 SV",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.01 SV",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2.04 SV",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3.06 SV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Radiotherapy is generally done with γ-rays emitted from:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Iodine-131",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Strontium-90",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Sodium-24",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cobalt-60",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Charge on the Droplet can be calculated by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "q = mg/vd",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "q = v/mgd",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "q = mgd/v",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "q = d/mgd",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "If the distance between two charges is halved, Force becomes:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "One fourth",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Four times",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Half",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Double",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "The minimum power is delivered to across the resistor R, when:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "r = ∞",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "r = 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "r = R",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "r = R/4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "A positive charge is moving away from observer. Direction of magnetic induction will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Anticlockwise",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Towards right",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Towards left",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Clockwise",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "Shunt resistance is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Low resistance",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "High resistance",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Zero resistance",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Impedence",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "The rest mass of photon is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.67 × 10⁻²⁷ kg",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.67 × 10⁻³¹ kg",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9.1 × 10⁻³¹ kg",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "X-rays are also known as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cathode rays",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Positive rays",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "r-rays",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Alpha rays",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "The atomic number of ⁵⁶Ba¹⁴¹ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "141",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "56",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "85",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "92",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "One unified mass scale (1U) is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.66 × 10⁻¹⁹ kg",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.66 × 10⁻²⁷ kg",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.66 × 10⁻³¹ kg",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.66 × 10⁻²⁸ kg",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Value of dielectric constant for vacuum is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Less than 1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Greater than 1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "One",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Gold band on resistor represent its tolerance equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "±10%",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "±5%",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "±15%",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "±20%",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "An apparatus placed within a metal enclosure is \"shielded\" from:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electric field",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Magnetic field",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Gravitational field",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Electromagnetic field",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "The SI unit of magnetic induction is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Weber",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Tesla",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Newton",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Joule",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "The sensitivity of Galvanometer can be increased by decreasing:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "C/BAN",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "B/ACN",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CB/AN",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NC/AB",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "The minus sign in Faraday's law of electromagnetic induction shows that the direction of induced emf is such that it opposes the change in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electric flux",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Electromagnetic flux",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Gravitational flux",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Magnetic flux",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "The emf induced in a generator is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "NωAB Sinθ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NωIB Sinθ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NAB Sinθ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NωB Sinθ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "If I₀ is the peak value of A.C current, its average value over a complete cycle is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "√2 I₀",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "I₀/√2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√(I₀/2)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "The value of angular frequency \"ω\" is equivalent to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2πT",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4πf",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2πf",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "πf",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "Based on the geometrical structure and arrangement of atoms, there are ____ crystal systems:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "The potential barrier for the Geⁿ at room temperature is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.7 v",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.0 v",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.6 v",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.3 v",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "The mathematical notation for exclusive OR operation is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "X = overline{A+B}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "X = A B̄ + B Ā",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "X = overline{AB} + BA",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "X = overline{A−B}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "The photoelectric effect explained by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Darission",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Gerwer",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Hertz",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Einstein",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

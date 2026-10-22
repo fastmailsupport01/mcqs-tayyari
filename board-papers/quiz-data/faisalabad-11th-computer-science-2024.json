@@ -1,0 +1,430 @@
+{
+ "board": "BISE Faisalabad",
+ "board_slug": "faisalabad",
+ "class": "11th",
+ "subject": "Computer Science",
+ "year": 2024,
+ "slug": "faisalabad-11th-computer-science-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Paper",
+   "q_en": "A collection of related web pages is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Web-link",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Website",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Internet",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Linking",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Paper",
+   "q_en": "To calculate average of cells D2, D3, D4; the formula is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "= (D2+D4)/3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "= D2+D3+D4/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "= (D2+D3+D4)/3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "= (D2,D3,D4)/3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Paper",
+   "q_en": "If the custom format is # , ### then 2500 will be displayed as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "25,00",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2,500",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2500",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2,50",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Paper",
+   "q_en": "How many orientation types are available in MS-Word?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Paper",
+   "q_en": "In DOS, a user communicates with the operating system by issuing:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Instructions",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Procedure",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Routines",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Commands",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Paper",
+   "q_en": "Which is the most damaging loss to a company?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Loss of hardware",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Loss of data",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Loss of software",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Loss of print outs",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Paper",
+   "q_en": "A computer bus consists of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Registers",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Accumulators",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Parallel lines",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Bits",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Paper",
+   "q_en": "The memory cells are logically organized into groups of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4 bits",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8 bits",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "16 bits",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "32 bits",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Paper",
+   "q_en": "Many products are designed by using:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ATM",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ROBOT",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CAM",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CAD",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Paper",
+   "q_en": "The signals produced by a computer to send over phone line must be converted to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Analog",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Digital",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Low",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "High",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Paper",
+   "q_en": "How many characters ASCII 7-bit code can represent?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "16",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "32",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "128",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "256",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Paper",
+   "q_en": "Which is an internet protocol?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Token Ring",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ethernet",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "TCP / IP",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ARCnet",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Paper",
+   "q_en": "Which network covers a large area?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "WAN",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "LAN",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "PAN",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "MAN",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Paper",
+   "q_en": "The type of conversion in which both new and old systems operate together for a period of time is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Direct",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Parallel",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Phased",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Pilot",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Paper",
+   "q_en": "The output of printer is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Soft copy",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Photocopy",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Duplicate copy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Hard copy",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

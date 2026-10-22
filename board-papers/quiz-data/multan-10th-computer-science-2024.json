@@ -1,0 +1,570 @@
+{
+ "board": "BISE Multan",
+ "board_slug": "lahore",
+ "class": "10th",
+ "subject": "Computer Science",
+ "year": 2024,
+ "slug": "multan-10th-computer-science-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "_____ part of for loop is executed first.",
+   "q_ur": "for لوپ کا کون سا حصہ سب سے پہلے چلتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Body",
+     "ur": "باڈی"
+    },
+    {
+     "k": "B",
+     "en": "Condition",
+     "ur": "کنڈیشن"
+    },
+    {
+     "k": "C",
+     "en": "Increment",
+     "ur": "اضافہ"
+    },
+    {
+     "k": "D",
+     "en": "Initialization",
+     "ur": "انیشلائزیشن"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Functions could be built-in or _____.",
+   "q_ur": "فنکشن بلٹ ان یا _____ ہو سکتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Admin defined",
+     "ur": "ایڈمن ڈیفائنڈ"
+    },
+    {
+     "k": "B",
+     "en": "User defined",
+     "ur": "یوزر ڈیفائنڈ"
+    },
+    {
+     "k": "C",
+     "en": "Server defined",
+     "ur": "سرور ڈیفائنڈ"
+    },
+    {
+     "k": "D",
+     "en": "Related defined",
+     "ur": "ریلیٹڈ ڈیفائنڈ"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "A function can return _____.",
+   "q_ur": "ایک فنکشن _____ ریٹرن کر سکتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "One value",
+     "ur": "ایک قیمت"
+    },
+    {
+     "k": "B",
+     "en": "Two values",
+     "ur": "دو قیمتیں"
+    },
+    {
+     "k": "C",
+     "en": "Three values",
+     "ur": "تین قیمتیں"
+    },
+    {
+     "k": "D",
+     "en": "Many values",
+     "ur": "کئی قیمتیں"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Include statements are written in _____ section.",
+   "q_ur": "Include سٹیٹمنٹس _____ سیکشن میں لکھی جاتی ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Header",
+     "ur": "ہیڈر"
+    },
+    {
+     "k": "B",
+     "en": "Main",
+     "ur": "مین"
+    },
+    {
+     "k": "C",
+     "en": "Comments",
+     "ur": "کمنٹس"
+    },
+    {
+     "k": "D",
+     "en": "Print",
+     "ur": "پرنٹ"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "_____ are the values that do not change during the execution of program.",
+   "q_ur": "_____ وہ قیمتیں ہیں جو پروگرام کے چلنے کے دوران تبدیل نہیں ہوتیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Variables",
+     "ur": "متغیرات"
+    },
+    {
+     "k": "B",
+     "en": "Constants",
+     "ur": "کانسٹینٹس"
+    },
+    {
+     "k": "C",
+     "en": "Strings",
+     "ur": "سٹرنگز"
+    },
+    {
+     "k": "D",
+     "en": "Comments",
+     "ur": "کمنٹس"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The expression 11%2 has answer:",
+   "q_ur": "ایکسپریشن 11%2 کا جواب ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "11",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Which operator has highest precedence among these?",
+   "q_ur": "ان میں سے کس آپریٹر کی ترجیح سب سے زیادہ ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "*",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "=",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "<",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "!",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "An if-statement inside another if-statement is called:",
+   "q_ur": "اگر if سٹیٹمنٹ کے اندر ایک اور if سٹیٹمنٹ ہو تو یہ ترکیب کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Boxed",
+     "ur": "بوکسڈ"
+    },
+    {
+     "k": "B",
+     "en": "Repeated",
+     "ur": "رپیٹڈ"
+    },
+    {
+     "k": "C",
+     "en": "Nested",
+     "ur": "نیسٹڈ"
+    },
+    {
+     "k": "D",
+     "en": "Data",
+     "ur": "ڈیٹا"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "What is the output of following code?\nint x = 3, y = 7;\nif (x > y)\n  printf(\"%d\", x);\nelse\n  printf(\"%d\", y);",
+   "q_ur": "درج ذیل کوڈ کی آؤٹ پٹ کیا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "An array is a _____ structure.",
+   "q_ur": "ارے ایک _____ سٹرکچر ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Loop",
+     "ur": "لوپ"
+    },
+    {
+     "k": "B",
+     "en": "Control",
+     "ur": "کنٹرول"
+    },
+    {
+     "k": "C",
+     "en": "Data",
+     "ur": "ڈیٹا"
+    },
+    {
+     "k": "D",
+     "en": "Conditional",
+     "ur": "مشروط"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Array elements are stored at _____ memory locations?",
+   "q_ur": "ارے کے ایلیمنٹس میموری کے مقامات _____ پر محفوظ ہوتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Contiguous",
+     "ur": "مسلسل"
+    },
+    {
+     "k": "B",
+     "en": "Scattered",
+     "ur": "بکھرے ہوئے"
+    },
+    {
+     "k": "C",
+     "en": "Divided",
+     "ur": "تقسیم شدہ"
+    },
+    {
+     "k": "D",
+     "en": "Random",
+     "ur": "رینڈم"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "The values passed to a function are called _____.",
+   "q_ur": "فنکشن کو پاس کی گئی قیمتیں _____ کہلاتی ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Bodies",
+     "ur": "باڈیز"
+    },
+    {
+     "k": "B",
+     "en": "Return types",
+     "ur": "ریٹرن ٹائپس"
+    },
+    {
+     "k": "C",
+     "en": "Arrays",
+     "ur": "ایریز"
+    },
+    {
+     "k": "D",
+     "en": "Arguments",
+     "ur": "آرگیومنٹس"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "The advantages of using functions are _____.",
+   "q_ur": "فنکشنز کو استعمال کرنے کے فوائد _____ ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Readability",
+     "ur": "پڑھنے جانے کی صلاحیت"
+    },
+    {
+     "k": "B",
+     "en": "Compiling",
+     "ur": "کمپائلنگ"
+    },
+    {
+     "k": "C",
+     "en": "Executing",
+     "ur": "ایگزیکیوٹنگ"
+    },
+    {
+     "k": "D",
+     "en": "Printing",
+     "ur": "پرنٹنگ"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "_____ are the values that do not change during the whole execution of program.",
+   "q_ur": "_____ وہ قیمتیں ہیں جو پروگرام کے چلتے ہوئے تبدیل نہیں ہوتیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Variables",
+     "ur": "متغیرات"
+    },
+    {
+     "k": "B",
+     "en": "Constants",
+     "ur": "کانسٹینٹس"
+    },
+    {
+     "k": "C",
+     "en": "Strings",
+     "ur": "سٹرنگز"
+    },
+    {
+     "k": "D",
+     "en": "Comments",
+     "ur": "کمنٹس"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Each variable has a unique name that is called _____.",
+   "q_ur": "ہر متغیر کا ایک منفرد نام ہوتا ہے جسے _____ کہتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Compiler",
+     "ur": "کمپائلر"
+    },
+    {
+     "k": "B",
+     "en": "IDE",
+     "ur": "آئی ڈی ای"
+    },
+    {
+     "k": "C",
+     "en": "Identifier",
+     "ur": "ایڈنٹی فائر"
+    },
+    {
+     "k": "D",
+     "en": "Editor",
+     "ur": "ایڈیٹر"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Which operator has the highest precedence among the given?",
+   "q_ur": "دیئے گئے کس آپریٹر کی ترجیح سب سے زیادہ ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "||",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "=",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "%",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "!",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "What will be the value of \"i\" after the given statement?\nint i = 4 + 3.9;",
+   "q_ur": "دی گئی سٹیٹمنٹ کے بعد \"i\" کی مقدار کیا ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "7.9",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8.0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "7",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Conditional logic helps in _____?",
+   "q_ur": "کنڈیشنل لاجک _____ میں مدد دیتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Decisions",
+     "ur": "فیصلوں"
+    },
+    {
+     "k": "B",
+     "en": "Iterations",
+     "ur": "تکراروں"
+    },
+    {
+     "k": "C",
+     "en": "Traversing",
+     "ur": "ٹریورسنگ"
+    },
+    {
+     "k": "D",
+     "en": "Reversing",
+     "ur": "ریورسنگ"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "What will be the output of the given code?\nif ( 0 < 1 )\n  printf (\"1\");\nelse\n  printf (\"0\");",
+   "q_ur": "دیئے گئے کوڈ کی آؤٹ پٹ کیا ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "\"1\"",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "\"0\"",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Using loops inside loops is called _____ loops?",
+   "q_ur": "لوپس کے اندر لوپس کا استعمال _____ لوپس کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "for",
+     "ur": "for"
+    },
+    {
+     "k": "B",
+     "en": "while",
+     "ur": "while"
+    },
+    {
+     "k": "C",
+     "en": "do-while",
+     "ur": "do-while"
+    },
+    {
+     "k": "D",
+     "en": "nested",
+     "ur": "نیسٹڈ"
+    }
+   ]
+  }
+ ]
+}

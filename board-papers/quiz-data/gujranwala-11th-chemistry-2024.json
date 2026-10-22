@@ -1,0 +1,962 @@
+{
+ "board": "BISE Gujranwala",
+ "board_slug": "gujranwala",
+ "class": "11th",
+ "subject": "Chemistry",
+ "year": 2024,
+ "slug": "gujranwala-11th-chemistry-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "1 - Gooch Crucible is made up of",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "glass",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "porcelain",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "rubber",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "plastic",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The pH of 10⁻³ moles/dm³ of an aqueous solution of H₂SO₄ is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3.0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2.7",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2.0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Enzyme used for hydrolysis of sucrose is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "invertase",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "urease",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "lipase",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "zymase",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The partial pressure of Oxygen in lungs is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "159 torr",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "116 torr",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "130 torr",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "140 torr",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The voltage of Silver Oxide battery is about",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.5 V",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2 V",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2.5 V",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3 V",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The change in heat energy of chemical reaction at constant temperature and pressure is called",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "enthalpy change",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "heat of sublimation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "bond energy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "internal energy change",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Allotropy is the property of",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "compound",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "mixture",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "element",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "molecule",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Bond angle of NF₃ is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "102°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "104°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "109.5°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "120°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "A solution of glucose is 10% w/v. The volume in which its 1g mole is dissolved will be",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 dm³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.8 dm³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "200 cm³",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "900 cm³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Decolourizing agent used in crystallization is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "P₂O₅",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "animal charcoal",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "KMnO₄",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CCl₄",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The number of isotopes of Nickle are",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "7",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Number of molecules in 1dm³ of water is close to",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "6.02/22.4×10²³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "12.04/22.4×10²³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "18/22.4×10²³",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "55.5×6.02×10²³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Splitting of spectral lines when atoms are subjected to strong electric field is called",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zeeman's effect",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Stark effect",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "photoelectric effect",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Compton effect",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "Bond order of O₂ according to MOT is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "(n + l) value for 4p orbital is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "7",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "Which of following will have Hydrogen bonding in its molecules",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "C₂H₅OH",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CCl₄",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "I₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NaCl",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "The empirical formula of glucose C₆H₁₂O₆ is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "C₆H₁₂O₆",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CHO",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CH₂O",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CH₂O₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "1 - The compound which can undergo sublimation is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "KMnO₄",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CaCO₃",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NH₄Cl",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Na₂CO₃",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "For which system does the equilibrium constant (Kc) has units of (concentration)⁻¹?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "N₂ + 3H₂ ⇌ 2NH₃",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "H₂ + I₂ ⇌ 2HI",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2NO₂ ⇌ N₂O₄",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2HF ⇌ H₂ + F₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "The unit of the rate constant is the same as that of the rate of reaction in",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "first order reaction",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "second order reaction",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "third order reaction",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "zero order reaction",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "At room temperature, the rate of diffusion of N₂ and CO is same, because",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "both are diatomic gases",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "both are non-polar gases",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "both have multiple bonds",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "both have same molar mass",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "In the reaction K₂Cr₂O₇ + 14HCl → 2KCl + 2CrCl₃ + 3Cl₂ + 7H₂O the oxidation state of Cr changes from",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "+1 to +7",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "+6 to +3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "+7 to −1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "+2 to +3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "For the reaction NaOH + HCl → NaCl + H₂O , the change in enthalpy is called",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "heat of reaction",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "heat of neutralization",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "heat of formation",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "heat of combustion",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Which of the following is not a pseudo solid?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Glass",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "rubber",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NaCl",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "plastics",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Which of the following compounds has the highest percentage of ionic character?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "HI",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "HBr",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "HCl",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "HF",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Which of the following solutions has the highest boiling point?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5.85% solution of NaCl",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "18.0% solution of C₆H₁₂O₆",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6.0% solution of Urea",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "all have the same boiling points",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Solvent extraction method is a particularly useful technique for separation when the product to be separated is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "volatile or thermally stable",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "volatile or thermally unstable",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "non- volatile or thermally unstable",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "non- volatile or thermally stable",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "The total number of covalent bonds in 4.5 g of water is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "6.02 × 10²³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6.02 × 10²²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3.01 × 10²²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3.01 × 10²³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "The deviation of a gas from ideal behaviour is maximum at",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−10°C and 5.0 atm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−10°C and 2.0 atm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "100°C and 2.0 atm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0°C and 2.0 atm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "When 6d orbital is complete, the entering electron goes into",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "7f",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "7s",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7p",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "7d",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "The geometry of NH₃ is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "linear",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "trigonal planar",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "tetrahedral",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "trigonal pyramidal",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "The velocity of photon is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "independent on its wavelength",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "depends on its wavelength",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "equal to square of its amplitude",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "depends on its source",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "In order to keep the boiling point of water at 110°C, the external pressure should be",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "between 200 torr and 760 torr",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "between 760 torr and 1200 torr",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "765 torr",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "below 765 torr",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "The largest number of molecules are present in",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3.6 g of H₂O",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4.8 g of C₂H₅OH",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2.8 g of CO",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5.4 g of N₂O₅",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

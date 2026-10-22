@@ -1,0 +1,570 @@
+{
+ "board": "BISE Faisalabad",
+ "board_slug": "faisalabad",
+ "class": "9th",
+ "subject": "Computer Science",
+ "year": 2024,
+ "slug": "faisalabad-9th-computer-science-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Which symbol in flowchart is used for decision?",
+   "q_ur": "فلو چارٹ میں کون سی علامت فیصلہ سازی کے لئے استعمال ہوتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Rectangle",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Circle",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Diamond",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Double arrow",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Which solutions are not reached through proper algorithm planning?",
+   "q_ur": "کس حل کو مناسب الگورتھم پلاننگ سے نہیں سمجھا جاتا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Prepared solution",
+     "ur": "تیار شدہ حل"
+    },
+    {
+     "k": "B",
+     "en": "Candid solution",
+     "ur": "کینڈیڈ سلوشن"
+    },
+    {
+     "k": "C",
+     "en": "Strategized solution",
+     "ur": "حکمت عملی پر مبنی حل"
+    },
+    {
+     "k": "D",
+     "en": "Best solution",
+     "ur": "بہترین حل"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Number \"(17)₁₀\" is equal to ______ in binary system.",
+   "q_ur": "بائنری سسٹم میں نمبر \"(17)₁₀\" ______ کے برابر ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "10000",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10100",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10110",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10001",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Example of volatile memory is:",
+   "q_ur": "وولاٹائل میموری کی مثال ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hard disk drive",
+     "ur": "ہارڈ ڈسک ڈرائیو"
+    },
+    {
+     "k": "B",
+     "en": "Flash drive",
+     "ur": "فلیش ڈرائیو"
+    },
+    {
+     "k": "C",
+     "en": "Memory card",
+     "ur": "میموری کارڈ"
+    },
+    {
+     "k": "D",
+     "en": "RAM",
+     "ur": "ریم"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The receiver must be capable of accepting the:",
+   "q_ur": "پیغام وصول کنندہ ______ قبول کرنے کے قابل ہونا چاہیے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Protocol",
+     "ur": "پروٹوکول"
+    },
+    {
+     "k": "B",
+     "en": "Message",
+     "ur": "پیغام"
+    },
+    {
+     "k": "C",
+     "en": "Address",
+     "ur": "ایڈریس"
+    },
+    {
+     "k": "D",
+     "en": "Information",
+     "ur": "معلومات"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Who accesses services made available by a server computer?",
+   "q_ur": "سرور کمپیوٹر کی فراہم کردہ سہولیات کون حاصل کرتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Area",
+     "ur": "ایریا"
+    },
+    {
+     "k": "B",
+     "en": "Path",
+     "ur": "راستہ"
+    },
+    {
+     "k": "C",
+     "en": "Server",
+     "ur": "سرور"
+    },
+    {
+     "k": "D",
+     "en": "Client",
+     "ur": "کلائنٹ"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Which does not include in the types of software piracy?",
+   "q_ur": "ان میں کیا سافٹ ویئر پائریسی کی اقسام میں شامل نہیں ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Softlifting",
+     "ur": "سافٹ لفٹنگ"
+    },
+    {
+     "k": "B",
+     "en": "Liability",
+     "ur": "ذمہ داری"
+    },
+    {
+     "k": "C",
+     "en": "Client server over use",
+     "ur": "کلائنٹ سرور اوور یوز"
+    },
+    {
+     "k": "D",
+     "en": "Online piracy",
+     "ur": "آن لائن پائریسی"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Which cyber-attack makes machine or network resource unavailable for a user?",
+   "q_ur": "کونسا سائبر اٹیک ہے جو کسی مشین یا نیٹ ورک وسائل کو صارف کے استعمال کے نا قابل بنا دیتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "ARMY",
+     "ur": "آرمی"
+    },
+    {
+     "k": "B",
+     "en": "Phishing",
+     "ur": "فشنگ"
+    },
+    {
+     "k": "C",
+     "en": "Machine",
+     "ur": "مشین"
+    },
+    {
+     "k": "D",
+     "en": "Denial of Service (DoS)",
+     "ur": "ڈینائل آف سروس"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "An HTML element usually consists of ______ tags.",
+   "q_ur": "ایک HTML عنصر عام طور پر ______ ٹیگز پر مشتمل ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Start",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "End",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Start and End",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Middle",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "An individual list item can contain another entire list is called:",
+   "q_ur": "ایک لسٹ جو کہ اپنے اندر ایک اور لسٹ رکھ سکتی ہے، کہلاتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ordered list",
+     "ur": "ترتیب دار لسٹ"
+    },
+    {
+     "k": "B",
+     "en": "Unordered list",
+     "ur": "بے ترتیب لسٹ"
+    },
+    {
+     "k": "C",
+     "en": "Nested list",
+     "ur": "نیسٹڈ لسٹ"
+    },
+    {
+     "k": "D",
+     "en": "Definition list",
+     "ur": "وضاحتی لسٹ"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Router is a device of which type?",
+   "q_ur": "روٹر کس قسم کی ڈیوائس آلہ ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Protocol",
+     "ur": "پروٹوکول"
+    },
+    {
+     "k": "B",
+     "en": "Software",
+     "ur": "سافٹ ویئر"
+    },
+    {
+     "k": "C",
+     "en": "Storage",
+     "ur": "سٹوریج"
+    },
+    {
+     "k": "D",
+     "en": "Networking",
+     "ur": "نیٹ ورکنگ"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Making illegal copies of software is called:",
+   "q_ur": "سافٹ ویئر کی غیر قانونی نقول بنانا ______ کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Piracy",
+     "ur": "پائریسی"
+    },
+    {
+     "k": "B",
+     "en": "Patent",
+     "ur": "پیٹنٹ"
+    },
+    {
+     "k": "C",
+     "en": "Softlifting",
+     "ur": "سافٹ لفٹنگ"
+    },
+    {
+     "k": "D",
+     "en": "Hacking",
+     "ur": "ہیکنگ"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Which is not characteristics of phishing website?",
+   "q_ur": "ان میں کون سی فشنگ ویب سائٹ کی خوبی نہیں ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Similar domain of actual website",
+     "ur": "اصل ویب سائٹ جیسی ڈومین"
+    },
+    {
+     "k": "B",
+     "en": "Using of forms to collect visitors",
+     "ur": "زائرین کو جمع کرنے کے لئے فارم کا استعمال"
+    },
+    {
+     "k": "C",
+     "en": "Actual link to web content",
+     "ur": "ویب مواد سے اصل لنک"
+    },
+    {
+     "k": "D",
+     "en": "E-mail account updates",
+     "ur": "ای میل اکاؤنٹ اپڈیٹس"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "HTML is not a ______ language.",
+   "q_ur": "HTML کوڈ ایک ______ لینگویج نہیں ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Programming",
+     "ur": "پروگرامنگ"
+    },
+    {
+     "k": "B",
+     "en": "Markup",
+     "ur": "مارک اپ"
+    },
+    {
+     "k": "C",
+     "en": "Graphic",
+     "ur": "گرافک"
+    },
+    {
+     "k": "D",
+     "en": "Security",
+     "ur": "سیکیورٹی"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Webpage can be created and modified by using:",
+   "q_ur": "ویب پیج ______ کا استعمال کرتے ہوئے بنایا اور تبدیل کیا جاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Notepad ++",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Notepad",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Text edit",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "______ is a graphical representation of algorithm.",
+   "q_ur": "الگورتھم کا ایک تصویری اظہار ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Matrix",
+     "ur": "قالب"
+    },
+    {
+     "k": "B",
+     "en": "Graph",
+     "ur": "گراف"
+    },
+    {
+     "k": "C",
+     "en": "Flowchart",
+     "ur": "فلو چارٹ"
+    },
+    {
+     "k": "D",
+     "en": "Solution",
+     "ur": "حل"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Before problem solving, we need to first ______ a problem.",
+   "q_ur": "کسی مسئلے کو حل کرنے سے پہلے اس کا ______ کرنا چاہیے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Check",
+     "ur": "چیک"
+    },
+    {
+     "k": "B",
+     "en": "Test",
+     "ur": "ٹیسٹ"
+    },
+    {
+     "k": "C",
+     "en": "Analyze",
+     "ur": "تجزیہ"
+    },
+    {
+     "k": "D",
+     "en": "Output",
+     "ur": "آؤٹ پٹ"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Which is the symbol of OR operator?",
+   "q_ur": "OR آپریٹر کی علامت کون سی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "÷",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "+",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "·",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "⌐",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "\"It is cold outside\" is a:",
+   "q_ur": "\"باہر سردی ہے\" ایک ______ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Boolean proposition",
+     "ur": "بولین پراپوزیشن"
+    },
+    {
+     "k": "B",
+     "en": "Categorical proposition",
+     "ur": "قطعی پراپوزیشن"
+    },
+    {
+     "k": "C",
+     "en": "Moral proposition",
+     "ur": "مورل پراپوزیشن"
+    },
+    {
+     "k": "D",
+     "en": "Good proposition",
+     "ur": "اچھی پراپوزیشن"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "A network facilitates communication and ______ among the connected devices.",
+   "q_ur": "ایک نیٹ ورک تمام آلات کو کمیونیکیشن اور ______ کی سہولت فراہم کرتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Text",
+     "ur": "ٹیکسٹ"
+    },
+    {
+     "k": "B",
+     "en": "Numbers",
+     "ur": "اعداد"
+    },
+    {
+     "k": "C",
+     "en": "Sharing",
+     "ur": "شیئرنگ"
+    },
+    {
+     "k": "D",
+     "en": "Area",
+     "ur": "ایریا"
+    }
+   ]
+  }
+ ]
+}

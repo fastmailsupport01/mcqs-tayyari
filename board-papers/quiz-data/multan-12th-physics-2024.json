@@ -1,0 +1,962 @@
+{
+ "board": "BISE Multan",
+ "board_slug": "lahore",
+ "class": "12th",
+ "subject": "Physics",
+ "year": 2024,
+ "slug": "multan-12th-physics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Due to polarization of dielectric, the electrical energy stored between the plates of capacitor when battery is connected:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Increases",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Decreases",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Remains same",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "May increase or decreases",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Two opposite point charges, separated by a distance 2d, the electric potential at mid-way between them is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 volt",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2 volts",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3 volts",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero volt",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "A current carrying conductor experience maximum force in a uniform magnetic field, when it is placed:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Perpendicular to field",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Parallel to field",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "At an angle θ = 60° to field",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "At an angle of 180° to field",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Which substance of the given has greatest resistivity?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Silver",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Germanium",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Carbon",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Gold",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "When the coil at rest is placed in a uniform magnetic field, then induced current would be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Maximum",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Minimum",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Some time maximum, some time minimum",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "In D.C motor the split rings act as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Commutator",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Capacitor",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Resistor",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Inductor",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "In three phase A.C generator, when the voltage across the first pair of slip rings is zero, then it has the phase of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "120°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "180°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The amplitude modulation transmission frequencies range is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "88 MHz to 108 MHz",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "540 kHz to 1600 kHz",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "540 MHz to 1600 MHz",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "88 kHz to 108 MHz",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "A temperature above 77k, any super conductor referred as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "High temperature super conductor",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Low temperature super conductor",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Low temperature semi conductor",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "High temperature conductor",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The symbol of NOT gate is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Rectangle",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Bubble only",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Triangle and Bubble",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Square",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "SI unit of voltage gain of NPN transistor is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Volt",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Coulomb",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Farad",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "No unit",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The materialization of energy take place in the process of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Photo electric effect",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Compton effect",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Pair production",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Annihilation of matter",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Which one of the physical quantity is independent of relativistic speed?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mass",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Length",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Time",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Charge",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "Which one of the radiations has the most energetic photon?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "T.V waves",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "γ-rays",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "X-rays",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Microwaves",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Electromagnetic radiation having wavelength longer than the red light is known as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Infrared radiation",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ultraviolet radiation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Microwaves",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Gamma rays",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "The half life of radioactive element depends upon the:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Temperature",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Atmospheric pressure",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Number of nucleons",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Number of electrons",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "The unit of radiation one Becquerel is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "One disintegration per second",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3.7 × 10¹⁰ disintegration per second",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Two disintegration per second",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3.7 disintegration per minute",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "If the medium between the charges is not free space, then electrostatic force will:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Increase",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Decrease",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Remains constant",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Infinite",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Negative sign in equation E = −ΔV/Δr shows:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Decreasing potential",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Increasing potential",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Increasing strength",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Magnitude",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Reciprocal of resistivity is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Inductance",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Conductance",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Conductivity",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Resistance",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "A charged particle enters in a strong magnetic field its K.E:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Increases",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Infinite",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Decreases",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Remains same",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "When a charged particle is projected perpendicular to a uniform magnetic field, its path is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Helix",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Circular",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Spiral",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ellipse",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "If the angular frequency of A.C generator is doubled, the time period will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Doubled",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Four times",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Half",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "One fourth",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Split ring are used in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "D.C motor",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Transformer",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A.C generator",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A.C motor",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Root mean square value of voltage is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "√2 Vᵒ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Vᵒ/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Vᵒ/√2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2Vᵒ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "The phase of A.C at positive peak from origin is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π/4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3π/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Which is pentavalent impurity?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Gallium",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Boron",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Indium",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Antimony",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Which component of the transistor has lowest concentration of impurity?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Base",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Emitter",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Collector",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Resistor",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Bolean expression for AND gate is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "X = A + B",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "X = Ā·Ḭ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "X = A·B",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "X = ẚ+Ḭ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "Compton shift for wavelength is minimum for scattering angle θ =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "270°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "At higher energies more then 1.02 MeV the dominant process is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Compton effect",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Photoelectric effect",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Fission process",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Pair production",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "Electron normally can reside in excited state for about:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10⁻⁸ s",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10⁻³ s",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10⁻⁶ s",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10⁸ s",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "Half life of uranium–239 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "24.5 min",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "25.5 min",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "23.5 min",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "26.5 min",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "The building blocks of protons and neutrons are called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Positron",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Quarks",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Electron",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Neutron",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

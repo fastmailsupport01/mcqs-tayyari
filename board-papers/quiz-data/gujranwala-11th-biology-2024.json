@@ -1,0 +1,962 @@
+{
+ "board": "BISE Gujranwala",
+ "board_slug": "gujranwala",
+ "class": "11th",
+ "subject": "Biology",
+ "year": 2024,
+ "slug": "gujranwala-11th-biology-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "1 - Retroviruses have special enzyme which can convert a single stranded RNA to double stranded DNA, named as",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "catalase",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "reverse transcriptase",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "sucrase",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "arginase",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The substance which inhibits blood clotting is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "heparin",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "histamine",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "fibrin",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "albumin",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "What happens to Oxygen in respiratory electron transport chain?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "forms CO₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "released as gas",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "forms NAD",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "reduced to H₂O",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The causal organism of amoebic dysentery in human, is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Paramecium",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Amoeba",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Tse-Tse fly",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Entamoeba",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "This diagram shows a Carbohydrate, [diagram: two sugar subunits linked by a glycosidic bond] What is the name of bond which links the two subunits?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A Glycosidic bond",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A Hydrogen bond",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A Peptide bond",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ester linkage",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Diameter of bronchiole is about",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 mm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2 mm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3 mm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4 mm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Double fertilization is the characteristic of",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Angiosperms",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Gymnosperms",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Bryophytes",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ferns",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "During fermentation, the amount of energy present within the chemical bonds of glucose which is converted to ATP, is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1%",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "98%",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2%",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "99%",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "In normal human body, the percentage of plasma in blood is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "90%",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "45%",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10%",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "55%",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "New ribosomes are assembled in",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nucleolus",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Mitochondrion",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Lysosomes",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Golgi apparatus",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "A group of similar cells that performs a specific function is called",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "system",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "organelle",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "organ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "tissue",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The phase of rapid growth in bacteria is called",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "stationary phase",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "log phase",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "lag phase",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "death phase",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Which one of the following is the length of the giant squid?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10 meter",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "50 meter",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "200 meter",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "15 meter",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "The first part of small intestine is called",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "jejunum",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "duodenum",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ileum",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "colon",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "In most of the sponges, outer layer of body wall is made up of",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Choanocytes",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "pinacocytes",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "erythrocytes",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "leucocytes",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "Lovastatin is used for lowering",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "blood salts",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "blood glucose",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "blood pressure",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "blood cholesterol",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "The inorganic and detachable cofactor is called",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "coenzyme",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "prosthetic group",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "activator",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "inhibitor",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "1 - The cyclosis and amoeboid movements are due to",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "microtubules",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "microfilaments",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "intermediate filaments",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "membrane",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "The stunted growth and chlorosis occurs in plants due to deficiency of",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Iron",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Magnesium",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Nitrogen",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zinc",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "One complete heart beat lasts for",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.0 sec",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.8 sec",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.5 sec",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.2 sec",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Bacteria divide at exponential rate during",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "decline phase",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "lag phase",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "log phase",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "stationary phase",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The animal which has single circuit heart is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Monkey",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Sparrow",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Lizard",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Trout",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "The porphyrin ring of haemoglobin contains",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Calcium",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Iron",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Potassium",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Phosphorus",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "The poisonous mushrooms are called",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Agaricus",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Morels",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Truffles",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Toad stools",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Round worms belong to phylum",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "annelida",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "arthropoda",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "mollusca",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "nematoda",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "The maximum amount of air held by inflated lungs is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5 liter",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4 liter",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4.5 liter",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3.5 liter",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "The optimum pH for enterokinase is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.50",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3.50",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5.50",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "7.50",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "A large regional community primarily determined by climate.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "biome",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "biosphere",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ecosystem",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "community",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Measles and Mumps are caused by a virus belonging to a group called",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "adenoviruses",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "paramyxovirus",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "poxvirus",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "poliovirus",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "Loligo, Sepia and Octopus are examples of class",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Bivalvia",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Gastropoda",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cephalopoda",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Oligochaeta",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "Plastocyanin contains",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Copper",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Iron",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Magnesium",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Potassium",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "The gametophyte of a Moss is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "diploid",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "haploid",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "polyploid",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "tetraploid",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "The sexual reproduction in most of ciliates takes place by",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "conjugation",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "binary fission",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Oogamy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "fertilization",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "The normal amount of glucose in human body is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.6%",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.8%",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.06%",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.08%",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

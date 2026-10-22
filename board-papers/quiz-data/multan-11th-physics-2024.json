@@ -1,0 +1,962 @@
+{
+ "board": "BISE Multan",
+ "board_slug": "lahore",
+ "class": "11th",
+ "subject": "Physics",
+ "year": 2024,
+ "slug": "multan-11th-physics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "How many colours are used by colour printing to produce the entire range of colours?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The dimensions of the relation mc² are equal to the dimensions of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Force",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Momentum",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Heat",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Velocity",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The resultant of two forces F⃗₁ and F⃗₂ making an angle of 90° with each other is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(F₁ − F₂)²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "F₁ + F₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(F₁ + F₂)²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√(F₁² + F₂²)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The magnitude of ĵ·(k̂×î) is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2ĵ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−2ĵ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The velocity of a body changes with constant rate. The acceleration is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Negative",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Constant",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Increases",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The velocity time graph of a body is shown. It implies that: [figure]",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Force is positive",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Force is negative",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Force is zero",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Force is constant",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Gravity performs zero work when body accelerates:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Vertically upward",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Vertically downward",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Inclined plane",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "In a vertical loop",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The acceleration of an object falling freely is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "9.8ms⁻²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0ms⁻²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−9.8ms⁻²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5ms⁻²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The rotational K.E of any ring of radius 'r' is given by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(1/2)rω²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(1/2)mr²ω²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(1/2)mr²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(1/4)mr²ω²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The viscosity of water at 30°C is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.019Nm⁻²s",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1000Nm⁻²s",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1Nm⁻²s",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.801Nm⁻²s",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The time period of a simple pendulum, whose length is 980m is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2π sec",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2π√0.1 sec",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "20π sec",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2/π sec",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The speed of sound wave is independent of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Pressure",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Medium",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Source of sound",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Temperature",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "A longitudinal sinusoidal wave has wavelength of 1cm with a time period of 2sec, its wave velocity is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "50ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.005ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.5ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2ms⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "Which one of the given cannot be polarized?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Light waves",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Radio waves",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Microwaves",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Sound waves",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "The minimum number of rays required by a lens to form an image are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "When heat is removed from the system, entropy is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Remain same",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Positive",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Negative",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "For mono atomic gas Cᵥ = (3/2)R, therefore gamma \"γ\" for gas is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3/5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2/5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5/3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Number of significant zeroes in 3.50070 are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "No significant zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "If we add the numbers 2.7543, 4.10, 1.273, the rounded off answer will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "8.1273",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8.127",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8.2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8.13",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "If vector A⃗ makes an angle θ with Y–axis, then its Y-component will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A sin θ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A cos θ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A tan θ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "The magnitude of A⃗ = cosθ î + sinθ ĵ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "√(cosθ + sinθ)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√(1+cos²θ)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "A body moves in a circle of radius r. The displacement covered in one rotation is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2πr",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "πr",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(π/2)r",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "A stone is dropped from the top of a tower. It takes 2s to reach the ground. The height of the tower is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "19.6 m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "9.8 m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "40 m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "19 m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Two masses M and 4M are moving with same K.E. The ratio of their linear momenta is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 : 16",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1 : 2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√2 : 1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4 : 1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Which is a correct relation?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "v⃗ = r⃗ × w⃗",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "w⃗ = v⃗ × r⃗",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "v⃗ = w⃗ · r⃗",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "v⃗ = w⃗ × r⃗",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "A body of mass m is moving in a vertical circle of radius r, tied with a string. The tension at the lowest point is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "T = m((v²/r) − g)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "T = m((v²/r) + g)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "T = m(v² + gr)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "T = m(v² + gr)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "1 torr = _____ N/m²",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "133.33",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "123.33",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "122.22",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "143.33",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "What will be the displacement of a particle in SHM when its velocity is half the maximum velocity (amplitude = xₒ):",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(3/√2)xₒ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "√2xₒ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(3/4)xₒ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(√3/2)xₒ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "A physical system under going forced vibrations in known as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Simple harmonic oscillator",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Driven harmonic oscillator",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Damped harmonic oscillator",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Torsional oscillator",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "The frequency of sound emitted from a source in water is 600 Hz. If speed of sound in water and air is 1500 m/s and 300 m/s respectively, then frequency of sound heard above the water surface is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "300 Hz",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "750 Hz",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "600 Hz",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "120 Hz",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "Which monochromatic light will produce maximum orders of spectra using a diffraction grating?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Blue",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Red",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Green",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Yellow",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "Multimode step index fibre is useful for short distance to carry white light due to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Polarization effects",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Diffraction effects",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Interference effects",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Dispersion effects",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "In PV graph of isothermal and adiabatic process, the adiabatic curve has _____ work under the curve, than isothermal curve,:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Greater",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Smaller",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Equal",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Negative work",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "A fixed mass of an ideal gas in a cylinder is compressed isothermally. Which is true statement?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Heat is dissipated from the system",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "K.E. of the gas increases",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "P.E of the gas increases",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "No work is done on the gas",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

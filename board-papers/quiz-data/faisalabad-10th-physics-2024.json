@@ -1,0 +1,682 @@
+{
+ "board": "BISE Faisalabad",
+ "board_slug": "faisalabad",
+ "class": "10th",
+ "subject": "Physics",
+ "year": 2024,
+ "slug": "faisalabad-10th-physics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Waves transfer:",
+   "q_ur": "ویوز منتقل کرتی ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Energy",
+     "ur": "انرجی"
+    },
+    {
+     "k": "B",
+     "en": "Frequency",
+     "ur": "فریکوئنسی"
+    },
+    {
+     "k": "C",
+     "en": "Wavelength",
+     "ur": "ویولینتھ"
+    },
+    {
+     "k": "D",
+     "en": "Velocity",
+     "ur": "ولاسٹی"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The loudness of a sound is most closely related to its:",
+   "q_ur": "ساؤنڈ کی لاؤڈنیس کا زیادہ تر انحصار کس پر ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Amplitude",
+     "ur": "ایمپلیٹیوڈ"
+    },
+    {
+     "k": "B",
+     "en": "Period",
+     "ur": "پیریڈ"
+    },
+    {
+     "k": "C",
+     "en": "Wavelength",
+     "ur": "ویولینتھ"
+    },
+    {
+     "k": "D",
+     "en": "Frequency",
+     "ur": "فریکوئنسی"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Intensity level due to rustling of leaves is:",
+   "q_ur": "پتوں کی سرسراہٹ کا انٹینسٹی لیول ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "40 dB",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "30 dB",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "20 dB",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10 dB",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Image formed by a camera is:",
+   "q_ur": "کیمرے میں بننے والی امیج ہوتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Virtual, inverted and magnified",
+     "ur": "ورچوئل، انورٹڈ اور میگنیفائیڈ"
+    },
+    {
+     "k": "B",
+     "en": "Virtual, upright and diminished",
+     "ur": "ورچوئل، اپ رائٹ اور ڈیمنیشڈ"
+    },
+    {
+     "k": "C",
+     "en": "Virtual, upright and magnified",
+     "ur": "ورچوئل، اپ رائٹ اور میگنیفائیڈ"
+    },
+    {
+     "k": "D",
+     "en": "Real, inverted and diminished",
+     "ur": "ریئل، انورٹڈ اور ڈیمنیشڈ"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Capacitance is defined as:",
+   "q_ur": "کیپیسٹنس کی تعریف کس طرح کی جاتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "VC",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Q/V",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "QV",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "V/Q",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Ohm's Law is equal to:",
+   "q_ur": "اوہم کا قانون برابر ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "V = I/R",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "V = R/I",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "V = IR",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "V = m/v",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The power consumed by electric heater is:",
+   "q_ur": "الیکٹرک ہیٹر پاور خرچ کرتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "1000 watt",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1500 watt",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "800 watt",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "700 watt",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The turn ratio of a transformer is 10, it means:",
+   "q_ur": "اگر ٹرانسفارمر کے چکروں کی نسبت 10 ہو تو:",
+   "options": [
+    {
+     "k": "A",
+     "en": "I_s = 10 I_p",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "N_s = N_p/10",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "V_s = V_p/10",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "N_s = 10 N_p",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "AND gate can be formed by using two:",
+   "q_ur": "کون سے دو گیٹ استعمال کر کے AND گیٹ بنایا جا سکتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "NOT gates",
+     "ur": "ناٹ گیٹس"
+    },
+    {
+     "k": "B",
+     "en": "OR gates",
+     "ur": "آر گیٹس"
+    },
+    {
+     "k": "C",
+     "en": "NOR gates",
+     "ur": "نار گیٹس"
+    },
+    {
+     "k": "D",
+     "en": "NAND gates",
+     "ur": "نینڈ گیٹس"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Which is not processing?",
+   "q_ur": "کون سا عمل پروسیسنگ نہیں ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Arranging",
+     "ur": "ترتیب دینا"
+    },
+    {
+     "k": "B",
+     "en": "Manipulating",
+     "ur": "جوڑ توڑ کرنا"
+    },
+    {
+     "k": "C",
+     "en": "Calculating",
+     "ur": "حساب کتاب کرنا"
+    },
+    {
+     "k": "D",
+     "en": "Gathering",
+     "ur": "اکٹھا کرنا"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "When Uranium (92 Protons) ejects a beta particle, how many protons will be in the remaining nucleus?",
+   "q_ur": "جب یورینیم (92 پروٹونز) بیٹا پارٹیکل خارج کرتا ہے تو اس کے پروٹونز کی تعداد کتنی رہ جائے گی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "89 protons",
+     "ur": "89 پروٹونز"
+    },
+    {
+     "k": "B",
+     "en": "91 protons",
+     "ur": "91 پروٹونز"
+    },
+    {
+     "k": "C",
+     "en": "93 protons",
+     "ur": "93 پروٹونز"
+    },
+    {
+     "k": "D",
+     "en": "94 protons",
+     "ur": "94 پروٹونز"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Half-life of lead is:",
+   "q_ur": "لیڈ کی ہاف لائف ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "8.07 days",
+     "ur": "8.07 دن"
+    },
+    {
+     "k": "B",
+     "en": "10.6 hours",
+     "ur": "10.6 گھنٹے"
+    },
+    {
+     "k": "C",
+     "en": "12.3 years",
+     "ur": "12.3 سال"
+    },
+    {
+     "k": "D",
+     "en": "138 days",
+     "ur": "138 دن"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Which device can be used to produce both transverse and longitudinal waves?",
+   "q_ur": "کونسا آلہ ٹرانسورس اور لانگیٹیوڈنل دونوں پیدا کرنے کے لئے استعمال کیا جا سکتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "String",
+     "ur": "ڈوری"
+    },
+    {
+     "k": "B",
+     "en": "Ripple tank",
+     "ur": "رپل ٹینک"
+    },
+    {
+     "k": "C",
+     "en": "Helical spring (Slinky)",
+     "ur": "ہیلیکل سپرنگ (سلنکی)"
+    },
+    {
+     "k": "D",
+     "en": "Tuning fork",
+     "ur": "ٹیوننگ فورک"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "If mass of the body in mass spring system is doubled, its time period will be:",
+   "q_ur": "اگر ماس سپرنگ سسٹم میں ماس کو دوگنا کر دیا جائے تو اس کا ٹائم پیریڈ ہوگا:",
+   "options": [
+    {
+     "k": "A",
+     "en": "√2 T",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "T/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/√2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Which is an example of a longitudinal waves?",
+   "q_ur": "لانگیٹیوڈنل ویوز کی مثال ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sound wave",
+     "ur": "ساؤنڈ ویوز"
+    },
+    {
+     "k": "B",
+     "en": "Light wave",
+     "ur": "لائٹ ویوز"
+    },
+    {
+     "k": "C",
+     "en": "Radio wave",
+     "ur": "ریڈیو ویوز"
+    },
+    {
+     "k": "D",
+     "en": "Water wave",
+     "ur": "پانی کی لہریں"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "The intensity level of mosquito buzzing is:",
+   "q_ur": "مچھر کی بھنبھناہٹ کا انٹینسٹی لیول ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "10 dB",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "20 dB",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "30 dB",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "40 dB",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Which quantity is not changed during refraction of light?",
+   "q_ur": "روشنی کی ریفریکشن کے دوران کون سی مقدار تبدیل نہیں ہوتی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Its direction",
+     "ur": "اس کی سمت"
+    },
+    {
+     "k": "B",
+     "en": "Its speed",
+     "ur": "اس کی سپیڈ"
+    },
+    {
+     "k": "C",
+     "en": "Its frequency",
+     "ur": "اس کی فریکوئنسی"
+    },
+    {
+     "k": "D",
+     "en": "Its wavelength",
+     "ur": "اس کی ویولینتھ"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "In compound microscope, objective lens has focal length:",
+   "q_ur": "کمپاؤنڈ مائیکروسکوپ میں آبجیکٹیو لینز کی فوکل لینتھ:",
+   "options": [
+    {
+     "k": "A",
+     "en": "f_o > 1 cm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "f_o < 1 cm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "f_o = 1 cm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "f_o = 2 cm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "The Coulomb's Law is valid for the charges which are:",
+   "q_ur": "کولمب کا قانون کن چارجز کے لئے موزوں ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Moving and point charges",
+     "ur": "حرکت کرتے ہوئے پوائنٹ چارجز"
+    },
+    {
+     "k": "B",
+     "en": "Stationary and point charges",
+     "ur": "ساکن اور پوائنٹ چارجز"
+    },
+    {
+     "k": "C",
+     "en": "Moving and non-point charges",
+     "ur": "حرکت کرتے ہوئے نان پوائنٹ چارجز"
+    },
+    {
+     "k": "D",
+     "en": "Stationary and large size charges",
+     "ur": "ساکن اور بڑے سائز کے چارجز"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "An electric current in conductors is due to the flow of:",
+   "q_ur": "کنڈکٹرز میں الیکٹرک کرنٹ کس کے بہنے کی وجہ سے ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Positive ions",
+     "ur": "پوزیٹو آئنز"
+    },
+    {
+     "k": "B",
+     "en": "Negative ions",
+     "ur": "نیگیٹو آئنز"
+    },
+    {
+     "k": "C",
+     "en": "Positive charges",
+     "ur": "پوزیٹو چارجز"
+    },
+    {
+     "k": "D",
+     "en": "Free electrons",
+     "ur": "فری الیکٹرونز"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "The presence of a magnetic field can be detected by a:",
+   "q_ur": "میگنیٹک فیلڈ کی موجودگی کا پتہ کیسے لگایا جا سکتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Small mass",
+     "ur": "چھوٹے ماس سے"
+    },
+    {
+     "k": "B",
+     "en": "Stationary positive charge",
+     "ur": "ساکن پوزیٹو چارج سے"
+    },
+    {
+     "k": "C",
+     "en": "Stationary negative charge",
+     "ur": "ساکن نیگیٹو چارج سے"
+    },
+    {
+     "k": "D",
+     "en": "Magnetic compass",
+     "ur": "میگنیٹک کمپاس سے"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "The particles emitted from a hot cathode surface are:",
+   "q_ur": "ایسے پارٹیکلز جو گرم کیتھوڈ کی سطح سے خارج ہوتے ہیں کہلاتے ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electrons",
+     "ur": "الیکٹرونز"
+    },
+    {
+     "k": "B",
+     "en": "Protons",
+     "ur": "پروٹونز"
+    },
+    {
+     "k": "C",
+     "en": "Positive ions",
+     "ur": "پوزیٹو آئنز"
+    },
+    {
+     "k": "D",
+     "en": "Negative ions",
+     "ur": "نیگیٹو آئنز"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "In computer terminology, information means:",
+   "q_ur": "کمپیوٹر ٹرمینالوجی میں انفارمیشن کا مطلب ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Raw data",
+     "ur": "خام ڈیٹا"
+    },
+    {
+     "k": "B",
+     "en": "Processed data",
+     "ur": "پروسیسڈ ڈیٹا"
+    },
+    {
+     "k": "C",
+     "en": "Any data",
+     "ur": "کوئی بھی ڈیٹا"
+    },
+    {
+     "k": "D",
+     "en": "Large data",
+     "ur": "زیادہ ڈیٹا"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "What happens to the atomic number of an element which emits one alpha particle?",
+   "q_ur": "جب ایک ایلیمنٹ ایک الفا پارٹیکل خارج کرتا ہے تو اس کے اٹامک نمبر کو کیا ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Increases by one",
+     "ur": "ایک بڑھ جاتا ہے"
+    },
+    {
+     "k": "B",
+     "en": "Stays the same",
+     "ur": "کوئی فرق نہیں پڑتا"
+    },
+    {
+     "k": "C",
+     "en": "Decreases by two",
+     "ur": "دو کم ہو جاتا ہے"
+    },
+    {
+     "k": "D",
+     "en": "Decreases by one",
+     "ur": "ایک کم ہو جاتا ہے"
+    }
+   ]
+  }
+ ]
+}

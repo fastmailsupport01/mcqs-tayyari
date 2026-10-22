@@ -1,0 +1,682 @@
+{
+ "board": "BISE Faisalabad",
+ "board_slug": "faisalabad",
+ "class": "9th",
+ "subject": "Physics",
+ "year": 2024,
+ "slug": "faisalabad-9th-physics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Weight of 100kg body on the surface of the Moon will be:",
+   "q_ur": "چاند کی سطح پر 100kg کے ایک جسم کا وزن ہوگا:",
+   "options": [
+    {
+     "k": "A",
+     "en": "100 N",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "160 N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1000 N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1600 N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Mathematical form of first condition of equilibrium is:",
+   "q_ur": "ایکوی لبریم کی پہلی شرط کی ریاضیاتی شکل ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "∑F = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "∑J = 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "∑P = 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "∑W = 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "What is highly desirable when climbing up a hill?",
+   "q_ur": "پہاڑ پر چڑھتے ہوئے سب سے زیادہ مطلوب کیا ہوتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Power",
+     "ur": "پاور"
+    },
+    {
+     "k": "B",
+     "en": "Velocity",
+     "ur": "ولاسٹی"
+    },
+    {
+     "k": "C",
+     "en": "Speed",
+     "ur": "سپیڈ"
+    },
+    {
+     "k": "D",
+     "en": "Friction",
+     "ur": "فرکشن"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Pf − Pi / t is equal to:",
+   "q_ur": "Pf - Pi / t برابر ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "S",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "F",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "V",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Identify the vector quantity:",
+   "q_ur": "ویکٹر مقدار کی نشاندہی کیجیے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Displacement",
+     "ur": "ڈسپلیسمنٹ"
+    },
+    {
+     "k": "B",
+     "en": "Power",
+     "ur": "پاور"
+    },
+    {
+     "k": "C",
+     "en": "Time",
+     "ur": "ٹائم"
+    },
+    {
+     "k": "D",
+     "en": "Distance",
+     "ur": "فاصلہ"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Least count of commonly used digital stop watch is:",
+   "q_ur": "عام استعمال ہونے والی ڈیجیٹل سٹاپ واچ کی لیسٹ کاؤنٹ ہوتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/10 sec",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/100 sec",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/1000 sec",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1 sec",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "In gases, heat is mainly transferred by:",
+   "q_ur": "گیسز میں زیادہ تر انتقال حرارت کا سبب ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Molecular collision",
+     "ur": "مالیکیولر کولیشن"
+    },
+    {
+     "k": "B",
+     "en": "Radiation",
+     "ur": "ریڈی ایشن"
+    },
+    {
+     "k": "C",
+     "en": "Conduction",
+     "ur": "کنڈکشن"
+    },
+    {
+     "k": "D",
+     "en": "Convection",
+     "ur": "کنویکشن"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Normal human body temperature is:",
+   "q_ur": "نارمل انسانی جسم کا درجہ حرارت ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "9.86°F",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "94.6°F",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "98.6°F",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "96.8°F",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The specific heat of water is:",
+   "q_ur": "پانی کی حرارت مخصوصہ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "4200 JkgK⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4200 Jkg⁻¹K⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4200 JkgK",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4200 Jkg⁻¹K",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "S.I. Unit of pressure (Pascal) is equal to:",
+   "q_ur": "ایس آئی سسٹم میں پریشر کا یونٹ (پاسکل) برابر ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "1Nm⁻²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1Nm⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1Nm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1Nm²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Kinetic energy is equal to:",
+   "q_ur": "کائنیٹک انرجی برابر ہوتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "mv",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "mv²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/2 mv",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/2 mv²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "A body of weighing 20N is lifted 3m vertically upward, its P.E. will be:",
+   "q_ur": "ایک 20N کے جسم کو 3m سیدھا اوپر اٹھایا گیا اس کی پوٹینشل انرجی ہوگی:",
+   "options": [
+    {
+     "k": "A",
+     "en": "6 J",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "30 J",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "60 J",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "120 J",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "A measuring cylinder is used to measure:",
+   "q_ur": "پیمائشی سلنڈر سے معلوم کیا جاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mass",
+     "ur": "ماس"
+    },
+    {
+     "k": "B",
+     "en": "Volume",
+     "ur": "والیوم"
+    },
+    {
+     "k": "C",
+     "en": "Area",
+     "ur": "ایریا"
+    },
+    {
+     "k": "D",
+     "en": "Level of a liquid",
+     "ur": "کسی مائع کا لیول"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "The speed of Falcon is:",
+   "q_ur": "فالکن (عقاب) کی سپیڈ ہوتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "200 kmh⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "100 kmh⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "50 kmh⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "70 kmh⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Formula to find weight is:",
+   "q_ur": "وزن معلوم کرنے کا فارمولا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "w = mg",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "w = F.s",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "w = F.d",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "w = F×l",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Rocket works on:",
+   "q_ur": "راکٹ عمل کرتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "First Law of Motion",
+     "ur": "موشن کا پہلا قانون"
+    },
+    {
+     "k": "B",
+     "en": "Second Law of Motion",
+     "ur": "موشن کا دوسرا قانون"
+    },
+    {
+     "k": "C",
+     "en": "Third Law of Motion",
+     "ur": "موشن کا تیسرا قانون"
+    },
+    {
+     "k": "D",
+     "en": "Law of Gravitation",
+     "ur": "گریوی ٹیشن کا قانون"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The states of equilibrium are:",
+   "q_ur": "ایکوی لبریم کی حالتیں ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "The value of gravitational field strength near the surface of the Earth is:",
+   "q_ur": "زمین کی سطح کے قریب گریوی ٹیشنل فیلڈ کی طاقت ہوتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "1[illegible in source scan] N kg⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "20 N kg⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10 N kg⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "100 N kg⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "The unit of energy is;",
+   "q_ur": "انرجی کا یونٹ ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Newton",
+     "ur": "نیوٹن"
+    },
+    {
+     "k": "B",
+     "en": "Second",
+     "ur": "سیکنڈ"
+    },
+    {
+     "k": "C",
+     "en": "Meter",
+     "ur": "میٹر"
+    },
+    {
+     "k": "D",
+     "en": "Joule",
+     "ur": "جول"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "One horse power (1hp) is equal to:",
+   "q_ur": "ایک ہارس پاور (1hp) برابر ہوتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "740 watt",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "746 watt",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "750 watt",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "756 watt",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "At sea level the atmospheric pressure is about:",
+   "q_ur": "سطح سمندر پر ایٹماسفیرک پریشر تقریباً ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "101300 Pa",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "110300 Pa",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "103100 Pa",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "100130 Pa",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "The temperature of the Sun surface is:",
+   "q_ur": "سورج کی سطح کا ٹمپریچر ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "6000°C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "600°C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8000°C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1000°C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "The interval between lower and upper fixed point in Fahrenheit scale is:",
+   "q_ur": "فارن ہائیٹ سکیل میں اپر اور لوئر فکسڈ پوائنٹ کا وقفہ ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "180",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "100",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "200",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "300",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Kinetic energy of a body depends upon:",
+   "q_ur": "کسی جسم کی کائنیٹک انرجی کا انحصار ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Pressure",
+     "ur": "پریشر"
+    },
+    {
+     "k": "B",
+     "en": "Area",
+     "ur": "ایریا"
+    },
+    {
+     "k": "C",
+     "en": "Temperature",
+     "ur": "ٹمپریچر"
+    },
+    {
+     "k": "D",
+     "en": "Volume",
+     "ur": "والیوم"
+    }
+   ]
+  }
+ ]
+}

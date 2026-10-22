@@ -1,0 +1,962 @@
+{
+ "board": "BISE Rawalpindi",
+ "board_slug": "lahore",
+ "class": "11th",
+ "subject": "Chemistry",
+ "year": 2024,
+ "slug": "rawalpindi-11th-chemistry-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The mass of one mole of electron is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.008 mg",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.55 mg",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.184 mg",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.673 mg",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "In organic phase color of Iodine is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Brown",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Purple",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Colorless",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Green",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Pressure remaining constant at which temp. The volume of a gas will become twice of it is at 0°C:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "546°C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "200°C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "546 k",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "273 k",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Ionic crystals are characterized by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Solubility in polar solvents",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Low melting point",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "High vapour pressure",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Conductivity in solid state",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Number of crystal systems are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "When 6 d orbital is complete, the entering electron goes to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "7f",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "7s",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7p",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "7d",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Dipole moment of CS₂ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3.2D",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2.2D",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.3D",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero Debye",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The net heat change in a chemical reaction is same whether it is brought about in two or more different ways in one or more than one steps, it's known as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Henry's law",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Joul's principle",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Hess's law",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Law of conservation of energy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Which of the following solution have P_H less than 7?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "NaOH",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NaCl",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ca(OH)₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "HCl",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The boiling point constant is the ratio of the elevation in boiling point to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Molarity",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Mole fraction of solvent",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Molality",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mole fraction of solute",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Cathode reaction in the electrolysis of dil H₂SO₄ with Pt electrodes is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Oxidation",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Reduction",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Both oxidation & reduction",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Neither oxidation nor reduction",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The unit of rate constant is the same as that of the rate of reaction in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "First order reaction",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Second order reaction",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Third order reaction",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero order reaction",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Number of isotopes of tin are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "11",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "Which of the following is sublime?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Iodine",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Calcium",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NaCl",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Benzene",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "S.I unit of pressure is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "N.m⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Torr",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "mm of Hg",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Psi",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "Positive rays are also called as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cathode rays",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Canal rays",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "X-rays",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Magnetic rays",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "Octet rule is not obeyed by the molecule:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "NF₃",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CF₄",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "PF₅",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CO₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Mixture of NH₄OH and NH₄Cl is one of the best example of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Acidic buffer",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Basic buffer",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Common ion effect",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Solubility product",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Molarity of pure water is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "18",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "55.5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Stronger the oxidizing agent, greater is the:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Oxidation potential",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Reduction potential",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Redox potential",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "E.M.F. of cell",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "The process in which catalyst and reactant are in different phases is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Homogeneous catalysis",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Heterogeneous catalysis",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Autocatalysis",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Negative catalysis",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The efficiency of a reaction can be checked by calculating its:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Theoretical yield",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Actual yield",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Percentage yield",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mass",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "The mass of one mole of electrons is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.008 mg",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.55 mg",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.184 mg",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.673 mg",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "A safe and reliable method for drying the crystals is by using:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Vacuum desiccators",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Oven",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Filter paper",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Spreading the crystals in open air",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Chromatography in which stationary phase is liquid is classified as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Thin layer chromatography",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Gas chromatography",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Adsorption chromatography",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Partition chromatography",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "The partial pressure of oxygen in lungs is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "159 torr",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "116 torr",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1160 torr",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1590 torr",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Smell of the cooking gas during leakage from a gas cylinder is due to the process of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Osmosis",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Diffusion",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Effusion",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Evaporation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "When water freezes at 0°C , its density decreases due to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cubic structure of ice",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Empty spaces present in the structure of ice",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Change of bond lengths",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Change of bond angles",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Ice and sugar are the best examples of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ionic solids",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Covalent solids",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Molecular solids",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Metallic solids",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "The name of proton was suggested by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Bohr",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "J.J Thomson",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Rutherford",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Stoney",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "When 6d orbital is complete, the entering electron goes into:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "7f",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "7s",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7p",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "7d",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "The covalent radius of hydrogen is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "176.7 pm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "37.7 pm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "75.4 pm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "77.3 pm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "Which of the following molecule has zero dipole moment?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "NH₃",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CHCl₃",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "H₂O",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "BF₃",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "The product of mass and specific heat of water is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Heat capacity",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Enthalpy of reaction",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Heat of a reaction",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Buffer capacity",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

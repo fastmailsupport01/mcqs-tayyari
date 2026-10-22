@@ -1,0 +1,682 @@
+{
+ "board": "BISE Rawalpindi",
+ "board_slug": "lahore",
+ "class": "10th",
+ "subject": "Biology",
+ "year": 2024,
+ "slug": "rawalpindi-10th-biology-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The length of trachea is:",
+   "q_ur": "ٹریکیا کی لمبائی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "18 cm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "16 cm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "14 cm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "12 cm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The amount of urea in normal urine is:",
+   "q_ur": "نارمل پیشاب میں یوریا کی مقدار ہوتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "7.3 g/L",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "7.7 g/L",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "9.3 g/L",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9.1 g/L",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The hormone that increases the blood glucose level is:",
+   "q_ur": "ہارمون جو خون میں گلوکوز کے لیول کو بڑھاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Insulin",
+     "ur": "انسولین"
+    },
+    {
+     "k": "B",
+     "en": "Calcitonin",
+     "ur": "کیلسیٹونن"
+    },
+    {
+     "k": "C",
+     "en": "Adrenaline",
+     "ur": "ایڈرینالین"
+    },
+    {
+     "k": "D",
+     "en": "Glucagon",
+     "ur": "گلوکاگون"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Total number of bones in both hands is:",
+   "q_ur": "دونوں ہاتھوں میں ہڈیوں کی کل تعداد ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "34",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "44",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "54",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "64",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Which one is the latest method of vegetative propagation?",
+   "q_ur": "ان میں سے نباتی تولید کا جدید ترین طریقہ کون سا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cloning",
+     "ur": "کلوننگ"
+    },
+    {
+     "k": "B",
+     "en": "Budding",
+     "ur": "بڈنگ"
+    },
+    {
+     "k": "C",
+     "en": "Cuttings",
+     "ur": "کٹنگز"
+    },
+    {
+     "k": "D",
+     "en": "Grafting",
+     "ur": "گرافٹنگ"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Which one is the example of stem tubers?",
+   "q_ur": "ان میں سے تنے کی ٹیوبر کی مثال کون سی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Dasheen",
+     "ur": "اروی"
+    },
+    {
+     "k": "B",
+     "en": "Potato",
+     "ur": "آلو"
+    },
+    {
+     "k": "C",
+     "en": "Onion",
+     "ur": "پیاز"
+    },
+    {
+     "k": "D",
+     "en": "Tulip",
+     "ur": "گل لالہ"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Which one of the following is genetic material?",
+   "q_ur": "ان میں سے جینیاتی مادہ کون سا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "mRNA",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "tRNA",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "DNA",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "rRNA",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The phenotypic ratio at F₂ in the law of independent assortment is:",
+   "q_ur": "لا آف انڈیپینڈنٹ اسارٹمنٹ کے F₂ میں فینوٹائپک ریشو ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "9 : 3 : 3 : 1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "9 : 3 : 1 : 1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "9 : 3 : 1 : 3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9 : 3 : 3 : 2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Thickness of biosphere is about:",
+   "q_ur": "بائیوسفیئر کی تقریباً موٹائی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "10 km",
+     "ur": "10 کلومیٹر"
+    },
+    {
+     "k": "B",
+     "en": "20 km",
+     "ur": "20 کلومیٹر"
+    },
+    {
+     "k": "C",
+     "en": "30 km",
+     "ur": "30 کلومیٹر"
+    },
+    {
+     "k": "D",
+     "en": "40 km",
+     "ur": "40 کلومیٹر"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Which plant is NOT carnivorous?",
+   "q_ur": "کون سا پودا کارنیورس نہیں ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sun Dew",
+     "ur": "سن ڈیو"
+    },
+    {
+     "k": "B",
+     "en": "Cactus",
+     "ur": "کیکٹس"
+    },
+    {
+     "k": "C",
+     "en": "Venus fly trap",
+     "ur": "وینس فلائی ٹریپ"
+    },
+    {
+     "k": "D",
+     "en": "Pitcher plant",
+     "ur": "پچر پلانٹ"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Dolly is the name of:",
+   "q_ur": "ڈولی نام ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cow",
+     "ur": "گائے کا"
+    },
+    {
+     "k": "B",
+     "en": "Goat",
+     "ur": "بکری کا"
+    },
+    {
+     "k": "C",
+     "en": "Rabbit",
+     "ur": "خرگوش کا"
+    },
+    {
+     "k": "D",
+     "en": "Sheep",
+     "ur": "بھیڑ کا"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Which of the following affects the production of sperms in men?",
+   "q_ur": "مردوں میں سپرمز کی پیداوار پر اثر انداز ہوتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Marijuana",
+     "ur": "میری جوانا"
+    },
+    {
+     "k": "B",
+     "en": "Codine",
+     "ur": "کوڈین"
+    },
+    {
+     "k": "C",
+     "en": "Morphine",
+     "ur": "مارفین"
+    },
+    {
+     "k": "D",
+     "en": "Mescaline",
+     "ur": "میسکالین"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "End of skeletal muscle attached with immovable bone is called:",
+   "q_ur": "سکیلیٹل مسل کا وہ سرا جو غیر متحرک ہڈی سے جڑا ہوتا ہے کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Insertion",
+     "ur": "انسرشن"
+    },
+    {
+     "k": "B",
+     "en": "Joint",
+     "ur": "جوائنٹ"
+    },
+    {
+     "k": "C",
+     "en": "ligament",
+     "ur": "لگامنٹ"
+    },
+    {
+     "k": "D",
+     "en": "Origin",
+     "ur": "اوریجن"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "It is the opening through which seed absorbs water:",
+   "q_ur": "یہ وہ سوراخ ہے جس سے بیج پانی جذب کرتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Microphyle",
+     "ur": "مائیکروپائل"
+    },
+    {
+     "k": "B",
+     "en": "Hilum",
+     "ur": "ہائلم"
+    },
+    {
+     "k": "C",
+     "en": "Integument",
+     "ur": "انٹیگیومنٹ"
+    },
+    {
+     "k": "D",
+     "en": "Testa",
+     "ur": "ٹیسٹا"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Adult population infected with HIV in Pakistan is:",
+   "q_ur": "پاکستان میں بالغوں کی HIV سے متاثرہ آبادی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.3 %",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.5 %",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.1 %",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.7 %",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Which one is an example of co-dominance?",
+   "q_ur": "ان میں سے کو-ڈومینینس کی مثال کون سی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Blood Group B",
+     "ur": "بلڈ گروپ بی"
+    },
+    {
+     "k": "B",
+     "en": "Blood Group A",
+     "ur": "بلڈ گروپ اے"
+    },
+    {
+     "k": "C",
+     "en": "Blood Group O",
+     "ur": "بلڈ گروپ او"
+    },
+    {
+     "k": "D",
+     "en": "Blood Group AB",
+     "ur": "بلڈ گروپ اے بی"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The biologist who hinted at evolution for the first time was:",
+   "q_ur": "وہ ماہر حیاتیات جس نے سب سے پہلے ارتقاء کا خیال پیش کیا:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Darwin",
+     "ur": "ڈارون"
+    },
+    {
+     "k": "B",
+     "en": "Lamarck",
+     "ur": "لامارک"
+    },
+    {
+     "k": "C",
+     "en": "Buffon",
+     "ur": "بفن"
+    },
+    {
+     "k": "D",
+     "en": "Mendal",
+     "ur": "مینڈل"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "R-2 stands for?",
+   "q_ur": "R-2 سے کیا مراد ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Reduce",
+     "ur": "کم استعمال"
+    },
+    {
+     "k": "B",
+     "en": "Reuse",
+     "ur": "دوبارہ استعمال"
+    },
+    {
+     "k": "C",
+     "en": "Recycle",
+     "ur": "ری سائیکل کرنا"
+    },
+    {
+     "k": "D",
+     "en": "Renewable",
+     "ur": "قابل تجدید"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Presence of haustoria roots in some plants is an example of:",
+   "q_ur": "کچھ پودوں میں ہاسٹوریا جڑوں کی موجودگی اس کی مثال ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mutualism",
+     "ur": "میوچوئلزم"
+    },
+    {
+     "k": "B",
+     "en": "Commensalism",
+     "ur": "کمنسلزم"
+    },
+    {
+     "k": "C",
+     "en": "Parasitism",
+     "ur": "پیراسٹزم"
+    },
+    {
+     "k": "D",
+     "en": "Predation",
+     "ur": "شکاریت"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "The vector DNA and the attached gene of interest are collectively called:",
+   "q_ur": "ویکٹر DNA اور اس کے ساتھ جڑا دلچسپی کا جین مجموعی طور پر کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "GMO",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Gene",
+     "ur": "جین"
+    },
+    {
+     "k": "C",
+     "en": "Recombinant",
+     "ur": "ریکومبیننٹ"
+    },
+    {
+     "k": "D",
+     "en": "Recombinant DNA",
+     "ur": "ریکومبیننٹ DNA"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Which antibiotics are bactericidal?",
+   "q_ur": "کون سی اینٹی بائیوٹک بیکٹیریا کو مارنے والی ہوتی ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sulpha drugs",
+     "ur": "سلفا ڈرگز"
+    },
+    {
+     "k": "B",
+     "en": "Tetracyclines",
+     "ur": "ٹیٹراسائیکلنز"
+    },
+    {
+     "k": "C",
+     "en": "Cephalosporins",
+     "ur": "سیفالوسپورنز"
+    },
+    {
+     "k": "D",
+     "en": "Thiazide diuretics",
+     "ur": "تھیازائیڈ ڈائی یوریٹکس"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "The disease in which walls of alveoli are destroyed is called:",
+   "q_ur": "وہ بیماری جس میں ایلویولائی کی دیواریں تباہ ہو جاتی ہیں کہلاتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Asthma",
+     "ur": "دمہ"
+    },
+    {
+     "k": "B",
+     "en": "Pneumonia",
+     "ur": "نمونیا"
+    },
+    {
+     "k": "C",
+     "en": "Emphysema",
+     "ur": "ایمفیسیما"
+    },
+    {
+     "k": "D",
+     "en": "Bronchitis",
+     "ur": "برونکائٹس"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Amount of water in normal chemical composition of urine is:",
+   "q_ur": "نارمل کیمیائی ترکیب کے مطابق پیشاب میں پانی کی مقدار ہوتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "85 %",
+     "ur": "95 فیصد"
+    },
+    {
+     "k": "B",
+     "en": "95 %",
+     "ur": "95 فیصد"
+    },
+    {
+     "k": "C",
+     "en": "75 %",
+     "ur": "75 فیصد"
+    },
+    {
+     "k": "D",
+     "en": "65 %",
+     "ur": "65 فیصد"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "It controls the secretions of pituitary gland:",
+   "q_ur": "یہ پیٹیوٹری گلینڈ کی سیکریشن کو کنٹرول کرتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hypothalamus",
+     "ur": "ہائپوتھیلمس"
+    },
+    {
+     "k": "B",
+     "en": "Thalamus",
+     "ur": "تھیلمس"
+    },
+    {
+     "k": "C",
+     "en": "Cerebellum",
+     "ur": "سیریبیلم"
+    },
+    {
+     "k": "D",
+     "en": "Cerebrum",
+     "ur": "سیریبرم"
+    }
+   ]
+  }
+ ]
+}

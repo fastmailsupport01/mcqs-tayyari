@@ -1,0 +1,962 @@
+{
+ "board": "BISE Rawalpindi",
+ "board_slug": "lahore",
+ "class": "11th",
+ "subject": "Physics",
+ "year": 2024,
+ "slug": "rawalpindi-11th-physics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "When temperature of air increases then the speed of sound will:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Decrease",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Increase",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Remain same",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Be Zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The distance between first and third crest in transverse wave is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2λ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3λ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4λ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8λ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Wave front and light rays are always:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Parallel",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Perpendicular",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Antiparallel",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "At 120°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The advantage of graded index fibre over the step index fibre is due to no :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Refraction",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Dispersion",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Multiple reflection",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Scattering",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "In the gas equation Pv = RT, where v represents volume of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 g of gas",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1 mole of gas",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1 liter of gas",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Any mass of gas",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "If T1 > T2 then Q/T2 − Q/T1 is always:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Infinity",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Negative",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Positive",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The dimension of √(f×l/m) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[LT⁻³]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[LT⁻²]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[MLT⁻¹]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[LT⁻¹]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The least count of a balance A is 10kg, of B is 1 kg, of C is 0.1 kg and of D is 0.01kg, which is most precise:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "B",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "D",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "î×(ĵ+k̂) is equal to:  [(C) watermarked on source scan; read as shown]",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0⃗",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ĵ − k̂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "k̂ − ĵ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "A⃗ = 5î + 7ĵ − 3k̂ and B⃗ = 2î + 2ĵ − ak̂ are perpendicular vectors, the value of 'a' is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−7",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−8",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "A body is moving with uniform velocity, its acceleration will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Variable",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Uniform",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Positive",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Which of the following can be determined by finding the slope of the tangent of the velocity time graph at a point is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Acceleration",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Momentum",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Displacement",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Average velocity",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "The work done in taking a body from the floor to the table top depends on:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "The path taken",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Height of the table",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Speed of the particle",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Time taken for work",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "\"mrω²\" is an expression for:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Gravitational force",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Centripetal force",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Newton's force",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Apparent force",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "The rate of change of angular momentum is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Force",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Torque",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Pressure",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Density",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "The terminal velocity of an object in a fluid of greater viscosity is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Large",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Small",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Maximum",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "A body performing SHM, the distance covered by body in complete vibration is 20 cm. its amplitude will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5 cm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10 cm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "20 cm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "40 cm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "The location of submarines can be detected by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Doppler effect",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Compton's effect",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Photoelectric effect",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Temperature effect",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "The speed of sound is greater in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Oxygen",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Air",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Water",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Copper",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "The property of bending of light around obstacles is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Reflection",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Refraction",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Diffraction",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Polarization",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Magnifying power of telescope is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "fe/fo",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "fo/fe",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "fef o",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/(fef o)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "W = −ΔU equation holds for:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Isothermal",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Adiabatic",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Isochoric",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Isobaric",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "The efficiency of carnot engine depends on:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Working substance",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "T1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "T2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "T1 & T2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "The number of significant figures in 0.00232 are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Light year is the unit of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Light",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Distance",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Time",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Velocity",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "The relation A⃗ + (−A⃗) results the:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Null vector",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Parallel vector",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Unit vector",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Position vector",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Unit vector for a vector A⃗ = 4î + 3ĵ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(4î+3ĵ)/25",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "√(25/(4î+3ĵ))",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(4î+3ĵ)/5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√(5/(4î+3ĵ))",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "The horizontal range of projectile at 30°C [sic, as printed] with horizontal is same as that at an angle of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "120°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "The mass of fuel consumed by a typical rocket to overcome earth's gravity is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10 Kgs⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "100 Kgs⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10000 Kgs⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1000 Kgs⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "The work is said to be negative if:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "θ = 0°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "θ = 90°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "θ > 90°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "θ < 90°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "The relation for moment of inertia of sphere is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(2/5)mr²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(5/2)mr²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(1/2)mr²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2mr²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "If I rad = 57.3° then ½ rad is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "57.3°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "28.65°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "180°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "360°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "The pressure will be low when the speed of fluid is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "High",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Low",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Constant",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "The acceleration of a body executing SHM depends upon its:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Time period",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Amplitude",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Frequency",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Displacement",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

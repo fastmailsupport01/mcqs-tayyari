@@ -1,0 +1,570 @@
+{
+ "board": "BISE Gujranwala",
+ "board_slug": "gujranwala",
+ "class": "9th",
+ "subject": "Computer Science",
+ "year": 2024,
+ "slug": "gujranwala-9th-computer-science-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "1.1 The order of application of two separate prepositions variable is not important in",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Distributive law",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Identity law",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Associative law",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Commutative law",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "---------- symbol is used either to start or end the flowchart.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Decision",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Process",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Connector",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Terminal",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "There may be types of headings in HTML document",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Routing is the process of taking data from one device and sending it to an other device",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "path",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "network",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "area",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "channel",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "In a the algorithm works but does not give required results.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "logical error",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "syntax error",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "runtime error",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "random error",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "______ is not characteristic of a good password.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "is eight characters long",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "does not contain username",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "contains uppercase letters",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "your name only",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "In \"body tag\", . is used to load a picture of a background image of a webpage",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "bgimage",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "backimage",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "background",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "bg",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Binary number system has base",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "16",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "A way to protect an idea is called",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "copyright law",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "piracy",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "patent",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "trade secret",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The IPV4 address is made up of binary bits.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "32",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "31",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "30",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "29",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "1.1 Value of each group of IPV4 is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0-255",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0-128",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1-64",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0-64",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Protecting data from malicious users is called",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "data privacy",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "data distribution",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "data sharing",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "data processing",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Before solving any problem, we must do",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "analysis",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "flowchart",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "algorithm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "planning",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "-------- is a container for metadata.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "<html>",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "html",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "<title>",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "<head>",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "------- extension is used to save HTML page. _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "html",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "htm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "hml",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "both a and b",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Due to error, algorithm does not give required results,",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "runtime",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "syntax",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "random",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "logical",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "-------- layers are there in a computer network model.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "In order of variables is not necessary.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Commutative law",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Distributive law",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Identity law",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Associative law",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "To obtain sensitive informations by sending e-mail is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "cyber stalking",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "phishing",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "DOS",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "pharming",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "-------- bits are there in a byte.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

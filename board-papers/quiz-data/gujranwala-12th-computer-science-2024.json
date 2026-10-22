@@ -1,0 +1,1354 @@
+{
+ "board": "BISE Gujranwala",
+ "board_slug": "gujranwala",
+ "class": "12th",
+ "subject": "Computer Science",
+ "year": 2024,
+ "slug": "gujranwala-12th-computer-science-2024",
+ "questions": [
+  {
+   "n": "1",
+   "group": "Group I",
+   "q_en": "1. An entity related to itself in an ERD model refers to relationship:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "recursive",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "one to many",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "many to many",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "one to one",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "group": "Group I",
+   "q_en": "The graphical query tool is known as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "query grid",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "design grid",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "query form",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "design form",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "group": "Group I",
+   "q_en": "A virtual table that is constructed from other tables is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "table",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "tuple",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "view",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "relation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "group": "Group I",
+   "q_en": "The data that causes inconsistency lacks:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "good data",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "data integrity",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "data redundancy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "data anomaly",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "group": "Group I",
+   "q_en": "Referential integrity is applied on:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "primary key",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "composite key",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "sort key",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "foreign key",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "group": "Group I",
+   "q_en": "Each separate piece of information stored in a record is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "form",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "field",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "table",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "query",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "7 (C)",
+   "group": "Group I",
+   "q_en": "If x = 2 , y = 3 , the expression (x > y)? (x + y) : (x * y); will display output as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "8 (C)",
+   "group": "Group I",
+   "q_en": "The keyword \"break\" cannot be used within:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "do while",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "if – else",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "for",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "while",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "9 (C)",
+   "group": "Group I",
+   "q_en": "The programmer usually prepares the source code using",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "compiler",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "text editor",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "debugger",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "linker",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "10 (C)",
+   "group": "Group I",
+   "q_en": "Memory is allocated to a local variable at the time of its:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "declaration",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "destruction",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "definition",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "first reference",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "11 (C)",
+   "group": "Group I",
+   "q_en": "The character conversion may occur in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "text stream",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "binary stream",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "input stream",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "output stream",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "12 (C)",
+   "group": "Group I",
+   "q_en": "Escape Sequence used to insert a Tab in C-Language is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "\\a",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "\\b",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "\\t",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "\\n",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "13 (C)",
+   "group": "Group I",
+   "q_en": "Format specifier %5.3 for the value 4.1257, will produce the output:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4.125",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4.126",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "□4.126",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "□4.125",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "14 (C)",
+   "group": "Group I",
+   "q_en": "Conditional operator is an alternative of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "if",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "if – else",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "switch",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "for",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "15 (C)",
+   "group": "Group I",
+   "q_en": "The data type in C-language that can handle fractional values, is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "long",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "char",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "float",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "int",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "7 (VB)",
+   "group": "Group I",
+   "q_en": "Data can be entered in a control when it has:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "tab order",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "mask",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "focus",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "control",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "8 (VB)",
+   "group": "Group I",
+   "q_en": "In Visual Basic, a form is another name for:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "object",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "window",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "property",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "label",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "9 (VB)",
+   "group": "Group I",
+   "q_en": "Which of the following is not a control?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "textbook",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "close button",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "command button",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "option button",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "10 (VB)",
+   "group": "Group I",
+   "q_en": "The property that changes text color is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "backcolor",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "textcolor",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "forecolor",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "fontcolor",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "11 (VB)",
+   "group": "Group I",
+   "q_en": "Visual Basic is a product of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Microsoft",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "IBM",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Hewlet",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Sun System",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "12 (VB)",
+   "group": "Group I",
+   "q_en": "A control that provides an identifiable grouping for control is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "textbox",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "button",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "label",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "listbox",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "13 (VB)",
+   "group": "Group I",
+   "q_en": "The output of compiler is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "source code",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "object code",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "linked code",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "program",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "14 (VB)",
+   "group": "Group I",
+   "q_en": "A predefined screen that can be used as one of the building blocks of an application:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "object",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "window",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "property",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "label",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "15 (VB)",
+   "group": "Group I",
+   "q_en": "The code that is used in a sub procedure to stop execution of a program is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "exit",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "halt",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "end",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "end sub",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "1",
+   "group": "Group II",
+   "q_en": "1. The smallest meaningful unit of data in a database is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "field",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "character",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "record",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "byte",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "group": "Group II",
+   "q_en": "In relational database, a table is also called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "tuple",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "relation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "schema",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "file",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "group": "Group II",
+   "q_en": "Which of the following data model is more flexible?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Network data model",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Relational data model",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Hierarchical data model",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Basic data model",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "group": "Group II",
+   "q_en": "Default field size of text data type field in MS Access:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "20",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "30",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "40",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "50",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "group": "Group II",
+   "q_en": "In an ER diagram, a rectangle represents:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "entity",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "relationship",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "attribute",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "action",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "group": "Group II",
+   "q_en": "The columns of a table correspond to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "cell",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "table",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "record",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "field",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "7 (C)",
+   "group": "Group II",
+   "q_en": "The case block ends with",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "End Select",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "End Case",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "break",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Case else",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "8 (C)",
+   "group": "Group II",
+   "q_en": "Format Specifier %5.2f for value 4.12157, will produce output:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "□4.12",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "□□4.12",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "□□□4.12",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "□5.121",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "9 (C)",
+   "group": "Group II",
+   "q_en": "If a = 70 what will be the output of the following expression? n = (a >= 80)? 10 : 20;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "15",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "20",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "10 (C)",
+   "group": "Group II",
+   "q_en": "The name of header file is written between:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[ ]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "( )",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "< >",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "<< >>",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "11 (C)",
+   "group": "Group II",
+   "q_en": "In which loop the condition comes after the body of the loop?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "for loop",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "while loop",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "do – while loop",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Infinite loop",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "12 (C)",
+   "group": "Group II",
+   "q_en": "Single line comment starts with",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "//",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "\\\\",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "*\\",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "\\*",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "13 (C)",
+   "group": "Group II",
+   "q_en": "A file is stored in",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "RAM",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Hard Disk",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ROM",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cache",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "14 (C)",
+   "group": "Group II",
+   "q_en": "Escape sequence used for backspace in C",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "\\a",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "\\b",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "\\t",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "\\r",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "15 (C)",
+   "group": "Group II",
+   "q_en": "Local variables are also called",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "automatic variables",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "normal variables",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "global variables",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "basic variables",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "7 (VB)",
+   "group": "Group II",
+   "q_en": "A procedure or function that imparts some action to an object is called",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "property",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "control",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "method",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "label",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "8 (VB)",
+   "group": "Group II",
+   "q_en": "Methods characterize an object's",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "behaviour",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "appearance",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "value",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "style",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "9 (VB)",
+   "group": "Group II",
+   "q_en": "Which event detects the pressing of standard displayable characters?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "key down",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "key up",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "keyboard",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "key press",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "10 (VB)",
+   "group": "Group II",
+   "q_en": "The diamond in a flowchart indicates",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "input",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "output",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "condition",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "progress",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "11 (VB)",
+   "group": "Group II",
+   "q_en": "The function which is used to display a message",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "input box",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "message",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "msgbox",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "text box",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "12 (VB)",
+   "group": "Group II",
+   "q_en": "Control, that is used to display text or to accept user input",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "label",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "textbox",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "button",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "property",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "13 (VB)",
+   "group": "Group II",
+   "q_en": "Relational operators are used to",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "add",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "compare",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "multiply",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "divide",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "14 (VB)",
+   "group": "Group II",
+   "q_en": "Forms and controls are collectively recognized as",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "properties",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "objects",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "methods",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "events",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "15 (VB)",
+   "group": "Group II",
+   "q_en": "The default message box style is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "OK only",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Yes No",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Yes No Cancel",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Retry Cancel",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

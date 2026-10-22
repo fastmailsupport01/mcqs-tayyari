@@ -1,0 +1,682 @@
+{
+ "board": "BISE Rawalpindi",
+ "board_slug": "lahore",
+ "class": "10th",
+ "subject": "Chemistry",
+ "year": 2024,
+ "slug": "rawalpindi-10th-chemistry-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Which one of the following is Heterocyclic compound?",
+   "q_ur": "درج ذیل میں سے کون سا ہیٹروسائیکلک کمپاؤنڈ ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Benzene",
+     "ur": "بینزین"
+    },
+    {
+     "k": "B",
+     "en": "Hexane",
+     "ur": "ہیکسین"
+    },
+    {
+     "k": "C",
+     "en": "Cyclohexane",
+     "ur": "سائیکلوہیکسین"
+    },
+    {
+     "k": "D",
+     "en": "Pyridine",
+     "ur": "پیریڈین"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Oxidation of ethene with KMnO₄ produces:",
+   "q_ur": "ایتھین کی KMnO₄ کے ساتھ آکسیڈیشن سے بنتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Oxalic acid",
+     "ur": "آگزالک ایسڈ"
+    },
+    {
+     "k": "B",
+     "en": "Glyoxal",
+     "ur": "گلائی آگزل"
+    },
+    {
+     "k": "C",
+     "en": "Ethane glycol",
+     "ur": "ایتھین گلائیکول"
+    },
+    {
+     "k": "D",
+     "en": "Propene glycol",
+     "ur": "پروپین گلائیکول"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Which one of the following is a reducing sugar?",
+   "q_ur": "مندرجہ ذیل میں سے کون سی ریڈیوسنگ شوگر ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Glucose",
+     "ur": "گلوکوز"
+    },
+    {
+     "k": "B",
+     "en": "Maltose",
+     "ur": "مالٹوز"
+    },
+    {
+     "k": "C",
+     "en": "Sucrose",
+     "ur": "سکروز"
+    },
+    {
+     "k": "D",
+     "en": "Starch",
+     "ur": "سٹارچ"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The organic compounds used as drugs to control bleeding are:",
+   "q_ur": "بلیڈنگ کو روکنے کے لیے بطور دوا استعمال کیے جانے والے آرگینک کمپاؤنڈز:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Vitamins",
+     "ur": "وٹامنز"
+    },
+    {
+     "k": "B",
+     "en": "Lipids",
+     "ur": "لپڈز"
+    },
+    {
+     "k": "C",
+     "en": "Proteins",
+     "ur": "پروٹینز"
+    },
+    {
+     "k": "D",
+     "en": "Fats",
+     "ur": "فیٹس"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Sphere just above the earth's surface is called:",
+   "q_ur": "زمین کی سطح کے بالکل اوپر والا سفئیر کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mesosphere",
+     "ur": "میزوسفیئر"
+    },
+    {
+     "k": "B",
+     "en": "Stratosphere",
+     "ur": "سٹریٹوسفیئر"
+    },
+    {
+     "k": "C",
+     "en": "Thermosphere",
+     "ur": "تھرموسفیئر"
+    },
+    {
+     "k": "D",
+     "en": "Troposphere",
+     "ur": "ٹروپوسفیئر"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Percentage amount of Argon in air is:",
+   "q_ur": "ہوا میں آرگون کی فیصد مقدار ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "78.09",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "20.94",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.93",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.03",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Which one compound / chemical is used to remove permanent hardness?",
+   "q_ur": "پرمیننٹ ہارڈنیس کو ختم کرنے کے لیے کون سا کمپاؤنڈ / کیمیکل استعمال ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sodium Zeolite",
+     "ur": "سوڈیم زیولائٹ"
+    },
+    {
+     "k": "B",
+     "en": "Soda lime",
+     "ur": "سوڈا لائم"
+    },
+    {
+     "k": "C",
+     "en": "Lime water",
+     "ur": "لائم واٹر"
+    },
+    {
+     "k": "D",
+     "en": "Quick lime",
+     "ur": "ان بجھا چونا"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The maximum density of water at 4°C is:",
+   "q_ur": "پانی کی 4°C پر زیادہ سے زیادہ ڈینسٹی ہوتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 g cm⁻³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1 g dm⁻³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.97 g cm⁻³",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.2 g dm⁻³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Which one of the following organic compounds is found in gasoline?",
+   "q_ur": "مندرجہ ذیل میں سے کون سا آرگینک کمپاؤنڈ گیسولین میں پایا جاتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "C₂H₄",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "C₃H₈",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "C₈H₁₈",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "C₁₂H₂₆",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "If Qc < Kc, the reaction goes to:",
+   "q_ur": "اگر Qc < Kc ہو تو ری ایکشن کی سمت ہوتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Left to right",
+     "ur": "بائیں سے دائیں طرف"
+    },
+    {
+     "k": "B",
+     "en": "Right to left",
+     "ur": "دائیں سے بائیں طرف"
+    },
+    {
+     "k": "C",
+     "en": "In equilibrium state",
+     "ur": "ایکوی لبریم کی حالت میں ہوگا"
+    },
+    {
+     "k": "D",
+     "en": "Reaction stops",
+     "ur": "ری ایکشن رک جاتا ہے"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "P_H of neutral solution is:",
+   "q_ur": "نیوٹرل سلوشن کا P_H ہوتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "12",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "14",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "What is the P_OH of a 0.02 M Ca(OH)₂ solution?",
+   "q_ur": "0.02M کے Ca(OH)₂ سلوشن کا P_OH کیا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.698",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.397",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "12.31",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "12.61",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Which one of the following is the hardest coal?",
+   "q_ur": "مندرجہ ذیل میں سے کون سا سخت ترین کوئلہ ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Peat",
+     "ur": "پیٹ"
+    },
+    {
+     "k": "B",
+     "en": "Lignite",
+     "ur": "لگنائٹ"
+    },
+    {
+     "k": "C",
+     "en": "Bituminous",
+     "ur": "بٹیومنس"
+    },
+    {
+     "k": "D",
+     "en": "Anthracite",
+     "ur": "اینتھرسائٹ"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Oxidation of alkenes produces:",
+   "q_ur": "الکینز کی آکسیڈیشن سے بنتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Glyoxal",
+     "ur": "گلائی آگزل"
+    },
+    {
+     "k": "B",
+     "en": "Glycol",
+     "ur": "گلائیکول"
+    },
+    {
+     "k": "C",
+     "en": "Oxalic acid",
+     "ur": "آگزالک ایسڈ"
+    },
+    {
+     "k": "D",
+     "en": "Formic acid",
+     "ur": "فارمک ایسڈ"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Which one of the following is tasteless?",
+   "q_ur": "مندرجہ ذیل میں سے کون سا بے ذائقہ ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Starch",
+     "ur": "سٹارچ"
+    },
+    {
+     "k": "B",
+     "en": "Glucose",
+     "ur": "گلوکوز"
+    },
+    {
+     "k": "C",
+     "en": "Fructose",
+     "ur": "فرکٹوز"
+    },
+    {
+     "k": "D",
+     "en": "Sucrose",
+     "ur": "سکروز"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Which one of the following is a triglyceride?",
+   "q_ur": "مندرجہ ذیل میں سے کون سا ٹرائی گلیسرائیڈ ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Carbohydrates",
+     "ur": "کاربوہائیڈریٹس"
+    },
+    {
+     "k": "B",
+     "en": "Proteins",
+     "ur": "پروٹینز"
+    },
+    {
+     "k": "C",
+     "en": "Lipids",
+     "ur": "لپڈز"
+    },
+    {
+     "k": "D",
+     "en": "Vitamins",
+     "ur": "وٹامنز"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Ozone is beneficial for us as it:",
+   "q_ur": "اوزون ہمارے لیے فائدہ مند ہے کیونکہ یہ جذب کرتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Absorbs infrared radiations",
+     "ur": "انفرا ریڈ ریڈی ایشنز کو جذب کرتی ہے"
+    },
+    {
+     "k": "B",
+     "en": "Absorbs ultraviolet radiations",
+     "ur": "الٹرا وائلٹ ریڈی ایشنز کو جذب کرتی ہے"
+    },
+    {
+     "k": "C",
+     "en": "Absorbs chlorofluorocarbons",
+     "ur": "کلوروفلوروکاربنز کو جذب کرتی ہے"
+    },
+    {
+     "k": "D",
+     "en": "Absorbs air pollutants",
+     "ur": "ہوا کے آلودگی کو جذب کرتی ہے"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Which one of these pollutants is NOT found in car exhaust fumes?",
+   "q_ur": "مندرجہ ذیل میں سے کون سا آلودگی کار کے ایگزاسٹ دھوئیں میں نہیں پایا جاتا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "O₃",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CO",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "SO₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NO₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Which one of the following salts makes the water permanently hard?",
+   "q_ur": "مندرجہ ذیل میں سے کون سا نمک پانی کو پرمیننٹلی ہارڈ بناتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Na₂CO₃",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NaHCO₃",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ca(HCO₃)₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CaSO₄",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Ionic compounds are soluble in water due to:",
+   "q_ur": "آئنک کمپاؤنڈز پانی میں حل پذیر ہوتے ہیں کیونکہ:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hydrogen bonding",
+     "ur": "ہائیڈروجن بانڈنگ"
+    },
+    {
+     "k": "B",
+     "en": "Ion-dipole forces",
+     "ur": "آئن۔ ڈائپول فورسز"
+    },
+    {
+     "k": "C",
+     "en": "Dipole-dipole forces",
+     "ur": "ڈائپول۔ ڈائپول فورسز"
+    },
+    {
+     "k": "D",
+     "en": "Dipole-induced dipole forces",
+     "ur": "ڈائپول۔ انڈیوسڈ ڈائپول فورسز"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Formula of urea is:",
+   "q_ur": "یوریا کا فارمولا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "NH₂COONH₄",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NH₂COONH₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NH₂CONH₄",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NH₂CONH₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "The dynamic equilibrium:",
+   "q_ur": "ڈائنامک ایکوی لبریم کی حالت میں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "The reaction stops to proceed",
+     "ur": "ری ایکشن آگے بڑھنے سے رک جاتا ہے"
+    },
+    {
+     "k": "B",
+     "en": "The amounts of reactants and products are equal",
+     "ur": "ری ایکٹنٹس اور پروڈکٹس کی مقداریں برابر ہوتی ہیں"
+    },
+    {
+     "k": "C",
+     "en": "The speed of the forward and reverse reactions is equal",
+     "ur": "فارورڈ اور ریورس ری ایکشنز کی سپیڈ برابر ہوتی ہے"
+    },
+    {
+     "k": "D",
+     "en": "The reaction can no longer be reversed",
+     "ur": "ری ایکشن مزید ریورس نہیں ہو سکتا"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Dilute acids react with carbonates to produce the products except:",
+   "q_ur": "ڈائیلوٹ ایسڈز کاربونیٹس کے ساتھ ری ایکشن کر کے درج ذیل مصنوعات بناتے ہیں سوائے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Salt",
+     "ur": "نمک"
+    },
+    {
+     "k": "B",
+     "en": "Water",
+     "ur": "پانی"
+    },
+    {
+     "k": "C",
+     "en": "Carbon dioxide",
+     "ur": "کاربن ڈائی آکسائیڈ"
+    },
+    {
+     "k": "D",
+     "en": "Hydrogen",
+     "ur": "ہائیڈروجن"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "You want to dry a gas which one of the following salts you will use?",
+   "q_ur": "گیس کو خشک کرنے کے لیے کون سا نمک استعمال کریں گے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "CaCl₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NaCl",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CaO",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Na₂SiO₃",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

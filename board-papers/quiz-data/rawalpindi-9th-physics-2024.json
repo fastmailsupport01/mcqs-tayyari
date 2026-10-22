@@ -1,0 +1,682 @@
+{
+ "board": "BISE Rawalpindi",
+ "board_slug": "lahore",
+ "class": "9th",
+ "subject": "Physics",
+ "year": 2024,
+ "slug": "rawalpindi-9th-physics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The correct equation of motion will be:",
+   "q_ur": "حرکت کی درست مساوات ہوگی:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Vf − Vi = at",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Vi − Vf = at",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Vf² − Vi² = a²t²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Vf² + Vi² = a²t²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The number of significant figures in 0.03 is:",
+   "q_ur": "0.03 میں اہم ہندسوں کی تعداد ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The unit of force will be:",
+   "q_ur": "فورس کا یونٹ ہوگا:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ns",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Kg ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Kg ms⁻²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ns⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The values of rectangular components Fx and Fy of a force F are 6N and 8N, the magnitude of force will be:",
+   "q_ur": "ایک فورس F کے مستطیلی اجزاء Fx اور Fy کی مقداریں بالترتیب 6N اور 8N ہیں، اس فورس کی مقدار ہوگی:",
+   "options": [
+    {
+     "k": "A",
+     "en": "48 N",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "14 N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10 N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "100 N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The value of gravitational field strength near earth's surface is:",
+   "q_ur": "زمین کی سطح کے قریب گریویٹیشنل فیلڈ سٹرینتھ کی قیمت ہوتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": "صفر"
+    },
+    {
+     "k": "B",
+     "en": "6.67 Nkg⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10 Nkg⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8.9 Nkg⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "A body of mass 2 kg is placed on the table 100 cm high, the value of its kinetic energy is:",
+   "q_ur": "2 کلوگرام کا ایک جسم 100 cm اونچی میز پر رکھا ہوا ہے اس کی کائنیٹک انرجی کی قیمت ہوگی:",
+   "options": [
+    {
+     "k": "A",
+     "en": "50 joule",
+     "ur": "50 جول"
+    },
+    {
+     "k": "B",
+     "en": "20 joule",
+     "ur": "20 جول"
+    },
+    {
+     "k": "C",
+     "en": "400 joule",
+     "ur": "400 جول"
+    },
+    {
+     "k": "D",
+     "en": "Zero joule",
+     "ur": "صفر جول"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The graph which does not obey Hooke's law is:",
+   "q_ur": "وہ گراف جس میں ہکس کے قانون کی پابندی نہیں ہوتی:",
+   "options": [
+    {
+     "k": "A",
+     "en": "[F-x graph with linear rise then plateau]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[F-x graph with curved rise]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[F-x graph linear through origin]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[F-x step graph]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Water freezes at:",
+   "q_ur": "پانی جس درجہ حرارت پر منجمد ہو جاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "32 °F",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "180 °F",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "212 °F",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0 °F",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Metals are good conductors of heat due to :",
+   "q_ur": "دھاتیں حرارت کی اچھی کنڈکٹر ہوتی ہیں کیونکہ:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Free electrons",
+     "ur": "آزاد الیکٹران"
+    },
+    {
+     "k": "B",
+     "en": "Big size of their molecules",
+     "ur": "ان کے مالیکیولز کا بڑا سائز"
+    },
+    {
+     "k": "C",
+     "en": "Small size of their molecules",
+     "ur": "ان کے مالیکیولز کا چھوٹا سائز"
+    },
+    {
+     "k": "D",
+     "en": "Rapid vibrations of their atoms",
+     "ur": "ان کے ایٹموں کی تیز تھرتھراہٹ"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "A force of 20 N produces an acceleration of 2.5 ms⁻² in a body. The mass of the body is:",
+   "q_ur": "20 N کی فورس ایک جسم میں 2.5 ms⁻² کا ایکسلریشن پیدا کرتی ہے جسم کا ماس ہوگا:",
+   "options": [
+    {
+     "k": "A",
+     "en": "10 kg",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "50 kg",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8 kg",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.25 kg",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Normal human body temperature is:",
+   "q_ur": "نارمل انسانی جسم کا درجہ حرارت ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "310 k",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "273 k",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "37 k",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "98.6 k",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The unit Nm used for torque can also be used for:",
+   "q_ur": "ٹارک کا یونٹ Nm اس مقدار کے لیے بھی استعمال ہو سکتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Power",
+     "ur": "پاور"
+    },
+    {
+     "k": "B",
+     "en": "Efficiency",
+     "ur": "ایفیشینسی"
+    },
+    {
+     "k": "C",
+     "en": "Momentum",
+     "ur": "مومنٹم"
+    },
+    {
+     "k": "D",
+     "en": "Work",
+     "ur": "ورک"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "One megameter is equal to:",
+   "q_ur": "ایک میگا میٹر برابر ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "10⁶m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10³m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10⁹m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10¹²m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "See-saw is an example of:",
+   "q_ur": "سی-سا ایک مثال ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Rotatory Motion",
+     "ur": "روٹیٹری موشن"
+    },
+    {
+     "k": "B",
+     "en": "Circular Motion",
+     "ur": "سرکلر موشن"
+    },
+    {
+     "k": "C",
+     "en": "Vibratory Motion",
+     "ur": "وائبریٹری موشن"
+    },
+    {
+     "k": "D",
+     "en": "Random Motion",
+     "ur": "رینڈم موشن"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "The resultant of all the forces acting on a body is called:",
+   "q_ur": "کسی جسم پر عمل کرنے والی تمام فورسز کا رزلٹینٹ کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Net force",
+     "ur": "نیٹ فورس"
+    },
+    {
+     "k": "B",
+     "en": "Friction force",
+     "ur": "فرکشن فورس"
+    },
+    {
+     "k": "C",
+     "en": "Gravitational force",
+     "ur": "گریویٹیشنل فورس"
+    },
+    {
+     "k": "D",
+     "en": "Force",
+     "ur": "فورس"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Inertia is related with:",
+   "q_ur": "انرشیا کا تعلق کس کے ساتھ ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mass",
+     "ur": "ماس"
+    },
+    {
+     "k": "B",
+     "en": "Force",
+     "ur": "فورس"
+    },
+    {
+     "k": "C",
+     "en": "Weight",
+     "ur": "وزن"
+    },
+    {
+     "k": "D",
+     "en": "Energy",
+     "ur": "انرجی"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The value of sin 30° is:",
+   "q_ur": "sin 30° کی قیمت ہوتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.15",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.866",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.707",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "The value of \"g\" on Moon is:",
+   "q_ur": "چاند پر \"g\" کی قیمت ہوتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "10ms⁻²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.62ms⁻²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3.7ms⁻²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3.9ms⁻²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Rate of doing work is called:",
+   "q_ur": "ورک کرنے کی شرح کہلاتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Energy",
+     "ur": "انرجی"
+    },
+    {
+     "k": "B",
+     "en": "Torque",
+     "ur": "ٹارک"
+    },
+    {
+     "k": "C",
+     "en": "Force",
+     "ur": "فورس"
+    },
+    {
+     "k": "D",
+     "en": "Power",
+     "ur": "پاور"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Mass-energy equation is:",
+   "q_ur": "ماس-انرجی کی مساوات ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "E = m²c²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "E = mc²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "E = m/c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "E = m/c²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Hydraulic press works on:",
+   "q_ur": "ہائیڈرالک پریس کام کرتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Newton's law",
+     "ur": "نیوٹن کے قانون"
+    },
+    {
+     "k": "B",
+     "en": "Pascal's law",
+     "ur": "پاسکل کے قانون"
+    },
+    {
+     "k": "C",
+     "en": "Archimedes' principle",
+     "ur": "آرکی میڈیز کے اصول"
+    },
+    {
+     "k": "D",
+     "en": "Hook's law",
+     "ur": "ہکس کے قانون"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Unit of heat is:",
+   "q_ur": "حرارت کا یونٹ ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Watt",
+     "ur": "واٹ"
+    },
+    {
+     "k": "B",
+     "en": "Kelvin",
+     "ur": "کیلون"
+    },
+    {
+     "k": "C",
+     "en": "Joule",
+     "ur": "جول"
+    },
+    {
+     "k": "D",
+     "en": "Ampere",
+     "ur": "ایمپیئر"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Absolute zero is equal to:",
+   "q_ur": "ایبسولیوٹ زیرو برابر ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "273 °C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "373 °C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−273 °C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0 °C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "The thermal conductivity of ice is:",
+   "q_ur": "برف کی تھرمل کنڈکٹیویٹی ہوتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "35 wm⁻¹k⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.7 wm⁻¹k⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.7 wm⁻¹k⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.8 wm⁻¹k⁻¹",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,962 @@
+{
+ "board": "BISE Faisalabad",
+ "board_slug": "faisalabad",
+ "class": "11th",
+ "subject": "Physics",
+ "year": 2024,
+ "slug": "faisalabad-11th-physics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The dimension of ρgh is similar as that of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Power",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Torque",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Pressure",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Force",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The wavelength of wave produced by microwave oven is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "6cm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "12cm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "24cm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "50cm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Speed of sound in air at S.T.P. is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "280 m/s",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "330 m/s",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "332 m/s",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "350 m/s",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Half wavelength corresponds to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "180°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "360°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Which cannot be polarized?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sound waves",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "X-rays",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Light waves",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Radio waves",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The first person who attempted to measure the speed of light was:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Newton",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Galileo",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Huygen",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Michelson",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Boltzman constant \"K\" has the same unit as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Pressure",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Energy",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Temperature",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Entropy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "If temperature of the sink decreases, then efficiency of Carnot engine:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Increases",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Decreases",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Remains the same",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "First increases then decreases",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Which is not a base unit in SI units?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ampere",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Joule",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Kilogram",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Kelvin",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "If error in measurement of radius of circle is 2%, then permissible error in its area will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1%",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2%",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3%",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4%",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "If Ax = Ay, then angle between A̅ and x-axis is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "30°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "90°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "In which quadrant vector -2î -3ĵ lies?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1st",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2nd",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3rd",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4th",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Impulse has same unit as that of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mass",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Energy",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Force",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Linear momentum",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "The range of projectile is same for:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10°, 70°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "20°, 50°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "25°, 65°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "30°, 70°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Which one is non-renewable source of energy?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Tides",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Biomass",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Waves",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Oil",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "Rotational K.E. of disc is given by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "½mv²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "¼mv²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√gh",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√(4/3 gh)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "If a body of mass 10kg is falling freely, its apparent weight will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "98N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "980N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Cp - Cv = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Plank's constant",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Molar gas constant",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "General gas constant",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Boltzmann constant",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Which remains constant in an adiabatic process:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Volume",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Entropy",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Pressure",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Temperature",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Least distance of distinct vision for normal eye is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "15 cm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "125 cm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "25 cm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "25 m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Fringe spacing increases if we use:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Green light",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Red light",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Yellow light",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Blue light",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "With increase of temperature sound speed:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Remains constant",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Increases",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Becomes zero",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Decreases",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Half wave length corresponds to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "180°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "360°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "The wave form of SHM is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A square wave",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Sine wave",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cosine wave",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Tangent wave",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "SI units of viscosity are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "kg⁻¹ ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "kg⁻¹m⁻¹s",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "kg m⁻¹ s⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "kg m s⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Centripetal force performs:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Minimum work",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Maximum work",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "No work",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Negative work",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Which quantity is dimension less?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Centripetal force",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Angular velocity",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Angular displacement",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Angular acceleration",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Which is non-conservative force?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electrical force",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Gravitational force",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Frictional force",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Magnetic force",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "SI unit of impulse is equivalent to that of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Force",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Velocity",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Momentum",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Acceleration",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "Which formula is true?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "m = a/F",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "F = m/a",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a = F/m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a = m/F",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "Magnitudes of cross product and dot product of two vectors are equal. The angle between the vectors is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "180°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "60°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "First condition of equilibrium implies that:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "∑F = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "∑Fx = 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "∑Fy = 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "∑Fx = ∑Fy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "Significant figures in 8.70×10⁴ kg are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "A light year is the distance light travels in one year. How many meters are there in one light year?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "9.5×10⁻¹⁵ m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "9.5×10¹⁵ km",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "9.5×10¹⁵ cm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9.5×10¹⁵ m",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,430 @@
+{
+ "board": "BISE Rawalpindi",
+ "board_slug": "lahore",
+ "class": "11th",
+ "subject": "Computer Science",
+ "year": 2024,
+ "slug": "rawalpindi-11th-computer-science-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Part - I (Objective)",
+   "q_en": "The register that is used for arithmetic and data operation is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "AX",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "BX",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CX",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "DX",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Part - I (Objective)",
+   "q_en": "The program that contains instructions to operate a device is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Device driver",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Device operator",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Device linking",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Device system",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Part - I (Objective)",
+   "q_en": "Which virus executes when starting the computer?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Logic bomb",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Boot sector",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Redlof",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Trojan horse",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Part - I (Objective)",
+   "q_en": "Windows operating system was developed by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sun system",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "HP",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Microsoft",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "IBM",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Part - I (Objective)",
+   "q_en": "Which of the following is a Word Processor?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "MS-Excel",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "MS-Power Point",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "MS-Outlook",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "MS-Word",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Part - I (Objective)",
+   "q_en": "If the custom format is #, ### then 1500 will be displayed as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "15,00",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1,500",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "15,000",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "150,0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Part - I (Objective)",
+   "q_en": "Which of the following is a correct formula?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "= A1 and A4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "+A1 and A4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "= A1 + A4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A1 + A4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Part - I (Objective)",
+   "q_en": "The length of IP address is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "64 bit",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "32 bit",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "16 bit",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8 bit",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Part - I (Objective)",
+   "q_en": "Smallest unit of memory is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Byte",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Bit",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Character",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Word",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Part - I (Objective)",
+   "q_en": "Which technology is used to read data on cheques?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "OMR",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "OCR",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CAT",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "MICR",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Part - I (Objective)",
+   "q_en": "Total number of layers in OSI model is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Part - I (Objective)",
+   "q_en": "A connection for similar network uses:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "NIC",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Bridge",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Gateway",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Router",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Part - I (Objective)",
+   "q_en": "Collection of 8 bits is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Bit",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Byte",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "KB",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nibble",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Part - I (Objective)",
+   "q_en": "How many characters ASCII 7 bit code represents?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "128",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "256",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "512",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1024",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Part - I (Objective)",
+   "q_en": "CBT software is used in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Business",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Industry",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Education",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "E-banking",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

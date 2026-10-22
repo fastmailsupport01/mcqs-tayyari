@@ -1,0 +1,682 @@
+{
+ "board": "BISE Faisalabad",
+ "board_slug": "faisalabad",
+ "class": "9th",
+ "subject": "Chemistry",
+ "year": 2024,
+ "slug": "faisalabad-9th-chemistry-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The densities of gases are expressed in term of",
+   "q_ur": "گیسز کی ڈینسٹی کو کس نام کیا جاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "mg cm⁻³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "g cm⁻³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "g dm⁻³",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "kg dm⁻³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Which one will show negligible effect of temperature on its solubility?",
+   "q_ur": "کس کی سولیوبیلٹی پر ٹمپریچر کا بہت معمولی اثر ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "KCl",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "KNO₃",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NaNO₃",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NaCl",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Which solution contains more water?",
+   "q_ur": "کس سلوشن میں پانی زیادہ ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.25M",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.5M",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1M",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2M",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Spontaneous chemical reaction take place in:",
+   "q_ur": "ازخود واقع ہونے والا کیمیکل ری ایکشن کس سیل میں ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electrolytic cell",
+     "ur": "الیکٹرولیٹک سیل"
+    },
+    {
+     "k": "B",
+     "en": "Galvanic cell",
+     "ur": "گیلوانک سیل"
+    },
+    {
+     "k": "C",
+     "en": "Nelson's cell",
+     "ur": "نیلسن سیل"
+    },
+    {
+     "k": "D",
+     "en": "Downs cell",
+     "ur": "ڈاؤنز سیل"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The oxidation number of nitrogen in HNO₂ is:",
+   "q_ur": "HNO₂ میں نائٹروجن کا آکسیڈیشن نمبر ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "+1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "+2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "+3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "+6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The electronic configuration of valence shell of halogens is:",
+   "q_ur": "ہیلوجن کے ویلنس شیل کی الیکٹرانک کنفیگریشن ہوتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "ns²np⁵",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ns²np⁶",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ns²np⁴",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ns²np¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The empirical formula of glucose is:",
+   "q_ur": "گلوکوز کا ایمپیریکل فارمولا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "HO",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CH₂O",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "C₆H₆",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "C₆H₁₂O₆",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Which one compound can be separated by physical means?",
+   "q_ur": "کس کے اجزاء کو طبیعی طریقوں سے الگ الگ کیا جا سکتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mixture",
+     "ur": "مکسچر"
+    },
+    {
+     "k": "B",
+     "en": "Element",
+     "ur": "ایلیمنٹ"
+    },
+    {
+     "k": "C",
+     "en": "Compound",
+     "ur": "کمپاؤنڈ"
+    },
+    {
+     "k": "D",
+     "en": "Radical",
+     "ur": "ریڈیکل"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The concept of orbit was used by:",
+   "q_ur": "ایٹم کے آربٹ کا تصور کس نے پیش کیا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "J.J. Thomson",
+     "ur": "جے۔جے۔ تھامسن"
+    },
+    {
+     "k": "B",
+     "en": "Rutherford",
+     "ur": "ردرفورڈ"
+    },
+    {
+     "k": "C",
+     "en": "Bohr",
+     "ur": "بوہر"
+    },
+    {
+     "k": "D",
+     "en": "Planks",
+     "ur": "پلانکس"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Transition elements are:",
+   "q_ur": "ٹرانزیشن ایلیمنٹس ہوتے ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "All gases",
+     "ur": "تمام گیسز"
+    },
+    {
+     "k": "B",
+     "en": "All metals",
+     "ur": "تمام میٹلز"
+    },
+    {
+     "k": "C",
+     "en": "All non-metals",
+     "ur": "تمام نان میٹلز"
+    },
+    {
+     "k": "D",
+     "en": "All metalloids",
+     "ur": "تمام میٹلائڈز"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "When an electronegative element combines with electropositive element, the type of bonding is:",
+   "q_ur": "جب ایک الیکٹرونیگیٹو ایلیمنٹ کسی الیکٹروپوزیٹو ایلیمنٹ کے ساتھ ملتا ہے تو ان کے درمیان بانڈنگ کی قسم ہوتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Covalent",
+     "ur": "کوویلنٹ"
+    },
+    {
+     "k": "B",
+     "en": "Ionic",
+     "ur": "آئیونک"
+    },
+    {
+     "k": "C",
+     "en": "Polar covalent",
+     "ur": "پولر کوویلنٹ"
+    },
+    {
+     "k": "D",
+     "en": "Coordinate covalent",
+     "ur": "کوآرڈینیٹ کوویلنٹ"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Which one is the weakest force among the atoms?",
+   "q_ur": "ایٹمز کے درمیان پائی جانے والی کمزور ترین فورس کون سی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ionic force",
+     "ur": "آئیونک فورس"
+    },
+    {
+     "k": "B",
+     "en": "Metallic force",
+     "ur": "میٹالک فورس"
+    },
+    {
+     "k": "C",
+     "en": "Inter molecular force",
+     "ur": "انٹرمالیکیولر فورس"
+    },
+    {
+     "k": "D",
+     "en": "Covalent force",
+     "ur": "کوویلنٹ فورس"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "One mole of NaCl is equal to:",
+   "q_ur": "NaCl کا ایک مول برابر ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "58.5g of NaCl",
+     "ur": "NaCl کے 58.5 گرام کے"
+    },
+    {
+     "k": "B",
+     "en": "56.5g of NaCl",
+     "ur": "NaCl کے 56.5 گرام کے"
+    },
+    {
+     "k": "C",
+     "en": "54.5g of NaCl",
+     "ur": "NaCl کے 54.5 گرام کے"
+    },
+    {
+     "k": "D",
+     "en": "52.5g of NaCl",
+     "ur": "NaCl کے 52.5 گرام کے"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Molecular mass of H₂O is:",
+   "q_ur": "H₂O کا مالیکیولر ماس ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "16g",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "16amu",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "18g",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "18amu",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "K shell can accommodate:",
+   "q_ur": "K شیل میں سما سکتے ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "2 electrons",
+     "ur": "2 الیکٹرونز"
+    },
+    {
+     "k": "B",
+     "en": "8 electrons",
+     "ur": "8 الیکٹرونز"
+    },
+    {
+     "k": "C",
+     "en": "18 electrons",
+     "ur": "18 الیکٹرونز"
+    },
+    {
+     "k": "D",
+     "en": "32 electrons",
+     "ur": "32 الیکٹرونز"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Element which has the highest ionization energy is:",
+   "q_ur": "سب سے زیادہ آئیونائزیشن انرجی رکھنے والا ایلیمنٹ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Rb",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "K",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Na",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Li",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "An ionic compound is:",
+   "q_ur": "ایک آئیونک کمپاؤنڈ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "H₂SO₄",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NaCl",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "C₆H₁₂O₆",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CH₄",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Triple covalent bond present in:",
+   "q_ur": "ٹرپل کوویلنٹ بانڈ موجود ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "NH₃",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CH₄",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "C₂H₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "C₂H₄",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Transition temperature of phosphorus is:",
+   "q_ur": "فاسفورس کا ٹرانزیشن ٹمپریچر ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "240°C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "250°C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "260°C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "270°C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Dental amalgam for filling of tooth is an example of:",
+   "q_ur": "ڈینٹل ایملگم جو دانتوں کے سوراخوں میں بھرا جاتا ہے، مثال ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Liquid in liquid solution",
+     "ur": "لیکویڈ ان لیکویڈ سلوشن"
+    },
+    {
+     "k": "B",
+     "en": "Liquid in solid solution",
+     "ur": "لیکویڈ ان سالڈ سلوشن"
+    },
+    {
+     "k": "C",
+     "en": "Solid in liquid solution",
+     "ur": "سالڈ ان لیکویڈ سلوشن"
+    },
+    {
+     "k": "D",
+     "en": "Solid in solid solution",
+     "ur": "سالڈ ان سالڈ سلوشن"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "An example of suspension is:",
+   "q_ur": "سسپنشن کی مثال ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Paint",
+     "ur": "پینٹ"
+    },
+    {
+     "k": "B",
+     "en": "Jelly",
+     "ur": "جیلی"
+    },
+    {
+     "k": "C",
+     "en": "Starch",
+     "ur": "سٹارچ"
+    },
+    {
+     "k": "D",
+     "en": "Albumin",
+     "ur": "البیومن"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Oxidation number of oxygen in H₂O is:",
+   "q_ur": "H₂O میں آکسیجن کا آکسیڈیشن نمبر ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "−1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "+1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "+2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "A compound which completely ionize in aqueous solution is:",
+   "q_ur": "ایک کمپاؤنڈ جو ایکوئس سلوشن میں مکمل طور پر آئیونائز ہو جاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Acetic acid",
+     "ur": "ایسٹک ایسڈ"
+    },
+    {
+     "k": "B",
+     "en": "Sodium hydroxide",
+     "ur": "سوڈیم ہائیڈرو آکسائیڈ"
+    },
+    {
+     "k": "C",
+     "en": "Benzene",
+     "ur": "بینزین"
+    },
+    {
+     "k": "D",
+     "en": "Sugar",
+     "ur": "شوگر"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "The least electropositive alkali metal is:",
+   "q_ur": "سب سے کم الیکٹروپوزیٹو الکلی میٹل ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Li",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Na",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "K",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Rb",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

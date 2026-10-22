@@ -1,0 +1,682 @@
+{
+ "board": "BISE Rawalpindi",
+ "board_slug": "lahore",
+ "class": "10th",
+ "subject": "Physics",
+ "year": 2024,
+ "slug": "rawalpindi-10th-physics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Two small charged spheres are separated by 2mm. Which of the following would produce the greatest attractive force?",
+   "q_ur": "دو چھوٹے چارجڈ سفیرز 2mm کے فاصلے پر رکھے ہیں۔ درج ذیل میں سے کس میں سب سے زیادہ کشش کی فورس ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "+1q and +4q",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−1q and −4q",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "+2q and +2q",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "+2q and −2q",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "What is the voltage across a 6Ω resistor when 3A of current passes through it?",
+   "q_ur": "ایک 6Ω کے رزسٹر میں سے 3A کرنٹ گزرتا ہے تو اس کے گرد وولٹیج ہوگا:",
+   "options": [
+    {
+     "k": "A",
+     "en": "2V",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "9V",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "18V",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "36V",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Which part of a D.C motor reverse the direction of current through the coil every half cycle?",
+   "q_ur": "ڈی سی موٹر کا کون سا حصہ ہر آدھے چکر کے بعد کوائل میں سے گزرنے والی کرنٹ کی سمت کو بدلتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "The commutator",
+     "ur": "کمیوٹیٹر"
+    },
+    {
+     "k": "B",
+     "en": "The armature",
+     "ur": "آرمیچر"
+    },
+    {
+     "k": "C",
+     "en": "The brushes",
+     "ur": "برشز"
+    },
+    {
+     "k": "D",
+     "en": "The slip rings",
+     "ur": "سلپ رنگز"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "If X = A.B, then X is \"1\" when:",
+   "q_ur": "اگر X = A.B ہو تو X لیول \"1\" ہوگا جب:",
+   "options": [
+    {
+     "k": "A",
+     "en": "A = 1 & B = 1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A = 0 or B = 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A = 0 and B = 1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A = 1 and B = 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "In computer terminology information means:",
+   "q_ur": "کمپیوٹر ٹرمینالوجی میں انفارمیشن کا مطلب ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Any data",
+     "ur": "کوئی بھی ڈیٹا"
+    },
+    {
+     "k": "B",
+     "en": "Raw data",
+     "ur": "کچا ڈیٹا"
+    },
+    {
+     "k": "C",
+     "en": "Processed data",
+     "ur": "پروسیسڈ ڈیٹا"
+    },
+    {
+     "k": "D",
+     "en": "Large data",
+     "ur": "زیادہ ڈیٹا"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "When uranium (92 protons) ejects a beta particle, how many protons will be in the remaining nucleus?",
+   "q_ur": "جب یورینیم (92 پروٹونز) سے بیٹا پارٹیکل خارج ہوتا ہے تو باقی نیوکلیس میں کتنے پروٹونز ہوں گے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "89 protons",
+     "ur": "89 پروٹونز"
+    },
+    {
+     "k": "B",
+     "en": "90 protons",
+     "ur": "90 پروٹونز"
+    },
+    {
+     "k": "C",
+     "en": "91 protons",
+     "ur": "91 پروٹونز"
+    },
+    {
+     "k": "D",
+     "en": "93 protons",
+     "ur": "93 پروٹونز"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "If speed of sound is 332ms⁻¹ then distance covered in 1.5 sec will be:",
+   "q_ur": "اگر ساؤنڈ کی سپیڈ 332ms⁻¹ ہو تو 1.5 سیکنڈ میں طے کردہ فاصلہ ہوگا:",
+   "options": [
+    {
+     "k": "A",
+     "en": "331.5 m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "333.5 m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "498 m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "221 m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "By end of two half lives, how many number of atoms of radioactive element remain un-decayed.",
+   "q_ur": "دو ہاف لائف کے بعد ریڈیو ایکٹو ایلیمنٹ کے کتنے ایٹمز غیر تحلیل شدہ رہ جائیں گے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2/4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "For an ideal transformer we can write:",
+   "q_ur": "ایک آئیڈیل ٹرانسفارمر کے لیے ہم لکھ سکتے ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Pp # Ps",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Pp = Ps",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Pp > Ps",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Pp < Ps",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Waves transfer:",
+   "q_ur": "ویوز منتقل کرتی ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Energy",
+     "ur": "انرجی"
+    },
+    {
+     "k": "B",
+     "en": "Frequency",
+     "ur": "فریکوئنسی"
+    },
+    {
+     "k": "C",
+     "en": "Wavelength",
+     "ur": "ویو لینتھ"
+    },
+    {
+     "k": "D",
+     "en": "Velocity",
+     "ur": "ولاسٹی"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "For a normal person, audible frequency range for sound wave lie between :",
+   "q_ur": "ایک عام آدمی کے لیے قابل سماعت ساؤنڈ کی فریکوئنسی کی حد ہوتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "10 HZ-10 KHZ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "20 HZ - 20 KHZ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "25 HZ-25 KHZ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "30HZ-30KHZ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Which type of image is produced by the converging lens of human eye if it views a distant object?",
+   "q_ur": "انسانی آنکھ کا کنورجنگ لینز دور کی چیز کا کس قسم کا امیج بناتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Real, erect, same size",
+     "ur": "ریئل، ایریکٹ، سیم سائز"
+    },
+    {
+     "k": "B",
+     "en": "Real, inverted, diminished",
+     "ur": "ریئل، انورٹڈ، ڈمنشڈ"
+    },
+    {
+     "k": "C",
+     "en": "Virtual, erect, diminished",
+     "ur": "ورچوئل، ایریکٹ، ڈمنشڈ"
+    },
+    {
+     "k": "D",
+     "en": "Virtual, inverted, magnified",
+     "ur": "ورچوئل، انورٹڈ، میگنیفائیڈ"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "The correct relation between focal length and radius of curvature is:",
+   "q_ur": "فوکل لینتھ اور رداسِ انحنا کے درمیان درست تعلق ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "f = R/4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "f = R/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "f = R/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "f = R",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Capacitance is defined as:",
+   "q_ur": "کیپیسٹینس کی تعریف یوں کی جاتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "C = V + Q",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "C = Q/V",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "C = QV",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "C = V/Q",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "The voltage across 6Ω resistor is 18 volt. The current passes through it is:",
+   "q_ur": "6Ω رزسٹر کے گرد وولٹیج 18 وولٹ ہے۔ اس میں سے گزرنے والی کرنٹ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "3A",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "12A",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "24A",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "36A",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Two resistor of resistance 6kΩ and 12kΩ are connected in parallel across a 6 volt battery. The potential difference across 6kΩ resistor is:",
+   "q_ur": "6kΩ اور 12kΩ کے دو رزسٹر 6 وولٹ کی بیٹری کے متوازی جوڑے گئے ہیں۔ 6kΩ رزسٹر کے گرد پوٹینشل ڈفرنس ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "2 Volt",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4 Volt",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6 Volt",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "12 Volt",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The direction of induced emf in a circuit is in accordance with law of conservation of:",
+   "q_ur": "سرکٹ میں انڈیوسڈ ای ایم ایف کی سمت کس کے قانون کے مطابق ہوتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mass",
+     "ur": "ماس"
+    },
+    {
+     "k": "B",
+     "en": "Charge",
+     "ur": "چارج"
+    },
+    {
+     "k": "C",
+     "en": "Momentum",
+     "ur": "مومنٹم"
+    },
+    {
+     "k": "D",
+     "en": "Energy",
+     "ur": "انرجی"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "The process by which electrons are emitted by a hot metal surface is known as:",
+   "q_ur": "وہ عمل جس میں گرم دھاتی سطح سے الیکٹرونز خارج ہوتے ہیں کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Boiling",
+     "ur": "بوائلنگ"
+    },
+    {
+     "k": "B",
+     "en": "Evaporation",
+     "ur": "ایویپوریشن"
+    },
+    {
+     "k": "C",
+     "en": "Conduction",
+     "ur": "کنڈکشن"
+    },
+    {
+     "k": "D",
+     "en": "Thermionic emission",
+     "ur": "تھرمیونک ایمیشن"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "The brain of any computer system is:",
+   "q_ur": "کسی بھی کمپیوٹر سسٹم کا دماغ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Memory",
+     "ur": "میموری"
+    },
+    {
+     "k": "B",
+     "en": "Monitor",
+     "ur": "مانیٹر"
+    },
+    {
+     "k": "C",
+     "en": "Control unit",
+     "ur": "کنٹرول یونٹ"
+    },
+    {
+     "k": "D",
+     "en": "CPU",
+     "ur": "سی پی یو"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "One of the isotopes of uranium is ²³⁸₉₂U. The number of protons in this isotope is :",
+   "q_ur": "یورینیم کا ایک آئسوٹوپ ²³⁸₉₂U ہے۔ اس آئسوٹوپ میں پروٹونز کی تعداد ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "92",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "146",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "238",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "330",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "The charge on alpha particle emitted during the phenomenon of radioactivity is:",
+   "q_ur": "ریڈیو ایکٹیویٹی کے عمل کے دوران خارج ہونے والے الفا پارٹیکل پر چارج ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "+ e",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "+ 2e",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "+ 4e",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Neutral",
+     "ur": "نیوٹرل"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Waves transfer:",
+   "q_ur": "ویوز منتقل کرتی ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Energy",
+     "ur": "انرجی"
+    },
+    {
+     "k": "B",
+     "en": "Frequency",
+     "ur": "فریکوئنسی"
+    },
+    {
+     "k": "C",
+     "en": "Wavelength",
+     "ur": "ویو لینتھ"
+    },
+    {
+     "k": "D",
+     "en": "Velocity",
+     "ur": "ولاسٹی"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "When simple pendulum completes one cycle in 2s then its time period is:",
+   "q_ur": "جب سمپل پینڈولم ایک چکر 2 سیکنڈ میں مکمل کرے تو اس کا ٹائم پیریڈ ہوگا:",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.5 s",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1 s",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.5 s",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2 s",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "The speed of sound is greater in:",
+   "q_ur": "آواز کی سپیڈ زیادہ ہوتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Air",
+     "ur": "ہوا میں"
+    },
+    {
+     "k": "B",
+     "en": "Water",
+     "ur": "پانی میں"
+    },
+    {
+     "k": "C",
+     "en": "Metal",
+     "ur": "دھات میں"
+    },
+    {
+     "k": "D",
+     "en": "Vacuum",
+     "ur": "ویکیوم میں"
+    }
+   ]
+  }
+ ]
+}

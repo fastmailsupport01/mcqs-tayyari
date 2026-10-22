@@ -1,0 +1,850 @@
+{
+ "board": "BISE Gujranwala",
+ "board_slug": "gujranwala",
+ "class": "9th",
+ "subject": "Mathematics",
+ "year": 2024,
+ "slug": "gujranwala-9th-mathematics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "1- 1- Area of parallelogram is the ______ of its base and altitude.",
+   "q_ur": "1 - 1 - متوازی الاضلاع کا رقبہ اس کے قاعدہ اور ارتفاع کے ______ کے برابر ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "product",
+     "ur": "حاصل ضرب"
+    },
+    {
+     "k": "B",
+     "en": "sum",
+     "ur": "مجموعہ"
+    },
+    {
+     "k": "C",
+     "en": "difference",
+     "ur": "فرق"
+    },
+    {
+     "k": "D",
+     "en": "ratio",
+     "ur": "نسبت"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The square root of a²−2a+1 is ______.",
+   "q_ur": "a²−2a+1 کا جذر المربع ______ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "±(a+1)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "±(a−1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a−1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a+1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Symbol used for similarity is",
+   "q_ur": "تشابہ کے لیے علامت استعمال ہوتی ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "≅",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "↔",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "~",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "| |",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Diagonals of a parallelogram ______ each other at a point.",
+   "q_ur": "متوازی الاضلاع کے وتر ایک دوسرے کو ایک نقطہ پر ______ کرتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "intersect",
+     "ur": "قطع"
+    },
+    {
+     "k": "B",
+     "en": "do not intersect",
+     "ur": "قطع نہیں کرتے"
+    },
+    {
+     "k": "C",
+     "en": "parallel",
+     "ur": "متوازی"
+    },
+    {
+     "k": "D",
+     "en": "none of these",
+     "ur": "ان میں سے کوئی نہیں"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Distance between points (0,0) and (1,1) is",
+   "q_ur": "نقاط (0,0) اور (1,1) کے درمیان فاصلہ ______ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The order of matrix [1 3 5; 2 0 4] is ______.",
+   "q_ur": "قالب [1 3 5; 2 0 4] کا مرتبہ ______ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "2-by-2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2-by-3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3-by-2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2-by-1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Two lines can intersect at ______ point/points.",
+   "q_ur": "دو خطوط ______ نقطہ / نقاط پر قطع کر سکتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The right bisectors of three sides of a triangle are ______.",
+   "q_ur": "کسی مثلث کے تینوں اضلاع کے عمودی ناصف ______ ہوتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "collinear",
+     "ur": "ہم خط"
+    },
+    {
+     "k": "B",
+     "en": "non-congruent",
+     "ur": "غیر مماثل"
+    },
+    {
+     "k": "C",
+     "en": "parallel",
+     "ur": "متوازی"
+    },
+    {
+     "k": "D",
+     "en": "concurrent",
+     "ur": "ہم نقطہ"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "If y = 2x +1 , x = 2 then 'y' is",
+   "q_ur": "اگر y = 2x +1 , x = 2 ہو تو 'y' برابر ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Write ∛2 in exponential form",
+   "q_ur": "∛2 کو پاور فارم میں لکھیے",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2⁵",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2¹/₅",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2⁵/₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "What will be added to complete the square of 9a² −12ab ?",
+   "q_ur": "9a² −12ab کو کامل مربع بنانے کیلئے اس میں کیا جمع کریں گے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "−16b²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "16b²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4b²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−4b²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "______ congruent triangles can be made by joining the mid-points of the sides of a triangle.",
+   "q_ur": "ایک مثلث کے اضلاع کے وسطی نقاط کو ملانے سے ______ مماثل مثلثان بنائی جا سکتی ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "logₐ a = ______",
+   "q_ur": "logₐ a = ______",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "A statement involving any of the symbols <,>, ≤ or ≥ is called ______.",
+   "q_ur": "کوئی بیان جس میں <,>, ≤ یا ≥ میں سے کوئی ایک علامت پائی جائے، ______ کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "equation",
+     "ur": "مساوات"
+    },
+    {
+     "k": "B",
+     "en": "linear equation",
+     "ur": "ایک درجی مساوات"
+    },
+    {
+     "k": "C",
+     "en": "identity",
+     "ur": "مماثلت"
+    },
+    {
+     "k": "D",
+     "en": "inequality",
+     "ur": "غیر مساوات"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "(√3+√2)(√3−√2) is equal to",
+   "q_ur": "(√3+√2)(√3−√2) برابر ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "− 7",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "1- 1- The medians of a triangle cut each other in the ratio ______.",
+   "q_ur": "1 - 1 - مثلث کے وسطانیے ایک دوسرے کو ______ نسبت میں قطع کرتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "4 : 1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3 : 1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2 : 1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1 : 1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "The ratio between two quantities a and b is represented by",
+   "q_ur": "دو اکائیوں a اور b کے درمیان نسبت کو ظاہر کیا جاتا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "a : b",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a = b",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a ≅ b",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a ↔ b",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "One angle of a parallelogram is 55⁰, the remaining angles are of measures",
+   "q_ur": "ایک متوازی الاضلاع کا ایک زاویہ 55⁰ ہے باقی زاویوں کی مقداریں ہیں",
+   "options": [
+    {
+     "k": "A",
+     "en": "55⁰,125⁰,125⁰",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "55⁰,55⁰,55⁰",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "55⁰,55⁰,125⁰",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "125⁰,125⁰,125⁰",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Distance between the points (1,0) and (0,1) is",
+   "q_ur": "نقاط (1,0) اور (0,1) کا درمیانی فاصلہ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "x=______ is a solution of the inequality −2 < x < 3/2.",
+   "q_ur": "غیر مساوات −2 < x < 3/2 کے حل سیٹ کا ایک رکن ہے x=______",
+   "options": [
+    {
+     "k": "A",
+     "en": "−5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "If log₄ x = 2 , then x=______",
+   "q_ur": "اگر log₄ x = 2 ہو تو x=______",
+   "options": [
+    {
+     "k": "A",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "16",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/8",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/16",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Factors of 8x³ +27y³ are ______.",
+   "q_ur": "8x³ +27y³ کے اجزائے ضربی ______ ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "(2x +3y),(4x² +9y²)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(2x −3y),(4x² −9y²)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(2x +3y),(4x² −6xy +9y²)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(2x −3y),(4x² +6xy +9y²)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "______ is the order of a square matrix.",
+   "q_ur": "______ درجہ ایک مربعی قالب کا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "3-by-3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3-by-1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2-by-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2-by-3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Obtuse angled triangle has ______ angle/s greater than 90⁰.",
+   "q_ur": "منفرجہ الزاویہ مثلث میں ______ زاویہ/زاویے 90⁰ سے زیادہ ہوتا ہے/ہوتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "none of these",
+     "ur": "ان میں سے کوئی نہیں"
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Area of square is ______.",
+   "q_ur": "مربع کا رقبہ ______ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "8cm²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "16cm²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "64cm²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4cm²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "(√7+√3)(√7−√3)= ______",
+   "q_ur": "(√7+√3)(√7−√3)= ______",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "46",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "52",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "If (x,0)=(0,y), then (x,y) = ______",
+   "q_ur": "اگر (x,0)=(0,y) تو (x,y) = ______",
+   "options": [
+    {
+     "k": "A",
+     "en": "(0,1)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(1,0)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(0,0)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(1,1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "H.C.F of a²−b² and a³−b³ is ______.",
+   "q_ur": "a²−b² اور a³−b³ کا عاد اعظم ______ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "a²+ab+b²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a+b",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a−b",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a²−ab+b²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "Sign used for congruency of two triangles is ______.",
+   "q_ur": "دو مماثل مثلثوں کے لیے علامت استعمال ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "=",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "≅",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "↔",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "~",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "√(4x⁰) = ______",
+   "q_ur": "√(4x⁰) = ______",
+   "options": [
+    {
+     "k": "A",
+     "en": "4x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

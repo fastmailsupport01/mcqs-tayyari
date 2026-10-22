@@ -1,0 +1,570 @@
+{
+ "board": "BISE Gujranwala",
+ "board_slug": "gujranwala",
+ "class": "10th",
+ "subject": "Computer Science",
+ "year": 2024,
+ "slug": "gujranwala-10th-computer-science-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "1.1 - 'include' statements are written in ____ section.",
+   "q_ur": "1.1 - 'include' سٹیٹمنٹس ____ سیکشن میں لکھی جاتی ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "header",
+     "ur": "ہیڈر"
+    },
+    {
+     "k": "B",
+     "en": "main",
+     "ur": "مین"
+    },
+    {
+     "k": "C",
+     "en": "comments",
+     "ur": "کمنٹس"
+    },
+    {
+     "k": "D",
+     "en": "print",
+     "ur": "پرنٹ"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "____ are the values that do not change during the execution of program.",
+   "q_ur": "____ وہ قیمتیں ہیں جو پروگرام کے چلنے کے دوران تبدیل نہیں ہوتیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "variables",
+     "ur": "متغیرات"
+    },
+    {
+     "k": "B",
+     "en": "constants",
+     "ur": "مستقلات"
+    },
+    {
+     "k": "C",
+     "en": "strings",
+     "ur": "سٹرنگز"
+    },
+    {
+     "k": "D",
+     "en": "comments",
+     "ur": "کمنٹس"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The expression 13%3 has answer",
+   "q_ur": "ایکسپریشن 13%3 کا جواب ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "13",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Which operator has highest precedence among these",
+   "q_ur": "ان میں سے کس آپریٹر کی ترجیح سب سے زیادہ ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "*",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "=",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "<",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "!",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "An if statement inside another if statement is called",
+   "q_ur": "اگر if سٹیٹمنٹ کے اندر ایک اور if سٹیٹمنٹ ہو تو یہ سٹرکچر کہلاتا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "boxed",
+     "ur": "باکسڈ"
+    },
+    {
+     "k": "B",
+     "en": "repeated",
+     "ur": "ریپیٹڈ (دوہرائیں)"
+    },
+    {
+     "k": "C",
+     "en": "nested",
+     "ur": "نیسٹڈ"
+    },
+    {
+     "k": "D",
+     "en": "data",
+     "ur": "ڈیٹا"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "What is the ouput of following code? int x=3 , y=7; if (x>y) printf (\"%d\",x); else printf (\"%d\",y);",
+   "q_ur": "درج ذیل کوڈ کی آؤٹ پٹ کیا ہے؟ int x=3 , y=7; if (x>y) printf (\"%d\",x); else printf (\"%d\",y);",
+   "options": [
+    {
+     "k": "A",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "An array is a ____ structure.",
+   "q_ur": "ارے ایک ____ سٹرکچر ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "loop",
+     "ur": "لوپ"
+    },
+    {
+     "k": "B",
+     "en": "control",
+     "ur": "کنٹرول"
+    },
+    {
+     "k": "C",
+     "en": "data",
+     "ur": "ڈیٹا"
+    },
+    {
+     "k": "D",
+     "en": "conditional",
+     "ur": "مشروط"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "____ part of for loop is executed first.",
+   "q_ur": "for لوپ کا کونسا حصہ سب سے پہلے چلتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "body",
+     "ur": "باڈی"
+    },
+    {
+     "k": "B",
+     "en": "condition",
+     "ur": "کنڈیشن"
+    },
+    {
+     "k": "C",
+     "en": "increment",
+     "ur": "اضافہ"
+    },
+    {
+     "k": "D",
+     "en": "initialization",
+     "ur": "انیشلائزیشن"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Function could be built-in or ____.",
+   "q_ur": "فنکشن بلٹ ان یا ____ ہو سکتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "admin defined",
+     "ur": "ایڈمن ڈیفائنڈ"
+    },
+    {
+     "k": "B",
+     "en": "user defined",
+     "ur": "یوزر ڈیفائنڈ"
+    },
+    {
+     "k": "C",
+     "en": "server defined",
+     "ur": "سرور ڈیفائنڈ"
+    },
+    {
+     "k": "D",
+     "en": "related defined",
+     "ur": "ریلیٹڈ ڈیفائنڈ"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "A function can return ____.",
+   "q_ur": "ایک فنکشن ____ ریٹرن کرتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "one value",
+     "ur": "ایک قیمت"
+    },
+    {
+     "k": "B",
+     "en": "two values",
+     "ur": "دو قیمتیں"
+    },
+    {
+     "k": "C",
+     "en": "three values",
+     "ur": "تین قیمتیں"
+    },
+    {
+     "k": "D",
+     "en": "many values",
+     "ur": "کئی قیمتیں"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "1.1 - A float uses ____ bytes of memory.",
+   "q_ur": "1.1 - ایک فلوٹ میموری کی ____ بائٹس استعمال کرتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "How many types of control structures are available in C-language?",
+   "q_ur": "C لینگوئج میں کتنی قسم کے کنٹرول سٹرکچر ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "How many types of loop structure are available in C-language?",
+   "q_ur": "C لینگوئج میں کتنی قسم کے لوپ سٹرکچر دستیاب ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "The person who knows how to write computer program correctly, is known as ____.",
+   "q_ur": "ایسا شخص جو درست طریقے سے کمپیوٹر پروگرام لکھنا جانتا ہو ____ کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "programmer",
+     "ur": "پروگرامر"
+    },
+    {
+     "k": "B",
+     "en": "operator",
+     "ur": "آپریٹر"
+    },
+    {
+     "k": "C",
+     "en": "manager",
+     "ur": "مینیجر"
+    },
+    {
+     "k": "D",
+     "en": "designer",
+     "ur": "ڈیزائنر"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "____ means to transfer control to another function.",
+   "q_ur": "____ سے مراد کنٹرول ایک اور فنکشن میں ٹرانسفر کرنا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "re-writing",
+     "ur": "ری رائٹنگ"
+    },
+    {
+     "k": "B",
+     "en": "calling",
+     "ur": "کالنگ"
+    },
+    {
+     "k": "C",
+     "en": "including",
+     "ur": "انکلوڈنگ"
+    },
+    {
+     "k": "D",
+     "en": "defining",
+     "ur": "ڈیفائننگ"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Which operator has the highest precedence among these?",
+   "q_ur": "ان میں سے کس آپریٹر کی ترجیح سب سے زیادہ ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "-",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "=",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "*",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "<",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "The values passed to a function are called",
+   "q_ur": "فنکشن کو پاس کی گئی قیمتیں کہلاتی ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "defining",
+     "ur": "ڈیفائننگ"
+    },
+    {
+     "k": "B",
+     "en": "arguments",
+     "ur": "آرگیومنٹس"
+    },
+    {
+     "k": "C",
+     "en": "body",
+     "ur": "باڈی"
+    },
+    {
+     "k": "D",
+     "en": "return type",
+     "ur": "ریٹرن ٹائپ"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "What is the output of following code? int p=20 , q=2; if(p%q==0) printf(\"Even\"); else printf(\"odd\");",
+   "q_ur": "درج ذیل کوڈ کی آؤٹ پٹ کیا ہو گی؟ int p=20 , q=2; if(p%q==0) printf(\"Even\"); else printf(\"odd\");",
+   "options": [
+    {
+     "k": "A",
+     "en": "odd",
+     "ur": "طاق"
+    },
+    {
+     "k": "B",
+     "en": "even",
+     "ur": "جفت"
+    },
+    {
+     "k": "C",
+     "en": "20",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "The expression 15%2 has answer",
+   "q_ur": "ایکسپریشن 15%2 کا جواب ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7.5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "13",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "____ structure allows repetition of a set of instructions.",
+   "q_ur": "____ سٹرکچر ہدایات کے مجموعے کو بار بار دہرانے کے لئے استعمال ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "selection",
+     "ur": "سلیکشن"
+    },
+    {
+     "k": "B",
+     "en": "data",
+     "ur": "ڈیٹا"
+    },
+    {
+     "k": "C",
+     "en": "loop",
+     "ur": "لوپ"
+    },
+    {
+     "k": "D",
+     "en": "array",
+     "ur": "ارے"
+    }
+   ]
+  }
+ ]
+}

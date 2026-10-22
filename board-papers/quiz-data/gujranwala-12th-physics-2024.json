@@ -1,0 +1,962 @@
+{
+ "board": "BISE Gujranwala",
+ "board_slug": "gujranwala",
+ "class": "12th",
+ "subject": "Physics",
+ "year": 2024,
+ "slug": "gujranwala-12th-physics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "1. Which of the following circuit is called electrical oscillator?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "R.L circuit",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "R.C circuit",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "R.L.C circuit",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "L.C circuit",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "A charged particle enters in a strong magnetic field, then its K.E",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "remains constant",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "increases",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "decreases",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "first increases then decreases",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Turn ratio of a transformer is 50. If 220 volt A.C is applied to its primary coil, voltage in the secondary coil will be",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "440 V",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4.4 V",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "220 V",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "11000 V",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The physical quantity related to photon, that does not change in Compton scattering is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "energy",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "speed",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "frequency",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "wavelength",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "In photoelectric effect, the number of photoelectrons depends upon",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "wavelength of light",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "intensity of light",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "threshold frequency",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "work function",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Glass is also known as",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "solid",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "liquid",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "solid liquid",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "gas",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The unit of electric intensity other than NC⁻¹ is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "V/A",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "V/m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "V/C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "N/V",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The unit of E⃗ is NC⁻¹ and that of B⃗ is NA⁻¹m⁻¹, then the unit of E/B is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ms⁻²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ms",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "m⁻¹s⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ms⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The binding energy per nucleon is maximum for",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Helium",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Iron",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Polonium",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Radium",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "For holography, we use a beam of",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "r – rays",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x – rays",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "β – rays",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Laser",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The colour of light emitted by LED depends on",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "its forward biasing",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "the reverse biasing",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "amount of forward current",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "type of semi-conductor material used",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "When current flowing through an inductor is doubled, the energy stored in it becomes",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "half",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "four times",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "one fourth",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "double",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "The half-life of Radon gas is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3.8 days",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "38 days",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3.8 months",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "38 months",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "An ideal voltmeter would have",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "zero resistance",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "high resistance",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "infinite resistance",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "low resistance",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "A parallel plate capacitor with oil having εᵣ = 2 has a capacitance C. If the oil is removed between the plates, then capacitance of capacitor becomes",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "C/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "C/√2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "The voltage gain of an amplifier having rᵢₑ = 1 Ω, β = 100 and Rᶜ = 20 Ω is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2000",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1000",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "500",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "When we accelerate the charge, which type of waves are produced?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mechanical waves",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Travelling waves",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Stationary waves",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Electromagnetic waves",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "1. Using spectroscopy the helium was identified in the",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Earth",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Sun",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Stars",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "all of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "The induced emf is primarily produced at the cost of",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "internal energy",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "mechanical energy",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "chemical energy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "electrical energy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "The reactance of an inductor at 50Hz is 10Ω. Its reactance at 100Hz is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2.5 Ω",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5 Ω",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10 Ω",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "20 Ω",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Threshold wavelength for metal having work function 40 is λₒ. What is the threshold wavelength for metal having work function 240 is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2λ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4λ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "λ/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "λ/4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The emf induced in 1mH inductor in which current changes from 5A to 3A in 1s is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2×10⁻⁶V",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8×10⁻⁶V",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2V",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8V",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Two metallic spheres of radius 1cm and 2cm get equal quantity of charge. Which has greater surface charge density?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1st sphere",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2nd sphere",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "both get equal surface",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "none of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "The voltage gain of an amplifier having rᵢₑ = 1 Ω, β = 100, Rc = 20 Ω is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2000",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1000",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "500",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "If the length of conductor is doubled and its cross sectional area is halved, its conductance will be",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "increased four times",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "become one fourth",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "become one-half",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "remained un-changed",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "The capacity of condenser is 4×10⁻⁶ Farad and its potential is 100 Volt. The energy released on discharging it fully will be",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.02 J",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.04 J",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.025 J",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.05 J",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Circulation of blood can be studied by",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sodium – 24",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Strontium – 90",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Carbon – 14",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Iodine – 131",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "If a wire is stretched to double of its length then strain will be",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "double",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Unit of decay constant λ is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ms",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "m⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "s⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "The term transistor stands for",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "transfer of resistance",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "transfer of voltage",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "transfer of current",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "all of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "Force on a current carrying conductor per unit length is given by",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "IL Sinθ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ILB",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "IB",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "IB Sinθ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "For a current carrying solenoid the term \"n\" has unit as",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "no unit",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "m⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "m⁻²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "When applied potential difference is increased; capacitance of parallel plate capacitor",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "increases",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "decreases",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "remains same",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "reduces to zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "In photoelectric effect the intensity of light made twice than initial value. The maximum K.E of photoelectron becomes",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "same",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "double",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "half",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "four times",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

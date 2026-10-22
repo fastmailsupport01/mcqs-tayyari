@@ -1,0 +1,850 @@
+{
+ "board": "BISE Multan",
+ "board_slug": "lahore",
+ "class": "10th",
+ "subject": "Mathematics",
+ "year": 2024,
+ "slug": "multan-10th-mathematics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The number of methods to solve a quadratic equation is:",
+   "q_ur": "دو درجی مساوات کو حل کرنے کے طریقے ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The solution set of 25x² − 1 = 0 is:",
+   "q_ur": "25x² − 1 = 0 کا حل سیٹ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "{±1/5}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{−1/5}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{1/5}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{±1/25}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Product of cube roots of unity is:",
+   "q_ur": "اکائی کے مکعب روٹس کا حاصل ضرب ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "If α, β are the roots of 7x² − x − 4 = 0 then αβ is:",
+   "q_ur": "اگر α، β روٹس ہوں 7x² − x − 4 = 0 کے تو αβ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "−4/7",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "7/4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4/7",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−1/7",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "If y³ ∝ 1/x³, then",
+   "q_ur": "اگر y³ ∝ 1/x³ تو",
+   "options": [
+    {
+     "k": "A",
+     "en": "y² = kx³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "y³ = 1/x³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "y³ = x³",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "y³ = k/x³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The fourth proportional of 4, 6, 5 is:",
+   "q_ur": "4، 6، 5 کا چوتھا تناسب ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "(x³+1)/((x−1)(x−2)) is:",
+   "q_ur": "(x³+1)/((x−1)(x+2)) ایک _____ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "A proper fraction",
+     "ur": "واجب کسر"
+    },
+    {
+     "k": "B",
+     "en": "An improper fraction",
+     "ur": "غیر واجب کسر"
+    },
+    {
+     "k": "C",
+     "en": "An identity",
+     "ur": "مماثلت"
+    },
+    {
+     "k": "D",
+     "en": "A constant term",
+     "ur": "مستقل رقم"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Power set of an empty set is:",
+   "q_ur": "خالی سیٹ کا پاور سیٹ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "φ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{a}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{φ, {a}}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "A ∪ (B ∩ C) =",
+   "q_ur": "A ∪ (B ∩ C) =",
+   "options": [
+    {
+     "k": "A",
+     "en": "(A∪B)∩(A∪C)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(A∩B)∪(A∩B)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(A∪B)∩(A∩C)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(A∩B)∪(A∪B)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "A data in form of frequency distribution is called:",
+   "q_ur": "تعددی تقسیم کی شکل میں ڈیٹا کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ungrouped data",
+     "ur": "غیر گروہی ڈیٹا"
+    },
+    {
+     "k": "B",
+     "en": "Histogram",
+     "ur": "ہسٹوگرام"
+    },
+    {
+     "k": "C",
+     "en": "Grouped data",
+     "ur": "گروہی ڈیٹا"
+    },
+    {
+     "k": "D",
+     "en": "Constant",
+     "ur": "مستقل"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "3π/4 Rad = _____",
+   "q_ur": "3π/4 ریڈین = _____",
+   "options": [
+    {
+     "k": "A",
+     "en": "115°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "135°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "150°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "180°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Line segment joining any point of the circle to the centre is called:",
+   "q_ur": "دائرے کے کسی نقطہ کو مرکز سے ملانے والا خط کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Circumference",
+     "ur": "محیط"
+    },
+    {
+     "k": "B",
+     "en": "Diameter",
+     "ur": "قطر"
+    },
+    {
+     "k": "C",
+     "en": "Radial segment",
+     "ur": "رداس قطر"
+    },
+    {
+     "k": "D",
+     "en": "Perimeter",
+     "ur": "احاطہ"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "A line which has only one point in common with a circle is called:",
+   "q_ur": "ایک خط جو دائرے کے ساتھ صرف ایک نقطہ مشترک رکھتا ہے کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "sine of circle",
+     "ur": "دائرے کا سائن"
+    },
+    {
+     "k": "B",
+     "en": "cosine of circle",
+     "ur": "دائرے کا کوسائن"
+    },
+    {
+     "k": "C",
+     "en": "secant of circle",
+     "ur": "دائرے کا سیکنٹ"
+    },
+    {
+     "k": "D",
+     "en": "tangent of circle",
+     "ur": "دائرے کا ٹینجنٹ"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "The length of chord and radial segment of circle are congruent the central angle subtended by the chord will be:",
+   "q_ur": "ایک دائرے میں وتر اور رداس کی لمبائیاں برابر ہوں تو وتر کے مقابل بننے والا مرکزی زاویہ _____ ہو گا۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "30°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "15°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "The length of the diameter of a circle is how many times the radius of the circle?",
+   "q_ur": "ایک دائرے کے قطر کی لمبائی دائرے کے رداس سے کتنے گنا زیادہ ہوتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "If u ∝ v², then:",
+   "q_ur": "اگر u ∝ v² تو:",
+   "options": [
+    {
+     "k": "A",
+     "en": "u = v²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "uv² = 1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "uv² = k",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "u = kv²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "If y ∝ 1/x and y = 8, when x = 4 then value of k is:",
+   "q_ur": "اگر y ∝ 1/x اور y = 8 جب x = 4 تو k کی قیمت ہو گی:",
+   "options": [
+    {
+     "k": "A",
+     "en": "32",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "34",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "36",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "40",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "(x+3)² = x² + 6x + 9 is a/an:",
+   "q_ur": "(x+3)² = x² + 6x + 9 ایک _____ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Equation",
+     "ur": "مساوات"
+    },
+    {
+     "k": "B",
+     "en": "Identity",
+     "ur": "مماثلت"
+    },
+    {
+     "k": "C",
+     "en": "Fraction",
+     "ur": "کسر"
+    },
+    {
+     "k": "D",
+     "en": "Inequation",
+     "ur": "غیر مساوات"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "The different number of ways to describe a set are:",
+   "q_ur": "سیٹ کو بیان کرنے کے مختلف طریقوں کی تعداد ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "If X = {a, b, c} then number of elements in X × X are:",
+   "q_ur": "اگر X = {a, b, c} تو X × X کے ارکان کی تعداد ہو گی:",
+   "options": [
+    {
+     "k": "A",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "12",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "14",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "16",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "A frequency polygon is a many sided:",
+   "q_ur": "تعددی کثیر الاضلاع _____ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Closed figure",
+     "ur": "بند شکل"
+    },
+    {
+     "k": "B",
+     "en": "Rectangle",
+     "ur": "مستطیل"
+    },
+    {
+     "k": "C",
+     "en": "Square",
+     "ur": "مربع"
+    },
+    {
+     "k": "D",
+     "en": "Triangle",
+     "ur": "مثلث"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "sec θ cot θ = _____",
+   "q_ur": "sec θ cot θ برابر ہے _____",
+   "options": [
+    {
+     "k": "A",
+     "en": "sin θ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/sin θ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/cos θ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "sin θ/cos θ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "The symbol for a triangle is denoted by:",
+   "q_ur": "مثلث کو علامت سے ظاہر کرتے ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "∠",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "⊙",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Δ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "⊥",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "A circle has only one:",
+   "q_ur": "ایک دائرے کا صرف ایک ہی _____ ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Radius",
+     "ur": "رداس"
+    },
+    {
+     "k": "B",
+     "en": "Diameter",
+     "ur": "قطر"
+    },
+    {
+     "k": "C",
+     "en": "Chord",
+     "ur": "وتر"
+    },
+    {
+     "k": "D",
+     "en": "Centre",
+     "ur": "مرکز"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "A 4cm long chord subtends a central angle of 60°. The radial segment of this circle is:",
+   "q_ur": "ایک 4 سم لمبائی والا وتر مرکز پر 60° کا زاویہ بناتا ہے۔ دائرے کا رداس _____ ہو گا۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "4 cm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3 cm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2 cm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1 cm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "The lengths of two transverse tangents to a pair of circles are:",
+   "q_ur": "دو دائروں پر دو معکوس مماس کی لمبائیاں ہوتی ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Unequal",
+     "ur": "غیر برابر"
+    },
+    {
+     "k": "B",
+     "en": "Equal",
+     "ur": "برابر"
+    },
+    {
+     "k": "C",
+     "en": "Overlapping",
+     "ur": "متراکب"
+    },
+    {
+     "k": "D",
+     "en": "Parallel",
+     "ur": "متوازی"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "The solution set of equation 4x² − 16 = 0 is:",
+   "q_ur": "مساوات 4x² − 16 = 0 کا حل سیٹ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "±2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{±2}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{±4}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "±4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "The solution set of equation x² − 3x − 4 = 0 is:",
+   "q_ur": "مساوات x² − 3x − 4 = 0 کا حل سیٹ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "{−1, 4}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{1, −4}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{−1, −4}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{1, 4}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "If α, β are the roots of: 3x² + 5x − 2 = 0 then α + β = _____",
+   "q_ur": "اگر α، β روٹس ہوں مساوات 3x² + 5x − 2 = 0 کے تو α + β = _____",
+   "options": [
+    {
+     "k": "A",
+     "en": "3/5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−2/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−5/3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5/3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "The nature of roots of 3x² + 7x − 13 = 0 are:",
+   "q_ur": "مساوات 3x² + 7x − 13 = 0 کے روٹس کی اقسام _____ ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Real and equal",
+     "ur": "حقیقی اور برابر"
+    },
+    {
+     "k": "B",
+     "en": "Imaginary",
+     "ur": "غیر حقیقی"
+    },
+    {
+     "k": "C",
+     "en": "Irrational and equal",
+     "ur": "غیر ناطق اور برابر"
+    },
+    {
+     "k": "D",
+     "en": "Real and unequal",
+     "ur": "حقیقی اور غیر برابر"
+    }
+   ]
+  }
+ ]
+}

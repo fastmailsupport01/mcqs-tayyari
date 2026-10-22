@@ -1,0 +1,962 @@
+{
+ "board": "BISE Rawalpindi",
+ "board_slug": "lahore",
+ "class": "11th",
+ "subject": "Biology",
+ "year": 2024,
+ "slug": "rawalpindi-11th-biology-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The most recent era is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Paleozoic",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Mesozoic",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cenozoic",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Proterozoic",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Monosaccharides which are rare in nature and occur in some bacteria are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hexoses",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Pentoses",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Trioses",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Tetroses",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "An activated enzyme with a polypeptide chain and a co-factor is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Apaenzyme [sic, as printed]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Holoenzyme",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Coenzyme",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Activator",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Which of the following are involved in the breakdown of old organelles:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Lysosomes",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Glyoxisomes",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Peroxisomes",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ribosomes",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "HIV belongs to group of viruses called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "DNA virus",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Pox virus",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Retro virus",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Bacteriophage",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "If the whole cell of bacteria is covered by flagella, the bacteria is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Atrichous",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Peritrichous",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Amphitrichous",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Lophotrichous",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The vector of \"African sleeping sickness\" is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mosquito",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "House fly",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Yellow fly",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Tsetse fly",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The group of fungi in which sexual reproduction is not observed:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ascomycota",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Basidiomycota",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Deuteromycota",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zygomycota",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The rhizome in Adiantum is protected by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ramenta",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Stipe",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Fronds",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Stomium",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Excretory system in Arthropods is composed of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Flame cells",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Malpighian tubules",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Nephridia",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nephrons",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Which of the following are not included in amniotes:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Birds",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Reptiles",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mammals",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Amphibians",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Dark reaction of photosynthesis occurs in the part of chloroplast named as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Stroma",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Grana",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Inter-grana",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Inner membrane",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "The first action spectrum was obtained by T.W.Engelman in 1883 working on:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Volvox",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Nostoc",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Spirogyra",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Chlorella",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "In cockroach partly digested food is temporarily stored in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Colon",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Crop",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Gizzard",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Rectum",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Respiratory pigment present in muscles is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Haemoglobin",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Haemocyanin",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Haemoerthrin",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Myoglobin",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "The left systematic [sic, as printed] arch disappears in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Birds",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Fish",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mammals",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Reptiles",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "The narrowing and hardening of arteries is called as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Apoptosis",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Necrosis",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Atherosclerosis",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Sclerosis",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Reserve food material in cyanobacteria is in the form of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Starch",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Proteins",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Sucrose",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Glycogen",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Malaria spreads by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Plasmodium",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Female anopheles mosquito",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Tsetse fly",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Trypanosoma",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Which of the following is unicellular but not included in protoctista?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Kelps",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Volvox",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Yeast",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Plasmodium",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Most powerful Alkaloids are obtained from plants of family called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Solanaceae",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Fabaceae",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Rosaceae",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Poaceae",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Sphenodon is found in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Australia",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Texas",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "New Zealand",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Pakistan",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Syrinx is an organ of voice present in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Apes",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Parrots",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Snakes",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Frogs",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Transfer of energy from antenna complex to reaction center of Photosystem occurs by phenomenon called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Oxidation",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Reduction",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Resonance",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Hydrogenation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "How many number of electrons would be needed at a time to reduce two moles of NADP+?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Two",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "One",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Three",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Four",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Constipation is called by the excessive absorption of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CO₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Water",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Food",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Oxygen",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "If plasma proteins carry about 5% CO₂ / 100 ml of blood. How much CO₂ is carried by 500 ml of blood from tissue fluid to lungs?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5 ml",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "20 ml",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "25 ml",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "100 ml",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Which layer of arteries become thick due to Atheroma?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Middle",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Inner most",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "External",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Any layer",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "If ψ_w (water potential) of a cell is −400 KPa and pressure potential (ψ_p) is 800 KPa. What would be the solute potential (ψ_s) of cell at equilibrium:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1200 KPa",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−400 KPa",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−1200 KPa",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "800 KPa",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "Which of the following element is a heavy metal?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zinc",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Iron",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Copper",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Chromium",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "One strand of DNA contains ACGT nitrogenous bases and opposite strand has TGCA. How many number of hydrogen bonds would be present between these complementary nitrogenous bases?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "08",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "12",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "14",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "Rate of reaction (catalysis) is inversely proportional to the:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Activation energy",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Enzyme concentration",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Optimum temperature",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Optimum pH",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "If ocular lens is of 10X and objective lense is of 40X, resolution of compound microscope would be ______ of human naked eye.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "100X",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "400X",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "500X",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "250,000X",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "Which of the following is an organelle of symbiontic origin?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ribosomes",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Mitochorndria [sic, as printed]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Centrioles",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Lysosomes",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

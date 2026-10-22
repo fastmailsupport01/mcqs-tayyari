@@ -1,0 +1,850 @@
+{
+ "board": "BISE Multan",
+ "board_slug": "lahore",
+ "class": "11th",
+ "subject": "Computer Science",
+ "year": 2024,
+ "slug": "multan-11th-computer-science-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Multiple choice examination answer sheet can be evaluated automatically using:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "MICR",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "OCR",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "OMR",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Magnetic Strip",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The device driver is a type of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "System software",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Utility program",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Application software",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Packaged software",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The topology used by Ethernet protocol is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Star",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "bus",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mesh",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ring",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The term \"De-jure\" refers to the standards:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "by fact",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "by nature",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "by law",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "by tradition",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The height of wave within a given period of time is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Phase",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Frequency",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Pulse",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Amplitude",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The internal transfer of binary data in a computer uses:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Parallel mode",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Serial mode",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Sequential",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Direct mode",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "A scanner that passes the rays over the body of patient is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "OMR",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "OCR",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CAT",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "MICR",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The technology that is used to build cache is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "DRAM",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "SRAM",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "PROM",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "EPROM",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The register which holds the fetched instruction is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "MAR",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "PC",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "MBR",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "IR",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Trojan horse is a type of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Driver",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Antivirus",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Virus",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Horse",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "MS-DOS operating system is a:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Command line OS",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "GUI OS",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Multiuser OS",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Multitasking OS",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Keyboard shortcut that is used to change the case:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ctrl + Alt + F3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Alt + F3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ctrl + F3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Shift + F3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "The cell range C3 through H3 should be typed as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "C3 – H3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "C3 : H3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "C3 … H3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "C3 to H3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "If the custom format is ###.00, then 58 will be displayed as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "58.00",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5.80",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5.08",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.58",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Additional files enclosed with email is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Protocol",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Attachment",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "File",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Document",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "XGA supports the resolution up to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "640 × 400",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "640 × 480",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "800 × 600",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1024 × 768",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Testing all program components together is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "System testing",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Pilot testing",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Unit testing",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "White box testing",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Which is an internet protocol?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Token Ring",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ethernet",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "TCP/IP",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ARCnet",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "The network architecture that allows every computer to act as client as well as a server is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Client/Server",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Peer-to-peer",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Dedicated server",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Host system",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Unicode uses:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "16-bit",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "32-bit",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "64-bit",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "128-bit",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "A fiber-optic cable’s core is measured in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Inches",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Microns",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Centimeters",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Millimeters",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Computer based weather forecasting depends on accurate collection of data from:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Television",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Antenna",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ROBOT",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Weather stations",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "The brain of computer that executes the instructions is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "System unit",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "RAM",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CPU",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ROM",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "The set of all instructions provided by a CPU is commonly known as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Logical instructions",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Instruction set",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Transfer instructions",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "I/O instructions",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "A virus which activates at a certain date and time:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Chernobal virus",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Trojan horse",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Logic bomb",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Redlof",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Capability of an operating system to support and utilize two or more microprocessors is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Multiprocessing",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Multitasking",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Multiuser OS",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Plug and play",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Amount of space between paragraphs refers to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Margins",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Paragraph spacing",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Alignment",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Indents",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "If the custom format is #, # # # then 1700 will be displayed as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.700",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "17",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0017",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1,700",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "Absolute reference are created by adding:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "$",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "@",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "#",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "%",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "Protocol used by newsgroups to communicate is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ARCnet",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "FTP",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NNTP",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "MIME",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

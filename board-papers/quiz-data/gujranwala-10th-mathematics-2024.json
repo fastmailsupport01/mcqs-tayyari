@@ -1,0 +1,850 @@
+{
+ "board": "BISE Gujranwala",
+ "board_slug": "gujranwala",
+ "class": "10th",
+ "subject": "Mathematics",
+ "year": 2024,
+ "slug": "gujranwala-10th-mathematics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "1.1 - A pair of chords of a circle subtending two congruent central angles are",
+   "q_ur": "1.1 - دو متصل مرکزی زاویے بن دو وتر دو ہیں وہ آپس میں ____ ہوں گے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "parallel",
+     "ur": "متوازی"
+    },
+    {
+     "k": "B",
+     "en": "overlapping",
+     "ur": "متراکب"
+    },
+    {
+     "k": "C",
+     "en": "incongruent",
+     "ur": "غیر متشکل"
+    },
+    {
+     "k": "D",
+     "en": "congruent",
+     "ur": "متشکل"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "If 3x+1 : 6+4x = 2 : 5 then x = ____",
+   "q_ur": "اگر 3x+1 : 6+4x = 2 : 5 تو x = ____",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Two tangents drawn to a circle from a point outside it are of ____ in length.",
+   "q_ur": "ایک دائرے کے بیرونی نقطہ سے دو کھینچے گئے مماس لمبائی کے لحاظ سے ____ ہوتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "half",
+     "ur": "آدھے"
+    },
+    {
+     "k": "B",
+     "en": "double",
+     "ur": "دوگنا"
+    },
+    {
+     "k": "C",
+     "en": "equal",
+     "ur": "برابر"
+    },
+    {
+     "k": "D",
+     "en": "triple",
+     "ur": "تین گنا"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "20° = ____",
+   "q_ur": "20 ڈگری برابر ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "360'",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "630'",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "800'",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1200'",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "If (3−2a , b−1) = (a−7 , 2b+5) then a and b are",
+   "q_ur": "اگر (3−2a , b−1) = (a−7 , 2b+5) تو a اور b برابر ہیں",
+   "options": [
+    {
+     "k": "A",
+     "en": "10/3 , 6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10/3 , −6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−10/3 , 6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−10/3 , −6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Two linear factors of x²−15x+56=0 are",
+   "q_ur": "مساوات x²−15x+56=0 کے دو لکیری فیکٹرز ہیں",
+   "options": [
+    {
+     "k": "A",
+     "en": "(x−7),(x+8)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(x+7),(x−8)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(x−7),(x−8)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(x+7),(x+8)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Mean is affected by change in ____",
+   "q_ur": "تبدیلی کرنے سے اثر انداز ہوتا ہے ____ حسابی اوسط",
+   "options": [
+    {
+     "k": "A",
+     "en": "place",
+     "ur": "جگہ"
+    },
+    {
+     "k": "B",
+     "en": "rate",
+     "ur": "مقدار"
+    },
+    {
+     "k": "C",
+     "en": "scale",
+     "ur": "پیمانے"
+    },
+    {
+     "k": "D",
+     "en": "value",
+     "ur": "قیمت"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Line segment joining any point of the circle to the centre is called",
+   "q_ur": "دائرے کے کسی نقطے کا اس کے مرکز تک فاصلہ کہلاتا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "an arc",
+     "ur": "ایک قوس"
+    },
+    {
+     "k": "B",
+     "en": "radius",
+     "ur": "رداس"
+    },
+    {
+     "k": "C",
+     "en": "diameter",
+     "ur": "قطر"
+    },
+    {
+     "k": "D",
+     "en": "a chord",
+     "ur": "ایک وتر"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The number of elements in the power set of {1, 2, 3} is",
+   "q_ur": "{1, 2, 3} کے پاور سیٹ میں ارکان کی تعداد ہوتی ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "9",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The solution set of 3y² = y(y−5) is",
+   "q_ur": "3y² = y(y−5) کا حل سیٹ ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "{0, 5/2}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{0, −5/2}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{0}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{−5/2}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "If a:b = x:y then invertendo property is",
+   "q_ur": "اگر a:b = x:y تو ترکس نسبت ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "a/x = b/y",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "b/a = y/x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(a+b)/x = (x+y)/y",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a/(a−b) = x/(x−y)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The length of the diameter of a circle is how many times the radius of the circle?",
+   "q_ur": "ایک دائرے کے قطر کی لمبائی دائرے کے رداس کے کتنے گنا ہوتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "The nature of roots of equation ax²+bx+c=0 is determined by ____",
+   "q_ur": "مساوات ax²+bx+c=0 کے روٹس کی اقسام کو ____ کہاجاتاہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "sum of roots",
+     "ur": "روٹس کا مجموعہ"
+    },
+    {
+     "k": "B",
+     "en": "product of roots",
+     "ur": "روٹس کا حاصل ضرب"
+    },
+    {
+     "k": "C",
+     "en": "synthetic division",
+     "ur": "ترکیبی تقسیم"
+    },
+    {
+     "k": "D",
+     "en": "discriminant",
+     "ur": "ڈسکریمیننٹ"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "(x−2)/((x−1)(x+1)) = ____",
+   "q_ur": "____ = (x−2)/((x−1)(x+1))",
+   "options": [
+    {
+     "k": "A",
+     "en": "A/(x−1) + (Bx+C)/(x+2)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A/(x−1) − B/(x+1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1 + A/(x−1) + B/(x+1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A/(x−1) + B/(x+1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "If α, β are the roots of px²+px+q=0 then 1/α + 1/β = ____",
+   "q_ur": "اگر α, β مساوات px²+px+q=0 کے روٹس ہوں تو 1/α + 1/β = ____",
+   "options": [
+    {
+     "k": "A",
+     "en": "−p/q",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−q/p",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "p/q",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "q/p",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "1.1 - The measure of the external angle of a regular hexagon is",
+   "q_ur": "1.1 - ایک منظم مسدس کے بیرونی زاویے کی مقدار ہوتی ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "π/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π/6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "If α, β are the roots of 7x²−x+4=0 then αβ is",
+   "q_ur": "اگر α, β مساوات 7x²−x+4=0 کے روٹس ہوں تو αβ برابر ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "−1/7",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4/7",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/7",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−4/7",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "The length of a chord and the radial segment of a cricle are congruent, the central angle made by the chord will be ____",
+   "q_ur": "ایک دائرے میں وتر اور رداس کی لمبائیاں برابر ہیں۔ وتر سے بننے والا مرکزی زاویہ ____ ہوگا۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "30°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "90°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "If a : b = x : y, then alternando property is",
+   "q_ur": "اگر a : b = x : y ہو تو ابدال نسبت ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "a−b = c−d",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a+b = c+d",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a/x = b/y",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a/b = x/y",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "A line which has only one point in common with a circle is called ____ of the circle.",
+   "q_ur": "ایک خط جس کا دائرے کے ساتھ صرف ایک نقطہ مشترکہ ہو، دائرے کا ____ کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "tangent",
+     "ur": "مماس"
+    },
+    {
+     "k": "B",
+     "en": "cosine",
+     "ur": "کوسائن"
+    },
+    {
+     "k": "C",
+     "en": "sine",
+     "ur": "سائن"
+    },
+    {
+     "k": "D",
+     "en": "secant",
+     "ur": "قاطع"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "The fourth proportional w of x : y :: v : w is",
+   "q_ur": "x : y :: v : w میں چوتھا متناسب w ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "x/y",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "xyv",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "xy/v",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "vy/x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Radii of a circle are",
+   "q_ur": "ایک ہی دائرے کے رداس ہیں",
+   "options": [
+    {
+     "k": "A",
+     "en": "all unequal",
+     "ur": "تمام نابرابر"
+    },
+    {
+     "k": "B",
+     "en": "all equal",
+     "ur": "تمام برابر"
+    },
+    {
+     "k": "C",
+     "en": "equal to diameter",
+     "ur": "قطر کے برابر"
+    },
+    {
+     "k": "D",
+     "en": "greater than diameter",
+     "ur": "قطر سے بڑے"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "(x+3)² = x²+6x+9 is ____",
+   "q_ur": "(x+3)² = x²+6x+9 ایک ____ ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "an identity",
+     "ur": "مماثلت"
+    },
+    {
+     "k": "B",
+     "en": "a linear equation",
+     "ur": "ایک درجی مساوات"
+    },
+    {
+     "k": "C",
+     "en": "polynomial",
+     "ur": "کثیر رقمی"
+    },
+    {
+     "k": "D",
+     "en": "inequality",
+     "ur": "غیر مساوات"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "If 0 ≤ θ ≤ π/2 and Sinθ−Cosecθ = 0, then θ = ____.",
+   "q_ur": "اگر 0 ≤ θ ≤ π/2 اور Sinθ−Cosecθ = 0 تو θ برابر ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "80°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "30°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "90°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "ω² = ____",
+   "q_ur": "ω² = ____",
+   "options": [
+    {
+     "k": "A",
+     "en": "ω",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ω⁻³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ω⁻²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ω⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "The spread or scatterness of observations in a data set is called",
+   "q_ur": "کسی مواد میں مدات کا پھیلاؤ کہلاتا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "dispersion",
+     "ur": "انتشار"
+    },
+    {
+     "k": "B",
+     "en": "mean",
+     "ur": "اوسط"
+    },
+    {
+     "k": "C",
+     "en": "mode",
+     "ur": "مادہ"
+    },
+    {
+     "k": "D",
+     "en": "median",
+     "ur": "وسطانیہ"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Solution set of (x−4)(3x+5) = 0 will be",
+   "q_ur": "اگر (x−4)(3x+5) = 0 ہو تو حل سیٹ ہوگا",
+   "options": [
+    {
+     "k": "A",
+     "en": "{±4}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{5/3, −4}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{−5/3, 4}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{4, 5/3}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "The range of R={(1,3),(2,2),(3,1),(4,4)} is",
+   "q_ur": "اگر R={(1,3),(2,2),(3,1),(4,4)} ہو تو Range 'R' ہوتی ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "{2,3,4}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{1,2,3,4}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{1,3,4}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{1,2,3}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "An equation of the form 3ˣ+3²⁻ˣ+6=0 is a/an ____",
+   "q_ur": "مساوات 3ˣ+3²⁻ˣ+6=0 کی قسم ہے۔ ایک ____",
+   "options": [
+    {
+     "k": "A",
+     "en": "exponential equation",
+     "ur": "قوت نمائی مساوات"
+    },
+    {
+     "k": "B",
+     "en": "radical equation",
+     "ur": "جذری مساوات"
+    },
+    {
+     "k": "C",
+     "en": "linear equation",
+     "ur": "ایک درجی مساوات"
+    },
+    {
+     "k": "D",
+     "en": "reciprocal equation",
+     "ur": "معکوس مساوات"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "If B ⊆ A, then B−A = ____",
+   "q_ur": "اگر B ⊆ A ہو تو B−A = ____",
+   "options": [
+    {
+     "k": "A",
+     "en": "B",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{ϕ}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ϕ",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

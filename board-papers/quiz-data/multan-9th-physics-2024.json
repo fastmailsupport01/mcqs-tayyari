@@ -1,0 +1,682 @@
+{
+ "board": "BISE Multan",
+ "board_slug": "lahore",
+ "class": "9th",
+ "subject": "Physics",
+ "year": 2024,
+ "slug": "multan-9th-physics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The number of base units in SI are:",
+   "q_ur": "SI میں بنیادی یونٹس کی تعداد ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "A change in position is called:",
+   "q_ur": "پوزیشن میں تبدیلی کہلاتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Displacement",
+     "ur": "ڈسپلیسمنٹ"
+    },
+    {
+     "k": "B",
+     "en": "Velocity",
+     "ur": "ولاسٹی"
+    },
+    {
+     "k": "C",
+     "en": "Speed",
+     "ur": "سپیڈ"
+    },
+    {
+     "k": "D",
+     "en": "Distance",
+     "ur": "فاصلہ"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Rate of change of momentum is equal to:",
+   "q_ur": "مومنٹم میں تبدیلی کی شرح برابر ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Torque",
+     "ur": "ٹارک"
+    },
+    {
+     "k": "B",
+     "en": "Force",
+     "ur": "فورس"
+    },
+    {
+     "k": "C",
+     "en": "Mass",
+     "ur": "ماس"
+    },
+    {
+     "k": "D",
+     "en": "Distance",
+     "ur": "فاصلہ"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The formula to calculate centripetal force is:",
+   "q_ur": "سینٹری پیٹل فورس معلوم کرنے کا فارمولا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Fc = mv/r²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Fc = mr²/v",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Fc = m²v/r",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Fc = mv²/r",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The number of perpendicular components of force are:",
+   "q_ur": "کس فورس (ویکٹر) کے عمودی کمپوننٹس کی تعداد ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The distance of moon from earth is:",
+   "q_ur": "چاند کا زمین سے فاصلہ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "380,000 Km",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "370,000 Km",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "360,000 Km",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "350,000 Km",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The energy stored in a dam is:",
+   "q_ur": "ڈیم کے پانی میں ذخیرہ شدہ انرجی ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electric energy",
+     "ur": "الیکٹرک انرجی"
+    },
+    {
+     "k": "B",
+     "en": "Potential energy",
+     "ur": "پوٹینشل انرجی"
+    },
+    {
+     "k": "C",
+     "en": "Kinetic energy",
+     "ur": "کائی نیٹک انرجی"
+    },
+    {
+     "k": "D",
+     "en": "Thermal energy",
+     "ur": "تھرمل انرجی"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The efficiency of an ideal system is:",
+   "q_ur": "مثالی سسٹم کی ایفیشینسی ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "100 %",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "200 %",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "90 %",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10 %",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "In SI system the unit of pressure is:",
+   "q_ur": "SI سسٹم میں پریشر کا یونٹ ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Nm²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Nm⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nm⁻²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Water freezes at:",
+   "q_ur": "پانی جس ٹمپریچر پر برف بن جاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "0° F",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "32° F",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0K",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−273K",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Which one of the following material has large specific heat?",
+   "q_ur": "ان میں سے کونسا میٹریل زیادہ حرارت مخصوصہ کا حامل ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Copper",
+     "ur": "کاپر"
+    },
+    {
+     "k": "B",
+     "en": "Ice",
+     "ur": "برف"
+    },
+    {
+     "k": "C",
+     "en": "Water",
+     "ur": "پانی"
+    },
+    {
+     "k": "D",
+     "en": "Mercury",
+     "ur": "مرکری"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Global warming is due to which gas?",
+   "q_ur": "گلوبل وارمنگ کس گیس کی وجہ سے ہوتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Oxygen",
+     "ur": "آکسیجن"
+    },
+    {
+     "k": "B",
+     "en": "Carbon dioxide",
+     "ur": "کاربن ڈائی آکسائیڈ"
+    },
+    {
+     "k": "C",
+     "en": "Carbon monoxide",
+     "ur": "کاربن مونو آکسائیڈ"
+    },
+    {
+     "k": "D",
+     "en": "Chlorine",
+     "ur": "کلورین"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "The number of significant figures in 0.00580km is:",
+   "q_ur": "0.00580km میں اہم ہندسوں کی تعداد ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "A change in position is called:",
+   "q_ur": "پوزیشن میں تبدیلی کہلاتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Speed",
+     "ur": "سپیڈ"
+    },
+    {
+     "k": "B",
+     "en": "Velocity",
+     "ur": "ولاسٹی"
+    },
+    {
+     "k": "C",
+     "en": "Distance",
+     "ur": "فاصلہ"
+    },
+    {
+     "k": "D",
+     "en": "Displacement",
+     "ur": "ڈسپلیسمنٹ"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Inertia depends upon which?",
+   "q_ur": "انرشیا کا انحصار کس پر ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Force",
+     "ur": "فورس"
+    },
+    {
+     "k": "B",
+     "en": "Net force",
+     "ur": "نیٹ فورس"
+    },
+    {
+     "k": "C",
+     "en": "Mass",
+     "ur": "ماس"
+    },
+    {
+     "k": "D",
+     "en": "Velocity",
+     "ur": "ولاسٹی"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "What will be the acceleration that is produced by 16N force in a mass of 8 kg?",
+   "q_ur": "8 کلوگرام ماس کے ایک جسم پر 16N فورس عمل کرتی ہے۔ ایکسلریشن کیا ہوگا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "2ms⁻²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2.5ms⁻²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4ms⁻²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3ms⁻²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The number of perpendicular components of a vector are:",
+   "q_ur": "کسی ویکٹر کے عمودی کمپوننٹس کی تعداد ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Radius of earth is equal to:",
+   "q_ur": "زمین کا ریڈیئس برابر ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "6.4 × 10³ m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6.4 × 10⁶ km",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6.4 × 10⁻⁶ m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6.4 × 10⁶ m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Einstein's mass-energy equation is:",
+   "q_ur": "آئن سٹائن کی ماس۔انرجی مساوات ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "E = m²c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "E = mc²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "E = mc",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "E = m²c²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "The kinetic energy of a body having mass 2 kg and speed 5ms⁻¹ will be:",
+   "q_ur": "اگر کسی جسم کا ماس 2 کلوگرام ہو اور وہ 5ms⁻¹ کی سپیڈ سے حرکت کر رہا ہو تو اس کی کائی نیٹک انرجی ہوگی۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "25 J",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5 J",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "20 J",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "15 J",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "In which state, molecules do not leave their position?",
+   "q_ur": "مادہ کی کون سی حالت میں مالیکیولز اپنی پوزیشن نہیں چھوڑتے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Gas",
+     "ur": "گیس"
+    },
+    {
+     "k": "B",
+     "en": "Liquid",
+     "ur": "مائع"
+    },
+    {
+     "k": "C",
+     "en": "Solid",
+     "ur": "ٹھوس"
+    },
+    {
+     "k": "D",
+     "en": "Plasma",
+     "ur": "پلازما"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Normal human body temperature is:",
+   "q_ur": "نارمل صحت مند انسانی جسم کا ٹمپریچر ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "37° F",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "37° C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "98.6° C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "40° C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Convert 60° C on Celsius scale into Fahrenheit:",
+   "q_ur": "سیلسیئس سکیل پر 60° C کو فارن ہائیٹ میں تبدیل کریں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "122° F",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "136° F",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "138° F",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "140° F",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "In gases, heat is mainly transferred by:",
+   "q_ur": "گیسز میں زیادہ تر انتقال حرارت کا سبب ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Convection",
+     "ur": "کنویکشن"
+    },
+    {
+     "k": "B",
+     "en": "Conduction",
+     "ur": "کنڈکشن"
+    },
+    {
+     "k": "C",
+     "en": "Radiation",
+     "ur": "ریڈی ایشن"
+    },
+    {
+     "k": "D",
+     "en": "Molecules collision",
+     "ur": "مالیکیولز کا ٹکراؤ"
+    }
+   ]
+  }
+ ]
+}

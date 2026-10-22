@@ -1,0 +1,850 @@
+{
+ "board": "BISE Rawalpindi",
+ "board_slug": "lahore",
+ "class": "10th",
+ "subject": "Mathematics",
+ "year": 2024,
+ "slug": "rawalpindi-10th-mathematics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "(x³+1)/((x−1)(x+2)) is:",
+   "q_ur": "ایک ____ ہے: (x³+1)/((x−1)(x+2))",
+   "options": [
+    {
+     "k": "A",
+     "en": "An improper fraction",
+     "ur": "غیر واجب کسر"
+    },
+    {
+     "k": "B",
+     "en": "A proper fraction",
+     "ur": "واجب کسر"
+    },
+    {
+     "k": "C",
+     "en": "An identity",
+     "ur": "مساوات"
+    },
+    {
+     "k": "D",
+     "en": "A constant term",
+     "ur": "مستقل رقم"
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "group": "Group I",
+   "q_en": "The set having only one element is called:",
+   "q_ur": "سیٹ جس میں صرف ایک رکن ہو، کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Null set",
+     "ur": "خالی سیٹ"
+    },
+    {
+     "k": "B",
+     "en": "Power set",
+     "ur": "پاور سیٹ"
+    },
+    {
+     "k": "C",
+     "en": "Subset",
+     "ur": "تحتی سیٹ"
+    },
+    {
+     "k": "D",
+     "en": "Singleton set",
+     "ur": "یکتائی سیٹ"
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "group": "Group I",
+   "q_en": "The number of elements in a power set {a, b, c, d} is:",
+   "q_ur": "{a, b, c, d} کے پاور سیٹ کے ارکان کی تعداد ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "16",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "group": "Group I",
+   "q_en": "Sum of the deviations of the variable x from its mean is always:",
+   "q_ur": "کسی متغیر x کا اس کی حسابی اوسط سے انحراف کا مجموعہ ہمیشہ ____ ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": "صفر"
+    },
+    {
+     "k": "B",
+     "en": "One",
+     "ur": "ایک"
+    },
+    {
+     "k": "C",
+     "en": "Same",
+     "ur": "ایک جیسا"
+    },
+    {
+     "k": "D",
+     "en": "Different",
+     "ur": "مختلف"
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "group": "Group I",
+   "q_en": "Cosec²θ − cot²θ =",
+   "q_ur": "Cosec²θ − cot²θ =",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "group": "Group I",
+   "q_en": "Radius of a circle are:",
+   "q_ur": "ایک ہی دائرے کے رداس ہوتے ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "All unequal",
+     "ur": "تمام غیر برابر"
+    },
+    {
+     "k": "B",
+     "en": "All equal",
+     "ur": "تمام برابر"
+    },
+    {
+     "k": "C",
+     "en": "Half of any chord",
+     "ur": "کسی بھی وتر سے آدھے"
+    },
+    {
+     "k": "D",
+     "en": "Double of diameter",
+     "ur": "قطر سے دگنا"
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "group": "Group I",
+   "q_en": "Tangents drawn at the ends of diameter of a circle are ___ to each other.",
+   "q_ur": "دائرے کے قطر کے سروں پر کھینچے گئے مماس آپس میں ___ ہوتے ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Perpendicular",
+     "ur": "عمودی"
+    },
+    {
+     "k": "B",
+     "en": "Non parallel",
+     "ur": "غیر متوازی"
+    },
+    {
+     "k": "C",
+     "en": "Parallel",
+     "ur": "متوازی"
+    },
+    {
+     "k": "D",
+     "en": "Collinear",
+     "ur": "ہم خط"
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "group": "Group I",
+   "q_en": "A 4 cm long chord subtands [sic, as printed] a central angle of 60°. The radial segment of this circle is:",
+   "q_ur": "ایک 4 سم لمبائی والا وتر مرکز پر 60° کا زاویہ بناتا ہے۔ دائرے کا ___ رداس ہوگا:",
+   "options": [
+    {
+     "k": "A",
+     "en": "4 cm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3 cm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2 cm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1 cm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "group": "Group I",
+   "q_en": "Angle inscribed in a semi-circle is:",
+   "q_ur": "نصف دائرے میں محصور زاویہ ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "π/3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "group": "Group I",
+   "q_en": "The number of methods to solve a quadratic equation is:",
+   "q_ur": "دو درجی مساوات کو حل کرنے کے کتنے طریقے ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "group": "Group I",
+   "q_en": "Two linear factors of x² − x − 20 are:",
+   "q_ur": "x² − x − 20 کے دو ایک درجی تجزی ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "(x − 5) & (x − 4)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(x − 5) & (x + 4)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(x + 5) & (x + 4)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(x + 5) & (x − 4)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "group": "Group I",
+   "q_en": "Cube roots of −1 are: [option D as printed, appears identical to B — transcribed verbatim]",
+   "q_ur": "−1 کے جذر المکعب ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "−1, ω, −ω²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−1, −ω, ω²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1, −ω, −ω²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−1, −ω, −ω²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "group": "Group I",
+   "q_en": "1/α − 1/β is equal to:",
+   "q_ur": "1/α − 1/β برابر ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "(β−α)/αβ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(α−β)/αβ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/β",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/α + 1/β",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "group": "Group I",
+   "q_en": "In a ratio x : y, y is called:",
+   "q_ur": "نسبت x : y میں y کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Relation",
+     "ur": "تعلق"
+    },
+    {
+     "k": "B",
+     "en": "Antecedent",
+     "ur": "پہلا رقم"
+    },
+    {
+     "k": "C",
+     "en": "Consequent",
+     "ur": "دوسری رقم"
+    },
+    {
+     "k": "D",
+     "en": "Proposition",
+     "ur": "تناسب"
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "group": "Group I",
+   "q_en": "Find y in proportion 4 : y :: 15 : 5.",
+   "q_ur": "تناسب 4 : y :: 15 : 5 میں y معلوم کریں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "3/4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4/5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5/4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "A fraction in which the degree of numerator is less than the degree of denominator is called:",
+   "q_ur": "کسر جس کے شمار کنندہ کی درجہ مخرج کی درجے سے کم ہو، کہلاتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "An equation",
+     "ur": "مساوات"
+    },
+    {
+     "k": "B",
+     "en": "An identity",
+     "ur": "مماثلت"
+    },
+    {
+     "k": "C",
+     "en": "A proper fraction",
+     "ur": "واجب کسر"
+    },
+    {
+     "k": "D",
+     "en": "An improper fraction",
+     "ur": "غیر واجب کسر"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "If U = {1, 2, 3, ....., 10} and A = {3, 4, 5} then Ā is:",
+   "q_ur": "اگر U = {1, 2, 3, ....., 10} اور A = {3, 4, 5} تو Ā ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "{1, 2, 3, 4}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{3, 4, 5, 6}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{4, 5, 6, 7, 8}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{1, 2, 6, 7, 8, 9, 10}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "The number of elements in power set of {1, 2, 3} is:",
+   "q_ur": "{1, 2, 3} کے پاور سیٹ کے ارکان کی تعداد ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "If A ⊆ B, then A ∪ B is equal to:",
+   "q_ur": "اگر A ⊆ B تو A ∪ B برابر ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "B",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "φ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{φ}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The spread or scatterness of observations in a data set is called:  [\"scatterness\" as printed]",
+   "q_ur": "کسی مشاہدات کے مجموعے میں پھیلاؤ کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Average",
+     "ur": "اوسط"
+    },
+    {
+     "k": "B",
+     "en": "Dispersion",
+     "ur": "انتشار"
+    },
+    {
+     "k": "C",
+     "en": "Central tendency",
+     "ur": "مرکزی رجحان"
+    },
+    {
+     "k": "D",
+     "en": "Mode",
+     "ur": "مود"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Cosec²θ − cot²θ =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "tan θ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Locus of a point in a plane equidistant from a fixed point is called:",
+   "q_ur": "مستوی کے تمام نقاط کا مجموعہ جو مستقل نقطے سے برابر فاصلے پر ہوں کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Circle",
+     "ur": "دائرہ"
+    },
+    {
+     "k": "B",
+     "en": "Radius",
+     "ur": "رداس"
+    },
+    {
+     "k": "C",
+     "en": "Circumference",
+     "ur": "محیط"
+    },
+    {
+     "k": "D",
+     "en": "Diameter",
+     "ur": "قطر"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "A circle has only one ___.",
+   "q_ur": "ایک دائرے کا صرف ایک ہی ___ ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Secant",
+     "ur": "قاطع خط"
+    },
+    {
+     "k": "B",
+     "en": "Centre",
+     "ur": "مرکز"
+    },
+    {
+     "k": "C",
+     "en": "Chord",
+     "ur": "وتر"
+    },
+    {
+     "k": "D",
+     "en": "Diameter",
+     "ur": "قطر"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "The length of the diameter of a circle is how many times the radius of the circle?",
+   "q_ur": "ایک دائرے کے قطر کی لمبائی دائرے کے رداس کے کتنے گنا ہوتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Two linear factors of x² − 15x + 56 are:",
+   "q_ur": "x² − 15x + 56 کے دو ایک درجی تجزی ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "(x − 7) & (x + 8)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(x + 7) & (x − 8)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(x − 7) & (x − 8)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(x + 7) & (x + 8)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Solution set of the equation x² − x − 20 = 0 is:",
+   "q_ur": "مساوات x² − x − 20 = 0 کا حل سیٹ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "{−4, 5}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{4, 5}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{3, 5}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{−4, −5}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Discriminant of the equation x² − 3x + 3 = 0 is:",
+   "q_ur": "x² − 3x + 3 = 0 کا ممیزانہ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "+3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "15",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "41",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "Two square roots of unity are:",
+   "q_ur": "اکائی کے دو جذر المربع ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "1, ω",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1, −ω",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ω, ω²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1, −1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "A mean proportional between 20, 45 is:",
+   "q_ur": "20, 45 میں وسطی التناسب ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "±30",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "±20",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "±45",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "±10",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "If u ∝ v², then:",
+   "q_ur": "اگر u ∝ v² تو:",
+   "options": [
+    {
+     "k": "A",
+     "en": "u = v²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "u = kv²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "uv² = k",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "uv² = 1",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

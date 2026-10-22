@@ -1,0 +1,1130 @@
+{
+ "board": "BISE Gujranwala",
+ "board_slug": "gujranwala",
+ "class": "11th",
+ "subject": "Mathematics",
+ "year": 2024,
+ "slug": "gujranwala-11th-mathematics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "1- A square matrix A is symmetric if Aᵗ =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−A",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ā",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−Ā",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "If Sinθ > 0 and Secθ > 0, then terminal arm of θ lies in quadrant",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "I",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "II",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "III",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "IV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Conditional equation 3x − 1 = 0 is true only if",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x = 3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x = −3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x = 1/3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x = −1/3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Reference angle always lies in quadrant",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "I",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "II",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "III",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "IV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Cos(Sin⁻¹ 1/√2) =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/√2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π/4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The value of the determinant |1 12 25; 0 3 15; 0 0 8| is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "24",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Sin(π − θ) =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sinθ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−Sinθ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cosθ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−Cosθ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "If \"n\" is even, then middle term of (a + b)ⁿ is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(n/2 − 1)ᵗʰ term",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(n/2 + 1)ᵗʰ term",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(n/2)ᵗʰ term",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(n/2 − 2)ᵗʰ term",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "When 3x⁴ + 4x³ + x − 5 is divided by x + 1, then remainder is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−7",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "7",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Converse of the conditional p → q is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "q → p",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "~ q → ~ p",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "~ p → ~ q",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "p → ~ q",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Multiplicative inverse of −3i is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3i",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/3 i",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−1/3 i",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−3i",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "A′ ∩ B′ =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A′ − B′",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A′ ∪ B′",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(A ∩ B)′",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(A ∪ B)′",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "In a quadratic equation ax² + bx + c = 0, if b² − 4ac > 0, then roots are",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "real",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "equal",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "rational",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "irrational",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "20ᵗʰ term of 1, 3, 5, ... is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "38",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "39",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "40",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "41",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "√3 is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "rational number",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "irrational number",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "even number",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "odd number",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "r₂ =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Δ/S",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Δ/(S−a)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Δ/(S−b)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Δ/(S−c)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "Factorial form of (n + 2)(n + 1)(n) is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(n+2)!/(n+1)!",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(n+1)!/(n−2)!",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(n+2)!/n!",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(n+2)!/(n−1)!",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group I",
+   "q_en": "Tanθ is a periodic function of period",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3π/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2π",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group I",
+   "q_en": "Let A={1,2,3}, then the number of its subsets is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group I",
+   "q_en": "If a = 2i, b = 4i, then G =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "±2√2 i",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "±2 i",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "±4 i",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "±√6 i",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "1- a , b and c are in A.P , then",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2a = b − c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2b = a + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2b = a − c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2a = b + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Number of terms in expansion of (1 + x)ⁿ⁻¹ is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "n + 2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "n + 1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "n",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "n − 1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "H is Harmonic mean between a and b then H = ____.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2ab/(a+b)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(a+b)/2ab",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2ab/(a−b)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(a−b)/2ab",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Cos(tan⁻¹0) = ____",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "∞",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "In p(x)/q(x) , degree of p(x) is less than degree of q(x), then fraction is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "proper",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "improper",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "combined",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "partial",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Set having no proper subset",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "{ }",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{ 1 }",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{ 1 , 2}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{ 1 , 2 , 3 }",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Recurring decimal is a ____ number.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "prime",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "rational",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "irrational",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "integer",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Sum of roots of equation x² − 5x + 6 = 0",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "ⁿC₈ = ⁿC₁₂ , then value of n is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "12",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "16",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "20",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Proposition ____ is called biconditional",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "p → q",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "p ↔ q",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "p ∧ q",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "p ∨ q",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Sinx = 1/2 , then x = ____.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π/6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Number of radians in semi-circle",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2π",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2π/3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "3²ˣ + 4.3ˣ + 4 = 0 is ____ equation.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "cubic",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "radical",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "reciprocal",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "exponential",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "Period of tanx is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3π",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2π",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "(−1)⁻²¹⁄² = ......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "i",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−i",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "If [x 1; 3 1] is singular, then x = ____.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "Sum of opposite angles of cyclic quadrilateral is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "90",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "120",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "180",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "270",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group II",
+   "q_en": "The matrix [1 2 3] is ____ matrix.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "square",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "unit",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "null",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "row",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group II",
+   "q_en": "Co-ratio of Cosine is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "sine",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "cosine",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "tangent",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "secant",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group II",
+   "q_en": "If A = { 1 , 2 , 3 } and B = { 4 , 5 } , which is not element of A x B",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(1 , 4)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(2 , 4)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(3 , 4)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(4 , 3)",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

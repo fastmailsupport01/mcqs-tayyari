@@ -1,0 +1,682 @@
+{
+ "board": "BISE Rawalpindi",
+ "board_slug": "lahore",
+ "class": "9th",
+ "subject": "Chemistry",
+ "year": 2024,
+ "slug": "rawalpindi-9th-chemistry-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Formula mass of Potassium Sulphate (K₂SO₄) is",
+   "q_ur": "پوٹاشیم سلفیٹ (K₂SO₄) کا فارمولا ماس ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "110 amu",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "130 amu",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "174 amu",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "200 amu",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Which one of the following can be separated by physical means into its components?",
+   "q_ur": "مندرجہ ذیل میں سے کس کو اجزاء کی طبیعی طریقوں سے الگ الگ کیا جا سکتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mixtures",
+     "ur": "مکسچر"
+    },
+    {
+     "k": "B",
+     "en": "Elements",
+     "ur": "ایلیمنٹس"
+    },
+    {
+     "k": "C",
+     "en": "Compounds",
+     "ur": "کمپاؤنڈز"
+    },
+    {
+     "k": "D",
+     "en": "Radical",
+     "ur": "ریڈیکل"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Deuterium is an isotope of the element:",
+   "q_ur": "ڈیوٹیریم کس ایلیمنٹ کا آئسوٹوپ ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Carbon",
+     "ur": "کاربن"
+    },
+    {
+     "k": "B",
+     "en": "Hydrogen",
+     "ur": "ہائیڈروجن"
+    },
+    {
+     "k": "C",
+     "en": "Chlorine",
+     "ur": "کلورین"
+    },
+    {
+     "k": "D",
+     "en": "Iodine",
+     "ur": "آئیوڈین"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Transition elements are:",
+   "q_ur": "ٹرانزیشن ایلیمنٹس ہوتے ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "All gases",
+     "ur": "تمام گیسز"
+    },
+    {
+     "k": "B",
+     "en": "All Non-Metals",
+     "ur": "تمام نان میٹلز"
+    },
+    {
+     "k": "C",
+     "en": "All Metals",
+     "ur": "تمام میٹلز"
+    },
+    {
+     "k": "D",
+     "en": "All Metalloids",
+     "ur": "تمام میٹلائیڈز"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Hydrogen bonding is represented by:",
+   "q_ur": "ہائیڈروجن بانڈنگ کو ظاہر کیا جاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Dotted line",
+     "ur": "ڈاٹڈ لائن"
+    },
+    {
+     "k": "B",
+     "en": "Single line",
+     "ur": "سنگل لائن"
+    },
+    {
+     "k": "C",
+     "en": "Double line",
+     "ur": "ڈبل لائن"
+    },
+    {
+     "k": "D",
+     "en": "Triple line",
+     "ur": "ٹرپل لائن"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Which one is a polar molecule?",
+   "q_ur": "ان میں سے کون سا پولر مالیکیول ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "O₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cl₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "HCl",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "H₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The instrument used to measure pressure in laboratory is:",
+   "q_ur": "لیبارٹری میں پریشر ماپنے کے لیے جو آلہ استعمال کیا جاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Barometer",
+     "ur": "بیرومیٹر"
+    },
+    {
+     "k": "B",
+     "en": "Altimeter",
+     "ur": "الٹی میٹر"
+    },
+    {
+     "k": "C",
+     "en": "Galvanometer",
+     "ur": "گیلوانومیٹر"
+    },
+    {
+     "k": "D",
+     "en": "Manometer",
+     "ur": "مینومیٹر"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The universal solvent is:",
+   "q_ur": "یونیورسل سالونٹ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ether",
+     "ur": "ایتھر"
+    },
+    {
+     "k": "B",
+     "en": "Sodium Carbonate",
+     "ur": "سوڈیم کاربونیٹ"
+    },
+    {
+     "k": "C",
+     "en": "Sulphur",
+     "ur": "سلفر"
+    },
+    {
+     "k": "D",
+     "en": "Water",
+     "ur": "پانی"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The salt whose solubility increases with the increase in temperature is:",
+   "q_ur": "وہ نمک جس کی سولیوبلٹی ٹمپریچر کے بڑھنے سے بڑھتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "NaCl",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ce₂(SO₄)₃",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Li₂ SO₄",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Na NO₃",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "An example of reducing agent is:",
+   "q_ur": "ریڈیوسنگ ایجنٹ کی مثال ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zn",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "O₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Br₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cl₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Which one of the following is a non electrolyte?",
+   "q_ur": "مندرجہ ذیل میں سے کون سا نان الیکٹرولائٹ ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "HCl",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Benzene",
+     "ur": "بینزین"
+    },
+    {
+     "k": "C",
+     "en": "NaOH",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CH₃COOH",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Metals form ionic compounds with:",
+   "q_ur": "میٹلز جن سے مل کر آئونک کمپاؤنڈز بناتے ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Transition elements",
+     "ur": "ٹرانزیشن ایلیمنٹس"
+    },
+    {
+     "k": "B",
+     "en": "Halogens",
+     "ur": "ہیلوجنز"
+    },
+    {
+     "k": "C",
+     "en": "Noble gases",
+     "ur": "نوبل گیسز"
+    },
+    {
+     "k": "D",
+     "en": "Metalloids",
+     "ur": "میٹلائیڈز"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Density of a gas increases, when its:",
+   "q_ur": "گیس کی ڈینسٹی بڑھ جاتی ہے، جب اس کا:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Temperature increases",
+     "ur": "ٹمپریچر بڑھتا ہے"
+    },
+    {
+     "k": "B",
+     "en": "Pressure increases",
+     "ur": "پریشر بڑھتا ہے"
+    },
+    {
+     "k": "C",
+     "en": "Volume is constant",
+     "ur": "والیم مستقل ہے"
+    },
+    {
+     "k": "D",
+     "en": "Pressure is constant",
+     "ur": "پریشر مستقل ہے"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "An example of heterogeneous mixture is:",
+   "q_ur": "ہیٹروجینس مکسچر کی ایک مثال ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Milk",
+     "ur": "دودھ"
+    },
+    {
+     "k": "B",
+     "en": "Ink",
+     "ur": "انک (روشنائی)"
+    },
+    {
+     "k": "C",
+     "en": "Milk of magnesia",
+     "ur": "ملک آف میگنیشیا"
+    },
+    {
+     "k": "D",
+     "en": "Sugar solution",
+     "ur": "شوگر سلوشن"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Dust particles are example of solution:",
+   "q_ur": "گرد کے ذرات سلوشن کی مثال ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Gas in solid",
+     "ur": "گیس ان سالڈ"
+    },
+    {
+     "k": "B",
+     "en": "Solid in gas",
+     "ur": "سالڈ ان گیس"
+    },
+    {
+     "k": "C",
+     "en": "Solid in liquid",
+     "ur": "سالڈ ان لیکوئڈ"
+    },
+    {
+     "k": "D",
+     "en": "Liquid in solid",
+     "ur": "لیکویڈ ان سالڈ"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "In Nelson cell cathode is made up of material:",
+   "q_ur": "نیلسن سیل میں کیتھوڈ کس مٹیریل سے بنا ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sodium",
+     "ur": "سوڈیم"
+    },
+    {
+     "k": "B",
+     "en": "Chlorine",
+     "ur": "کلورین"
+    },
+    {
+     "k": "C",
+     "en": "Graphite",
+     "ur": "گریفائٹ"
+    },
+    {
+     "k": "D",
+     "en": "Iron",
+     "ur": "آئرن"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Formation of water from Hydrogen and oxygen is:",
+   "q_ur": "ہائیڈروجن اور آکسیجن سے پانی کا بننا ایک مثال ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Redox reaction",
+     "ur": "ریڈوکس ری ایکشن"
+    },
+    {
+     "k": "B",
+     "en": "Acid base reaction",
+     "ur": "ایسڈ بیس ری ایکشن"
+    },
+    {
+     "k": "C",
+     "en": "Neutralization",
+     "ur": "نیوٹرلائزیشن"
+    },
+    {
+     "k": "D",
+     "en": "Decomposition",
+     "ur": "ڈی کمپوزیشن"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Ionization energy of sodium is:",
+   "q_ur": "سوڈیم کی آئنائزیشن انرجی ہوتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "486 KJ / Mole",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "496 KJ / Mole",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "738 KJ / Mole",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "590 KJ / Mole",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Atomic Number of carbon is:",
+   "q_ur": "کاربن کا ایٹمک نمبر ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "9",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "An atom that has a negative charge is called:",
+   "q_ur": "ایک ایٹم جس پر نیگیٹو چارج ہوتا ہے کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cation",
+     "ur": "کیٹائن"
+    },
+    {
+     "k": "B",
+     "en": "Atom",
+     "ur": "ایٹم"
+    },
+    {
+     "k": "C",
+     "en": "Anion",
+     "ur": "اینائن"
+    },
+    {
+     "k": "D",
+     "en": "Radical",
+     "ur": "ریڈیکل"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "\"M\" shell can accommodate maximum number of electrons:",
+   "q_ur": "\"M\" شیل میں زیادہ سے زیادہ کتنے الیکٹرونز سما سکتے ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "18",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "32",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Horizontal rows of Modern Periodic Table are called:",
+   "q_ur": "جدید پیریڈک ٹیبل کی افقی قطاریں کہلاتی ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Periods",
+     "ur": "پیریڈز"
+    },
+    {
+     "k": "B",
+     "en": "Groups",
+     "ur": "گروپس"
+    },
+    {
+     "k": "C",
+     "en": "Noble gases",
+     "ur": "نوبل گیسز"
+    },
+    {
+     "k": "D",
+     "en": "Transition elements",
+     "ur": "ٹرانزیشن ایلیمنٹس"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "A bond formed between two non metals is expected to be:",
+   "q_ur": "دو نان میٹلز کے درمیان بننے والا بانڈ متوقع طور پر ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ionic",
+     "ur": "آئونک"
+    },
+    {
+     "k": "B",
+     "en": "Covalent",
+     "ur": "کوویلنٹ"
+    },
+    {
+     "k": "C",
+     "en": "Coordinate covalent",
+     "ur": "کوآرڈینیٹ کوویلنٹ"
+    },
+    {
+     "k": "D",
+     "en": "Metallic",
+     "ur": "میٹالک"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Ice floats over water because:",
+   "q_ur": "برف پانی پر تیرتی ہے کیونکہ:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ice is denser than water",
+     "ur": "برف پانی سے گھنی ہے"
+    },
+    {
+     "k": "B",
+     "en": "Ice is crystalline in nature",
+     "ur": "برف کی ساخت کرسٹلائن ہوتی ہے"
+    },
+    {
+     "k": "C",
+     "en": "Water is denser than ice",
+     "ur": "پانی برف سے گھنا ہے"
+    },
+    {
+     "k": "D",
+     "en": "Water molecules move randomly",
+     "ur": "پانی کے مالیکیولز حرکت میں ہوتے ہیں"
+    }
+   ]
+  }
+ ]
+}

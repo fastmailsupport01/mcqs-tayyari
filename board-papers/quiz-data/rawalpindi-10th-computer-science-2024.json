@@ -1,0 +1,570 @@
+{
+ "board": "BISE Rawalpindi",
+ "board_slug": "lahore",
+ "class": "10th",
+ "subject": "Computer Science",
+ "year": 2024,
+ "slug": "rawalpindi-10th-computer-science-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "A software that faciliates [sic, as printed] programmers in writing computer programmes is known as______.",
+   "q_ur": "ایک سافٹ ویر جو پروگرامر کو کمپیوٹر پروگرام لکھنے میں مدد دیتا ہے ______ کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Compiler",
+     "ur": "کمپائلر"
+    },
+    {
+     "k": "B",
+     "en": "An editor",
+     "ur": "ایڈیٹر"
+    },
+    {
+     "k": "C",
+     "en": "An IDE",
+     "ur": "آئی ڈی ای"
+    },
+    {
+     "k": "D",
+     "en": "A Debugger",
+     "ur": "ڈی بگر"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "For initializing a varible [sic, as printed], we use ______ operator.",
+   "q_ur": "ایک متغیر کو انیشلائز کرنے کے لیے ہم ______ آپریٹر استعمال کرتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "→",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "=",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "@",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "?",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Which operator has the highest precedence among the following?",
+   "q_ur": "ان میں سے کس کی پریسیڈنس (ترجیح) سب سے زیادہ ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "=",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "||",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "==",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "+",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "What will be the value of ' i ' after the given statement :  float i = 5.0/2.0;",
+   "q_ur": "دی گئی سٹیٹمنٹ کے بعد 'i' کی مقدار کیا ہوگی:",
+   "options": [
+    {
+     "k": "A",
+     "en": "25",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2.5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "An if statement inside another if statement is called ______ structure.",
+   "q_ur": "اگر if سٹیٹمنٹ کے اندر ایک اور if سٹیٹمنٹ ہو تو وہ ______ سٹرکچر کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nested",
+     "ur": "نیسٹڈ"
+    },
+    {
+     "k": "B",
+     "en": "Boxed",
+     "ur": "بکسڈ"
+    },
+    {
+     "k": "C",
+     "en": "Repeated",
+     "ur": "ریپیٹڈ"
+    },
+    {
+     "k": "D",
+     "en": "Decomposed",
+     "ur": "ڈی کمپوزڈ"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "What will be the output of the following code?\nif (1 < 0)\n  printf(\"1\");\nelse\n  printf(\"O\");",
+   "q_ur": "درج ذیل کوڈ کی آؤٹ پٹ کیا ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "\"O\"",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "\"1\"",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "______structure allows repetition of a set of instructions.",
+   "q_ur": "______ سٹرکچر ہمیشہ ہدایات کے مجموعے کو بار بار دہرانے کے لیے استعمال ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Loop",
+     "ur": "لوپ"
+    },
+    {
+     "k": "B",
+     "en": "Conditional",
+     "ur": "مشروط"
+    },
+    {
+     "k": "C",
+     "en": "Control",
+     "ur": "کنٹرول"
+    },
+    {
+     "k": "D",
+     "en": "Data",
+     "ur": "ڈیٹا"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "An array index starts with:",
+   "q_ur": "ارے کا انڈیکس شروع ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "- 1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "If there are three return statements in the function body, ______ of them will be executed.",
+   "q_ur": "اگر فنکشن باڈی میں تین ریٹرن سٹیٹمنٹس ہوں تو ان میں سے ______ چلے گی۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "char cd ( ) {return 'a'}. In this function \"char\" is ______.",
+   "q_ur": "char cd ( ) {return 'a'} اس فنکشن میں \"char\" ______ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Body",
+     "ur": "باڈی"
+    },
+    {
+     "k": "B",
+     "en": "Return type",
+     "ur": "ریٹرن ٹائپ"
+    },
+    {
+     "k": "C",
+     "en": "Array",
+     "ur": "ارے"
+    },
+    {
+     "k": "D",
+     "en": "Arguments",
+     "ur": "آرگومنٹس"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "An array is a ______ structure.",
+   "q_ur": "ارے ایک ______ سٹرکچر ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Loop",
+     "ur": "لوپ"
+    },
+    {
+     "k": "B",
+     "en": "Control",
+     "ur": "کنٹرول"
+    },
+    {
+     "k": "C",
+     "en": "Data",
+     "ur": "ڈیٹا"
+    },
+    {
+     "k": "D",
+     "en": "Conditional",
+     "ur": "مشروط"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "What is the index number of last element of an array with 7 elements?",
+   "q_ur": "7 ارکان والے ارے کے آخری رکن کا انڈیکس کیا ہوگا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "A function cannot return more than ______ values.",
+   "q_ur": "ایک فنکشن ______ سے زیادہ قیمتیں ریٹرن نہیں کر سکتا۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "______ means to transfer the control to another function.",
+   "q_ur": "______ سے مراد کنٹرول کو ایک اور فنکشن میں ٹرانسفر کرنا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Defining",
+     "ur": "ڈیفائننگ"
+    },
+    {
+     "k": "B",
+     "en": "Rewriting",
+     "ur": "ری رائٹنگ"
+    },
+    {
+     "k": "C",
+     "en": "Including",
+     "ur": "انکلوڈنگ"
+    },
+    {
+     "k": "D",
+     "en": "Calling",
+     "ur": "کالنگ"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The extension of header file is:",
+   "q_ur": "ہیڈر فائل کی ایکسٹینشن ہوتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": ".C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": ".CPP",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": ".h",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": ".txt",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "______ are the values that do not change during the whole extention [sic, as printed].",
+   "q_ur": "______ وہ قیمتیں جو پروگرام کے چلتے ہوئے تبدیل نہیں ہوتیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Variable",
+     "ur": "متغیرات"
+    },
+    {
+     "k": "B",
+     "en": "Constants",
+     "ur": "کانسٹنٹس"
+    },
+    {
+     "k": "C",
+     "en": "Strings",
+     "ur": "سٹرنگز"
+    },
+    {
+     "k": "D",
+     "en": "Comments",
+     "ur": "کمنٹس"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Which of the following is valid line of code?",
+   "q_ur": "ان میں سے کوڈ کی کون سی لائن صحیح ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "int = 30;",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "line = this is a line;",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "float = 4.3;",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Char grade = 'A';",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Scanf() is an example of ______ function.",
+   "q_ur": "Scanf() ______ فنکشن کی ایک مثال ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "input",
+     "ur": "ان پٹ"
+    },
+    {
+     "k": "B",
+     "en": "Output",
+     "ur": "آؤٹ پٹ"
+    },
+    {
+     "k": "C",
+     "en": "Loglcal [sic, as printed]",
+     "ur": "منطق"
+    },
+    {
+     "k": "D",
+     "en": "Math",
+     "ur": "ریاضی"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "What will be the output of following code?\nint m = 0 , n = 5 ;\nif (m%n>1)\nprintf(\"Success\");\nelse\nprintf(\"Looser\");",
+   "q_ur": "درج ذیل کوڈ کی آؤٹ پٹ کیا ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Success",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Looser",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "\"Success\"",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "\"Looser\"",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "A set of multiple instructions enclosed in braces is called a ______.",
+   "q_ur": "قوسین میں بند ایک سے زیادہ ہدایات کا سیٹ ______ کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Box",
+     "ur": "بکس"
+    },
+    {
+     "k": "B",
+     "en": "List",
+     "ur": "لسٹ"
+    },
+    {
+     "k": "C",
+     "en": "Block",
+     "ur": "بلاک"
+    },
+    {
+     "k": "D",
+     "en": "Job",
+     "ur": "جوب"
+    }
+   ]
+  }
+ ]
+}

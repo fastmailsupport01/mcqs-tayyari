@@ -1,0 +1,1130 @@
+{
+ "board": "BISE Gujranwala",
+ "board_slug": "gujranwala",
+ "class": "12th",
+ "subject": "Mathematics",
+ "year": 2024,
+ "slug": "gujranwala-12th-mathematics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "1- ∫Secx Tanx dx = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Secx + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Sec²x + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Tanx + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ln |Secx + tanx| + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The focus of parabola x² = –16y is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(0 , –4)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(0 , 0)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(4 , 0)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(–4 , 0)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "∫₀² |x| dx is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Derivative of y = f(x) at x = a represents slope of",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "tangent line at x = a",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "secant line",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "perpendicular line",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "straight line",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Projection of vector v along vector u is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(u·v)/|u|",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(u·v)/|v|",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(u·u)/|u|",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(v·v)/|v|",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Which one is true?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "i×i = i",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "i·i = i",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "k×k ≠ 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "k×i = –j",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Which one equation represents a circle?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "y² = 8x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3x² + 3y² = 9",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3x² + 5y² = 9",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x² – 2y = 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Which one is point-slope form of a straight line?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "y = mx + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "y – y₁ = m (x–x₁)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x/a + y/b = 1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x/a – y/b = 1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Order of differential equation d²y/dx² + dy/dx – 2x = 0 is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The interval in which f(x) = 4 – x² ; x ∈ (–2, 2) is increasing",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(0 , 2)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(–2 , 0)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(–2 , 2)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(0 , 1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The function f(x) = (x² – 1)/(x – 1) is not defined at",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x = 1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x = 2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x = –1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "If f(x) = x²/³, the f'(8) is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2/3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "∫f'(x)/f(x) dx = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ln|x| + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ln|f(x)| + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ln|f'(x)| + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ln f(x)·f'(x) + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "Slope of the line passing through the points (0 , –1) and (7 , –15) is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "–2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Lim (eˣ) = ? as x→–∞",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "∞",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "–∞",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "[u v v] = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "–1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "v",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "Which point is not solution of inequality x – 2y ≤ 6",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(1 , 1)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(0 , –1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(14 , 0)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(–4 , 0)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group I",
+   "q_en": "Major axis of ellipse x²/a² + y²/b² = 1 with (a > b) is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "y = 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x = 1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "y = 1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group I",
+   "q_en": "Derivative of Tan⁻¹x w.r.t. x is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/(1–x²)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/(x²–1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/(1+x²)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1+x²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group I",
+   "q_en": "Distance of line 5x + 12y + 39 = 0 from origin is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "12",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "39",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "1- Differential of √x is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/√x dx",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2/√x dx",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/(2√x) dx",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "–1/√x dx",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "If a = b then equation x²/a² + y²/b² = 1 represent",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ellipse",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Circle",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Parabola",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Hyperbola",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Degree of differential equation d²y/dx² + dy/dx – 3x = 0 is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "d/dx (Sin ln x) = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(eˣ – e⁻ˣ)/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(eˣ + e⁻ˣ)/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "eˣ – e⁻ˣ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "eˣ + e⁻ˣ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Magnitude of a vector v = –i + j is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "√2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "–√2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "If dot product of two non-zero vectors is zero then vectors will be",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "perpendicular",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "parallel",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "collinear",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "all of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Length of latus ractum of parabola y² = 4ax is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2a",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4ax",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4a",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/(2a)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Every homogeneous equation ax² + 2hxy + by² = 0 represent two real lines through origin if",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "h² – ab < 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "h² – ab > 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "h² = ab",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "both (B) and (C)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "If α is constant then ∫cotα dy is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sinα + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "–Sinα + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "xSinα + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ycotα + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "If f(x) = Cosx, then f'(π/2) is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "–1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Lim (x³ – a³)/(x – a) = ? as x→a",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3a²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "un-defined",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Derivative of √x at x = a is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/√a",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "–1/(2√a)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/(2√a)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2√a",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "∫(lnx)/x dx is equal to",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ln (lnx) + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(lnx)²/2 + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "lnx + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "lnx/2 + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "Slope intercept form of a line is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "y = mx + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x/a + y/b = 1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x = 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "y = 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "The function f(x) = (2 + 3x)/(2x) is not continuous at",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x = 3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x = 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x = –2/3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x = 1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "1/6 [u v w] is formula to calculate",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "area of triangle",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "volume of parallelpiped",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "volume of tetrahedron",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "area of parallelogram",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "(2 , 1) is solution of in-equality",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2x + y > 5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x – 2y > 1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3x – 5y < 7",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2x + y < 5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group II",
+   "q_en": "Eccentricity of hyperbola is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "e < 1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "e = 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "e = 1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "e > 1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group II",
+   "q_en": "d/dx [1/g(x)] is equal to",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/[g(x)]²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "–g'(x)/g(x)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "–1/[g(x)]²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "–g'(x)/[g(x)]²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group II",
+   "q_en": "Distance of point (Cos3x , Sin3x) from origin is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "9",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

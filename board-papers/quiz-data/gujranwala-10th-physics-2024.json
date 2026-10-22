@@ -1,0 +1,682 @@
+{
+ "board": "BISE Gujranwala",
+ "board_slug": "gujranwala",
+ "class": "10th",
+ "subject": "Physics",
+ "year": 2024,
+ "slug": "gujranwala-10th-physics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "1.1 - The direction of induced e.m.f in a circuit is in accordance with conservation of",
+   "q_ur": "1.1 - انڈیوسڈ ای۔ایم۔ایف کی سمت سرکٹ میں کنزرویشن کے کس قانون کے مطابق ہوتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "mass",
+     "ur": "ماس"
+    },
+    {
+     "k": "B",
+     "en": "charge",
+     "ur": "چارج"
+    },
+    {
+     "k": "C",
+     "en": "energy",
+     "ur": "انرجی"
+    },
+    {
+     "k": "D",
+     "en": "momentum",
+     "ur": "مومنٹم"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Two small charged sphere are seperated by 2mm. Which of the following would produce the greatest attractive force?",
+   "q_ur": "دو چھوٹے چارجڈ سفیرز کو 2mm کے فاصلے پر رکھا گیا ہے۔ مندرجہ ذیل میں سے کس انتخاب کے لیے سب سے زیادہ کشش کی فورس ہو گی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "+1q and +4q",
+     "ur": "+1q اور +4q"
+    },
+    {
+     "k": "B",
+     "en": "−1q and −4q",
+     "ur": "−1q اور −4q"
+    },
+    {
+     "k": "C",
+     "en": "+2q and +2q",
+     "ur": "+2q اور +2q"
+    },
+    {
+     "k": "D",
+     "en": "+2q and −2q",
+     "ur": "+2q اور −2q"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The number of neutrons in tritium (³₁H) is",
+   "q_ur": "ٹریٹیم (³₁H) میں نیوٹرونز کی تعداد ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Isotopes are atoms of same element with different",
+   "q_ur": "آئسوٹوپس ایک ہی ایلیمنٹ کے ایسے ایٹمز ہوتے ہیں جن کا مختلف ہوتا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "number of electrons",
+     "ur": "الیکٹرونز کی تعداد"
+    },
+    {
+     "k": "B",
+     "en": "number of protons",
+     "ur": "پروٹونز کی تعداد"
+    },
+    {
+     "k": "C",
+     "en": "atomic number",
+     "ur": "ایٹامک نمبر"
+    },
+    {
+     "k": "D",
+     "en": "atomic mass",
+     "ur": "ایٹامک ماس"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Which form of energy is sound?",
+   "q_ur": "ساؤنڈ، انرجی کی کون سی قسم ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "electrical",
+     "ur": "الیکٹریکل"
+    },
+    {
+     "k": "B",
+     "en": "mechanical",
+     "ur": "مکینیکل"
+    },
+    {
+     "k": "C",
+     "en": "thermal",
+     "ur": "تھرمل"
+    },
+    {
+     "k": "D",
+     "en": "chemical",
+     "ur": "کیمیکل"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Typical value of the voltage and current used for thermionic emission from tungsten filament is",
+   "q_ur": "ٹنگسٹن فلامنٹ سے تھرمائونک ایمیشن کے لیے وولٹیج اور کرنٹ کی مخصوص مقداریں لی جاتی ہیں",
+   "options": [
+    {
+     "k": "A",
+     "en": "6V ، 0.3A",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "12V ، 0.3A",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "12V ، 3A",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6V ، 3A",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Which is the most suitable means of reliable continuous communication between an orbiting satellite and Earth?",
+   "q_ur": "سیٹلائٹ اور زمین کے درمیان مناسب اور زیادہ تیز کمیونیکیشن کا ذریعہ کون سا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "microwaves",
+     "ur": "مائیکروویوز"
+    },
+    {
+     "k": "B",
+     "en": "radiowaves",
+     "ur": "ریڈیوویوز"
+    },
+    {
+     "k": "C",
+     "en": "sound waves",
+     "ur": "ساؤنڈ ویوز"
+    },
+    {
+     "k": "D",
+     "en": "any light wave",
+     "ur": "کوئی بھی لائٹ ویوز"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "If we double both the current and the voltage in a circuit while keeping its resistance constant, the power",
+   "q_ur": "اگر ہم ایک سرکٹ میں رزسٹنس کو کونسٹنٹ رکھتے ہوئے کرنٹ اور وولٹیج دونوں کو دوگنا کر دیں تو پاور",
+   "options": [
+    {
+     "k": "A",
+     "en": "remains unchanged",
+     "ur": "میں کوئی فرق نہیں پڑے گا"
+    },
+    {
+     "k": "B",
+     "en": "halves",
+     "ur": "نصف ہو جائے گی"
+    },
+    {
+     "k": "C",
+     "en": "doubles",
+     "ur": "دوگنا ہو جائے گی"
+    },
+    {
+     "k": "D",
+     "en": "quadruples",
+     "ur": "چارگنا ہو جائے گی"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The output of a two-input NOR gate is '1' when",
+   "q_ur": "دو ان پٹ والے نار گیٹ کی آؤٹ پٹ '1' ہوتی ہے جب",
+   "options": [
+    {
+     "k": "A",
+     "en": "B=0 ، A=1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "B=1 ، A=0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "B=0 ، A=0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "B=1 ، A=1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "In a vacuum all electromagnetic waves have the same",
+   "q_ur": "ویکیوم میں تمام الیکٹرومیگنیٹک ویوز رکھتی ہیں",
+   "options": [
+    {
+     "k": "A",
+     "en": "speed",
+     "ur": "سپیڈ"
+    },
+    {
+     "k": "B",
+     "en": "frequency",
+     "ur": "فریکوئنسی"
+    },
+    {
+     "k": "C",
+     "en": "amplitude",
+     "ur": "ایمپلیٹیوڈ"
+    },
+    {
+     "k": "D",
+     "en": "wavelength",
+     "ur": "ویولینتھ"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The index of refraction depends on",
+   "q_ur": "انڈیکس آف ریفریکشن کا انحصار کس پر ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "the focal length",
+     "ur": "فوکل لینتھ پر"
+    },
+    {
+     "k": "B",
+     "en": "the speed of light",
+     "ur": "روشنی کی سپیڈ پر"
+    },
+    {
+     "k": "C",
+     "en": "the image distance",
+     "ur": "امیج کے فاصلہ پر"
+    },
+    {
+     "k": "D",
+     "en": "the object distance",
+     "ur": "جسم کے فاصلہ پر"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Fax machine is also called",
+   "q_ur": "فیکس مشین یہ بھی کہلاتی ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "radio",
+     "ur": "ریڈیو"
+    },
+    {
+     "k": "B",
+     "en": "telefacsimile",
+     "ur": "ٹیلی فیکس مائلی"
+    },
+    {
+     "k": "C",
+     "en": "telecom",
+     "ur": "ٹیلی کام"
+    },
+    {
+     "k": "D",
+     "en": "telephone",
+     "ur": "ٹیلی فون"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "1.1 - The relation between v, f and λ of a wave is",
+   "q_ur": "1.1 - ایک ویو کی ولاسٹی، فریکوئنسی اور ویولینتھ کے درمیان تعلق ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "vf = λ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "fλ = v",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "vλ = f",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "v = λ/f",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "For a normal person, audible frequency range for sound wave lies between",
+   "q_ur": "ایک عام آدمی کیلئے قابل سماعت ساؤنڈ کی فریکوئنسی کی حدود ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "10 Hz − 10 kHz",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "20 Hz − 20 kHz",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "25 Hz − 25 kHz",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "30 Hz − 30 kHz",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Which is an example of longitudinal wave?",
+   "q_ur": "لونگیٹیوڈنل ویو کی مثال ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "sound wave",
+     "ur": "ساؤنڈ ویو"
+    },
+    {
+     "k": "B",
+     "en": "light wave",
+     "ur": "روشنی کی ویو"
+    },
+    {
+     "k": "C",
+     "en": "radio wave",
+     "ur": "ریڈیو ویو"
+    },
+    {
+     "k": "D",
+     "en": "water wave",
+     "ur": "واٹر ویو"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "If a ray of light in glass is incident on an air surface at an angle greater than the critical angle, the ray will",
+   "q_ur": "اگر گلاس سے روشنی کی رے ہوا کی سطح سے اس طرح ٹکرائے کہ اس کا اینگل، اینگل آف کریٹیکل اینگل سے بڑا ہو تو رے ہو گی",
+   "options": [
+    {
+     "k": "A",
+     "en": "refract only",
+     "ur": "صرف ریفریکٹ"
+    },
+    {
+     "k": "B",
+     "en": "reflect only",
+     "ur": "صرف ریفلیکٹ"
+    },
+    {
+     "k": "C",
+     "en": "partially refract and partially reflect",
+     "ur": "کچھ ریفریکٹ اور کچھ ریفلیکٹ"
+    },
+    {
+     "k": "D",
+     "en": "diffract only",
+     "ur": "صرف ڈفریکٹ"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Capacitance is defined as",
+   "q_ur": "کپیسیٹنس کی تعریف اس طرح کی جاتی ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "VC",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Q/V",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "QV",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "V/Q",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "The combined resistance of two identical resistors, connected in series is 8 Ω. Their combined resistance in a parallel arrangement will be",
+   "q_ur": "سیریز طریقے سے جوڑے گئے دو ایک جیسے رزسٹرز کی رزسٹنس کا مجموعہ 8 Ω ہے۔ پیرالل طریقے سے جوڑنے سے ان کی رزسٹنس کا مجموعہ کیا ہو گا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "2 Ω",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4 Ω",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8 Ω",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "12 Ω",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Which device is practical application of mutual induction?",
+   "q_ur": "کون سی ڈیوائس میوچل انڈکشن کے اصول پر کام کرتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "electric motor",
+     "ur": "الیکٹرک موٹر"
+    },
+    {
+     "k": "B",
+     "en": "transformer",
+     "ur": "ٹرانسفارمر"
+    },
+    {
+     "k": "C",
+     "en": "ammeter",
+     "ur": "امیٹر"
+    },
+    {
+     "k": "D",
+     "en": "solenoid",
+     "ur": "سولینائیڈ"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "The logical operation performed by this gate is",
+   "q_ur": "اس گیٹ سے کونسا لاجکل آپریشن حاصل ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "AND",
+     "ur": "اینڈ"
+    },
+    {
+     "k": "B",
+     "en": "NOR",
+     "ur": "نار"
+    },
+    {
+     "k": "C",
+     "en": "NAND",
+     "ur": "نینڈ"
+    },
+    {
+     "k": "D",
+     "en": "OR",
+     "ur": "آر"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "If X = A · B , then X is '1' when,",
+   "q_ur": "اگر X = A · B ہو تو X لیول '1' پر ہو گی، اگر",
+   "options": [
+    {
+     "k": "A",
+     "en": "A=1 , B=0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A=0 , B=0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A=0 , B=1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A=1 , B=1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "What does the term e-mail stand for ?",
+   "q_ur": "ای-میل کس شے کا مخفف ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "emergency mail",
+     "ur": "ایمرجنسی میل"
+    },
+    {
+     "k": "B",
+     "en": "extra mail",
+     "ur": "ایکسٹرا میل"
+    },
+    {
+     "k": "C",
+     "en": "external mail",
+     "ur": "ایکسٹرنل میل"
+    },
+    {
+     "k": "D",
+     "en": "electronic mail",
+     "ur": "الیکٹرونک میل"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "What happens to the atomic number of an element which emits one alpha particle?",
+   "q_ur": "جب ایک ایلیمنٹ ایک الفا پارٹیکل خارج کرتا ہے تو اس کے ایٹامک نمبر پر کیا اثر پڑے گا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "increases by 1",
+     "ur": "ایک بڑھ جائے گا"
+    },
+    {
+     "k": "B",
+     "en": "stays the same",
+     "ur": "کوئی فرق نہیں پڑے گا"
+    },
+    {
+     "k": "C",
+     "en": "decreases by 2",
+     "ur": "دو کم ہو جائے گا"
+    },
+    {
+     "k": "D",
+     "en": "decreases by 1",
+     "ur": "ایک کم ہو جائے گا"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "What is the S.I unit of radio activity?",
+   "q_ur": "ریڈیو ایکٹیویٹی کا S.I یونٹ کیا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "rem",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "V",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "W",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Bq",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

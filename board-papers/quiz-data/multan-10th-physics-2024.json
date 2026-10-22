@@ -1,0 +1,682 @@
+{
+ "board": "BISE Multan",
+ "board_slug": "lahore",
+ "class": "10th",
+ "subject": "Physics",
+ "year": 2024,
+ "slug": "multan-10th-physics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The half life of ²³⁵₉₂U is:",
+   "q_ur": "یورینیم ²³⁵₉₂U کی ہاف لائف ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "7.1×10⁸ years",
+     "ur": "7.1×10⁸ سال"
+    },
+    {
+     "k": "B",
+     "en": "7.1×10⁹ years",
+     "ur": "7.1×10⁹ سال"
+    },
+    {
+     "k": "C",
+     "en": "7.1×10¹⁰ years",
+     "ur": "7.1×10¹⁰ سال"
+    },
+    {
+     "k": "D",
+     "en": "7.1×10¹¹ years",
+     "ur": "7.1×10¹¹ سال"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The magnifying power of simple microscope is:",
+   "q_ur": "سادہ مائیکروسکوپ کی میگنیفائنگ پاور ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "fₒ/fₑ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "fₑ/fₒ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1 − d/f",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1 + d/f",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "In a vacuum, all electromagnetic waves have the same:",
+   "q_ur": "ویکیوم میں تمام الیکٹرو میگنیٹک ویوز ایک جیسی رکھتی ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Speed",
+     "ur": "سپیڈ"
+    },
+    {
+     "k": "B",
+     "en": "Frequency",
+     "ur": "فریکوئنسی"
+    },
+    {
+     "k": "C",
+     "en": "Amplitude",
+     "ur": "ایمپلی ٹیوڈ"
+    },
+    {
+     "k": "D",
+     "en": "Wavelength",
+     "ur": "ویولینتھ"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The loudness of a sound is most closely related to its _____.",
+   "q_ur": "ساؤنڈ کی لاؤڈنیس کا قریبی تعلق _____ سے ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Frequency",
+     "ur": "فریکوئنسی"
+    },
+    {
+     "k": "B",
+     "en": "Period",
+     "ur": "پیریڈ"
+    },
+    {
+     "k": "C",
+     "en": "Wavelength",
+     "ur": "ویولینتھ"
+    },
+    {
+     "k": "D",
+     "en": "Amplitude",
+     "ur": "ایمپلی ٹیوڈ"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The index of refraction depends on:",
+   "q_ur": "انڈیکس آف ریفریکشن کا انحصار ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "The focal length",
+     "ur": "فوکل لینتھ پر"
+    },
+    {
+     "k": "B",
+     "en": "The speed of light",
+     "ur": "روشنی کی سپیڈ پر"
+    },
+    {
+     "k": "C",
+     "en": "The image distance",
+     "ur": "امیج کے فاصلے پر"
+    },
+    {
+     "k": "D",
+     "en": "The object distance",
+     "ur": "جسم کے فاصلے پر"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Five joules of work is needed to shift 10C of charge from one place to another. The potential difference between the places will be:",
+   "q_ur": "ایک 10C کے چارج کو ایک جگہ سے دوسری جگہ لے جانے کے لیے پانچ جول ورک کرنا پڑتا ہے۔ ان دونوں مقامات کے درمیان پوٹینشل ڈفرینس ہو گا۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.5 V",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2V",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5V",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10V",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "What does happen to the intensity or the brightness of the lamps connected in series as more and more lamps are added?",
+   "q_ur": "سیریز طریقے سے جوڑے گئے بلبوں کی تعداد میں اضافہ کرنے سے ان کی روشنی کی شدت پر کیا فرق پڑتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Increases",
+     "ur": "اضافہ ہوتا ہے"
+    },
+    {
+     "k": "B",
+     "en": "Decreases",
+     "ur": "کمی ہوتی ہے"
+    },
+    {
+     "k": "C",
+     "en": "Remains the same",
+     "ur": "کوئی فرق نہیں پڑتا"
+    },
+    {
+     "k": "D",
+     "en": "Cannot be predicted",
+     "ur": "بتانا مشکل ہے"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The turn ratios of a transformer is 10. It means:",
+   "q_ur": "اگر ٹرانسفارمر کے پھیرے کی نسبت 10 ہو تو۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Iₛ = 10 Iₚ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Nₛ = Nₚ/10",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Nₛ = 10 Nₚ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Vₛ = Vₚ/10",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "AND gate can be formed by using two?",
+   "q_ur": "کون سے دو گیٹس استعمال کریں تو اینڈ گیٹ آؤٹ پٹ حاصل ہو سکتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "NOT gates",
+     "ur": "ناٹ گیٹس"
+    },
+    {
+     "k": "B",
+     "en": "OR gates",
+     "ur": "آر گیٹس"
+    },
+    {
+     "k": "C",
+     "en": "NOR gates",
+     "ur": "نار گیٹس"
+    },
+    {
+     "k": "D",
+     "en": "NAND gates",
+     "ur": "نینڈ گیٹس"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The brain of any computer system is:",
+   "q_ur": "کسی بھی کمپیوٹر سسٹم کا دماغ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Monitor",
+     "ur": "مانیٹر"
+    },
+    {
+     "k": "B",
+     "en": "Memory",
+     "ur": "میموری"
+    },
+    {
+     "k": "C",
+     "en": "CPU",
+     "ur": "سی پی یو"
+    },
+    {
+     "k": "D",
+     "en": "Control unit",
+     "ur": "کنٹرول یونٹ"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The half life of a certain isotope is 1 day, what will be the quantity of the isotope after 2 days?",
+   "q_ur": "ایک مخصوص آئسوٹوپ کی ہاف لائف ایک دن ہے۔ دو دن گزرنے کے بعد آئسوٹوپ کی مقدار کیا ہو گی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "One-half",
+     "ur": "آدھی ہو جائے گی"
+    },
+    {
+     "k": "B",
+     "en": "One quarter",
+     "ur": "ایک چوتھائی"
+    },
+    {
+     "k": "C",
+     "en": "One eight 1/8",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": "ان میں سے کوئی بھی نہیں"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The SI unit of amplitude is:",
+   "q_ur": "ایمپلی ٹیوڈ کا SI یونٹ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "joule",
+     "ur": "جول"
+    },
+    {
+     "k": "B",
+     "en": "Meter",
+     "ur": "میٹر"
+    },
+    {
+     "k": "C",
+     "en": "Hz",
+     "ur": "ہرٹز"
+    },
+    {
+     "k": "D",
+     "en": "Sec",
+     "ur": "سیکنڈ"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "What is the power rating of a lamp connected to a 12V source when it carries 2.5A current?",
+   "q_ur": "12V کے سورس سے جوڑے گئے ایک لیمپ کی پاور ریٹنگ کیا ہو گی جبکہ اس میں سے 2.5A کرنٹ بہہ رہا ہو۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "4.8W",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "14.5W",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "30W",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "60W",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "The speed of sound is more:",
+   "q_ur": "آواز کی سپیڈ زیادہ ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "In metal",
+     "ur": "میٹل میں"
+    },
+    {
+     "k": "B",
+     "en": "In water",
+     "ur": "پانی میں"
+    },
+    {
+     "k": "C",
+     "en": "In air",
+     "ur": "ہوا میں"
+    },
+    {
+     "k": "D",
+     "en": "In vacuum",
+     "ur": "خلا میں"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "If the current in a wire which is placed perpendicular to a magnetic field increases, the force on the wire is:",
+   "q_ur": "اگر میگنیٹک فیلڈ میں عموداً رکھی ہوئی تار میں سے بہنے والے کرنٹ کی مقدار کو بڑھایا جائے تو تار پر عمل کرنے والی میگنیٹک فورس ہو گی۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Decreases",
+     "ur": "کم ہو گی"
+    },
+    {
+     "k": "B",
+     "en": "Increases",
+     "ur": "بڑھے گی"
+    },
+    {
+     "k": "C",
+     "en": "Remains the same",
+     "ur": "تبدیل نہیں ہو گی"
+    },
+    {
+     "k": "D",
+     "en": "Will be zero",
+     "ur": "صفر ہو گی"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "The output of a NAND gate is \"0\" when:",
+   "q_ur": "نینڈ گیٹ کی آؤٹ پٹ صفر ہو گی اگر۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Both of its inputs are \"0\"",
+     "ur": "A = 0 اور B = 0"
+    },
+    {
+     "k": "B",
+     "en": "Any of its inputs is \"0\"",
+     "ur": "A = 0 یا B = 0"
+    },
+    {
+     "k": "C",
+     "en": "Any of its inputs is \"1\"",
+     "ur": "A = 1 یا B = 1"
+    },
+    {
+     "k": "D",
+     "en": "Both of its inputs are \"1\"",
+     "ur": "A = 1 اور B = 1"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "What does the term e-mail stand for?",
+   "q_ur": "ای۔میل کس شے کا مخفف ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Emergency mail",
+     "ur": "ایمرجنسی میل"
+    },
+    {
+     "k": "B",
+     "en": "Extra mail",
+     "ur": "ایکسٹرا میل"
+    },
+    {
+     "k": "C",
+     "en": "Electronic mail",
+     "ur": "الیکٹرونک میل"
+    },
+    {
+     "k": "D",
+     "en": "External mail",
+     "ur": "ایکسٹرنل میل"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "When Uranium (92 protons) ejects a beta particle, how many protons will be in the remaining nucleus?",
+   "q_ur": "جب یورینیم (92 پروٹونز) بیٹا پارٹیکل خارج کرتا ہے تو اس کے پروٹونز کی تعداد کتنی رہ جائے گی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "89 protons",
+     "ur": "89 پروٹونز"
+    },
+    {
+     "k": "B",
+     "en": "90 protons",
+     "ur": "90 پروٹونز"
+    },
+    {
+     "k": "C",
+     "en": "91 protons",
+     "ur": "91 پروٹونز"
+    },
+    {
+     "k": "D",
+     "en": "93 protons",
+     "ur": "93 پروٹونز"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "The device which converts mechanical energy into electrical energy is called:",
+   "q_ur": "ایک آلہ جو مکینیکل انرجی کو الیکٹریکل انرجی میں تبدیل کرتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Transformer",
+     "ur": "ٹرانسفارمر"
+    },
+    {
+     "k": "B",
+     "en": "A.C generator",
+     "ur": "اے۔سی جنریٹر"
+    },
+    {
+     "k": "C",
+     "en": "D.C motor",
+     "ur": "ڈی۔سی موٹر"
+    },
+    {
+     "k": "D",
+     "en": "Electroscope",
+     "ur": "الیکٹروسکوپ"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "The relation between v, f and λ of a wave is:",
+   "q_ur": "ایک ویو کی ولاسٹی، فریکوئنسی اور ویولینتھ کے درمیان تعلق ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "fλ = v",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "vf = λ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "fλ = f",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "v = λ/f",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Which form of energy is sound?",
+   "q_ur": "ساؤنڈ انرجی کی کونسی قسم ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electrical",
+     "ur": "الیکٹریکل"
+    },
+    {
+     "k": "B",
+     "en": "Thermal",
+     "ur": "تھرمل"
+    },
+    {
+     "k": "C",
+     "en": "Mechanical",
+     "ur": "مکینیکل"
+    },
+    {
+     "k": "D",
+     "en": "Chemical",
+     "ur": "کیمیکل"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Alexander Graham Bell made a simple telephone model in:",
+   "q_ur": "الیگزینڈر گراہم بیل نے سادہ ٹیلی فون کا ماڈل بنایا۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1875 AD",
+     "ur": "1875ء میں"
+    },
+    {
+     "k": "B",
+     "en": "1876 AD",
+     "ur": "1876ء میں"
+    },
+    {
+     "k": "C",
+     "en": "1877 AD",
+     "ur": "1877ء میں"
+    },
+    {
+     "k": "D",
+     "en": "1878 AD",
+     "ur": "1878ء میں"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Which type of image is formed by a convex lens on a screen?",
+   "q_ur": "کنویکس لینز سکرین پر کس قسم کی امیج بناتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Inverted and real",
+     "ur": "الٹی اور ریال"
+    },
+    {
+     "k": "B",
+     "en": "Inverted and virtual",
+     "ur": "الٹی اور ورچوئل"
+    },
+    {
+     "k": "C",
+     "en": "Upright and real",
+     "ur": "سیدھی اور ریال"
+    },
+    {
+     "k": "D",
+     "en": "Upright and virtual",
+     "ur": "سیدھی اور ورچوئل"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "A positive electric charge:",
+   "q_ur": "ایک پوزیٹو الیکٹرک چارج دوسرے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Attracts other positive charge",
+     "ur": "پوزیٹو چارج کو کشش کرتا ہے"
+    },
+    {
+     "k": "B",
+     "en": "Repels other positive charge",
+     "ur": "پوزیٹو چارج کو دفع کرتا ہے"
+    },
+    {
+     "k": "C",
+     "en": "Attracts a neutral charge",
+     "ur": "نیوٹرل چارج کو کشش کرتا ہے"
+    },
+    {
+     "k": "D",
+     "en": "Repels a neutral charge",
+     "ur": "نیوٹرل چارج کو دفع کرتا ہے"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,850 @@
+{
+ "board": "BISE Gujranwala",
+ "board_slug": "gujranwala",
+ "class": "11th",
+ "subject": "Computer Science",
+ "year": 2024,
+ "slug": "gujranwala-11th-computer-science-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "1 - The idea of storing of program in memory was given by",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Charles Babbage",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Liebnitz",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Pascal",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "John Van Neumann",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The temporary storage area within CPU is called",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Registers",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "RAM",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ROM",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Disk",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "A secret word or numbers to be typed on a keyboard before any activity can take place are called",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Data Encryption",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Password",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Biometric data",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "private data",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The devices that are automatically detected by Windows Operating System are called",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "serial devices",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "parallel devices",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "automatic devices",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "plug and play devices",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Which of the following is Word Processor?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Adobe Acrobat",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Photo Express",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "MS Word",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "MS Excel",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "If you want to display the sum of five cells (A1 to A5), the function is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "= sum(A1:A5)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "= sum(A1 to A5)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "= sum(A1,A5)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "= sum(A1+A5)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "If the custom format is ##,### then 51243 will be displayed as",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5,1243",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "51,243",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "512,43",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5124,3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Which of the following protocol is used to access Internet?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ethernet",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ARCnet",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "FTP",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "TCP/IP",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Which device is used to read the vertical lines from the product in a Super Store?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "OMR (Optical Mark Recognition)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "OCR (Optical Character Recognition)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Bar – Code Reader",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "MiCR (Magnetic ink Character Recognition)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "An input device, which is used for playing computer games",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "light pen",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "joy stick",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "mouse",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "scanner",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "In which topology nodes are connected to a single cable",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Bus Topology",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ring Topology",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Star Topology",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mesh Topology",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The unique address of every web page on www is called",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Web Address",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "IP Address",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "URL",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Website Address",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "The process of transferring data electronically from one place to another is called",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Data processing",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Data Communication",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Data Synchronization",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Data Sequencing",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "How many characters ASCII 7–Bit code represents?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "128",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "256",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "512",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1024",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "SUPARCO department gives information about",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "robot",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "airline",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "weather",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "train",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "1 - Formula can only be applied on",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "values",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "labels",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "unmerged cells",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "blank cells",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Which is the physical path over which a message travels",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "protocol",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "signal",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "medium",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "encoder",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Arial font is an example of",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Serif",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Sans – Serif",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Italic",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Times New Roman",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Which of the following is an absolute address",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A1$",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "$A$1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "#,A1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The most commonly used device as main memory",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "SRAM",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "DRAM",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cache",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "MRAM",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "The common name used for input and output devices is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "QWERTY",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Mechanical devices",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "peripheral",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Electrical devices",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Which type of virus is activated on specific date and time?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Boot Sector",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Logic bomb",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Chernobal",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Trojan Horse",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Which of the following maintain a print queue for all printing jobs?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Windows Operating System",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "printer",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "print jobs",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "package software",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Another name for RAM is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Main memory",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ROM",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "BIOS",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Non-volatile memory",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "One Giga Byte is equal to",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2¹⁰ bytes",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2¹⁵ bytes",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2²⁰ bytes",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2³⁰ bytes",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "How many characters are represented by ASCII – 8 code?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "128",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "256",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "286",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "312",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Which domain is used for non-profitable organizations?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": ".com",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": ".edu",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": ".gov",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": ".org",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "The media access control sub layer resides in which layer?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Physical",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Data link",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Network",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Transport",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "An automatic programmable machine used in industry is called",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CAD",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CAM",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CAT",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ROBOT",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "FDDI is used in which topology?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ring",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Star",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mesh",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Bus",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

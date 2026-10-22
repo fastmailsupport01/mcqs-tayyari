@@ -1,0 +1,962 @@
+{
+ "board": "BISE Faisalabad",
+ "board_slug": "faisalabad",
+ "class": "12th",
+ "subject": "Physics",
+ "year": 2024,
+ "slug": "faisalabad-12th-physics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "At high frequencies, a R-L-C series circuit behaves like:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "R-C circuit",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "R-L circuit",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Capacitive circuit",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Parallel resonance circuit",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "At what frequency will an inductor of 1H have a reactance of 500Ω ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "500Hz",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "250Hz",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "350Hz",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "80Hz",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The back motor effect in generators is in agreement with the law of conservation of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Charge",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Momentum",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Energy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mass",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The turns ratio Ns/Np of a step-up transformer is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Greater than 1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Less than 1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Equal to 1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Equal to zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Lorentz force is given by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "F⃗ = q(v⃗ × B⃗)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "F⃗ = qE⃗ + q(v⃗ × B⃗)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "F⃗ = qE⃗",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "F⃗ = I(L⃗ × B⃗)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The SI unit of permeability of free space is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Wb",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Wbm⁻²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "WbA⁻¹m⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "It has no unit",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The charge carriers in electrolytes are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Free electrons",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Holes",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Protons",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Positive and negative ions",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "If time constant of R-C circuit is small, the capacitor is charged or discharged:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Rapidly",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Slowly",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Intermediately",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "At constant rate",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "When an insulating medium is placed between two charges, the Coulomb's force:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Increases",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Decreases",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Becomes double",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Remains same",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The half life of radon gas is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1620 years",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "23.5 minutes",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3.8 days",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4.5×10⁹ years",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Which basic force of nature has only repulsive nature?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Weak nuclear force",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Strong nuclear force",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Gravitational force",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Electric force",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The radius of 3rd orbit in hydrogen atom is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.477 nm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.053 nm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.212 nm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.159 nm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "A black body is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ideal radiator",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ideal reflector",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Poor absorber",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Poor radiator",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "Position was discovered by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "De Broglie",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Heisenberg",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Compton",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Anderson",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "The current flowing into the base of a transistor is 25 microA while its collector current is 5mA. The current gain of transistor will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2000",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "200",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "500",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1000",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "The Boolean expression of OR gate is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "X = A+B",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "X = A·B",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "X = A+B (negation over A+B)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "X = A·B (negation over A·B)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "An example of donor impurity is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Silicon",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Germanium",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Phosphorous",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Aluminum",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "A particle carrying a charge of 2e falls through a potential difference of 10V. The energy acquired by it is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2eV",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5eV",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10eV",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "20eV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "In a capacitor energy is stored in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electric field",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Magnetic field",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Gravitational field",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nuclear field",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "The charge carriers in electrolyte are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Free electrons",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Positive and negative ions",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Free electrons and ions",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Electrons and holes",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Output waveform of sweep or time base generator is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Saw tooth wave",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Sinusoidal wave",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Square wave",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Digital wave",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "An alpha particle of charge 2e enters a uniform magnetic field of 0.1T with velocity 10ms⁻¹ perpendicularly, the magnetic force acting on it will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.6 × 10⁻¹⁹N",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3.2 × 10⁻¹⁹N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6.4 × 10⁻¹⁹N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Lenz's law is in accordance with the law of conservation of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Charge",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Mass",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Momentum",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Energy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Eddy currents are setup in a direction:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Parallel to flux",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Antiparallel to flux",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Perpendicular to flux",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "At an angle 45° to the flux",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "The unit of impedance is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ohm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Farad",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Volt",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(Ohm)⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "The power factor in a series resonance circuit at resonance is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Infinity",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "The units of modulus of elasticity are the same as those of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Stress",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Strain",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Power",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Work done",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "In case of non-inverting operational amplifier, if R₁ = R₂/2 , then:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Vout = 2 Vin",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Vin = 2 Vout",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Vout = 3 Vin",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Vin = 3 Vout",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "X = A·B̄ + Ā·B is the mathematical mutation for:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "NOR gate",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NAND gate",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "XOR gate",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "XNOR gate",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "The slope of the maximum K.E of photoelectrons versus light frequency graph represents:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Momentum",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Planck's constant",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Maximum wavelength",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Work function",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "The minimum energy required for pair production is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.51 MeV",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.51 MeV",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.02 MeV",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.051 MeV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "The radius of second Bohr radius for hydrogen atom is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.053 nm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.212 nm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.106 nm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.848 nm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "The dead time for G.M counter is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10⁻³s",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10⁻⁴s",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10⁻⁵s",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10⁻⁸s",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "Unit of radioactivity is curie (Ci). Which is equal to ____ disintegration per second.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3.74 × 10⁹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3.7 × 10¹⁰",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3.64 × 10⁹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4.5 × 10⁹",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}
