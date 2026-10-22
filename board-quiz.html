@@ -41,6 +41,21 @@
 .qopt.selected{border-color:#06442E;background:#eaf4ee}
 .qopt-k{flex:0 0 auto;width:30px;height:30px;border-radius:50%;background:#06442E;color:#fff;display:flex;align-items:center;justify-content:center;font-weight:700}
 .qopt.selected .qopt-k{background:#F58220}
+.qopt.correct{border-color:#1a9e4b;background:#e6f7ec}
+.qopt.correct .qopt-k{background:#1a9e4b}
+.qopt.correct:hover{border-color:#1a9e4b}
+.qopt.wrong{border-color:#d23b3b;background:#fdecec}
+.qopt.wrong .qopt-k{background:#d23b3b}
+.qopt.wrong:hover{border-color:#d23b3b}
+.qopt.locked{cursor:default}
+.qopt.locked:hover{border-color:#ddd}
+.qopt.correct.locked:hover{border-color:#1a9e4b}
+.qopt.wrong.locked:hover{border-color:#d23b3b}
+.vchip{background:#e6f7ec;color:#0d6b32;border-radius:99px;padding:2px 10px;font-size:.8em;font-weight:700}
+.pchip{background:#f1f1f1;color:#777;border-radius:99px;padding:2px 10px;font-size:.8em;font-weight:600}
+.qfb{margin:10px 0 2px;font-weight:700;font-size:1.02rem}
+.qfb.ok{color:#0d6b32}
+.qfb.no{color:#b32727}
 .qopt-body{flex:1}
 .qopt-ur{display:block;color:#555;margin-top:4px;line-height:1.9}
 .qnav{display:flex;gap:12px;justify-content:space-between;margin-top:18px;flex-wrap:wrap}
@@ -90,34 +105,51 @@
     var subjSlug = String(d.subject||'').toLowerCase().replace(/\s+/g,'-');
     var boardSlug = d.board_slug || 'lahore';
     var backHref = 'board-papers/'+d.class+'/'+subjSlug+'/'+boardSlug;
+    var verifiedTotal = qs.filter(function(q){return !!q.answer;}).length;
     document.getElementById('quiz-sub').innerHTML =
-      qs.length+' MCQs · Group I &amp; II · <a href="'+esc(backHref)+'">← Back to paper page</a>'
-      + '<br><span class="meta">Board papers include no official answer key — your selections are only recorded for practice.</span>';
+      qs.length+' MCQs · Group I &amp; II · '+verifiedTotal+' with verified answers · <a href="'+esc(backHref)+'">← Back to paper page</a>'
+      + '<br><span class="meta">Green/red marking appears only on verified answers — the rest are practice-only.</span>';
 
     var answers = new Array(qs.length).fill(null);
     var idx = 0;
 
     function render(){
       var q = qs[idx];
+      var isV = !!q.answer;
+      var userA = answers[idx];
       var attempted = answers.filter(function(a){return a!==null;}).length;
       var pct = Math.round(attempted/qs.length*100);
       var html = '<div class="quiz-card card">'
         + '<div class="qprog"><div class="qprog-fill" style="width:'+pct+'%"></div></div>'
         + '<div class="qmeta"><span><b>Q '+(idx+1)+'</b> of '+qs.length
-        + ' · <span class="meta-chip">'+esc(q.group||'')+'</span></span>'
+        + ' · <span class="meta-chip">'+esc(q.group||'')+'</span> '
+        + (isV ? '<span class="vchip">✓ Verified answer</span>' : '<span class="pchip">Practice only</span>')
+        + '</span>'
         + '<span>Attempted: <b>'+attempted+'</b>/'+qs.length+'</span></div>'
         + '<div class="qtext">'+esc(q.q_en)+'</div>'
         + (q.q_ur ? '<div class="qtext-ur" dir="rtl" lang="ur">'+esc(q.q_ur)+'</div>' : '')
         + '<div class="qopts">';
       q.options.forEach(function(o){
-        html += '<button type="button" class="qopt'+(answers[idx]===o.k?' selected':'')+'" data-k="'+esc(o.k)+'">'
+        var cls = 'qopt';
+        if(isV && userA!==null){
+          cls += ' locked';
+          if(o.k===q.answer) cls += ' correct';
+          else if(o.k===userA) cls += ' wrong';
+        } else if(userA===o.k){
+          cls += ' selected';
+        }
+        html += '<button type="button" class="'+cls+'" data-k="'+esc(o.k)+'">'
           + '<span class="qopt-k">'+esc(o.k)+'</span>'
           + '<span class="qopt-body"><span class="qopt-en">'+esc(o.en)+'</span>'
           + (o.ur ? '<span class="qopt-ur" dir="rtl" lang="ur">'+esc(o.ur)+'</span>' : '')
           + '</span></button>';
       });
       html += '</div>'
-        + (answers[idx]!==null ? '<button type="button" class="qclear" id="qClear">✕ Clear selection</button>' : '')
+        + (isV && userA!==null
+            ? '<div class="qfb '+(userA===q.answer?'ok':'no')+'">'
+              + (userA===q.answer ? '✓ Correct!' : '✗ Wrong — correct answer: <b>'+esc(q.answer)+'</b>')
+              + '</div>' : '')
+        + (userA!==null ? '<button type="button" class="qclear" id="qClear">✕ Clear selection</button>' : '')
         + '<div class="qnav">'
         + '<button type="button" class="btn btn-outline" id="qPrev"'+(idx===0?' disabled':'')+'>← Previous</button>'
         + (idx<qs.length-1
@@ -129,7 +161,11 @@
       Array.prototype.forEach.call(app.querySelectorAll('.qopt'), function(b){
         b.addEventListener('click', function(){
           var k = b.getAttribute('data-k');
-          answers[idx] = (answers[idx]===k) ? null : k;
+          if(q.answer){
+            if(answers[idx]===null){ answers[idx] = k; }
+          } else {
+            answers[idx] = (answers[idx]===k) ? null : k;
+          }
           render();
         });
       });
@@ -146,18 +182,34 @@
 
     function finish(){
       var attempted = answers.filter(function(a){return a!==null;}).length;
+      var vTotal = 0, vAttempted = 0, correct = 0;
+      qs.forEach(function(q,i){
+        if(q.answer){
+          vTotal++;
+          if(answers[i]!==null){
+            vAttempted++;
+            if(answers[i]===q.answer) correct++;
+          }
+        }
+      });
       var rows = qs.map(function(q,i){
         var a = answers[i];
+        var mark;
+        if(q.answer){
+          if(!a) mark = 'Skipped';
+          else if(a===q.answer) mark = 'Your answer: <b>'+esc(a)+'</b> ✓';
+          else mark = 'Your answer: <b>'+esc(a)+'</b> ✗ (correct: <b>'+esc(q.answer)+'</b>)';
+        } else {
+          mark = a ? 'Your answer: <b>'+esc(a)+'</b> <span class="meta">(practice only)</span>' : 'Skipped';
+        }
         return '<div class="qrev-row"><span class="qrev-n">Q'+(i+1)+'</span>'
           + '<span class="qrev-g">'+esc(q.group||'')+'</span>'
-          + '<span class="qrev-a'+(a?'':' skipped')+'">'
-          + (a ? 'Your answer: <b>'+esc(a)+'</b>' : 'Skipped')
-          + '</span></div>';
+          + '<span class="qrev-a'+(a?'':' skipped')+'">'+mark+'</span></div>';
       }).join('');
       app.innerHTML = '<div class="quiz-card card"><div class="card-icon">🏁</div>'
         + '<h3>Quiz Complete</h3>'
-        + '<p class="qbig">You attempted <b>'+attempted+'</b> of <b>'+qs.length+'</b> questions.</p>'
-        + '<p class="meta" style="margin:12px 0">Board papers include no official answer key — verify your answers from your textbook.</p>'
+        + '<p class="qbig">You got <b>'+correct+'</b> correct out of <b>'+vAttempted+'</b> attempted verified questions.</p>'
+        + '<p class="meta">Attempted '+attempted+' of '+qs.length+' total · '+vTotal+' questions in this paper have verified answers; the rest were practice-only and are not graded.</p>'
         + '<div class="qrev">'+rows+'</div>'
         + '<div class="qnav">'
         + '<button type="button" class="btn btn-outline" id="qRestart">↺ Restart Quiz</button>'

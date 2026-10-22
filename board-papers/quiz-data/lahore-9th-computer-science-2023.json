@@ -1,6 +1,5 @@
 {
  "board": "BISE Lahore",
- "board_slug": "lahore",
  "class": "9th",
  "subject": "Computer Science",
  "year": 2023,
@@ -32,7 +31,8 @@
      "en": "Solution",
      "ur": ""
     }
-   ]
+   ],
+   "answer": "C"
   },
   {
    "n": 2,
@@ -60,7 +60,8 @@
      "en": "Connector",
      "ur": ""
     }
-   ]
+   ],
+   "answer": "C"
   },
   {
    "n": 3,
@@ -88,7 +89,8 @@
      "en": "0000",
      "ur": ""
     }
-   ]
+   ],
+   "answer": "A"
   },
   {
    "n": 4,
@@ -116,7 +118,8 @@
      "en": "A+(B+C)",
      "ur": ""
     }
-   ]
+   ],
+   "answer": "D"
   },
   {
    "n": 5,
@@ -144,7 +147,8 @@
      "en": "255",
      "ur": ""
     }
-   ]
+   ],
+   "answer": "C"
   },
   {
    "n": 6,
@@ -172,7 +176,8 @@
      "en": "Electronic message",
      "ur": ""
     }
-   ]
+   ],
+   "answer": "B"
   },
   {
    "n": 7,
@@ -200,7 +205,8 @@
      "en": "54",
      "ur": ""
     }
-   ]
+   ],
+   "answer": "A"
   },
   {
    "n": 8,
@@ -228,7 +234,8 @@
      "en": "Hard disk loading",
      "ur": ""
     }
-   ]
+   ],
+   "answer": "D"
   },
   {
    "n": 9,
@@ -256,7 +263,8 @@
      "en": "< hi >",
      "ur": ""
     }
-   ]
+   ],
+   "answer": "B"
   },
   {
    "n": 10,
@@ -284,7 +292,8 @@
      "en": "< h3>",
      "ur": ""
     }
-   ]
+   ],
+   "answer": "A"
   },
   {
    "n": 1,
@@ -312,7 +321,8 @@
      "en": "< dl >",
      "ur": ""
     }
-   ]
+   ],
+   "answer": "B"
   },
   {
    "n": 2,
@@ -340,7 +350,8 @@
      "en": "Mesh topology",
      "ur": ""
     }
-   ]
+   ],
+   "answer": "D"
   },
   {
    "n": 3,
@@ -368,7 +379,8 @@
      "en": "I.P",
      "ur": ""
     }
-   ]
+   ],
+   "answer": "C"
   },
   {
    "n": 4,
@@ -396,7 +408,8 @@
      "en": "DOS",
      "ur": ""
     }
-   ]
+   ],
+   "answer": "A"
   },
   {
    "n": 5,
@@ -424,7 +437,8 @@
      "en": "Hard disk",
      "ur": ""
     }
-   ]
+   ],
+   "answer": "B"
   },
   {
    "n": 6,
@@ -452,7 +466,8 @@
      "en": "Colour the text",
      "ur": ""
     }
-   ]
+   ],
+   "answer": "C"
   },
   {
    "n": 7,
@@ -480,7 +495,8 @@
      "en": "Positive text data",
      "ur": ""
     }
-   ]
+   ],
+   "answer": null
   },
   {
    "n": 8,
@@ -508,7 +524,8 @@
      "en": "P=Q",
      "ur": ""
     }
-   ]
+   ],
+   "answer": "A"
   },
   {
    "n": 9,
@@ -536,7 +553,8 @@
      "en": "Online piracy",
      "ur": ""
     }
-   ]
+   ],
+   "answer": "B"
   },
   {
    "n": 10,
@@ -564,7 +582,8 @@
      "en": "7",
      "ur": ""
     }
-   ]
+   ],
+   "answer": "C"
   }
  ]
 }
