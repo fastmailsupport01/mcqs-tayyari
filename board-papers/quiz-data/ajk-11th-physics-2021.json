@@ -1,0 +1,486 @@
+{
+ "board": "BISE AJK Mirpur",
+ "board_slug": "ajk",
+ "class": "11th",
+ "subject": "Physics",
+ "year": 2021,
+ "slug": "ajk-11th-physics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "If a car moves with a uniform speed of 2ms⁻¹ in a circle of radius 0.4m its angular speed is;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4 rads⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5 rads⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2 rads⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.4 rads⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Venturi-meter is a device used to measure;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "density of fluid",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Viscosity of fluid",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Pressure of fluid",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Speed of fluid",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "When the amplitude of a wave becomes double its energy becomes;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "One half",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Double",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Four times",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Six times",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "A uniform string of length l, mass per unit length m is fixed at both ends under tension F. Then its frequency f is given by;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "f = 1/2l √(F×m/l)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "f = 1/2 √(F/m)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "f = 1/2l √(F/m)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "f = 1/2l √(l×m/F)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The temperature at which the velocity of sound in air is two times its velocity at 10°C is;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "759°C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "859°C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "959°C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1132°C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The distance between any two consequtive dark fringes is called;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Wave let",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Wave length",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Amplitude",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Fringe spacing",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "In Michelson experiment the equation used to find the speed of light is;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "16fc",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/16 fd",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "16fd",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "16/fd",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Carnot cycle consists of;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Four steps",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Three steps",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Two steps",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Single step",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "A gas performs 10J of work while expanding adiabatically. The change in internal energy is;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10J",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-10J",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "100J",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-100J",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Time taken by light to reach from moon to earth is;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1min 10sec",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1min 20sec",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1min 40sec",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1min 45sec",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Length of an object is recorded as 25.5 cm by using a meter rod having smallest division in millimeter. The fractional uncertainty is;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.400",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2.550",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.004",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.100",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The minimum number of vectors of un-equal magnitudes whose vector sum can be zero is;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "If F⃗ = 2î+3ĵ and D⃗ = 4î+4ĵ then the work done is;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "24J",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "13J",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8J",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "20J",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "The range of projectile is same for;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0°,45°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "35°,55°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "15°,60°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "30°,75°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "The mass of fuel consumed by a typical rocket to overcome earth's gravity is;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1000 kgs⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "100 kgs⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10000 kgs⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10 kgs⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "Absolute P.E of an object at an infinite height w.r.t earth is taken as;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Negative",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Minimum",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Maximum",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "The apparent weight of a man in ascending lift moving with acceleration \"a\"",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Increase",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Decrease",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Remain constant",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

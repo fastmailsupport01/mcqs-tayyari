@@ -1,0 +1,486 @@
+{
+ "board": "BISE AJK Mirpur",
+ "board_slug": "ajk",
+ "class": "12th",
+ "subject": "Physics",
+ "year": 2021,
+ "slug": "ajk-12th-physics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Compton shift in wave length (Δλ) is zero, when the scattered angle of photon is;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "180°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The number of photo electrons depends upon;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Wave length of light",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Intensity of light",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Threshold frequency",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Work function",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Production of x-rays can be regarded as the inverse of;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Compton effect",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Pair production",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Photo-electric effect",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Annihilation of matter",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Curie is the unit of;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Conductivity",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Resistivity",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Radio activity",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Radio graphy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The mass of β – Particle is equal to mass of;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Proton",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Electron",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Neutron",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Photon",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "A capacitor stores energy in the form of;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Magnetic field",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Heat energy",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Electrical energy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mechanical energy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The smallest possible charge which a particle can have is;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.6 × 10⁻¹⁹ C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2.4 × 10⁻¹⁹ C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2 × 10⁻¹⁹ C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3 × 10⁻¹⁹ C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Drift velocity of electrons is of the order of;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10⁻² ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10⁻³ ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10⁻⁴ ms⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The force F in the equation F=Fₑ+Fₘ is called;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Lorentz Force",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Restoring Force",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Frictional Force",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Gravitation Force",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The brightness of spot on CRO screen is controlled by;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Anodes",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cathodes",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Grid",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Plates",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Energy stored per unit volume inside a solenoid is called as;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Energy density",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Electric flux",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Work",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Volume charge density",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The S.I unit of mutual inductance is “Henry” which is;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "VsA⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Vs⁻¹A",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Vs⁻¹A⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "VsA",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "For R-L Series Circuit, the voltage leads the current by phase angle of;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "tan⁻¹(ωC/R)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "tan⁻¹(1/ωCR)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "tan⁻¹(ωL/R)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "tan⁻¹(ω/RC)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "S.I unit of stress is same as that of;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Momentum",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Pressure",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Force",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Length",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "The photo diodes are used for;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Security system",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Counting System",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Automatic door system",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "Open loop gain of op-amp is of the order of;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10⁴",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10⁵",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10⁶",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10⁷",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "The gain of transistor amplifier depends upon;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Resistance connected with collector",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Resistance connected at base",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Input voltage",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Output voltage",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

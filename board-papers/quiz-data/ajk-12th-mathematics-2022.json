@@ -1,0 +1,570 @@
+{
+ "board": "BISE AJK Mirpur",
+ "board_slug": "ajk",
+ "class": "12th",
+ "subject": "Mathematics",
+ "year": 2022,
+ "slug": "ajk-12th-mathematics-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "x = a cos θ, y = a sin θ are parametric equations of a;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Circle",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Parabola",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ellipse",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Hyperbola",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Lim (x→a) (xⁿ − aⁿ)/(x − a) =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "naⁿ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "naⁿ⁺¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "naⁿ⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(n+1)aⁿ⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "If f(x) = tan⁻¹x, then f′(x) =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−1/(1−x²)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/(1−x²)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−1/(1+x²)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/(1+x²)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "If y = ln(sin x), then dy/dx =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/sin x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "tan x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "cot x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "sec x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "If f′(c) = 0, then f(x) has relative maxima at x = c if;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "f′′(c) = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "f′′(c) < 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "f′′(c) > 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "f′′(c) ≠ 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "(1/2) d/dx (tan⁻¹x − cot⁻¹x) =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/(1+x²)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/(1−x²)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−1/(1+x²)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−1/(1−x²)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "∫aˣ dx =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "aˣ + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "aˣ.ln a + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(1/ln a).aˣ + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(ln a)/aˣ + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "∫e^(tan x).sec²x dx =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "tan x + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "e^(sec²x) + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "e^(tan x).tan x + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "e^(tan x) + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "∫e^(−x)[−sin x + cos x] dx =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "e^(−x) sin x + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "e^(−x) cos x + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "e^(−x) tan x + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "e^(−x) cot x + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The solution of the differential equation dy/dx = sec²x, is;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "y = cot x + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "y = ln x + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "y = cos x + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "y = tan x + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Slope of the line parallel to 3x − 4y + 5 = 0, is;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4/3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3/4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3/5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5/3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The distance of the point P(4,−6) form x-axis is;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "The lines represented by ax² + 2hxy + by² = 0, are real and distinct if;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "h² − ab < 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "h² − ab = 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "h² − ab ≠ 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "h² − ab > 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "Slope of horizontal line is;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "∞",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "x = 4 is the solution of the inequality;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−2x + 3 > 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x + 3 > 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x − 3 < 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x + 3 < 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "The radius of the circle x² + y² + 2gx + 2fy + c = 0, is;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "g² + f² + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "g² + f² − c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√(g² + f² + c)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√(g² + f² − c)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "Length of latus-rectum of the parabola (y − 2)² = −4(x − 7), is;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−8",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group I",
+   "q_en": "Vertices of the ellipse x²/2 + y²/9 = 1, are;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(±3,0)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(0,±3)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(0,±√2)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(±√2,0)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group I",
+   "q_en": "Projection of a = i − k along b = j + k is;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−1/√2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/√2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−1/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group I",
+   "q_en": "The vectors u, v and w are coplanar if;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "u.v × w = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "u.v × w = 1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "u.v × w = 2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "u.v × w = 3",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

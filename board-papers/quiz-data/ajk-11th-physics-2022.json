@@ -1,0 +1,486 @@
+{
+ "board": "BISE AJK Mirpur",
+ "board_slug": "ajk",
+ "class": "11th",
+ "subject": "Physics",
+ "year": 2022,
+ "slug": "ajk-11th-physics-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "If \"N\" is number of lines ruled over a grating of length \"L\". the grating element \"d\" will be",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "N/L",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2N/L",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "L/N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "N/2L",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The collimator in spectrometer is used to;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Disperse the light beam",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Reflect the light beam",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Converge the light beam",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Make the light beam parallel",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "According to Charles' Law;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "V ∝ T",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "V ∝ n",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "V ∝ 1/n",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "P ∝ 1/v",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "At constant temperature, the process is called;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Isothermal process",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Adiabatic process",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Isobaric process",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Isochoric process",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Which is the correct measurement of diameter of a wire measured by a device whose least count is 0.001 cm.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2.3 cm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2.31 cm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2.312 cm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2.3124 cm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The percentage uncertainty in mass and velocity are 2% and 3%. The maximum uncertainty in the measurement of kinetic energy is;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 %",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6 %",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8 %",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "11 %",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "When two vectors are anti parallel, the angle between them is;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "180°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "270°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The resultant vector of two unit vectors which are mutually perpendicular to each other has magnitude.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Unity",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/√2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "An unpowered and unguided missile is called;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Simple missile",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Remote control missile",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ballistic missile",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Long range missile",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "If the initial velocity of the projectile is doubled, the time of flight will become.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Double",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Same",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Three Times",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Four Times",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "If the momentum of a body is numerically equal to its kinetic energy. Then the speed of the body is;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8 ms⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The direction of angular momentum of a body moving in a circle is;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Along the tangent",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Radially inward",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Perpendicular to the plane of the circle",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Radially outward",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "If the radius of earth is doubled, then value of critical velocity becomes.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2vo",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/2 vo",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/√2 vo",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/4 vo",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "Bernoulli's theorem is applied to;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Solids",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Plasma state",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Liquids",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Fluids",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "The distance covered by a body in one vibration is 20 cm. The amplitude of vibration is;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10 cm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5 cm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "15 cm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "20 cm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "Which one the following media can transmit both transverse and longitudinal waves.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Solid",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Liquid",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Gas",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Plasma",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "Phase angle of 180° corresponds to the path difference of;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "λ/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "λ/4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2λ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "λ",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

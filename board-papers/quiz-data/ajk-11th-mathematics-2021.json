@@ -1,0 +1,570 @@
+{
+ "board": "BISE AJK Mirpur",
+ "board_slug": "ajk",
+ "class": "11th",
+ "subject": "Mathematics",
+ "year": 2021,
+ "slug": "ajk-11th-mathematics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Solution set of the equation x² + 7x + 10 = 0 is;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "{−2,5}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{−2,−5}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{2,−5}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{2,5}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Partial fractions of 3x/((x−1)(x+2)) are;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/(x−1) + 2/(x+2)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2/(x−1) + 1/(x+2)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/(x−1) − 2/(x+2)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2/(x−1) − 1/(x+2)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "A.M between x+1 and (x−1) is;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x−1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(x+1)/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(x−1)/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The common ratio of a geometric sequence cannot be;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "An infinite geometric series is convergent if;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "|r| ≤ 1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "|r| < 1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "|r| < 2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "|r| > 1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Trichotomy is the property of;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Inequality",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Equality",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Division",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Subtraction",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Converse of p → q is;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "~p → q",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "p → ~q",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "q → p",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "~p → ~q",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "If a system of linear equations has a unique solution or infinitly many solutions then it can be known as;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Consistent system",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Inconsistent system",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Non-linear system",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Unique solution",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The matrix [[5,0,0],[0,5,0],[0,0,5]] is a;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Unit matrix",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Scalar Matrix",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Zero matrix",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Rectangular matrix",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "If a polynomial function f(x) is divided by (x−a) then f(x) is called;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Divisor",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Quotient",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Remainder",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Dividend",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The period of tan(x/3) is;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2π",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3π",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4π",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Number of the elements of a triangle are;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "In-radius r of a triangle is;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "SΔ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Δ/S",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "S/Δ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4ab/Δ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "Cos(tan⁻¹(√3)) is equal to;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−1/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√3/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−√3/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "If Cos(2x) = 0 then solution in 1st quadrant is;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "30°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "15°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "8!/6! =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "50",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "56",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "The expansion (1+x)⁻³ holds when;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "|x| > 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "|x| < 1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "|x| ≤ 1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "|x| < 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group I",
+   "q_en": "Cos(330°) = ________",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "√3/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2/√3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/√2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group I",
+   "q_en": "If l and r are in Cms, then the unit of θ is in;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Radians",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Degree",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cm²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group I",
+   "q_en": "Sin(2π − θ) = ________",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sinθ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−Sinθ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cosθ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−Cosθ",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}
