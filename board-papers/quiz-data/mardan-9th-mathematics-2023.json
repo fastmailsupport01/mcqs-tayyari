@@ -1,0 +1,430 @@
+{
+ "board": "BISE Mardan",
+ "board_slug": "mardan",
+ "class": "9th",
+ "subject": "Mathematics",
+ "year": 2023,
+ "slug": "mardan-9th-mathematics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Annual",
+   "q_en": "(m − 3n)³ =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(m³+9n³+9mn)/(m+3n)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(m³+9n³+9mn)/(m−3n)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(m³−9n³−9mn)/(m−3n)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(m³−9n³+9mn)/(m+3n)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Annual",
+   "q_en": "The factorization of u² − 6uv + 9v² is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(u−3v)(u−3v)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(u+3v)(u+3v)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "u(u−6v)+9v²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "u²−3v(2u−3v)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Annual",
+   "q_en": "If C and D are any two polynomials and their LCM is L, then their HCF =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "L/(CxD)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CxD/L",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "C/L",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "D/L",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Annual",
+   "q_en": "The solution of linear equation 2x + 5 = x − 3 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−8",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−8",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Annual",
+   "q_en": "If A = {5,4} and B = {2,3}, then which of the following is ordered pair of A x B)?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "{(2,5),(3,4)}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{(5,4),(2,5)}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{(5,2)}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{(2,4)}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Annual",
+   "q_en": "Which of the following elements represent one of the columns of matrix |11 9 7; 6 −5 4; 5 6 3|?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "11, 9, 7",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5, 6, 3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "11, 5, 3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "7, 4, 3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Annual",
+   "q_en": "Which of the following two matrices are equal: S = |7 9; 1 8|, T = |3+5 3+6; 1 8|, U = |3+6 4+6; 1 8|, V = |3+4 3+6; 1 8|",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "S and T",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "T and U",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "S and V",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "U and V",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Annual",
+   "q_en": "Which of the following is a diagonal matrix?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "|1 2; 4 4|",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "|1 0; 0 4|",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "|0 2; 4 4|",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "|1 2; 0 4|",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Annual",
+   "q_en": "If A = |11 2; −3 −4| and B = |1 7; 5 −8| then A−B is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "|12 9; 8 12|",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "|10 −5; −8 4|",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "|11 14; 15 28|",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "|10 5; 2 −4|",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Annual",
+   "q_en": "The rational number 2/15 can be e::pressed as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.333...",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.333...",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.1333...",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.0333",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Annual",
+   "q_en": "³⁄z₅ can be expressed in radical form as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "³√z₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "⁵√z³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "⁵√z",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "∛z",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Annual",
+   "q_en": "If z = 11 + 9i the conjugate of z is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−11 − 9i",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−11 + 9i",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "11 − 9i",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "11 + 9i",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Annual",
+   "q_en": "3.21 x 10⁴ can be written in standard form as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3210",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "32100",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "321000",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3210000",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Annual",
+   "q_en": "Which of the following is the base of Common logarithm?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "e",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "G",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "e",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Annual",
+   "q_en": "Which of the following is a polynomial?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "6x⁴ + 3x³ + 3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6x⁻⁴ + 3x⁻³ + 4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6x⁴ + 3x⁻³ + 4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6x⁻⁴ + 3x⁻³ + 3",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

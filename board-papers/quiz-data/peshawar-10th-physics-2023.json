@@ -1,0 +1,346 @@
+{
+ "board": "BISE Peshawar",
+ "board_slug": "peshawar",
+ "class": "10th",
+ "subject": "Physics",
+ "year": 2023,
+ "slug": "peshawar-10th-physics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Paper",
+   "q_en": "Time period is reciprocal of........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Wavelength",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Frequency",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Displacement",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Amplitude",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Paper",
+   "q_en": "At 20C°, the speed of sound in air is........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "343 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "338 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "331 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "330 ms⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Paper",
+   "q_en": "Sound cannot travel through........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Solid",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Liquid",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Gas",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Vacuum",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Paper",
+   "q_en": "Which of the given materials will refract light more?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Glass",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Water",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Diamond",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Benzene",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Paper",
+   "q_en": "One kilowatt-hour is equal to........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "36 MJ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3.6 MJ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.36 MJ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "360 MJ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Paper",
+   "q_en": "The index of refraction for vacuum is........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2.4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.33",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Paper",
+   "q_en": "Charge is measured in the units of........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Coulomb",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ampere",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Volt",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Farad",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Paper",
+   "q_en": "The product of current and voltage is....",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Resistance",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Voltage",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Power",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Energy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Paper",
+   "q_en": "A device that converts electrical energy into mechanical energy is.....",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "D.C motor",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A.C generator",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Transformer",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Electron gun",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Paper",
+   "q_en": "Which of the given is a negatively charged particle?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Proton",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Alpha particle",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Neutron",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Electron",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Paper",
+   "q_en": "Electric or electromagnetic representation of data or information is termed as......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Software",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Signal",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Transmission",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Computer",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Paper",
+   "q_en": "Origin of energy from the sun and stars is.......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Radioactivity",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Fission",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Fusion",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Beta emission",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

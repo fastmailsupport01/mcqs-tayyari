@@ -1,0 +1,318 @@
+{
+ "board": "BISE Mardan",
+ "board_slug": "mardan",
+ "class": "9th",
+ "subject": "Computer Science",
+ "year": 2022,
+ "slug": "mardan-9th-computer-science-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Annual",
+   "q_en": "Laptop is also termed as ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Notebook computer",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Portable computer",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Palmtop computer",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Desktop computer",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Annual",
+   "q_en": "............ is computer memory.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CPU",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Mother board",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "RAM",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "System unit",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Annual",
+   "q_en": "Freeware are ............ software.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "System",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Application",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Hybrid",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Both A and B",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Annual",
+   "q_en": "The ............ is like a manager for the computer system.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Operating system",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Freeware",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Shareware",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Business software",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Annual",
+   "q_en": "GUI stands for ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Guided User Interface",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Game User Interface",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Global User Interface",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Graphical User Interface",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Annual",
+   "q_en": "Shortcut command ............ is used to print a document.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ctrl + V",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ctrl + S",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ctrl + P",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ctrl + N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Annual",
+   "q_en": "........ function tells which is the smallest number in a range of cells.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "SUM",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Average",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "COUNT",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "MIN",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Annual",
+   "q_en": "There are ............ mode of data communication.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Annual",
+   "q_en": "Fiber optics cable made of ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Metal",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Glass",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Plastic",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Both B and C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Annual",
+   "q_en": "............ is a person gaining an unauthorized access to computer or telecommunication system.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Programmer",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Teacher",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Hacker",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Student",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Annual",
+   "q_en": ".... are programs which are capable of locating, preventing and removing the malicious programs from computer.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Virus",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Anti-virus",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Operating system",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Freeware",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

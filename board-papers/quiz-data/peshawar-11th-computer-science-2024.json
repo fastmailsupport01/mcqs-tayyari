@@ -1,0 +1,430 @@
+{
+ "board": "BISE Peshawar",
+ "board_slug": "peshawar",
+ "class": "11th",
+ "subject": "Computer Science",
+ "year": 2024,
+ "slug": "peshawar-11th-computer-science-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Paper",
+   "q_en": "The data that is to be moved to and from the memory is stored temporarily in ____ register.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Counter",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "PC",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "M.A.R",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "M.B.R",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Paper",
+   "q_en": "A type of satellite that revolves around the earth orbit at the same speed as the earth is____.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "HEO",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "MEO",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "LEO",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "GEO",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Paper",
+   "q_en": "For connecting hard-disk to a computer system, a fastest cable technology among the given is____.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "IDE Cable",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "PCIC Cable",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "FD Cable",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "SATA Cable",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Paper",
+   "q_en": "The data is divided into pieces, on the data-link layer, each piece is called a____.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Packet",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Fragment",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Frame",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Segment",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Paper",
+   "q_en": "Encryption of data into cipher code is done at ____ layer of the OSI model.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Application",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Presentation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Session",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Network",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Paper",
+   "q_en": "The layer of OSI model providing interface for downloading a video from a website is____layer.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Application",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Presentation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Session",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Network",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Paper",
+   "q_en": "Line-of-sight communication is required for____wireless technology.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Radio",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Wimax",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Wifi",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Infrared",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Paper",
+   "q_en": "Creating a table in database you need to use___type of language.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "DML",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "DCL",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "DDL",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "DTL",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Paper",
+   "q_en": "The component of a computer that instructs the computer what to do and how to do is____.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Software",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Hardware",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Processor",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Memory",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Paper",
+   "q_en": "Connecting an ultrasound machine to a computer, you need to install____.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Utility software",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Firmware",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Malware",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Device driver",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Paper",
+   "q_en": "The announcement in loudspeaker from your mosque is an example of___type of communication.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Half-duplex",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Full-duplex",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Simplex",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Bi-directional",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Paper",
+   "q_en": "The binary data (0's and 1's) is stored on CDs in the form of____.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0's and 1's",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Pits and lands",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0 volt and 5 volt",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "OFF and ON",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Paper",
+   "q_en": "The IP-V4 address is of____bits.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "28",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "32",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "64",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "128",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Paper",
+   "q_en": "Flash memory (USB memory device) is an example of____.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "EP-ROM",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "P-ROM",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "EEP-ROM",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ROM",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Paper",
+   "q_en": "The primary function of BIOS (Basic Input Output System) in a computer system is____.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Manages the kernel",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Controls display settings",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Initialize I/O during booth process",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Encryption in communication",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

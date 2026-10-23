@@ -1,0 +1,430 @@
+{
+ "board": "BISE Peshawar",
+ "board_slug": "peshawar",
+ "class": "9th",
+ "subject": "Mathematics",
+ "year": 2024,
+ "slug": "peshawar-9th-mathematics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Paper",
+   "q_en": "The order of the matrix [[1], [1]] is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2x1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1x2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1x1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2x2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Paper",
+   "q_en": "The additive inverse of the matrix [[2, -1, 0], [0, -2, -3]] is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[[-2, 1, 0], [0, -2, -3]]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[[-2, 1, 0], [0, 2, 3]]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[[2, -1, 0], [0, 2, 3]]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[[-2, -1, 0], [0, -2, -3]]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Paper",
+   "q_en": "The adjoint of the matrix [[0, 1], [1, 0]] is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[[0, -1], [1, 0]]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[[0, 1], [-1, 0]]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[[0, 1], [1, 0]]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[[0, -1], [-1, 0]]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Paper",
+   "q_en": "The decimal representation of the number 50/11 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4.54",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4.5̅4̅",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.22",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.2̅",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Paper",
+   "q_en": "The multiplicative inverse of 4.33 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-4.33",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-1/4.33",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/4.33",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Paper",
+   "q_en": "The radicand in the expression ⁶√(99x²) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "√",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "99x²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Paper",
+   "q_en": "The exponential form of ⁶√(4-y)⁵ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(4-y)³⁰",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(4-y)⁶⸝⁵",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(4-y)⁵⸝⁶",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(4-y)¹¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Paper",
+   "q_en": "In (2/5)², the exponent is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2/5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(2/5)²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4/25",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Paper",
+   "q_en": "(4i-9)(4i) = _______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-16-36i",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-16+36i",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "16+36i",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "16-36i",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Paper",
+   "q_en": "The logarithmic form of 5⁻² = 1/25 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "log₅-2 = 1/25",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "log₋₂5 = 1/25",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "log₋₂(1/25) = -2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "log₅(1/25) = -2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Paper",
+   "q_en": "The polynomial in the given expression is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x/√3 + 4x² - 8x³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "√x/3 + 4x² - 8x³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√(x/3) + 4x² - 8x³",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x/√3 + √4x² - 8√x³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Paper",
+   "q_en": "The zeros of the polynomial x²-9x-10 are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-1 and -10",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1 and 10",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-1 and 10",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1 and -10",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Paper",
+   "q_en": "The L.C.M of x²-16 and (x+4)²:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x+4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x-4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(x+4)(x-4)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(x+4)²(x-4)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Paper",
+   "q_en": "The absolute value of -12 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "12",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-12",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-144",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "392",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Paper",
+   "q_en": "A pair of values satisfying the equation 2x+y=10 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(4,3)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(3,4)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(3,-4)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(4,-3)",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

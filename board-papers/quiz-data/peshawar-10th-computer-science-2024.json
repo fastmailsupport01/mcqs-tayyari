@@ -1,0 +1,318 @@
+{
+ "board": "BISE Peshawar",
+ "board_slug": "peshawar",
+ "class": "10th",
+ "subject": "Computer Science",
+ "year": 2024,
+ "slug": "peshawar-10th-computer-science-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Paper",
+   "q_en": "Sequential steps of instruction to solve a problem is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Solution",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Statement",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Algorithm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Calculation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Paper",
+   "q_en": "General sequence of steps is determined by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "High level language",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Program syntax",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Low level language",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Program semantic",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Paper",
+   "q_en": "To create and run C program, we need:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "C language compiler",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "C language loader",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "C language linker",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "C language debugger",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Paper",
+   "q_en": "Syntax for printf is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "printf(\"string\"):",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "printf(\"string\");",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "print(\"string\");",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "printf(string);",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Paper",
+   "q_en": "Function of increment operator (++) in C language is to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "add 1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "add 2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "minus 1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "minus 2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Paper",
+   "q_en": "Syntax of skip statement is;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "if {condition} statement%",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "if (\"condition\") statement",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "if (condition) \"statement\"",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "if (condition) statement;",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Paper",
+   "q_en": "Initialization part of for loop executes:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Thrice",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Twice",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Never",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Once",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Paper",
+   "q_en": "Continue statement is also called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Start",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Execute",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Bypass",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Switch",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Paper",
+   "q_en": "Plus sign denotes:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "OR gate",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NOT gate",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NAND gate",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "AND gate",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Paper",
+   "q_en": "Web page is identified by unique:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "name",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "URL",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Location",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Address",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Paper",
+   "q_en": "Imparting of knowledge is done through:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Educational websites",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Business websites",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "News websites",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Informational websites",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

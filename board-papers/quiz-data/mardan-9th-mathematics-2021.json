@@ -1,0 +1,402 @@
+{
+ "board": "BISE Mardan",
+ "board_slug": "mardan",
+ "class": "9th",
+ "subject": "Mathematics",
+ "year": 2021,
+ "slug": "mardan-9th-mathematics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Annual",
+   "q_en": "The additive inverse of √5 is ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−√5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/√5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√−3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Annual",
+   "q_en": "The matrix [4 0; 0 −12] is ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Scalar matrix",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2x3 matrix",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a diagonal matrix",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Annual",
+   "q_en": "Base of common log is ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "e",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Annual",
+   "q_en": "L.C.M of (a-b)⁴ and (a-b)³ is............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(a-b)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(a-b)⁷",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(a-b)⁴",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(a-b)³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Annual",
+   "q_en": "Conjugate of 3 − √5 is............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−3 − √5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−3 + √5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3 + √5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√3 + √5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Annual",
+   "q_en": "Factor of x²+2x-24 are............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x+4, x-6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x-4, x+6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x+3, x-8",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x+8, x-3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Annual",
+   "q_en": "√(2x+1) − 5 = 4 is a ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "linear equation",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "cubic equation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "radical equation",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Quadratic equation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Annual",
+   "q_en": "In ΔABC, if ∠A ≅ ∠B then bisector of ............divides, the ΔABC into two congruent triangles.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "∠A",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "∠B",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "∠C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Anyone of its angle",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Annual",
+   "q_en": "The point (-6,-6) is located in ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "quadrant I",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Quadrant II",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "quadrant III",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Quadrant IV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Annual",
+   "q_en": "The angle bisectors of a triangle meet at a point which is equidistant from ............of the triangle.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "the vertices",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "the sides",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "mid points of sides",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "all of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Annual",
+   "q_en": "In ΔKLM, m∠K=45°, m∠L=55° and m∠M = 80°, which one of the following is the longest side?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "KL",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "LM",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "KM",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Annual",
+   "q_en": "In a mathematics class with 32 students, the ratio of girls to boys is 5 to 3. How many more girls are there than boys?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "12",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "20",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Annual",
+   "q_en": "The centroid of a triangle divides the medians into the ratio of............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2:1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3:1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4:1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5:1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Annual",
+   "q_en": "Diagonal of a rectangle measures 6.5cm. If its width is 2.5cm, its length is ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4cm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "9cm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6cm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3cm",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

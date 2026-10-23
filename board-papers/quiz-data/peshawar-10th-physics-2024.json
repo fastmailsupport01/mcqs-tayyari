@@ -1,0 +1,346 @@
+{
+ "board": "BISE Peshawar",
+ "board_slug": "peshawar",
+ "class": "10th",
+ "subject": "Physics",
+ "year": 2024,
+ "slug": "peshawar-10th-physics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Paper",
+   "q_en": "Time taken by oscillating object to complete one cycle is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Frequency",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Time Period",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Amplitude",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Wavelength",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Paper",
+   "q_en": "When an object oscillate with a frequency of 0.5 Hz, its time period is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1s",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2s",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5s",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10s",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Paper",
+   "q_en": "In compression, the density of medium, as compared to surrounding is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Higher",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Lower",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Same",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Paper",
+   "q_en": "When a ray of light enters from water to air, it moves:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Towards the normal",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Away from normal",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Along the normal",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Un deviated",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Paper",
+   "q_en": "The speed of light in typical oil having refractive index 1.5 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2x10⁸m/s",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3x10⁸m/s",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4.5x10⁸m/s",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6x10⁸m/s",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Paper",
+   "q_en": "When two capacitors of 15μF and 20μF are connected in series, the total capacitance is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.12μF",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8.5μF",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "20μF",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "35μF",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Paper",
+   "q_en": "Resistance of a metallic wire is \"R\", if the length of wire is halved, its resistance becomes;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "R/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2R",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "R/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4R",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Paper",
+   "q_en": "Induced emf in a coil can be increased by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Decreasing number of turns",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Increasing magnetic field",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Decreasing length of coil",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Increasing temperature of coil",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Paper",
+   "q_en": "The Boolean equation for NOR gate is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "X=AB",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "X=A+B",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "X=A̅+̅B̅",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "X=A̅B̅",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Paper",
+   "q_en": "The applications and programming instructions that tell computer what to do are called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Software",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Hardware",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Procedure",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Information",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Paper",
+   "q_en": "The number of neutrons in a nucleus of ²³⁸₉₂U is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "92",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "146",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "238",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "585",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Paper",
+   "q_en": "Complete the equation: ²¹⁰₄₄Po → ²⁰⁶₈₂Pb + .....",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "α",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "β⁺",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "β⁻",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "γ",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

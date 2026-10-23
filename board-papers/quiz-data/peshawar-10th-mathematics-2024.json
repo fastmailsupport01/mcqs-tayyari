@@ -1,0 +1,430 @@
+{
+ "board": "BISE Peshawar",
+ "board_slug": "peshawar",
+ "class": "10th",
+ "subject": "Mathematics",
+ "year": 2024,
+ "slug": "peshawar-10th-mathematics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Paper",
+   "q_en": "The arithmetic mean of the given data is: 2,5,10,11,12,15,15",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "11",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "12",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "15",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Paper",
+   "q_en": "The average of 58 and 88 with weights of 3 and 2 respectively is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "70",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "73",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "76",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "164",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Paper",
+   "q_en": "The area of sector of a circle whose radius is 4m, with central angle 3 radians is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "6 m²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "12 m²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "24 m²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "48 m²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Paper",
+   "q_en": "One of the coterminal angles of -120° is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-240°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-60°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "120°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "240°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Paper",
+   "q_en": "The length of two congruent chords which are both 8cm away from the centre of a circle of radius 10cm, is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2 cm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6 cm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "12 cm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "18 cm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Paper",
+   "q_en": "The joint variation in the given is expressed by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "q=3p²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "p²q=3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "q=3p²r",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "p²qr=3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Paper",
+   "q_en": "The improper fraction in the following is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(x³+2)/(x⁴+4)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(x³+4)/(x⁴+2)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(x³+4)/(x⁴+4)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(x²+2)/(x³+2)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Paper",
+   "q_en": "If A={1,2,3} and B={3,4,5}, then B\\A=____",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "{3}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{1,2}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{4,5}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{1,2,4,5}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Paper",
+   "q_en": "The range of R={(a,b),(c,a),(d,c)} is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "{a,b,c}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{a,b,d}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{a,c,d}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{a,b,c,d}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Paper",
+   "q_en": "If A={1,2,3} and B={4,5,6}, then which of the given binary relations is a function from B to A?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "R={(1,4),(2,5),(1,6)}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "R={(1,4),(2,5),(3,4)}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "R={(4,1),(5,2),(4,3)}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "R={(4,1),(5,2),(6,1)}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Paper",
+   "q_en": "The quadratic equation in the given is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "7x²-3x+8=0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "7x³-3x²+8=0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7x³-3x+8=0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "7x⁴-3x+8=0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Paper",
+   "q_en": "To apply the quadratic formula to 3x²+2x=5, we have;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a=3, b=2, c=5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a=3, b=-2, c=5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a=3, b=-2, c=-5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a=3, b=2, c=-5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Paper",
+   "q_en": "Discriminant of the quadratic equation x²-2x-5=0 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-24",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-16",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "16",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "24",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Paper",
+   "q_en": "Product of the roots of the quadratic equation, 3x²-6x+7=0 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-7/3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "7/3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Paper",
+   "q_en": "The inverse variation in the given is expressed by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4:5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4:5=8:10",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "y=5x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "xy=5",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,318 @@
+{
+ "board": "BISE Peshawar",
+ "board_slug": "peshawar",
+ "class": "10th",
+ "subject": "Computer Science",
+ "year": 2023,
+ "slug": "peshawar-10th-computer-science-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Paper",
+   "q_en": "Which of the given functions is used to display output on the screen?",
+   "q_ur": "دیئے گئے میں سے کون سا فنکشن آؤٹ پٹ ظاہر کرنے کے لئے استعمال ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "printf()",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "scanf()",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "gets()",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "getchar()",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Paper",
+   "q_en": "Which of the given is not a high level language?",
+   "q_ur": "دی گئی میں سے کون سی ہائی لیول لینگویج نہیں ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "BASIC",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Assembly language",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Pascal",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "FORTRAN",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Paper",
+   "q_en": "In C language, every statement is terminated by......",
+   "q_ur": "سی لینگویج میں ہر اسٹیٹمنٹ کا اختتام ...... سے کیا جاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Full stop",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Double quotes",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Semicolon",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Comma",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Paper",
+   "q_en": "The case block ends with......",
+   "q_ur": "Case بلاک کا اختتام ...... پر ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Break;",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Default",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Paper",
+   "q_en": "Which loop structure always executes at least once?",
+   "q_ur": "کون سی لوپ ہمیشہ کم از کم ایک دفعہ ضرور چلتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "do-while",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "for",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "while",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "nested",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Paper",
+   "q_en": "A loop within another loop is called....",
+   "q_ur": "اگر ایک لوپ کو دوسری لوپ کے اندر رکھ دیا جائے تو اسے ...... کہا جاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Counter loop",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Control loop",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Outer loop",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nested loop",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Paper",
+   "q_en": "Which operator is used to add 1 to the value of an integer variable?",
+   "q_ur": "کون سا آپریٹر انٹیجر ویری ایبل کی قدر میں 1 کا اضافہ کرتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "+",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "=",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "––",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "++",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Paper",
+   "q_en": "Text or image in a web page that links it to another web page is called......",
+   "q_ur": "ویب پیج پر موجود تصویری یا تحریری لنک جو اس ویب پیج کو دوسرے ویب پیج سے منسلک کرتی ہے ...... کہلاتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Web link",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Browser link",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Hyper link",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Search link",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Paper",
+   "q_en": "Internet address which identifies a website is called........",
+   "q_ur": "جو انٹرنیٹ ایڈریس کسی ویب سائٹ کی نشاندہی کرتا ہے ...... کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Web page",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Website",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Web server",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "URL",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Paper",
+   "q_en": "The output of which gate is '1' only when all its inputs are 1?",
+   "q_ur": "کس گیٹ کی آؤٹ پٹ صرف اس وقت 1 ہوتی ہے جب اس کی تمام ان پٹ 1 ہوں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "AND gate",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "OR gate",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NOT gate",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NAND gate",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Paper",
+   "q_en": "Which gate performs the logical negation or complementation?",
+   "q_ur": "کون سا گیٹ نفی یا کمپلیمنٹ کا عمل انجام دیتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "AND gate",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "OR gate",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NOT gate",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "XOR gate",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

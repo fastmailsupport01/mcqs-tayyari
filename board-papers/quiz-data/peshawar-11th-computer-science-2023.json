@@ -1,0 +1,430 @@
+{
+ "board": "BISE Peshawar",
+ "board_slug": "peshawar",
+ "class": "11th",
+ "subject": "Computer Science",
+ "year": 2023,
+ "slug": "peshawar-11th-computer-science-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Paper",
+   "q_en": "......is a set of programs that manages and coordinates the hardware and provides services to software.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Language Processor",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Operating System",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Device Driver",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Paper",
+   "q_en": "Which of the given is called internal processor memory?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "RAM",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ROM",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cache",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "DRAM",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Paper",
+   "q_en": "......register holds either the address of the instruction being executed or the address of the next instruction to be executed.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Program Counter",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Memory Buffer Register",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Data Register",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Counter Register",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Paper",
+   "q_en": ".....is used by the CPU to direct and monitor the actions of the other functional areas of the computer.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Data Bus",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Address Bus",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Control Bus",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Paper",
+   "q_en": "......is a microprocessor architecture that is designed to perform smaller instructions.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "RISC",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CISC",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "DISK",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "LIST",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Paper",
+   "q_en": "The default subnet mask of class B IP addresses are.......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "255.255.255.0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "255.255.0.0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "255.0.0.0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "255.255.255.255",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Paper",
+   "q_en": "......is similar to visible light, but with a longer wavelength.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Infrared",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "WiMAX",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Bluetooth",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Paper",
+   "q_en": "...refers to the minimum number of times an instance in one entity can be associated with an instance in the related entity.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cardinality",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Modality",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Normality",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Paper",
+   "q_en": "......is a window that displays data for viewing, entering and editing information.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Report",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Query",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Form",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Table",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Paper",
+   "q_en": ".......as the default data types to all fields.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Number",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Memo",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Text",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Paper",
+   "q_en": "A candidate key which is not selected as the primary key is called ......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Super key",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Foreign key",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Candidate key",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Alternate key",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Paper",
+   "q_en": ".......uses 802.11 standard developed by the IEEE.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Wi-Fi",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Wi-max",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Bluetooth",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Infrared",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Paper",
+   "q_en": "...... is a set of rules that govern data communication.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sender",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Message",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Receiver",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Protocol",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Paper",
+   "q_en": "Resource sharing, electronic messaging and network management are the functions performed by .... layer.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Application",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Presentation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Network",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Session",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Paper",
+   "q_en": "Class C is used for .... networks.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Large",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Medium size",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Small size",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Session layer",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,570 @@
+{
+ "board": "BISE Peshawar",
+ "board_slug": "peshawar",
+ "class": "11th",
+ "subject": "Mathematics",
+ "year": 2024,
+ "slug": "peshawar-11th-mathematics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Paper",
+   "q_en": "ⁿCₙ₋₁ = ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "n",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "n−1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "n+1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "n!",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Paper",
+   "q_en": "In the expansion of (a+b)⁵ the Middle term is ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3ʳᵈ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4ᵗʰ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2ⁿᵈ and 3ʳᵈ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3ʳᵈ and 4ᵗʰ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Paper",
+   "q_en": "Which of the given is even function?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "X²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2x⁴",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2x⁴−x²+3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Paper",
+   "q_en": "Domain of f(x) = x/(x²−16) is ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "R−{−4,4}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "R",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{−4,4}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{0,4,−4}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Paper",
+   "q_en": "Cos(π+θ) = ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "cosθ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "sinθ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−cosθ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−sinθ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Paper",
+   "q_en": "2sinαcosβ = ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "sin(α+β)+sin(α−β)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "sin(α+β)−cos(α+β)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "sin(α+β)−sin(α−β)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "sin(α+β)+cos(α+β)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Paper",
+   "q_en": "If a,b,c are the sides of triangle ABC then a = ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "bsinα/sinβ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "sinα/bsinβ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "bsinβ/sinα",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Paper",
+   "q_en": "The circum radius of a triangle ABC having sides a,b,c is given by ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "r = /s",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "R = abc/4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "R = /(s−a)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "R = 4/abc",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Paper",
+   "q_en": "Period of (1/2)tan3x is ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2π",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6π",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π/6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Paper",
+   "q_en": "If f(−x) = −f(x) for every 'x' in the domain of f. Then f is called ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Odd function",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Even function",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Constant function",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Identity function",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Paper",
+   "q_en": "IF Z is any complex number then |−Z| = ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "√(−a²−b²)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "√(a²−b²)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√(a²+b²)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√(b²−a²)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Paper",
+   "q_en": "i⁻⁹ = ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/i",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "±i",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−1/i",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "i",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Paper",
+   "q_en": "If A = [[1,2,3],[6,5,4],[7,8,9]] then the minor M13 = ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "13",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−13",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−12",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "36",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Paper",
+   "q_en": "If 'A' is a square matrix of order 3, then A+Aᵗ is ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Symmetric",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Skew symmetric",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Zero matrix",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Hermition matrix",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Paper",
+   "q_en": "If u = 3i − 2j then û = ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "√13",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "√13(3i−2j)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "13",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(1/√13)(3i−2j)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Paper",
+   "q_en": "If V = xi + yi + Zk then |V| = ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "√(x²+y²+z²)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x²+y²+z²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√(x²+y²)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√(i²+j²+k²)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Paper",
+   "q_en": "Arithmetic Mean between 1/3 and 1/4 is ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "7/24",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "14/12",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7/12",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Paper",
+   "q_en": "If 3,9,27 ____ is G.P then a6 is ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3⁵",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3⁶",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3⁻⁵",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3⁻⁶",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Paper",
+   "q_en": "General Term of 1.2²+2.3²+3.4²+____ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "n(n+1)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "n²(n+1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(n+1)²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "n(n+1)²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Paper",
+   "q_en": "(n−1)!/(n+1)! = ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/(n+1)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/(n(n+1))",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(n+1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "n(n+1)",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

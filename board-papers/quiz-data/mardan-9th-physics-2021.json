@@ -1,0 +1,346 @@
+{
+ "board": "BISE Mardan",
+ "board_slug": "mardan",
+ "class": "9th",
+ "subject": "Physics",
+ "year": 2021,
+ "slug": "mardan-9th-physics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Annual",
+   "q_en": "Which of the following is a derived physical quantity.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "time",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "electric current",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "mass",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "force",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Annual",
+   "q_en": "A body accelerates uniformly from 15ms⁻¹ to 20ms⁻¹ in 5 s. What is the acceleration of the body.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2ms⁻²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.5ms⁻²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1ms⁻²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "none of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Annual",
+   "q_en": "Force needed to produce an acceleration of 10ms⁻² in a ball of mass 0.5kg is............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "20N",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10.5N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "9.5N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Annual",
+   "q_en": "Which of the following forces can act as a centripetal force?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "tension",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "friction",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "gravitational force",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "all of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Annual",
+   "q_en": "Conventionally the direction of anticlockwise torque is taken as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "positive",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "negative",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "upward",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "downward",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Annual",
+   "q_en": "The angle at which x and y components of force are equal is............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "30°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "60°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Annual",
+   "q_en": "The S.I unit for gravitational constant \"G\" is ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nkg²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Nm²Kg⁻²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Nm²Kg²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nm⁻²Kg²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Annual",
+   "q_en": "A machine is able to lift 200N of concrete slab vertically up to a height of 30m above the ground in 50s. The average power of the machine is............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.33W",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "60W",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "120W",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6000W",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Annual",
+   "q_en": "Young modulus is measured in units of ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "kgm⁻³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Pa",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Annual",
+   "q_en": "A rock weighs 25.7N in air and 21.8N in water. What is the buoyant force of the water.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4.1 N",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3.9 N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.18 N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.84 N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Annual",
+   "q_en": "310K temperature in centigrade scale is ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "37°C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "310°C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "63°C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "273°C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Annual",
+   "q_en": "The mode of transfer of heat which does not require material medium is called............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

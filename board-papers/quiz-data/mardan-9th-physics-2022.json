@@ -1,0 +1,346 @@
+{
+ "board": "BISE Mardan",
+ "board_slug": "mardan",
+ "class": "9th",
+ "subject": "Physics",
+ "year": 2022,
+ "slug": "mardan-9th-physics-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Annual",
+   "q_en": "10⁻¹² stands for ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Micro",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Pico",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Femto",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nano",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Annual",
+   "q_en": "Which of the following is a vector quantity?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Speed",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Distance",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Displacement",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Power",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Annual",
+   "q_en": "A train is moving at a speed of 36 kmh⁻¹. Its speed expressed in ms⁻¹ is ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "20 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "25 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "30 ms⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Annual",
+   "q_en": "The centripetal acceleration for an object of mass 1 kg moving with 6 ms⁻¹ in a circle of radius 3 m is .......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "18 ms⁻²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "12 ms⁻²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10 ms⁻²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2 ms⁻²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Annual",
+   "q_en": "Rolling friction is always ............ the sliding friction.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Greater than",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Equal to",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Less than",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Both A and C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Annual",
+   "q_en": "Conventionally clock wise torque is taken as ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Negative",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Positive",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Parallel",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Annual",
+   "q_en": "The angle at which x and y components of force are equal is ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "30°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "60°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Annual",
+   "q_en": "At Earth's surface, Earth pulls down on a 1 kg mass with a force of magnitude ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "9.8 N",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "98 N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.9 N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.09 N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Annual",
+   "q_en": "One horse power (hp) = ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "74.6 Watt",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "7.46 Watt",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.746 Watt",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "746 Watt",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Annual",
+   "q_en": "The unit of Young's Modulus is same as that of ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Strain",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Power",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Stress",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Force",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Annual",
+   "q_en": "The amount of heat required to raise the temperature of 1 kg of water by 1 K is ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 J",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "400 J",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "310 J",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4190 J",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Annual",
+   "q_en": "The mode of transfer of heat which does not require material medium is called ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Convection",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Conduction",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Radiation",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

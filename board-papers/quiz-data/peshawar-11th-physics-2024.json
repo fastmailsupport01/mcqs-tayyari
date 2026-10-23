@@ -1,0 +1,514 @@
+{
+ "board": "BISE Peshawar",
+ "board_slug": "peshawar",
+ "class": "11th",
+ "subject": "Physics",
+ "year": 2024,
+ "slug": "peshawar-11th-physics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Paper",
+   "q_en": "How many significant figures does 1.362+25.2 have?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Paper",
+   "q_en": "The percentage uncertainty in the measurement of (30.76 ± 0.25) m is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "± 4%",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "± 6.6%",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "± 25%",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "± 3.76%",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Paper",
+   "q_en": "SI-unit if impulse is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Kg m/s²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "N S",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "N/Sa",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "N.m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Paper",
+   "q_en": "Example of vector product is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Angular momentum",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Work",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Power",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Paper",
+   "q_en": "A body of mass 5 kg is moving with a momentum of 19kg ms-1. A force of 0.2 N acts on it in the direction of motion of the body for 10s. the increase in its K.E. is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2.8 J",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3.2 J",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3.8 J",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4.4 J",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Paper",
+   "q_en": "The time rate of change of linear momentum of an object is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Impulse",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Power",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Torque",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Weight",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Paper",
+   "q_en": "One horse power is given by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "746 w",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "73 kw",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "746 Mw",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "746 Gw",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Paper",
+   "q_en": "Venturi meter is a device used to measure the;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mass of fluid",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Viscosity of fluid",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Speed of fluid",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Density of fluid",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Paper",
+   "q_en": "The efficiency of fluorescent lamp is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5%",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10%",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "15%",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "20%",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Paper",
+   "q_en": "Maximum work can be obtained in the process called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cyclic",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Isothermal",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Adiabatic",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Isochoric",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Paper",
+   "q_en": "The time taken by geostationary satellite to orbit the earth is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "365 days",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "30 days",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "24 hrs",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1 hour",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Paper",
+   "q_en": "Which one of the given properties is not exhibited by the longitudinal wave?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Reflection",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Interference",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Diffraction",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Polarization",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Paper",
+   "q_en": "The SI unit of spring constant is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Kg m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Kg/s",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Kg/m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Kg/s²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Paper",
+   "q_en": "An example of non conservative force is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electric force",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Gravitational force",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Frictional force",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Magnetic force",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Paper",
+   "q_en": "The net force that acts on a 10N falling objects when it encounter 4N of air resistance is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0 N",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4 N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6 N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10 N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Paper",
+   "q_en": "In an isothermal change, internal energy:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Decreases",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Increases",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Becomes zero",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Remains constant",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Paper",
+   "q_en": "If the amplitude of a wave is doubled then its intensity is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Doubled",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Halved",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Quadrupled",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "One fourth",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Paper",
+   "q_en": "When a transverse wave is reflected from the boundary of a denser medium to a rarer medium, it undergoes a phase change of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2π",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

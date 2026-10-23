@@ -1,0 +1,570 @@
+{
+ "board": "BISE Peshawar",
+ "board_slug": "peshawar",
+ "class": "11th",
+ "subject": "Mathematics",
+ "year": 2023,
+ "slug": "peshawar-11th-mathematics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Paper",
+   "q_en": "In rolling a die, the probability of less than one, is......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Paper",
+   "q_en": "Amplitude of cos 2θ is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−1/3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Paper",
+   "q_en": "Frequency of sin 6θ is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3/π",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2π/3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Paper",
+   "q_en": "tanθ is positive in......quadrant.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1st and 2nd",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1st and 3rd",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1st and 4th",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2nd and 3rd",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Paper",
+   "q_en": "(n−1 choose 1) + (n−1 choose 2) + (n−1 choose 3) + ...... + (n−1 choose n−1) = where n > 1",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2ⁿ − 1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2ⁿ⁻²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2ⁿ⁻¹ − 1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2ⁿ⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Paper",
+   "q_en": "The linear inequalities involved in the problem are called......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Problem constraints",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Feasible solution",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Decision variable",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Optimal solution",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Paper",
+   "q_en": "Exact value of: sin 42° cos 12° − cos 42° sin 12° =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−1/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2/3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Paper",
+   "q_en": "tan(2π − θ) =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "tanθ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "cotθ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−cotθ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "− tanθ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Paper",
+   "q_en": "sin θ/2 = √((1 − cosθ)/2) where θ/2 lies in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1st quadrant",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2nd quadrant",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3rd quadrant",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Both A and B",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Paper",
+   "q_en": "√(S(S − b)/(a·c)) =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "sin α/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "cos α/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "cos β/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "sin β/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Paper",
+   "q_en": "√−2 × √−3 =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "√6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−√6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√−6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−√−6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Paper",
+   "q_en": "If Z = x + iy then which of the given is always true?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Z·Z̄ = |Z|²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "|Z| = −|Z|",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Z̄ = −Z",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Paper",
+   "q_en": "If A and B are two matrices then (A + B)ᵗ =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A + B",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Aᵗ·Bᵗ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "AB",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Aᵗ + Bᵗ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Paper",
+   "q_en": "If A = [[α, 1], [1, α]] and |A| = 24 then value of α is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "±5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "±4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Paper",
+   "q_en": "If û is a unit vector then |û| =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "±1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Paper",
+   "q_en": "If the nth term of an A.P is 4n + 1, then common difference is......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Paper",
+   "q_en": "Harmonic mean between two numbers a and b is......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2ab/(a + b)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(a + b)/2ab",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(a·b)/(a + b)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(a + b)/(a·b)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Paper",
+   "q_en": "The nth term of the series 1.2 + 2.3 + 3.4 + .........is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "n² + n",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "n³ − n",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "n²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Paper",
+   "q_en": "The transpose of a row matrix is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Row matrix",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Column matrix",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Square matrix",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Unit matrix",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Paper",
+   "q_en": "10th term of the sequence, 2, 5, 8, ......... is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "27",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "31",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "29",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "33",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

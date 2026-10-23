@@ -1,0 +1,514 @@
+{
+ "board": "BISE Peshawar",
+ "board_slug": "peshawar",
+ "class": "12th",
+ "subject": "Physics",
+ "year": 2024,
+ "slug": "peshawar-12th-physics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Paper",
+   "q_en": "An alternating voltage is given by 20Sin(157t), the frequency of AC is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "25 Hz",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "50 Hz",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "75 Hz",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "100 Hz",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Paper",
+   "q_en": "In Hysteresis, magnetic flux density (B) that remains in material when magnetizing force is zero is termed as;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Retentively",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Reluctance",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Coercive force",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Residual flux",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Paper",
+   "q_en": "In reversed biased condition of a diode, sudden increase in current is known as ____effect.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Knee",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Compton",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Zener",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Photoelectric",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Paper",
+   "q_en": "The wavelength of electrons is ____times shorter than visible light.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10⁵",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10⁷",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10⁹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Paper",
+   "q_en": "According to uncertainty principle, if uncertainty of position of electron becomes 3 times, then uncertainty in momentum will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3 times",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/3 times",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "9 times",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/9 times",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Paper",
+   "q_en": "The first excitation potential of hydrogen atom is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "219.5 volt",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "12.1 volt",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10.2 volt",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0 volt",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Paper",
+   "q_en": "Helium-Neon Laser Beam emitted from a discharge tube has ____colour.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Blue",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Green",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Red",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "White",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Paper",
+   "q_en": "In nucleus, beta (β) emission does not change the number of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nucleon",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Proton",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Neutron",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Paper",
+   "q_en": "All free particles have colour charge of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Paper",
+   "q_en": "The time constant (RC) has the same unit as that of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Resistance",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Charge",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Capacitance",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Time",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Paper",
+   "q_en": "Object 'A' and 'B' have charges 2μC and 6μC respectively. Which statement is true about the electric forces on the objects?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "F_AB=F_BA",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "F_AB=-3F_BA",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-3F_BA=F_BA",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "F_AB=-F_BA",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Paper",
+   "q_en": "If slope of an Ohmic substance form an angle of 30° in I-V graph, then resistance of the conductor will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0Ω",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "√3Ω",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/√3Ω",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Infinite",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Paper",
+   "q_en": "To obtain maximum output power, resistance of source is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Load resistance",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Infinite",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Constant",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Paper",
+   "q_en": "When an resistance each of value \"r\" are connected in parallel, then resultant resistance is x. When these n resistances are connected in series, then total resistance is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "nx",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Rnx",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x/n",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "n²x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Paper",
+   "q_en": "Which of the given has the least resistance in the measuring instruments;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Galvanometer",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Voltmeter",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ammeter",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All have the same",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Paper",
+   "q_en": "When north pole of a magnet move towards the coil, then that end of the coil will act as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Positive charge",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Negative charge",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "North pole",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "South pole",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Paper",
+   "q_en": "The SI unit of mutual inductance (M) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Farad",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Weber",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Tesla",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Henry",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Paper",
+   "q_en": "In pure inductive circuit, the phase difference between I and V is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3π/2",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}
