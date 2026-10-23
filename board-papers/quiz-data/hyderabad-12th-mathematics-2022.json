@@ -1,0 +1,1410 @@
+{
+ "board": "BISE Hyderabad",
+ "board_slug": "hyderabad",
+ "class": "12th",
+ "subject": "Mathematics",
+ "year": 2022,
+ "slug": "hyderabad-12th-mathematics-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "A point where a function ‘f’ changes form an increasing function to decreasing function is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "A point of maximum value",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "A point of minimum value",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "point of zero value",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "∫x cos x dx",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "x sin x + cosx + c",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "x sin x + cos x + c",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "x sion x − cos x + c",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "x cos x − sin x + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "If (x1, y1) and (x2 − y2) are end point of the diameter then centre of circle is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "(x1−x2)/2, (y1−y2)/2",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "(x1+x2)/2, (y1+y2)/2",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "(x1−x2)/2, (y1−y2)/2",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "(x1 + x2, y1 + y2)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "If P(x1, y1) and Q(x2, y2) are any two points on parabola y² = 4ax then eq: of the chord PQ will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "(y + y1)(y1 − y2) = 4a(x − x1)",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "(y − y1)(y1 + y2) = 4a(x − x1)",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "(y + y1)(y1 + y2) = 4a(x − x1)",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "(y + y1)(y1 + y2) = 4a(x + x1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The vector product of a vector by itself is always:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "greater than 1",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "lim (x→0) (1 + 3x)^{2/3}/x",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "e³",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "e⁻⁶",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "e⁶",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "e",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The point (-3,0) (0,0) and (5,0) are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "vertices of triangle",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "collinear point",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Non-collinear",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The x-intercept of the line 3x + 4y − 7 = 0",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "-7/3",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "7/3",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "7/4",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "-7/4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The slope of the curve y = 3e^{2x} at x = 0 is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Maximum values of f(x) are minimum value of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "f (x)",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "-f",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "f’(x)",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "-f’(x)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "∫(ax + b)^n dx = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "(ax+b)^{n+1}/(an+1)",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "(ax+b)^{n-1}/(an+1)",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "(ax+b)^{n+1}/(an+1)",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "(ax+b)^{n+1}/(a(n+1))",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Two circles are said to be concentric if they have:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "same radii",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "same centre",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "same diameter",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "different centre",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "The line y = mx + c is tangent to ellipse x²/a² + y²/b² = 1 if",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "c = a/m",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "c² = a²m² + b²",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "c² = a²m² − b²",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "c² = a²(1+m²)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "What does scalar triple product gives:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Area of square",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Volume of cylinder",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Volume of square",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Volume of parallelepiped",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "If lim (a^x − 1)/x = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "lna",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "ln x",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "aln x",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "1/a ln a",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "If two non vertical lines are parallel their inclinations and their slopes are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Perpendicular",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Not equal",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Equal",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "Which one is two intercept form:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "x/a + y/b",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "x/a − y/b",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "x/a + y/b = 0",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "x/a + y/b = -1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group I",
+   "q_en": "(-2, 5), (4, 1) and (5, 4) are the vertices f triangle its centroid is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "(7/3, 8/3)",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "(11/3, 8/3)",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "(7/3, 10/3)",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "(0,1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group I",
+   "q_en": "If ∫πdθ = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "π + c",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "πθ + c",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "θ + c",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "π/3 + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group I",
+   "q_en": "∫[f(x)]^n f’(x) dx = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "[f(x)]^{n+1}/(n+1)",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "ln [f(x)]^{n+1}",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "ln [f(x)]^n",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "group": "Group I",
+   "q_en": "The general equation of he circle whose centre lies on x-axis:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "x² + y² + 2fy + c = 0",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "x² + y² − 2gx + c = 0",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "x² + y² + 2gx + c = 0",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "x² + y² + 2gx − c = 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "group": "Group I",
+   "q_en": "The point P(x1, y1) lies outsides the circle x2 + y2 + 2g x + fy + c = 0 if",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "x1² + y1² + 2gx1 + 2fy1 + c > 0",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "x1² + y1² + 2gx1 + 2fy1 + c < 0",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "x1² + y1² + 2gx1 + 2fy1 + c = 0",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "x1² + y1² + 2gx1 + 2fy1 + c < 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "group": "Group I",
+   "q_en": "If a = (2, -1, 2) B = (-4, 1, -1) then AB = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "-6i − 2j + 3k",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "-6i + 2j + 3k",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "6i + 2j − 3k",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "6i − 2j − 3k",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "group": "Group I",
+   "q_en": "lim (x → ∞) [illegible in source scan] e^x = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "ln x",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "∞",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 25,
+   "group": "Group I",
+   "q_en": "Two lines 5x − 3y + 8 = 0 and 10x − 6y − 7 = 0 are",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Parallel",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Perpendicular",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Coincident",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 26,
+   "group": "Group I",
+   "q_en": "Lim (x→0) (x² − 1)/(x² − x)",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "x",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "∞",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 27,
+   "group": "Group I",
+   "q_en": "The equation of the x −axis itself as",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "x = 0",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "y = 0",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "y = x",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 28,
+   "group": "Group I",
+   "q_en": "Three lines are concurrent of |a1 b1 c1; a2 b2 c2; a3 b3 c3| = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "±",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 29,
+   "group": "Group I",
+   "q_en": "If the point on the graph y = f(x) where f(x) is neither increasing nor decreasing and f(x) = 0 then that point is called;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Maximum point",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Minimum point",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Stationary point",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Turning point",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 30,
+   "group": "Group I",
+   "q_en": "I d/dx [φ(x)] = f(x) then function Θ(x) is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Derivative of f(x)",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Antiderivative of f(x)",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "inverse of f(x)",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Definite integral",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 31,
+   "group": "Group I",
+   "q_en": "The centre of the circle x² + y² + 2gx + 2fy + c = 0,",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "(g, -f)",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "g, f)",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "(g, f)",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "(g, -f)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 32,
+   "group": "Group I",
+   "q_en": "∫f(x) dx ∀ a,b ∈ R, a ≤ b is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Definite integral",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Indefinite integral",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Simple integral",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 33,
+   "group": "Group I",
+   "q_en": "If a = [P, 1, 0], b = [1, 1, 3] and c = [2, 1, -2] are coplanar then P = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "3/4",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "4/5",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "6/5",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "8/5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 34,
+   "group": "Group I",
+   "q_en": "If the point p (x, y), x is called.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "ordinate",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "abscissa",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "pole",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 35,
+   "group": "Group I",
+   "q_en": "If a ≠ 0, c ≠ 0 and b = 0 then ax + by + c = 0 represents a line:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Parallel to x −axis",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Parallel to y −axis",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Passing through the origin",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "bisecting 1st and 3rd quad",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 36,
+   "group": "Group I",
+   "q_en": "f(x) =x³ + 4x² + 3x + 9 then f’’(x) = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "6x + 8",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "6x² + 8x",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "6x − 4",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "3x + 9",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 37,
+   "group": "Group I",
+   "q_en": "Two non-zero vectors U and V are parallel if:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "u : v = 0",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "u x v = 0",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "both (a) and (b)",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 38,
+   "group": "Group I",
+   "q_en": "If we put x = a + h in function f(x) then the limit of f(x) as x → a is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "the limit of f(x) as h → 0",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "limit of f(a + h) as x → a is",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "the limit of f(a + h) as h → a",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "limit of f(a + h) as h → 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 39,
+   "group": "Group I",
+   "q_en": "y − co-ordinate of any point on the x-axis",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "zero",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "one",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "y",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 40,
+   "group": "Group I",
+   "q_en": "The point of concurrency of there lines 2x − 5y = 0, 3x − 17y = 0 and x + 6x = 0 is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "(-1, -1)",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "(0, 0)",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "(1, 1)",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "1/2, 1/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 41,
+   "group": "Group I",
+   "q_en": "The lines lying on the same plane are called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Collinear lines",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "coplanar lines",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Concurrent lines",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Coincident lines",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 42,
+   "group": "Group I",
+   "q_en": "If y = e^{2x} -1 then dy/dx is euqla to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "2e^{2x} − 1",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "2e^{2x}",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "2ex",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 43,
+   "group": "Group I",
+   "q_en": "The function f(x) = sin x as maximum value:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "-∞",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 44,
+   "group": "Group I",
+   "q_en": "The inverse operator of d/dx is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "∫ dx",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "dx",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Δ²",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "none of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 45,
+   "group": "Group I",
+   "q_en": "If the centre of circle x² +y² + ax + by + 2 = 0 is at (4, -8) the a + b = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "-4",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "-8",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 46,
+   "group": "Group I",
+   "q_en": "The centre of circle at origin and radius r, h = 0, k = 0 then",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "x² − y² − r² = 0",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "x² + y² = r²",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "y² − x² = r²",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "x² − y² = -r²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 47,
+   "group": "Group I",
+   "q_en": "The unit vector I is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "[0, 0, 1]",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "0, 1, 0]",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "1, 0, 0]",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 48,
+   "group": "Group I",
+   "q_en": "If p(θ) = (x, y) when θ = 180° then (x, y) =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "(0, 1)",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "(0, 1)",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "(-1, 0)",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "(1, 0)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 49,
+   "group": "Group I",
+   "q_en": "Find θ, if s = 20 cm and r = 2m",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "0.1 radian",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "10 radian",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "0.1 degree",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "10 degree",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 50,
+   "group": "Group I",
+   "q_en": "cos 2θ = ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "2cos²θ-1",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "cos²θ − sin²θ",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "1 − 2 sin²θ",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

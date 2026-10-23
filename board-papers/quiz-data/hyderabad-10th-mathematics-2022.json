@@ -1,0 +1,598 @@
+{
+ "board": "BISE Hyderabad",
+ "board_slug": "hyderabad",
+ "class": "10th",
+ "subject": "Mathematics",
+ "year": 2022,
+ "slug": "hyderabad-10th-mathematics-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "For two sets A and B, if O(A) = O(B) then",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "A B",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "B = A",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "A B",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "A c B",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "((A')') = ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "(A')'",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "A'",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "A",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "B",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Which operation is not commutative",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Symmetric difference",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Union",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Difference",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Intersection",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Which one is subset of N",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Z",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Q",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "E",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "P",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Tabular form of A = {x | x ∈ Z and x = 25} is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "{1,5}",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "{-5,5}",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "{1,5,25}",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "{-5}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "One and only one circle passes through three points.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "collinear",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "non-collinear",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "disjoint",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "none of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The hypothesis of the enunciation \"If two chords of a circle are congruent, then they are equidistant from the centre.\" is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "two chords of a circle are equidistant from the centre.",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "two chords of a circle are congruent.",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "a circle has two chords.",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "the centre of circle is equidistant from chords.",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The hypothesis of the enunciation \"One and only one circle can pass through three non-collinear points\" is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "three points are non-collinear.",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "one and only one circle passes through three points.",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "two circles pass through three points.",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "three points are collinear.",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The conclusion of the enunciation \"One and only one circle can pass through three non-collinear points\" is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "three points are non-collinear.",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "one and only one circle passes through three points.",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "two circles pass through three points.",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "three points are collinear.",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "A circle is an example of a curve",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "simple and closed",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "simple and open",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "non-simple and closed",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "non-simple and open",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The conclusion of the enunciation \"If two chords of a circle are congruent, then they are equidistant from the centre.\" is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "two chords of the circle are equidistant from the centre.",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "two chords of a circle are congruent.",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "a circle has two chords.",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "the centre of circle is equidistant from chords.",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "In the adjacent figure, the point of tangency is .",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "A",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "B",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "C",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "D",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Tangents drawn at end points of a diameter of a circle are __ to each other",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "parallel",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "perpendicular",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "intersecting",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "both (b) and (c)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "The maximum number of common tangents between two circles touching internally __ is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "The maximum number of common tangents between two circles touching externally is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "If a point is outside the circle then from this point we can draw tangent(s) to the circle.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "one",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "two",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "three",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "none",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "Angle between the radial segment and tangent at its outer end point is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "45 degrees",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "60 degrees",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "90 degrees",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "120 degrees",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group I",
+   "q_en": "In the adjacent figure, circles with centres E and C",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "touch internally",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "touch externally",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "do not touch",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "are congruent",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group I",
+   "q_en": "In the adjacent figure, circles with centres B and C have ______ point(s) of contact.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "no",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "one",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "two",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "none of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group I",
+   "q_en": "In adjacent figure, circles with centres E and C have point(s) of contact.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "no",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "one",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "two",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "none of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "group": "Group I",
+   "q_en": "In the adjacent figure, AB is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "tangent",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "secant",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "chord",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "none of these",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

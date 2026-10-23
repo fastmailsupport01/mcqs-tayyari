@@ -1,0 +1,430 @@
+{
+ "board": "BISE Hyderabad",
+ "board_slug": "hyderabad",
+ "class": "10th",
+ "subject": "Computer Science",
+ "year": 2022,
+ "slug": "hyderabad-10th-computer-science-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "______ is the brain of computer.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "ALU",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Hard disk",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "CPU",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "CD - ROM",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "BCD stands for ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Basic - Calculated - Decimal Code",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Binary - Coded - Decimal Code",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Beginner - Coded - Digital Code",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "______ types of computer according to purpose.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "8",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The first Electronic Computer in the world was ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "UNIAC",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "UNIVAC",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "ENIAC",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "EDSAC",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The primary storage unit is also known as ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Optical Disk",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Main Memory",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Auxilliary Storage",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Register",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Laser Printer and Ink - Jet Printer are example of ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Impac Printers",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Drum Printers",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Line Printers",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The major invention in first generation was ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Transistor",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Micro Processor",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Vaccum Tube",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Integrated Circuit",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Screen output is known as ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Software",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Liveware",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Soft Copy",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Hard Copy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Printer resolution is usually measured in ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Data Per Inch",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Character Per Inch",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Dots Per Inch",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Auxilliary storage are also known as ______ storage.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Primary",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Secondary",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Laser",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "DIMM stands for ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Data In - line Memory Module",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Dual In - line Memory Module",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Data Internal Memory Module",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Dual Internal Line Memory Module",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The equivalent of decimal number 10 in binary is ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "1100",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "1010",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "1011",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "1110",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Every data of computer does is controlled by its ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "RAM",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "ROM",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "CPU",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "USB",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "A program written in high - level - language is called ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Hard Program",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Source Program",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Soft Program",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "System Program",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "The processed from of data is known as ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "String",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Information",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Binary",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Graphics",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

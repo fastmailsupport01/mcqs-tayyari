@@ -1,0 +1,570 @@
+{
+ "board": "BISE Hyderabad",
+ "board_slug": "hyderabad",
+ "class": "9th",
+ "subject": "Physics",
+ "year": 2022,
+ "slug": "hyderabad-9th-physics-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Numerical value of ________ remains constant every where:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "g",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "G",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "F",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "W",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Spring balance is used to measure:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Mass",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Weight",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Elasticity",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Density",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Your weight as measured on Earth will be ________ on Moon.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Increased",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Decreased",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Remains same",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The velocity of a satellite is ________ of its mass.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Independent",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Dependent",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Equal",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Double",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "During which process a gas becomes a liquid:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Melting",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Freezing",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Condensing",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Boiling",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The energy released during fission of fusion reaction is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Solar energy",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Geothermal energy",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Tidal energy",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Nuclear energy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Which of the following material is more elastic?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Rubber",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Glass",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Steel",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Wood",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Which is the unit for the spring constant?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "N.m",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "N.m2",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "N.m",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "N.m2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Which of the following is not a unit of pressure?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Pascal",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Bar",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Atmosphere",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Newton",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Newton's law of gravitation holds between every two objects on the:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Earth",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Jupiter",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Moon",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Universe",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Gravitational field of Earth is directed:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Towards the Earth",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Towards the Sun",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Towards the Moon",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Away from Earth",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "________ was the first scientist who gave the concept of gravitation:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Einstein",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Newton",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Faraday",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Maxwell",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Quantity of motion contained in a body is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Force",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Inertia",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Momentum",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Gravity",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "Cntrifugal force is always directed:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Towards centre",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Away from centre",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Along the circulr path",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "All sides",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "A pair of inlike parallel forces having different lines forces produce:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Equilibrium",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Torque",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "A couple",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Unstable equilibrium",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "Head to tail rule can be used to add ________ forces.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Two",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Three",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Five",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Any number of",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "A body is in equilibrium when it has:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Uniform speed",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Uniform acceleration",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Both a and b",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Zero acceleration",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group I",
+   "q_en": "A body is in neutral equilibrium when its centre of gravity:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Is at the lowest position",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Remains at same height",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Is at highest position",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Is at its base",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group I",
+   "q_en": "A world wide system of measurements in which the units of base quantities were introduced is called ________",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Prefixes",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "International system of units",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Hexadecimal system",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group I",
+   "q_en": "Length, mass, electric current, time intensity of light and amount of substance are examples of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Base quantities",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Derived quantities",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Prefixes",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Quartile quantities",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,318 @@
+{
+ "board": "BISE Hyderabad",
+ "board_slug": "hyderabad",
+ "class": "9th",
+ "subject": "Mathematics",
+ "year": 2023,
+ "slug": "hyderabad-9th-mathematics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "3(5+7) = 3x5+ 3x7, name the property used.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "commutative",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Associative",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Distributive",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Closure",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The characteristic of log 0.000548 is ________.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "-4",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "-3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The degree of the 3x2y+5y4-10 is ________.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "10",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The diagonal of ________ does not divide it into two congruent triangles:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Rectangle",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Trapezium",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Parallelogram",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Square",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "a2 + b2 + C2 + 2ab - 2ca is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "(a+b+c)2",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "(a+b-c)2",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "(a-b+c)2",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "(a-b-c)2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Factors of a2 +2a - 24 are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "a+4, a-6",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "a-4, a-6",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "a-8, a+3",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "a+8, a-3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "HCF of x3 - y3 and x2 + xy - y2 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "x+y",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "x-y",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "x2-xy+y2",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "x2+xy+y2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The________ of a triangle cut each other in the ratio 2:1.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Altitude",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Median",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "angle bisector",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "right bisector",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Tthe solution set of sqrt(5x+5)+5 = 10 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "{5}",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "{4}",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "{-4}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The points (-3,4) lies in________ quadrant.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "First",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "second",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Thirds",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "fourth",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Perpendicular form vertex to a triangle to its opposite side is called________",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Median",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Perpendicular besector",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Altitude",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "angle",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

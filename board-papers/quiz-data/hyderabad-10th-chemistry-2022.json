@@ -1,0 +1,486 @@
+{
+ "board": "BISE Hyderabad",
+ "board_slug": "hyderabad",
+ "class": "10th",
+ "subject": "Chemistry",
+ "year": 2022,
+ "slug": "hyderabad-10th-chemistry-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Which one of the following statement is false about dynamic equilibrium?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "It takes place in a close coantainer",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Concentration of reactant and products are not changed",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Rate of forward reaction in equal to rate of reverse reaction",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Equilibrium cannot be disturbed by any external stress.",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "When the magnitude of Kc is small, indicates.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Reaction mixture contain most of the reactant",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Reaction mixture contain most of the product",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Reaction mixture contain almost equal amount of reactant and product",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Reaction goes to completion",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "If pH value is grater than 8, then solution is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Acidic",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "basic",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "amphoteric",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "neutral",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Slat among following is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "HCl",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "KCl",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "HNO3",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "H2SO4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Substance that react with both acids and bases are called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "conjugate acids",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "conjugate bases",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "amphoteric substances",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Buffers",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The reaction of acid and base to form slat and water is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Hydration",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Neutralization",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "hydrolyss",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "both a & c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The functional group -COOH is used for:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Alkynes",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "alcohols",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Phenols",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Carboxylic acids",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Polyethene is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "All",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "paper",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "plastic",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "wood",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Acetic acid is a obtained from:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Banana",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Dates",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Garlic",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Vinegar",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "What is true about a peptide?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "It is a protein",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "It is an anhydride of a carboxylic acids",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "It is an anhydride of an amine",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "It is a polyamide",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Which of the following is the reason of global warming:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Presence of sulphite",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Rise in CO2 concentration",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Oxides of nitrogen",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Formation of ozone",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The altitude an stratosphere is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "40 to 45 km",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "50 to 55 km",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "60 to 65 km",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "70 to 75 km",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "The taste of water is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Sour",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Bitter",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Sweet",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Tasteless",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "Which of the following is helpful for removal of permanent hardness:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Na2CO3",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Ca(OH)2",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "CaCO3",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Na2SO4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "The gas is mobile phase in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Liquid chromatography",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Solid chromatography",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Gas chromatography",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "Spectroscopy is the interaction of light with:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Liquid",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Solid",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Gas",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Matter",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "Which of the following is used as jet fuel:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Kerosene oil",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Diesel oil",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "fuel oil",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "petrol",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,542 @@
+{
+ "board": "BISE Hyderabad",
+ "board_slug": "hyderabad",
+ "class": "10th",
+ "subject": "Mathematics",
+ "year": 2023,
+ "slug": "hyderabad-10th-mathematics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "If A superset B then AUB= ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "A",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "B",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Ø",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "U",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Thp mean proportional between a and b is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "root(ab)",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "ab",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "a/b",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "-ab",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "For matrix A, (A^t)^-1 ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "A^-2",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "A",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "A^-1",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "A^2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "If α,β are the roots of x^2 - 2x - 15 = 0, then the value α^2 + β^2 = ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "34",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "-34",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "26",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "-26",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "An improper fraction can be reduced into proper fraction by",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Addition",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Multiplication",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Subtraction",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Division",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The ungrouped data must be ordered first to find ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "A.M",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Mode",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Median",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Range",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "if 5 cm and 12 cm are two sides of a right angled triangle. Then hypotenuse is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "16 cm",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "15 cm",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "14 cm",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "13 cm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Two equilateral triangles are also______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Congruent",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Similar",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Proportional",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Equivalent",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Inscribed angle of ______ is obtuse.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Minor arc",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Major arc",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Semi-circle",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Angle between tangent and radial segment at the point of contact angle.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Right",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Obtuse",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Acute",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Reflex",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The sum fo central angles of all the arcs of a circle is ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "90 degrees",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "108 degrees",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "120 degrees",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "135 degrees",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The ungrouped data must be ordered first to find",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "A.M",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Mode",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Median",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Range",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "If 5 cm and 12 cm are two sides of a right angled triangle. Then hypotenuse is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "16 cm",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "15 cm",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "14 cm",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "13 cm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "Two equilateral triangles are also",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Congruent",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Similar",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Proportional",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Equivalent",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Inscribed angle of is obtuse.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Minor arc",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Major arc",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Semi-circle",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "Angle between tangent and radial segment at the point of contact angle.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Right",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Obtuse",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Acute",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Reflex",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "The maximum number of common tangents between two circles touching externally is ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group I",
+   "q_en": "Diameter divides the circle into ______ parts.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Two",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Three",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Four",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group I",
+   "q_en": "Each interior angle of regular hexagon is equal to ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "90 degrees",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "108 degrees",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "120 degrees",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "135 degrees",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

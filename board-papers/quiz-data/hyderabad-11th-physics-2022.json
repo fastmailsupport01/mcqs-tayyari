@@ -1,0 +1,1214 @@
+{
+ "board": "BISE Hyderabad",
+ "board_slug": "hyderabad",
+ "class": "11th",
+ "subject": "Physics",
+ "year": 2022,
+ "slug": "hyderabad-11th-physics-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Time period is reciprocal of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Frequency",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Wave length",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Velocity",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Distance",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "If mass is attached to a spring then its time period is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Increases",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Decreases",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Remains constant",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "In double slits experiment for constructive interference the condition is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "d sinθ = mλ",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "d sinθ = (m+1/2)λ",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "2 d sinθ = mλ",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "2 d sin²θ = (m+1/2)λ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "In Michelson's interferometer, the wave length of light is given as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "λ = x/m",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "λ = 2m/m",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "λ = 2x/m",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "mx²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Who proposed wave theory of light:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Kepler",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Huygens",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Galelio",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Issac Newton",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The sound waves having frequency less than 20Hz is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Infrasonic",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "ultrasonic",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "andiable",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The unit of power of lens is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Hertz",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Bell",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Dyne",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Dioeters",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The unit of power of lens is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Hertz",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Bell",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Dyne",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Dipoters",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The power of a lens be one meter the focal length will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "2.5 m",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "1 diopter",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "3 dipoter",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "4 dipoter",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Simple microscope consists of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "One convex lens",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "two convex lens",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "One concave lens",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Two concave lens",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Torque is also called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Moment of force",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Momentum",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Moment arm",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "It is the perpendicular distance from the axis of rotation to the direction of force, is called ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Moment arm",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Moment of force",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Angular momentum",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "The magnitude of angular momentum is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "e Fsin θ",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Fd sin θ",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "rP sin θ",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Fv sinθ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "The weight of an object would be minimum, when it is placed at the:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Surface of earth",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Centre of earth",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Equator",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Pole",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "The approximate value of the average density of earth is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "5.5 x 103 Kg/m^3",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "6.5 x 103 Kg/m^3",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "7.5 x 105 Kg/m^3",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "8.5 x 103 Kg/m^2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "The value fo gravitational constant G is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "6.63 x 10^-34 N.m^2/Kg^2",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "6.2 x 10^-24 Nm^2/Kg^2",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "6.67 x 10-11 N.m2/Kg2",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "6.67 x 10^11 Nm/Kg^2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "Pull of the earth on mass of 20 Kg on the surface fo earth is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "20N",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "19.6 N",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "196 N",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "1.96 N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group I",
+   "q_en": "Power is defined as, the rate of doing work and is expressed as :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "P x W x t",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "P = ΔW/Δt",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "P = F.V",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Both (a) (c)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group I",
+   "q_en": "½ horse power = ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "746 Watts",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "726 Watts",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "373 Watts",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "363 Watts",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group I",
+   "q_en": "S.I Unit of work is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "It possesses maximum P..E",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Newton second",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Newton cm",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "group": "Group I",
+   "q_en": "A body is performing SHM, at the mean position:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "It possesses maximum P.E",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Its acceleration is maximum",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Its acceleration is zero",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Its velocity is zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "group": "Group I",
+   "q_en": "Acceleration due to gravity near the earth surface is ______ if air friction is ignored.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "980 cm/sec^2",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "32 ft/sec^2",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "9.8 m/sec^2",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "group": "Group I",
+   "q_en": "Unit of momentum is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Joule",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Watt",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Kg m/sec",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Newton",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "group": "Group I",
+   "q_en": "Self adjusting force is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Friction",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Gravity",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Centripetal force",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Weight",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 25,
+   "group": "Group I",
+   "q_en": "In the absence of air resistance the horizontal component of velocity ______ during projectile motion:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Increases",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Decreases",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Remains constant",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 26,
+   "group": "Group I",
+   "q_en": "To get maximum horizontal range, the projectile must be launched at an angle of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "15o",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "45o",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "60o",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "90o",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 27,
+   "group": "Group I",
+   "q_en": "One radian is the angle subtended at the centre by an arc exactly time graph",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Half of the circumference of circle",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Diameter of circle",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Circumference of circle",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Radius of circle",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 28,
+   "group": "Group I",
+   "q_en": "The projectile moves with uniform velocity, then the distance time graph is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Hyperbola",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Parabola",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "curve",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "straight line",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 29,
+   "group": "Group I",
+   "q_en": "Which of the following types of force cannot do work on a body?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "centripetal force",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Elastic force",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Gravitational force",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Coulomb force",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 30,
+   "group": "Group I",
+   "q_en": "When body moves along a circular path its velocity:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Remain same",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "becomes zero",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "some time changes",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "changes continuously",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 31,
+   "group": "Group I",
+   "q_en": "The force needed to move a body around a circular a circular path is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Centripetal force",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Centripetal acceleration",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Centrifugal force",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Gravitational force",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 32,
+   "group": "Group I",
+   "q_en": "The turning effect of force is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Angular momentum",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Torque",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Linear momentum",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Work",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 33,
+   "group": "Group I",
+   "q_en": "The branch of physics which deals with the atomic nuclei is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Solid state physics",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Medical physics",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Nuclear physics",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 34,
+   "group": "Group I",
+   "q_en": "Dimensions of work are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "MLT^2",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "M^2LT^2",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "ML^2T^2",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "ML^2T^-2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 35,
+   "group": "Group I",
+   "q_en": "The vector product of two equal vector is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "A vector",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Null vector",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "square of vector",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Unit vector",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 36,
+   "group": "Group I",
+   "q_en": "MT^-2L^2 is the dimensions of :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Velocity",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Momentum",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Power",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Torque",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 37,
+   "group": "Group I",
+   "q_en": "If A = 10 N East, then -A = -10N:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "West",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "North",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "South",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 38,
+   "group": "Group I",
+   "q_en": "The scalar product of two vectors A and B can be written as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "A.B = AB cosθ",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "A.B = AB cosθ",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "A.B = AB sinθ",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 39,
+   "group": "Group I",
+   "q_en": "Null vector is a vector having zero magnitude and:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Specific direction",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Arbitrary direction",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "No director",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Opposite director",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 40,
+   "group": "Group I",
+   "q_en": "The magnitude of vector 2i + 3j + 6k is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "11",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "36",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "9",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 41,
+   "group": "Group I",
+   "q_en": "If A = Axi + Ayj + Azk and B = Bxi + Byj + Bzk, then:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "A x Bx - AyBy - AzBz",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Ax Bx + AyBy + AzBz",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Ax By + AyBz + AzBx",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "AxBz + ayBx + AzBy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 42,
+   "group": "Group I",
+   "q_en": "In vector product, a vector multiplied with itself will in a ______ magnitude.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Double",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Half",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 43,
+   "group": "Group I",
+   "q_en": "The weight of a body falling freely will be ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "mg",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "mg -6πrη",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "mg +",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

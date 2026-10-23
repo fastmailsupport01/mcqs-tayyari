@@ -1,0 +1,402 @@
+{
+ "board": "BISE Hyderabad",
+ "board_slug": "hyderabad",
+ "class": "9th",
+ "subject": "Computer Science",
+ "year": 2023,
+ "slug": "hyderabad-9th-computer-science-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The device that converts hard copy into soft copy is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "printer",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "plotter",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "scanner",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "barcode reader",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The volatile memory:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "is permanent",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "loses contents as the power is disconnected",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "possesses large storage",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "manages hardware resources",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The software which performs all basic tasks is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "antivirus",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "start menu",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "operating system",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "office automation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "A program that enables user to interact with computer is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "my document",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "start menu",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "desktop",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "interface",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The topology in which all computers are connected to a central device called hub is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Bus",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Star",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Ring",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Tree",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The process of checking computer, starting operating system and aking it ready to work is referred to as;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "resources management",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "booting",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "error checking",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "file management",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Charts' ar basically used to ________ purpose.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Show the quantities and their relationship graphically",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Design table",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Organised data table",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Sort data in different columns",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "A collection of wires connecting the CPU with main memory that is used to identify particular locations is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "control bus",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "data bus",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "address bus",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "memory bus",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "________ is a legal instrument that provides legal rights for program designer or auther.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Patent",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Copy Rights",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Trade mark",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "stamp paper",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The software which performs all basic tasks is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "antivirus",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "start menu",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "operating system",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "office automation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The number of user(s) that can access t he resources simultaneously on a Multiuser OS is / are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "one",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "two",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "many",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "only administrators",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The group of programs that helps office workers to do a number routine task easily and efficiently is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "operating system",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "e-mail",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "anti-virus",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "office automation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Charts are basically used to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "design tables",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "organize data in tables",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Short data in different columns",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "show the quantities and their relationships graphically",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "The tag used to automatically add line space before and after the containing text",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "<br>",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "<hr>",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "<p>",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "<pre>",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

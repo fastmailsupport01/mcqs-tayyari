@@ -1,0 +1,514 @@
+{
+ "board": "BISE Hyderabad",
+ "board_slug": "hyderabad",
+ "class": "12th",
+ "subject": "Mathematics",
+ "year": 2023,
+ "slug": "hyderabad-12th-mathematics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "∫ (ax + b)/(ax² + 2bx + c) dx = ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "2 ln|ax²+2bx+c| + c",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "ln|ax + b| + c",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "ln|ax²+2bx+c| + c",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "(1/2) ln|ax²+2bx+c| + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "If A = ∫√(1−cos²x) dx, then A = ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "-2",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The point of concurrent of altituds of a triangle is called ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Circum-centre",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "In-centre",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Centroid",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Orthocentre",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "ax² + 2hxy + by² = 0 represent a pair of orthogonal lines If sum of the coefficients of x and y is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "If 90° < θ < 180°, then slope is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Undefined",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Positive",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Negative",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Same",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "lim (1 − 3x)^(2/x) = ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "e³",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "e⁴",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "e⁻⁶",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "e⁻³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "A function f: A → B is said to be ______, if the range of f is B.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Bijective",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Surjective",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Injective",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "∫ 1/(x ln x) dx = ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "ln|x| + c",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "ln|lnx| + c",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "lnx + c",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "(1/x) lnx + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The distance between two parallel lines 4x + 3y + 2 = 0 and 4x + 3y + 8 = 0 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "13/2",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "59/2",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "6/5",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "2/5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "If the slope of tangent is √3, then the angle is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "30°",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "(1, 5) ∩ [3, 7]",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "(1, 7]",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "(3, 5)",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "[3, 5)",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "(3, 5]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "If f(x) = √(x+2) then range of f is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "(0, ∞)",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "(−∞, +∞)",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "(−2, +∞)",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "[−2, 2]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "If y = 5e^(3x−4), then dy/dx = ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "15e^(3x−4)",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "5e^(3x+4)",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "e^(3x−4)/3",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "(3x − 4)e^(3x−4)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "The vertex of the parabola y = 5(x−2)² + 7 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "(2, 0)",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "(2, −7)",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "(−2, 7)",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "(2, 7)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "The set S(c, r) = {p(x,y): | |cp| = r} contains centre c if:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "r = 0",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "r < 0",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "r > 0",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "r = ∞",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "∫ e^(3x)(3 sin x + cos x) dx = ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "e^(3x) sin x + c",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "3e^(3x) sin x + c",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "e^(3x) cos x + c",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None fo these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "If u, v, w are contermious edges of a parallelepiped, then its volume is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "|u × v|",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "[u v w]",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "u·v·w",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "u × v × w",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group I",
+   "q_en": "The centre of circle 3x² + 3y² + 6x + 12y − 9 = 0 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "(2, −4)",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "(1, −2)",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "(−2, 4)",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "(−1, 2)",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

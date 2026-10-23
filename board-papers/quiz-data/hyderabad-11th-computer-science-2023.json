@@ -1,0 +1,850 @@
+{
+ "board": "BISE Hyderabad",
+ "board_slug": "hyderabad",
+ "class": "11th",
+ "subject": "Computer Science",
+ "year": 2023,
+ "slug": "hyderabad-11th-computer-science-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The device that converts hardcopy into softcopy is ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Scanner",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Printer",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Plotter",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Router",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "All electronic components of a computer are connected to each other through single integrated circuit board named the ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Modem",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Optical Disc",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Motherboard",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Punch Card",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Barcode reader is an ______ device.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Output",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Input",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Input & Output",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "VPN stands for ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Virtual Protocol Network",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Virtual Public Network",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Virtual Private Network",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Both (a) & (b)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "A translation program used to convert a low-level language instruction into machine code is called n ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Assembler",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Compiler",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Interpreter",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Both (a) & (b)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Personal Computer are also known as ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Mini Computer",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Micro Computer",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Mainframe Computer",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Super Computer",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "______ device is known external storage media.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Flash drive",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Modem",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "NIC",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "VGA Card",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "A group of 8 bits is called ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "1 byte",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "1MB",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "2GB",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "1TB",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "______ allows computers to be connected to the network directly without use hub.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Star Topology / Network",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Bus Topology / Network",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Ring Topology / Network",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Translating voice into text is a capability known as ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Voice transmission",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Voice recognition",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Voice repletion",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Voice communication",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "A vast is the type of ______ software.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Operating System",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Networking Software",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Antivirus Software",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Both (a) & (b)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "(101101)2 = (?)10",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "65",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "55",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "45",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "75",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "______ is used to carries command between different components to control all activities in a computer",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Data Bus",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Control Bus",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "address Bus",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Registers",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "(845)10 = (?)2",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "1011101",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "1110110",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "1111111",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "1000101",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Truth table is a way of representing ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Boolean Function",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Boolean algebra",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Boolean Law",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "The latest processor for PC is ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Core 13",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Core 15",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Core 17",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Core 19",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "USB stands for ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Ultra Serial Bus",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Unlimited Serial Bus",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Unified Serial Bus",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Universal Serial Bus",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group I",
+   "q_en": "Which of the following is apart of the Central Processing Unit?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Printer",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Memory Unit",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "ALU",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Both (b) & (c)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group I",
+   "q_en": "A Computer cannot boot is it does not have the ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Compiler",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Interpreter",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Operating System",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Assembler",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group I",
+   "q_en": "Vacuum Tube was invented in ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "1901",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "1906",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "1910",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "1912",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "group": "Group I",
+   "q_en": "The computer size was very large in ______ generation.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "2nd",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "1st",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "3rd",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "4th",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "group": "Group I",
+   "q_en": "The output quality of printer is measured by ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Dot per Inch",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Dot per Square",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Dot per metter",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "group": "Group I",
+   "q_en": "The chief of Microsoft Company is ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Bill Smith",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "William Smith",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Bill Gates",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "William Gates",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "group": "Group I",
+   "q_en": "BIOS stands for ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Basic Input Output Server",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Basic Input Output System",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Beginners Input Output System",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 25,
+   "group": "Group I",
+   "q_en": "______ memory is both static and non-volatile.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "RAM",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "ROM",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Cache",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 26,
+   "group": "Group I",
+   "q_en": "______ are the operating system",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Windows",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "IOS",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Linux",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 27,
+   "group": "Group I",
+   "q_en": "In Mesh Topology, devices are connected via ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Multtipoint Link",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Point to Point Link",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Inter Linked",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 28,
+   "group": "Group I",
+   "q_en": "______ gate is a digital circuit that has a single input and a single output.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "AND",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "NOT",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "OR",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 29,
+   "group": "Group I",
+   "q_en": "A + A = A is a ______ rule of Boolean algebra.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "3rd",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "5th",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "6th",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "7th",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 30,
+   "group": "Group I",
+   "q_en": "Converting digital signal to analog is called ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Modification",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Modulation",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "De-Modulation",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Multiplexing",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

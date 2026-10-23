@@ -1,0 +1,906 @@
+{
+ "board": "BISE Hyderabad",
+ "board_slug": "hyderabad",
+ "class": "12th",
+ "subject": "Physics",
+ "year": 2023,
+ "slug": "hyderabad-12th-physics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Mathematical expression for potentiometer is given by ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "E1/E2 = L1/L2",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "E1/E2 = L1/L1",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "E1 L1 = E2 L2",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "E1 E2 = L1 L2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "P.O Box is used for the measure ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Current",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Voltage",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "emf",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Resistance",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The process in which alternative current into direct current is ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Amplification",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Rectification",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Both a and b",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Momentum of photon, from the theory of relativity is related by ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "P = hc/f",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "P = hf/c",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "P = hcf",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "If energy of incident photon is less then ______ no pair production will take place.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "0.311 Mev",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "3.5 Mev",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "mₒc²",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "2 mₒc²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The wavelength of last spectral line is Lyman series is equal to ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "R_H",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "R²_H",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "1/R_H",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "1/R_H",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The energy of X − ray photon is ______ the energy of photon of ultra − violate light.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Equal to",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Less than",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Greater than",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Depends on velocity of",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Due to the alpha decay the mass number of atom ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Decreased by two",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Decreased by four",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Increased by two",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Increased by four",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Lenz's law is in accordance with the law of conservation of ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Momentum",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Energy",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Angular Momentum",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The transformer in which secondary voltage is less than primary voltage is called ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Step up Transformer",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Step down Transformer",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Rectifier",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Amplifier",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The transformer has 1000 turns in the primary and 200 in the secondary , if input current is 2A. What will be its output current?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "10 A",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "0.4 A",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "12 A",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "______ is a device that raises the strength of a weak signal.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Transistor",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Amplifier",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Ammeter",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Voltmeter",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Photocell is a device which converts ______ energy into ______ energy.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Chemical , Light",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Light , Electrical",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Chemical , Electrical",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Electrical , Light",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "The speed of x − ray photon is always ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Equal to C",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Greater than C",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Less than C",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Depends upon intensity",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "The Balimer series lies in the ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Infrared region",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "For infrared region",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Ultraviolet region",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Visible region",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "In any reaction ₉₀Th²²⁷ makes alpha decay the daughter element will be ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "₃₆Kr³⁹",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "₅₆Br¹⁴⁴",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "₉₂U²³⁵",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "₈₈Ra²²³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "The quantity of matter such that it's mass in grams in numerically equal to the ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Molecular Formula",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Molecular Weight",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "One Mole",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Suspected Mass",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group I",
+   "q_en": "In an isobaric process the work done is equal to ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "RΔV/n",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "C_p/nΔv",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "C_v/nΔv",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "nRΔT",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group I",
+   "q_en": "The S.I unit of electric field intensity is ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Newton/ Coulomb",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Volt/ Mater",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Both (a) and (b)",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group I",
+   "q_en": "Electron volt is the unit of ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Power",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Energy",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Potential Difference",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Both a and c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "group": "Group I",
+   "q_en": "What is a current passing in 5 x 10⁶ ohm resistor if it is provided p.d of 5KV?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "10⁻¹ A",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "10⁻⁴ A",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "1 m A",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "group": "Group I",
+   "q_en": "If one ampere current flow through a conductor for one hour, how much charges flow through area of cross section of conductor?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "3600 C",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "7.2 x 10³",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "1 C",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "group": "Group I",
+   "q_en": "Tesla is the unit of ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Magnetic Flux",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Electric Flux",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Magnetic flux Density",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "group": "Group I",
+   "q_en": "The direction of induced current in a certain coil can easily be found by using ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Right hand rule",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Faraday's law",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Lenz's law",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Both (a) and (c)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 25,
+   "group": "Group I",
+   "q_en": "The penetrating power of neutron is ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Very low",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Medium",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Very high",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 26,
+   "group": "Group I",
+   "q_en": "The specific heat of water is ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "4.2 x 10³ Joule",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "One kilo Calorie",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "One Calore",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 27,
+   "group": "Group I",
+   "q_en": "Heat can not be measured in ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Calorie",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "B.T.U",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Joule",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Centigrade",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 28,
+   "group": "Group I",
+   "q_en": "The Coulomb's force ______ when any material medium is palced between two charges.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Increases",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Decreases",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Remains Same",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 29,
+   "group": "Group I",
+   "q_en": "The Ssurface density of charge is define as charge per unit ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Volume",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Length",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Area",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Mass",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 30,
+   "group": "Group I",
+   "q_en": "1 Coloumb per one volt is equal to ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "One Joule",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "One Ampere",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "One Calorie",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "One Farad",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 31,
+   "group": "Group I",
+   "q_en": "The graph between current and voltage for ohm's law is ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Hyperbola",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Ellipse",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Straight Line",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Parabola",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 32,
+   "group": "Group I",
+   "q_en": "Hyb of the following is not unit of magnetic field induction is ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Tesla",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Newton/Ampere Meter",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Weber/Meter²",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Newton per volt",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

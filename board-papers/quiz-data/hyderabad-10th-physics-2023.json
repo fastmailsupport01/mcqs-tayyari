@@ -1,0 +1,346 @@
+{
+ "board": "BISE Hyderabad",
+ "board_slug": "hyderabad",
+ "class": "10th",
+ "subject": "Physics",
+ "year": 2023,
+ "slug": "hyderabad-10th-physics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The magnitude of force between two unit charges when the distance between them is 1 meter would be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "0.N",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "1 N",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "2 N",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Coulmb's Constant",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "If the area of the parallel plate capacitor is doubled then the capacitance will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Remain uncharged",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "half",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Double",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Four times",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "In an Electric circuit when Electrons move from low to high potential they will.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Gain Energy",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Lose their identity",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Lose Energy",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Gain potential",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Oscillation are damped due to the presence of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Linear motion",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Restoring force",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Frictional Force",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Mechanical Force",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "In an oscillating pendulum, the bob accelerates from its extreme position due to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Inertia",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Tension in the string",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Wind",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Gravitational force",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Which type of wave can not travel through a Vacuum",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Sound Waves",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Infra-red radiation",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Microwaves",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "X-rays",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Sound is a form of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Electrical energy",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Mechanical energy",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Thermal energy",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "chemical energy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Ohm's law is not applicable to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Semi-conductors",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "D.0 circuit",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Small resistors",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "High current",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The direction of induced e.m.f in a circuit is accordance with conservation of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Mass",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "charge",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "momentum",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "energy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The splitting of a heavy nucleus into smaller nuclei is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Fusion",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Fission",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Half-life",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Gamma-decay",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The type of electromagnetic wave used in security scanners at night is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Infra-red",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Microwaves",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Radio waves",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "X-rays",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The color that is least deviated by a prism.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Violet ray",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Green ray",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Red ray",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Yellow ray",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,654 @@
+{
+ "board": "BISE Hyderabad",
+ "board_slug": "hyderabad",
+ "class": "11th",
+ "subject": "Chemistry",
+ "year": 2023,
+ "slug": "hyderabad-11th-chemistry-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "A simple covalent molecule possesses two bond pairs and two lone pairs around the central atom, its shape should be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "linear",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Planar Trigonal",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "angular",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The correct relation between debye and coulomb meter is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "1D = 3.33 x 10^-30 Cm",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "1D = 1.6 x 10^-19 Cm",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "1D = 1.88 x 10^-12 Cm",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "1D = 1.23 x 10^-9 Cm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The bond order of N2 molecule is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "For Avogadro's number, this statement is incorrect:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "It is the no. of particles in one moles of any substances.",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Its numberical value is 6.02 x 10^23",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Its value change if temperature increases",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Its value change if number of moles increases",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The minimum number of moles are present in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "1 dm3 of methane gase at STP",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "5 dm³ of helium gas at STP",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "10 dm3 of hydrogen a gas at STP",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "22.4 dm³ of chlorine gas at STP",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "In 1935 A.D James Chadwick was awarded Nobel Prize because…",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "He Discovered proton",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "He discovered neutron",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "He determined the radius of hydrogen atom",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "He gave the rule for electronic configuration",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "When 4d orbital is filled, the next electron enter into",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "5s",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "5p",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "5d",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "6s",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "According to Graham's Law of diffusion, the ratio of diffusion of H2 and O2 are respectively.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "1:2",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "2:1",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "1:4",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "4:1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Collection of gas over water is an example of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Graham's law",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Dalton's",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Avogadro's law",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Gaylusac law",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Under similar condition CH4 diffuses ………… Times faster than SO2 gas:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "1.5 time",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "2 time",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "4 time",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "16 time",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The boiling point of water (H2O) is 100°C where as that of hydrogen sulphide (H2S) is 420°C, This can be attributed to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Smaller bond angle of H2S than H2O",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Smaller radii of oxygen than sulphur",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "High I.P of oxygen than sulphur",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Tendency of water to form hydrogen bond",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Liquids can form convex meniscus in a narrow glass tube when:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Cohesive forces are stronger than adhesive forces",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Adhesive forces are stronger than cohesive forces",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Cohesive and adhesive forces are equal in strength",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "The equilibrium of N2(g) + O2(g) ⇌ 2NO(g) (ΔH = +ve) is affected by change in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Temperature only",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Pressure only",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Both and pressure",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Neither temperature nor pressure",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "In reaction A(g) + B(g) ⇌ 2C(g), the equilibrium constants Kp = Kc because:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Δn > 1",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Δn < 1",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Δn = 1",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Δn = 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "The term Elive mass use in law of mass action means:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "No. of mole",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "No. of molecules",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "mole dm3",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "gram per dm3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "In the equilibrium system of PCl5(g) ⇌ PCl3(g) + Cl2(g), the correct relationship between Kc and Kp is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Kp>Kc",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Kp<Kc",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Kp=Kc",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Kp/Kc = 1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "The equilibrium of which of the following reaction would not be affected by an increase in pressure:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "PCl5(g) ⇌ PCl3(g) + Cl2(g)",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "2NO(g) + Cl2(g) ⇌ 2NOCl(g)",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "N2(g)+O2(g) ⇌ 2NO(g)",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "2SO2(g) O2(g) 2NO3(g)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group I",
+   "q_en": "The unit of rate constant (K) for the first order reaction is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "s^-1",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "conc. s^-1",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "conc^-1. s",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "conc.^-1 s^-1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group I",
+   "q_en": "Rate constant of a reaction is affected by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Conc. of reactants",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Conc. of products",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Temperature",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "reaction time",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group I",
+   "q_en": "Identify the incorrect statement about colloidal solution:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "It shows Tyndall effect",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Its particles movement is Brownian type",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Its particle size is less than 1 nm",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Its physical appearance is translucent",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "group": "Group I",
+   "q_en": "For a hypothetical reaction x + y → z, if the conc. of x is double, the rate increases by square and if the conc. of y is doubled the rate increases by twice. The experimental rate law of this reaction is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "R = K [x]^1 [y]^1",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "R = K [x]^1 [y]^2",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "R = K [x]^2 [x]^1",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "R = K [x]^2 [y]^2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "group": "Group I",
+   "q_en": "The unit of rate constant (K) for the first order reaction is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "s^-1",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "conc. s^-1",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "conc^-1. s",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "conc.^-1 s^-1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "group": "Group I",
+   "q_en": "Rate constant of a reaction is affected by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Conc. of reactants",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Conc. of products",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Temperature",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "reaction time",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

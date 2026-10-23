@@ -1,0 +1,850 @@
+{
+ "board": "BISE Hyderabad",
+ "board_slug": "hyderabad",
+ "class": "9th",
+ "subject": "Mathematics",
+ "year": 2022,
+ "slug": "hyderabad-9th-mathematics-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "(a3x + a3y)/(a(x-y)) = ________",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "ax2+ ay2",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "x2 + y2",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "a(x2- xy + y2)",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "a (x2 +xy + y2)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "________ is th e equidistainct for all these sides of a triangle.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "incentre",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Circumcentre",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Orthocentre",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Cntroid",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Base in Natural logearithm is ________",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "e",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "pi",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "How many maximum rootss of a Quadratic equation are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "PQR - m angle P = 65 degrees and m angle Q = 57 degrees then ________ will be teh shortest side.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "PQ",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "QR",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "RP",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Factors of a2 + 2ab + b2 - c2 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "(a-b-c)(a-b-c)",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "(a+b+c)(a-b-c)",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "(a+b+c)(a+b-c)",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "(a+b+c)(a-b-c)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The line x = 6 is parallel to :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "x-axis",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "y-axis",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "both axis",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "(a + b)(a - b)(a2 - b2) = ________.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "(a2 - b2)2",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "a4 - b4",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "(a2 + b2)",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "(a4 + b4)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Solution se of sqrt(y4) = 10 is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "{100}",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "{10}",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "{-10}",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "{-10,10}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The bisector of the angles of a traingle are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Concrurrent",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Collinear",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Unequal",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Do not inersect",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Standard form of Quadratic equation is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "ax2 +bx + c 0, a != 0",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "ax2 + c = 0, a != 0",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "ax2 + bx = 0 a != 0",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "ax3 + bx2 + c = 0, a != 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "sqrt(y)+4 + 2 = 8 is a :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "linear equation",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Radical equation",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "cubic equation",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Quadratic equation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "A triangle havign all the three sides congruent is called ________ triangle.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Scalene",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Right-angled",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "equilateral",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Isosceles",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "HCF of x2 - [illegible in source scan] and x2 - 4xy + 4y2 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "x - 4y",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "x2 + 2xy +- y2",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "x + 2y",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "x - 2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "QUO' = ________",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "R",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "E",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "N",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "W",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "Scientifc notation of 0.00789 is ________.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "7.89 x 103",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "7.89 x 10",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "0.789x102",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "78.9 x 104",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "The value of 't' for which 49x - 42xy + 1 will be a pretect square:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "9",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "9y2",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "3y2",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group I",
+   "q_en": "(5+sqrt5)(5 - sqrt15) is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "15",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "25",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "30",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group I",
+   "q_en": "E4 is closed under:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Division",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Multiplication",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Substraction",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group I",
+   "q_en": "(5i).(-2i) = ________",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "-10",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "-10i",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "10i",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "group": "Group I",
+   "q_en": "log(a/bcd) = ________",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "loga -log b + logc + logd",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "loga - logb + logc - logd",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "loga - logb - logc - logd",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "loga - log - logc + logd",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "group": "Group I",
+   "q_en": "The degree of the 3xy + 5y4 - 10 is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "10",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "group": "Group I",
+   "q_en": "The ________ of a triangle cut each other in the ratio 2:1 :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Altitude",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Median",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "angle bisector",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Right bisector",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "group": "Group I",
+   "q_en": "If the sum of measures of angle A and angle C of a parallelogram ABCD is 140 degrees then angle D will be of ________.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "70 degrees",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "10 degrees",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "140 degrees",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "220 degrees",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 25,
+   "group": "Group I",
+   "q_en": "((x1 + x2)/2, (y1 + y2)/2) is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Mid point formula",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Distance formula",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Division formula",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Ratio formola",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 26,
+   "group": "Group I",
+   "q_en": "________ are the length of sides of a right angle triangle.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "3, 4, and 5",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "4, 3 and 5",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "2, 4,and 6",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 27,
+   "group": "Group I",
+   "q_en": "A point equidistant form the end points of a line segment is on the ________ of it.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Perpendicular",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Right bisector",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Centre",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Bisector",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 28,
+   "group": "Group I",
+   "q_en": "The point (-3, -4) is located in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "1st Quadrant",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "2nd Quadrant",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "3rd Quadrant",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "4th Quadrant",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 29,
+   "group": "Group I",
+   "q_en": "If log10 x = 4, then x = ________",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "500",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "100",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "1000",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "10000",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 30,
+   "group": "Group I",
+   "q_en": "In siplified form 1/(x+y) + y/(x2 + y2) = ________",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "(y+1)/(x2+y2)",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "x/(x2+y2)",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "y/(x2+y2)",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "(y-1)/(x2-y2)",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,598 @@
+{
+ "board": "BISE Hyderabad",
+ "board_slug": "hyderabad",
+ "class": "10th",
+ "subject": "Physics",
+ "year": 2022,
+ "slug": "hyderabad-10th-physics-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "A large ripple tank with a vibrator working at a frequency of 30 Hz produces 25 complete waves in a distance of 50 cm. The velocity of the wave is -1",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "53 cm s",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "60 cm s-1-1 -1",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "750 cm s",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "1500 cm s",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": ".Which of the following characteristics of a wave is independent of the others?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "speed",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "frequency",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "amplitude",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "wavelength",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The relation between v, f and λ of a wave is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "v f = λ",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "f λ = v",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "v λ = f",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "v = λ /",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": ".Image formed by a camera is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "real, inverted, and diminished",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "virtual, upright and diminished",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "virtual, upright and magnified",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "real, inverted and magnified",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "If a ray of light in glass is incident on an air surface at an angle greater than the critical angle, the ray will",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "refract only",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "reflect only",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "partially refract and partially reflect",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "diffract only",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "A positive and a negative charge are initially 4 cm apart. When they are moved closer together so that they are now only 1 cm apart, the force between them is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "4 times smaller than before",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "4 times larger than before",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "8 times larger than before",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "16 times larger than before",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Five joules of work is needed to shift 10 C of charge from one place to another. The potential difference between the places is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "0.5 V",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "2 V",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "5 V",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "10 V",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Two small charged spheres are separated by 2 mm. Which of the following would produce the greatest attractive force?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "+1q and +4q",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "-1q and -4q",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "+2q and +2q",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "+2q and -2q",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "What happens to the intensity or the brightness of the lamps connected in series as more and more lamps are added?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "increases",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "decreases",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "remains the same",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "cannot be predicted",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Why should household appliances be connected in parallel with the voltage source?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "to increase the resistance of the circuit",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "to decrease the resistance of the circuit",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "to provide each appliance the same voltage as the power source",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "to provide each appliance the same current as the power source",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The step-up transformer",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "increases the input current",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "increases the input voltage",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "has more turns in the primary",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "has less turns in the secondary coil",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The turn ratios of a transformer is 10. It means",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Is = 10 Ip",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Ns p = N/10",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Ns = 10 Np",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Vs p = V/10",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "When Uranium (92 protons) ejects a beta particle, how many protons will be in the remaining nucleus?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "89 protons",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "90 protons",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "91 protons",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "93 protons",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "Which of the following is an example of simple harmonic motion?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "the motion of simple pendulum",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "the motion of ceiling fan",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "the spinning of the Earth on its axis",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "a bouncing ball on a floor",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "If the mass of the bob of a pendulum is increased by a factor of 3, the period of the pendulum's motion will",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "be increased by a factor of 2",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "remain the same",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "be decreased by a factor of 2",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "be decreased by a factor of 4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "Which of the following devices can be used to produce both transverse and longitudinal waves?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "a string",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "a ripple tank",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "a helical spring (slinky)",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "a tuning fork",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "The loudness of a sound is most closely related to its",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "frequency",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "period",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "wavelength",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "amplitude",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group I",
+   "q_en": "For a normal person, audible frequency range for sound wave lies between",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "10 Hz and 10 kHz",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "20 Hz and 20 kHz",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "25 Hz and 25 kHz",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "30 Hz and 30 kHz",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group I",
+   "q_en": "An object is 14 cm in front of a convex mirror. The image is 5.8 cm behind the mirror. What is the focal length of the mirror?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "-4.1 cm",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "-8.2 cm",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "-9.9 cm",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "-20 cm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group I",
+   "q_en": "The index of refraction depends on",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "the focal length",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "the speed of light",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "the image distance",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "the object distance",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "group": "Group I",
+   "q_en": "Which type of image is formed by a concave lens on a screen?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "inverted and real",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "inverted and virtual",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "upright and real",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "upright and virtual",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

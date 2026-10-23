@@ -1,0 +1,514 @@
+{
+ "board": "BISE Hyderabad",
+ "board_slug": "hyderabad",
+ "class": "11th",
+ "subject": "Mathematics",
+ "year": 2023,
+ "slug": "hyderabad-11th-mathematics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "If z1 and z2 are any two complex numbers, then:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "|z1 + z2| < |z1| + |z2|",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "|z1 + z2| ≤ |z1| + |z2|",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "|z1 − z2| < |z1| − |z2|",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "|z1 + z2| ≥ |z1| + |z2|",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "If z = 3i − 4, then z + z̅ = ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "-3i",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "-8",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "(3i - 8)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "If a > 0 and b < 0, then ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "ab > 0",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "ab < 0",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "ab = 0",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "all of them",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "If a matrix A has m row and n column, then order of A is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "m x n",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "n x m",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "mn",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "m^n",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Any matrix of order m x 1 is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Row matrix",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Column matrix",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "square matrix",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "zero matrix",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "A square matrix A is skew symmetric if:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "A^t = A",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "A^t = -A",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "(A^t)^t = A",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "A square matrix A is Hermitian matrix if:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "A^t = A",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "A^t = -A",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "(Ā)^t = A",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "(Ā)^t = -A",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Each diagonal element of main diagonal of a skew Hermitian matrix must be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Any non-zero number",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Any complex number",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "If |a b; 0 7| = |2 3; 0 -9| = then ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "a = -3",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "a = b",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "a = 1/3",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "a = -31",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The magnitude of a⃗ x b⃗ represents the ______ of a parallelogram with adjacent sides a⃗ and b⃗.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Opposite sides",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "diagonal",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "area",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "volume",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The volume of tetrahedron determined by vectors a⃗, b⃗ and c⃗ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "[a⃗, b⃗, c⃗]",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "1/3[a⃗, b⃗, c⃗]",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "1/6[a⃗, b⃗, c⃗]",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "a⃗ . (b⃗ , c⃗) = ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "a⃗ . b⃗ , c⃗",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "a⃗ x b x , c⃗",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "b⃗ . (a⃗ x c⃗)",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "(a⃗ x b⃗) . c⃗",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "If a_n, a_{n+1} = n + 1 and a_4 = 14 then a_5 =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "14",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "20",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "A sequence {a_n} in which a_{n+1} - a_n is the same number for all n ∈ N is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "A.P",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "G.P",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "H.P",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "If a_{n-1}, a_n, a_{n+1} are in A.P, then a_n is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "A.M",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "G.M",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "H.M",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Mid-point",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "tan^-1(-x) = ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "-tan^-1 x",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "π - tan^-1 x",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "cot^-1 x",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "tan^-1 x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "Tan^-1(-1) = ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "π/4",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "-π/4",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "π/2",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "π/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group I",
+   "q_en": "The product of two conjugate complex number is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "A real number",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "An imaginary number",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Always zero",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Not defined",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

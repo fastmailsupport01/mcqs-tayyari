@@ -1,0 +1,425 @@
+{
+ "board": "BISE Hyderabad",
+ "board_slug": "hyderabad",
+ "class": "12th",
+ "subject": "Computer Science",
+ "year": 2023,
+ "slug": "hyderabad-12th-computer-science-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "______ is a relatively simple high-level language that was developed to help students learn programming.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "BASIC",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "COBOL",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "C",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "All of the above",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "In preparing a program, one should first.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "plan the solution",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "decoument the program",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "a ++ is equivalent to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "a = a + 1",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "a + 1 = a",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "a + = 2",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "______ statement is used for Input in C.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Printf ()",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Scanf",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Clrscr ()",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Main ()",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Which of the following keyword is not use din switch statement?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "if",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "default",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "break",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "case",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Which of the following statement is also known as counter loop?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "if",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "while",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "for",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "switch...case",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Function protoypes for built-in functions are specified in ______ files",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Source file",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Object file",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Header file",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Image file",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The C was developed in ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "1972",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "1982",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "2002",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "2012",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Which is the following format specifier is used for character data type?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "% d",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "% c",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "% s",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "% lu",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "How many control structure are used in C?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "7",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The delay () function is declared in which header file.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "conio-h",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "dos.h",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "stdio.h",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "stdlib.h",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "______ escape sequence is used for display output in new line.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "\\a",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "\\n",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "\\t",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "\\r",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "The value cannot changed during execution of program is called ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Variable",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Reserved word",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Constant",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Casting",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "Which of the following is valid character constant?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "x",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "\"x\"",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "'x'",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "<, >, <=, >=, !=, == are ______ operators.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Arithmetic",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Logical",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Relational",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Assignment",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

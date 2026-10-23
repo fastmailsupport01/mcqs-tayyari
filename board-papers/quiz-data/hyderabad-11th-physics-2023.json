@@ -1,0 +1,822 @@
+{
+ "board": "BISE Hyderabad",
+ "board_slug": "hyderabad",
+ "class": "11th",
+ "subject": "Physics",
+ "year": 2023,
+ "slug": "hyderabad-11th-physics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Al-Shifa an encyclopedia of philosophy was written by ------",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Al-eruni",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Ibn-e-Sina",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Ibn-ul-Haitham",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Al-Razi",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Pound is the unit of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Mass",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Energy",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Weight",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Torque",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The dot product between two identical unit vectors is equal to -------.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "i",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "One",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "2i",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The components of a vector are such as x is +ve and y is –e then vector lies in ------ quadrant.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "1st",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "2nd",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "3rd",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "4th",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The dimensions of angular velocity, frequency is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "M⁰L¹T¹",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "M¹L¹T⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "M⁰L⁰T⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "M¹L¹T⁻²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "------ of the following is one dimensional motion.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "The wheels of a moving train",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "The earth revolving round the sun",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "A train running on a straight track",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Electron moving around the nucleus",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The speed of projectile v at any instant is equal to -------.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "(v_x² + v_x²)",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "(v_x² + v_y²)²",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "(v_x² + v_y²)^1/2",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "(v_x + v_y)²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "It is assumed that in projectile motion the acceleration along vertical direction will ------",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Decrease",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Increase",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Remain the same",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The time period of rotating body is given by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "T = 2πω",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "T = 4π²ω",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "T = 4π²ω²",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "T = 2π/ω",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "A person whose weight is 150 pound on the earth, on the moon his weight will be approximately -------.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "20 pounds",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "30 pounds",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "120 pounds",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "150 pounds",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The term torque is synonymous with -------.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Moment of force",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Moment of inertia",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Angular momentum",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Linear momentum",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The moon complete one revolution around the earth in -------.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "365.3 days",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "29.5 days",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "27.3 days",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "30 days",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "The KWh is the unit of -------.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Work",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Power",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Pressure",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "When the length of pendulum doubled, its time period becomes -------.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Halved",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "1.41 times",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Doubled",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Remain same",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "A form of energy that produced sensation in our auditory system is known as -------.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Phase",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Wave front",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Sound",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Sensational energy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "E-rays are not diffracted though grating because X-rays having -------.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Very short frequency",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Very short wavelength",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Large Amplitude",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "The erect image by convex lens is possible when distance of object is ----.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Less than focal length",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Equal to focal length",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Greater than focal length",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Equal to double the focal length",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group I",
+   "q_en": "The author of Kitab-ul-Masoodi was -------.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Al-Beruni",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Ibn-e-Sina",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Ibn-ul-Haitham",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Al-Razi",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group I",
+   "q_en": "Light year is the unit of -------.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Light",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Distance",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Time",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group I",
+   "q_en": "The division of a vector A⃗ by a positive number in is given by B⃗ = |m|A⃗ where m = 1/n the direction of B⃗ is ------",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Same as A⃗",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Opposite to A⃗",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Perpendicular to itself",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "group": "Group I",
+   "q_en": "If resultant of two forces having magnitudes 13N and 13N acting on a point is 13N, then angle between two forces is -----",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "0⁰",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "60⁰",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "90⁰",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "120⁰",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "group": "Group I",
+   "q_en": "If 1 kg and 1 gm Massive bodies are dropped from the same height simultaneously then ------- (Assume friction is zero).",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "1kg will reach the ground earlier",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "1gm will reach the ground earlier",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Both will reach the ground at the same time",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Depends upon nature of the mass",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "group": "Group I",
+   "q_en": "The property of matter by virtue of which it remains or tries to remain in its original state is known as -------.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Force",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Inertia",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Friction",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Viscosity",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "group": "Group I",
+   "q_en": "The velocity of projectile is maximum at -------.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Target",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Point of projection",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Both (a) & (b)",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Highest point",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 25,
+   "group": "Group I",
+   "q_en": "Centripetal force and centrifugal force are always -------.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Parallel to each other",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Anti parallel to each other",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Perpendicular to each other",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 26,
+   "group": "Group I",
+   "q_en": "The S.I unit of Angular momentum is -------.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "N.S",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "J.S",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "J.m",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "N.m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 27,
+   "group": "Group I",
+   "q_en": "The dimensions of gravitational constant are -------.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "L³M⁻¹T⁻²",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "L²M²T⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "L¹M⁻¹T⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "L¹M⁻²T⁻³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 28,
+   "group": "Group I",
+   "q_en": "If the velocity of body “A” is double than body “B” both having same mass then the ratio of K.E of both is --------.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "1 : 2",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "2 : 21",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "4 : 21",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "1 : 4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 29,
+   "group": "Group I",
+   "q_en": "A body executes S.H.M having maximum velocity -------.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "v₀ = x√(k/m)",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "v₀ = x₀ω",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "v₀ = x − v_x/√(x = x²/x₀²)",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

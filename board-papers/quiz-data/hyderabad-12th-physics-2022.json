@@ -1,0 +1,1214 @@
+{
+ "board": "BISE Hyderabad",
+ "board_slug": "hyderabad",
+ "class": "12th",
+ "subject": "Physics",
+ "year": 2022,
+ "slug": "hyderabad-12th-physics-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "If the temperature of a cold body decreases, efficiency of heat angine wil ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Increase",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Decrease",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Remains same",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Normal human body temperature on Celsius scale is ______ oC.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "37",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "40.6",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "98.6",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "96.4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Two parallel conductors carrying current in same direction, they ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Attract each other",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Repel each other",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Neutralize each other",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Lenz;s Law predicts the ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Direction of induced emf",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Direction of induced current",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Magnitude of induced emf",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Magnitude of induced current",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "S.I Unit of co-efficient of thermal expansion is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "K-1",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "k",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "mK",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "m/k",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "By moving a charge of 20 Coulombs 200 J of work is done, then the potential difference between the points.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "10V",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "8 V",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "5 V",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "2 V",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "If we increase the distance between tow plates of the capacitor, the capacitance will:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Increase",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Decrease",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Remains same",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "First increase then decrease",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The total resistance in a series is equals to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Product of all resistance",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Sum of all resistance",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Half of the sum of all resistance",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Laser is an intense beam of light, which is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Monochromatic",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Coherent",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Collimated",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "X-rays have the same essential nature as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Alpha rays",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Beta rays",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Gamma rays",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Positive rays",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The process of scattering of an X-ray photon by an electron is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Compton effect",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Photoelectric effect",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Pair production",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Annihilation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Half life of a radioactive element can be calculated by formula:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Ammeter always connected ______ in circuit.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Perpendicular",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Parallel",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Series",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "For pair production the minimum energy of photon is ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "0.76 MeV",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "0.511 MeV",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "2.11 MeV",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "1.022 MeV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "The amount of energy equivalent 1 a.m,u is ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "931.5 MeV",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "0.511 MeV",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "2.11MeV",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "1.022 MeV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "S.I unit of electric field intensity is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "N/S",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "N/C",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "0.315 MeV",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "0.9315 MeV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "The intensity of magnetic field near its pole is ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Maximum",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Minimum",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Variable",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group I",
+   "q_en": "In electromagnetic waves electric and magnetic fields are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Parallel to each other",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Perpendicualr ot each other",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Opposite to each other",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group I",
+   "q_en": "For each material emission occurs only for certain definite frequency of light called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Critical frequency",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Threshold frequency",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "High frequency",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group I",
+   "q_en": "Number of electron in one Coulomb charge are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "9.11 x 10^-31",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "1.6 x 10^-10",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "8.25 x 10^16",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "0.25 x 10^-18",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "group": "Group I",
+   "q_en": "The nucleus of hydrogen with symbol 1H3 is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Proton",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Deuterium",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Tritum",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "group": "Group I",
+   "q_en": "In Isothermal process:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "ΔU=ΔW",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "ΔU = ΔW",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "VQ = VU",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "ΔQ = ΔW",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "group": "Group I",
+   "q_en": "Unstable isotopes are called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "isobars",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Isomers",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Radioactive",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "group": "Group I",
+   "q_en": "Light consists of particles known as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Protons",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Electrons",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Neutrons",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Photons",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 25,
+   "group": "Group I",
+   "q_en": "Mass of Positron equal ot mass of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Proton",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Neutron",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Electron",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Photons",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 26,
+   "group": "Group I",
+   "q_en": "Unit of Plank’s constant is sane as the unit of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Energy",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Power",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Linear momentum",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Angular momentum",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 27,
+   "group": "Group I",
+   "q_en": "S.I unit of electric current is Ampere and one Ampere is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "1 Joule / sec",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "1volt /sec",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "1 Coulomb /sec",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 28,
+   "group": "Group I",
+   "q_en": "The resistance of a conductor does not depends upon its ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Length",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Area of cross-section",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Resistively",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Mass",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 29,
+   "group": "Group I",
+   "q_en": "The smaller unit of magnetic induction is Gauss, and Gauss related to tesla as __",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "1T = 10^4G",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "1T = 10^-4G",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "1T = 10^9G",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "1T = 10^3G",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 30,
+   "group": "Group I",
+   "q_en": "The process in which the original signal recovered is known as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Demodulation",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Detection",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Both (a) and (b)",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Transmission",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 31,
+   "group": "Group I",
+   "q_en": "Radio waves of wave length 300 m having frequency of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "10^-3KHz",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "500 KHz",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "1MHz",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "8 MHz",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 32,
+   "group": "Group I",
+   "q_en": "A particle with rest mass m0 has total energy 5/3 m0 C² the its K.E is ____",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "1/3 m0C²",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "2/3 m0C²",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "4/3 m0C²",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "7/3 m0C²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 33,
+   "group": "Group I",
+   "q_en": "What will be the resistance, if current flowing through a conductor is 10 amp and voltage is 220 Volts.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "2Ohms",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "1.5 Ohms",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "0.5 Ohms",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "22 Ohms",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 34,
+   "group": "Group I",
+   "q_en": "A field of 1C is moving perpendicular to the magnetic field of 0.5 tesla with velocity of 10 m/sec.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "5N",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "0.5 N",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "10 N",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "0 N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 35,
+   "group": "Group I",
+   "q_en": "Transistor in a circuit basically acts as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Voltage amplifier",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Current amplifier",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "power amplifier",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Rectifier",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 36,
+   "group": "Group I",
+   "q_en": "If the quantity of charge on each of two bodies is doubled. The force between them becomes:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Twice",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Four times",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Nine times",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Sixteen times",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 37,
+   "group": "Group I",
+   "q_en": "Kelvion temperature equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "273+ °C",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "273 − °C",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "273 +°F",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "273 - °F",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 38,
+   "group": "Group I",
+   "q_en": "Two capacitors of capacitance 2C and C respectively are connected in series, their equivalent capacitance becomes.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "2C",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "C/2",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "2C /3",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "3C /2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 39,
+   "group": "Group I",
+   "q_en": "Electron volt is the unit of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Work",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Frequency",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Potential difference",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Energy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 40,
+   "group": "Group I",
+   "q_en": "Decay constant of a radioactive element is inversely proportional to ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Activity",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Half life",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "mean life",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Wave length",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 41,
+   "group": "Group I",
+   "q_en": "In P-type semi-conductors the majority of charge carries are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Electrons",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Holes",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Neutrons",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Protons",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 42,
+   "group": "Group I",
+   "q_en": "Isobaric changed in a gas show that there is no change in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Internal energy",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Pressure",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Volume",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Temperature",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 43,
+   "group": "Group I",
+   "q_en": "Fahrenheit and Celsius scales coincide at:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "273",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "-40",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "32",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}
