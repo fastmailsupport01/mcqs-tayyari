@@ -1,0 +1,570 @@
+{
+ "board": "BISE Mardan",
+ "board_slug": "mardan",
+ "class": "12th",
+ "subject": "Mathematics",
+ "year": 2021,
+ "slug": "mardan-12th-mathematics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Annual",
+   "q_en": "If 10ˣ = 2, then x = ................",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "log 10",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "log 2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "log 1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "log10/log2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Annual",
+   "q_en": "The function f(x) = (x²−4)/(x−2) is not continuous at x = ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Annual",
+   "q_en": "d/dx sin⁻¹x = ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/√(1−x²)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "±1/√(x²−1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/(1+x²)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/(x√(x²−1))",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Annual",
+   "q_en": "The derivative of f(x) = x² at a point P(3, 9) is equal to ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "18",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "27",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Annual",
+   "q_en": "If h(x) = f(x)/g(x), g(x) ≠ 0 and f(x), g(x) are differentiable functions, then by Quotient rules h'(x) =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(f'(x)g(x) − g'(x)f(x))/(f(x))²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(f'(x)g(x) − g'(x)f(x))/(g(x))²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(f'(x)g(x) − g'(x)f(x))/[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(f'(x)g(x) + g'(x)f(x))/(f(x))²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Annual",
+   "q_en": "If y = 3x³ + 4x + 5 then y'' = is ................",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "27",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "18x+4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "18x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "27x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Annual",
+   "q_en": "If f(x) = tan x, then f'(0) = ................",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Annual",
+   "q_en": "If F(t) = [illegible in source scan] is a vector function, then (eᵗF)(t) = ................",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "eᵗt² + eᵗt + t sint",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "eᵗ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "eᵗt² + eᵗj − e⁻ˢⁱⁿᵗk",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Annual",
+   "q_en": "∫ eˣ dx = ................",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "e",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1−e",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "e−1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Annual",
+   "q_en": "∫ 4x⁻⁸ dx = ................",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−32x⁻⁹ + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−4/7x⁻⁷ + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−4/7x⁻⁷ + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−4/8x⁻⁹ + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Annual",
+   "q_en": "1/2 ∫ dθ = ................",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "θ/2 + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "θ + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x/2 + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Annual",
+   "q_en": "y − intercept of y = −3x + 9 is equal to ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "9",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−9",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Annual",
+   "q_en": "Slope of a straight line which is parallel to 2y − 4x = 7 is equal to ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−1/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Annual",
+   "q_en": "The co-ordinates of the centre c(−g, −f) of the circle x² + y² − 8x − 6y + 9 = 0 are ................",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(4,3)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(8,6)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(−4,−3)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(−8,−6)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Annual",
+   "q_en": "Equation of the circle having center (0, 0) and radius 4 units is given by ................",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x² + y² = 4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x² + y² = 16",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x² + y² = 2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x² + y² + 4 = 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Annual",
+   "q_en": "Which one of the following parabolas opens downward?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x² = 8y",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "y² = 8x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "y² = −8x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x² = −8y",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Annual",
+   "q_en": "In standard form, the hyperbola 16y² − 9x² = 144 can be written as ................",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x²/4 + y²/9 = 1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "y²/9 − x²/16 = 1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x²/9 + y²/4 = 1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "y²/9 + x²/16 = 1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Annual",
+   "q_en": "Which one is homogeneous differential equation?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "dy/dx = (x+y)/(x−y)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(x−y) dy/dx = x² + y²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "dy/dx = x² − xy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Annual",
+   "q_en": "Domain of f(x,y) = e^((x+1)/(y−2)) is................",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x,y ∈ R and y ≠ −2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x,y ∈ R and x ≠ 2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x,y ∈ R and y ≠ 2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x,y ∈ R and x ≠ −2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Annual",
+   "q_en": "f(x,y) = ax² + 2bxy + cy² is homogeneous function of degree ................",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

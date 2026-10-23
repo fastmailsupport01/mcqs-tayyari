@@ -1,0 +1,430 @@
+{
+ "board": "BISE Mardan",
+ "board_slug": "mardan",
+ "class": "11th",
+ "subject": "Computer Science",
+ "year": 2021,
+ "slug": "mardan-11th-computer-science-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Annual",
+   "q_en": "Which of the following software are set of programs that operate and control the computer system?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Freeware",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Shareware",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "System Software",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Application Software",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Annual",
+   "q_en": "The output produced by printers is called ...............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hardcopy output",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Softcopy output",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Plain output",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Rough output",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Annual",
+   "q_en": "Which of the following is the process of storing the data, information and instructions?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Input operation",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Processing operation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Output operation",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Storage operation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Annual",
+   "q_en": "............. is the smallest amount of memory a computer can hold.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Byte",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "KB",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Bit",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "MB",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Annual",
+   "q_en": "Which of the following is the fastest memory?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "RAM",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ROM",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cache memory",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "PROM",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Annual",
+   "q_en": "Which of the following performs the arithmetic and logic operations on data?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ALU",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Control Unit",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Bus",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Memory unit",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Annual",
+   "q_en": "Where are the logical operations performed in the CPU?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CU",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Register",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ALU",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Memory",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Annual",
+   "q_en": "Which of the following steps, in instruction cycle, interprets the instruction?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Fetch",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Decode",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Execute",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Write back",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Annual",
+   "q_en": "In which communication mode data can be sent and received in both directions but not at the same time?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Simplex",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Full-duplex",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Half-duplex",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Duplex",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Annual",
+   "q_en": "A collection of two or more connected computers to share the resources and data is called ...............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Route",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Network",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Path",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Medium",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Annual",
+   "q_en": "............... cable is formed of two insulated copper wires twisted together.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Coaxial",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Fiber Optic",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CAT5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Twisted Pair",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Annual",
+   "q_en": "........ signals can be used for short range communication in closed area using line of sight propagation.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Wi-Fi",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Bluetooth",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Wi-Max",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Infrared",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Annual",
+   "q_en": "............. is an example of application software.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Device Driver",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Media Player",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Language Processor",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Annual",
+   "q_en": "................ is the person, who has central control over data and programs in a database system?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "DBA",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Designer",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Programmer",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Annual",
+   "q_en": "1 Megabyte memory is equal to ................",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1024 K bytes",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1000 K bytes",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1024 K bits",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1024 G bytes",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,430 @@
+{
+ "board": "BISE Mardan",
+ "board_slug": "mardan",
+ "class": "12th",
+ "subject": "Computer Science",
+ "year": 2021,
+ "slug": "mardan-12th-computer-science-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Annual",
+   "q_en": "................ is a program that act as an interface between the user and the hardware and controls the execution of all kind of programs.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Doctor of system",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Document of system",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Operating system",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Annual",
+   "q_en": "Which of the following is an example of operating system?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Linux",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "MS Word",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Anti-virus",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Annual",
+   "q_en": "Threads are sometimes called ................",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Multithreading",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Multiprogramming",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Lightweight processes",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Annual",
+   "q_en": "Operators are the symbols which perform operation on ................",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Functions",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Operands",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Class",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Annual",
+   "q_en": "Which of the following language is an object oriented language?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "C language",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "C++ language",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "D language",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Annual",
+   "q_en": "All the standard input and output stream objects are declared within the header file ................",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Conio",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Iostream",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Both A & B",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Annual",
+   "q_en": "Which of the following is not a looping statement in C++?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "While",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Switch",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Do-while",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "For",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Annual",
+   "q_en": "Which of the following is a looping statement in C++?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Do-while",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "If",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "If-else",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Switch",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Annual",
+   "q_en": "A collection of data items of the same data types placed in contiguous memory locations is called .......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Record",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Array",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Program",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "File",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Annual",
+   "q_en": "A set of statements grouped together to perform a specific task is a/an................",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Function",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Object",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Array",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Loop",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Annual",
+   "q_en": "A pointer is a variable that holds the ................ of another variable.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Address",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Value",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Data",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Annual",
+   "q_en": "A program under execution is called ................",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Process",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Operating system",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Document",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Application software",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Annual",
+   "q_en": "Process management is one of the function of a/an ................",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Operating system",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Software",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Object-oriented programming",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Annual",
+   "q_en": "A ................ can be in one of different states: new, ready, running, block and exit.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Process",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Class",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Objects",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Annual",
+   "q_en": "................ is a stepwise process of creating computer systems.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "SDLC",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Operating system",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Function",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Object",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

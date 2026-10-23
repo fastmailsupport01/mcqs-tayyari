@@ -1,0 +1,514 @@
+{
+ "board": "BISE Peshawar",
+ "board_slug": "peshawar",
+ "class": "11th",
+ "subject": "Chemistry",
+ "year": 2021,
+ "slug": "peshawar-11th-chemistry-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Paper",
+   "q_en": "Enthalpy means total heat content of a system at constant:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Temperature",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Pressure",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Volume",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Moles",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Paper",
+   "q_en": "As the number of effective collisions between the reacting particles increase, the rate of reaction......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Decreases",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Increases",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Remains the same",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Depresses",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Paper",
+   "q_en": "If mole fraction one component of a solution is 0.3, then the mole fraction of second component of that solution will be.........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.7",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Paper",
+   "q_en": "The molal freezing point constant of a solution is called...",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cryoscopic constant",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ebullioscopic constant",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Gas constant",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Absolute zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Paper",
+   "q_en": "Which of the given is not a state function?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Enthalpy",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Heat",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Temperature",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Pressure",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Paper",
+   "q_en": "The oxidation number of Cl in HClO₄ is........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "+3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "+5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "+7",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "+1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Paper",
+   "q_en": "Greater number of hydrogen bonds are found in......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "HF",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "H₂O",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NH₃",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CH₄",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Paper",
+   "q_en": "London forces are strongest in......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "F₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cl₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Br₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "I₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Paper",
+   "q_en": "KNO₃ and NaNO₃ both have same Rhombohedral Crystal structure this phenomenon is...",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Allotropy",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Polymorphism",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Anisotropy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Isomorphism",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Paper",
+   "q_en": "Kc > Kp if Δn is......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "+ve",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−ve",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Paper",
+   "q_en": "The unit of Kw is.........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "mol.dm³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "mol².dm⁻⁶",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "mol⁻².dm⁻⁶",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "mol².dm⁻³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Paper",
+   "q_en": "For acidic solutions.......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "pH < 7",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "pH > 7",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "pH = 7",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "pH ≥ 7",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Paper",
+   "q_en": "What will be the value of temperature and pressure at standard conditions i.e. STP?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "100°C, 1 atm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "298 k, 1 atm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "273 k, 760 mmHg",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0°C, 76 cm Hg",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Paper",
+   "q_en": "Bohr's theory cannot be applied on:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "H⁺¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "He⁺¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Li⁺²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "B⁺³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Paper",
+   "q_en": "Total number of orbitals in \"M\" shell are......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Paper",
+   "q_en": "The bond angle in NH₃ is.......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "104.5°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "107.5°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "109.5°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Paper",
+   "q_en": "Which one of the given will have linear geometry?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "BeCl₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "H₂O",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CH₄",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "BF₃",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Paper",
+   "q_en": "The value of ideal gas constant is........atm.dm³.mol⁻¹.K⁻¹",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.0821",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.98722",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "62.364",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8.3143",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

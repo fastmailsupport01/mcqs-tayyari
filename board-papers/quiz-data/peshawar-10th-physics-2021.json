@@ -1,0 +1,346 @@
+{
+ "board": "BISE Peshawar",
+ "board_slug": "peshawar",
+ "class": "10th",
+ "subject": "Physics",
+ "year": 2021,
+ "slug": "peshawar-10th-physics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Paper",
+   "q_en": "The Boolean equation for the NOR gate is.........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "X = A + B",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "X = A+B overline",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "X = AB",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "X = AB overline",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Paper",
+   "q_en": "If magnetic field is applied parallel to the direction of electron beam, the electron will........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Deflect",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Not change its state",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Slow down",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Speed up",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Paper",
+   "q_en": "Telephone communication is the example of transmission of signals through......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electric wires",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Optical fibers",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Electromagnetic waves",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Paper",
+   "q_en": "Which one or more of the three decay processes (α, β or γ) results in a new element?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Only α",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Only β",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Only γ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "α and β",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Paper",
+   "q_en": "When combing our hair, we shift electrons from our hair onto the comb. The charge on our hair is.....",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Negative",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Positive",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Infinite",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Paper",
+   "q_en": "The SI units for electrical power is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ampere",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Coulomb",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Watt",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Volt",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Paper",
+   "q_en": "1 kWh = ......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1000 J",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.36 hrs",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3600 W",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3.6 × 10⁶ J",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Paper",
+   "q_en": "Which derived unit is equivalent to tesla ' T '?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nm/A",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NA/m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "N/Am",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Am/N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Paper",
+   "q_en": "The waves produced by the oscillation of material particles are called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mechanical waves",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Transverse waves",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Electromagnetic waves",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Paper",
+   "q_en": "Various instruments sound different even when they play the same note due to difference in.........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Loudness",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Pitch",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Intensity",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Quality",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Paper",
+   "q_en": "An external rearview car mirror is convex with radius of curvature 16.0 m. The focal length of the mirror is........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "+ 8.0 m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "− 8.0 m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "+ 32.0 m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "− 32.0 m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Paper",
+   "q_en": "Which of the given material will refract light more?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Air",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Glass",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Diamond",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Water",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

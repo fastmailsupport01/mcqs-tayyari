@@ -1,0 +1,514 @@
+{
+ "board": "BISE Mardan",
+ "board_slug": "mardan",
+ "class": "11th",
+ "subject": "Physics",
+ "year": 2021,
+ "slug": "mardan-11th-physics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Annual",
+   "q_en": "Dimension of torque is.......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "MLT",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ML2T−1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "MLT−1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ML2T−2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Annual",
+   "q_en": "1 radian is given as.........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "360°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "57.3°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3.14°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Annual",
+   "q_en": "The magnitude of vector A⃗ = 2î + ĵ + 2k̂ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "9",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Annual",
+   "q_en": "Torque of the body is maximum at.......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "30°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "90°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Annual",
+   "q_en": "Formula for the Height of the Projectile (H) is.......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "V₀²sin²θ/2g",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "V₀sinθ/2g",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "V₀²sinθ/2g",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "V₀sin²θ/2g",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Annual",
+   "q_en": "Unit of linear momentum is.......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "NS⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "N.m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "N.S",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "N.m⁻²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Annual",
+   "q_en": "The expression for escape velocity is given by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2gR₀²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "√2gR₀",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "gR₀²/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√gR₀",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Annual",
+   "q_en": "The example of non conservative force is........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electric force",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Gravitational force",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Frictional force",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Magnetic force",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Annual",
+   "q_en": "The angular speed in radians/hours for daily rotation of our earth is.....",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2π",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4π",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π/12",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Annual",
+   "q_en": "Moment of inertia of a sphere is.......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2/5 MR²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "MR²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/2 MR²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5/2 M²R²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Annual",
+   "q_en": "Formula for the terminal velocity is vₜ =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2ρg/9η",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2ρr²/9η",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2ρgr²/9η",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2ρgr/9η",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Annual",
+   "q_en": "According to the equation of continuity, speed of fluid through any pipe of cross sectional area is given as.......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "v ∝ 1/√A",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "v ∝ 1/A",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "v ∝ A",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "v ∝ √A",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Annual",
+   "q_en": "Tuning of a radio set is an example of....",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mechanical resonance",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Musical resonance",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Electrical resonance",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Free vibrations",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Annual",
+   "q_en": "The time period of simple pendulum is 2 seconds if its length is increased by 4 times then its period becomes......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "16 sec",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "12 sec",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8 sec",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4 sec",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Annual",
+   "q_en": "Speed of sound is 332 m/s, Newton calculated the value 281 m/s. What is the difference between the practical and theoretical value.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "16%",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "26%",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "06%",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "36%",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Annual",
+   "q_en": "Which of the given factor has no effect on the speed of sound in a gas?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Humidity",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Pressure",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Temperature",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Density",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Annual",
+   "q_en": "S.I unit of molar specific heat is......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "J.mole.k",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "J.mole⁻¹k",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Jmole⁻¹k⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "J.mole k",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Annual",
+   "q_en": "During a sunny day we see the objects in a class room even when all the electric lights are off, due to......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Reflection of light",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Refraction of light",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Diffraction of light",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Interference of light",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

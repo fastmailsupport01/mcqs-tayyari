@@ -1,0 +1,514 @@
+{
+ "board": "BISE Peshawar",
+ "board_slug": "peshawar",
+ "class": "11th",
+ "subject": "Biology",
+ "year": 2021,
+ "slug": "peshawar-11th-biology-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Paper",
+   "q_en": "All are organelles except......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Endoplasmic reticulum",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Lysosome",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cell membrane",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Golgi complex",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Paper",
+   "q_en": "Single membrane bounded organelle is ........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mitochondria",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Nucleus",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Chloroplast",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Lysosome",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Paper",
+   "q_en": "The monomer of which polysaccharide possesses nitrogen group?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Glycogen",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Chitin",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Starch",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cellulose",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Paper",
+   "q_en": "Which type of Lipid Play role in maintainance of male and female characteristics in Human?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Triglyceride",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Steroids",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Waxes",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Phospholipids",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Paper",
+   "q_en": "Enzymes action in living cell changes with change in .......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "H⁺ ion concentration",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Na⁺ ion concentration",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "OH⁻ ion concentration",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Both A & C are correct",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Paper",
+   "q_en": "Plants are the lungs of the nature because it provide......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Food",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Oxygen",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Carbon dioxide",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Humidity",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Paper",
+   "q_en": "In the absence of oxygen which one is the product of respiration in animal?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Acetic Acid",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ethyl alcohol",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Lactic Acid",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Oleic Acid",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Paper",
+   "q_en": "All are correct about viroids except one.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Posses double stranded (RNA)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Posses single stranded RNA",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Lack protein coat",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Smaller than virus",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Paper",
+   "q_en": "One is the alternate of mitochondria in bacterial cell.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cell membrane",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ribosome",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "DNA",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cell wall",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Paper",
+   "q_en": "A nitrogen containing polysaccharide is present in .....",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Plant cell wall",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Bacterial cell wall",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Fungal cell wall",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Viral envelop",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Paper",
+   "q_en": "In sunflower plant all the sessile flowers are crowded together on short axis called........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Umbell",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Panicle",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Corymb",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Capitulum",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Paper",
+   "q_en": "Among plants which group is called invader of land.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Gymnosperm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Angiosperm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Pteridophyte",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Bryophyte",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Paper",
+   "q_en": "All are metamerically segmented except ......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Earthworm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Neries",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Leech",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Paper",
+   "q_en": "Which one of the given belong to phylum coelentrata?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Lung fish",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cuttle fish",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Jelly fish",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Star fish",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Paper",
+   "q_en": "In which photocycle long day plants will give flower?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "15 hour light / 1 hour dark",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8 hour light / 12 hour dark",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10 hour light / 14 hour dark",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9 hour light / 15 hour dark",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Paper",
+   "q_en": "The function of hairs on stem and leaves of desert plant is .....",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Protection",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "To Retard transpiration",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "To Repel insect",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Storage of food",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Paper",
+   "q_en": "Amylase hydrolyses starch into",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Lactose",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Maltose",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Fatty acid",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Galactose",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Paper",
+   "q_en": "A cardiovascular disorder causes due to lack of blood supply to heart muscle is called.......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Arteriosclerosis",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cyanosis",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Angina pectoris",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cardiac arrest",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

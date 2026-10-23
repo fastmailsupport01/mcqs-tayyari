@@ -1,0 +1,514 @@
+{
+ "board": "BISE Mardan",
+ "board_slug": "mardan",
+ "class": "11th",
+ "subject": "Chemistry",
+ "year": 2021,
+ "slug": "mardan-11th-chemistry-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Annual",
+   "q_en": "Efficiency of a chemical reaction can be checked by calculating the.......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Actual yield",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Theoretical yield",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Percentage yield",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Amount of reactant unused",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Annual",
+   "q_en": "The maximum number of electrons in 3S orbital is......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Annual",
+   "q_en": "The splitting of spectral lines by the application of magnetic field is....",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zeeman effect",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Stark effect",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Aufbau Principle",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Pauli Exclusion Principle",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Annual",
+   "q_en": "The bond angle in Ammonia (NH₃) is........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "109.5°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "107.5°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "104.5°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Annual",
+   "q_en": "Which one of the given is paramagnetic molecule?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "H₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "O₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "N₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "He",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Annual",
+   "q_en": "The value of Absolute Zero temperature is equal to......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−273.15 k",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−273.15°C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0°C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "273.15°C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Annual",
+   "q_en": "The value of universal gas constant (R) at STP is....... atm.dm3.mol⁻¹k⁻¹.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.0821",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8.313",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.987",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "62.363",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Annual",
+   "q_en": "The steps of a double-helix ladder of DNA are formed by.....",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Dipole-Dipole forces",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Hydrogen bonds",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "London Dispersion forces",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ion-Dipole forces",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Annual",
+   "q_en": ".........are anisotropic in nature.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Crystalline solids",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Non crystalline solids",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Liquids",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Gases",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Annual",
+   "q_en": "Which of the given does not affect the equilibrium constant value of a reaction?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Concentration",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Pressure",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Temperature",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Catalyst",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Annual",
+   "q_en": "The value of Kₚ is greater than K꜀ when the difference of the moles of the products and reactants is......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Positive",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Negative",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "One",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Annual",
+   "q_en": "Very large Kₐ value means that the substance is.......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Strong acid",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Weak acid",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Neutral",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Strong base",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Annual",
+   "q_en": "As the number of effective collisions between the reacting particles increases, the rate of reaction.......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Decreases",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Increases",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Remains the same",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Reduces",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Annual",
+   "q_en": "The sum of mole fractions of two components of a solution is equal to.......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Annual",
+   "q_en": "The term cryoscopic constant is related with.......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Boiling point elevation",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Freezing point depression",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Lowering of vapour pressure",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Osmotic pressure",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Annual",
+   "q_en": "Processes involving solids and liquids have their....",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ΔH = ΔE",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ΔH > ΔE",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ΔH < ΔE",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ΔE = 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Annual",
+   "q_en": "The oxidation number of Cl in HClO₃ is.......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "+1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "+3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "+5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Annual",
+   "q_en": "The electrode potential of the standard hydrogen electrode is chosen as......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0V",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1V",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−1V",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2V",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

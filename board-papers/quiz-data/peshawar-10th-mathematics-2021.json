@@ -1,0 +1,430 @@
+{
+ "board": "BISE Peshawar",
+ "board_slug": "peshawar",
+ "class": "10th",
+ "subject": "Mathematics",
+ "year": 2021,
+ "slug": "peshawar-10th-mathematics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Paper",
+   "q_en": "If (x + 1) (x − 5) = 0 then the solutions are...........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "{−1, 5}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{−1, −5}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{1, 5}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{1, −5}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Paper",
+   "q_en": "If a and b are the roots of 4x²−3x+7=0 then the value of 1/a + 1/b",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−3/4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3/7",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−3/7",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4/7",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Paper",
+   "q_en": "If 2a + 1 : 21 :: 4 : 7, then a = ......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "13/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "11/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Paper",
+   "q_en": "(x² + 2)/(x² + 2x + 2) is a/an.......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Proper fraction",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Improper fraction",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Irrational fraction",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Paper",
+   "q_en": "If A has two elements and B has three elements, then number of binary relation in A × B is........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2 × 3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2⁶",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Paper",
+   "q_en": "If R = {(0,0) (8,2) (10,3) (14,12)} then Dom R = ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "{0,8,10,14}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{0,2,3,12}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{8,10,4}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{0,10}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Paper",
+   "q_en": "The difference of the largest and smallest value in the data is called...........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mean",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Mode",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Range",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Standard Deviation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Paper",
+   "q_en": "In the given set of data 63, 66, 65, 67, 69, median is........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "63",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "66",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "65",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "69",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Paper",
+   "q_en": "Sin(−350°) lies in.......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1st Quadrant",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2nd Quadrant",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3rd Quadrant",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4th Quadrant",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Paper",
+   "q_en": "1 + tan²θ = .........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "sin²θ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "cos²θ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "cosec²θ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "sec²θ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Paper",
+   "q_en": "Apollonius was born in.......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Perga",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Istanbul",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Islamabad",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Kabul",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Paper",
+   "q_en": "The sum of the roots of the equation ax² + bx + c = 0 is.......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "c/a",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−c/a",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "b/a",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−b/a",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Paper",
+   "q_en": "In a circle, two chords are equally distant from the centre of the circle the chords are..........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Congruent",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Not congruent",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Parallel",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Non parallel",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Paper",
+   "q_en": "The angle in a semi-circle is equal to................",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "30°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "180°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Paper",
+   "q_en": "How many tangents can be drawn from a point outside the circle?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

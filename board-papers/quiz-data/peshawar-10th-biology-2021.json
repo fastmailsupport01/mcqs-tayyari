@@ -1,0 +1,346 @@
+{
+ "board": "BISE Peshawar",
+ "board_slug": "peshawar",
+ "class": "10th",
+ "subject": "Biology",
+ "year": 2021,
+ "slug": "peshawar-10th-biology-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Paper",
+   "q_en": "Internal fertilization occurs in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Fish",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Amphibians",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Aquatic animals",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mammals",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Paper",
+   "q_en": "Genes are short segments of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Proteins",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Carbohydrates",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "DNA",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Lipids",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Paper",
+   "q_en": "Which one of the given is responsible for rising the global temperature?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ozone depletion",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Plantation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Predation",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Acid rain",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Paper",
+   "q_en": "Fungi and bacteria are included in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Producers",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Primary consumers",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Secondary consumers",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Decomposers",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Paper",
+   "q_en": "Lactobacillus bulgaricus is a type of bacteria used in the production of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Alcohol",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cheese",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Pickles",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Yogurt",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Paper",
+   "q_en": "Oral drugs are absorbed in the blood and are first taken to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Kidneys",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Lungs",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Brain",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Liver",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Paper",
+   "q_en": "Respiration at cellular level is known as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Breathing",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ventilation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Oxidation",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Inhalation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Paper",
+   "q_en": "Secretion of urea in sweat makes skin a:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Respiratory organ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Breathing organ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Excretory organ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Digestive organ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Paper",
+   "q_en": "Intelligence is under the control of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cerebrum",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cerebellum",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Medulla oblongata",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Thalamus",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Paper",
+   "q_en": "Calcitonin that stimulates the transfer of calcium ions from the blood to bone is secreted by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Pituitary gland",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Thyroid gland",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Pancreas",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Adrenal gland",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Paper",
+   "q_en": "The main protein in the matrix of cartilage is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Collagen",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Osteo-nectin",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Keratin",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Actin",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Paper",
+   "q_en": "In flower, the female reproductive structure is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Calyx",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Corolla",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Carpel",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Stamen",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,514 @@
+{
+ "board": "BISE Mardan",
+ "board_slug": "mardan",
+ "class": "12th",
+ "subject": "Physics",
+ "year": 2021,
+ "slug": "mardan-12th-physics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Annual",
+   "q_en": "When a dielectric medium is inserted between the two-point charges then the magnitude of electrostatic force ....",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Increases",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Decreases",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Becomes zero",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Not affected",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Annual",
+   "q_en": "Electric field intensity due to an infinite sheet of charge is given by ................",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "σ/2ε₀",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "σ/ε₀",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "σ/πε₀",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "σ/q",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Annual",
+   "q_en": "In Ohm's Law R = V/I, so by doubling the voltage, the resistance will .... .... .... ....",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Double",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Half",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Four-times",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Remains the same",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Annual",
+   "q_en": "Which of the following is an example of wire-wound variable resistors?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Potentio meter",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Thermistors",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Rheostats",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Wheat stone bridge",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Annual",
+   "q_en": "Ampere's circuital law is given by the relation ................",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "B = μ₀I",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "B = μ₀I/r",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "B = μ₀I/2πr",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "B = μ₀Ir",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Annual",
+   "q_en": "One weber is equal to ................",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "N·A²/m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "N·m²/A",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "N·A/m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "N·m/A",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Annual",
+   "q_en": "Which of the following quantities remain constant in step-up transformer?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Power",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Current",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Voltage",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Heat",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Annual",
+   "q_en": "What is the coefficient of mutual inductance, when the magnetic flux changes by 2 × 10⁻² Wb, and change in current is 0.01A?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/2 H",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2H",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3H",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Annual",
+   "q_en": "In pure capacitive circuit the power loss is ................",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Maximum",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Minimum",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Infinite",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Annual",
+   "q_en": "The peak value of alternating current is 5√2 A. The mean square value of current will be .........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5A",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2.5A",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5√2 A",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5² A",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Annual",
+   "q_en": "Which of the following is paramagnetic material?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Copper",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Antimony",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Zinc",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Bismuth",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Annual",
+   "q_en": "In transistor, there are ................ PN junctions.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Four",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Three",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Two",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Five",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Annual",
+   "q_en": "The laws of physics are the same in all inertial reference frames. It is stated by ................",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Bohr",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Thomson",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Einstein",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Galileo",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Annual",
+   "q_en": "The maximum K.E of emitted photoelectron depends upon ................",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Frequency of the incident light",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Temperature of the metal surface",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Intensity of the incident light",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Annual",
+   "q_en": "According to Bohr's theory of hydrogen atom the radius of the first orbit is ................",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "13.6 × 10⁻⁹ m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3.4 × 10⁻¹⁰ m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5.3 × 10⁻⁹ m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.53 × 10⁻¹⁰ m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Annual",
+   "q_en": "In Bohr theory, the energy of an electron in 3rd quantized orbit is ................",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-3.4 eV",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−1.51 eV",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−0.85 eV",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−13.6 eV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Annual",
+   "q_en": "In terms of energy 1 a.m.u = ................",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.51 MeV",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "931 MeV",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "937 MeV",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "938 Me",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Annual",
+   "q_en": "A radioactive substance has a half-life of four months. 3-fourth of the substance will decay in ...........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "16 months",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "12 months",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8 months",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6 months",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

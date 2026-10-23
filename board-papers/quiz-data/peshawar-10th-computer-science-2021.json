@@ -1,0 +1,318 @@
+{
+ "board": "BISE Peshawar",
+ "board_slug": "peshawar",
+ "class": "10th",
+ "subject": "Computer Science",
+ "year": 2021,
+ "slug": "peshawar-10th-computer-science-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Paper",
+   "q_en": "Which language is used to create web pages?",
+   "q_ur": "ویب پیج بنانے کے لیے کون سی لینگویج استعمال ہوتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "C language",
+     "ur": "C لینگویج"
+    },
+    {
+     "k": "B",
+     "en": "HTML",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "URL",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Web browser",
+     "ur": "ویب براؤزر"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Paper",
+   "q_en": "An obstacle, difficulty or challenge, or any situation that requires resolution is:",
+   "q_ur": "ایک رکاوٹ، مشکل یا چیلنج، یا کوئی بھی ایسی صورت حال جس سے نکلنا مقصود ہو.......کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Algorithm",
+     "ur": "الگورتھم"
+    },
+    {
+     "k": "B",
+     "en": "Complexity",
+     "ur": "پیچیدگی"
+    },
+    {
+     "k": "C",
+     "en": "Problem",
+     "ur": "مسئلہ"
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": "ان میں کوئی نہیں"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Paper",
+   "q_en": "The case block ends with........",
+   "q_ur": "Case بلاک کا اختتام.......ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Semicolon",
+     "ur": "سیمی کولن"
+    },
+    {
+     "k": "D",
+     "en": "Break;",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Paper",
+   "q_en": ".......is a set of instructions that tells a computer what to do and how to do?",
+   "q_ur": ".......ہدایات کا ایسا مجموعہ ہے جو کمپیوٹر کو بتاتا ہے کہ کیا کرنا ہے اور کیسے کرنا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Program",
+     "ur": "پروگرام"
+    },
+    {
+     "k": "B",
+     "en": "Compiler",
+     "ur": "کمپائلر"
+    },
+    {
+     "k": "C",
+     "en": "Comments",
+     "ur": "کمنٹس"
+    },
+    {
+     "k": "D",
+     "en": "Hardware",
+     "ur": "ہارڈویئر"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Paper",
+   "q_en": "An electronic circuit that takes one or more than one input signals and produces a single output signal is........",
+   "q_ur": "ایک ایسا الیکٹرانک سرکٹ جو ایک یا ایک سے زیادہ ان پٹ سگنل لیتا ہے اور ایک آؤٹ پٹ سگنل پیدا کرتا ہے.......کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Diagram",
+     "ur": "ڈائیگرام"
+    },
+    {
+     "k": "B",
+     "en": "Table",
+     "ur": "ٹیبل"
+    },
+    {
+     "k": "C",
+     "en": "Digital logic gate",
+     "ur": "ڈیجیٹل لاجک گیٹ"
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": "ان میں کوئی نہیں"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Paper",
+   "q_en": "The output of which gate is 1 only when all its inputs are 1?",
+   "q_ur": "کس گیٹ کی آؤٹ پٹ صرف اس وقت 1 ہوتی ہے جب اس کی تمام ان پٹس 1 ہوں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "AND gate",
+     "ur": "AND گیٹ"
+    },
+    {
+     "k": "B",
+     "en": "OR gate",
+     "ur": "OR گیٹ"
+    },
+    {
+     "k": "C",
+     "en": "NOT gate",
+     "ur": "NOT گیٹ"
+    },
+    {
+     "k": "D",
+     "en": "NAND gate",
+     "ur": "NAND گیٹ"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Paper",
+   "q_en": "In C language every statement is terminated by.......",
+   "q_ur": "C لینگویج میں ہر اسٹیٹمنٹ کا اختتام.......سے کیا جاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Full stop",
+     "ur": "فل اسٹاپ"
+    },
+    {
+     "k": "B",
+     "en": "Comma",
+     "ur": "کاما"
+    },
+    {
+     "k": "C",
+     "en": "Semi colon",
+     "ur": "سیمی کولن"
+    },
+    {
+     "k": "D",
+     "en": "Double quotes",
+     "ur": "ڈبل کوٹ"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Paper",
+   "q_en": "Which of the given is called modulus operator?",
+   "q_ur": "دیے گئے میں سے کونسا آپریٹر ماڈولس آپریٹر کہلاتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "+",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "%",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "/",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "*",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Paper",
+   "q_en": "Which loop structure always executes at least once.",
+   "q_ur": "کونسا لوپ اسٹرکچر کم از کم ایک دفعہ ضرور چلتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Do-while",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "While",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "For",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Both A and C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Paper",
+   "q_en": "Which of the given loop is a good choice when the numbers of iterations are known in advance?",
+   "q_ur": "جب پہلے سے یہ پتہ ہو کہ لوپ کتنی دفعہ چلانا ہے تو ایسی صورت میں.......استعمال کرنا چاہیے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "For",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "While",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Do-while",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nested",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Paper",
+   "q_en": "Internet address which identifies a website is called......",
+   "q_ur": "جو انٹرنیٹ ایڈریس کسی ویب سائٹ کی نشاندہی کرتا ہے۔ کیا کہلاتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Webpage",
+     "ur": "ویب پیج"
+    },
+    {
+     "k": "B",
+     "en": "Website",
+     "ur": "ویب سائٹ"
+    },
+    {
+     "k": "C",
+     "en": "Web server",
+     "ur": "ویب سرور"
+    },
+    {
+     "k": "D",
+     "en": "URL",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}
