@@ -1,0 +1,430 @@
+{
+ "board": "BISE Sargodha",
+ "board_slug": "sargodha",
+ "class": "9th",
+ "subject": "Mathematics",
+ "year": 2024,
+ "slug": "sargodha-9th-mathematics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "If x is no longer than 10, then",
+   "q_ur": "اگر x کی قیمت 10 سے بڑی نہ ہو تو",
+   "options": [
+    {
+     "k": "A",
+     "en": "x ≥ 8",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x ≤ 10",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x < 10",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x > 10",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Which order pair satisfies the equation y = 2x",
+   "q_ur": "کون سا نقطہ مساوات y = 2x کے گراف پر واقع ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "(1 , 2)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(2 , 1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(2 , 2)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(0 , 1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "A triangle having all sides different is called",
+   "q_ur": "ایک ایسی مثلث جس کے تمام اضلاع کی لمبائیاں مختلف ہوں تو وہ کہلاتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Isosceles",
+     "ur": "مساوی الساقین"
+    },
+    {
+     "k": "B",
+     "en": "None of these",
+     "ur": "ان میں سے کوئی نہیں"
+    },
+    {
+     "k": "C",
+     "en": "Equilateral",
+     "ur": "مساوی الاضلاع"
+    },
+    {
+     "k": "D",
+     "en": "Scalene",
+     "ur": "مختلف الاضلاع"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Three points are collinear , if they lie on _______",
+   "q_ur": "تین نقاط ہم خط نقاط کہلاتے ہیں اگر وہ واقع ہوں ______",
+   "options": [
+    {
+     "k": "A",
+     "en": "Same line",
+     "ur": "ایک ہی خط پر"
+    },
+    {
+     "k": "B",
+     "en": "Different lines",
+     "ur": "مختلف خطوط پر"
+    },
+    {
+     "k": "C",
+     "en": "Intersect each other",
+     "ur": "ایک دوسرے کو قطع کرتے ہیں"
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": "ان میں کوئی نہیں"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Medians of a triangle are _______",
+   "q_ur": "مثلث کے وسطانیے ہوتے ہیں ______",
+   "options": [
+    {
+     "k": "A",
+     "en": "Intersect",
+     "ur": "قطع کرتے ہیں"
+    },
+    {
+     "k": "B",
+     "en": "Concurrent",
+     "ur": "ہم نقطہ"
+    },
+    {
+     "k": "C",
+     "en": "Congruent",
+     "ur": "مماثل"
+    },
+    {
+     "k": "D",
+     "en": "Parallel",
+     "ur": "متوازی"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "The bisectors of the angles of a triangle are _______",
+   "q_ur": "کسی مثلث کے تینوں زاویوں کے ناصف ہوتے ہیں ______",
+   "options": [
+    {
+     "k": "A",
+     "en": "Parallel",
+     "ur": "متوازی"
+    },
+    {
+     "k": "B",
+     "en": "Congruent",
+     "ur": "مماثل"
+    },
+    {
+     "k": "C",
+     "en": "Concurrent",
+     "ur": "ہم نقطہ"
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": "کوئی بھی نہیں ہے"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "One and only one line can be drawn through __ points",
+   "q_ur": "______ نقاط میں سے خط کھینچا جا سکتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "In a parallelogram opposite sides are _______",
+   "q_ur": "ایک متوازی الاضلاع میں مخالف اضلاع ہوتے ہیں ______",
+   "options": [
+    {
+     "k": "A",
+     "en": "Concurrent",
+     "ur": "ہم نقطہ"
+    },
+    {
+     "k": "B",
+     "en": "Parallel",
+     "ur": "متوازی"
+    },
+    {
+     "k": "C",
+     "en": "Congruent",
+     "ur": "مماثل"
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": "کوئی نہیں ہے"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Congruent triangles can be made by joining the mid points of the sides of a triangle",
+   "q_ur": "ایک مثلث کے اضلاع کے وسطی نقاط کو ملانے سے ______ مماثل مثلثیں بنائی جا سکتی ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Four",
+     "ur": "چار"
+    },
+    {
+     "k": "B",
+     "en": "Three",
+     "ur": "تین"
+    },
+    {
+     "k": "C",
+     "en": "Five",
+     "ur": "پانچ"
+    },
+    {
+     "k": "D",
+     "en": "Two",
+     "ur": "دو"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "[[1, 0], [0, 1]] is called a matrix",
+   "q_ur": "[[1, 0], [0, 1]] کو قالب کہا جاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Unit",
+     "ur": "وحدانی"
+    },
+    {
+     "k": "B",
+     "en": "Zero",
+     "ur": "صفری"
+    },
+    {
+     "k": "C",
+     "en": "Scalar",
+     "ur": "سکیلر"
+    },
+    {
+     "k": "D",
+     "en": "Singular",
+     "ur": "نادر"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "The conjugate of 9 + 3i is",
+   "q_ur": "9+3i کا کنجوگیٹ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "9 + 3i",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "9 - 3i",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-9 + 3i",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-9 - 3i",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "log m³ can be written as",
+   "q_ur": "log m³ کو لکھا جاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "(log m)³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3 log m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "log(3m)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "m log 3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "(x² - y²)/(x + y) is equal to",
+   "q_ur": "(x²-y²)/(x+y) برابر ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "(x - y)²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(x + y)²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x - y",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x + y",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "Factors of 8x³ + 27y³ are",
+   "q_ur": "8x³ + 27y³ کے اجزائے ضربی ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "(2x + 3y) , (4x² + 9y²)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(2x - 3y) , (4x² - 9y²)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(2x + 3y) , (4x² - 6xy + 9y²)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(2x - 3y) , (4x² + 6xy + 9y²)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "L.C.M of a²+b² and a⁴-b⁴ is",
+   "q_ur": "a²+b² اور a⁴-b⁴ کا ذواضعاف اقل ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "a² + b²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a² - b²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a⁴ - b⁴",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a - b",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,962 @@
+{
+ "board": "BISE Sahiwal",
+ "board_slug": "sahiwal",
+ "class": "12th",
+ "subject": "Chemistry",
+ "year": 2024,
+ "slug": "sahiwal-12th-chemistry-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Acetic acid is prepared by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Distillation",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Fermentation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ozonolysis",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Esterification",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Ketones are prepared by oxidation of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Primary alcohol",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Secondary alcohol",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Tertiary alcohol",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ether",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Which compound shows the hydrogen bonding?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "C₂H₆",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "C₂H₅Cl",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CH₃-O-CH₃",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "C₂H₅OH",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The pᴴ range of acid rain is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "7-6.5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6.5-6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6-5.6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Less than 5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The co-agulant used in raw water to precipitate suspended impurities is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Caustic soda",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Lime water",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Alum",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Soda ash",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "During the S.1 reaction, the fast step involves:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Breakage of covalent bond",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Formation of carbocation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Transition state",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Attack of nucleophile",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Most of the elements of group I A are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Crystalloids",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Metals",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Metalloids",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Non metals",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "In group V-A elements, the most electronegative is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "P",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Sb",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Bi",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "During nitration of benzene, the active nitrating agent is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "NO₃",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NO₂⁻",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NO₂⁺",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "HNO₃",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Vinyl acetylene combines with HCl to form:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Poly acetylene",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Benzene",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Chloroprene",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Divinyl acetylene",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The state of hybridization of carbon atom in methane is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "sp³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "sp²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "sp",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "dsp²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Total number of transition elements are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "14",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "40",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "58",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Which is the strongest acid?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "HClO",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "HClO₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "HClO₃",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "HClO₄",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "Which element belongs to group IV A of periodic table?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Barium",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Iodine",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Lead",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Oxygen",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Which one of the given is not an alkali metal?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Francium",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Caesium",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Rubidium",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Radium",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "For which crop, ammonium nitrate fertilizer is not used:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cotton",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Wheat",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Sugarcane",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Paddy rice",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "Vegetable oil is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Un-saturated fatty acid[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Glycerides of unsaturated acid",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Glycerides of saturated fatty acid",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Essential oils obtained from plants",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "During nitration of benzene, the reactive nitrating agent is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "NO₃",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NO₂⁺",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NO₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "HNO₃",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "The presence of a double bond in a compound is the sign of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Saturation",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Unsaturation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Substitution",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "In t-butyl alcohol, the tertiary carbon is bonded to ------- hydrogen atom/s.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "No",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "The colour of transition metal complexes, is due to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "d-d transition of electrons",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ionization",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Paramagnetic nature",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Loss of S-electrons",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Boric Acid can not be used:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "As antiseptic in medicine",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "For washing eyes",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "In soda bottles",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "For enamels and glazes",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "The brown gas is formed, when metal reduces HNO₃ to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "N₂O₅",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "N₂O₃",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NO₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NO",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "The anhydride of HClO₄ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ClO₃",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ClO₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cl₂O₇",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Which of the given sulphates is not soluble in water?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sodium sulphate",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Potassium sulphate",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Zinc sulphate",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Barium sulphate",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Na forms ------- oxide:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Basic",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Amphoteric",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Acidic",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Super",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Ecosystem is a smaller unit of--------",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Biosphere",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Atmosphere",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Lithosphere",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Hydrosphere",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "The value of ------- is an indirect measure of chemically oxidizable matter in water.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "COD",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "BOD",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "DO",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "The nitrogen present in some fertilizers helps plants:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "To fight against diseases",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "To produce fat",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "To produce protein",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "To undergo photosynthesis",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "Which of the given polymers is a synthetic polymer?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Animal fat",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Starch",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cellulose",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Polyester",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "Acetic acid is manufactured by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Distillation",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Fermentation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ozonolysis",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Esterification",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "Which of the given compounds will not give iodoform test on treatment with I₂/NaOH?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Acetaldehyde",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Acetone",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Butanone",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3-pentanone",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "Methyl alcohol is not used:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "As a solvent",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "As an anti-freezing agent",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "As a substitute for petrol",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "For denaturing of ethyl alcohol",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "Order of a typical S.N2 reaction in case of primary alkyl halide is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

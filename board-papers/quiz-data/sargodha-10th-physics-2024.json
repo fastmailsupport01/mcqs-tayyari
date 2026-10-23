@@ -1,0 +1,682 @@
+{
+ "board": "BISE Sargodha",
+ "board_slug": "sargodha",
+ "class": "10th",
+ "subject": "Physics",
+ "year": 2024,
+ "slug": "sargodha-10th-physics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The output of a NAND gate is '0' when",
+   "q_ur": "نینڈ گیٹ کی آؤٹ پٹ '0' ہوگی اگر",
+   "options": [
+    {
+     "k": "A",
+     "en": "Both of its inputs are '0'",
+     "ur": "B=0 اور A=0"
+    },
+    {
+     "k": "B",
+     "en": "Both of its inputs are '1'",
+     "ur": "B=1 اور A=1"
+    },
+    {
+     "k": "C",
+     "en": "Any of its inputs is '0'",
+     "ur": "B=0 یا A=0"
+    },
+    {
+     "k": "D",
+     "en": "Any of its inputs is '1'",
+     "ur": "B=1 یا A=1"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Which of the following is not processing?",
+   "q_ur": "کون سا عمل پروسیسنگ نہیں ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Arranging",
+     "ur": "ترتیب دینا"
+    },
+    {
+     "k": "B",
+     "en": "Manipulating",
+     "ur": "جوڑ توڑ کرنا"
+    },
+    {
+     "k": "C",
+     "en": "Gathering",
+     "ur": "اکٹھا کرنا"
+    },
+    {
+     "k": "D",
+     "en": "Calculating",
+     "ur": "حساب کتاب کرنا"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The half-life of a certain isotope is 1 day. What is the quantity of the isotope after 2 days?",
+   "q_ur": "ایک مخصوص آئسوٹوپ کی ہاف لائف ایک دن ہے۔ دو دن گزرنے کے بعد اس آئسوٹوپ کی مقدار کتنی ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "One-half",
+     "ur": "آدھی ہو جائے گی"
+    },
+    {
+     "k": "B",
+     "en": "One-quarter",
+     "ur": "ایک چوتھائی"
+    },
+    {
+     "k": "C",
+     "en": "One-eighth",
+     "ur": "1/8"
+    },
+    {
+     "k": "D",
+     "en": "One-Sixteenth",
+     "ur": "1/16"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Which of the following characteristics of a wave is independent of the others?",
+   "q_ur": "مندرجہ ذیل میں سے ویو کی کون سی خصوصیت دوسری خصوصیات پر منحصر نہیں ہوتی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Speed",
+     "ur": "سپیڈ"
+    },
+    {
+     "k": "B",
+     "en": "Frequency",
+     "ur": "فریکوئنسی"
+    },
+    {
+     "k": "C",
+     "en": "Amplitude",
+     "ur": "ایمپلی ٹیوڈ"
+    },
+    {
+     "k": "D",
+     "en": "Wavelength",
+     "ur": "ویولینتھ"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "If the length of Simple Pendulum is doubled its time period will be.",
+   "q_ur": "اگر سمپل پینڈولم کی لمبائی کو دوگنا کر دیں تو اس کا ٹائم پیریڈ ہو جائے گا",
+   "options": [
+    {
+     "k": "A",
+     "en": "T/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2 T",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "T/√2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√2 T",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The level of noise recommended in most countries over an eight hour work day is usually",
+   "q_ur": "شور کا لیول عام طور پر بہت سے ممالک میں آٹھ گھنٹے روزانہ کے اوقات میں عام طور پر ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "82 - 90 dB",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "83 - 90 dB",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "84 - 90 dB",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "85 - 90 dB",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The loudness of a Sound is most closely related to its.",
+   "q_ur": "ساؤنڈ کی لاؤڈنس کا زیادہ تر انحصار کس پر ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Frequency",
+     "ur": "فریکوئنسی"
+    },
+    {
+     "k": "B",
+     "en": "Period",
+     "ur": "پیریڈ"
+    },
+    {
+     "k": "C",
+     "en": "Wavelength",
+     "ur": "ویولینتھ"
+    },
+    {
+     "k": "D",
+     "en": "Amplitude",
+     "ur": "ایمپلی ٹیوڈ"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Which type of image is formed by a convex lens on a Screen?",
+   "q_ur": "کونویکس لینز سکرین پر کس قسم کی امیج بناتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Inverted and real",
+     "ur": "الٹی اور ریئل"
+    },
+    {
+     "k": "B",
+     "en": "Inverted and virtual",
+     "ur": "الٹی اور ورچوئل"
+    },
+    {
+     "k": "C",
+     "en": "Upright and real",
+     "ur": "سیدھی اور ریئل"
+    },
+    {
+     "k": "D",
+     "en": "Upright and virtual",
+     "ur": "سیدھی اور ورچوئل"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "In compound microscope, eyepiece has focal length",
+   "q_ur": "کمپاؤنڈ مائیکروسکوپ میں آئی پیس کی فوکل لینتھ ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "fe = few cm",
+     "ur": "چند سینٹی میٹر"
+    },
+    {
+     "k": "B",
+     "en": "fe = 1 cm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "fe = 0.5 cm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "fe = 0.25 cm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Electric field lines",
+   "q_ur": "الیکٹرک فیلڈ لائنز ہمیشہ",
+   "options": [
+    {
+     "k": "A",
+     "en": "Always cross each other",
+     "ur": "ایک دوسرے کو عبور کر سکتی ہیں"
+    },
+    {
+     "k": "B",
+     "en": "Never cross each other",
+     "ur": "ایک دوسرے کو عبور نہیں کر سکتیں"
+    },
+    {
+     "k": "C",
+     "en": "Cross each other in the region of strong field",
+     "ur": "زیادہ فیلڈ والے علاقے میں ایک دوسرے کو عبور کرتی ہیں"
+    },
+    {
+     "k": "D",
+     "en": "Cross each other in the region of weak field",
+     "ur": "کم فیلڈ والے علاقے میں ایک دوسرے کو عبور کرتی ہیں"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "What is the power rating of a lamp connected to a 12 V Source when it carries 2.5 A?",
+   "q_ur": "12 V کے سورس سے جوڑے گئے ایک لیمپ کی پاور کی شرح کیا ہوگی، جبکہ اس میں سے 2.5 A کرنٹ بہہ رہا ہو؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "4.8 W",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "14.5 W",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "30 W",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "60 W",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "If the current in a wire which is placed perpendicular to a magnetic field increases the force on the wire.",
+   "q_ur": "اگر میگنیٹک فیلڈ میں عموداً رکھی ہوئی وائر میں سے بہنے والے کرنٹ کی مقدار کو بڑھایا جائے تو وائر پر عمل کرنے والی میگنیٹک فورس",
+   "options": [
+    {
+     "k": "A",
+     "en": "Increases",
+     "ur": "بڑھے گی"
+    },
+    {
+     "k": "B",
+     "en": "Decreases",
+     "ur": "کم ہوگی"
+    },
+    {
+     "k": "C",
+     "en": "Remain the Same",
+     "ur": "تبدیل نہیں ہوگی"
+    },
+    {
+     "k": "D",
+     "en": "Will be zero",
+     "ur": "صفر ہوگی"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "In an ideal transformer Pout = Pin this is according to Law of conservation of",
+   "q_ur": "آئیڈیل ٹرانسفارمر میں Pout = Pin کس کنزرویشن کے قانون کے مطابق ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Energy",
+     "ur": "انرجی"
+    },
+    {
+     "k": "B",
+     "en": "Charge",
+     "ur": "چارج"
+    },
+    {
+     "k": "C",
+     "en": "Momentum",
+     "ur": "مومنٹم"
+    },
+    {
+     "k": "D",
+     "en": "Mass",
+     "ur": "ماس"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "The presence of a magnetic field can be detected by a",
+   "q_ur": "میگنیٹک فیلڈ کی موجودگی کا پتا لگایا جا سکتا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "Small mass",
+     "ur": "چھوٹے ماس سے"
+    },
+    {
+     "k": "B",
+     "en": "Magnetic compass",
+     "ur": "میگنیٹک نیڈل سے"
+    },
+    {
+     "k": "C",
+     "en": "Stationary Positive Charge",
+     "ur": "ساکن پازیٹیو چارج سے"
+    },
+    {
+     "k": "D",
+     "en": "Stationary negative Charge",
+     "ur": "ساکن نیگیٹیو چارج سے"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "The Boolean expression for OR gate is",
+   "q_ur": "OR گیٹ کی بولین مساوات ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "X = A̅.B̅",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "X = (A+B)̅",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "X = A. B",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "X = A + B",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "From which of the following we can get information almost about everything",
+   "q_ur": "مندرجہ ذیل میں سے کس سے آپ ہر طرح کی انفارمیشن حاصل کر سکتے ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Internet",
+     "ur": "انٹرنیٹ"
+    },
+    {
+     "k": "B",
+     "en": "Teacher",
+     "ur": "استاد"
+    },
+    {
+     "k": "C",
+     "en": "Book",
+     "ur": "کتاب"
+    },
+    {
+     "k": "D",
+     "en": "Computer",
+     "ur": "کمپیوٹر"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The radio isotopes used to diagnose the brain tumer",
+   "q_ur": "ریڈیو آئسوٹوپس جو دماغ کی رسولی کی تشخیص کے لیے استعمال ہوتا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "C-14",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "P-32",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Co-60",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "I-131",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "A radioactive nuclied decay by emitting a beta particle. The atomic number of the nuclied",
+   "q_ur": "بیٹا ذرے کے دوران نیوکلائیڈ کا اٹامک نمبر ہو جاتا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "Unchanged",
+     "ur": "تبدیل نہیں ہوتا"
+    },
+    {
+     "k": "B",
+     "en": "Decrease by 1",
+     "ur": "ایک کم ہو جاتا ہے"
+    },
+    {
+     "k": "C",
+     "en": "Increase by 1",
+     "ur": "ایک بڑھ جاتا ہے"
+    },
+    {
+     "k": "D",
+     "en": "Increase by 2",
+     "ur": "دو بڑھ جاتا ہے"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "In mass spring system, when mass m moves towards mean position. The magnitude of restoring force",
+   "q_ur": "ماس سپرنگ سسٹم میں جب ماس m وسطی پوزیشن کی طرف حرکت کرتا ہے تو ریسٹورنگ فورس کی مقدار",
+   "options": [
+    {
+     "k": "A",
+     "en": "Increases",
+     "ur": "بڑھ جاتی ہے"
+    },
+    {
+     "k": "B",
+     "en": "Decreases",
+     "ur": "کم ہوتی ہے"
+    },
+    {
+     "k": "C",
+     "en": "Remain same",
+     "ur": "تبدیل نہیں ہوتی"
+    },
+    {
+     "k": "D",
+     "en": "Become double",
+     "ur": "دوگنا ہو جاتی ہے"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Which form of energy is sound?",
+   "q_ur": "ساؤنڈ انرجی کی کون سی قسم ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "Chemical",
+     "ur": "کیمیکل"
+    },
+    {
+     "k": "B",
+     "en": "Electrical",
+     "ur": "الیکٹریکل"
+    },
+    {
+     "k": "C",
+     "en": "Mechanical",
+     "ur": "مکینیکل"
+    },
+    {
+     "k": "D",
+     "en": "Thermal",
+     "ur": "تھرمل"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "In refraction , The speed of water wave changes due to change in",
+   "q_ur": "ریفریکشن میں پانی کی ویوز کی سپیڈ میں تبدیلی کس کے تبدیل ہونے کی وجہ سے ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Wavelength",
+     "ur": "ویولینتھ"
+    },
+    {
+     "k": "B",
+     "en": "Frequency",
+     "ur": "فریکوئنسی"
+    },
+    {
+     "k": "C",
+     "en": "Direction",
+     "ur": "سمت"
+    },
+    {
+     "k": "D",
+     "en": "Amplitude",
+     "ur": "ایمپلی ٹیوڈ"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "The coulombs force between two point charges each of magnitude 1 C separated by a distance of 3 m is",
+   "q_ur": "1 C چارج کے حامل دو پوائنٹ چارجز جو کارڈ سیانی فاصلہ 3m ہے ان کے درمیان کولمب فورس ہوگی",
+   "options": [
+    {
+     "k": "A",
+     "en": "9 × 10⁻⁹ N",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "9 × 10⁹ N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1 × 10⁻⁹ N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1 × 10⁹ N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "What is the Power rating of a lamp connected to a 12 volt source when it carries 2.5 A current",
+   "q_ur": "12 V کے سورس سے جوڑے گئے ایک لیمپ کی پاور کی شرح کیا ہوگی جبکہ اس میں سے 2.5 A کرنٹ بہہ رہا ہو۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "4.8 W",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "14.5 W",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "30 W",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "60 W",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "The resistance of a conductor increases with the increase of its",
+   "q_ur": "ایک کنڈکٹر کی رزسٹنس کس کے بڑھنے سے بڑھ جاتی ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "Radius",
+     "ur": "ریڈیس"
+    },
+    {
+     "k": "B",
+     "en": "Diameter",
+     "ur": "ڈائیا میٹر"
+    },
+    {
+     "k": "C",
+     "en": "Area",
+     "ur": "ایریا"
+    },
+    {
+     "k": "D",
+     "en": "Length",
+     "ur": "لمبائی"
+    }
+   ]
+  }
+ ]
+}

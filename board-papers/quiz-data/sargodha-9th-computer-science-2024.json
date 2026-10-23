@@ -1,0 +1,570 @@
+{
+ "board": "BISE Sargodha",
+ "board_slug": "sargodha",
+ "class": "9th",
+ "subject": "Computer Science",
+ "year": 2024,
+ "slug": "sargodha-9th-computer-science-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Which of the following is not characteristics of Phishing website.",
+   "q_ur": "درج ذیل میں سے فشنگ ویب سائٹ کی خوبی نہیں ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Similar domain of actual website",
+     "ur": "اصل ویب سائٹ جیسی ڈومین"
+    },
+    {
+     "k": "B",
+     "en": "Using of forms to collect visitors",
+     "ur": "وازٹرز کو جمع کرنے کے لیے فارم کا استعمال"
+    },
+    {
+     "k": "C",
+     "en": "Actual link to website",
+     "ur": "ویب سائٹ سے اصل لنک"
+    },
+    {
+     "k": "D",
+     "en": "E mail account update",
+     "ur": "ای میل اکاؤنٹ اپ ڈیٹ"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Symbol of copy right is ______",
+   "q_ur": "کاپی رائٹ کی علامت ______ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "©",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "®",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "$",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "®",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "To Save the HTML page you can use ______ as file extension.",
+   "q_ur": "ایک HTML پیج کو محفوظ کرنے کیلئے ہم ______ ایکسٹینشن استعمال کرتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "doc",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "XLS",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ppt",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "html",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Which Symbol in the flowchart is used to either start or end the flow chart?",
+   "q_ur": "فلو چارٹ میں کونسی علامت آغاز اور اختتام کے لیے استعمال کی جاتی ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "Terminal",
+     "ur": "ٹرمینل"
+    },
+    {
+     "k": "B",
+     "en": "Connector",
+     "ur": "کنکٹر"
+    },
+    {
+     "k": "C",
+     "en": "Process",
+     "ur": "عمل"
+    },
+    {
+     "k": "D",
+     "en": "Decision",
+     "ur": "فیصلہ سازی"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "______ Solution is tested on extreme values",
+   "q_ur": "______ حل کو انتہائی اقدار کے لیے ٹیسٹ کیا جاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Valid test data",
+     "ur": "درست ٹیسٹ ڈیٹا"
+    },
+    {
+     "k": "B",
+     "en": "Invalid test data",
+     "ur": "نادرست ٹیسٹ ڈیٹا"
+    },
+    {
+     "k": "C",
+     "en": "Boundary test data",
+     "ur": "باؤنڈری ٹیسٹ ڈیٹا"
+    },
+    {
+     "k": "D",
+     "en": "Absent data",
+     "ur": "عدم دستیاب ڈیٹا"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Number \"17\" is equal to ______ in binary system.",
+   "q_ur": "بائنری سسٹم میں نمبر \"17\" ______ کے برابر ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "10000",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10110",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10001",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10100",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The ______ element is a container for metadata",
+   "q_ur": "اپنے اندر میٹا ڈیٹا رکھتا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "< body >",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "< head >",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "< title >",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "< html >",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "At least ______ byte is required to store any piece of information in computer memory",
+   "q_ur": "کسی بھی انفارمیشن کو محفوظ کرنے کیلئے کم سے کم ______ بائٹ کی ضرورت ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "DHCP stands for ______",
+   "q_ur": "DHCP کا مخفف ______ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Data Hosting Computer Protocol",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Data Host Configuration Protocol",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Dynamic Host Computer Protocol",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Dynamic Host Configuration Protocol",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Web browsers and Web servers function together as a ______ system.",
+   "q_ur": "ویب براؤزر اور ویب سرور مل کر ______ سسٹم تشکیل دیتے ہیں",
+   "options": [
+    {
+     "k": "A",
+     "en": "Client System",
+     "ur": "کلائنٹ سسٹم"
+    },
+    {
+     "k": "B",
+     "en": "Client Server System",
+     "ur": "کلائنٹ سرور سسٹم"
+    },
+    {
+     "k": "C",
+     "en": "Server System",
+     "ur": "سرور سسٹم"
+    },
+    {
+     "k": "D",
+     "en": "Computer System",
+     "ur": "کمپیوٹر سسٹم"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "In flowchart, ◇ symbol represents",
+   "q_ur": "فلو چارٹ میں ◇ علامت ظاہر کرتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Input",
+     "ur": "ان پٹ"
+    },
+    {
+     "k": "B",
+     "en": "Terminal",
+     "ur": "ٹرمینل"
+    },
+    {
+     "k": "C",
+     "en": "Decision",
+     "ur": "فیصلہ"
+    },
+    {
+     "k": "D",
+     "en": "Output",
+     "ur": "آؤٹ پٹ"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "In algorithm, that is used to check the condition",
+   "q_ur": "الگورتھم میں کنڈیشن کو چانچنے کے لیے استعمال ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Start",
+     "ur": "سٹارٹ"
+    },
+    {
+     "k": "B",
+     "en": "If-else",
+     "ur": "اف۔ایلس"
+    },
+    {
+     "k": "C",
+     "en": "Set",
+     "ur": "سیٹ"
+    },
+    {
+     "k": "D",
+     "en": "Goto",
+     "ur": "گوٹو"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Digits in decimal system are",
+   "q_ur": "اعشاری نظام میں ہندسے ہوتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "0 - 10",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1 - 10",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0 - 9",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1 - 9",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "In Boolean algebra, A OR False = ______",
+   "q_ur": "بولین الجبرا میں A OR False برابر ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": "یہ تمام"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Protocol covers",
+   "q_ur": "پروٹوکول کام سرانجام دیتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Authentication",
+     "ur": "شناخت کی تصدیق کرنا"
+    },
+    {
+     "k": "B",
+     "en": "Error detection",
+     "ur": "غلطی معلوم کرنا"
+    },
+    {
+     "k": "C",
+     "en": "Correction",
+     "ur": "درستی کرنا"
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": "یہ تمام"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Receiver must be capable of accepting the ______",
+   "q_ur": "وصول کنندہ میں ______ وصول کرنے کی صلاحیت ہونی چاہیے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Message",
+     "ur": "پیغام"
+    },
+    {
+     "k": "B",
+     "en": "Protocol",
+     "ur": "پروٹوکول"
+    },
+    {
+     "k": "C",
+     "en": "Address",
+     "ur": "ایڈریس"
+    },
+    {
+     "k": "D",
+     "en": "Information",
+     "ur": "معلومات"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Password must be ______ character long.",
+   "q_ur": "پاسورڈ میں کم سے کم حروف ہونے چاہئیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "06",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "08",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "12",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Collection of irregular text that make sure that the consumer is human, is called ______",
+   "q_ur": "مختلف بے ترتیب حروف اور اعداد کا مجموعہ جو یقینی بناتا ہے کہ صارف کوئی انسان ہے، ______ کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Password",
+     "ur": "پاسورڈ"
+    },
+    {
+     "k": "B",
+     "en": "Signature line",
+     "ur": "سگنیچر لائن"
+    },
+    {
+     "k": "C",
+     "en": "Verification",
+     "ur": "تصدیق"
+    },
+    {
+     "k": "D",
+     "en": "CAPTCHA",
+     "ur": "کیپچا"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "HTML tags are enclosed in",
+   "q_ur": "HTML ٹیگز کس کے درمیان لکھے جاتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "( )",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[ ]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "< >",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{ }",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "To insert image in the web page, the tag used is",
+   "q_ur": "ویب پیج پر تصویر داخل کرنے کے لیے ٹیگ استعمال ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "< img >",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "< scr >",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "< i-m >",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "< pic >",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

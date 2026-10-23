@@ -1,0 +1,850 @@
+{
+ "board": "BISE Sargodha",
+ "board_slug": "sargodha",
+ "class": "10th",
+ "subject": "Mathematics",
+ "year": 2024,
+ "slug": "sargodha-10th-mathematics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Mean is affected by change in",
+   "q_ur": "حسابی اوسط ______ تبدیل کرنے سے اثر انداز ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Place",
+     "ur": "جگہ"
+    },
+    {
+     "k": "B",
+     "en": "Scale",
+     "ur": "پیمانہ"
+    },
+    {
+     "k": "C",
+     "en": "Rate",
+     "ur": "مقدار / خرچہ"
+    },
+    {
+     "k": "D",
+     "en": "Value",
+     "ur": "قیمت"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "A tangent line touches the circle at",
+   "q_ur": "ایک خط مماس دائرے کو ______ کاٹتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "three points",
+     "ur": "تین نقاط پر"
+    },
+    {
+     "k": "B",
+     "en": "Two points",
+     "ur": "دو نقاط پر"
+    },
+    {
+     "k": "C",
+     "en": "Single point",
+     "ur": "ایک نقطے پر"
+    },
+    {
+     "k": "D",
+     "en": "Four points",
+     "ur": "چار نقاط پر"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The arcs opposite to incongruent central angles of a circle are always ______",
+   "q_ur": "ایک دائرے میں دو غیر متشابہ مرکزی زاویوں کے سامنے والی قوسین ______ ہوتی ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Parallel",
+     "ur": "متوازی"
+    },
+    {
+     "k": "B",
+     "en": "Perpendicular",
+     "ur": "عمود"
+    },
+    {
+     "k": "C",
+     "en": "Congruent",
+     "ur": "متشابہ"
+    },
+    {
+     "k": "D",
+     "en": "Incongruent",
+     "ur": "غیر متشابہ"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The solution set of equation 2x² - 50 = 0 is",
+   "q_ur": "مساوات 2x² - 50 = 0 کا حل سیٹ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "{±25}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "± 25",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "± 5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{±5}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "sec θ cot θ = ------",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/cos θ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "sin θ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "sin θ/cos θ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/sin θ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The circumference of a circle is called",
+   "q_ur": "دائرے کا محیط کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Chord",
+     "ur": "وتر"
+    },
+    {
+     "k": "B",
+     "en": "Boundry",
+     "ur": "سرحد"
+    },
+    {
+     "k": "C",
+     "en": "Segment",
+     "ur": "قطعہ"
+    },
+    {
+     "k": "D",
+     "en": "Arc",
+     "ur": "قوس"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The number of terms in a standard quadratic equation az² + bz + c = 0 is",
+   "q_ur": "دو درجی مساوات az² + bz + c = 0 میں رقموں کی تعداد ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Sum of the cube roots of unity is",
+   "q_ur": "اکائی کے جزر المکعب کا مجموعہ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "If α, β are the roots of 3x² - 5x + 7 = 0, then product of the roots 2α and 2β is",
+   "q_ur": "اگر α، β مساوات 3x² - 5x + 7 = 0 کے روٹس (Roots) ہوں تو 2α اور 2β کا حاصل ضرب ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "3/28",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "28/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7/3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3/7",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "If t² ∝ 1/u³, then",
+   "q_ur": "اگر t² ∝ 1/u³ ہو تو",
+   "options": [
+    {
+     "k": "A",
+     "en": "t² = ku³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "t² = 1/u³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "t² = u²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "t² = k/u³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "In a proportial a:b::c:d, a and d are called",
+   "q_ur": "تناسب a:b::c:d میں a اور d کہلاتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Means",
+     "ur": "وسطین"
+    },
+    {
+     "k": "B",
+     "en": "Entremes",
+     "ur": "طرفین"
+    },
+    {
+     "k": "C",
+     "en": "Third proportional",
+     "ur": "تیسرا تناسب"
+    },
+    {
+     "k": "D",
+     "en": "Concequent",
+     "ur": "دوسری رقم"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "(x + 3)² = x² + 6x + 9 is",
+   "q_ur": "(x + 3)² = x² + 6x + 9 ایک ______ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "A linear equation",
+     "ur": "ایک درجی مساوات"
+    },
+    {
+     "k": "B",
+     "en": "An equation",
+     "ur": "مساوات"
+    },
+    {
+     "k": "C",
+     "en": "An identity",
+     "ur": "مماثلت"
+    },
+    {
+     "k": "D",
+     "en": "An inequation",
+     "ur": "غیر مساوات"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Power set of an empty set is",
+   "q_ur": "خالی سیٹ کا پاور سیٹ ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "{a}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{φ, {a}}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{φ}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "φ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "The domain of R = {(0,a), (a,b), (b,b), (b,c)} is",
+   "q_ur": "اگر R = {(0,a), (a,b), (b,b), (b,c)} ہو تو Dom R ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "{0, a, b}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{0, a, c}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{a, b, c}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{0, b, c}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "A chord passing through the centre of a circle is called",
+   "q_ur": "دائرے کے مرکز سے گزرنے والا وتر کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Diameter",
+     "ur": "قطر"
+    },
+    {
+     "k": "B",
+     "en": "Radius",
+     "ur": "رداس"
+    },
+    {
+     "k": "C",
+     "en": "Circumference",
+     "ur": "محیط"
+    },
+    {
+     "k": "D",
+     "en": "Secant",
+     "ur": "قطعہ خط"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "An equation of the type is 3^x + 3^(2-x) + 6 = 0",
+   "q_ur": "مساوات 3^x + 3^(2-x) + 6 = 0 کی قسم ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Exponential equation",
+     "ur": "قوت نمائی مساوات"
+    },
+    {
+     "k": "B",
+     "en": "Radical equation",
+     "ur": "جذری مساوات"
+    },
+    {
+     "k": "C",
+     "en": "Reciprocal equation",
+     "ur": "معکوس مساوات"
+    },
+    {
+     "k": "D",
+     "en": "Logrithemic equation",
+     "ur": "لوگرتھمی مساوات"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Cancellation of x on both sides of 5x² = 30x means",
+   "q_ur": "5x² = 30x سے x کو ختم کرنے سے مراد ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Gain of one root",
+     "ur": "ایک روٹ کا حاصل کرنا"
+    },
+    {
+     "k": "B",
+     "en": "Loss of one root",
+     "ur": "ایک روٹ کا ضائع کرنا"
+    },
+    {
+     "k": "C",
+     "en": "No loss of any root",
+     "ur": "کسی روٹ کا ضائع نہ کرنا"
+    },
+    {
+     "k": "D",
+     "en": "Loss of two roots",
+     "ur": "دو روٹس کا ضائع کرنا"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Cube roots of -27 are ______",
+   "q_ur": "27- کے جزر المکعب ______ ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "3, 3ω, 3ω²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-3, 3ω, -3ω²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-3, -3ω, -3ω²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3, -3ω, 3ω²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Two square roots of unity are",
+   "q_ur": "اکائی کے دو جزر المربع ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1, ω",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1, -ω",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ω, ω²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1, -1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "If the ratios a + 3 : 7 + a and 4 : 5 are equal then a is",
+   "q_ur": "اگر a + 3 : 7 + a اور 4 : 5 برابر نسبتیں ہوں تو a برابر ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "13",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "14",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "15",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "16",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "The fourth proportional w of x : y :: v : w is",
+   "q_ur": "x : y :: v : w میں چوتھا تناسب w ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "xy/v",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "vy/x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "xyv",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x/vy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "(2x+1)/((x+1)(x-1)) is",
+   "q_ur": "(2x+1)/((x+1)(x-1)) [illegible in source scan] ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Improper fraction",
+     "ur": "غیر واجب کسر"
+    },
+    {
+     "k": "B",
+     "en": "An equation",
+     "ur": "ایک مساوات"
+    },
+    {
+     "k": "C",
+     "en": "A proper fraction",
+     "ur": "واجب کسر"
+    },
+    {
+     "k": "D",
+     "en": "An inequation",
+     "ur": "ایک غیر مساوات"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "If x ∈ A ∩ B, then",
+   "q_ur": "اگر x ∈ A ∩ B تو",
+   "options": [
+    {
+     "k": "A",
+     "en": "x ∈ A and x ∉ B",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x ∉ A and x ∈ B",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x ∉ A and x ∉ B",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x ∈ A and x ∈ B",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "The power set of an empty set is",
+   "q_ur": "خالی سیٹ کا پاور سیٹ ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "{φ}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{a}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{φ, {a}}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{φ, a}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "A histogram is a set of adjacent.",
+   "q_ur": "کالم نقطہ مجموعہ ہے متصل",
+   "options": [
+    {
+     "k": "A",
+     "en": "Squares",
+     "ur": "مربعوں کا"
+    },
+    {
+     "k": "B",
+     "en": "Rectangles",
+     "ur": "مستطیلوں کا"
+    },
+    {
+     "k": "C",
+     "en": "Circles",
+     "ur": "دائروں کا"
+    },
+    {
+     "k": "D",
+     "en": "Triangles",
+     "ur": "تکونوں کا"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "sec² θ = ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 - sin²θ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1 + tan²θ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1 - tan²θ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1 + cos²θ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Radii of a circle are",
+   "q_ur": "ایک ہی دائرے کے رداس ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Half of any chord",
+     "ur": "کسی بھی وتر سے آدھے"
+    },
+    {
+     "k": "B",
+     "en": "Double of the diameter",
+     "ur": "قطر سے دوگنا"
+    },
+    {
+     "k": "C",
+     "en": "All unequal",
+     "ur": "تمام غیر برابر"
+    },
+    {
+     "k": "D",
+     "en": "All equal",
+     "ur": "تمام برابر"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "A line which has two points in common with a circle is called ______ of circle.",
+   "q_ur": "ایک خط جس کے دائرے کے ساتھ دو نقاط مشترک ہوں کہتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sine of a circle",
+     "ur": "دائرے کا سائن"
+    },
+    {
+     "k": "B",
+     "en": "Cosine of a circle",
+     "ur": "دائرے کا کوسائن"
+    },
+    {
+     "k": "C",
+     "en": "Tangent of circle",
+     "ur": "دائرے کا ٹینجنٹ"
+    },
+    {
+     "k": "D",
+     "en": "Secant of circle",
+     "ur": "دائرے کا سیکنٹ"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "The arc opposite to incongruent angles of a circle are always ______",
+   "q_ur": "ایک دائرے میں دو غیر متماثل مرکزی زاویوں کے سامنے والی قوسین ______ ہوتی ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Incongruent",
+     "ur": "غیر متماثل"
+    },
+    {
+     "k": "B",
+     "en": "Congruent",
+     "ur": "متماثل"
+    },
+    {
+     "k": "C",
+     "en": "Parallel",
+     "ur": "متوازی"
+    },
+    {
+     "k": "D",
+     "en": "Perpendicular",
+     "ur": "عمود"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "How many common tangents can be drawn for two touching circles?",
+   "q_ur": "دو مس کرتے ہوئے دائروں کے کتنے مشترک مماس بنائے جا سکتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

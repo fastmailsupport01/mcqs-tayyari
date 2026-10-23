@@ -1,0 +1,570 @@
+{
+ "board": "BISE Sahiwal",
+ "board_slug": "sahiwal",
+ "class": "12th",
+ "subject": "Mathematics",
+ "year": 2024,
+ "slug": "sahiwal-12th-mathematics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "lim_(x→a) (f(x)−f(a))/(x−a) =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "f'(x)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "f'(0)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "f'(x−a)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "f'(a)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The range of f(x)=2+√(x+1) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[−1,∞[",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[0,∞[",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[2,∞[",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[−2,∞[",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "If f(x)=tan x then f'(π/3) =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "If f(x)=x³+2x+9 then f'''(0) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Maclaurin series for 1/(1+x) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1−x+x²−x³+...",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1−x−x²−x³−x⁴...",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1+x+x²+x³+...",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−1−x−x²−x³−[illegible in source scan]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "A function f(x) is increasing in the interval (a,b) if f(x₂)>f(x₁) whenever:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x₂>x₁",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x₂<x₁",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x₂=x₁",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "∫(sin2x/sin x)dx =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "sin2x+c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2sin2x+c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/2 sin x+c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2sin x+c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Solution of differential equation dy/dx=−y is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "y=c e⁻ˣ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "y=ceˣ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "y=eᶜˣ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "y=x e⁻ˣ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "∫eˣ/(eˣ−2) dx =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ln(eˣ+2)+c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ln(eˣ+3)+c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ln(eˣ−2)+c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ln(eˣ−3)+[illegible in source scan]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "If ∫f(x)dx=1/a sec⁻¹(x/a)+c then f(x)=",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/√(x²−a²)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/(x√(x²−a²))",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/(x√(x²+a²))",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/(x√(a²−x²))",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Equation of a line passing through (−2,5) having slope 0 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "y=−5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "y=5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x=−2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x=2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "If the distance of the point (5,x) from x−axis is 3 then x=",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "The slope of the line with inclination 60° is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/√3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "(3,2) is not in the solution of inequality:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x+y>2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x−y>1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3x+5y>7",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3x−7y<3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "The vertex of the parabola (x−1)²=8(y+2) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(1,−2)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(0,1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(2,0)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(0,0)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "The end points of the major axis of the ellipse are called its:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Foci",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Vertices",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Covertices",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Directrix",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "Directrix of parabola x²=16y is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x+4=0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x−4=0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "y−4=0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "y+4=0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group I",
+   "q_en": "For any two vectors a and b projection of a on b is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(a·b)/|a|",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(a·b)/|b|",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(a·b)/(|a||b|)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a·b",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group I",
+   "q_en": "The unit vector of 2i+j is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2i−j",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(2i+j)/5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(2i+j)/3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(2i+j)/√5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group I",
+   "q_en": "If (U·V)/(|U||V|)=1/2, then the angle between U and V is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "30°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "300°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "90°",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

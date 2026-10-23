@@ -1,0 +1,682 @@
+{
+ "board": "BISE Sahiwal",
+ "board_slug": "sahiwal",
+ "class": "10th",
+ "subject": "Physics",
+ "year": 2024,
+ "slug": "sahiwal-10th-physics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The presence of magnetic field can be detected by a:",
+   "q_ur": "میگنیٹک فیلڈ کی موجودگی کا پتہ لگایا جا سکتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Stationary positive charge",
+     "ur": "ساکن پوزیٹو چارج سے"
+    },
+    {
+     "k": "B",
+     "en": "Stationary negative charge",
+     "ur": "ساکن نیگیٹو چارج سے"
+    },
+    {
+     "k": "C",
+     "en": "Small mass",
+     "ur": "چھوٹے ماس سے"
+    },
+    {
+     "k": "D",
+     "en": "Magnetic compass",
+     "ur": "میگنیٹک کمپاس سے"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The formula of electric intensity is:-",
+   "q_ur": "الیکٹرک انٹینسٹی کا فارمولا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "E=V/q",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "E=k/q",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "E=F/q",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "E=W/V",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "If two resistors of 6kΩ and 4kΩ are connected in series then equivalent resistance is:",
+   "q_ur": "اگر 6kΩ اور 4kΩ کے دو رزسٹرز کو سیریز میں جوڑا جائے تو مساوی رزسٹنس ہوگی۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "2 kΩ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10 kΩ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "24 kΩ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "12 kΩ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Specific resistance of copper is:",
+   "q_ur": "کاپر کی سپیسیفک رزسٹنس ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.69x10⁻⁸Ωm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.70x10⁻⁸Ωm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2.75x10⁻⁸Ωm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5.25x10⁻⁸Ωm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The unit of intensity of sound is:",
+   "q_ur": "آواز کی انٹینسٹی کا یونٹ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "W m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "W m⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "W m⁻²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "W⁻¹ m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Refractive index of ice is:",
+   "q_ur": "برف کا ریفریکٹو انڈیکس ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.66",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.36",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.33",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.31",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "For a normal person, audible frequency range for sound wave lies between:",
+   "q_ur": "ایک عام آدمی کے لیے قابل سماعت ساؤنڈ ویو کی فریکوئنسی کی حد ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "20Hz-20kHz",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "30Hz-30kHz",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "25Hz-20kHz",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10Hz-10kHz",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "If the mass of the bob of a pendulum is increased by a factor of 3, the period of pendulum's motion will:",
+   "q_ur": "اگر پینڈولم کی گولی کا ماس تین گنا کر دیا جائے تو اس پینڈولم کی موشن کا پیریڈ ہو جائے گا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Be increased by a factor 2",
+     "ur": "دو گنا بڑھ جائے گا"
+    },
+    {
+     "k": "B",
+     "en": "Remain the same",
+     "ur": "کوئی فرق نہیں پڑے گا"
+    },
+    {
+     "k": "C",
+     "en": "Be decreased by a factor 2",
+     "ur": "دو گنا کم ہو جائے گا"
+    },
+    {
+     "k": "D",
+     "en": "Be decreased by factor 4",
+     "ur": "چار گنا کم ہو جائے گا"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "When a heavy nucleus is split into two lighter nuclei, the process would:",
+   "q_ur": "جب ایک بھاری نیوکلیئس دو چھوٹے نیوکلیائی میں تقسیم ہوتا ہے تو اس عمل سے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Absorb nuclear energy",
+     "ur": "نیوکلیئر انرجی جذب ہوگی"
+    },
+    {
+     "k": "B",
+     "en": "Release nuclear energy",
+     "ur": "نیوکلیئر انرجی خارج ہوگی"
+    },
+    {
+     "k": "C",
+     "en": "Absorb chemical energy",
+     "ur": "کیمیکل انرجی جذب ہوگی"
+    },
+    {
+     "k": "D",
+     "en": "Release chemical energy",
+     "ur": "کیمیکل انرجی خارج ہوگی"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Half life of polonium (₈₄²¹⁰Po) is:",
+   "q_ur": "پولونیم (₈₄²¹⁰Po) کی ہاف لائف ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "30 days",
+     "ur": "30 دن"
+    },
+    {
+     "k": "B",
+     "en": "150 days",
+     "ur": "150 دن"
+    },
+    {
+     "k": "C",
+     "en": "138 days",
+     "ur": "138 دن"
+    },
+    {
+     "k": "D",
+     "en": "190 days",
+     "ur": "190 دن"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "If X=A.B then X is \"1\" when:",
+   "q_ur": "اگر X=A.B تو X لیول \"1\" پر ہوگا جب۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "A=1 and B=1",
+     "ur": "A=1 اور B=1"
+    },
+    {
+     "k": "B",
+     "en": "A=0 and B=0",
+     "ur": "A=0 اور B=0"
+    },
+    {
+     "k": "C",
+     "en": "A=0 and B=1",
+     "ur": "A=0 اور B=1"
+    },
+    {
+     "k": "D",
+     "en": "A=1 and B=0",
+     "ur": "A=1 اور B=0"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "How many parts does the CBIS consist of?",
+   "q_ur": "CBIS کتنے اجزاء پر مشتمل ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Which is an example of longitudinal wave?",
+   "q_ur": "طولی لہر کی مثال کونسی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Light wave",
+     "ur": "روشنی کی لہر"
+    },
+    {
+     "k": "B",
+     "en": "Radio wave",
+     "ur": "ریڈیو لہر"
+    },
+    {
+     "k": "C",
+     "en": "Sound wave",
+     "ur": "آواز کی لہر"
+    },
+    {
+     "k": "D",
+     "en": "Water wave",
+     "ur": "پانی کی لہر"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "The most penetrating radiations are:",
+   "q_ur": "سب سے زیادہ نفوذ کرنے والی شعاعیں ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Alpha particles",
+     "ur": "الفا ذرات"
+    },
+    {
+     "k": "B",
+     "en": "Beta particles",
+     "ur": "بیٹا ذرات"
+    },
+    {
+     "k": "C",
+     "en": "Gamma rays",
+     "ur": "گاما شعاعیں"
+    },
+    {
+     "k": "D",
+     "en": "Light rays",
+     "ur": "روشنی کی شعاعیں"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "What does the term E-mail stand for?",
+   "q_ur": "ای میل کی اصطلاح کا کیا مطلب ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Emergency mail",
+     "ur": "ایمرجنسی میل"
+    },
+    {
+     "k": "B",
+     "en": "Electronic mail",
+     "ur": "الیکٹرونک میل"
+    },
+    {
+     "k": "C",
+     "en": "Extra mail",
+     "ur": "ایکسٹرا میل"
+    },
+    {
+     "k": "D",
+     "en": "External mail",
+     "ur": "ایکسٹرنل میل"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "During the process of decay of Alpha Particle, Beta Particle and Gamma Ray, the change in mass number will:",
+   "q_ur": "الفا پارٹیکل، بیٹا پارٹیکل اور گاما رے کے زوال کے عمل کے دوران ماس نمبر میں تبدیلی ہوگی۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "increase by 4",
+     "ur": "4 سے بڑھ جائے گا"
+    },
+    {
+     "k": "B",
+     "en": "increase by 2",
+     "ur": "2 سے بڑھ جائے گا"
+    },
+    {
+     "k": "C",
+     "en": "Decrease by 4",
+     "ur": "4 سے کم ہو جائے گا"
+    },
+    {
+     "k": "D",
+     "en": "Be no change",
+     "ur": "کوئی تبدیلی نہیں ہوگی"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "If the current in a wire which is placed perpendicular to a magnetic field increases, the force on the wire:",
+   "q_ur": "اگر میگنیٹک فیلڈ کے عموداً رکھی گئی تار میں کرنٹ بڑھ جائے تو تار پر فورس۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Increases",
+     "ur": "بڑھے گی"
+    },
+    {
+     "k": "B",
+     "en": "Decreases",
+     "ur": "کم ہوگی"
+    },
+    {
+     "k": "C",
+     "en": "Remains the same",
+     "ur": "وہی رہے گی"
+    },
+    {
+     "k": "D",
+     "en": "Will be zero",
+     "ur": "صفر ہو جائے گی"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Which metal is used as the filament of an electric bulb?",
+   "q_ur": "بجلی کے بلب کے فلامنٹ کے طور پر کونسی دھات استعمال ہوتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Aluminium",
+     "ur": "ایلومینیم"
+    },
+    {
+     "k": "B",
+     "en": "Copper",
+     "ur": "تانبا"
+    },
+    {
+     "k": "C",
+     "en": "Silver",
+     "ur": "چاندی"
+    },
+    {
+     "k": "D",
+     "en": "Tungsten",
+     "ur": "ٹنگسٹن"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "The particles emitted from a hot cathode surface are:",
+   "q_ur": "گرم کیتھوڈ سطح سے خارج ہونے والے ذرات ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Positive ions",
+     "ur": "پوزیٹو آئنز"
+    },
+    {
+     "k": "B",
+     "en": "Negative ions",
+     "ur": "نیگیٹو آئنز"
+    },
+    {
+     "k": "C",
+     "en": "Protons",
+     "ur": "پروٹانز"
+    },
+    {
+     "k": "D",
+     "en": "Electrons",
+     "ur": "الیکٹرانز"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "5 joules of work is needed to shift 10 C of charge from one place to another. The potential difference between both the places is:",
+   "q_ur": "10 کولمب چارج کو ایک جگہ سے دوسری جگہ منتقل کرنے کے لیے 5 جول ورک درکار ہے۔ دونوں جگہوں کے درمیان پوٹینشل ڈفرنس ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.5 V",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2 V",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5 V",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10 V",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "During reflection of light, the angle of incidence is 45°. Its corresponding angle of reflection is:",
+   "q_ur": "روشنی کے انعکاس کے دوران اینگل آف انسیڈنس 45° ہے۔ اس کا متعلقہ اینگل آف ریفلیکشن ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "30°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "90°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "What is the voltage across a 6Ω resistor when 3A of current passes through it?",
+   "q_ur": "6Ω رزسٹر کے گرد وولٹیج کتنا ہوگا جب اس میں سے 3A کرنٹ گزرے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "2 V",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "9 V",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "18 V",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "36 V",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "The bob of a simple pendulum completes 2 cycles in one second. Its frequency will be:",
+   "q_ur": "سادہ پینڈولم کی گولی ایک سیکنڈ میں 2 چکر مکمل کرتی ہے۔ اس کی فریکوئنسی ہوگی۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.5 Hz",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1 Hz",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2 Hz",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2.5 Hz",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "In vacuum, all electromagnetic waves have same:",
+   "q_ur": "خلا میں تمام برقی مقناطیسی لہروں کی ایک جیسی ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Frequency",
+     "ur": "فریکوئنسی"
+    },
+    {
+     "k": "B",
+     "en": "Wavelength",
+     "ur": "ویولینتھ"
+    },
+    {
+     "k": "C",
+     "en": "Amplitude",
+     "ur": "ایمپلیٹیوڈ"
+    },
+    {
+     "k": "D",
+     "en": "Speed",
+     "ur": "سپیڈ"
+    }
+   ]
+  }
+ ]
+}

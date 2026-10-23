@@ -1,0 +1,682 @@
+{
+ "board": "BISE Sargodha",
+ "board_slug": "sargodha",
+ "class": "10th",
+ "subject": "Biology",
+ "year": 2024,
+ "slug": "sargodha-10th-biology-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The number of bones in pectoral girdle is.",
+   "q_ur": "پیکٹورل گرڈل میں ہڈیوں کی تعداد ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "This is a tertiary Carnivore.",
+   "q_ur": "یہ ایک ٹرشری کارنی ور ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Fox",
+     "ur": "لومڑی"
+    },
+    {
+     "k": "B",
+     "en": "Deer",
+     "ur": "ہرن"
+    },
+    {
+     "k": "C",
+     "en": "Wolf",
+     "ur": "بھیڑیا"
+    },
+    {
+     "k": "D",
+     "en": "Lion",
+     "ur": "شیر"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Alcoholic fermentation is carried out in the presence of",
+   "q_ur": "الکوحل فرمینٹیشن ______ کی موجودگی میں وقوع پذیر ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Aspergillus",
+     "ur": "ایسپرجلس"
+    },
+    {
+     "k": "B",
+     "en": "Saccharomyces cerevisiae",
+     "ur": "سکرومائسیز سرویسیائی"
+    },
+    {
+     "k": "C",
+     "en": "Streptococcus",
+     "ur": "سٹریپٹوکوکس"
+    },
+    {
+     "k": "D",
+     "en": "Lectobacillus",
+     "ur": "لیکٹوبیلس"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "An example of discontinuous variations is",
+   "q_ur": "یہ غیر مسلسل تغیرات کی ایک مثال ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Height",
+     "ur": "قد"
+    },
+    {
+     "k": "B",
+     "en": "Weight",
+     "ur": "وزن"
+    },
+    {
+     "k": "C",
+     "en": "Intelligence",
+     "ur": "ذہانت"
+    },
+    {
+     "k": "D",
+     "en": "Blood groups",
+     "ur": "بلڈ گروپس"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "One of the following drug is derived from minerals.",
+   "q_ur": "یہ معدنیات سے حاصل ہونے والی ادویات میں سے ایک ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Aspirin",
+     "ur": "ایسپرین"
+    },
+    {
+     "k": "B",
+     "en": "Digitalis",
+     "ur": "ڈیجی ٹیلس"
+    },
+    {
+     "k": "C",
+     "en": "Iodine tincture",
+     "ur": "آئیوڈین ٹنکچر"
+    },
+    {
+     "k": "D",
+     "en": "Morphine",
+     "ur": "مارفین"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "It is a form of allergy.",
+   "q_ur": "یہ ایک طرح کی الرجی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Emphysema",
+     "ur": "ایمفی سیما"
+    },
+    {
+     "k": "B",
+     "en": "Asthma",
+     "ur": "دمہ"
+    },
+    {
+     "k": "C",
+     "en": "Bronchitis",
+     "ur": "برونکائٹس"
+    },
+    {
+     "k": "D",
+     "en": "Cancer",
+     "ur": "کینسر"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Which one is a waste product of tomatoes.",
+   "q_ur": "ٹماٹر سے نکلنے والا فالتو مادہ کونسا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Resins",
+     "ur": "ریزز"
+    },
+    {
+     "k": "B",
+     "en": "Gums",
+     "ur": "گمز"
+    },
+    {
+     "k": "C",
+     "en": "Latex",
+     "ur": "لیٹکس"
+    },
+    {
+     "k": "D",
+     "en": "Calcium Oxalate",
+     "ur": "کیلشیم آگزالیٹ"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "These are organs, tissues or cells that detect stimuli.",
+   "q_ur": "یہ سٹیمولائی کا پتہ لگانے والے آرگنز، ٹشوز یا سیلز ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Receptors",
+     "ur": "ریسیپٹرز"
+    },
+    {
+     "k": "B",
+     "en": "Coordinators",
+     "ur": "کوآرڈی نیٹرز"
+    },
+    {
+     "k": "C",
+     "en": "Effectors",
+     "ur": "ایفیکٹرز"
+    },
+    {
+     "k": "D",
+     "en": "Glands",
+     "ur": "گلینڈز"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Yeast reproduces asexually by",
+   "q_ur": "یسٹ میں غیر جنسی تولید کا طریقہ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Binary Fission",
+     "ur": "بائنری فشن"
+    },
+    {
+     "k": "B",
+     "en": "Fragmentation",
+     "ur": "فرگمینٹیشن"
+    },
+    {
+     "k": "C",
+     "en": "Budding",
+     "ur": "بڈنگ"
+    },
+    {
+     "k": "D",
+     "en": "Parthenogenesis",
+     "ur": "پارتھینوجینیسس"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "A small underground stem surrounded by thick, fleshy leave with stored food is called.",
+   "q_ur": "ایک زیر زمین چھوٹا تنا جس کے گرد موٹے رس بھرے پتے ہوتے ہیں کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Bulb",
+     "ur": "بلب"
+    },
+    {
+     "k": "B",
+     "en": "Corms",
+     "ur": "کورمز"
+    },
+    {
+     "k": "C",
+     "en": "Rhizomes",
+     "ur": "رائزومز"
+    },
+    {
+     "k": "D",
+     "en": "Suckers",
+     "ur": "سکرز"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Theory of natural selection was proposed by ______",
+   "q_ur": "قدرتی چناؤ کا نظریہ ______ نے پیش کیا۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Lamarck",
+     "ur": "لمارک"
+    },
+    {
+     "k": "B",
+     "en": "Charles Darwin",
+     "ur": "چارلس ڈارون"
+    },
+    {
+     "k": "C",
+     "en": "Mendle",
+     "ur": "مینڈل"
+    },
+    {
+     "k": "D",
+     "en": "Buffon",
+     "ur": "بفن"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "A group of the organisms of same species inhibiting a habitat at a particular time is called.",
+   "q_ur": "کسی ہیبی ٹیٹ میں خاص وقت پر رہنے والا ایک ہی سپیشیز کے جانداروں کا گروہ ______ کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Population",
+     "ur": "پاپولیشن"
+    },
+    {
+     "k": "B",
+     "en": "Biosphere",
+     "ur": "بائیو سفیئر"
+    },
+    {
+     "k": "C",
+     "en": "Ecosystem",
+     "ur": "ایکو سسٹم"
+    },
+    {
+     "k": "D",
+     "en": "Community",
+     "ur": "کمیونٹی"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Rhizopus reproduces asexually by",
+   "q_ur": "رائزوپس غیر جنسی طریقہ تولید میں کہاں سے پیدا ہوتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Budding",
+     "ur": "بڈنگ"
+    },
+    {
+     "k": "B",
+     "en": "Spore formation",
+     "ur": "سپورز بننے سے"
+    },
+    {
+     "k": "C",
+     "en": "Multiple fission",
+     "ur": "ملٹی پل فشن"
+    },
+    {
+     "k": "D",
+     "en": "Endospore formation",
+     "ur": "اینڈو سپورز بننے سے"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "The alleles which are not expressed are called.",
+   "q_ur": "وہ ایلیز جو ظاہر نہیں ہوتے کہلاتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Incomplete dominance",
+     "ur": "ناکمپل ڈومینینس"
+    },
+    {
+     "k": "B",
+     "en": "Dominant",
+     "ur": "غالب"
+    },
+    {
+     "k": "C",
+     "en": "Recessive",
+     "ur": "مغلوب"
+    },
+    {
+     "k": "D",
+     "en": "Homozygous",
+     "ur": "ہوموزائگس"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Cup-shape structure in kidney is called.",
+   "q_ur": "گردے میں کپ نما ساخت کہلاتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hilus",
+     "ur": "ہائلس"
+    },
+    {
+     "k": "B",
+     "en": "Pelvis",
+     "ur": "پیلوس"
+    },
+    {
+     "k": "C",
+     "en": "Bladder",
+     "ur": "بلیڈر"
+    },
+    {
+     "k": "D",
+     "en": "Bowmann's capsule",
+     "ur": "بومین کیپسول"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "The part of brain that receives nerve impulse from skin is called.",
+   "q_ur": "دماغ کا وہ حصہ جو جلد سے نروز امپلس وصول کرتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Frontal",
+     "ur": "فرنٹل"
+    },
+    {
+     "k": "B",
+     "en": "Parietal",
+     "ur": "پیرائیٹل"
+    },
+    {
+     "k": "C",
+     "en": "Occipital",
+     "ur": "اوسی پیٹل"
+    },
+    {
+     "k": "D",
+     "en": "Temporal",
+     "ur": "ٹیمپورل"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The purpose of rib cage is to protect.",
+   "q_ur": "پسلیوں کے پنجرے کا مقصد کن اعضاء کی حفاظت کرنا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Stomach",
+     "ur": "معدہ"
+    },
+    {
+     "k": "B",
+     "en": "Heart and lungs",
+     "ur": "دل اور پھیپھڑے"
+    },
+    {
+     "k": "C",
+     "en": "Kidney",
+     "ur": "گردے"
+    },
+    {
+     "k": "D",
+     "en": "Liver",
+     "ur": "جگر"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Mendel's laws are not implemented on",
+   "q_ur": "مینڈل کے قوانین لاگو نہیں ہوتے",
+   "options": [
+    {
+     "k": "A",
+     "en": "Natural selection",
+     "ur": "قدرتی چناؤ"
+    },
+    {
+     "k": "B",
+     "en": "Artificial selection",
+     "ur": "مصنوعی چناؤ"
+    },
+    {
+     "k": "C",
+     "en": "Co-dominance",
+     "ur": "کوڈومینینس"
+    },
+    {
+     "k": "D",
+     "en": "Evolution",
+     "ur": "ارتقاء"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Which one is the example of Abiotic components.",
+   "q_ur": "یہ ابائیوٹک کمپوننٹ کی مثال ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Producers",
+     "ur": "پروڈیوسرز"
+    },
+    {
+     "k": "B",
+     "en": "Consumers",
+     "ur": "کنزیومرز"
+    },
+    {
+     "k": "C",
+     "en": "Water",
+     "ur": "پانی"
+    },
+    {
+     "k": "D",
+     "en": "Decomposers",
+     "ur": "ڈی کمپوزرز"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Source of energy material for all living organisms is",
+   "q_ur": "تمام جانداروں کیلئے انرجی کا ذریعہ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sun",
+     "ur": "سورج"
+    },
+    {
+     "k": "B",
+     "en": "Earth",
+     "ur": "زمین"
+    },
+    {
+     "k": "C",
+     "en": "Environment",
+     "ur": "ماحول"
+    },
+    {
+     "k": "D",
+     "en": "Plants",
+     "ur": "پودے"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "The protein content produced by microorganisms is called.",
+   "q_ur": "پروٹین کا مواد جو مائیکرو آرگنزمز سے بنایا جائے کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Fermented Food",
+     "ur": "فرمنٹڈ فوڈ"
+    },
+    {
+     "k": "B",
+     "en": "GMO",
+     "ur": "جی ایم او"
+    },
+    {
+     "k": "C",
+     "en": "Formic Acid",
+     "ur": "فورمک ایسڈ"
+    },
+    {
+     "k": "D",
+     "en": "Mini food",
+     "ur": "منی فوڈ"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Who proposed the idea of sterile surgery?",
+   "q_ur": "جراثیموں سے پاک سرجری کا تصور کس نے پیش کیا۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "A. Flemming",
+     "ur": "اے فلیمنگ"
+    },
+    {
+     "k": "B",
+     "en": "Joseph Lister",
+     "ur": "جوزف لسٹر"
+    },
+    {
+     "k": "C",
+     "en": "Wilmut",
+     "ur": "ولمٹ"
+    },
+    {
+     "k": "D",
+     "en": "Pasteure",
+     "ur": "پاسچر"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Cotyledons stay underground during.",
+   "q_ur": "کاٹی لیڈن زمین کے اندر رہ جاتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Dormancy",
+     "ur": "خوابیدگی / ڈارمینسی"
+    },
+    {
+     "k": "B",
+     "en": "Hypogeal germination",
+     "ur": "ہائپوجیل جرمینیشن"
+    },
+    {
+     "k": "C",
+     "en": "Epigeal germination",
+     "ur": "ایپی جیل جرمینیشن"
+    },
+    {
+     "k": "D",
+     "en": "Plumule",
+     "ur": "پلومیول"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Tooth loss is ______ time higher in smoker than in non smoker.",
+   "q_ur": "سموکر میں دانتوں کے گرنے کا خطرہ نان سموکر سے کتنے گنا زیادہ ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 - 2",
+     "ur": "ایک سے دو گنا"
+    },
+    {
+     "k": "B",
+     "en": "2 - 3",
+     "ur": "دو سے تین گنا"
+    },
+    {
+     "k": "C",
+     "en": "3 - 4",
+     "ur": "تین سے چار گنا"
+    },
+    {
+     "k": "D",
+     "en": "Only two time",
+     "ur": "صرف دو گنا"
+    }
+   ]
+  }
+ ]
+}

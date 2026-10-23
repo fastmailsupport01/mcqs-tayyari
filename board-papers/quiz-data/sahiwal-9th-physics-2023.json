@@ -1,0 +1,682 @@
+{
+ "board": "BISE Sahiwal",
+ "board_slug": "sahiwal",
+ "class": "9th",
+ "subject": "Physics",
+ "year": 2023,
+ "slug": "sahiwal-9th-physics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "According to Hook's law:",
+   "q_ur": "ہک کے قانون کے مطابق۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "stress x strain = constant",
+     "ur": "کانسٹنٹ = سٹریس x سٹرین"
+    },
+    {
+     "k": "B",
+     "en": "constant = stress / strain",
+     "ur": "کانسٹنٹ = سٹریس / سٹرین"
+    },
+    {
+     "k": "C",
+     "en": "constant = strain / stress",
+     "ur": "کانسٹنٹ = سٹرین / سٹریس"
+    },
+    {
+     "k": "D",
+     "en": "stress = strain",
+     "ur": "سٹریس = سٹرین"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "What will be the value of β for a solid for which α has a value of 2 x 10⁻⁵ K⁻¹ ?",
+   "q_ur": "ایک ٹھوس شے کے طولی حرارتی پھیلاؤ کے کوفیشینٹ کی قیمت 2 x 10⁻⁵ K⁻¹ ہے۔ اس کے والیوم میں پھیلاؤ کے کوفیشینٹ کی قیمت ہو گی۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "2 x 10⁻⁵ K⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8 x 10⁻¹⁵ K⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8 x 10⁻⁵ K⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6 x 10⁻⁵ K⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "In gases heat is mainly transferred by:",
+   "q_ur": "گیسز میں زیادہ تر انتقال حرارت کا سبب ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Molecular collision",
+     "ur": "مالیکیولر تصادم"
+    },
+    {
+     "k": "B",
+     "en": "Conduction",
+     "ur": "کنڈکشن"
+    },
+    {
+     "k": "C",
+     "en": "Convection",
+     "ur": "کنویکشن"
+    },
+    {
+     "k": "D",
+     "en": "Radiation",
+     "ur": "ریڈی ایشن"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "A body satisfies second condition for equilibrium if:",
+   "q_ur": "کوئی بھی جسم ایکوی لبریم کی دوسری شرط پوری کرتا ہے اگر۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "∑W=0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "∑P=0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "∑F=0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "∑τ=0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Rate of doing work is called:",
+   "q_ur": "ورک کرنے کی شرح کو کہتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Power",
+     "ur": "پاور"
+    },
+    {
+     "k": "B",
+     "en": "Torque",
+     "ur": "ٹارک"
+    },
+    {
+     "k": "C",
+     "en": "Energy",
+     "ur": "انرجی"
+    },
+    {
+     "k": "D",
+     "en": "Momentum",
+     "ur": "مومنٹم"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The orbital speed of a low orbit satellite is:",
+   "q_ur": "نچلے آربٹ کے سیٹلائٹ کی گردش کرنے کی سپیڈ ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": "صفر"
+    },
+    {
+     "k": "B",
+     "en": "8ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8000ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "800ms⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The SI unit of pressure is Pascal, which is equal to:",
+   "q_ur": "سسٹم انٹرنیشنل میں پریشر کا یونٹ پاسکل ہے جو کہ برابر ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "10⁴ Nm⁻²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1Nm⁻²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10² Nm⁻²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10³ Nm⁻²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Newton's first law of motion is valid only in the absence of:",
+   "q_ur": "کس کی غیر موجودگی میں نیوٹن کے پہلے قانون کا اطلاق ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Net force",
+     "ur": "نیٹ فورس"
+    },
+    {
+     "k": "B",
+     "en": "Force",
+     "ur": "فورس"
+    },
+    {
+     "k": "C",
+     "en": "Friction",
+     "ur": "فرکشن"
+    },
+    {
+     "k": "D",
+     "en": "Momentum",
+     "ur": "مومنٹم"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Two equal but unlike parallel forces having different lines of action produce:",
+   "q_ur": "دو مساوی لیکن ان لائک پیرا لیل فورسز جن کا لائن آف ایکشن مختلف ہو پیدا کرتی ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "A torque",
+     "ur": "ٹارک"
+    },
+    {
+     "k": "B",
+     "en": "A couple",
+     "ur": "کپل"
+    },
+    {
+     "k": "C",
+     "en": "Equilibrium",
+     "ur": "ایکوی لبریم"
+    },
+    {
+     "k": "D",
+     "en": "Neutral equilibrium",
+     "ur": "نیوٹرل ایکوی لبریم"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "By dividing displacement of a moving body with time we obtain:",
+   "q_ur": "کسی متحرک جسم کے ڈسپلیسمنٹ کو وقت پر تقسیم کرنے سے حاصل ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Speed",
+     "ur": "سپیڈ"
+    },
+    {
+     "k": "B",
+     "en": "Velocity",
+     "ur": "ویلاسٹی"
+    },
+    {
+     "k": "C",
+     "en": "Acceleration",
+     "ur": "ایکسیلریشن"
+    },
+    {
+     "k": "D",
+     "en": "Deceleration",
+     "ur": "ڈیسیلریشن"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Least count of digital vernier callipers is:",
+   "q_ur": "ڈیجیٹل ورنیئر کیلیپر کا لیسٹ کاؤنٹ ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 mm.",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.1 mm.",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.001 mm.",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.01 mm.",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "0.00580 km has significant figures:",
+   "q_ur": "0.00580 km میں اہم ہندسوں کی تعداد ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "A body has translatory motion if it moves along a:",
+   "q_ur": "کس جسم میں ٹرانسلیٹری موشن ہوتی ہے اگر وہ حرکت کرتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Straight line",
+     "ur": "مستقیم لائن"
+    },
+    {
+     "k": "B",
+     "en": "Circle",
+     "ur": "دائرہ میں"
+    },
+    {
+     "k": "C",
+     "en": "Line without rotation",
+     "ur": "گھبرے ہوئے کے بغیر لائن"
+    },
+    {
+     "k": "D",
+     "en": "Curved path",
+     "ur": "خمدار راستہ پر"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Which one of the given options, affects evaporation?",
+   "q_ur": "ان میں سے کون سا درجہ حرارت کو متاثر کرتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Temperature",
+     "ur": "ٹمپریچر"
+    },
+    {
+     "k": "B",
+     "en": "Surface area of the liquid",
+     "ur": "مائع کی سطح کا ایریا"
+    },
+    {
+     "k": "C",
+     "en": "Wind",
+     "ur": "ہوا"
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": "یہ تمام عوامل"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "The density of a substance can be found with the help of:",
+   "q_ur": "کسی شے کی ڈینسٹی معلوم کیا جا سکتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Pascal's law",
+     "ur": "پاسکل کے قانون کی مدد سے"
+    },
+    {
+     "k": "B",
+     "en": "Hooke's law",
+     "ur": "ہک کے قانون کی مدد سے"
+    },
+    {
+     "k": "C",
+     "en": "Archimedes principle",
+     "ur": "آرکیمیڈیز کے اصول کی مدد سے"
+    },
+    {
+     "k": "D",
+     "en": "Principle of floatation",
+     "ur": "تولنے کے اصول کی مدد سے"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Land breeze blows from:",
+   "q_ur": "لینڈ بریز بہتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sea to land during night",
+     "ur": "رات کے وقت سمندر سے خشکی کی طرف"
+    },
+    {
+     "k": "B",
+     "en": "Sea to land during the day",
+     "ur": "دن کے وقت سمندر سے خشکی کی طرف"
+    },
+    {
+     "k": "C",
+     "en": "Land to sea during night",
+     "ur": "رات کے وقت خشکی سے سمندر کی طرف"
+    },
+    {
+     "k": "D",
+     "en": "Land to sea during the day",
+     "ur": "دن کے وقت خشکی سے سمندر کی طرف"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The altitude of geostationary orbits in which communication satellites are launched above the surface of the Earth is:",
+   "q_ur": "جیو سٹیشنری آربٹ میں کمیونیکیشن سیٹلائٹ گردش کرتے ہیں ان کی بلندی سطح زمین سے ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "850 km",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1000 km",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6400 km",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "42300 km",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Which one of the given devices, converts light energy into electrical energy?",
+   "q_ur": "دیے گئے ڈیوائسز میں کون سا ڈیوائس لائٹ انرجی کو الیکٹریکل انرجی میں تبدیل کرتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electric bulb",
+     "ur": "الیکٹرک بلب"
+    },
+    {
+     "k": "B",
+     "en": "Electric generator",
+     "ur": "الیکٹرک جنریٹر"
+    },
+    {
+     "k": "C",
+     "en": "Photo cell",
+     "ur": "فوٹو سیل"
+    },
+    {
+     "k": "D",
+     "en": "Electric cell",
+     "ur": "الیکٹرک سیل"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "In which state of matter, molecules do not leave their position?",
+   "q_ur": "مادہ کی کون سی حالت میں مالیکیولز اپنی پوزیشن نہیں چھوڑتے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Solid",
+     "ur": "ٹھوس"
+    },
+    {
+     "k": "B",
+     "en": "Liquid",
+     "ur": "مائع"
+    },
+    {
+     "k": "C",
+     "en": "Gas",
+     "ur": "گیس"
+    },
+    {
+     "k": "D",
+     "en": "Plasma",
+     "ur": "پلازما"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "A force of 10 N is making an angle of 30° with the horizontal. Its horizontal component will be:",
+   "q_ur": "10 N کی ایک فورس x-ایکسز کے ساتھ 30° زاویہ بناتی ہے۔ اس فورس کا افقی کمپوننٹ ہو گا۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "4 N",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5 N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7 N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8.7 N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Newton's first law of motion is valid only in the absence of:",
+   "q_ur": "کس کی غیر موجودگی میں نیوٹن کے پہلے قانون کا اطلاق ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Force",
+     "ur": "فورس"
+    },
+    {
+     "k": "B",
+     "en": "Net force",
+     "ur": "نیٹ فورس"
+    },
+    {
+     "k": "C",
+     "en": "Friction",
+     "ur": "فرکشن"
+    },
+    {
+     "k": "D",
+     "en": "Momentum",
+     "ur": "مومنٹم"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Rate of doing work is called:",
+   "q_ur": "ورک کرنے کی شرح کو کہتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Energy",
+     "ur": "انرجی"
+    },
+    {
+     "k": "B",
+     "en": "Torque",
+     "ur": "ٹارک"
+    },
+    {
+     "k": "C",
+     "en": "Power",
+     "ur": "پاور"
+    },
+    {
+     "k": "D",
+     "en": "Momentum",
+     "ur": "مومنٹم"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "The amount of a substance in terms of numbers is measured in:",
+   "q_ur": "کسی شے میں مادے کی مقدار معلوم کرنے کا یونٹ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Gram",
+     "ur": "گرام"
+    },
+    {
+     "k": "B",
+     "en": "Kilogram",
+     "ur": "کلو گرام"
+    },
+    {
+     "k": "C",
+     "en": "Newton",
+     "ur": "نیوٹن"
+    },
+    {
+     "k": "D",
+     "en": "Mole",
+     "ur": "مول"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Which one of the given quantities is the smallest?",
+   "q_ur": "دی گئی مقداروں میں سے کون سی مقدار سب سے چھوٹی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.01 g",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2 mg",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "100 μg",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5000 ng",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

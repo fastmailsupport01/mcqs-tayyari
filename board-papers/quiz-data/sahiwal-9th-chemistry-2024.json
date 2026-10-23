@@ -1,0 +1,682 @@
+{
+ "board": "BISE Sahiwal",
+ "board_slug": "sahiwal",
+ "class": "9th",
+ "subject": "Chemistry",
+ "year": 2024,
+ "slug": "sahiwal-9th-chemistry-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The most abundant element occurring in the ocean is:",
+   "q_ur": "سمندر میں پائے جانے والے سب سے زیادہ مقدار میں ایلیمنٹ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Oxygen",
+     "ur": "آکسیجن"
+    },
+    {
+     "k": "B",
+     "en": "Hydrogen",
+     "ur": "ہائیڈروجن"
+    },
+    {
+     "k": "C",
+     "en": "Nitrogen",
+     "ur": "نائٹروجن"
+    },
+    {
+     "k": "D",
+     "en": "Silicon",
+     "ur": "سلیکان"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Empirical formula of Benzene is:",
+   "q_ur": "بنزین کا ایمپیریکل فارمولا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "CH₂O",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CHO",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "C₂H₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CH",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "M-Shell consists of number of sub shells:",
+   "q_ur": "M شیل کتنے سب شیل پر مشتمل ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "In long form of periodic table, horizontal lines are called:",
+   "q_ur": "لانگ فارم آف پیریاڈک ٹیبل میں افقی لائنیں کہلاتی ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Groups",
+     "ur": "گروپس"
+    },
+    {
+     "k": "B",
+     "en": "Blocks",
+     "ur": "بلاکس"
+    },
+    {
+     "k": "C",
+     "en": "Periods",
+     "ur": "پیریڈز"
+    },
+    {
+     "k": "D",
+     "en": "Triads",
+     "ur": "ٹرائیڈز"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The pair has polar covalent bond:",
+   "q_ur": "جوڑا جو پولر کوویلنٹ بانڈ رکھتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "HCl and H₂O",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "C₂H₂ and H₂O",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "N₂ and H₂O",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cl₂ and H₂O",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Boiling point of NaCl is:",
+   "q_ur": "سوڈیم کلورائیڈ کا بوائلنگ پوائنٹ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "0 °C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "100 °C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "800 °C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1413 °C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The gas which diffuses faster:",
+   "q_ur": "ان میں سے جو گیس تیزی سے ڈیفیوز کرتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Helium",
+     "ur": "ہیلیم"
+    },
+    {
+     "k": "B",
+     "en": "Hydrogen",
+     "ur": "ہائیڈروجن"
+    },
+    {
+     "k": "C",
+     "en": "Fluorine",
+     "ur": "فلورین"
+    },
+    {
+     "k": "D",
+     "en": "Chlorine",
+     "ur": "کلورین"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Number of grams of solute dissolved in 100 grams of solution is called:",
+   "q_ur": "سلیوٹ کی گرام میں وہ مقدار جو سلوشن کے 100 گرام میں حل ہو جاتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "m/v %",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "m/m %",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "v/m %",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "v/v %",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "One of these settles down in water:",
+   "q_ur": "ان میں سے جو چیز پانی کی تہہ میں بیٹھ جاتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Honey",
+     "ur": "شہد"
+    },
+    {
+     "k": "B",
+     "en": "Kerosine oil",
+     "ur": "کیروسین آئل"
+    },
+    {
+     "k": "C",
+     "en": "Benzene",
+     "ur": "بنزین"
+    },
+    {
+     "k": "D",
+     "en": "NaCl",
+     "ur": "سوڈیم کلورائیڈ"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Formula of rust is:",
+   "q_ur": "زنگ کا فارمولا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Fe₂O₃. nH₂O",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Fe₂O₃",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Fe (OH)₃. nH₂O",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Fe (OH)₃",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Oxidation number of sulphur in H₂SO₄ is:",
+   "q_ur": "H₂SO₄ میں سلفر کا آکسیڈیشن نمبر ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "+7",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "+6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "+4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "+2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The halogen which exists in liquid form at room temperature is:",
+   "q_ur": "وہ ہیلوجن جو روم ٹمپریچر پر مائع حالت میں پائی جاتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Chlorine",
+     "ur": "کلورین"
+    },
+    {
+     "k": "B",
+     "en": "Fluorine",
+     "ur": "فلورین"
+    },
+    {
+     "k": "C",
+     "en": "Bromine",
+     "ur": "برومائن"
+    },
+    {
+     "k": "D",
+     "en": "Iodine",
+     "ur": "آئیوڈین"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "The most precious metal is:",
+   "q_ur": "سب سے بیش قیمت میٹل ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Silver",
+     "ur": "چاندی"
+    },
+    {
+     "k": "B",
+     "en": "Gold",
+     "ur": "گولڈ"
+    },
+    {
+     "k": "C",
+     "en": "Platinum",
+     "ur": "پلاٹینم"
+    },
+    {
+     "k": "D",
+     "en": "Iron",
+     "ur": "آئرن"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Which compound is not soluble in water?",
+   "q_ur": "کون سا کمپاؤنڈ پانی میں حل پذیر نہیں ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "MgCl₂",
+     "ur": "میگنیشیم کلورائیڈ"
+    },
+    {
+     "k": "B",
+     "en": "NaCl",
+     "ur": "سوڈیم کلورائیڈ"
+    },
+    {
+     "k": "C",
+     "en": "KBr",
+     "ur": "پوٹاشیم برومائیڈ"
+    },
+    {
+     "k": "D",
+     "en": "C₆H₆",
+     "ur": "بنزین"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "In Boyle's Law, the constant quantity is:",
+   "q_ur": "بوائل کے لا میں کانسٹنٹ مقدار ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Volume",
+     "ur": "والیوم"
+    },
+    {
+     "k": "B",
+     "en": "Pressure",
+     "ur": "پریشر"
+    },
+    {
+     "k": "C",
+     "en": "Temperature",
+     "ur": "ٹمپریچر"
+    },
+    {
+     "k": "D",
+     "en": "Mass",
+     "ur": "ماس"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Tyndall effect is shown by:",
+   "q_ur": "ٹنڈل ایفیکٹ کا مظاہرہ کرتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sugar solution",
+     "ur": "شوگر سلوشن"
+    },
+    {
+     "k": "B",
+     "en": "Chalk solution",
+     "ur": "چاک سلوشن"
+    },
+    {
+     "k": "C",
+     "en": "Paints",
+     "ur": "پینٹس"
+    },
+    {
+     "k": "D",
+     "en": "Jelly",
+     "ur": "جیلی"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The isotope C-12 is present in abundance of:",
+   "q_ur": "آئسوٹوپ C-12 کتنی مقدار میں پایا جاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "96.9%",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "97.6%",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "98.9%",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "99.7%",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Formula mass of calcium carbonate is:",
+   "q_ur": "کیلشیم کاربونیٹ کا فارمولا ماس ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "100 amu",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "100 g",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "63 amu",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "63 g",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "The base of long form of periodic table is:",
+   "q_ur": "لانگ فارم آف پیریاڈک ٹیبل کی بنیاد ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mass number",
+     "ur": "ماس نمبر"
+    },
+    {
+     "k": "B",
+     "en": "Atomic number",
+     "ur": "ایٹمک نمبر"
+    },
+    {
+     "k": "C",
+     "en": "Atomic mass",
+     "ur": "ایٹمک ماس"
+    },
+    {
+     "k": "D",
+     "en": "Avogadro number",
+     "ur": "ایوگاڈرو نمبر"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Which one non metal is lustrous?",
+   "q_ur": "کونسی نان میٹل میں دمک چمک ہوتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Phosphorous",
+     "ur": "فاسفورس"
+    },
+    {
+     "k": "B",
+     "en": "Iodine",
+     "ur": "آئیوڈین"
+    },
+    {
+     "k": "C",
+     "en": "Sulphur",
+     "ur": "سلفر"
+    },
+    {
+     "k": "D",
+     "en": "Graphite",
+     "ur": "گریفائٹ"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "The most abundant element occuring in the ocean is:",
+   "q_ur": "سمندر میں پائے جانے والے سلوشن میں سب سے زیادہ ایلیمنٹ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Oxygen",
+     "ur": "آکسیجن"
+    },
+    {
+     "k": "B",
+     "en": "Hydrogen",
+     "ur": "ہائیڈروجن"
+    },
+    {
+     "k": "C",
+     "en": "Chlorine",
+     "ur": "کلورین"
+    },
+    {
+     "k": "D",
+     "en": "Nitrogen",
+     "ur": "نائٹروجن"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Which one is an example of weak electrolyte?",
+   "q_ur": "کونسا کمزور الیکٹرولائٹ ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "NaOH",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "H₂SO₄",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NaCl",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CH₃COOH",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Melting point of sodium chloride is:",
+   "q_ur": "سوڈیم کلورائیڈ کا میلٹنگ پوائنٹ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "400 °C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "600 °C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "700 °C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "800 \"C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Butter is an example of:",
+   "q_ur": "مکھن سلوشن کی مثال ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Liquid in gas",
+     "ur": "گیس میں مائع"
+    },
+    {
+     "k": "B",
+     "en": "Gas in liquid",
+     "ur": "مائع میں گیس"
+    },
+    {
+     "k": "C",
+     "en": "Liquid in solid",
+     "ur": "ٹھوس میں مائع"
+    },
+    {
+     "k": "D",
+     "en": "Solid in liquid",
+     "ur": "مائع میں ٹھوس"
+    }
+   ]
+  }
+ ]
+}

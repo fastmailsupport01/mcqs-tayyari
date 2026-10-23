@@ -1,0 +1,682 @@
+{
+ "board": "BISE Sargodha",
+ "board_slug": "sargodha",
+ "class": "10th",
+ "subject": "Chemistry",
+ "year": 2024,
+ "slug": "sargodha-10th-chemistry-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Ozone Layer lies in",
+   "q_ur": "اوزون کی تہہ موجود ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Troposphere",
+     "ur": "ٹروپوسفیئر"
+    },
+    {
+     "k": "B",
+     "en": "Stratosphere",
+     "ur": "سٹریٹوسفیئر"
+    },
+    {
+     "k": "C",
+     "en": "Mesosphere",
+     "ur": "میسوسفیئر"
+    },
+    {
+     "k": "D",
+     "en": "Thermosphere",
+     "ur": "تھرموسفیئر"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The causes of ozone depletion is",
+   "q_ur": "اوزون کی تباہی کی وجہ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "CFCs",
+     "ur": "کلوروفلوروکاربنز"
+    },
+    {
+     "k": "B",
+     "en": "UV rays",
+     "ur": "UV ریز"
+    },
+    {
+     "k": "C",
+     "en": "HF",
+     "ur": "ہائڈروجن فلورائیڈ"
+    },
+    {
+     "k": "D",
+     "en": "Fluorine",
+     "ur": "فلورین"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Hookworm infects",
+   "q_ur": "ہک ورم متاثر کرتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Liver",
+     "ur": "جگر"
+    },
+    {
+     "k": "B",
+     "en": "Stomach",
+     "ur": "معدہ"
+    },
+    {
+     "k": "C",
+     "en": "Small intestine",
+     "ur": "سمائل انٹسٹائن"
+    },
+    {
+     "k": "D",
+     "en": "Large intestine",
+     "ur": "لارج انٹسٹائن"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Vigrous reaction of water with ______ shatter glass trough in to small pieces.",
+   "q_ur": "شیشے کا برتن ٹکڑے ٹکڑے ہو جاتا ہے جب پانی ______ کے ساتھ تیزی سے ری ایکشن کرتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sodium",
+     "ur": "سوڈیم"
+    },
+    {
+     "k": "B",
+     "en": "Silicon",
+     "ur": "سلیکون"
+    },
+    {
+     "k": "C",
+     "en": "Strontium",
+     "ur": "سٹرونشیم"
+    },
+    {
+     "k": "D",
+     "en": "Caesium",
+     "ur": "سیزیم"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "When NaHCO₃ is heated it forms.",
+   "q_ur": "جب سوڈیم بائی کاربونیٹ کو گرم کیا جاتا ہے۔ تو یہ بن جاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "CO₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ca(OH)₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CaCO₃",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CaO",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Units of molar concentration are",
+   "q_ur": "مولر کنسنٹریشن کے یونٹس ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "mol dm³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "mol dm⁻³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "mol⁻¹ dm⁻³",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "mol⁻¹ dm³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Which base is used for manufacturing of soap",
+   "q_ur": "کونسا بیس صابن کی تیاری میں استعمال ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "KOH",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ca(OH)₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mg(OH)₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NaOH",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Which acid is used for preservation of food.",
+   "q_ur": "کونسا ایسڈ خوراک محفوظ کرنے میں استعمال ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "CH₃COOH",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "HCl",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "H₂SO₄",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "HNO₃",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Which one of the following compounds is an aldehyde?",
+   "q_ur": "درج ذیل کمپاؤنڈز میں کونسا ایلڈی ہائیڈ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "CH₃-CH₂-OH",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CH₃COOH",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CH₃CHO",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CH₃COCH₃",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Which one of these is a saturated hydrocarbon?",
+   "q_ur": "ان میں کونسا سیچوریٹڈ ہائیڈروکاربن ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "C₂H₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "C₃H₆",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "C₄H₈",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "C₅H₁₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Deficiency of vitamin D causes",
+   "q_ur": "وٹامن D کی کمی کی وجہ سے بیماری ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Rickets",
+     "ur": "سوکھے کی بیماری"
+    },
+    {
+     "k": "B",
+     "en": "Scurvy",
+     "ur": "سقروی"
+    },
+    {
+     "k": "C",
+     "en": "Anemia in baby",
+     "ur": "بچوں میں انیمیا"
+    },
+    {
+     "k": "D",
+     "en": "Night blindness",
+     "ur": "نائٹ بلائنڈنس"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Which one of the following is a disaccharide?",
+   "q_ur": "درج ذیل میں کونسا ڈائی سکرائیڈ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Glucose",
+     "ur": "گلوکوز"
+    },
+    {
+     "k": "B",
+     "en": "Fructose",
+     "ur": "فرکٹوز"
+    },
+    {
+     "k": "C",
+     "en": "Sucrose",
+     "ur": "سکروز"
+    },
+    {
+     "k": "D",
+     "en": "Starch",
+     "ur": "سٹارچ"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Which one of the following organic compounds is found in gasoline?",
+   "q_ur": "مندرجہ ذیل میں سے کونسا آرگینک کمپاؤنڈ گیسولین میں پایا جاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "C₂H₄",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "C₃H₈",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "C₈H₁₈",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "C₁₂H₂₆",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Nitrogen and hydrogen were reacted together to make ammonia; N₂ + 3H₂ ⇌ 2NH₃ Kc = 2.86 mol⁻²dm⁶ What will be present in the equilibrium mixture?",
+   "q_ur": "نائٹروجن اور ہائیڈروجن ایک دوسرے سے ری ایکٹ کر کے امونیا بناتے ہیں N₂ + 3H₂ ⇌ 2NH₃ Kc = 2.86 mol⁻²dm⁶ ایکوی لبریم مکچر میں کیا کیا موجود ہو گا۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "NH₃ only",
+     "ur": "صرف NH₃"
+    },
+    {
+     "k": "B",
+     "en": "N₂, H₂ and NH₃",
+     "ur": "N₂, H₂ اور NH₃"
+    },
+    {
+     "k": "C",
+     "en": "N₂ and H₂ only",
+     "ur": "صرف N₂ اور H₂"
+    },
+    {
+     "k": "D",
+     "en": "H₂ only",
+     "ur": "صرف H₂"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Which ion is the conjugate base of Sulphuric acid?",
+   "q_ur": "سلفیورک ایسڈ کا کنجوگیٹ بیس ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "SO₃⁻²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "S⁻²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "HSO₃⁻",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "HSO₄⁻",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "The sum of pH and pOH of solution at 25 °C is",
+   "q_ur": "25 °C پر سلوشن میں pH اور pOH کا حاصل جمع ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "12",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "14",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "16",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Identify which one of the following compounds is a Ketone?",
+   "q_ur": "شناخت کریں مندرجہ ذیل کمپاؤنڈز میں سے کونسا کیٹون ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "(CH₃)₂CHOH",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(CH₃)₂CO",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(CH₃)₂NH",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(CH₃)₂CHCl",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "The reduction of alkyl halides takes place in the presence of",
+   "q_ur": "الکائل ہیلائیڈز کی ریڈکشن مندرجہ ذیل میں سے کس کی موجودگی میں ہوتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zn/HCl",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Na/HCl",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mg/HCl",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cu/HCl",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Photosynthesis process produces",
+   "q_ur": "فوٹوسنتھیسز کے عمل سے پیدا ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Starch",
+     "ur": "سٹارچ"
+    },
+    {
+     "k": "B",
+     "en": "Cellulose",
+     "ur": "سیلولوز"
+    },
+    {
+     "k": "C",
+     "en": "Sucrose",
+     "ur": "سکروز"
+    },
+    {
+     "k": "D",
+     "en": "Glucose",
+     "ur": "گلوکوز"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Deficiency of Vitamin E causes",
+   "q_ur": "وٹامن E کی کمی کی وجہ سے کونسی بیماری بنتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Rickets",
+     "ur": "سوکھے کی بیماری"
+    },
+    {
+     "k": "B",
+     "en": "Scurvy",
+     "ur": "سقروی"
+    },
+    {
+     "k": "C",
+     "en": "Anemia in babies",
+     "ur": "بچوں میں انیمیا"
+    },
+    {
+     "k": "D",
+     "en": "Night blindness",
+     "ur": "نائٹ بلائنڈنس"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Infrared radiations emitted by the Earth are absorbed by",
+   "q_ur": "زمین سے خارج ہونے والی انفراریڈ ریڈی ایشنز کس میں جذب ہوتی ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "CO₂ and H₂O",
+     "ur": "CO₂ اور H₂O"
+    },
+    {
+     "k": "B",
+     "en": "N₂ and O₂",
+     "ur": "N₂ اور O₂"
+    },
+    {
+     "k": "C",
+     "en": "CO₂ and N₂",
+     "ur": "CO₂ اور N₂"
+    },
+    {
+     "k": "D",
+     "en": "O₂ and CO₂",
+     "ur": "O₂ اور CO₂"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "About 75% atmosphere's mass lie within",
+   "q_ur": "تقریباً 75 فیصد اٹموسفیئر کا ماس موجود ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "11 kilometres",
+     "ur": "11 کلومیٹر"
+    },
+    {
+     "k": "B",
+     "en": "15 kilometres",
+     "ur": "15 کلومیٹر"
+    },
+    {
+     "k": "C",
+     "en": "30 kilometres",
+     "ur": "30 کلومیٹر"
+    },
+    {
+     "k": "D",
+     "en": "35 Kilometres",
+     "ur": "35 کلومیٹر"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Which one of the following diseases causes liver inflammation?",
+   "q_ur": "مندرجہ ذیل میں سے کون سی بیماری جگر کی سوزش کا سبب بنتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Typhoid",
+     "ur": "ٹائیفائیڈ"
+    },
+    {
+     "k": "B",
+     "en": "Jaundice",
+     "ur": "یرقان"
+    },
+    {
+     "k": "C",
+     "en": "Cholera",
+     "ur": "ہیضہ"
+    },
+    {
+     "k": "D",
+     "en": "Hepatitis",
+     "ur": "ہیپاٹائٹس"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Specific heat capacity of water is",
+   "q_ur": "پانی کی مخصوص ہیٹ کپیسٹی مندرجہ ذیل میں سے کونسی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "4.2 kJg⁻¹K⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4.2 Jg⁻¹K⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2.4 kJg⁻¹K⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2.4 Jg⁻¹K⁻¹",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

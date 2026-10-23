@@ -1,0 +1,682 @@
+{
+ "board": "BISE Sahiwal",
+ "board_slug": "sahiwal",
+ "class": "9th",
+ "subject": "Physics",
+ "year": 2024,
+ "slug": "sahiwal-9th-physics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The unit of strain is:",
+   "q_ur": "سٹرین کا یونٹ ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nm⁻²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Nm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "N²m⁻²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "No unit",
+     "ur": "کوئی یونٹ نہیں ہوتا"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Earth's gravitational force of attraction vanishes at.",
+   "q_ur": "زمین کی گریویٹیشنل فورس غائب ہو جاتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "6400 km",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Infinity",
+     "ur": "لامحدود فاصلہ"
+    },
+    {
+     "k": "C",
+     "en": "42300 km",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "70600 km",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Potential energy is equal to:",
+   "q_ur": "پوٹینشل انرجی برابر ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "W+h",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "W−h",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "W×h",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "W/h",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The formula for specific heat is:",
+   "q_ur": "حرارت مخصوصہ کا فارمولا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "ΔQ = cm ΔT²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ΔQ = cm ΔT",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ΔQ = cm/ΔT",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ΔQ = cm/ΔT²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Which of the given is the unit of momentum?",
+   "q_ur": "دیئے گئے میں سے کونسا مومنٹم کا یونٹ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Kgms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ns",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ns⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "In first equation of motion, V_f − V_i = ..........",
+   "q_ur": "[illegible in source scan] V_f − V_i = ..........",
+   "options": [
+    {
+     "k": "A",
+     "en": "S",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2aS",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "at",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "t",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Force (F) = ..........",
+   "q_ur": "فورس (F) = ..........",
+   "options": [
+    {
+     "k": "A",
+     "en": "(P_f − P_i)/t",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(P_i − P_f)/t",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(P_f + P_i)/t",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(P_f² + P_i²)/t",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Example of a good conductor of heat is:",
+   "q_ur": "حرارت کے اچھے کنڈکٹر کی مثال ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Wool",
+     "ur": "اون"
+    },
+    {
+     "k": "B",
+     "en": "Water",
+     "ur": "پانی"
+    },
+    {
+     "k": "C",
+     "en": "Wood",
+     "ur": "لکڑی"
+    },
+    {
+     "k": "D",
+     "en": "Iron",
+     "ur": "لوہا"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Which of the given quantities has three significant figures?",
+   "q_ur": "دی گئی مقداروں میں سے کونسی مقدار میں اہم ہندسوں کی تعداد تین ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "3.0066 m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.00309 m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5.0345 m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "537.2 m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Fahrenheit scale F = ..........",
+   "q_ur": "فارن ہائیٹ سکیل F = ..........",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.8 C + 32",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.8 C − 32",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.8(C + 32)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.8(C − 32)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Mathematical form of 2nd condition of equilibrium is:",
+   "q_ur": "ایکوی لبریم کی دوسری شرط کی حسابی شکل ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "ΣF = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ΣP = 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ΣW = 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Στ = 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The K.E of a body of mass 2kg is 49 J, its speed is:",
+   "q_ur": "ایک 2kg کمیت والے جسم کی کائنیٹک انرجی 49J ہے۔ اس کی سپیڈ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "7 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "14 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "21 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "28 ms⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "The unit of torque is:",
+   "q_ur": "ٹارک کا یونٹ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "N",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "N m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "J",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "N m³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Rate of doing work is called:",
+   "q_ur": "ورک کرنے کی شرح کو کہتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Force",
+     "ur": "فورس"
+    },
+    {
+     "k": "B",
+     "en": "Torque",
+     "ur": "ٹارک"
+    },
+    {
+     "k": "C",
+     "en": "Power",
+     "ur": "پاور"
+    },
+    {
+     "k": "D",
+     "en": "Momentum",
+     "ur": "مومنٹم"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Specific heat of glass is:",
+   "q_ur": "شیشے کی مخصوص حرارت ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "840 J kg⁻¹ K⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "845 J kg⁻¹ K⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "850 J kg⁻¹ K⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "900 J kg⁻¹ K⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Orbital speed of a satellite at 'h' height from earth is equal to:",
+   "q_ur": "زمین سے h بلندی پر سیٹلائٹ کی مداری رفتار برابر ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "√gₕ(R−h)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "√gₕ(R+h)³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "gₕ(R+h)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "gₕ(R+h)²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Mass of earth is:",
+   "q_ur": "زمین کا ماس ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "6×10²⁴ g",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6×10²⁵ g",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6×10²⁶ g",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6×10²⁷ g",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "In SI, the unit of stress is:",
+   "q_ur": "ایس آئی (SI) میں سٹریس کا یونٹ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ns",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Nm⁻²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Nm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nm⁻²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Example of a bad conductor of heat is:",
+   "q_ur": "حرارت کے برے موصل کی مثال ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Gold",
+     "ur": "سونا"
+    },
+    {
+     "k": "B",
+     "en": "Iron",
+     "ur": "لوہا"
+    },
+    {
+     "k": "C",
+     "en": "Wool",
+     "ur": "اون"
+    },
+    {
+     "k": "D",
+     "en": "Graphite",
+     "ur": "گریفائٹ"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "36 km h⁻¹ is equal to:",
+   "q_ur": "36 km h⁻¹ برابر ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "10 m s⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "20 m s⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "30 m s⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "36 m s⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Inertia depends upon:",
+   "q_ur": "انرشیا انحصار کرتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Force",
+     "ur": "فورس"
+    },
+    {
+     "k": "B",
+     "en": "Net force",
+     "ur": "نیٹ فورس"
+    },
+    {
+     "k": "C",
+     "en": "Mass",
+     "ur": "ماس"
+    },
+    {
+     "k": "D",
+     "en": "Velocity",
+     "ur": "ویلاسٹی"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Centripetal force is directly proportional to:",
+   "q_ur": "سینٹری پیٹل فورس راست متناسب ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "v/r",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "v²/r",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "v/r²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "v²/r²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Potential energy is equal to:",
+   "q_ur": "پوٹینشل انرجی برابر ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/2 mv²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "mv²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "mgh²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "mgh",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Water freezes at:",
+   "q_ur": "پانی منجمد ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "0° F",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0° C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "100° F",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "100° C",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

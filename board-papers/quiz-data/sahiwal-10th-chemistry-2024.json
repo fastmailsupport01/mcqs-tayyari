@@ -1,0 +1,682 @@
+{
+ "board": "BISE Sahiwal",
+ "board_slug": "sahiwal",
+ "class": "10th",
+ "subject": "Chemistry",
+ "year": 2024,
+ "slug": "sahiwal-10th-chemistry-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Just above the Earth's surface is:",
+   "q_ur": "زمین کی سطح کے بالکل اوپر کونسا سفیر ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mesosphere",
+     "ur": "میزوسفیئر"
+    },
+    {
+     "k": "B",
+     "en": "Stratosphere",
+     "ur": "سٹریٹوسفیئر"
+    },
+    {
+     "k": "C",
+     "en": "Thermosphere",
+     "ur": "تھرموسفیئر"
+    },
+    {
+     "k": "D",
+     "en": "Troposphere",
+     "ur": "ٹروپوسفیئر"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The reduction of alkyl halides takes place in the presence of:",
+   "q_ur": "الکائل ہیلائیڈز کی ریڈکشن کن دھاتوں کی موجودگی میں ہوتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zn/HCl",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Na/HCl",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mg/HCl",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cu/HCl",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Which one of the given is a disaccharide?",
+   "q_ur": "دیئے گئے میں سے کون ڈائی سیکرائیڈ ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Glucose",
+     "ur": "گلوکوز"
+    },
+    {
+     "k": "B",
+     "en": "Fructose",
+     "ur": "فرکٹوز"
+    },
+    {
+     "k": "C",
+     "en": "Sucrose",
+     "ur": "سکروز"
+    },
+    {
+     "k": "D",
+     "en": "Starch",
+     "ur": "سٹارچ"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Night blindness is because of the deficiency of:",
+   "q_ur": "کس وٹامن کی کمی کی وجہ سے رات کا اندھا پن ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Vitamin A",
+     "ur": "وٹامن A"
+    },
+    {
+     "k": "B",
+     "en": "Vitamin E",
+     "ur": "وٹامن E"
+    },
+    {
+     "k": "C",
+     "en": "Vitamin C",
+     "ur": "وٹامن C"
+    },
+    {
+     "k": "D",
+     "en": "Vitamin D",
+     "ur": "وٹامن D"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Which ion is the conjugate base of sulphuric acid?",
+   "q_ur": "کون سا آئن سلفیورک ایسڈ کا کنجوگیٹ بیس ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "SO₃²⁻",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "S²⁻",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "HSO₃⁻",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "HSO₄⁻",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Pitch is black residue of:",
+   "q_ur": "پچ کس کا کالا باقی ماندہ ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Coke",
+     "ur": "کوک"
+    },
+    {
+     "k": "B",
+     "en": "Coaltar",
+     "ur": "کولٹار"
+    },
+    {
+     "k": "C",
+     "en": "Coal",
+     "ur": "کوئلہ"
+    },
+    {
+     "k": "D",
+     "en": "Coal gas",
+     "ur": "کول گیس"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Which one of the given is a Lewis base?",
+   "q_ur": "دیئے گئے میں سے کون لیوس بیس ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "NH₃",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "BF₃",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "H⁺",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "AlCl₃",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Nitrogen and hydrogen were reacted together to make ammonia. N₂+3H₂ ⇌ 2NH₃ Kc=2.86 mol⁻² dm⁶ What will be present in the equilibrium mixture?",
+   "q_ur": "نائٹروجن اور ہائیڈروجن کو ایک دوسرے کے ساتھ ملا کر امونیا بناتے ہیں۔ N₂+3H₂ ⇌ 2NH₃ Kc=2.86 mol⁻² dm⁶ ایکوی لبریم مکسچر میں کیا موجود ہوگا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "NH₃",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "N₂, H₂, NH₃",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "N₂, H₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "H₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Permanent hardness of water is removed by adding:",
+   "q_ur": "پانی کی مستقل سختی کو کس کے استعمال سے ختم کیا جا سکتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Na₂-Zeolite",
+     "ur": "سوڈیم زیولائٹ"
+    },
+    {
+     "k": "B",
+     "en": "Soda lime",
+     "ur": "سوڈا لائم"
+    },
+    {
+     "k": "C",
+     "en": "Lime water",
+     "ur": "چونے کا پانی"
+    },
+    {
+     "k": "D",
+     "en": "Quick lime",
+     "ur": "ان بجھا چونا"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Matte is a mixture of:",
+   "q_ur": "میٹ (matte) کس کا آمیزہ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "FeS and CuS",
+     "ur": "FeS اور CuS"
+    },
+    {
+     "k": "B",
+     "en": "Cu₂O and FeO",
+     "ur": "Cu₂O اور FeO"
+    },
+    {
+     "k": "C",
+     "en": "Cu₂S and FeS",
+     "ur": "Cu₂S اور FeS"
+    },
+    {
+     "k": "D",
+     "en": "CuS and FeO",
+     "ur": "CuS اور FeO"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Normally rain water is weakly acidic because of:",
+   "q_ur": "عام طور پر بارش کا پانی کس وجہ سے ہلکا تیزابی ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "SO₃ gas",
+     "ur": "SO₃ گیس"
+    },
+    {
+     "k": "B",
+     "en": "CO₂ gas",
+     "ur": "CO₂ گیس"
+    },
+    {
+     "k": "C",
+     "en": "SO₂ gas",
+     "ur": "SO₂ گیس"
+    },
+    {
+     "k": "D",
+     "en": "NO₂ gas",
+     "ur": "NO₂ گیس"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Specific heat capacity of water is:",
+   "q_ur": "پانی کی مخصوص حرارتی گنجائش ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "4.2 kJ g⁻¹ K⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4.2 J g⁻¹ K⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2.4 kJ g⁻¹ K⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2.4 J g⁻¹ K⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Specific heat capacity of water is:",
+   "q_ur": "پانی کی مخصوص حرارتی گنجائش ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "4.2 kJ g⁻¹ K⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4.2 J g⁻¹ K⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2.4 kJ g⁻¹ K⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2.4 J g⁻¹ K⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Which one of the given vitamins is water soluble?",
+   "q_ur": "دیئے گئے وٹامنز میں سے کون سا پانی میں حل پذیر ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Vitamin A",
+     "ur": "وٹامن A"
+    },
+    {
+     "k": "B",
+     "en": "Vitamin C",
+     "ur": "وٹامن C"
+    },
+    {
+     "k": "C",
+     "en": "Vitamin D",
+     "ur": "وٹامن D"
+    },
+    {
+     "k": "D",
+     "en": "Vitamin E",
+     "ur": "وٹامن E"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "DNA is a type of:",
+   "q_ur": "DNA کس کی قسم ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Messenger RNA",
+     "ur": "میسنجر RNA"
+    },
+    {
+     "k": "B",
+     "en": "Vitamins",
+     "ur": "وٹامنز"
+    },
+    {
+     "k": "C",
+     "en": "Carbohydrates",
+     "ur": "کاربوہائیڈریٹس"
+    },
+    {
+     "k": "D",
+     "en": "Nucleic acids",
+     "ur": "نیوکلیک ایسڈز"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Acid rain affects the aquatic life by clogging fish gills because of:",
+   "q_ur": "ایسڈ رین میں موجود کون سی دھات مچھلیوں کے گلپھڑے بند کر کے آبی زندگی کو متاثر کرتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Lead metal",
+     "ur": "لیڈ میٹل"
+    },
+    {
+     "k": "B",
+     "en": "Chromium metal",
+     "ur": "کرومیم میٹل"
+    },
+    {
+     "k": "C",
+     "en": "Mercury metal",
+     "ur": "مرکری میٹل"
+    },
+    {
+     "k": "D",
+     "en": "Aluminium metal",
+     "ur": "ایلومینیم میٹل"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The conjugate acid of HPO₄²⁻ is:",
+   "q_ur": "HPO₄²⁻ کا کنجوگیٹ ایسڈ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "PO₄³⁻",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "H₂PO₄²⁻",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "H₂PO₄⁻",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "H₃PO₄",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "According to Arrhenius concept, _______ is a base.",
+   "q_ur": "آرہینیس کے نظریے کے مطابق _______ بیس ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "KOH",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "HCl",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CH₃COOH",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NH₃",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Main component of natural gas is:",
+   "q_ur": "قدرتی گیس کا اہم جزو کونسا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Methane",
+     "ur": "میتھین"
+    },
+    {
+     "k": "B",
+     "en": "Propane",
+     "ur": "پروپین"
+    },
+    {
+     "k": "C",
+     "en": "Butane",
+     "ur": "بیوٹین"
+    },
+    {
+     "k": "D",
+     "en": "Propene",
+     "ur": "پروپین"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Which one of the given is not a fraction of petroleum?",
+   "q_ur": "دیئے گئے میں سے کون سا پٹرولیم کا فریکشن نہیں ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Kerosene oil",
+     "ur": "کیروسین آئل"
+    },
+    {
+     "k": "B",
+     "en": "Diesel oil",
+     "ur": "ڈیزل آئل"
+    },
+    {
+     "k": "C",
+     "en": "Alcohol",
+     "ur": "الکحل"
+    },
+    {
+     "k": "D",
+     "en": "Petrol",
+     "ur": "پٹرول"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "In the lime kiln, the reaction CaCO₃(s) → CaO(s) + CO₂(g) goes to completion because:",
+   "q_ur": "چونے کی بھٹی میں درج ذیل ری ایکشن کے مکمل ہونے کی وجہ ہے۔ CaCO₃(s) → CaO(s) + CO₂(g)",
+   "options": [
+    {
+     "k": "A",
+     "en": "of high temperature",
+     "ur": "زیادہ ٹمپریچر"
+    },
+    {
+     "k": "B",
+     "en": "CaO is more stable than CaCO₃",
+     "ur": "CaCO₃ سے CaO زیادہ مستحکم ہوتا ہے"
+    },
+    {
+     "k": "C",
+     "en": "CO₂ escapes continuously",
+     "ur": "CO₂ مسلسل خارج ہوتا ہے"
+    },
+    {
+     "k": "D",
+     "en": "CaO is not disassociated",
+     "ur": "CaO ڈسوسی ایٹ نہیں ہوتا"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Which one of the given diseases causes severe diarrhea and can be fatal:",
+   "q_ur": "دی گئی بیماریوں میں سے کون سی بیماری زیادہ سنگین اسہال اور مہلک ہو سکتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Jaundice",
+     "ur": "یرقان"
+    },
+    {
+     "k": "B",
+     "en": "Fluorosis",
+     "ur": "فلوروسس"
+    },
+    {
+     "k": "C",
+     "en": "Typhoid",
+     "ur": "ٹائیفائیڈ"
+    },
+    {
+     "k": "D",
+     "en": "Cholera",
+     "ur": "ہیضہ"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Oxidation of ethene with KMnO₄ produces:",
+   "q_ur": "ایتھین (Ethene) کی KMnO₄ کے ساتھ آکسیڈیشن سے کون سا کمپاؤنڈ بنتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Oxalic acid",
+     "ur": "آگزالک ایسڈ"
+    },
+    {
+     "k": "B",
+     "en": "Glyoxal",
+     "ur": "گلائی آکسل"
+    },
+    {
+     "k": "C",
+     "en": "Ethane glycol",
+     "ur": "ایتھین گلائی کول"
+    },
+    {
+     "k": "D",
+     "en": "Propene glycol",
+     "ur": "پروپین گلائی کول"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Buildings are being damaged by acid rain because it attacks:",
+   "q_ur": "ایسڈ رین کی وجہ سے عمارتوں کو نقصان پہنچتا ہے کیونکہ یہ کس ایک سے ری ایکٹ کرتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Calcium sulphate",
+     "ur": "کیلشیم سلفیٹ"
+    },
+    {
+     "k": "B",
+     "en": "Calcium nitrate",
+     "ur": "کیلشیم نائٹریٹ"
+    },
+    {
+     "k": "C",
+     "en": "Calcium carbonate",
+     "ur": "کیلشیم کاربونیٹ"
+    },
+    {
+     "k": "D",
+     "en": "Calcium oxalate",
+     "ur": "کیلشیم آگزالیٹ"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,682 @@
+{
+ "board": "BISE Sahiwal",
+ "board_slug": "sahiwal",
+ "class": "12th",
+ "subject": "Computer Science",
+ "year": 2024,
+ "slug": "sahiwal-12th-computer-science-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "When same name is used for two different attributes?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Synonyms",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Homonyms",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Acronyms",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Redundant information",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "In an ER diagram, a diamond represents:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Entity",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Attribute",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Relationship",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Field",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "A key strictly used for data retrieval purposes.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Super key",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Candidate key",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Sort key",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Primary key",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Type of file that requires largest processing time:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sequential",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Random",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Index sequential",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Direct access",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The number of fields in a relation is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cardinality",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Degree",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Domain",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Range",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Identifies the database application, name, you are running in MS Access.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Title bar",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Menu bar",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Tool bar",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Scroll bar",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Field width specifier %3.2f will display value 3.14159 as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3.1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3.1400",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3.140",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3.14",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The ASCII code for \"A\" is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "55",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "65",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "97",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "99",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Which of the given is not a selection statement?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "while",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "if",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "if-else",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "switch",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "In turbo C, which key is used to compile a program?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Alt+F5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Alt+F2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ctrl+F9",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Alt+F9",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "If X is an integer variable, X=5%2 will return a value.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "In the statement file * fp, the * represents",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Variable",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Multiplication",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Data type",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Pointer",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "The first line of a function definition is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Function header",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Function body",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Arguments",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Prototype",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "One execution of a loop is known as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Circle",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Duration",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Iteration",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Test",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "If x=10, what will be the value of y? y=(x>5?3:4)",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Which method is used to delete an item from the list box?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Delete item",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Clear item",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Fix item",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Remove item",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The naming prefix for a label control is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "lab",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "lbl",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "lbe",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "lbel",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Entering text in a textbox and then clicking a button can occur at:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Run time",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Debug time",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Design time",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Control time",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The output of a compiler is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Program",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Linked code",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Source code",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Object code",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Which is not a visual basic control?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Forms",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Command button",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Variable",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Text box",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The expression 0 Mod 4 has a value equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Which is a valid data type?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Boolean",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Int",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Char",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Float",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "Which programming structure executes program statements in order?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Relation",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Decision",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Sequence",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Repetition",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Which is used to terminate a loop from within a loop?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "End loop",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Exit loop",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Exit do",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Exit while",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

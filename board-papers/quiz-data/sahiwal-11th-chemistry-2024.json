@@ -1,0 +1,962 @@
+{
+ "board": "BISE Sahiwal",
+ "board_slug": "sahiwal",
+ "class": "11th",
+ "subject": "Chemistry",
+ "year": 2024,
+ "slug": "sahiwal-11th-chemistry-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Orbitals having same energy are called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Degenerate orbitals",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Valence orbitals",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "d-orbitals",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "s and p orbitals",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Amorphous solids:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Can possess small regions of orderly arrangement of atoms",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Have sharp melting point",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Have perfect arrangement of atoms",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Undergo clean cleavage when cut with knife",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Halogen that exists as solid at room temperature is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "F₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cl₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Br₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "I₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The order of rate of diffusion of gases NH₃, SO₂, Cl₂ and CO₂ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "NH₃>SO₂>Cl₂>CO₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cl₂>SO₂>CO₂>NH₃",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NH₃>CO₂>Cl₂>SO₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NH₃>CO₂>SO₂>Cl₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "What is the most abundant form of matter around us on our earth.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Gas",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Liquid",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Solid",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Plasma",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "How many steps are involved in complete quantitative characterization?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Which of the given is used as decolourizing agent in crystallization?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Graphite",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Animal Charcoal",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "H₂SO₄",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "KOH",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Which of the given is a mono isotopic element?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Fluorine",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Chlorine",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Silver",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Calcium",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The largest number of molecules are present in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4.8g of C₂H₅OH",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3.6g of H₂O",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2.8g of CO",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5.4g of NO",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "If salt bridge is not used between two half cells then the voltage:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Decreases slowly",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Drops to zero",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Decreases rapidly",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Does not change",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The rate of reaction:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Decreases as the reaction proceeds",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Increases as the reaction proceeds",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Remains the same as the reaction proceeds",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "May decrease or increase as the reaction proceeds",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "A solution of glucose is 10 % w/v. The volume in which its one g.mole is dissolved will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 dm³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.8 dm³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "200 cm³",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "900 cm³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Which of the given is weak acid?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "HCl",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "H₂SO₄",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CH₃COOH",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "HNO₃",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "One calorie is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.4184 J",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "41.84 J",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "418.4 J",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4.184 J",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Which of the given species has unpaired electrons in antibonding molecular orbitals?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "O₂²⁻",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "B₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "N₂²⁻",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "F₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "Molecular shape of SO₃ according to VSEPR Theory:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Triangular Planner",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Linear",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Pyramidal",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Tetrahedral",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "Visible range contains wave length in between:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "200-400 n.m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "400-750 n.m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "200-800 n.m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "800-1200 n.m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "The quantum number which gives information about degeneracy of orbitals in space is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Principal quantum number",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Azimuthal quantum number",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Magnetic quantum number",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Spin quantum number",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "The molecules of CO₂ in dry ice form:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ionic crystals",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Covalent solids",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Molecular solids",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Metallic solids",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Acetone and Chloroform are soluble in each other due to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hydrogen bonding",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ion-dipole forces",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Instantaneous dipole",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "London dispersion forces",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "The partial pressure of oxygen in the air is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "116 torr",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "200 torr",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "159 torr",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "150 torr",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The drying agent used in vacuum desiccator is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Benzoic acid",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Glucose",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Silical gel",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Animal charcoal",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Solvent extraction is an equilibrium process and is controlled by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Law of mass action",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "The amount of solvent",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Distribution law",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "The amount of solute",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "The molar volume of CO₂ is maximum at:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "S.T.P",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "127°C and 1 atm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0°C and 2 atm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "273°C and 2atm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "The number of moles of CO₂ which contain 8.0g of oxygen is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.25",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.50",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.50",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "The empirical formula of glucose is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CHO",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "C₆H₁₂O₆",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "C₂HO",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CH₂O",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "The reduction potential of Zinc electrode is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.76 volt",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−0.76 volt",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−0.34 volt",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.34 volt",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "The catalyst used in the decomposition of KClO₃ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CuCl₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "V₂O₅",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "MnO₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NO",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "The molal boiling point constant is the ratio of the elevation in boiling point to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Molarity",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Mole fraction of solvent",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Molality",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mole fraction of solute",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "The pH of human blood is maintained at:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "7.0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "7.35",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4.0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "14.0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "For a given process, the heat changes at constant pressure (qp) and at constant volume (qv) are related to each other as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "qp=qv",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "qp<qv",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "qp>qv",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "qp=qv/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "Which of the hydrogen halides has the highest percentage of ionic character?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "HCl",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "HBr",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "HF",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "HI",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "C₂H₄ (ethene) shows hybridization:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "sp³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "sp²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "sp",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "dsp²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "The wave number of the light emitted by a certain source is 2x10⁶ m⁻¹. The wavelength of this light will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "500 nm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "500 m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "200 nm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5x10⁷m",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

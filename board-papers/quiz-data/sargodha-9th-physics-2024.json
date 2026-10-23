@@ -1,0 +1,682 @@
+{
+ "board": "BISE Sargodha",
+ "board_slug": "sargodha",
+ "class": "9th",
+ "subject": "Physics",
+ "year": 2024,
+ "slug": "sargodha-9th-physics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "A measuring cylinder is used to measure",
+   "q_ur": "پیمائشی سلنڈر سے معلوم کیا جاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mass",
+     "ur": "ماس"
+    },
+    {
+     "k": "B",
+     "en": "Area",
+     "ur": "ایریا"
+    },
+    {
+     "k": "C",
+     "en": "Volume of a liquid",
+     "ur": "مائع کا حجم"
+    },
+    {
+     "k": "D",
+     "en": "Level of liquid",
+     "ur": "مائع کا لیول"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The motion of a clock Pendulum is",
+   "q_ur": "کلاک کے پینڈولم کی موشن ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Linear motion",
+     "ur": "لینیئر موشن"
+    },
+    {
+     "k": "B",
+     "en": "Vibratory motion",
+     "ur": "وائبریٹری موشن"
+    },
+    {
+     "k": "C",
+     "en": "Rotatory motion",
+     "ur": "روٹیٹری موشن"
+    },
+    {
+     "k": "D",
+     "en": "Random motion",
+     "ur": "رینڈم موشن"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Formula of momentum is",
+   "q_ur": "مومنٹم کا فارمولا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "P = ma",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "P = dt",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "P = F×d",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "P = mv",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Which force moves a body in a circle?",
+   "q_ur": "کون سی فورس جسم کو دائرے میں گھماتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Centripetal force",
+     "ur": "سنٹری پیٹل فورس"
+    },
+    {
+     "k": "B",
+     "en": "Magnatic force",
+     "ur": "میگنیٹک فورس"
+    },
+    {
+     "k": "C",
+     "en": "Gravitational force",
+     "ur": "گریوی ٹیشنل فورس"
+    },
+    {
+     "k": "D",
+     "en": "Centrifugal force",
+     "ur": "سینٹری فیوگل فورس"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "SI unit of Torque is",
+   "q_ur": "ٹارک کا SI یونٹ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "N.m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Nm⁻²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nm⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Value of 'g' increases with the",
+   "q_ur": "'g' کی قیمت بڑھتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Increase in mass of the body",
+     "ur": "جسم کا ماس بڑھنے سے"
+    },
+    {
+     "k": "B",
+     "en": "Increase in altitude",
+     "ur": "بلندی بڑھنے سے"
+    },
+    {
+     "k": "C",
+     "en": "Decrease in altitude",
+     "ur": "بلندی کم ہونے سے"
+    },
+    {
+     "k": "D",
+     "en": "Decrease in mass of the body",
+     "ur": "جسم کا ماس کم ہونے سے"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The Kinetic energy of a body of mass 2 kg is 25 J. Its speed is",
+   "q_ur": "2 کلوگرام کے ایک جسم کی کائنیٹک انرجی 25J ہے۔ اس کی سپیڈ ہوگی۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "12.5 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "25 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "50 ms⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "At the depth of 'h' The pressure of a liquid is",
+   "q_ur": "'h' گہرائی پر مائع کا پریشر برابر ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "ρgh²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ρgh³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ρg/h",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ρgh",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The density of water is",
+   "q_ur": "پانی کی ڈینسٹی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "10000 kg m⁻³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1000 kg m⁻³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "100 kg m⁻³",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10 kg m⁻³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The crocus flower open at Temperature",
+   "q_ur": "زعفران کا پھول کس درجہ حرارت پر کھلتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "20 °C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "21 °C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "22 °C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "23 °C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Which of the following material has large specific heat",
+   "q_ur": "مندرجہ ذیل میں سے کس میٹریل کی حرارت مخصوصہ زیادہ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Copper",
+     "ur": "کاپر"
+    },
+    {
+     "k": "B",
+     "en": "Ice",
+     "ur": "برف"
+    },
+    {
+     "k": "C",
+     "en": "Water",
+     "ur": "پانی"
+    },
+    {
+     "k": "D",
+     "en": "Mercury",
+     "ur": "مرکری"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "What is the reason of gliders to stay in air,",
+   "q_ur": "گلائیڈرز کے ہوا میں رہنے کی کیا وجہ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Convection",
+     "ur": "کنویکشن"
+    },
+    {
+     "k": "B",
+     "en": "Radiation",
+     "ur": "ریڈی ایشن"
+    },
+    {
+     "k": "C",
+     "en": "Conduction",
+     "ur": "کنڈکشن"
+    },
+    {
+     "k": "D",
+     "en": "Power",
+     "ur": "پاور"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "SI unit of electric current is",
+   "q_ur": "الیکٹرک کرنٹ کا SI یونٹ ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Second",
+     "ur": "سیکنڈ"
+    },
+    {
+     "k": "B",
+     "en": "Ampere",
+     "ur": "ایمپیئر"
+    },
+    {
+     "k": "C",
+     "en": "Mole",
+     "ur": "مول"
+    },
+    {
+     "k": "D",
+     "en": "Meter",
+     "ur": "میٹر"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "The motion of a body around its own axis is called",
+   "q_ur": "اپنے ایکسز کے گرد جسم کی موشن کہلاتی ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "Circular motion",
+     "ur": "سرکولر موشن"
+    },
+    {
+     "k": "B",
+     "en": "Random motion",
+     "ur": "رینڈم موشن"
+    },
+    {
+     "k": "C",
+     "en": "Rotatory motion",
+     "ur": "روٹیٹری موشن"
+    },
+    {
+     "k": "D",
+     "en": "Vibratory motion",
+     "ur": "وائبریٹری موشن"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "SI unit of force is",
+   "q_ur": "فورس کا SI یونٹ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Pascal",
+     "ur": "پاسکل"
+    },
+    {
+     "k": "B",
+     "en": "Newton",
+     "ur": "نیوٹن"
+    },
+    {
+     "k": "C",
+     "en": "Kilogram",
+     "ur": "کلوگرام"
+    },
+    {
+     "k": "D",
+     "en": "Ampere",
+     "ur": "ایمپیئر"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "The formula of centrifugal force is",
+   "q_ur": "سینٹری فیوگل فورس کا فارمولا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "r/mv²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "r²/mv²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "mv²/r",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "mv²/r²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "First condition of equilibrium is",
+   "q_ur": "ایکی لبریم کی پہلی کنڈیشن ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Στ = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ΣF = 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ΣFx/Fy = 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ΣFy/Fx = 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Earth's gravitational force of attraction vanishes at",
+   "q_ur": "زمین کی گریویٹیشنل فورس غالب ہو جاتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "6400 km",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Infinity",
+     "ur": "لامحدود"
+    },
+    {
+     "k": "C",
+     "en": "42600 km",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10000 km",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "The K.E of a body of mass 2 kg is 25 J, its speed is",
+   "q_ur": "2 کلوگرام کے ایک جسم کی کائنیٹک انرجی 25J ہے۔ اس کی سپیڈ ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "5 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "12.5 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "25 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "50 ms⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Einstein's mass-energy equation is",
+   "q_ur": "آئن سٹائن کی ماس۔ انرجی مساوات ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "E = mc",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "E = m²c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "E = mc²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "E = m²c²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "According to Hook's Law",
+   "q_ur": "ہکس کے قانون کے مطابق",
+   "options": [
+    {
+     "k": "A",
+     "en": "Stress×Strain = Constant",
+     "ur": "سٹریس×سٹرین =Constant"
+    },
+    {
+     "k": "B",
+     "en": "Stress/Strain = Constant",
+     "ur": "سٹریس/سٹرین = Constant"
+    },
+    {
+     "k": "C",
+     "en": "Strain/Stress = Constant",
+     "ur": "سٹرین/سٹریس = Constant"
+    },
+    {
+     "k": "D",
+     "en": "Stress=Constant",
+     "ur": "سٹریس=Constant"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "The range of Clinical Thermometer is",
+   "q_ur": "کلینیکل تھرمومیٹر کی رینج ہوتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "20 °C – 42 °C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "25 °C – 42 °C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "30 °C – 42 °C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "35 °C – 42 °C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "On Celsius, 300 K = ?",
+   "q_ur": "سینٹی گریڈ سکیل میں 300K = ؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "27 °C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "28 °C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "29 °C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "26 °C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Thermal conductivity of wood is",
+   "q_ur": "لکڑی کی تھرمل کنڈکٹیویٹی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.08 Wm⁻¹K⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.593 Wm⁻¹K⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.03 Wm⁻¹²K⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.8 Wm⁻¹K⁻¹",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

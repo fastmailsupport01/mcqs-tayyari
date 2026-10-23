@@ -1,0 +1,962 @@
+{
+ "board": "BISE Sahiwal",
+ "board_slug": "sahiwal",
+ "class": "12th",
+ "subject": "Physics",
+ "year": 2024,
+ "slug": "sahiwal-12th-physics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "One joule work done in moving a unit positive charge from one point to another in E is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 Watt",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1 eV",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1 Volt",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1 Henry",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The electric field intensity between two oppositely charged plates is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "σ/ε₀",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "σ/ε₀",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ε₀/σ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2σ/ε₀",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "For Ohmic material, the current-voltage graph is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Parabolic",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Hyperbolic",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Straight",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zigzag",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Galvanometer is converted into voltmeter by connecting a high resistance \"Rₕ\" in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Series",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Parallel",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Bypass",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Force on a charge \"q\" in electric field E is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "F=q(v×B)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "F=qB",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "F=qE",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "F=q(v×E)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The negative of potential gradient is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electric field intensity",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Magnetic induction",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Electric potential",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Electromotive force",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "In case of step up transformer:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ns=Np",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ns<Np",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ns>Np",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ns≠Np",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The phase of negative peak of A.C. signal is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0 rad",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/2 rad",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2π rad",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3π/2 rad",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The maximum power loss in A.C. circuit is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "P=I_rms R",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "P=I_rms V_rms",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "P=I_rms V²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "P=V_rms R",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The ability in a body to return to its original shape is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Strain",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Stress",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Plasticity",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Elasticity",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The current due to minority charge carriers in semiconductors is known as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Leakage current",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Electronic current",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Conventional current",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The size of base in a transistor is of the order of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10⁻² m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10⁻³ m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10⁻⁴ m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10⁻⁵ m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "The value of speed of light is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3×10⁸ m/s",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3×10⁻⁸ m/s",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2×10⁸ m/s",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2×10⁻⁸ m/s",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "The Heisenberg uncertainty principle was proposed by W. Heisenberg in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1928",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1929",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1927",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1925",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Helium was initially identified by using spectroscopy in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Moon",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Sun",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Earth",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Star",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "Dead time for Geiger-Muller counter is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "~10⁻² s",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "~10⁻³ s",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "~10⁻⁴ s",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "~10⁻⁵ s",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "Energy released per nucleon during fission reaction is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2 MeV",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3 MeV",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1 MeV",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.5 MeV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "The phase difference between any two live phases of an AC supply is (Three phase supply):",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "120°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "240°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "120° or 240°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "360°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "At high frequency, voltage induced is maximum across:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Resistor",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Capacitor",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Inductor",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "RC Circuit",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "The use of commutator in D.C. motor may create ------ each time current reverses:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Reverse torque",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Jerks",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Smooth running of armature",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Steady torque",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "If range of ammeter is to be increased, shunt resistance needs to be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Decreased",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Increased",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Unchanged",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Changed randomly",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Self induction is used in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Capacitors",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Inductors",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Transformers",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Printers",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "The overall resistance of a voltmeter is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "RₕR_g[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Rₕ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Rₕ+R_g",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "RₕR_g/(Rₕ+R_g)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Slope of current-voltage graph of Ohmic device gives (voltage is on x-axis):",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Resistance",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Conductance",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Power",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Energy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Gauss's law is applicable to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Closed path",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Open path",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Closed surface",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Flat surface",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Equilibrium between electric and gravitational force is working principle of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Coulomb's law",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Gauss's law",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Millikan's method",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Faraday's law",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "The output of detector in mass spectrograph indicates:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Number of isotopes",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Mass of isotopes",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Abundance of isotopes",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Accelerating potential",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "The difference in temperature of core of nuclear reactor and steam coming out of turbine is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "500°C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "300°C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "200°C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "100°C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Inner shell transitions in a heavy metal lead to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Continuous X-rays",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Discrete X-rays",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Band X-rays",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Hard X-rays",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "The maximum value of Compton shift may be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4.86 pm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2.43 pm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.21 pm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9.68 pm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "Best optical resolution achievable is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.2 nm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "200 nm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.001 μm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "The width of depletion region increases in a diode when it is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Unbiased",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Forward biased",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Reverse biased",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Normal biased",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "Commonly used semiconductor material is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Germanium",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Gallium Arsenide",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Silicon",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Selenium",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "Semiconductor behaves as perfect insulator in its pure form at:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Room temperature",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0 K",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "High temperature",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Never",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

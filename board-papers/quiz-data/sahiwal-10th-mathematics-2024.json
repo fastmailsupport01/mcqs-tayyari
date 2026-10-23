@@ -1,0 +1,850 @@
+{
+ "board": "BISE Sahiwal",
+ "board_slug": "sahiwal",
+ "class": "10th",
+ "subject": "Mathematics",
+ "year": 2024,
+ "slug": "sahiwal-10th-mathematics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The solution set of x²−x−2=0 is:",
+   "q_ur": "x²−x−2=0 کا حل سیٹ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "{-1,2}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{1,-2}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{1,-1}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{-1,-2}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The number of methods to solve a quadratic equation is:",
+   "q_ur": "دو درجی مساوات کو حل کرنے کے کتنے طریقے ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Sum of the cube roots of unity is:",
+   "q_ur": "اکائی کے جزر المکعب کا مجموعہ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The discriminant of x²+8x+16=0 is:",
+   "q_ur": "x²+8x+16=0 کا فرق کنندہ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "16",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "If y² ∝ 1/x³ then:",
+   "q_ur": "اگر y² ∝ 1/x³ ہو تو:",
+   "options": [
+    {
+     "k": "A",
+     "en": "y² = 1/x³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "y² = k/x³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "y² = x²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "y² = kx³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The mean proportional of 4m²n⁴ and p⁶ is:",
+   "q_ur": "4m²n⁴ اور p⁶ کا وسطی تناسب ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "±2m²n⁴p⁶",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "±2mn²p³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "±2m²n²p⁶",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "±4m²n⁴p⁶",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "(x+3)²=x²+6x+9 is _______:",
+   "q_ur": "(x+3)²=x²+6x+9 ایک ______ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Linear equation",
+     "ur": "ایک درجی مساوات"
+    },
+    {
+     "k": "B",
+     "en": "Equation",
+     "ur": "مساوات"
+    },
+    {
+     "k": "C",
+     "en": "Identity",
+     "ur": "مماثلت"
+    },
+    {
+     "k": "D",
+     "en": "In-equation",
+     "ur": "غیر مساوات"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The different number of ways to describe a set are:",
+   "q_ur": "سیٹ کو بیان کرنے کے مختلف طریقوں کی تعداد ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Point (−5,−7) lies in the quadrant:",
+   "q_ur": "نقطہ (−5,−7) ربع میں ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "I",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "II",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "III",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "IV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The most frequent occurring observation in a data set is called:",
+   "q_ur": "کسی مواد میں سب سے زیادہ مرتبہ آنے والی مشاہدے کو کہتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Arithmetic mean",
+     "ur": "حسابی اوسط"
+    },
+    {
+     "k": "B",
+     "en": "Median",
+     "ur": "وسطانیہ"
+    },
+    {
+     "k": "C",
+     "en": "Harmonic mean",
+     "ur": "ہم آہنگ اوسط"
+    },
+    {
+     "k": "D",
+     "en": "Mode",
+     "ur": "عادہ"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "sec²θ = _______",
+   "q_ur": "sec²θ = _______",
+   "options": [
+    {
+     "k": "A",
+     "en": "1−sin²θ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1+tan²θ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1+cos²θ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1−tan²θ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Radii of a circle are _______.",
+   "q_ur": "ایک ہی دائرے کے رداس _______ ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "All equal",
+     "ur": "تمام برابر"
+    },
+    {
+     "k": "B",
+     "en": "All unequal",
+     "ur": "تمام غیر برابر"
+    },
+    {
+     "k": "C",
+     "en": "Double of the diameter",
+     "ur": "قطر سے دوگنا"
+    },
+    {
+     "k": "D",
+     "en": "Half of any chord",
+     "ur": "کسی بھی وتر سے آدھے"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "A tangent line intersects the circle at _______:",
+   "q_ur": "ایک خط مماس دائرے کو _______ کاٹتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Single point",
+     "ur": "ایک نقطہ پر"
+    },
+    {
+     "k": "B",
+     "en": "Two points",
+     "ur": "دو نقاط پر"
+    },
+    {
+     "k": "C",
+     "en": "Three points",
+     "ur": "تین نقاط پر"
+    },
+    {
+     "k": "D",
+     "en": "No point at all",
+     "ur": "کسی نقطہ پر بھی نہیں"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "The semi circumference and the diameter of a circle both subtend a central angle of:",
+   "q_ur": "دائرے کے نصف محیط کا مرکزی زاویہ ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "180°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "270°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "360°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Tangents drawn at the end points of the diameter of a circle are:",
+   "q_ur": "دائرے کے قطر کے سروں پر مماس ہوتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Perpendicular",
+     "ur": "عمود"
+    },
+    {
+     "k": "B",
+     "en": "Intersecting",
+     "ur": "متقاطع"
+    },
+    {
+     "k": "C",
+     "en": "Non-parallel",
+     "ur": "غیر متوازی"
+    },
+    {
+     "k": "D",
+     "en": "Parallel",
+     "ur": "متوازی"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "If B ⊆ A, then B − A = _______:",
+   "q_ur": "اگر B ⊆ A ہو تو B − A برابر ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "B",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{0}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "φ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "A tangent line touches the circle at:",
+   "q_ur": "ایک خط مماس دائرے کو _______ مس کرتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Single point",
+     "ur": "ایک نقطہ پر"
+    },
+    {
+     "k": "B",
+     "en": "Two points",
+     "ur": "دو نقاط پر"
+    },
+    {
+     "k": "C",
+     "en": "Three points",
+     "ur": "تین نقاط پر"
+    },
+    {
+     "k": "D",
+     "en": "Four points",
+     "ur": "چار نقاط پر"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "The extent of variation between two extreme observations of a data set is measured by:",
+   "q_ur": "کسی مواد کی انتہائی مشاہدات کے فرق کو کہتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Variance",
+     "ur": "تغیرت"
+    },
+    {
+     "k": "B",
+     "en": "Mode",
+     "ur": "عادہ"
+    },
+    {
+     "k": "C",
+     "en": "Range",
+     "ur": "وسعت"
+    },
+    {
+     "k": "D",
+     "en": "Average",
+     "ur": "اوسط"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "How many tangents can be drawn from a point outside a circle?",
+   "q_ur": "دائرے کے باہر نقطہ سے کتنے مماس کھینچے جا سکتے ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The distance of any point of the circle to its centre is called:",
+   "q_ur": "دائرے کے کسی نقطے کا اس کے مرکز تک کا فاصلہ کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Radius",
+     "ur": "رداس"
+    },
+    {
+     "k": "B",
+     "en": "Diameter",
+     "ur": "قطر"
+    },
+    {
+     "k": "C",
+     "en": "Chord",
+     "ur": "وتر"
+    },
+    {
+     "k": "D",
+     "en": "Tangent",
+     "ur": "مماس"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "If R={(1,3),(2,2),(3,1),(4,4)} then the range of R is:",
+   "q_ur": "اگر R={(1,3),(2,2),(3,1),(4,4)} ہو تو Range R ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "{2,3,4}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{1,2,3,4}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{1,3,4}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{1,2,3}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "An arc subtends a central angle of 40°, then the corresponding chord will subtend a central angle of:",
+   "q_ur": "ایک قوس مرکزی زاویہ 40° ہے اس کے متعلقہ وتر کا مرکزی زاویہ _______ ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "50°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "40°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "30°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "1/2 cosec45° =",
+   "q_ur": "1/2 cosec45° =",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/(2√2)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/√2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2√2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Solution set of x²−3x=0 is:",
+   "q_ur": "x²−3x=0 کا حل سیٹ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "{3}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{0,3}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{0}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "φ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Standard form of quadratic equation is:",
+   "q_ur": "دو درجی مساوات کی معیاری شکل ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "ax²=0, a≠0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ax²−bx+c=0, a=0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ax²+bx+c=0, a=0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ax²+bx+c=0, a≠0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "If α, β are the roots of px²+qx+r=0 then sum of roots 2α and 2β is:",
+   "q_ur": "اگر α، β مساوات px²+qx+r=0 کے روٹس ہوں تو 2α اور 2β کا مجموعہ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "−q/p",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−4q/p",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−2q/p",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2q/p",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Product of cube root of unity is:",
+   "q_ur": "اکائی کے جزر المکعب کا حاصل ضرب ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "Find x in proportion 4:x::5:15",
+   "q_ur": "تناسب 4:x::5:15 میں x معلوم کیجیے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "20",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "12",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "60",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "If u/v = v/w = k, then:",
+   "q_ur": "اگر u/v = v/w = k ہو تو:",
+   "options": [
+    {
+     "k": "A",
+     "en": "v=wk²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "v=w²k",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "u=vk²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "u=wk²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "(x+3)²=x²+6x+9 is:",
+   "q_ur": "(x+3)²=x²+6x+9 ایک _______ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "An identity",
+     "ur": "مماثلت"
+    },
+    {
+     "k": "B",
+     "en": "A linear equation",
+     "ur": "ایک درجی مساوات"
+    },
+    {
+     "k": "C",
+     "en": "Polynomial",
+     "ur": "کثیر رقمی"
+    },
+    {
+     "k": "D",
+     "en": "Inequality",
+     "ur": "غیر مساوات"
+    }
+   ]
+  }
+ ]
+}

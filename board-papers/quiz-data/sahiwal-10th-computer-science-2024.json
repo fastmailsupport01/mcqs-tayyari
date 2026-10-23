@@ -1,0 +1,570 @@
+{
+ "board": "BISE Sahiwal",
+ "board_slug": "sahiwal",
+ "class": "10th",
+ "subject": "Computer Science",
+ "year": 2024,
+ "slug": "sahiwal-10th-computer-science-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "______ is the unique identifier used to refer to the array.",
+   "q_ur": "______ ایک مخصوص شناخت ہے جو ارے کے حوالے کے لیے استعمال ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Data type",
+     "ur": "ڈیٹا ٹائپ"
+    },
+    {
+     "k": "B",
+     "en": "Array name",
+     "ur": "ارے کا نام"
+    },
+    {
+     "k": "C",
+     "en": "Array size",
+     "ur": "ارے کا سائز"
+    },
+    {
+     "k": "D",
+     "en": "None",
+     "ur": "کوئی بھی نہیں"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Find out the error from the given code: void main",
+   "q_ur": "دیئے گئے کوڈ میں غلطی کو واضح کیجیے: void main",
+   "options": [
+    {
+     "k": "A",
+     "en": "()",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": ")",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "&&",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Find out the output of the code: int a=18/(15-3x2);",
+   "q_ur": "دیئے گئے کوڈ کی آؤٹ پٹ کیا ہوگی: int a=18/(15-3x2);",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Which of the given is a valid line of code?",
+   "q_ur": "دی گئی سطور میں سے کون سی درست لائن ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "int = 20;",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "grade = 'A';",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "line=this is line",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": "ان میں سے کوئی نہیں"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "A float uses ______ bytes of memory.",
+   "q_ur": "ایک float میموری کی ______ بائٹس استعمال کرتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "______ are the values that do not change during the whole execution of program.",
+   "q_ur": "______ وہ قیمتیں ہیں جو پروگرام کے پورے عمل کے دوران تبدیل نہیں ہوتیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Variables",
+     "ur": "متغیرات"
+    },
+    {
+     "k": "B",
+     "en": "Constants",
+     "ur": "مستقلات"
+    },
+    {
+     "k": "C",
+     "en": "Strings",
+     "ur": "سٹرنگز"
+    },
+    {
+     "k": "D",
+     "en": "Comments",
+     "ur": "کمنٹس"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Readability helps to ______ the code.",
+   "q_ur": "پڑھنے جانے کی صلاحیت کوڈ کو ______ میں مدد دیتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "understand",
+     "ur": "سمجھنے"
+    },
+    {
+     "k": "B",
+     "en": "modify",
+     "ur": "تبدیل کرنے"
+    },
+    {
+     "k": "C",
+     "en": "debug",
+     "ur": "ڈی بگ کرنے"
+    },
+    {
+     "k": "D",
+     "en": "all of these",
+     "ur": "یہ تمام"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "If there are three return statements in the function body, ______ of them will be executed.",
+   "q_ur": "اگر فنکشن باڈی میں تین ریٹرن سٹیٹمنٹس ہوں تو ان میں سے ______ چلے گا۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "one",
+     "ur": "ایک"
+    },
+    {
+     "k": "B",
+     "en": "two",
+     "ur": "دو"
+    },
+    {
+     "k": "C",
+     "en": "three",
+     "ur": "تین"
+    },
+    {
+     "k": "D",
+     "en": "first and last",
+     "ur": "پہلی اور آخری"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Array can be initialized ______ declaration.",
+   "q_ur": "ارے کو ______ ڈیکلیئر کیا جا سکتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "at the time of",
+     "ur": "وقت"
+    },
+    {
+     "k": "B",
+     "en": "after",
+     "ur": "بعد"
+    },
+    {
+     "k": "C",
+     "en": "before",
+     "ur": "پہلے"
+    },
+    {
+     "k": "D",
+     "en": "both A & B",
+     "ur": "A اور B دونوں"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "A set of multiple instructions enclosed in braces is called a ______:",
+   "q_ur": "قوسین میں بریکٹ کے اندر متعدد ہدایات کا سیٹ ______ کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "box",
+     "ur": "بوکس"
+    },
+    {
+     "k": "B",
+     "en": "list",
+     "ur": "لسٹ"
+    },
+    {
+     "k": "C",
+     "en": "block",
+     "ur": "بلاک"
+    },
+    {
+     "k": "D",
+     "en": "job",
+     "ur": "جوب"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Using Loop inside another Loop is called ______ loop.",
+   "q_ur": "ایک لوپ کے اندر ایک اور لوپ کے استعمال کو ______ لوپ کہتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "For",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "While",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Do-while",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nested",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Readability helps to ______ the code.",
+   "q_ur": "پڑھے جانے کی صلاحیت کوڈ کو ______ میں مدد دیتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "understand",
+     "ur": "سمجھنے"
+    },
+    {
+     "k": "B",
+     "en": "modify",
+     "ur": "تبدیل کرنے"
+    },
+    {
+     "k": "C",
+     "en": "debug",
+     "ur": "ڈی بگ کرنے"
+    },
+    {
+     "k": "D",
+     "en": "all of these",
+     "ur": "یہ تمام"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "______ part of for Loop is executed first.",
+   "q_ur": "for لوپ کا ______ حصہ سب سے پہلے چلتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Condition",
+     "ur": "کنڈیشن"
+    },
+    {
+     "k": "B",
+     "en": "Body",
+     "ur": "باڈی"
+    },
+    {
+     "k": "C",
+     "en": "Initialization",
+     "ur": "انشیلائزیشن"
+    },
+    {
+     "k": "D",
+     "en": "Increment / decrement",
+     "ur": "اضافہ / کمی"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "______ means to transfer the control to another function.",
+   "q_ur": "______ سے مراد کنٹرول ایک اور فنکشن میں ٹرانسفر کرنا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Calling",
+     "ur": "کالنگ"
+    },
+    {
+     "k": "B",
+     "en": "Defining",
+     "ur": "ڈیفائننگ"
+    },
+    {
+     "k": "C",
+     "en": "Re-writing",
+     "ur": "ری رائٹنگ"
+    },
+    {
+     "k": "D",
+     "en": "Including",
+     "ur": "شامل کرنا"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "A set of multiple statements enclosed in braces is called:",
+   "q_ur": "قوسین میں بند ایک سے زیادہ ہدایات کا سیٹ کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nested",
+     "ur": "نیسٹڈ"
+    },
+    {
+     "k": "B",
+     "en": "List",
+     "ur": "لسٹ"
+    },
+    {
+     "k": "C",
+     "en": "Block",
+     "ur": "بلاک"
+    },
+    {
+     "k": "D",
+     "en": "Repeated",
+     "ur": "ری پیٹڈ"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "An if statement inside another if statement is called ______ structure.",
+   "q_ur": "ایک if سٹیٹمنٹ کے اندر ایک اور if سٹیٹمنٹ ہو تو یہ سٹرکچر ______ کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "nested",
+     "ur": "نیسٹڈ"
+    },
+    {
+     "k": "B",
+     "en": "boxed",
+     "ur": "باکسڈ"
+    },
+    {
+     "k": "C",
+     "en": "repeated",
+     "ur": "ری پیٹڈ"
+    },
+    {
+     "k": "D",
+     "en": "decomposed",
+     "ur": "ڈی کمپوزڈ"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "The operator % is used to calculate:",
+   "q_ur": "% کا آپریٹر ______ کا حساب لگانے کے لیے استعمال ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Percentage",
+     "ur": "پرسیٹیج"
+    },
+    {
+     "k": "B",
+     "en": "Remainder",
+     "ur": "باقی رقم"
+    },
+    {
+     "k": "C",
+     "en": "Factorial",
+     "ur": "فیکٹوریل"
+    },
+    {
+     "k": "D",
+     "en": "Square",
+     "ur": "مربع"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Which of the given is not a type of operator?",
+   "q_ur": "دی گئی میں سے کون سی، آپریٹر کی قسم نہیں ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Arithmetic operator",
+     "ur": "ارتھمیٹک آپریٹر"
+    },
+    {
+     "k": "B",
+     "en": "Relational operator",
+     "ur": "ریلیشنل آپریٹر"
+    },
+    {
+     "k": "C",
+     "en": "Check operator",
+     "ur": "چیک آپریٹر"
+    },
+    {
+     "k": "D",
+     "en": "Logical operator",
+     "ur": "لاجیکل آپریٹر"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "A float uses ______ bytes of memory.",
+   "q_ur": "Float میموری کے ______ بائٹس استعمال کرتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "______ is the value that does not change during the whole execution of a program.",
+   "q_ur": "______ کی قیمت پورے پروگرام کے چلنے کے دوران تبدیل نہیں ہوتی۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Variable",
+     "ur": "ویری ایبل"
+    },
+    {
+     "k": "B",
+     "en": "Constant",
+     "ur": "کانسٹینٹ"
+    },
+    {
+     "k": "C",
+     "en": "String",
+     "ur": "سٹرنگ"
+    },
+    {
+     "k": "D",
+     "en": "Comments",
+     "ur": "کمنٹس"
+    }
+   ]
+  }
+ ]
+}

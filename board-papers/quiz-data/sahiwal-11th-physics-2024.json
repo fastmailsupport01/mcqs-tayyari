@@ -1,0 +1,962 @@
+{
+ "board": "BISE Sahiwal",
+ "board_slug": "sahiwal",
+ "class": "11th",
+ "subject": "Physics",
+ "year": 2024,
+ "slug": "sahiwal-11th-physics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "In 8.70x10⁴ kg has number of significant digits:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Four",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Two",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Three",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Seven",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "If percentage uncertainty in radius of a sphere is 2%, then total uncertainty in the volume is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "6%",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2%",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4%",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8%",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "A single vector having same effect as all the original vectors taken together is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Equal vector",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Resultant vector",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Position vector",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Unit vector",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Which is vector quantity?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Length",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Volume",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Work",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Velocity",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The distance covered by a body in time 't' starting from rest is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "at²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "v²t",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a²t/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "at²/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The slope of velocity-time graph gives:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Speed",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Torque",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Displacement",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Acceleration",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Earth receives large amount of energy directly from:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Wind",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Sun",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Moon",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Water",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "A rev min⁻¹ is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π/30 rad s⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/60 rad s⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/15 rad s⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π/20 rad s⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Which is correct relation?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "v = w×r",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "v = w.r",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "w = v×r",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "v = r×w",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The maximum drag force on falling sphere is 9.8 N, its weight is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 N",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "9.8 N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "19.8 N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "980 N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The wave form of SHM is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Square wave",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Saw tooth wave",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Sine wave",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Random wave",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "If the pressure of gas is doubled, then speed of sound is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Doubled",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Not changed",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Half",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Increased 4 times",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Velocity of sound in free space is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "332 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "224 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "76 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero ms⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "Thin oil film on water surface shows colour due to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Diffraction",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Interference",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Polarization",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Dispersion",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "The ratio of size of image to the size of object is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Polarization",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Magnification",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Transmission",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Reflection",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "Entropy of an irreversible process:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Increases",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Decreases",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Remains same",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "If 32 Joule work is done by absorbing heat of 42 Joule, change in internal energy is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ΔU = 74J",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ΔU = 10J",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ΔU = 21/8 J",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ΔU = 8/21 J",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Which one is constant for a satellite in orbit:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Potential energy",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Velocity",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Angular momentum",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Kinetic energy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "The ratio of moment of inertia of a solid cylinder and thin ring is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2/5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2/1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "A fog droplet of radius 'r' falls in air with terminal velocity vt if the radius of the droplet becomes '2r'. Then terminal velocity is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "vt/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4vt",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2vt",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "vt",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "If the suspended mass of pendulum is doubled then its time period:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Becomes double",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Becomes half",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Remains unchanged",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.414 times increased",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The distance between two consecutive nodes or antinodes is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "λ/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "λ/4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2λ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4λ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "When a wave is travelling in a denser medium incident on a rare medium, the reflected wave undergoes a phase change of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2π",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "The transverse nature of light is confirmed by the phenomenon of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Interference",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Polarization",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Diffraction",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Beats",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Final image formed in compound microscope is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Virtual and erect",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Virtual and inverted",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Real and inverted",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Real and erect",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "The mean square velocity of the gas molecule is given by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "√(3RT/M)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "√(KT/M)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√(2KT/m)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3KT/m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "If a heat engine has 65% efficiency, then TL/TH =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.45",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.35",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.25",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "1 watt hour =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3.6 J",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3.6 MJ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3.6x10⁸ J",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3.6x10³ J",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "If the mass of the body is increased to four times while the force is kept constant, then acceleration in body will become:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "One Half",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Doubled",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "One Fourth",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Four Times",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "The range of projectile at 60° is the same as that of angle:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "30°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "120°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "Vectors A and B of magnitudes 4 N and 3 N make an angle of 30° and 60° with x-axis respectively. The scalar product of the two vectors:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "12 N",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "7 N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10 N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6 N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "Two forces act together on an object. The magnitude of their resultant force is minimum when they act at:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "180°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "Which of the given quantity has different dimensions?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Work",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Energy",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Pressure",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Torque",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "Time for 20 vibrations of a simple pendulum is 40.25 sec measured by a stop watch of accuracy up to 0.1 sec. The absolute uncertainty in the time period is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "±2.01",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "±0.05",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "±0.003",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "±0.005",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

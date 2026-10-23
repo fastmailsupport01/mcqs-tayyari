@@ -1,0 +1,570 @@
+{
+ "board": "BISE Sahiwal",
+ "board_slug": "sahiwal",
+ "class": "9th",
+ "subject": "Computer Science",
+ "year": 2024,
+ "slug": "sahiwal-9th-computer-science-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "A simple example of cybercrime is---------.",
+   "q_ur": "سائبر کرائم کی ایک عام شکل --------- ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Encryption",
+     "ur": "خفیہ کاری"
+    },
+    {
+     "k": "B",
+     "en": "Copy right",
+     "ur": "کاپی رائٹ"
+    },
+    {
+     "k": "C",
+     "en": "Piracy",
+     "ur": "پائریسی"
+    },
+    {
+     "k": "D",
+     "en": "Hacking",
+     "ur": "ہیکنگ"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "There are --------- types of headings in HTML documents.",
+   "q_ur": "HTML ڈاکومنٹ میں --------- قسم کی ہیڈنگز ہوتی ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "A password contains how many words at least?",
+   "q_ur": "ایک پاس ورڈ کم از کم کتنے حروف پر مشتمل ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "--------- tag is used to display data in tabular form.",
+   "q_ur": "--------- ٹیگ ڈیٹا کو ٹیبلر فارم میں ظاہر کرنے کے لیے استعمال ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "<tB>",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "<table>",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "<tM>",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "<tS>",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Router connects many --------- with each other.",
+   "q_ur": "راؤٹر بہت سارے --------- کو آپس میں ملاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Protocols",
+     "ur": "پروٹوکولز"
+    },
+    {
+     "k": "B",
+     "en": "Channels",
+     "ur": "چینلز"
+    },
+    {
+     "k": "C",
+     "en": "Networks",
+     "ur": "نیٹ ورکس"
+    },
+    {
+     "k": "D",
+     "en": "Addresses",
+     "ur": "ایڈریسز"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Which protocol is used for email?",
+   "q_ur": "ای۔ میل کے لیے کونسا پروٹوکول استعمال ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "FTP",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "HTTP",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "STP",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "SMTP",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "How many bits are there in 1 byte?",
+   "q_ur": "ایک بائٹ میں کتنی بٹس ہوتی ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Data to a processor is provided through ---------.",
+   "q_ur": "پروسیسر کو ڈیٹا --------- کے ذریعے دیا جاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "RAM",
+     "ur": "ریم"
+    },
+    {
+     "k": "B",
+     "en": "ROM",
+     "ur": "روم"
+    },
+    {
+     "k": "C",
+     "en": "U.S.B",
+     "ur": "یو۔ ایس۔ بی"
+    },
+    {
+     "k": "D",
+     "en": "Hard Disk",
+     "ur": "ہارڈ ڈسک"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "In flowchart symbol ◇ is used to show a/an---------.",
+   "q_ur": "فلوچارٹ میں ڈائمنڈ کی علامت --------- کو ظاہر کرتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Input",
+     "ur": "ان پٹ"
+    },
+    {
+     "k": "B",
+     "en": "Decision making",
+     "ur": "فیصلہ سازی"
+    },
+    {
+     "k": "C",
+     "en": "Process",
+     "ur": "پروسیس"
+    },
+    {
+     "k": "D",
+     "en": "Connector",
+     "ur": "کنیکٹر"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "In trace table, each row represents:",
+   "q_ur": "ٹریس ٹیبل میں ہر قطار ظاہر کرتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Name of data",
+     "ur": "ڈیٹا کا نام"
+    },
+    {
+     "k": "B",
+     "en": "Column number",
+     "ur": "کالم نمبر"
+    },
+    {
+     "k": "C",
+     "en": "Value of data",
+     "ur": "ڈیٹا کی قیمت"
+    },
+    {
+     "k": "D",
+     "en": "Name of table",
+     "ur": "ٹیبل کا نام"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "------- means to test if the required solution is there or not:",
+   "q_ur": "------- کا مطلب ہے کہ آیا مطلوبہ حل موجود ہے یا نہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Verification",
+     "ur": "ویری فکیشن"
+    },
+    {
+     "k": "B",
+     "en": "Algorithm",
+     "ur": "الگورتھم"
+    },
+    {
+     "k": "C",
+     "en": "Validation",
+     "ur": "ویلیڈیشن"
+    },
+    {
+     "k": "D",
+     "en": "Flowchart",
+     "ur": "فلوچارٹ"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "It is the data that does not comply with the input requirements of the Algorithm:",
+   "q_ur": "یہ ٹیسٹ ڈیٹا الگورتھم کے ان پٹ تقاضوں سے ہم آہنگ نہیں رکھتا۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Absent data",
+     "ur": "عدم دستیاب ڈیٹا"
+    },
+    {
+     "k": "B",
+     "en": "Boundary test data",
+     "ur": "باؤنڈری ٹیسٹ ڈیٹا"
+    },
+    {
+     "k": "C",
+     "en": "Valid test data",
+     "ur": "درست ٹیسٹ ڈیٹا"
+    },
+    {
+     "k": "D",
+     "en": "Invalid test data",
+     "ur": "نادرست ٹیسٹ ڈیٹا"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "1 Petabyte is equal to:",
+   "q_ur": "1 پیٹا بائٹ ------- کے برابر ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "(1024)² bytes",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(1024)³ bytes",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(1024)⁴ bytes",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(1024)⁵ bytes",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "The decimal value of letter \"A\" is -------.",
+   "q_ur": "حرف 'A' کی اعشاری قدر ------- ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "63",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "64",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "65",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "66",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Communication protocols cover:",
+   "q_ur": "کمیونیکیشن پروٹوکول کا احاطہ کرتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Authentication",
+     "ur": "شناخت کی تصدیق کرنا"
+    },
+    {
+     "k": "B",
+     "en": "Error detection",
+     "ur": "غلطی معلوم کرنا"
+    },
+    {
+     "k": "C",
+     "en": "Correction",
+     "ur": "درستی کرنا"
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": "یہ تمام"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Every data packet has a / an -------.",
+   "q_ur": "ہر ڈیٹا پیکٹ کا ایک ------- ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Computer address",
+     "ur": "کمپیوٹر ایڈریس"
+    },
+    {
+     "k": "B",
+     "en": "MAC address",
+     "ur": "MAC ایڈریس"
+    },
+    {
+     "k": "C",
+     "en": "IP address",
+     "ur": "IP ایڈریس"
+    },
+    {
+     "k": "D",
+     "en": "Home address",
+     "ur": "گھر کا ایڈریس"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Which of the given is not the characteristic of phishing emails?",
+   "q_ur": "دیئے گئے میں سے کون عمل فشنگ ای میل کی خوبی نہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Official data breach notification",
+     "ur": "سرکاری ڈیٹا کی خلاف ورزی کی اطلاع"
+    },
+    {
+     "k": "B",
+     "en": "Email account update",
+     "ur": "ای میل اکاؤنٹ اپ ڈیٹ"
+    },
+    {
+     "k": "C",
+     "en": "IT reminder",
+     "ur": "آئی ٹی یاد دہانی"
+    },
+    {
+     "k": "D",
+     "en": "Similar domain of actual website",
+     "ur": "اصل ویب سائٹ کی ڈومین"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "CCTV stands for -------.",
+   "q_ur": "CCTV ------- کا مخفف ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Circuit Television",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Real Television",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Closed Circuit Television",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Closed Television",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "There are ------- types of headings in HTML document.",
+   "q_ur": "HTML ڈاکومنٹ میں ------- قسم کی ہیڈنگز ہوتی ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "7",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "------- tag makes text bold.",
+   "q_ur": "------- ٹیگ متن کو بولڈ کرتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "<b>",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "<u>",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "<br>",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}
