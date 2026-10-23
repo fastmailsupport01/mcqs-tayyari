@@ -1,0 +1,682 @@
+{
+ "board": "FBISE Islamabad",
+ "board_slug": "fbise",
+ "class": "10th",
+ "subject": "Chemistry",
+ "year": 2025,
+ "slug": "fbise-10th-chemistry-2025",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Version B",
+   "q_en": "Which of the following can behave both as Bronsted acid and Bronsted base?",
+   "q_ur": "درج شدہ میں سے کون برونٹڈ ایسڈ اور برونٹڈ بیس دونوں ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "CH₃COO⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "H₂O",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "H₃PO₄",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "OH⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version B",
+   "q_en": "The correct equilibrium constant expression for the given reaction is: 2A + B ⇌ 3C",
+   "q_ur": "دیے گئے ری ایکشن کا درست ایکوی لبریم کانسٹنٹ کیا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "[2A][B] / [3C]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[3C] / [2A][B]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[A]²[B] / [C]³",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[C]³ / [A]²[B]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version B",
+   "q_en": "Which gas is widely used for welding and cutting metals?",
+   "q_ur": "کون سی گیس دھاتوں کو ویلڈ کرنے اور کاٹنے میں استعمال ہوتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Methane",
+     "ur": "میتھین"
+    },
+    {
+     "k": "B",
+     "en": "Ethane",
+     "ur": "ایتھین"
+    },
+    {
+     "k": "C",
+     "en": "Ethylene",
+     "ur": "ایتھیلین"
+    },
+    {
+     "k": "D",
+     "en": "Acetylene",
+     "ur": "اسیٹیلین"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version B",
+   "q_en": "Identify the Arrhenius base:",
+   "q_ur": "درج شدہ میں آرہینیس بیس کون سا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "NH₃",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NaOH",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Na₂O",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NaF",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version B",
+   "q_en": "Halogenation of methane in diffused sunlight does NOT produce:",
+   "q_ur": "سورج کی دھندلی روشنی میں میتھین کی ہیلوجینیشن سے کون سی چیز نہیں بنتی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Carbon tetrachloride, CCl₄",
+     "ur": "کاربن ٹیٹرا کلورائیڈ"
+    },
+    {
+     "k": "B",
+     "en": "Chloroform, CHCl₃",
+     "ur": "کلوروفارم"
+    },
+    {
+     "k": "C",
+     "en": "Carbon Black, C",
+     "ur": "کاربن بلیک"
+    },
+    {
+     "k": "D",
+     "en": "Chloro methane, CH₃Cl",
+     "ur": "کلورو میتھین"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version B",
+   "q_en": "Proteins are essential for the formation of:",
+   "q_ur": "کس کی تیاری کے لیے پروٹین ضروری ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Protoplasm",
+     "ur": "پروٹو پلازم"
+    },
+    {
+     "k": "B",
+     "en": "Cholesterol",
+     "ur": "کولیسٹرول"
+    },
+    {
+     "k": "C",
+     "en": "Dextrin",
+     "ur": "ڈیکسٹرن"
+    },
+    {
+     "k": "D",
+     "en": "Cellulose",
+     "ur": "سیلولوز"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version B",
+   "q_en": "Concentration of reactants and products in moles dm⁻³ in a dilute solution represents:",
+   "q_ur": "کسی ڈائیلوٹ سلوشن میں ری ایکٹنٹس اور پروڈکٹس کی moles dm⁻³ میں کنسنٹریشن کو ظاہر کرتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Molecular mass",
+     "ur": "مالیکیولر ماس"
+    },
+    {
+     "k": "B",
+     "en": "Molar mass",
+     "ur": "مولر ماس"
+    },
+    {
+     "k": "C",
+     "en": "Atomic mass",
+     "ur": "اٹامک ماس"
+    },
+    {
+     "k": "D",
+     "en": "Active mass",
+     "ur": "ایکٹیو ماس"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version B",
+   "q_en": "The envelop of gases and water vapours, surrounding the planet earth is called:",
+   "q_ur": "زمین کے گرد گیسوں اور پانی کے بخارات کے غلاف کو کیا کہتے ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Atmosphere",
+     "ur": "ایٹموسفیئر"
+    },
+    {
+     "k": "B",
+     "en": "Troposphere",
+     "ur": "ٹروپوسفیئر"
+    },
+    {
+     "k": "C",
+     "en": "Stratosphere",
+     "ur": "سٹریٹوسفیئر"
+    },
+    {
+     "k": "D",
+     "en": "Mesosphere",
+     "ur": "میزوسفیئر"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version B",
+   "q_en": "Which of the following is an air pollutant?",
+   "q_ur": "درج شدہ میں سے کیا ہواآلودہ کنندہ ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "N₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ne",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "H₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NO₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version B",
+   "q_en": "Which statement about water is correct?",
+   "q_ur": "پانی کے بارے میں کون سا بیان درست ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Low heat capacity",
+     "ur": "کم ہیٹ کیپیسٹی"
+    },
+    {
+     "k": "B",
+     "en": "Low heat of vaporization",
+     "ur": "کم ہیٹ آف ویپورائزیشن"
+    },
+    {
+     "k": "C",
+     "en": "Contracts when freezes",
+     "ur": "جمود ہونے پر سکڑتا"
+    },
+    {
+     "k": "D",
+     "en": "Boils at 100°C",
+     "ur": "100°C پر ابلتا"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version B",
+   "q_en": "Separation of Minerals from gangue by some physical method is called:",
+   "q_ur": "فزیکل طریقے سے معدنیات کو گینگیو سے الگ کرنا کیا کہلاتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Bessemerization",
+     "ur": "بیسی مرائزیشن"
+    },
+    {
+     "k": "B",
+     "en": "Concentration",
+     "ur": "کنسنٹریشن"
+    },
+    {
+     "k": "C",
+     "en": "Extraction",
+     "ur": "ایکسٹریکشن"
+    },
+    {
+     "k": "D",
+     "en": "Distillation",
+     "ur": "ڈسٹلیشن"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version B",
+   "q_en": "In Solvay process, which two chemicals are dissolved in water to form ammonical brine?",
+   "q_ur": "سولوے کے عمل میں کون سے دو کیمیکل پانی میں حل کر کے امونیکل برائن بنایا جاتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "NH₃ + HCl",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NH₃ + CO₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NH₃ + NaCl",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NH₃ + CaO",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Version D",
+   "q_en": "Which of the following can behave both as Bronsted acid and Bronsted base?",
+   "q_ur": "درج شدہ میں سے کون برونٹڈ ایسڈ اور برونٹڈ بیس دونوں ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "S⁻²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "HCO₃⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CO₃⁻²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "H₃O⁺",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version D",
+   "q_en": "The correct equilibrium constant expression for the given reaction is: 2CO + O₂ ⇌ 2CO₂",
+   "q_ur": "دیے گئے ری ایکشن کا درست ایکوی لبریم کانسٹنٹ کیا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "[2CO][O₂] / [2CO₂]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[2CO₂] / [2CO][O₂]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[CO]²[O₂] / [CO₂]²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[CO₂]² / [CO]²[O₂]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version D",
+   "q_en": "Which compound is used as an antiseptic in hospital operating rooms?",
+   "q_ur": "کون سا کیمیکل ہسپتال کے آپریشن تھیٹر میں جراثیم کش کے طور پر استعمال ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Chloroform",
+     "ur": "کلوروفارم"
+    },
+    {
+     "k": "B",
+     "en": "Methanol",
+     "ur": "میتھینول"
+    },
+    {
+     "k": "C",
+     "en": "Propane",
+     "ur": "پروپین"
+    },
+    {
+     "k": "D",
+     "en": "Phenol",
+     "ur": "فینول"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version D",
+   "q_en": "Identify Arrhenius acid from the following:",
+   "q_ur": "درج شدہ میں آرہینیس ایسڈ کون سا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "CO₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "H₂SO₄",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "SO₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "BF₃",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version D",
+   "q_en": "Halogenation of methane in direct sunlight produces:",
+   "q_ur": "سورج کی براہ راست روشنی میں میتھین کی ہیلوجینیشن سے کیا بنتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Carbon tetrachloride, CCl₄",
+     "ur": "کاربن ٹیٹرا کلورائیڈ"
+    },
+    {
+     "k": "B",
+     "en": "Chloroform, CHCl₃",
+     "ur": "کلوروفارم"
+    },
+    {
+     "k": "C",
+     "en": "Carbon Black, C",
+     "ur": "کاربن بلیک"
+    },
+    {
+     "k": "D",
+     "en": "Chloro methane, CH₃Cl",
+     "ur": "کلورو میتھین"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version D",
+   "q_en": "Fats and oils are used to manufacture:",
+   "q_ur": "چربی اور تیل کس کی تیاری میں استعمال ہوتے ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Soaps",
+     "ur": "صابن"
+    },
+    {
+     "k": "B",
+     "en": "Paper",
+     "ur": "کاغذ"
+    },
+    {
+     "k": "C",
+     "en": "Rayon",
+     "ur": "ریان"
+    },
+    {
+     "k": "D",
+     "en": "Rectified Spirit",
+     "ur": "ریکٹیفائیڈ اسپرٹ"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version D",
+   "q_en": "Concentration of reactants and products in moles dm⁻³ in a dilute solution represents:",
+   "q_ur": "کسی ڈائیلوٹ سلوشن میں ری ایکٹنٹس اور پروڈکٹس کی moles dm⁻³ میں کنسنٹریشن کو ظاہر کرتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Molecular mass",
+     "ur": "مالیکیولر ماس"
+    },
+    {
+     "k": "B",
+     "en": "Molar mass",
+     "ur": "مولر ماس"
+    },
+    {
+     "k": "C",
+     "en": "Atomic mass",
+     "ur": "اٹامک ماس"
+    },
+    {
+     "k": "D",
+     "en": "Active mass",
+     "ur": "ایکٹیو ماس"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version D",
+   "q_en": "The envelop of gases and water vapours, surrounding the planet earth is called:",
+   "q_ur": "زمین کے گرد گیسوں اور پانی کے بخارات کے غلاف کو کیا کہتے ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Atmosphere",
+     "ur": "ایٹموسفیئر"
+    },
+    {
+     "k": "B",
+     "en": "Troposphere",
+     "ur": "ٹروپوسفیئر"
+    },
+    {
+     "k": "C",
+     "en": "Stratosphere",
+     "ur": "سٹریٹوسفیئر"
+    },
+    {
+     "k": "D",
+     "en": "Mesosphere",
+     "ur": "میزوسفیئر"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version D",
+   "q_en": "Which of the following is an air pollutant?",
+   "q_ur": "درج شدہ میں سے کیا ہواآلودہ کنندہ ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "N₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ne",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "H₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NO₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version D",
+   "q_en": "Which statement about water is WRONG?",
+   "q_ur": "پانی کے بارے میں کون سا بیان غلط ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "High heat capacity",
+     "ur": "زیادہ ہیٹ کیپیسٹی"
+    },
+    {
+     "k": "B",
+     "en": "High heat of vaporization",
+     "ur": "زیادہ ہیٹ آف ویپورائزیشن"
+    },
+    {
+     "k": "C",
+     "en": "Minimum density at 4°C",
+     "ur": "4°C پر کم از کم کثافت"
+    },
+    {
+     "k": "D",
+     "en": "Boils at 100°C",
+     "ur": "100°C پر ابلتا"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version D",
+   "q_en": "During metallurgy, which step is used in the concentration process of metals?",
+   "q_ur": "دھات کاری کے دوران کون سا مرحلہ دھاتوں کی کنسنٹریشن کے لیے استعمال ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Roasting",
+     "ur": "روسٹنگ"
+    },
+    {
+     "k": "B",
+     "en": "Flotation",
+     "ur": "فلوٹیشن"
+    },
+    {
+     "k": "C",
+     "en": "Smelting",
+     "ur": "اسمیلٹنگ"
+    },
+    {
+     "k": "D",
+     "en": "Bessemerization",
+     "ur": "بیسی مرائزیشن"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version D",
+   "q_en": "In Solvay process, which gas is obtained by heating NaHCO₃?",
+   "q_ur": "سولوے کے عمل میں NaHCO₃ کو گرم کرنے سے کون سی گیس حاصل ہوتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "H₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NH₃",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CO₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Na₂CO₃",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

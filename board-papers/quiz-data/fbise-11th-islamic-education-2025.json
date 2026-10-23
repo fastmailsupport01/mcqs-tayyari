@@ -1,0 +1,570 @@
+{
+ "board": "FBISE Islamabad",
+ "board_slug": "fbise",
+ "class": "11th",
+ "subject": "Islamic Education",
+ "year": 2025,
+ "slug": "fbise-11th-islamic-education-2025",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Version B",
+   "q_en": "The Prophet (ﷺ) (خاتم النبيين) liked: ______",
+   "q_ur": "آپ (ﷺ) (خاتم النبيين) نے ______ کو پسند فرمایا۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "The tribal system",
+     "ur": "قبائلی نظام"
+    },
+    {
+     "k": "B",
+     "en": "The Dictatorship",
+     "ur": "آمریت"
+    },
+    {
+     "k": "C",
+     "en": "The consultative system",
+     "ur": "شورائی نظام"
+    },
+    {
+     "k": "D",
+     "en": "The state system",
+     "ur": "ریاستی نظام"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version B",
+   "q_en": "Rashidun caliphate (خلافت راشدہ) spanned over: ______",
+   "q_ur": "خلافت راشدہ کا عرصہ ______ تھا۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "50 years",
+     "ur": "50 برس"
+    },
+    {
+     "k": "B",
+     "en": "20 years",
+     "ur": "20 برس"
+    },
+    {
+     "k": "C",
+     "en": "30 years",
+     "ur": "30 برس"
+    },
+    {
+     "k": "D",
+     "en": "40 years",
+     "ur": "40 برس"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version B",
+   "q_en": "Who issued the official order to compile ahadith?",
+   "q_ur": "سرکاری سطح پر احادیث نبویہ کو جمع کرنے کا حکم کس نے دیا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Imam Zuhri",
+     "ur": "امام زہری"
+    },
+    {
+     "k": "B",
+     "en": "Hazrat Abu Bakr",
+     "ur": "حضرت ابو بکر صدیقؓ"
+    },
+    {
+     "k": "C",
+     "en": "Hazrat Umar Bin Abdul Aziz",
+     "ur": "حضرت عمر بن عبد العزيز"
+    },
+    {
+     "k": "D",
+     "en": "Hazrat Zayd Bin Sabit",
+     "ur": "حضرت زید بن ثابتؓ"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version B",
+   "q_en": "Sumamah Bin Usal was the chief of: ______",
+   "q_ur": "ثمامہ بن اثال ______ کا سردار تھا۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Abyssinia",
+     "ur": "حبشہ"
+    },
+    {
+     "k": "B",
+     "en": "Yamama",
+     "ur": "یمامہ"
+    },
+    {
+     "k": "C",
+     "en": "Yemen",
+     "ur": "یمن"
+    },
+    {
+     "k": "D",
+     "en": "Taif",
+     "ur": "طائف"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version B",
+   "q_en": "The word 'کلا' was usually used in Makki surahs for:",
+   "q_ur": "مکی سورتوں میں 'کلا' کا لفظ کس لیے استعمال کیا گیا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "An important miracle",
+     "ur": "کسی اہم معجزے کے لیے"
+    },
+    {
+     "k": "B",
+     "en": "Important event",
+     "ur": "کسی اہم واقعے کے لیے"
+    },
+    {
+     "k": "C",
+     "en": "Someone important",
+     "ur": "کسی اہم شخص کے لیے"
+    },
+    {
+     "k": "D",
+     "en": "A warning about something important",
+     "ur": "کسی اہم بات پر تنبیہ کے لیے"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version B",
+   "q_en": "What has the Quran declared as the greatest injustice (ظلم عظیم)?",
+   "q_ur": "قرآن مجید نے کس چیز کو 'ظلم عظیم' قرار دیا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Polytheism",
+     "ur": "شرک"
+    },
+    {
+     "k": "B",
+     "en": "Magic",
+     "ur": "جادو"
+    },
+    {
+     "k": "C",
+     "en": "Disobedience of parents",
+     "ur": "والدین کی نافرمانی"
+    },
+    {
+     "k": "D",
+     "en": "Murder",
+     "ur": "قتل"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version B",
+   "q_en": "Al-Muwatta was compiled by: ______",
+   "q_ur": "'الموطا' ______ نے مرتب کی۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Imam Muhammad",
+     "ur": "امام محمدؒ"
+    },
+    {
+     "k": "B",
+     "en": "Imam Abu Hanifa",
+     "ur": "امام ابو حنیفہؒ"
+    },
+    {
+     "k": "C",
+     "en": "Imam Malik",
+     "ur": "امام مالکؒ"
+    },
+    {
+     "k": "D",
+     "en": "Imam Sufyan Souri",
+     "ur": "امام سفیان ثوریؒ"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version B",
+   "q_en": "The number of fatwas by Imam Ali Raza was: ______",
+   "q_ur": "امام علی رضا کے فتاویٰ کی تعداد ______ تھی۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Fifteen thousand",
+     "ur": "15 ہزار"
+    },
+    {
+     "k": "B",
+     "en": "Eighteen thousand",
+     "ur": "18 ہزار"
+    },
+    {
+     "k": "C",
+     "en": "Seventeen thousand",
+     "ur": "17 ہزار"
+    },
+    {
+     "k": "D",
+     "en": "Sixteen thousand",
+     "ur": "16 ہزار"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version B",
+   "q_en": "'علم الفرائض' refers to: ______",
+   "q_ur": "'علم الفرائض' ______ کو کہا جاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Knowledge of Quran",
+     "ur": "علم قرآن"
+    },
+    {
+     "k": "B",
+     "en": "Knowledge of Jurisprudence",
+     "ur": "علم فقہ"
+    },
+    {
+     "k": "C",
+     "en": "Knowledge of Hadith",
+     "ur": "علم حدیث"
+    },
+    {
+     "k": "D",
+     "en": "Knowledge of inheritance",
+     "ur": "علم میراث"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version B",
+   "q_en": "Word 'فرقان' means: ______",
+   "q_ur": "'فرقان' کا لغوی مطلب کیا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Decider between truth and falsehood",
+     "ur": "حق و باطل کا فیصلہ کرنے والا"
+    },
+    {
+     "k": "B",
+     "en": "Honorable",
+     "ur": "عزت والا"
+    },
+    {
+     "k": "C",
+     "en": "Explainer",
+     "ur": "وضاحت کرنے والا"
+    },
+    {
+     "k": "D",
+     "en": "Great one",
+     "ur": "عظمت والا"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Version D",
+   "q_en": "The Quran was compiled during the period of: ______",
+   "q_ur": "قرآن مجید کی تدوین کس کے دور میں ہوئی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hazrat Umar Farooq",
+     "ur": "حضرت عمر فاروقؓ"
+    },
+    {
+     "k": "B",
+     "en": "Hazrat Umar Bin Abdul Aziz",
+     "ur": "حضرت عمر بن عبد العزيزؒ"
+    },
+    {
+     "k": "C",
+     "en": "Hazrat Abu Bakr",
+     "ur": "حضرت ابو بکر صدیقؓ"
+    },
+    {
+     "k": "D",
+     "en": "Hazrat Usman",
+     "ur": "حضرت عثمانؓ"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version D",
+   "q_en": "The most authentic source of knowledge is: ______",
+   "q_ur": "علم کا سب سے مستند ذریعہ ______ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Intellect",
+     "ur": "عقل"
+    },
+    {
+     "k": "B",
+     "en": "Observation",
+     "ur": "مشاہدہ"
+    },
+    {
+     "k": "C",
+     "en": "Experience",
+     "ur": "تجربہ"
+    },
+    {
+     "k": "D",
+     "en": "Revelation",
+     "ur": "وحی"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version D",
+   "q_en": "Holy Quran is the source of guidance for: ______",
+   "q_ur": "قرآن مجید ______ کے لیے ہدایت کا سرچشمہ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Muslims only",
+     "ur": "صرف مسلمانوں"
+    },
+    {
+     "k": "B",
+     "en": "Humanity",
+     "ur": "انسانیت"
+    },
+    {
+     "k": "C",
+     "en": "Arabs only",
+     "ur": "صرف عربوں"
+    },
+    {
+     "k": "D",
+     "en": "Jinns only",
+     "ur": "صرف جنات"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version D",
+   "q_en": "'عام الحزن' means: ______",
+   "q_ur": "'عام الحزن' سے مراد ______ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "The year of ease",
+     "ur": "آسانی کا سال"
+    },
+    {
+     "k": "B",
+     "en": "The year of happiness",
+     "ur": "خوشی کا سال"
+    },
+    {
+     "k": "C",
+     "en": "The year of sorrow",
+     "ur": "غم کا سال"
+    },
+    {
+     "k": "D",
+     "en": "The year of war",
+     "ur": "جنگ کا سال"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version D",
+   "q_en": "The preservation and compilation of Hadith began from the period of: ______",
+   "q_ur": "حدیث کی حفاظت اور کتاب کا آغاز ______ سے ہوا۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Prophethood",
+     "ur": "عہد رسالت"
+    },
+    {
+     "k": "B",
+     "en": "Companions",
+     "ur": "عہد صحابہؓ"
+    },
+    {
+     "k": "C",
+     "en": "Taabieen",
+     "ur": "عہد تابعین"
+    },
+    {
+     "k": "D",
+     "en": "Taba-Taabieen",
+     "ur": "عہد تبع تابعین"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version D",
+   "q_en": "How much wealth is permissible for a will? ______",
+   "q_ur": "کتنے مال کی وصیت جائز ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "The entire wealth",
+     "ur": "پورے مال کی"
+    },
+    {
+     "k": "B",
+     "en": "Half of the wealth",
+     "ur": "آدھے مال کی"
+    },
+    {
+     "k": "C",
+     "en": "Two third of the wealth",
+     "ur": "دو تہائی مال کی"
+    },
+    {
+     "k": "D",
+     "en": "One third of the wealth",
+     "ur": "ایک تہائی مال کی"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version D",
+   "q_en": "In Islam the first foundation for progress and prosperity is: ______",
+   "q_ur": "اسلام میں ترقی اور فلاح کے لیے سب سے پہلی بنیاد ______ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Political stability",
+     "ur": "سیاسی استحکام"
+    },
+    {
+     "k": "B",
+     "en": "Science and technology",
+     "ur": "سائنس و ٹیکنالوجی"
+    },
+    {
+     "k": "C",
+     "en": "Piety and faith",
+     "ur": "تقویٰ اور ایمان"
+    },
+    {
+     "k": "D",
+     "en": "Economic development",
+     "ur": "معاشی ترقی"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version D",
+   "q_en": "Which hajj does NOT include Umra? ______",
+   "q_ur": "حج کی کس قسم میں عمرہ نہیں ہوتا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hajj e Qiran",
+     "ur": "حج قرآن"
+    },
+    {
+     "k": "B",
+     "en": "Hajj e Tamatto",
+     "ur": "حج تمتع"
+    },
+    {
+     "k": "C",
+     "en": "Hajj e Ifrad",
+     "ur": "حج افراد"
+    },
+    {
+     "k": "D",
+     "en": "Hajj e Akbar",
+     "ur": "حج اکبر"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version D",
+   "q_en": "Who deserves the good treatment the most? ______",
+   "q_ur": "اولاد انسان کے حسن اخلاق کے سب سے زیادہ مستحق کون ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Children",
+     "ur": "اولاد"
+    },
+    {
+     "k": "B",
+     "en": "Parents",
+     "ur": "والدین"
+    },
+    {
+     "k": "C",
+     "en": "Relatives",
+     "ur": "رشتہ دار"
+    },
+    {
+     "k": "D",
+     "en": "Friends",
+     "ur": "دوست"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version D",
+   "q_en": "'الجامع' was compiled by: ______",
+   "q_ur": "'الجامع' کس نے مرتب کی؟ — امام ابو حنیفہؒ",
+   "options": [
+    {
+     "k": "A",
+     "en": "Imam Abu Hanifa",
+     "ur": "امام ابو حنیفہؒ"
+    },
+    {
+     "k": "B",
+     "en": "Imam Malik",
+     "ur": "امام مالکؒ"
+    },
+    {
+     "k": "C",
+     "en": "Imam Sufyan Souri",
+     "ur": "امام سفیان ثوریؒ"
+    },
+    {
+     "k": "D",
+     "en": "Imam Muhammad",
+     "ur": "امام محمدؒ"
+    }
+   ]
+  }
+ ]
+}

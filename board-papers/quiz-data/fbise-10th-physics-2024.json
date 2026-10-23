@@ -1,0 +1,682 @@
+{
+ "board": "FBISE Islamabad",
+ "board_slug": "fbise",
+ "class": "10th",
+ "subject": "Physics",
+ "year": 2024,
+ "slug": "fbise-10th-physics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Version B",
+   "q_en": "In optical fibre information travels in the form of:",
+   "q_ur": "آپٹیکل فائبر میں انفارمیشن کس شکل میں منتقل ہوتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electrical signal",
+     "ur": "الیکٹریکل سگنل"
+    },
+    {
+     "k": "B",
+     "en": "Sound signal",
+     "ur": "ساؤنڈ سگنل"
+    },
+    {
+     "k": "C",
+     "en": "Microwaves signal",
+     "ur": "مائیکرو ویو سگنل"
+    },
+    {
+     "k": "D",
+     "en": "Light signal",
+     "ur": "لائٹ سگنل"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version B",
+   "q_en": "The half-life of an isotope is 1 year, its percentage left after 3 years is:",
+   "q_ur": "ایک آئسوٹوپ کی ہاف لائف 1 سال ہے۔ 3 سال بعد اس کی کتنی مقدار بچی ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "50%",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "25%",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "12.5%",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "75%",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version B",
+   "q_en": "In X + ₈O¹⁷ ⟶ ₇N¹⁴ + ₂He⁴ what is X?",
+   "q_ur": "مساوات X + ₈O¹⁷ ⟶ ₇N¹⁴ + ₂He⁴ میں X کیا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "₁H²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "₀n¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "₋₁e⁰",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "₁H¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version B",
+   "q_en": "In half hour 180 waves are passing through a point in a river. Time period of the wave is:",
+   "q_ur": "ایک دریا میں ایک مقام سے آدھے گھنٹے میں 180 لہریں گزرتی ہیں۔ لہر کا ٹائم پیریڈ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1s",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.1s",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "180s",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10s",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version B",
+   "q_en": "The sound energy passing per unit area per second is measured in:",
+   "q_ur": "ایک سیکنڈ میں ایک یونٹ ایریا سے گزرنے والی صوتی توانائی ______ میں ماپی جاتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "dm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "W/m²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Hz",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "dB",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version B",
+   "q_en": "An object is at 60cm from lens and the image is at 20cm, the magnifications is:",
+   "q_ur": "اگر ایک آبجیکٹ لینز سے 60cm پر ہو جبکہ امیج لینز سے 20cm پر ہو تو میگنیفیکیشن کیا ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "40",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version B",
+   "q_en": "Human ear can respond to the intensity of:",
+   "q_ur": "انسانی کان کس شدت کی آواز کو محسوس کر سکتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "10⁻¹³Wm⁻² to 10Wm⁻²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10⁻¹²Wm⁻² to 1Wm⁻²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10⁻¹⁵Wm⁻² to 0.1Wm⁻²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10⁻¹⁴Wm⁻² to 100Wm⁻²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version B",
+   "q_en": "Potential difference between two points is 20V. The work needed to shift 10 coulomb charge from one point to other will be:",
+   "q_ur": "دو پوائنٹس کے مابین پوٹینشل فرق 20V ہے۔ 10 کولمب کے چارج کو ایک پوائنٹ سے دوسرے پوائنٹ منتقل کرنے کے لیے کتنا کام کرنا ہوگا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "10J",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "100J",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "200J",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2J",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version B",
+   "q_en": "How long does it take a current of 50 mA to transfer 10 C charge?",
+   "q_ur": "50 ملی ایمپیئر کرنٹ کو 10 کولمب کے چارج کی منتقلی میں کتنا وقت لگے گا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "200s",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "300s",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "400s",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "50s",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version B",
+   "q_en": "Determine Rₑ for the circuit: (A resistor circuit diagram with R₁=2Ω, R₂=2Ω, R₃=4Ω is printed in the source scan.)",
+   "q_ur": "دیے گئے سرکٹ کا Rₑ کیا ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "16Ω",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8Ω",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2Ω",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "12Ω",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version B",
+   "q_en": "If Iₚ = 100 Iₛ, the turn ratio of transformer is:",
+   "q_ur": "اگر Iₚ = 100 Iₛ ہو تو ٹرانسفارمر کی ٹرنز ریشو کیا ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "100:1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1:10",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10:1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1:100",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version B",
+   "q_en": "The output of a NOR gate is 1 when:",
+   "q_ur": "ایک NOR گیٹ کا آؤٹ پٹ کس صورت میں 1 ہوگا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "A = 1, B = 1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A = 0, B = 1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A = 1, B = 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A = 0, B = 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Version D",
+   "q_en": "The most suitable means of continuous communication between a satellite and earth is:",
+   "q_ur": "زمین اور سیٹلائٹ کے مابین مسلسل کمیونیکیشن کے لیے موزوں ترین ذریعہ کیا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ultrasonic waves",
+     "ur": "الٹراسونک لہریں"
+    },
+    {
+     "k": "B",
+     "en": "Sound waves",
+     "ur": "ساؤنڈ لہریں"
+    },
+    {
+     "k": "C",
+     "en": "Any light waves",
+     "ur": "کوئی بھی لائٹ لہریں"
+    },
+    {
+     "k": "D",
+     "en": "Radio waves",
+     "ur": "ریڈیو لہریں"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version D",
+   "q_en": "The half-life of a certain isotope is 1 day. What quantity of it will be left after 2 days?",
+   "q_ur": "ایک مخصوص آئسوٹوپ کی ہاف لائف 01 دن ہے؟ 2 دن بعد اس کی کتنی مقدار بچی ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/8",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/16",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version D",
+   "q_en": "When ₉₂U²³⁵ ejects a beta particle (β⁻), the number of protons left in the nucleus are:",
+   "q_ur": "جب ₉₂U²³⁵ ایک بیٹا پارٹیکل (β⁻) خارج کرتا ہے تو نیوکلیئس میں کتنے پروٹون بچیں گے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "92",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "93",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "89",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "91",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version D",
+   "q_en": "360 waves are passing through a point in a river in one hour. Time period of the wave is:",
+   "q_ur": "ایک دریا میں ایک مقام سے ایک گھنٹے میں 360 لہریں گزرتی ہیں۔ لہر کا ٹائم پیریڈ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1s",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10s",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "100s",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.1s",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version D",
+   "q_en": "The sound energy passing per unit area per second is called:",
+   "q_ur": "ایک سیکنڈ میں ایک یونٹ ایریا سے گزرنے والی ساؤنڈ انرجی ______ کہلاتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Intensity of sound",
+     "ur": "آواز کی شدت"
+    },
+    {
+     "k": "B",
+     "en": "Pitch of sound",
+     "ur": "آواز کی پچ"
+    },
+    {
+     "k": "C",
+     "en": "Frequency",
+     "ur": "فریکوئنسی"
+    },
+    {
+     "k": "D",
+     "en": "Loudness",
+     "ur": "لاؤڈنیس"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version D",
+   "q_en": "An object is at 30cm from a lens and the image is at 10cm, the magnifications is:",
+   "q_ur": "اگر ایک آبجیکٹ لینز سے 30cm پر ہو جبکہ امیج لینز سے 10cm پر ہو تو میگنیفیکیشن کیا ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version D",
+   "q_en": "Human ear can respond to the intensity of:",
+   "q_ur": "انسانی کان کس شدت کی آواز کو محسوس کر سکتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "10⁻¹³Wm⁻² to 10Wm⁻²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10⁻¹²Wm⁻² to 1Wm⁻²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10⁻¹⁵Wm⁻² to 0.1Wm⁻²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10⁻¹⁴Wm⁻² to 100Wm⁻²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version D",
+   "q_en": "If 5 joule work is needed to shift 10 coulomb charge from one point to another, the potential difference between the points is:",
+   "q_ur": "اگر 10 کولمب کے ایک چارج کو ایک پوائنٹ سے دوسرے پوائنٹ منتقل کرنے کے لیے 5 جول ورک کی ضرورت ہو تو پوائنٹس کے مابین پوٹینشل فرق کیا ہوگا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "5V",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2V",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.5V",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10V",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version D",
+   "q_en": "How long does it take a current of 10 mA to deliver 30 C charge?",
+   "q_ur": "ایک 10 ملی ایمپیئر کرنٹ کو 30 کولمب چارج کی ترسیل کرنے کے لیے کتنا وقت درکار ہوگا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "30s",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "300s",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3000s",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3s",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version D",
+   "q_en": "Determine R_c for the circuit: (A resistor circuit diagram with R₁=4Ω, R₂=4Ω, R₃=4Ω is printed in the source scan.)",
+   "q_ur": "دیے گئے سرکٹ کا R_c کیا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "4Ω",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2Ω",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "12Ω",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6Ω",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version D",
+   "q_en": "If turn ratio of a transformer is 100, then:",
+   "q_ur": "اگر ایک ٹرانسفارمر کی ٹرنز ریشو 100 ہو تو:",
+   "options": [
+    {
+     "k": "A",
+     "en": "N_s = N_p/100",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "N_s = 100/N_p",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "V_s = V_p/100",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "I_p = 100I_s",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version D",
+   "q_en": "The output of a NAND gate is 0 when:",
+   "q_ur": "ایک NAND گیٹ کا آؤٹ پٹ کس صورت میں 0 ہوگا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "A = 1, B = 1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A = 0, B = 1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A = 1, B = 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A = 0, B = 0",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

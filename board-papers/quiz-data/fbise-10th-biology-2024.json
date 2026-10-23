@@ -1,0 +1,682 @@
+{
+ "board": "FBISE Islamabad",
+ "board_slug": "fbise",
+ "class": "10th",
+ "subject": "Biology",
+ "year": 2024,
+ "slug": "fbise-10th-biology-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Version B",
+   "q_en": "Which blood vessel surrounds the alveoli?",
+   "q_ur": "کیپیلری خون کی نالی الویولائی کے گرد کیوں پائی جاتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Capillary",
+     "ur": "کیپیلری"
+    },
+    {
+     "k": "B",
+     "en": "Vein",
+     "ur": "ورید"
+    },
+    {
+     "k": "C",
+     "en": "Venule",
+     "ur": "وینیول"
+    },
+    {
+     "k": "D",
+     "en": "Artery",
+     "ur": "آرٹری"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version B",
+   "q_en": "The non-surgical method of removal of kidney stone is:",
+   "q_ur": "گردے کی پتھری کے بغیر سرجری کے طریقے کاٹنے کا طریقہ کون سا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Dialysis",
+     "ur": "ڈائلیسز"
+    },
+    {
+     "k": "B",
+     "en": "Kidney transplant",
+     "ur": "گردے کا ٹرانسپلانٹ"
+    },
+    {
+     "k": "C",
+     "en": "Lithotripsy",
+     "ur": "لیتھوٹرپسی"
+    },
+    {
+     "k": "D",
+     "en": "X-rays",
+     "ur": "ایکس ریز"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version B",
+   "q_en": "Islets of Langerhans are part of the:",
+   "q_ur": "آئیلٹس آف لانگر ہینز کس کا حصہ ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Thyroid gland",
+     "ur": "تھائرائیڈ گلینڈ"
+    },
+    {
+     "k": "B",
+     "en": "Pancreas",
+     "ur": "پینکریاز"
+    },
+    {
+     "k": "C",
+     "en": "Adrenal gland",
+     "ur": "ایڈرینل گلینڈ"
+    },
+    {
+     "k": "D",
+     "en": "Gonads",
+     "ur": "گوناڈز"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version B",
+   "q_en": "Which of the following is nervous disorder?",
+   "q_ur": "درج شدہ میں سے کون سا نروس سسٹم کا عارضہ ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hypothyroidism",
+     "ur": "ہائپوتھائرائیڈزم"
+    },
+    {
+     "k": "B",
+     "en": "Diabetes",
+     "ur": "ذیابیطس"
+    },
+    {
+     "k": "C",
+     "en": "Paralysis",
+     "ur": "فالج"
+    },
+    {
+     "k": "D",
+     "en": "Goiter",
+     "ur": "گوئٹر"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version B",
+   "q_en": "In which disease crystals of uric acid are accumulated in toe joints?",
+   "q_ur": "کس بیماری میں یورک ایسڈ کے کرسٹلز پاؤں کی انگلیوں کے جوڑوں میں جمع ہو جاتے ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Osteoporosis",
+     "ur": "آسٹیوپوروسس"
+    },
+    {
+     "k": "B",
+     "en": "Gout",
+     "ur": "گاؤٹ"
+    },
+    {
+     "k": "C",
+     "en": "Arthritis",
+     "ur": "آرتھرائٹس"
+    },
+    {
+     "k": "D",
+     "en": "Rheumatoid arthritis",
+     "ur": "رومیٹائیڈ آرتھرائٹس"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version B",
+   "q_en": "Female reproductive part of the flower is called:",
+   "q_ur": "پھول کا مادہ تولیدی حصہ ______ کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Gynoecium",
+     "ur": "گائینوشیم"
+    },
+    {
+     "k": "B",
+     "en": "Macrospores",
+     "ur": "میکروسپورز"
+    },
+    {
+     "k": "C",
+     "en": "Androecium",
+     "ur": "اینڈروشیم"
+    },
+    {
+     "k": "D",
+     "en": "Microspores",
+     "ur": "مائیکروسپورز"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version B",
+   "q_en": "Strawberry is the example of:",
+   "q_ur": "اسٹرابیری کس کی مثال ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Rhizomes",
+     "ur": "رائزومز"
+    },
+    {
+     "k": "B",
+     "en": "Tubers",
+     "ur": "ٹیوبرز"
+    },
+    {
+     "k": "C",
+     "en": "Runners",
+     "ur": "رنرز"
+    },
+    {
+     "k": "D",
+     "en": "Suckers",
+     "ur": "سکرز"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version B",
+   "q_en": "Two identical chromosomes of a pair are called:",
+   "q_ur": "جوڑے میں ایک جیسے کروموسومز کو کیا کہتے ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Chromatid",
+     "ur": "کروماٹڈ"
+    },
+    {
+     "k": "B",
+     "en": "Chromatin",
+     "ur": "کرومیٹن"
+    },
+    {
+     "k": "C",
+     "en": "Condensed chromosome",
+     "ur": "کنڈینسڈ کروموسوم"
+    },
+    {
+     "k": "D",
+     "en": "Homologous chromosome",
+     "ur": "ہومولوگس کروموسوم"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version B",
+   "q_en": "The first phase in which nucleotide sequence is copied in the form of messenger RNA is:",
+   "q_ur": "وہ مرحلہ جس میں نیوکلیوٹائیڈ کی ترتیب کو میسنجر RNA کی شکل میں نقل کیا جاتا ہے ______ کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Polypeptide",
+     "ur": "پولی پیپٹائیڈ"
+    },
+    {
+     "k": "B",
+     "en": "Translation",
+     "ur": "ٹرانسلیشن"
+    },
+    {
+     "k": "C",
+     "en": "Transcription",
+     "ur": "ٹرانسکرپشن"
+    },
+    {
+     "k": "D",
+     "en": "Central dogma",
+     "ur": "سنٹرل ڈوگما"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version B",
+   "q_en": "The organisms which make their own food are called:",
+   "q_ur": "وہ جاندار جو اپنی خوراک خود بناتے ہیں ______ کہلاتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Decomposers",
+     "ur": "ڈی کمپوزرز"
+    },
+    {
+     "k": "B",
+     "en": "Autotrophs",
+     "ur": "آٹوٹرافس"
+    },
+    {
+     "k": "C",
+     "en": "Heterotrophs",
+     "ur": "ہیٹروٹرافس"
+    },
+    {
+     "k": "D",
+     "en": "Carnivores",
+     "ur": "کارنیورز"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version B",
+   "q_en": "Which enzyme is used to join gene of interest with vector DNA?",
+   "q_ur": "دلچسپی کے جین کو ویکٹر DNA کے ساتھ جوڑنے کے لیے کون سا انزائم استعمال ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ligase",
+     "ur": "لائیگیز"
+    },
+    {
+     "k": "B",
+     "en": "Endonuclease",
+     "ur": "اینڈونیوکلیز"
+    },
+    {
+     "k": "C",
+     "en": "Restriction endonuclease",
+     "ur": "ریسٹرکشن اینڈونیوکلیز"
+    },
+    {
+     "k": "D",
+     "en": "Amylase",
+     "ur": "امائلیز"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version B",
+   "q_en": "Whose work lead to discovery of antiseptic?",
+   "q_ur": "کس کے کام کے نتیجے میں اینٹی سیپٹک دریافت ہوئی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Gregor Mendel",
+     "ur": "گریگور مینڈل"
+    },
+    {
+     "k": "B",
+     "en": "Louis Pasture",
+     "ur": "لوئی پاسچر"
+    },
+    {
+     "k": "C",
+     "en": "Edward Janner",
+     "ur": "ایڈورڈ جینر"
+    },
+    {
+     "k": "D",
+     "en": "Joseph lister",
+     "ur": "جوزف لسٹر"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Version D",
+   "q_en": "The exchange of oxygen and carbon dioxide between the organism and the environment is called:",
+   "q_ur": "اندرون سے آکسیجن کا حصول کرنا اور جسم سے کاربن ڈائی آکسائیڈ کا باہر نکلنے کا عمل ______ کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Inspiration only",
+     "ur": "صرف انسپائریشن"
+    },
+    {
+     "k": "B",
+     "en": "Gaseous exchange",
+     "ur": "گیسیس ایکسچینج"
+    },
+    {
+     "k": "C",
+     "en": "Aerobic respiration",
+     "ur": "ایروبک ریسپائریشن"
+    },
+    {
+     "k": "D",
+     "en": "Expiration only",
+     "ur": "صرف ایکسپائریشن"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version D",
+   "q_en": "The maintenance of constant environmental conditions inside body is called:",
+   "q_ur": "______ سے مراد داخلی ماحول میں تبدیلیوں کے باوجود جسم کے اندرونی ماحول میں استحکام اور توازن قائم رکھنا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Osmoregulation",
+     "ur": "آسموریگولیشن"
+    },
+    {
+     "k": "B",
+     "en": "Excretion",
+     "ur": "ایکسکریشن"
+    },
+    {
+     "k": "C",
+     "en": "Osmotic adjustment",
+     "ur": "آسموٹک ایڈجسٹمنٹ"
+    },
+    {
+     "k": "D",
+     "en": "Homeostasis",
+     "ur": "ہومیوسٹیسز"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version D",
+   "q_en": "The brain and spinal cord are covered with three protective membranes called:",
+   "q_ur": "دماغ اور اسپائنل کارڈ کو تین حفاظتی جھلیوں سے ______ کہتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Meninges",
+     "ur": "میننجیز"
+    },
+    {
+     "k": "B",
+     "en": "Cranium",
+     "ur": "کرینیم"
+    },
+    {
+     "k": "C",
+     "en": "Ventricles",
+     "ur": "وینٹریکلز"
+    },
+    {
+     "k": "D",
+     "en": "Cerebro-spinal fluid",
+     "ur": "سیریبرو اسپائنل فلوئڈ"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version D",
+   "q_en": "Where is insulin produced?",
+   "q_ur": "انسولین کہاں بنتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Pancreas",
+     "ur": "پینکریاز"
+    },
+    {
+     "k": "B",
+     "en": "Liver",
+     "ur": "جگر"
+    },
+    {
+     "k": "C",
+     "en": "Anterior pituitary gland",
+     "ur": "اینٹیئر پٹیوٹری گلینڈ"
+    },
+    {
+     "k": "D",
+     "en": "Thyroid glands",
+     "ur": "تھائرائیڈ گلینڈز"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version D",
+   "q_en": "The bone that belongs to axial skeleton of human being is:",
+   "q_ur": "کون سی ہڈی انسانی ڈھانچے کے ایکسیل اسکیلیٹن کا حصہ ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Femur",
+     "ur": "فیمر"
+    },
+    {
+     "k": "B",
+     "en": "Sternum",
+     "ur": "سٹرنم"
+    },
+    {
+     "k": "C",
+     "en": "Pectoral girdle",
+     "ur": "پیکٹورل گرڈل"
+    },
+    {
+     "k": "D",
+     "en": "Pelvic girdle",
+     "ur": "پیلوک گرڈل"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version D",
+   "q_en": "Yeast reproduces asexually by:",
+   "q_ur": "خمیر میں غیر جنسی تولید ______ سے ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Budding",
+     "ur": "بڈنگ"
+    },
+    {
+     "k": "B",
+     "en": "Binary fission",
+     "ur": "بائنری فشن"
+    },
+    {
+     "k": "C",
+     "en": "Regeneration",
+     "ur": "ری جنریشن"
+    },
+    {
+     "k": "D",
+     "en": "Fragmentation",
+     "ur": "فراگمینٹیشن"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version D",
+   "q_en": "In pea plant ______ germination occurs.",
+   "q_ur": "مٹر کے پودے میں ______ جرمینیشن ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hypocotyl",
+     "ur": "ہائپوکوٹائل"
+    },
+    {
+     "k": "B",
+     "en": "Vegetative propagation",
+     "ur": "ویجیٹیٹو پروپیگیشن"
+    },
+    {
+     "k": "C",
+     "en": "Epigeal germination",
+     "ur": "ایپی جیل جرمینیشن"
+    },
+    {
+     "k": "D",
+     "en": "Hypogeal germination",
+     "ur": "ہائپوجیل جرمینیشن"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version D",
+   "q_en": "The appearance of a trait in an individual is called:",
+   "q_ur": "کسی فرد میں کسی خصوصیت کا ظاہر ہونا کہلاتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Genotype",
+     "ur": "جینوٹائپ"
+    },
+    {
+     "k": "B",
+     "en": "Phenotype",
+     "ur": "فینوٹائپ"
+    },
+    {
+     "k": "C",
+     "en": "Karyotype",
+     "ur": "کیریوٹائپ"
+    },
+    {
+     "k": "D",
+     "en": "Heterozygous",
+     "ur": "ہیٹروزائگس"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version D",
+   "q_en": "What is the expected phenotypic ratio in a cross between true breed (RR) round seed and true breed (rr) wrinkled seed plants?",
+   "q_ur": "خالص نسل گول بیج والے پودے (RR) اور خالص نسل جھری دار بیج والے پودے (rr) کے کراس کے نتیجے میں متوقع فینوٹائپک تناسب کیا ہو گا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "1:3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1:2:1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2:2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1:1:1:1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version D",
+   "q_en": "A relationship in which an individual of one species may kill and eat individuals of other species is called:",
+   "q_ur": "ایسا تعلق جس میں ایک سپیشیز کا فرد دوسری سپیشیز کے افراد کو مارے اور کھا جائے ______ کہلاتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Symbiosis",
+     "ur": "سمبائیوسس"
+    },
+    {
+     "k": "B",
+     "en": "Competition",
+     "ur": "مقابلہ"
+    },
+    {
+     "k": "C",
+     "en": "Mutualism",
+     "ur": "میوچولزم"
+    },
+    {
+     "k": "D",
+     "en": "Predation",
+     "ur": "پریڈیشن"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version D",
+   "q_en": "Which micro-organisms are used in making yogurt?",
+   "q_ur": "دہی بنانے میں کون سے مائیکرو آرگنزم استعمال ہوتے ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Fungi",
+     "ur": "فنجائی"
+    },
+    {
+     "k": "B",
+     "en": "Algae",
+     "ur": "الجی"
+    },
+    {
+     "k": "C",
+     "en": "Bacteria",
+     "ur": "بیکٹیریا"
+    },
+    {
+     "k": "D",
+     "en": "Virus",
+     "ur": "وائرس"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version D",
+   "q_en": "______ is an example of antibiotics.",
+   "q_ur": "______ اینٹی بائیوٹکس کی مثال ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Tetracycline",
+     "ur": "ٹیٹراسائیکلین"
+    },
+    {
+     "k": "B",
+     "en": "Aspirin",
+     "ur": "اسپرین"
+    },
+    {
+     "k": "C",
+     "en": "Morphine",
+     "ur": "مارفین"
+    },
+    {
+     "k": "D",
+     "en": "Alcohol",
+     "ur": "الکحل"
+    }
+   ]
+  }
+ ]
+}

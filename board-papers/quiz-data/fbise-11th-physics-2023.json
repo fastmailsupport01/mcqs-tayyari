@@ -1,0 +1,962 @@
+{
+ "board": "FBISE",
+ "board_slug": "fbise",
+ "class": "11th",
+ "subject": "Physics",
+ "year": 2023,
+ "slug": "fbise-11th-physics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Version B",
+   "q_en": "Which one of the following is a dimensionless quantity?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Strain",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Spring constant 'K'",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Young's constant 'Y'",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Stress",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version B",
+   "q_en": "Real and apparent weights of a body seem to be equal when body moves with acceleration:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a > g",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a = g",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a = 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a < g",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version B",
+   "q_en": "Gravity performs zero work when body moves:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Vertically",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "At an angle of 30°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "At an angle of 60°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Horizontally",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version B",
+   "q_en": "Which one is TRUE for isothermal process?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ΔW = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ΔQ = ΔW",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ΔU = ΔW",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ΔQ = 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version B",
+   "q_en": "If the temperatures of source and sink of a Carnot engine (having efficiency η₁) are each increased by 200K, then the efficiency η₂ will:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Decrease",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Become 1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Remain unaffected",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Increase",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version B",
+   "q_en": "Due to which phenomenon different colours appear in soap film in sunlight?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Diffraction of light",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Scattering of light",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Interference of light",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Dispersion of light",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version B",
+   "q_en": "In Young's double slit experiment, the fringe spacing is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "d/(λL)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "λ/(Ld)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "L/(λd)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "λL/d",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version B",
+   "q_en": "For constructive interference, Path difference, d = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(m+1/2)λ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(m–1/2)λ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "mλ²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "mλ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version B",
+   "q_en": "When length of a simple pendulum is doubled, the ratio of old to new time period will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1:1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1:2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1:√2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2:1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version B",
+   "q_en": "If 30 waves pass through a medium in 1 second with speed of 30ms⁻¹ then the wave length of waves is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "400m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "20m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version B",
+   "q_en": "Stars moving away from the earth show:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Blue shift",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Red shift",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Violet shift",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Black shift",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version B",
+   "q_en": "If tension in a stretched string is made four times then velocity of waves:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Becomes twice",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Becomes half",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Remains same",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Becomes four times",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Version B",
+   "q_en": "The dimension of spring constant K is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[MT⁻²]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[ML²]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[MLT⁻¹]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[MLT²]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Version B",
+   "q_en": "The velocity of projectile at its maximum height is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "v_iCosθ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Maximum",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "v_iSinθ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Version B",
+   "q_en": "If A⃗=2i−j+3k then magnitude of A⃗ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "√14",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "√18",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "14",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Version B",
+   "q_en": "F.Δt = ______ :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Time",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Pressure",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Impulse",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Force",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Version B",
+   "q_en": "In equation of continuity, the 'volume flow rate' is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ad",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ap",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Av",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "AΔt",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Version D",
+   "q_en": "In Young's double slit experiment, the fringe spacing is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "d/(λL)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "λ/(Ld)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "L/(λd)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "λL/d",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version D",
+   "q_en": "The SI unit of product of pressure and volume is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Watt",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Pascal",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Newton",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Joule",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version D",
+   "q_en": "According to first law of thermodynamics, which one is correct?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "C_p = 1 + R/C_v",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "R = C_v/C_p",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "C_p = R + C_v",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "C_p + C_v = R",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version D",
+   "q_en": "One radian = ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "157.3°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "57.3°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "180°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version D",
+   "q_en": "If A⃗=5i−j then this vector makes an angle of ____ with positive x-axis.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "449°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "249°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "349°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "149°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version D",
+   "q_en": "A car is moving on a motorway. Point out the correct velocity-time graph which shows zero acceleration of car. (Note: four velocity-time graphs are given as options.)",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Option A (v-t graph: velocity decreasing to zero)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Option B (v-t graph: horizontal line)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Option C (v-t graph: rising curve)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Option D (v-t graph: rising straight line)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version D",
+   "q_en": "A stone is thrown to perform projectile motion. Which one of the following is TRUE for its vertical acceleration?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Constant",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Maximum at highest point only",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Maximum at the point of projection only",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version D",
+   "q_en": "Gravity performs zero work when body moves:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Horizontally",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "At angle of 30°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "At angle of 60°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Vertically",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version D",
+   "q_en": "Power, P = ____ :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "F⃗.v⃗",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "F⃗/A⃗",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "F⃗/v⃗",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "F⃗.d⃗",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version D",
+   "q_en": "The ratio of angular momentum and angular velocity is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Moment of inertia",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Angular acceleration",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Torque",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mass",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version D",
+   "q_en": "Real and apparent weights of a body seem to be equal when:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a < g",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a > g",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a = g",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version D",
+   "q_en": "The fluid speed is measured by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Barometer",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Hydrometer",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Monometer",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Venturi meter",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Version D",
+   "q_en": "If the period of oscillation of mass M suspended from a spring is 2S, then the period of mass 16M will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2S",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4S",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8S",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1S",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Version D",
+   "q_en": "The total energy of a particle executing S.H.M is proportional to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Frequency of oscillation",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Velocity of particle",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Square of amplitude of motion",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Displacement from mean position",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Version D",
+   "q_en": "The fundamental frequency of an open organ pipe is 'f'. What will be fundamental frequency if its one end is closed?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1f",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2f",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3f",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.5f",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Version D",
+   "q_en": "The speed of sound in air does not depend upon:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Density",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Humidity",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Temperature",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Pressure",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Version D",
+   "q_en": "Due to which phenomenon different colours appear in soap film in sunlight?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Diffraction of light",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Scattering of light",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Interference of light",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Dispersion of light",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1130 @@
+{
+ "board": "FBISE Islamabad",
+ "board_slug": "fbise",
+ "class": "11th",
+ "subject": "Mathematics",
+ "year": 2025,
+ "slug": "fbise-11th-mathematics-2025",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Version B",
+   "q_en": "What are the multiplicative factors of z²+4z+5?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(z+2−i)(z+2+i)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(z−2−i)(z−2+i)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(z+2−2i)(z+2+2i)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(z−2−2i)(z−2+2i)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version B",
+   "q_en": "The principal argument(θ) of the complex number z=−1+i√3 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−π/3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2π/3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5π/3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version B",
+   "q_en": "A system of linear equations is said to be inconsistent if it has:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "No solution",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "At least one solution",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Infinitely many solutions",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Exactly two solutions",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version B",
+   "q_en": "If A is a 3 x 3 matrix, then |3A| results",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3|A|",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6|A|",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "9|A|",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "27|A|",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version B",
+   "q_en": "In an arithmetic sequence, a₁=5 and a₁₅=75. What is the common difference?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version B",
+   "q_en": "If 1/2, 1/x, 1/5 are in harmonic sequence then what is the value of x?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2/7",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "7/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7/10",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10/7",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version B",
+   "q_en": "What is the first term of an infinite geometric series whose sum is 10, and common ratio 0.6?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "7",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version B",
+   "q_en": "What is the sum of the series up to 4 terms? 1+3+5+⋯+(2n−1)=n² ∀n∈N",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "9",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "15",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "16",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version B",
+   "q_en": "What is the middle term in the expansion of (x+y)⁶?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(6 choose 2)x³y³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(6 choose 3)x³y³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(6 choose 3)x⁴y²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(6 choose 2)x⁴y²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version B",
+   "q_en": "In signal processing, P(x) represents a signal. If P(−1)=0, then the signal has:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A zero at x=−1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Unstablity",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Periodicity",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Error",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version B",
+   "q_en": "If dot product of two vectors is zero then angle between them is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "180°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version B",
+   "q_en": "If a̅.b̅×c̅=12 then volume of parallelepiped with a̅, b̅ and c̅ as co–terminal edges is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "12",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "24",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "36",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Version B",
+   "q_en": "A force F̅=2î+ĵ+3k̂ moves an object along a displacement vector d̅=3î+4ĵ−2k̂. What is the work done?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "16",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Version B",
+   "q_en": "If tanθ=2, what is the value of Cosθ when θ is in the first quadrant?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/√3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2/√5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/√5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Version B",
+   "q_en": "If sinx=3/5, what is the value of sin2x? (0°<x<90°)",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "12/25",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "24/25",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7/25",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "25/25",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Version B",
+   "q_en": "If graph of a function is symmetric about origin (e.g. Sin x), what type of function is it?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Even",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Odd",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Neither Even nor Odd",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Periodic but not Symmetric",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Version B",
+   "q_en": "The range of a trigonometric function 4sin4x is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[−1,1]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[−4,4]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[−16,16]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(−∞,+∞)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Version B",
+   "q_en": "The expression sin75°cos15° is equivalent to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "½(sin90°+sin60°)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "½(cos90°+cos60°)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "½(sin60°−sin90°)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "½(cos60°−cos90°)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Version B",
+   "q_en": "How many 5-letter words can be formed from the word 'MATHS' without repeating any letter?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "20",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "60",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "120",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "240",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Version B",
+   "q_en": "In how many different ways a player can select 6 numbers from a set of 49 numbers, in a lottery?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "⁴⁹C₆",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "49!/6!",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "⁴⁹P₆",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6!",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Version D",
+   "q_en": "What are the multiplicative factors of z² + 9?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(z+3i)(z−3i)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(z−3)(z+3)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(z+3)²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(z−3i)²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version D",
+   "q_en": "The rectangular form of 4(cos 2π/3 + i sin 2π/3) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−2+2i√3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−2−2i√3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2+2i√3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2−2i√3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version D",
+   "q_en": "A system of linear equations is said to be inconsistent if it has:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "No solution",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "At least one solution",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Exactly one solution",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Exactly two solution",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version D",
+   "q_en": "If |a b c; d e f; g h i| = 5, then |2a 2b 2c; 3d 3e 3f; g h i| =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "15",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "30",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version D",
+   "q_en": "In an arithmetic series, if a=2, d=4 then S₁₅=",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "240",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "450",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "480",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "510",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version D",
+   "q_en": "What is the sum of first two terms of an arithmetic-geometric sequence Tₙ = (2n+1)·3ⁿ⁻¹? (n∈N)",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "11",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "18",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "23",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version D",
+   "q_en": "For what value of x geometric series 1+2x+4x²+8x³+...converges? (r<1)",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2/1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version D",
+   "q_en": "The number of ways to climb a 10-step staircase (taking either 1 or 2 steps at a time) is 89. Which method justifies the best conclusion?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Empirical counting",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Pascal's Triangle",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mathematical Induction",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Binomial Theorem",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version D",
+   "q_en": "What is the middle term in the expansion of (x+y)⁶?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(6 choose 2)x³y³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(6 choose 3)x³y³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(6 choose 3)x⁴y²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(6 choose 2)x⁴y²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version D",
+   "q_en": "The division of 2x³−5x²+3x−1 by (x−2) gives remainder:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version D",
+   "q_en": "If dot product of two vectors is zero then angle between them is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "180°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version D",
+   "q_en": "If a̅ ⊥ b̅, then projection of a̅ on b̅ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Undefined",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Version D",
+   "q_en": "What is the volume of a parallelepiped formed by vectors î+ĵ, ĵ+k̂ and k̂+î?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Version D",
+   "q_en": "sin75°cos15° =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "½(sin90°+sin60°)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "½(cos90°+cos60°)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "½(sin60°−sin90°)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "½(cos60°−cos90°)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Version D",
+   "q_en": "What is value of cos(θ/2), if cosθ=1/2; (0<θ<90°)",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "√3/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/√2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/(2√2)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Version D",
+   "q_en": "Which of the following is an odd function?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "f(x)=cosx",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "f(x)=sinx+cosx",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "f(x)=tanx",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "f(x)=secx",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Version D",
+   "q_en": "The range of f(x)=3cosx+4 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[−1,1]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[1,7]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[−3,3]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[4,7]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Version D",
+   "q_en": "Which function's graph is symmetric about y-axis?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "y=sinx",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "y=tanx",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "y=cosx",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "y=cscx",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Version D",
+   "q_en": "A cell phone password consists of 4 distinct digits (0-9). How many possible passwords can be set?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "¹⁰C₄",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "¹⁰P₄",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "⁹C₄",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "⁹P₄",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Version D",
+   "q_en": "How many 5-letter words can be formed from the word 'TABLE' without repeating any letter?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "20",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "60",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "120",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "240",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

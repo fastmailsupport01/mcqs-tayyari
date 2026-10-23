@@ -1,0 +1,346 @@
+{
+ "board": "FBISE",
+ "board_slug": "fbise",
+ "class": "10th",
+ "subject": "Computer Science",
+ "year": 2022,
+ "slug": "fbise-10th-computer-science-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Version D",
+   "q_en": "Which symbol is used for decision in a flow chart? (Note: four flow chart symbols are shown as options in the source.)",
+   "q_ur": "کون سی علامت flowchart میں decision کے لیے استعمال ہوتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "(pentagon-like flow chart symbol)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(rectangle)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(diamond)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(rounded rectangle)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version D",
+   "q_en": "How many bytes are used for long int data type?",
+   "q_ur": "long int ڈیٹا ٹائپ کے لیے کتنے bytes استعمال ہوتی ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version D",
+   "q_en": "Which operator is an arithmetic operator?",
+   "q_ur": "درج شدہ میں کون سی arithmetic operator کی علامت ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "+ =",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "%",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "&&",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "=",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version D",
+   "q_en": "Which operator has lowest precedence?",
+   "q_ur": "کس علامت (Operator) کی precedence سب سے کم ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "!=",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "<=",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "=",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "%",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version D",
+   "q_en": "What is the output of following code segment after execution when a=1 and b=2? if (a+b++<4) printf(\"%d\",b); else printf(\"%d\",a);",
+   "q_ur": "درج شدہ Program code segment کا output کیا ہو گا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version D",
+   "q_en": "What is the output of following code segment after execution when a=10, b=−20: if (a>0&&b<0) printf(\"%d\",a+b); else printf(\"%d\",a−b);",
+   "q_ur": "درج شدہ Program code segment کا output کیا ہو گا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "−10",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "20",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "30",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version D",
+   "q_en": "Which of the following is valid data type that can be used as variable/expression in switch statement?",
+   "q_ur": "درج شدہ میں سے کون سی ڈیٹا ٹائپ switch statement میں variable/expression کے لیے مناسب ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "float",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "double",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "int",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "unsigned",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version D",
+   "q_en": "Which loop structure is most suitable when number of iterations/repetitions are known in advance?",
+   "q_ur": "درج شدہ میں سے کون سا loop structure زیادہ مناسب ہے جب loop کے repetitions پہلے سے معلوم ہوں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "while loop",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "for loop",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "do while loop",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "nested loop",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version D",
+   "q_en": "Which of the following is unary gate?",
+   "q_ur": "درج شدہ میں کون سا unary gate ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "NOT",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "AND",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "XOR",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "XNOR",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version D",
+   "q_en": "Which combination of logic gates is used to make a NAND gate?",
+   "q_ur": "درج شدہ میں سے کون سا طالب NAND gate بنائے گا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "AND & OR",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "OR & NOT",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "AND & NOT",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NOR & NOT",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version D",
+   "q_en": "How many heading tags are there in HTML language?",
+   "q_ur": "HTML Language میں کل کتنے Heading tags ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "7",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version D",
+   "q_en": "Which heading tag pair is used to display largest size heading in an HTML web page?",
+   "q_ur": "درج شدہ میں سے کون سا heading tag pair سب سے بڑی heading دکھانے کے لیے HTML web page میں استعمال ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "<h5></h5>",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "<h3></h3>",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "<h4></h4>",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "<h6></h6>",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,346 @@
+{
+ "board": "FBISE",
+ "board_slug": "fbise",
+ "class": "10th",
+ "subject": "Chemistry",
+ "year": 2022,
+ "slug": "fbise-10th-chemistry-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Version D",
+   "q_en": "Slag is obtained as impurity in the metallurgical processes. Identify slag from the following:",
+   "q_ur": "میٹلرجیکل عمل میں فاضل مواد کے طور پر حاصل کیا جاتا ہے۔ درج شدہ میں سے سلیگ (Slag) کی شناخت کریں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "CuO",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "FeSiO₃",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CuS",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "FeO",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version D",
+   "q_en": "Predict the unit of Kc for the given reaction: N₂(g)+O₂(g)⇌2NO(g), Kc=[NO]²/([N₂][O₂])",
+   "q_ur": "دیے گئے کیمیائی تعامل کے لیے Kc کے یونٹ کی پیش گوئی کریں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "No units",
+     "ur": "کوئی اکائی نہیں"
+    },
+    {
+     "k": "B",
+     "en": "Mol⁻¹dm⁻³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mol⁻¹ dm³",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mol dm³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version D",
+   "q_en": "According to Lewis concept which of the following is an electron pair acceptor?",
+   "q_ur": "لیوس کے نظریے کے مطابق درج شدہ میں سے کون الیکٹرون پیئر قبول کرنے والا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cl⁻",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "HCl",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NaCl",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NH₃",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version D",
+   "q_en": "HCl is an acid. Identify the reason from the following:",
+   "q_ur": "HCl ایک ایسڈ ہے۔ درج شدہ میں سے وجہ کی نشاندہی کریں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Can donate proton (H⁺)",
+     "ur": "پروٹان (H⁺) دے سکتا ہے"
+    },
+    {
+     "k": "B",
+     "en": "Contains OH⁻ group",
+     "ur": "OH⁻ گروپ پر مشتمل ہے"
+    },
+    {
+     "k": "C",
+     "en": "Can accept proton (H⁺)",
+     "ur": "پروٹان (H�⁺) قبول کر سکتا ہے"
+    },
+    {
+     "k": "D",
+     "en": "Can donate an electron pair",
+     "ur": "الیکٹرون پیئر دے سکتا ہے"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version D",
+   "q_en": "The pH of 10⁻³M aqueous solution of NaOH is:",
+   "q_ur": "NaOH کے 10⁻³M آبی محلول کا pH ____ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "9",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "11",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version D",
+   "q_en": "Which of the following has general formula R–O–R?",
+   "q_ur": "درج شدہ میں سے کس کا عمومی فارمولا R–O–R ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ester",
+     "ur": "ایسٹر"
+    },
+    {
+     "k": "B",
+     "en": "Alcohol",
+     "ur": "الکحل"
+    },
+    {
+     "k": "C",
+     "en": "Aldehyde",
+     "ur": "ایلڈیہائڈ"
+    },
+    {
+     "k": "D",
+     "en": "Ether",
+     "ur": "ایتھر"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version D",
+   "q_en": "Identify the product in the given chemical reaction: H–C(OH)–C(OH)–H —2H₂O→ H–C(=O)–C(=O)–H (Note: the structural formulas are given in the source.)",
+   "q_ur": "دیے گئے کیمیائی تعامل میں پروڈکٹ کی شناخت کریں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Tetra hydroxy ethane",
+     "ur": "ٹیٹرا ہائیڈروکسی ایتھین"
+    },
+    {
+     "k": "B",
+     "en": "Oxalic Acid",
+     "ur": "آکزیلک ایسڈ"
+    },
+    {
+     "k": "C",
+     "en": "Glyoxal",
+     "ur": "گلائی آکسل"
+    },
+    {
+     "k": "D",
+     "en": "Ethyne",
+     "ur": "ایتھائن"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version D",
+   "q_en": "Unsaturated hydrocarbons have multiple Carbon-Carbon bonds. Which of the following is an unsaturated hydrocarbon?",
+   "q_ur": "غیر سیر شدہ ہائیڈروکاربنز میں ملٹیپل کاربن کاربن بانڈ ہوتے ہیں۔ درج شدہ میں سے کون سا (unsaturated) غیر سیر شدہ ہائیڈروکاربن ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "CH₃–Cl",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CH₃–CH₃",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CH₄",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CH₂=CH–CH₃",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version D",
+   "q_en": "Peptide linkage is present in:",
+   "q_ur": "پیپٹائڈ لنکیج کس میں موجود ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Glucose",
+     "ur": "گلوکوز"
+    },
+    {
+     "k": "B",
+     "en": "Vitamins",
+     "ur": "وٹامنز"
+    },
+    {
+     "k": "C",
+     "en": "Carbohydrates",
+     "ur": "کاربوہائیڈریٹس"
+    },
+    {
+     "k": "D",
+     "en": "Proteins",
+     "ur": "پروٹینز"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version D",
+   "q_en": "Atmosphere is composed of ____ layers.",
+   "q_ur": "ماحول (اٹموسفیئر) ____ لیئرز پر مشتمل ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version D",
+   "q_en": "Which of the following is a secondary pollutant?",
+   "q_ur": "درج شدہ میں سے کون سا ثانوی پولیوٹنٹ ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ammonia",
+     "ur": "امونیا"
+    },
+    {
+     "k": "B",
+     "en": "Sulfuric acid",
+     "ur": "سلفیورک ایسڈ"
+    },
+    {
+     "k": "C",
+     "en": "Sulphur dioxide",
+     "ur": "سلفر ڈائی آکسائیڈ"
+    },
+    {
+     "k": "D",
+     "en": "Carbon dioxide",
+     "ur": "کاربن ڈائی آکسائیڈ"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version D",
+   "q_en": "Slaked lime is used in Solvay process. What is slaked lime?",
+   "q_ur": "سولوے پراسس میں استعمال ہوتا ہے۔ سلیکڈ لائم (Slaked lame) کیا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sodium hydroxide",
+     "ur": "سوڈیم ہائیڈرو آکسائیڈ"
+    },
+    {
+     "k": "B",
+     "en": "Calcium phosphate",
+     "ur": "کیلشیم فاسفیٹ"
+    },
+    {
+     "k": "C",
+     "en": "Sodium phosphate",
+     "ur": "سوڈیم فاسفیٹ"
+    },
+    {
+     "k": "D",
+     "en": "Calcium hydroxide",
+     "ur": "کیلشیم ہائیڈرو آکسائیڈ"
+    }
+   ]
+  }
+ ]
+}

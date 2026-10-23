@@ -1,0 +1,682 @@
+{
+ "board": "FBISE Islamabad",
+ "board_slug": "fbise",
+ "class": "10th",
+ "subject": "Physics",
+ "year": 2025,
+ "slug": "fbise-10th-physics-2025",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Version B",
+   "q_en": "SI unit of electric potential is:",
+   "q_ur": "الیکٹرک پوٹینشل کا SI یونٹ ______ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "ΩC⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "VC⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NC⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "JC⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version B",
+   "q_en": "If a DC source of 80V is connected to the primary coil of a transformer with Np=20 turns, Ns=5 turns then Vs=",
+   "q_ur": "اگر ایک 80V DC سورس ٹرانسفارمر کے پرائمری کوائل کے ساتھ جوڑا جائے جبکہ Np=20 اور Ns=5 تو Vs= ______",
+   "options": [
+    {
+     "k": "A",
+     "en": "20 V",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Zero",
+     "ur": "صفر"
+    },
+    {
+     "k": "C",
+     "en": "80 V",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "40 V",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version B",
+   "q_en": "The restoring force that causes the pendulum to undergo SHM is equal to:",
+   "q_ur": "ریسٹورنگ فورس جس کے تحت پینڈولم SHM کرتا ہے ______ کے برابر ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "mg sin θ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "mg tan θ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "mg sec θ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "mg cos θ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version B",
+   "q_en": "Multiple reflection of sound that cannot be distinguished from original sound are called:",
+   "q_ur": "ساؤنڈ کی ملٹی پل ریفلیکشنز جو اصل ساؤنڈ سے فرق نہ کی جاسکیں کیا کہلاتی ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Reverberations",
+     "ur": "بلا وقفہ"
+    },
+    {
+     "k": "B",
+     "en": "Noise",
+     "ur": "شور"
+    },
+    {
+     "k": "C",
+     "en": "Echoes",
+     "ur": "گونج"
+    },
+    {
+     "k": "D",
+     "en": "Absorptions",
+     "ur": "انجذاب"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version B",
+   "q_en": "Total internal reflection occurs when.",
+   "q_ur": "ٹوٹل انٹرنل ریفلیکشن کے لیے کیا شرط ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "∠i = ∠c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "∠i = 1/2 ∠c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "∠i > ∠c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "∠i < ∠c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version B",
+   "q_en": "Capacitance C is:",
+   "q_ur": "کیپیسٹنس C = ______",
+   "options": [
+    {
+     "k": "A",
+     "en": "C = VQ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "C = V²Q",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "C = Q/V",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "C = V/Q",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version B",
+   "q_en": "If cost of one unit of electricity is Rs.10, then cost of using a 50W bulb for 240 hours is:",
+   "q_ur": "اگر بجلی کا ایک یونٹ 10 روپے کا ہے تو 50 واٹ کا بلب 240 گھنٹے استعمال کرنے کی قیمت ______",
+   "options": [
+    {
+     "k": "A",
+     "en": "Rs. 29",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Rs. 43",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Rs. 120",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Rs. 240",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version B",
+   "q_en": "A 1Ω resistor in 20s consuming 2 ampere current will require:",
+   "q_ur": "اگر ایک 1Ω کے ایک رزسٹر کو 20s میں 2A کرنٹ دیں تو اس کی انرجی کی شرح:",
+   "options": [
+    {
+     "k": "A",
+     "en": "40Js⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "80Js⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10Js⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "12Js⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version B",
+   "q_en": "If in a step-up transformer the turn ratio is 20 then:",
+   "q_ur": "اگر ایک سٹیپ اپ ٹرانسفارمر میں ٹرنز کی نسبت 20 ہو تو:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Vs = Vp/20",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ns = 20Np",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ns = Np/20",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Is = 20Ip",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version B",
+   "q_en": "The given Boolean eq verifies ______ gate. (A̅+B̅ = X)",
+   "q_ur": "درج ذیل بولین مساوات کس لاجک گیٹ کے مطابق ہے؟ (A̅+B̅ = X)",
+   "options": [
+    {
+     "k": "A",
+     "en": "NAND",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NOR",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "AND",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "OR",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version B",
+   "q_en": "The most suitable means of long distance transmission in space is:",
+   "q_ur": "خلاء میں طویل فاصلے پر ٹرانسمشن کے لیے مناسب ترین ذریعہ ______ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sound waves",
+     "ur": "ساؤنڈ ویوز"
+    },
+    {
+     "k": "B",
+     "en": "Bluetooth",
+     "ur": "بلوٹوتھ"
+    },
+    {
+     "k": "C",
+     "en": "Radio waves",
+     "ur": "ریڈیو ویوز"
+    },
+    {
+     "k": "D",
+     "en": "Microwaves",
+     "ur": "مائیکرو ویوز"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version B",
+   "q_en": "Half-life of a radioactive element is 10 min. After 30 min how much sample will be left?",
+   "q_ur": "ایک ریڈیو ایکٹیو ایلیمنٹ کی ہاف لائف 10 منٹ ہے۔ 30 منٹ بعد اس کا کتنا سیمپل بچے گا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/8",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/16",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Version D",
+   "q_en": "Which of the following decreases in shallow water?",
+   "q_ur": "پانی کی کم گہرائی میں کیا چیز کم ہوتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Frequency",
+     "ur": "فریکوئنسی"
+    },
+    {
+     "k": "B",
+     "en": "Speed",
+     "ur": "رفتار"
+    },
+    {
+     "k": "C",
+     "en": "Time period",
+     "ur": "ٹائم پیریڈ"
+    },
+    {
+     "k": "D",
+     "en": "Wavelength",
+     "ur": "ویو لینتھ"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version D",
+   "q_en": "Quality of sound distinguishes between two sounds of:",
+   "q_ur": "ساؤنڈ کی کوالٹی دو آوازوں میں فرق کرتی ہے اگر دونوں کی:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Same loudness and pitch",
+     "ur": "ایک جیسی لاؤڈنیس اور پچ"
+    },
+    {
+     "k": "B",
+     "en": "Different loudness and pitch",
+     "ur": "مختلف لاؤڈنیس اور پچ"
+    },
+    {
+     "k": "C",
+     "en": "Same loudness but different pitch",
+     "ur": "یکساں لاؤڈنیس مگر مختلف پچ"
+    },
+    {
+     "k": "D",
+     "en": "Different loudness but same pitch",
+     "ur": "مختلف لاؤڈنیس مگر یکساں پچ"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version D",
+   "q_en": "The power of a lens is:",
+   "q_ur": "لینز کی پاور",
+   "options": [
+    {
+     "k": "A",
+     "en": "P = f",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "P = q",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "P = 1/f",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "P = 1/q",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version D",
+   "q_en": "Which of the following is a characteristic of parallel combination of capacitors?",
+   "q_ur": "درج شدہ میں سے کون سی کیپیسٹروں کے پیرالل کمبینیشن کی خصوصیت ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/Ceq = 1/C1 + 1/C2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Q = Q1 + Q2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "V = V1 + V2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ceq = V/Q",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version D",
+   "q_en": "For an AC supply of 50Hz, the current will change direction ______ times in 1 second.",
+   "q_ur": "50Hz کے اے سی سپلائی میں کرنٹ ایک سیکنڈ میں ______ مرتبہ سمت تبدیل کرے گا۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "25",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "50",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "100",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "150",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version D",
+   "q_en": "Which one of the following pairs of materials consists of conductors only?",
+   "q_ur": "درج شدہ میں سے کون سا جوڑا صرف کنڈکٹروں پر مشتمل ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Copper, silk",
+     "ur": "کاپر، سلک"
+    },
+    {
+     "k": "B",
+     "en": "Silver, wood",
+     "ur": "سلور، لکڑی"
+    },
+    {
+     "k": "C",
+     "en": "Aluminum, iron",
+     "ur": "ایلومینیم، آئرن"
+    },
+    {
+     "k": "D",
+     "en": "Gold, plastic",
+     "ur": "گولڈ، پلاسٹک"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version D",
+   "q_en": "If number of turns of a coil is changed from N to 3N then induced emf ε will be:",
+   "q_ur": "اگر ایک کوائل میں ٹرنوں کی تعداد N سے 3N کر دی جائے تو انڈیوسڈ ای ایم ایف ε کتنی ہو جائے گی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "ε",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ε/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3ε",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ε/3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version D",
+   "q_en": "Which logic gate is shown in the figure?",
+   "q_ur": "درج شکل میں کون سا لاجک گیٹ ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "AND",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "OR",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NAND",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NOT",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version D",
+   "q_en": "Which technology is used in cell phones?",
+   "q_ur": "سیل فونز میں کون سی ٹیکنالوجی استعمال ہوتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Optical fiber",
+     "ur": "آپٹیکل فائبر"
+    },
+    {
+     "k": "B",
+     "en": "Electric signals",
+     "ur": "الیکٹرک سگنلز"
+    },
+    {
+     "k": "C",
+     "en": "Magnetic waves",
+     "ur": "میگنیٹک ویوز"
+    },
+    {
+     "k": "D",
+     "en": "Radio waves",
+     "ur": "ریڈیو ویوز"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version D",
+   "q_en": "Which particle has z = 2?",
+   "q_ur": "کس پارٹیکل کا z = 2 ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "α",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "β",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "γ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "₀n",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version D",
+   "q_en": "Unit of electric field intensity is:",
+   "q_ur": "الیکٹرک فیلڈ انٹینسٹی کی اکائی:",
+   "options": [
+    {
+     "k": "A",
+     "en": "NC⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "JC⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ΩC⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "VC⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version D",
+   "q_en": "Transformer works on the principle of:",
+   "q_ur": "ٹرانسفارمر کس اصول پر کام کرتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Self-induction",
+     "ur": "سیلف انڈکشن"
+    },
+    {
+     "k": "B",
+     "en": "Mutual induction",
+     "ur": "میوچل انڈکشن"
+    },
+    {
+     "k": "C",
+     "en": "Superposition",
+     "ur": "سپر پوزیشن"
+    },
+    {
+     "k": "D",
+     "en": "Gravity",
+     "ur": "گریویٹی"
+    }
+   ]
+  }
+ ]
+}

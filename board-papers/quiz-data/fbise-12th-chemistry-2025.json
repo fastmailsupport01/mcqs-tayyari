@@ -1,0 +1,962 @@
+{
+ "board": "FBISE Islamabad",
+ "board_slug": "fbise",
+ "class": "12th",
+ "subject": "Chemistry",
+ "year": 2025,
+ "slug": "fbise-12th-chemistry-2025",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Version B",
+   "q_en": "Empirical formula of an organic compound is C3H8O3 and its molecular mass is 372g/mol. Molecular formula of this compound is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "C12H32O20",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "C15H24O25",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "C9H24O15",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "C6H16O10",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version B",
+   "q_en": "The number of signals in 1H-NMR spectrum of Acetone will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version B",
+   "q_en": "Which of the following has lowest density?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Rb",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Li",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Na",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "K",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version B",
+   "q_en": "Which statement is correct?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Na is smaller than P atom",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cl is smaller than Cl-",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cl- is smaller than Cl atom",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Na+ is bigger than Na atom",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version B",
+   "q_en": "Among sulphates of Group-II elements, ______ has the lowest solubility in water.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "SrSO4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "BeSO4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "MgSO4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CaSO4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version B",
+   "q_en": "The expected shape of [Fe(H2O)6]+2 based on its coordination number is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Tetrahedral",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Octahedral",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Linear",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Square planar",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version B",
+   "q_en": "Chemical break down of organic compounds by microorganisms e.g., bacteria is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Fermentation",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Respiration",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Metabolism",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Transpiration",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version B",
+   "q_en": "Heterolytic cleavage of covalent bond converts bonded atoms into:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Only Anions",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Both cations and anions",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Free radicals",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Only cations",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version B",
+   "q_en": "Which of the following alkyl halides will yield alkenes more easily?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2-Chloro Propane",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2-Methyl-2-Bromo Propane",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Chloro Methane",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Bromo Ethane",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version B",
+   "q_en": "Which of the following is a bad leaving group?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Br-",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "I-",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "F-",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cl-",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version B",
+   "q_en": "Which alcohol is NOT the direct product of reaction when Grignard regent reacts with aldehydes or ketones?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Propanol",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2-Methyl-2-Propanol",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ethanol",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Methanol",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version B",
+   "q_en": "Which alcohol will yield an oily layer on heating, according to Lucas test?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2-Methyl 2-Propanol",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3-Hexanol",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2-Butanol",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ethanol",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Version B",
+   "q_en": "Which will be least reactive towards nucleophilic addition reactions?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Acetone",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Propanal",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Formaldehyde",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Acetaldehyde",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Version B",
+   "q_en": "What are the expected products when Butanone is oxidized?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2 molecules of Butanoic acid",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2 molecules of acetic acid",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Formic acid, Acetic acid",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2 molecules of Formic acid",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Version B",
+   "q_en": "Succinic acid resembles with substrate and inhibits the enzyme activity by attaching on its active site. It is an example of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Allosteric inhibition",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Partial inhibition",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Competitive inhibition",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Non-competitive inhibition",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Version B",
+   "q_en": "A fire fighter's helmet made of plastic becomes hard after a fire. Helmet is made of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Elasto plastic",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Fiber plastic",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Fire plastic",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Thermo setting plastic",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Version B",
+   "q_en": "Ozone is being mainly destroyed by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CFC's",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "PAN",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "SO2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CO2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Version D",
+   "q_en": "Which of the following Nuclei will be magnetically active in NMR spectroscopy?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "16O (8)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "19F (9)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "14N (7)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "12C (6)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version D",
+   "q_en": "The presence of specific functional groups in a molecule is commonly identified by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "NMR spectroscopy",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Mass spectroscopy",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "UV visible spectroscopy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "IR spectroscopy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version D",
+   "q_en": "Which of the 3rd period elements has the highest melting point?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Al",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Si",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Na",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mg",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version D",
+   "q_en": "Which of the following statement is correct regarding the density of Group-I elements?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Density of \"K\" is lower than \"Na\"",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Density of \"Li\" is higher than \"K\"",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Density of \"Na\" is lower than \"Li\"",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Density of \"K\" is higher than \"Na\"",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version D",
+   "q_en": "Which sulphate of Group-II elements has the highest solubility in water?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "BeSO4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "SrSO4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "MgSO4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CaSO4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version D",
+   "q_en": "Coordination number in [Cu(NH2-NH2)2]SO4 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version D",
+   "q_en": "Identify the organic compound:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "NH4CNO",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NH2CONH2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CO2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CO",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version D",
+   "q_en": "Homolytic cleavage of covalent bond converts the bonded atoms into:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Free radicals",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Both cations and anions",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Only Anions",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Only cations",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version D",
+   "q_en": "Which alcohol will yield alkenes more easily among the given options?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2-Methyl-2-Propanol",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2-Butanol",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1-Propanol",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2-Propanol",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version D",
+   "q_en": "Which of the following alkyl halides is most likely to undergo an SN2 reaction?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2-Methyl-2-Chloro Propane",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3-Chloro Pentane",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1-Chloro Propane",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2-Chloro Propane",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version D",
+   "q_en": "Which alcohol is NOT the direct product of reaction when Grignard reagent reacts with aldehydes or ketones?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Propanol",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2-Methyl-2-Propanol",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ethanol",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Methanol",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version D",
+   "q_en": "Which alcohol will yield immediately oily layer according to Lucas test?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3-Pentanol",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2-Methyl 2-Propanol",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2-Butanol",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ethanol",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Version D",
+   "q_en": "Which of the following will be more reactive towards nucleophilic addition reactions?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Methanal",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2-Methyl Pentanal",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Acetone",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ethanal",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Version D",
+   "q_en": "Carboxylic acids are reduced to which product on reaction with LiAlH4?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Tertiary alcohols",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Esters",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Primary alcohols",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Secondary alcohols",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Version D",
+   "q_en": "Succinic acid resembles with substrate and inhibits the enzyme activity by attaching on its active site. It is an example of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Allosteric inhibition",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Partial inhibition",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Competitive inhibition",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Non-competitive inhibition",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Version D",
+   "q_en": "Which type of hair dye penetrates the hair shaft and provides long lasting colors but can damage the hair as well?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Temporary hair dye",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Permanent hair dye",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Semi-permanent hair dye",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Demi permanent hair dye",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Version D",
+   "q_en": "Ozone is being mainly destroyed by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CFC's",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "PAN",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "SO2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CO2",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

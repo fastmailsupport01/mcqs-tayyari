@@ -1,0 +1,962 @@
+{
+ "board": "FBISE",
+ "board_slug": "fbise",
+ "class": "11th",
+ "subject": "Biology",
+ "year": 2023,
+ "slug": "fbise-11th-biology-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Version B",
+   "q_en": "A person is given vaccine of COVID. This is an example of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Artificial Active immunity",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Natural Active immunity",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Artificial Passive immunity",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Natural Passive immunity",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version B",
+   "q_en": "Which structure is the genetic material of the virus? (Note: a diagram of a bacteriophage is given with labels I = head, II = inside of head, III = tail sheath, IV = tail fibres.)",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "II",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "III",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "IV",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "I",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version B",
+   "q_en": "Advantages to life on land for early amphibians included:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Greater temperature variation",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "More food and no predation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Less O2 in the air than water",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "More food and more predation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version B",
+   "q_en": "A group of ribosomes attached to mRNA is known as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Glyoxisomes",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Polysomes",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Lysosomes",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Peroxisomes",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version B",
+   "q_en": "Which of the following pair is mismatched?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Fat – lipids",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Amino acid – protein",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Starch – nucleic acid",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Sugar – carbohydrate",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version B",
+   "q_en": "What can be found in both DNA and messenger RNA?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sugar – phosphate chain",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ribose",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Thymine",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Double helix structure",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version B",
+   "q_en": "The compound that enters Kreb's cycle from glycolysis is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Oxaloacetate",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Pyruvic acid",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Acetyl-CoA",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Citric acid",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version B",
+   "q_en": "Mesosomes are infolding of the cell membrane and are involved in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Protein synthesis",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "RNA synthesis",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Metabolism",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "DNA replication",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version B",
+   "q_en": "Chitin is found in the cell wall of fungi, which is also found in exoskeleton of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Echinoderms",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Molluscs",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Chordates",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Arthropods",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version B",
+   "q_en": "The process illustrated in the figure is called: (Note: a diagram shows a spore producing hyphae.)",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Fertilization",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Germination",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Host invasion",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Photosynthesis",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version B",
+   "q_en": "In spermatophyte, seed is formed from:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ovary",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Anther",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Embryo sac",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ovule",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version B",
+   "q_en": "Which of the following pair of words are correctly matched?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Scraping algae – siphon",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Predation – tentacle",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Nephridia – gizzard",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Filter feeding – radula",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Version B",
+   "q_en": "Apical dominance is caused by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cytokinin",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ethene",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Auxins",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Gibberellins",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Version B",
+   "q_en": "A diagram of villus is given. Which labelled part is a vessel of lymphatic system? (Note: labels I, II, III, IV are marked on a villus diagram.)",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "II",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "III",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "IV",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "I",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Version B",
+   "q_en": "Which heart chamber pumps blood to the lungs? (Note: a heart diagram with chambers labelled 1, 2, 3, 4 is given.)",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Version B",
+   "q_en": "In which of the following blood vessels the blood pressure is highest?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Arteries",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Capillaries",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Veins",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Aorta",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Version B",
+   "q_en": "Which of the following cells are destroyed in an AIDS infection?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Helper T cells",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "B cells",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Memory cells",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Macrophages",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Version D",
+   "q_en": "Fluidity of cell membrane is due to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Lipids",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Proteins",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Carbohydrates",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Vitamins",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version D",
+   "q_en": "Which term describes both collagen and hemoglobin?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Enzyme",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Fibrous Protein",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Globular Protein",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Macromolecule",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version D",
+   "q_en": "The diagram below shows an enzyme and an inhibitor. Which of the following describe the inhibitor? (Note: a diagram shows an inhibitor that does not fit into the enzyme's active site.)",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Competitive, irreversible",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Non competitive reversible",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Non competitive, irreversible",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Competitive, reversible",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version D",
+   "q_en": "During dark reactions of photosynthesis:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Water is split off",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Chlorophyll is activated",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CO2 is reduced to organic compound",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Glucose is broken down",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version D",
+   "q_en": "Which of the following cells are responsible for antibody production?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Macrophages",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "T cells",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "B cells",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Plasma cells",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version D",
+   "q_en": "Which of the following may build coral reefs along with coral animals?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Myxomycota",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Red algae",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Brown algae",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Green algae",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version D",
+   "q_en": "In given diagram of fungi structure 1 and structure 2 represent: (Note: a diagram labels a spore as 1 and hyphae as 2.)",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Fungal capsule and mycelium",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Hyphae and lichen",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Spore and hyphae",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Lichen and mycelium",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version D",
+   "q_en": "Which part of flower develops into fruit?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ovary wall",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ovule",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Anther",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Stigma",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version D",
+   "q_en": "A butterfly excretes its wastes through:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Spinnerter",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Malphighian tubules",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Spiracles",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Tracheal tubes",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version D",
+   "q_en": "The cambium and meristems are examples of ____ tissues.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Support",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Protective",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Growth",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Transport",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version D",
+   "q_en": "The given diagram shows the details of gastric gland in stomach wall. Which labelled part is concerned with secretion of HCl? (Note: a gastric gland diagram with parts labelled 1, 2, 3, 4 is given.)",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version D",
+   "q_en": "The given diagram shows chambers of heart. Chamber labelled as 1 receives blood from which blood vessel? (Note: a heart diagram with chambers labelled 1, 2, 3, 4 is given.)",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Aorta",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Vena Cava",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Pulmonary arteries",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Pulmonary veins",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Version D",
+   "q_en": "The lymphatic system performs which of the following functions?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Transport tissue fluid back into blood stream",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Carries O2 and CO2 to and from body cell",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Control metabolism",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Exchange gases between blood and air",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Version D",
+   "q_en": "When a pathogen enters the body, usually which cells are the first to attack it?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Macrophages",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "T cells",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "B cells",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Plasma cells",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Version D",
+   "q_en": "Bacterial membrane differs from Eukaryotic membrane in lacking:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Proteins",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Lipids",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Polysaccharide",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cholesterol",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Version D",
+   "q_en": "Which of the following bacteria are correctly matched for their energy requirements? (Note: a table is given — I. Light – Obligate Saprophytes; II. Hydrogen – Archaebacteria; III. Oxygen – Obligate anaerobes; IV. Oxygen – Obligate aerobes.)",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "I",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "II",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "III",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "IV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Version D",
+   "q_en": "Which of the following characters do all vertebrates have in common at some point in their development? (Note: a table is given — I. Bilateral symmetry / Exoskeleton / Lungs; II. Back bone / Postanal tail / Lungs; III. Pharyngeal pouches / Notochord / Backbone; IV. Closed circulatory system / Segmented bodies / External fertilization.)",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "I",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "II",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "III",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "IV",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

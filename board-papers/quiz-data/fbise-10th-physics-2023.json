@@ -1,0 +1,682 @@
+{
+ "board": "FBISE Islamabad",
+ "board_slug": "fbise",
+ "class": "10th",
+ "subject": "Physics",
+ "year": 2023,
+ "slug": "fbise-10th-physics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Version B",
+   "q_en": "If the time period of a vibrating body is 20×10⁻³s, its frequency of oscillation will be:",
+   "q_ur": "اگر ایک وائبریٹنگ جسم کا ٹائم پیریڈ 20x10⁻³ سیکنڈ ہو، تو اس کی فریکوئنسی آف آسیلیشن کیا ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "50Hz",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "60Hz",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "70Hz",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "80Hz",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version B",
+   "q_en": "Echo is produced by ___ of sound waves.",
+   "q_ur": "ایکو (گونج) آواز کی لہروں (ویو) کی ___ کی وجہ سے پیدا ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Refraction",
+     "ur": "ریفریکشن"
+    },
+    {
+     "k": "B",
+     "en": "Reflection",
+     "ur": "ریفلیکشن"
+    },
+    {
+     "k": "C",
+     "en": "Diffraction",
+     "ur": "ڈائفرکشن"
+    },
+    {
+     "k": "D",
+     "en": "Interference",
+     "ur": "انٹرفیرنس"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version B",
+   "q_en": "What should be the location of an object to form an erect and virtual image by a convex lens?",
+   "q_ur": "ایک محدب عدسے کے ذریعے ایک سیدھی اور ورچوئل تصویر بنانے کے لیے جسم کا مقام کیا ہونا چاہیے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "At 2F",
+     "ur": "2F پر"
+    },
+    {
+     "k": "B",
+     "en": "At F",
+     "ur": "F پر"
+    },
+    {
+     "k": "C",
+     "en": "Between F and optical center",
+     "ur": "F اور آپٹیکل سینٹر کے درمیان"
+    },
+    {
+     "k": "D",
+     "en": "Between F and 2F",
+     "ur": "F اور 2F کے درمیان"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version B",
+   "q_en": "Electroscope is used to detect:",
+   "q_ur": "الیکٹروسکوپ ___ معلوم کرنے کے لیے استعمال ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Resistance",
+     "ur": "مزاحمت (رزیسٹنس)"
+    },
+    {
+     "k": "B",
+     "en": "Voltage",
+     "ur": "وولٹیج"
+    },
+    {
+     "k": "C",
+     "en": "Current",
+     "ur": "کرنٹ"
+    },
+    {
+     "k": "D",
+     "en": "Charge",
+     "ur": "چارج"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version B",
+   "q_en": "If 3μF and 6μF capacitors are connected in series in a circuit, the equivalent capacitance of this combination is equal to:",
+   "q_ur": "اگر 3μF اور 6μF کے دو کیپیسٹرز ایک سرکٹ میں سیریز میں جوڑے گئے ہوں تو ان کی مساوی کیپیسٹنس کیا ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "2μF",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3μF",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "9μF",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "18μF",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version B",
+   "q_en": "The units of electromotive force (emf) is the same as units of potential difference which are equivalent to:",
+   "q_ur": "الیکٹرو موٹو فورس (emf) کی اکائی اور پوٹینشل ڈفرنس کی اکائی باہمی ایک جیسے ہیں جو کہ ___ کے برابر ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "J/C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NC⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version B",
+   "q_en": "1kwh = ___",
+   "q_ur": "ایک کلوواٹ آور (kwh) ___ کے برابر ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "3000W",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1000J",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3.6×10⁶J",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.36hrs",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version B",
+   "q_en": "The function of brushes and split rings in D.C motor is:",
+   "q_ur": "ڈی سی موٹر میں برشز اور سپلٹ رنگز کا کیا کام ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "To increase the speed of coil",
+     "ur": "کوائل کی رفتار کو بڑھانا"
+    },
+    {
+     "k": "B",
+     "en": "To decrease the speed of coil",
+     "ur": "کوائل کی رفتار کو کم کرنا"
+    },
+    {
+     "k": "C",
+     "en": "To increase current in the coil",
+     "ur": "کوائل میں کرنٹ بڑھانا"
+    },
+    {
+     "k": "D",
+     "en": "To reverse the direction of current in coil",
+     "ur": "کوائل میں کرنٹ کی سمت کو ریورس کرنا"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version B",
+   "q_en": "The logic operation performed by this gate is: (A diagram is printed in the source scan: inputs A and B to an OR-gate symbol with output x.)",
+   "q_ur": "اس گیٹ کے ذریعے کون سا لاجک آپریشن کیا جاتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "AND",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NOR",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NAND",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "OR",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version B",
+   "q_en": "Which of the following is used as data storage device in a computer?",
+   "q_ur": "درج شدہ میں سے کون سا حصہ کمپیوٹر میں ڈیٹا سٹورج ڈیوائس کے طور پر استعمال ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Monitor",
+     "ur": "مونٹر"
+    },
+    {
+     "k": "B",
+     "en": "Printer",
+     "ur": "پرنٹر"
+    },
+    {
+     "k": "C",
+     "en": "Scanner",
+     "ur": "سکینر"
+    },
+    {
+     "k": "D",
+     "en": "Hard disk",
+     "ur": "ہارڈ ڈسک"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version B",
+   "q_en": "⁶⁰₂₇Co* (Cobolt-60) decays by gamma emission. What will be the atomic number of daughter element? [Note: printed as \"Cobolt-60\" with an asterisk after ⁶⁰₂₇Co in the source scan.]",
+   "q_ur": "⁶⁰₂₇Co* (کوبالٹ-60) کے گیما ڈی کے سے بننے والے ڈاٹر ایلیمنٹ کا ایٹامک نمبر کیا ہوگا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "33",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "27",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "60",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "28",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version B",
+   "q_en": "The refractive index of glass is 1.52, the critical angle for this glass will be:",
+   "q_ur": "شیشے کا رفرکٹو انڈیکس 1.52 ہے تو پھر اس شیشے کا کرٹیکل اینگل ___ ہوگا۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "40°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "41.1°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "42°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "43°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Version D",
+   "q_en": "In computer terminology processed data is called:",
+   "q_ur": "کمپیوٹر کی اصطلاح میں پروسیسڈ ڈیٹا کو کیا کہتے ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Information",
+     "ur": "انفارمیشن"
+    },
+    {
+     "k": "B",
+     "en": "Procedure",
+     "ur": "پروسیجر"
+    },
+    {
+     "k": "C",
+     "en": "Output",
+     "ur": "آؤٹ پٹ"
+    },
+    {
+     "k": "D",
+     "en": "Input",
+     "ur": "ان پٹ"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version D",
+   "q_en": "What happens to the atomic number of a radioactive element which emits one alpha particle and one beta particle?",
+   "q_ur": "اگر ایک ریڈیو ایکٹو ایلیمنٹ (عنصر) میں سے ایک الفا پارٹیکل اور ایک بیٹا پارٹیکل نکل جائیں تو اس ایلیمنٹ کے ایٹامک نمبر پر کیا فرق پڑے گا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Decrease by 2",
+     "ur": "دو(2) کم ہو جائے گا"
+    },
+    {
+     "k": "B",
+     "en": "Decrease by 1",
+     "ur": "ایک(1) کم ہو جائے گا"
+    },
+    {
+     "k": "C",
+     "en": "Increases by 1",
+     "ur": "ایک بڑھ جائے گا"
+    },
+    {
+     "k": "D",
+     "en": "Stays the same",
+     "ur": "تبدیل نہیں ہوگا"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version D",
+   "q_en": "If the frequency of a wave is doubled, then the time period of the wave will:",
+   "q_ur": "اگر ایک لہر (ویو) کی فریکوئنسی دوگنی ہو جاتی ہے، تو اس لہر کا ٹائم پیریڈ کیا ہوگا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Decrease to half",
+     "ur": "آدھا رہ جاتا ہے"
+    },
+    {
+     "k": "B",
+     "en": "Decrease to quarter",
+     "ur": "چار گنا کم ہو جاتا ہے"
+    },
+    {
+     "k": "C",
+     "en": "Become double",
+     "ur": "دوہر ا ہو جاتا ہے"
+    },
+    {
+     "k": "D",
+     "en": "Remain the same",
+     "ur": "اسی طرح رہتا ہے"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version D",
+   "q_en": "The intensity level of faintest audible sound is:",
+   "q_ur": "قابل سماعت مدھم ترین ساؤنڈ کا انٹینسٹی لیول کیا ہوگا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "20db",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "30db",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0db",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10db",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version D",
+   "q_en": "Which of the following shows correct relationship among v, f and λ?",
+   "q_ur": "درج شدہ میں سے کون سا انتخاب v, f اور λ کا درست باہمی تعلق دکھاتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "v = λ/f",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "f = λ/v",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "v = f/λ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "f = v/λ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version D",
+   "q_en": "The focal length of a convex mirror with radius of curvature 10cm is:",
+   "q_ur": "10 سینٹی میٹر کے رداس کے ساتھ محدب آئینے (کنویکس مرر) کی فوکل لینتھ کتنی ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "+5 cm",
+     "ur": "+5 سینٹی میٹر"
+    },
+    {
+     "k": "B",
+     "en": "-5 cm",
+     "ur": "-5 سینٹی میٹر"
+    },
+    {
+     "k": "C",
+     "en": "+10cm",
+     "ur": "+10 سینٹی میٹر"
+    },
+    {
+     "k": "D",
+     "en": "-10 cm",
+     "ur": "-10 سینٹی میٹر"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version D",
+   "q_en": "If a ray of light makes an angle of incidence 45° on a plane mirror, the angle of reflection will be:",
+   "q_ur": "اگر روشنی کی ایک شعاع 45° کا اینگل آف انسیڈنس بناتے تو اینگل آف ریفلیکشن کیا ہوگا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "15°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "135°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "90°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version D",
+   "q_en": "The Coulomb's force between two identical charges is 100N. If the distance between the charges is doubled, then the force will be.",
+   "q_ur": "دو ایک جیسے چارجز کے درمیان کولمب کی قوت 100 نیوٹن ہے اگر چارجز کے درمیان فاصلہ دوگنا ہو جائے تو قوت کتنی ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "50N",
+     "ur": "50 نیوٹن"
+    },
+    {
+     "k": "B",
+     "en": "200N",
+     "ur": "200 نیوٹن"
+    },
+    {
+     "k": "C",
+     "en": "20N",
+     "ur": "20 نیوٹن"
+    },
+    {
+     "k": "D",
+     "en": "25N",
+     "ur": "25 نیوٹن"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version D",
+   "q_en": "Which of the following represents one ohm?",
+   "q_ur": "درج شدہ میں سے کون سا ایک اوہم کے برابر ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "WA⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "JC⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "VA⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "JS⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version D",
+   "q_en": "Which of the following quantities remains constant in step up transformer?",
+   "q_ur": "درج شدہ میں سے کون سی مقدار سٹیپ اپ ٹرانسفارمر میں مستقل رہتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Heat",
+     "ur": "ہیٹ"
+    },
+    {
+     "k": "B",
+     "en": "Voltage",
+     "ur": "ولٹیج"
+    },
+    {
+     "k": "C",
+     "en": "Current",
+     "ur": "کرنٹ"
+    },
+    {
+     "k": "D",
+     "en": "Power",
+     "ur": "پاور"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version D",
+   "q_en": "A and B are the two inputs of a NOR gate. Its output would be 1 when:",
+   "q_ur": "A اور B ایک نار (NOR) گیٹ کی دو ان پٹس ہیں۔ اس نار گیٹ کی آؤٹ پٹ 1 کس صورت میں ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "A = 0  B = 1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A = 0, B = 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A = 1, B = 1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A = 1, B = 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version D",
+   "q_en": "The output of NAND gate is written as: (option B is printed with an overbar covering A.B in the source scan)",
+   "q_ur": "NAND گیٹ کا آؤٹ پٹ کس طرح لکھا جاتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "X = A − B",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "X = A.B with overbar",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "X = A + B",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "X = A.B",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,738 @@
+{
+ "board": "FBISE Islamabad",
+ "board_slug": "fbise",
+ "class": "11th",
+ "subject": "Computer Science",
+ "year": 2024,
+ "slug": "fbise-11th-computer-science-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Version B",
+   "q_en": "The relationship between entities COLLEGE and DEPARTMENT is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Recursive",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Unary",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Binary",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ternary",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version B",
+   "q_en": "Which of the following is an output device?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Microphone",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Speaker",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Track ball",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mouse",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version B",
+   "q_en": "Google Chrome is an example of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Open-Source software",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Freeware",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Shareware",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Licensed software",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version B",
+   "q_en": "Which of the following is an example of sequential access memory?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Flash Memory",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Hard Disk",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Magnetic Tape",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Blu-Ray Disk",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version B",
+   "q_en": "A memory card is an example of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cache memory",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Chip memory",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Magnetic memory",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Optical memory",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version B",
+   "q_en": "A memory word that is to be stored in or fetched from memory must first be transferred into:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Memory address register",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Data register",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Memory buffer register",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Accumulator register",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version B",
+   "q_en": "Which of the following ports is used to connect video devices?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Firewire",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "PS/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Serial",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Parallel",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version B",
+   "q_en": "Which of the following protocols is used at Session layer of OSI model?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "X.25",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "TCP",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NetBIOS",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "HTTP",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version B",
+   "q_en": "The IP address 172.168.12.110 is an example of following network class:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Class D",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Class A",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Class B",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Class C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version B",
+   "q_en": "TV remote is an example of following communication:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Infrared",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Wi-Fi",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Wi-Max",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Bluetooth",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version B",
+   "q_en": "Which of the following refers to the minimum number of times an instance of one entity associated with the instances of related entity?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Modality",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Hierarchy",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cardinality",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Feasibility",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version B",
+   "q_en": "Which of the following is used in relationship between tables whose value matches with the primary key in another table?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Secondary key",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Candidate key",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Foreign key",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Alternate key",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Version B",
+   "q_en": "Which dependency is removed in 2NF?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Multi valued",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Partial functional",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Fully functional",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Transitive",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Version D",
+   "q_en": "The relationship between entities AIRLINE and TICKET is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Recursive",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Unary",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Binary",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ternary",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version D",
+   "q_en": "Which of the following is an input device?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Microphone",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Speaker",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Display screen",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Plotter",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version D",
+   "q_en": "Microsoft Office is an example of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Open-Source software",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Freeware",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Shareware",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Licensed software",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version D",
+   "q_en": "Which of the following memory types is considered as 'volatile'?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Memory card",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "DVD",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "RAM",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "PROM",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version D",
+   "q_en": "A flash memory is an example of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cache memory",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Chip memory",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Magnetic memory",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Optical memory",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version D",
+   "q_en": "Which register holds the results of ALU operations?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Accumulator register",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Data register",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Base register",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Counter register",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version D",
+   "q_en": "Which expansion slot has the highest video performance?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "PCI Express",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "PCI",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "AGP",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "SATA",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version D",
+   "q_en": "Which of the following protocols is used at Application layer of OSI model?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "X.25",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "TCP",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "HTTP",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NetBIOS",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version D",
+   "q_en": "The IP address 192.168.123.100 is an example of following network class:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Class D",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Class A",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Class B",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Class C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version D",
+   "q_en": "Which of the following is an application of Geostationary Earth Orbit?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Weather forecasting",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "GPS",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Satellite imaging applications",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Space shuttle",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version D",
+   "q_en": "Which of the following refers to the maximum number of times an instance of one entity associated with the instances of related entity?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Modality",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Hierarchy",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cardinality",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Feasibility",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version D",
+   "q_en": "Which of the following database objects represents results in a presentable way?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Report",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Table",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Form",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Query",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Version D",
+   "q_en": "Which dependency is removed in 3NF?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Multi valued",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Partial functional",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Fully functional",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Transitive",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,738 @@
+{
+ "board": "FBISE Islamabad",
+ "board_slug": "fbise",
+ "class": "10th",
+ "subject": "Computer Science",
+ "year": 2025,
+ "slug": "fbise-10th-computer-science-2025",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Version B",
+   "q_en": "Step-by-step problem-solving method is:",
+   "q_ur": "کسی مسئلے کو مرحلہ وار حل کرنے کا عمل کیا کہلاتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Code",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Algorithm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Data",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Execution",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version B",
+   "q_en": "Which preprocessor directive includes standard libraries in the program?",
+   "q_ur": "کون سا پری پروسیسر ڈائریکٹیو پروگرام میں سٹینڈرڈ لائبریریز کو شامل کرتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "#define",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "#include",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "#void",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "#conio",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version B",
+   "q_en": "Which format specifier is used for \"long int\"?",
+   "q_ur": "\"long int\" کے لیے کون سا فارمیٹ سپیسیفائر استعمال ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "%d",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "%i",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "%ld",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "%dl",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version B",
+   "q_en": "Determine the value of b=a++ + ++a; if a=5",
+   "q_ur": "اگر a=5 ہو تو b=a++ + ++a; کی کیا ویلیو ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "11",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "12",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Error",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version B",
+   "q_en": "Which statement is used to exit from the body of switch statement?",
+   "q_ur": "سوئچ سٹیٹمنٹ کی باڈی سے نکلنے کے لیے کون سی سٹیٹمنٹ استعمال ہوتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Default",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Continue",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Exit",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Break",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version B",
+   "q_en": "Primary purpose of conditional statement in C is to:",
+   "q_ur": "C میں کنڈیشنل سٹیٹمنٹ کا پرائمری مقصد کیا ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Execute code in a loop",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Decide sequence of execution",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Handle memory management",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Define constants",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version B",
+   "q_en": "What will the following code print at x=0\nif (x = 5)\nelse\nprintf(\"False\");",
+   "q_ur": "یہ کوڈ x=0 پر کیا پرنٹ کرے گا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "True",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "False",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Error",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Undefined behavior",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version B",
+   "q_en": "In which loop, condition is placed at the end?",
+   "q_ur": "کس لوپ میں کنڈیشن آخر میں رکھی جاتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "For loop",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Do while loop",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "While loop",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nested loop",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version B",
+   "q_en": "What will be the output of the following code?\nfor(int i=0; i < 5; i++)\n{\nif(i == 3)\ncontinue;\nprintf(\"%d\",i);\n}",
+   "q_ur": "درج ذیل کوڈ کی آؤٹ پٹ کیا ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "01234",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0124",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "012",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "012345",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version B",
+   "q_en": "How many times will the following loops execute?\nfor(int i = 0; i < 4; i++)\n{for (int j = 0; j<3;)",
+   "q_ur": "درج ذیل لوپ کتنی دفعہ ایگزیکیوٹ ہوں گی؟ [Note: the inner for-loop is printed without an increment expression, exactly as in the source scan.]",
+   "options": [
+    {
+     "k": "A",
+     "en": "11",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "12",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "13",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "14",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version B",
+   "q_en": "What will be the value 'P'? (A logic-circuit diagram is printed in the source scan: inputs A and B feed an AND gate whose output feeds an OR gate together with input C; the OR gate output is P.)",
+   "q_ur": "P کی ویلیو کیا ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "P=A. B+C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "P=A+B. C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "P=A+B+C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "P=A.B. C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version B",
+   "q_en": "Maximum possible input combinations in a truth table having 2 variables are:",
+   "q_ur": "دو ویری ایبلز والی ٹرتھ ٹیبل کے لیے زیادہ سے زیادہ ان پٹ کمبینیشنز ہوں گے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "16",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Version B",
+   "q_en": "Which is used to write HTML tag?",
+   "q_ur": "HTML ٹیگ لکھنے کے لیے کیا استعمال ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "() (/)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[] [/]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "<></>",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{} {/}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Version D",
+   "q_en": "Picture representation of algorithm is:",
+   "q_ur": "الگورتھم کا تصویری نمائندہ کیا کہلاتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Table",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "K-Map",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Flow chart",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Class map",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version D",
+   "q_en": "Which preprocessor directive includes standard libraries in the program?",
+   "q_ur": "کون سی پری پروسیسر ڈائریکٹیو پروگرام میں سٹینڈرڈ لائبریریز کو شامل کرتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "#define",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "#include",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "#void",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "#conio",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version D",
+   "q_en": "Which format specifier is used for \"Character\"?",
+   "q_ur": "\"کریکٹر\" کے لیے کون سا سپیسیفائر استعمال ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "%ch",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "%c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "%s",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "%str",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version D",
+   "q_en": "What will be the value of, if a=5;\nint b=a+++a;",
+   "q_ur": "درج ذیل کوڈ کی آؤٹ پٹ کیا ہوگی۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "11",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "12",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Error",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version D",
+   "q_en": "Which of the following is FALSE about the switch statement in C?",
+   "q_ur": "درج ذیل میں سے کون سی بات سوئچ سٹیٹمنٹ کے لیے غلط ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "It supports relational operators",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "It may contain default case",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Each case must end with BREAK",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "It can replace if-else statement",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version D",
+   "q_en": "Which one of the following is NOT a conditional statement?",
+   "q_ur": "درج ذیل میں سے کون سی کنڈیشنل سٹیٹمنٹ نہیں ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "IF",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "IF-ELSE",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "SWITCH",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "WHILE",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version D",
+   "q_en": "Which operator can replace if-else statement?",
+   "q_ur": "کون سا آپریٹر if-else سٹیٹمنٹ کی جگہ استعمال ہو سکتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Logical",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Conditional",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Relational",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Compound Assignment",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version D",
+   "q_en": "What will the following code print? If (x=0; )\nif (x < 5)\nprintf(\"True\");\nelse\nprintf(\"False\");",
+   "q_ur": "یہ کوڈ کیا پرنٹ کرے گا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "True",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "False",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Error",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Undefined behavior",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version D",
+   "q_en": "In Do-WHILE loop, if the condition is FALSE, then loop will execute:",
+   "q_ur": "Do-WHILE لوپ میں اگر کنڈیشن FALSE ہو تو لوپ کتنی مرتبہ چلے گی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "More than once",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "At least once",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Infinite time",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Not at all",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version D",
+   "q_en": "What will be the output of the following code?\nfor (int i = 0; i < 5; i++)\n{\nif\nbreak;\nprintf(\"%d \", i); }",
+   "q_ur": "درج ذیل کوڈ کی آؤٹ پٹ کیا ہوگی؟ [Note: the if statement is printed without a condition, exactly as in the source scan.]",
+   "options": [
+    {
+     "k": "A",
+     "en": "01234",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0124",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "012",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "012345",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version D",
+   "q_en": "How many loops can be accommodated in nested loop in C?",
+   "q_ur": "C میں نیسٹڈ لوپ میں کتنی لوپس رکھی جا سکتی ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Only 2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Only 3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Infinite",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Maximum 5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version D",
+   "q_en": "Maximum possible input combinations in a truth table having 3 variables are:",
+   "q_ur": "تین ویری ایبلز والے ٹرتھ ٹیبل میں میکسیمم کتنے ان پٹ کمبینیشنز ہوں گے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "16",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Version D",
+   "q_en": "Which symbol is the closing tag in HTML?",
+   "q_ur": "درج ذیل میں سے کون سا HTML میں کلوزنگ ٹیگ ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "(/)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[/]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "</ >",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{/}",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1130 @@
+{
+ "board": "FBISE Islamabad",
+ "board_slug": "fbise",
+ "class": "11th",
+ "subject": "Mathematics",
+ "year": 2024,
+ "slug": "fbise-11th-mathematics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Version B",
+   "q_en": "What is the period of 3Sin(x/5)?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10π",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "30π",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5π",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version B",
+   "q_en": "Which of the given options state the solution of Sin x + Cos x = 0?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-π/6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-2π/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3π/4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version B",
+   "q_en": "What is the multiplicative inverse of -i?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "i",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-i",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version B",
+   "q_en": "The real part of (1+7i)/(3-4i) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-1/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version B",
+   "q_en": "If A is a matrix of order 3×2, then order of the product A^t A is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3×2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3×3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2×2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2×3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version B",
+   "q_en": "If A = [i 0 0; 0 i 0; 0 0 i], then which one in the options is A^3?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-iA",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "iA",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-A",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version B",
+   "q_en": "What is the projection of a along b if a = 3i + j - k and b = i?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3/√1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3/√1 j",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3/√11",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3/√11 i",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version B",
+   "q_en": "For what value of α, vectors 4i + 16j + αk and 2i + 8j - 4k are parallel to each other?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "34",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "92",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-8",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version B",
+   "q_en": "If x-3, 6, y+3 are in A.P then value of x+y is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "12",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "18",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version B",
+   "q_en": "The nᵗʰ term of a series 3×1^2 + 5×2^2 + 7×3^2 + ...... is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(2n-1)n^2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(2n+1)(n+1)^2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(2n+1)n",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(2n+1)n^2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version B",
+   "q_en": "In how many ways 5 persons can be seated at a round table?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4!",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/2(4!)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5!",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/2(5!)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version B",
+   "q_en": "What is the probability of drawing a King from a well shuffled pack of 52 playing cards?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "13/52",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4/52",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/52",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2/52",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Version B",
+   "q_en": "What is the coefficient of 3ʳᵈ term in the expansion of (x - 1/x)^8?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "⁸C₃",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "⁸C₄",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "⁸C₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Version B",
+   "q_en": "Which one in the given options is true if 2^n > 2(n+1) ∀n ∈ Z⁺?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "n < 3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "n > 3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "n < 2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "n > 2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Version B",
+   "q_en": "The graph of y = x^4 is symmetrical about:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x-axis",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "y-axis",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Origin",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "y = x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Version B",
+   "q_en": "(-1,-1) is a solution of the inequality:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2x + y < -1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4x + 3y > 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-x - 2y < 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2x - y > 1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Version B",
+   "q_en": "Which of the following options equates Cos 196°?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sin 16°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-Sin 16°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cos 16°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-Cos 16°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Version B",
+   "q_en": "If Cos β = 3/4, then value of Cos 2β is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3√7/8",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-3√7/8",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/8",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-1/8",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Version B",
+   "q_en": "Area of a triangle ΔABC (with usual notations) a = 2, b = √3 and γ = π/3 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√3/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Version B",
+   "q_en": "What is the shadow length of a √3 m high tree if sun's elevation is 45°?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/√2 m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "√3 m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1 m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/√3 m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Version D",
+   "q_en": "If z = -3 - 5i then value of z̄ - z is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3 + 10i",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6 + 10i",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10i",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version D",
+   "q_en": "What is the modulus of complex number (4+2i)/(1-2i)?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10/3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10/√5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version D",
+   "q_en": "For what value of x, [2 2 2; 0 x 6; 0 0 6] is a singular matrix?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/12",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "12",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version D",
+   "q_en": "If [1 2; 3 4] A = [1 0 2; 2 0 1; 3 1 2], then order of matrix A is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2×2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2×3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3×2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3×3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version D",
+   "q_en": "For what value of α, vectors 3i + 4j - k and i - αj have the same magnitude?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "25",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "±5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√23",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3/4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version D",
+   "q_en": "If |a.b| = |a×b| then angle between vectors a and b is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "30°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "180°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version D",
+   "q_en": "For what value of q, numbers 1/3, 1/5, 1/q are in H.P?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/7",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/15",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "15",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version D",
+   "q_en": "nᵗʰ term of a series 2×1^2 + 4×2^2 + 6×3^2 + ...... is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(2n)n^2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(2n+1)n^2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(2n+2)n^2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2n^2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version D",
+   "q_en": "In how many ways 5 keys can be arranged on a circular key ring?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5!",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/2(5!)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4!",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/2(4!)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version D",
+   "q_en": "What is the probability of getting one head on tossing two fair coins?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2/4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4/4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version D",
+   "q_en": "In the expansion of (x - 1/x)^11 6ᵗʰ term from end is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5ᵗʰ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6ᵗʰ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7ᵗʰ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8ᵗʰ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version D",
+   "q_en": "For which given least value of n, the expression n! > (2^n - 1) remains true?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Version D",
+   "q_en": "The graph of y = 2x^2 - 6x cuts x-axis at point(s):",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(0,0) only",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(3,0) only",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(0,0),(3,0)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(0,0),(-3,0)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Version D",
+   "q_en": "(0,0) is NOT a solution of the inequality:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x + y + 1 > 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x - y < 1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2x + y < 1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-2x + y + 1 < 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Version D",
+   "q_en": "Which one of the given options, equates Sin(254°)?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cos 16°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-Cos 16°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Sin 16°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-Sin 16°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Version D",
+   "q_en": "Which one of the given options, equates 2Sin 7x Sin 3x?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cos 10x - Cos 4x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cos 10x + Cos 4x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cos 4x - Cos 10x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-Cos 4x - Cos 10x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Version D",
+   "q_en": "What is the area of triangle ΔABC with a = 2, c = 4, β = π/6 (usual notations)",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2√3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4√3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Version D",
+   "q_en": "If shadow length of a building is 1/√3 times its height, the elevation angle of sun is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "30°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "90°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Version D",
+   "q_en": "What is the period of 5Sec(x/3)?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2π/3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3π",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6π",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "30π",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Version D",
+   "q_en": "One solution of the equation Cos x + Sin x = √2 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-π/4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2π/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3π/4",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

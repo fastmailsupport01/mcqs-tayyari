@@ -1,0 +1,1018 @@
+{
+ "board": "FBISE Islamabad",
+ "board_slug": "fbise",
+ "class": "10th",
+ "subject": "Computer Science",
+ "year": 2023,
+ "slug": "fbise-10th-computer-science-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Version B",
+   "q_en": "In flowchart, 'diamond' represents:",
+   "q_ur": "فلو چارٹ میں 'ڈائمنڈ' کس چیز کو ظاہر کرتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Input/output",
+     "ur": "ان پٹ/آؤٹ پٹ"
+    },
+    {
+     "k": "B",
+     "en": "Processing",
+     "ur": "پروسیسنگ"
+    },
+    {
+     "k": "C",
+     "en": "Start/Stop",
+     "ur": "سٹارٹ/سٹاپ"
+    },
+    {
+     "k": "D",
+     "en": "Decision",
+     "ur": "فیصلہ"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version B",
+   "q_en": "How many AND gates are required to create the logic circuit of the Boolean function?\nF=xz + yz + xyz",
+   "q_ur": "درج شدہ بولین فنکشن کا لاجک سرکٹ بنانے کے لیے کتنے اینڈ (AND) گیٹ درکار ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version B",
+   "q_en": "Which software helps in finding and removing errors in programs?",
+   "q_ur": "پروگرامز میں ایررز تلاش کرنے اور ان کو ریموو کرنے کے لیے کون سا سافٹ ویئر استعمال ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Linker",
+     "ur": "لنکر"
+    },
+    {
+     "k": "B",
+     "en": "Text Editor",
+     "ur": "ٹیکسٹ ایڈیٹر"
+    },
+    {
+     "k": "C",
+     "en": "Loader",
+     "ur": "لوڈر"
+    },
+    {
+     "k": "D",
+     "en": "Debugger",
+     "ur": "ڈی بگر"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version B",
+   "q_en": "Which of the following languages consists of symbolic codes or abbreviations known as mnemonics?",
+   "q_ur": "درج شدہ میں سے کون سی لینگویج علامتی کوڈز اور مخففات (جو میمونکس کہلاتے ہیں) پر مشتمل ہوتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Machine Language",
+     "ur": "مشین لینگویج"
+    },
+    {
+     "k": "B",
+     "en": "High Level Language",
+     "ur": "ہائی لیول لینگویج"
+    },
+    {
+     "k": "C",
+     "en": "Assembly language",
+     "ur": "اسمبلی لینگویج"
+    },
+    {
+     "k": "D",
+     "en": "Procedural language",
+     "ur": "پروسیجرل لینگویج"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version B",
+   "q_en": "What is text or image in a Web page called that links it to another Web page when user clicks on it?",
+   "q_ur": "کسی ویب پیج پر موجود ٹیکسٹ یا امیج جو صارف کے کلک کرنے پر کسی دوسرے ویب پیج کا لنک بن جائے اسے کیا کہلاتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hyperlink",
+     "ur": "ہائپر لنک"
+    },
+    {
+     "k": "B",
+     "en": "Browser Link",
+     "ur": "براؤزر لنک"
+    },
+    {
+     "k": "C",
+     "en": "Web Link",
+     "ur": "ویب لنک"
+    },
+    {
+     "k": "D",
+     "en": "Search Link",
+     "ur": "سرچ لنک"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version B",
+   "q_en": "Which logic gate is represented by the given function?\nF=(x+y)'",
+   "q_ur": "درج شدہ فنکشن کس لاجک گیٹ کو ظاہر کرتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "AND",
+     "ur": "اینڈ"
+    },
+    {
+     "k": "B",
+     "en": "NOR",
+     "ur": "نار"
+    },
+    {
+     "k": "C",
+     "en": "OR",
+     "ur": "آر"
+    },
+    {
+     "k": "D",
+     "en": "NAND",
+     "ur": "نینڈ"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version B",
+   "q_en": "In a program the sequence of execution of other statements is determined by:",
+   "q_ur": "کون سی ہدایت پروگرام میں موجود دیگر سٹیٹمنٹ کے ایگزیکیوشن کا سیکوئنس متعین کرتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Control",
+     "ur": "کنٹرول"
+    },
+    {
+     "k": "B",
+     "en": "Selection",
+     "ur": "سلیکشن"
+    },
+    {
+     "k": "C",
+     "en": "Sequence",
+     "ur": "سیکوئنس"
+    },
+    {
+     "k": "D",
+     "en": "Repetition",
+     "ur": "ریپیٹیشن"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version B",
+   "q_en": "Which of the following is pre-tested loop?",
+   "q_ur": "درج شدہ میں سے کون سی پہلے سے ٹیسٹ شدہ لوپ ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nested loop",
+     "ur": "نیسٹڈ لوپ"
+    },
+    {
+     "k": "B",
+     "en": "While",
+     "ur": "وائل لوپ"
+    },
+    {
+     "k": "C",
+     "en": "For loop",
+     "ur": "فار لوپ"
+    },
+    {
+     "k": "D",
+     "en": "Do-While loop",
+     "ur": "ڈو وائل لوپ"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version B",
+   "q_en": "___ is used to find information on the World Wide Web.",
+   "q_ur": "ورلڈ وائیڈ ویب سے انفارمیشن حاصل کرنے کے لیے کس کا استعمال کیا جاتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "HTML",
+     "ur": "ایچ ٹی ایم ایل"
+    },
+    {
+     "k": "B",
+     "en": "URL",
+     "ur": "یو آر ایل"
+    },
+    {
+     "k": "C",
+     "en": "Search engine",
+     "ur": "سرچ انجن"
+    },
+    {
+     "k": "D",
+     "en": "Web server",
+     "ur": "ویب سرور"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version B",
+   "q_en": "Which statement is used to exit from the body of switch statement?",
+   "q_ur": "سوئچ سٹیٹمنٹ کی باڈی میں سے نکلنے کے لیے کون سی سٹیٹمنٹ استعمال ہوتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Break",
+     "ur": "بریک"
+    },
+    {
+     "k": "B",
+     "en": "Continue",
+     "ur": "کنٹینیو"
+    },
+    {
+     "k": "C",
+     "en": "If Statement",
+     "ur": "اف سٹیٹمنٹ"
+    },
+    {
+     "k": "D",
+     "en": "Default",
+     "ur": "ڈیفالٹ"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version B",
+   "q_en": "What is a pass through a loop called?",
+   "q_ur": "لوپ میں پاس تھرو کرنا (Pass through) کیا کہلاتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Execution",
+     "ur": "ایگزیکیوشن"
+    },
+    {
+     "k": "B",
+     "en": "Iteration",
+     "ur": "آئیٹریشن"
+    },
+    {
+     "k": "C",
+     "en": "Enumeration",
+     "ur": "نیومریشن"
+    },
+    {
+     "k": "D",
+     "en": "Culmination",
+     "ur": "کلمینیشن"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version B",
+   "q_en": "Which escape sequence is used to generate an alert?",
+   "q_ur": "کون سا ایسکیپ سیکوئنس الرٹ دینے کے لیے استعمال ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "\\b",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "\\r",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "\\t",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "\\a",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Version D",
+   "q_en": "In flowchart, parallelogram represent:",
+   "q_ur": "فلو چارٹ میں پیراللوگرام کس چیز کو ظاہر کرتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Input/output",
+     "ur": "ان پٹ/آؤٹ پٹ"
+    },
+    {
+     "k": "B",
+     "en": "Processing",
+     "ur": "پروسیسنگ"
+    },
+    {
+     "k": "C",
+     "en": "Start/Stop",
+     "ur": "سٹارٹ/سٹاپ"
+    },
+    {
+     "k": "D",
+     "en": "Decision",
+     "ur": "فیصلہ"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version D",
+   "q_en": "What is the range of numbers that can be stored in a variable of type double float?",
+   "q_ur": "ڈبل فلوٹ ٹائپ ویری ایبل میں کس رینج کے اندر نمبرز سٹور کیے جا سکتے ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "-32,768 ~ +32,767",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10^-38 ~ 10^38",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10^-308 ~ 10^308",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10^-4932 ~ 10^4932",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version D",
+   "q_en": "If structure is used in programming for:",
+   "q_ur": "پروگرامنگ میں if سٹرکچر کس مقصد کے لیے استعمال ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Repetition",
+     "ur": "ریپیٹیشن"
+    },
+    {
+     "k": "B",
+     "en": "Input of Data",
+     "ur": "ان پٹ آف ڈیٹا"
+    },
+    {
+     "k": "C",
+     "en": "Sequence",
+     "ur": "سیکوئنس"
+    },
+    {
+     "k": "D",
+     "en": "Selection",
+     "ur": "سلیکشن"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version D",
+   "q_en": "Which character terminates a C statement?",
+   "q_ur": "C سٹیٹمنٹ کو کون سا کریکٹر ٹرمینیٹ کرتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Colon",
+     "ur": "کولن"
+    },
+    {
+     "k": "B",
+     "en": "Semicolon",
+     "ur": "سیمی کولن"
+    },
+    {
+     "k": "C",
+     "en": "Period",
+     "ur": "پیریڈ"
+    },
+    {
+     "k": "D",
+     "en": "Comma",
+     "ur": "کوما"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version D",
+   "q_en": "Which logic gate is represented by the given function?\nF=(xy)'",
+   "q_ur": "درج شدہ فنکشن کس لاجک گیٹ کو ظاہر کرتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "NOR",
+     "ur": "نار"
+    },
+    {
+     "k": "B",
+     "en": "OR",
+     "ur": "آر"
+    },
+    {
+     "k": "C",
+     "en": "NOT",
+     "ur": "ناٹ"
+    },
+    {
+     "k": "D",
+     "en": "AND",
+     "ur": "اینڈ"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version D",
+   "q_en": "Inside which tag, anything typed is displayed in the browser window?",
+   "q_ur": "درج شدہ میں سے کس ٹیگ میں ٹائپ شدہ مواد براؤزر کی ونڈو میں دکھائی دیتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "<body></body>",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "<html></html>",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "<head></head>",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "<little></little>",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version D",
+   "q_en": "Which language is directly understood by the computer?",
+   "q_ur": "کمپیوٹر کس لینگویج کو ڈائریکٹلی سمجھتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "High level language",
+     "ur": "ہائی لیول لینگویج"
+    },
+    {
+     "k": "B",
+     "en": "Assembly language",
+     "ur": "اسمبلی لینگویج"
+    },
+    {
+     "k": "C",
+     "en": "Machine language",
+     "ur": "مشین لینگویج"
+    },
+    {
+     "k": "D",
+     "en": "C- language",
+     "ur": "سی لینگویج"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version D",
+   "q_en": "Which loop is used when it is required to execute the loop at least once?",
+   "q_ur": "کسی لوپ کو کم از کم ایک دفعہ ایگزیکیوٹ کرنے کے لیے کون سی لوپ استعمال کی جاتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "For loop",
+     "ur": "فار لوپ"
+    },
+    {
+     "k": "B",
+     "en": "Do while loop",
+     "ur": "ڈو وائل لوپ"
+    },
+    {
+     "k": "C",
+     "en": "while loop",
+     "ur": "وائل لوپ"
+    },
+    {
+     "k": "D",
+     "en": "nested loop",
+     "ur": "نیسٹڈ لوپ"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version D",
+   "q_en": "What is the maximum number of the possible input combinations in a truth table that has three variables?",
+   "q_ur": "اگر ایک ٹرتھ ٹیبل میں 3 ویری ایبل موجود ہوں تو زیادہ سے زیادہ کتنے ان پٹ کمبینیشنز حاصل ہو سکتے ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version D",
+   "q_en": "Which of the following operator has the highest precedence?",
+   "q_ur": "درج شدہ میں سے کس کی پریسیڈنس (فوقیت) سب سے زیادہ ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "&&",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "<=",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "=",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "*",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version D",
+   "q_en": "Which of the following does not have a closing tag?",
+   "q_ur": "درج شدہ میں سے کس کا کلوزنگ ٹیگ نہیں ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "<tr>",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "<br>",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "<center>",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "<title></title>",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version D",
+   "q_en": "Which of the following ends a multiple-statement while loop?",
+   "q_ur": "درج شدہ میں سے کون سا ملٹی سٹیٹمنٹ وائل لوپ کو ختم کرتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": ")",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": ";",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": ":",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Version SP",
+   "q_en": "The text or image in a web page that redirects the user to another web page when clicked is called:",
+   "q_ur": "کسی ویب پیج پر وہ تصویر یا تحریر جو کلک کرنے سے صارف کو کسی دوسرے ویب پیج پر لے جائے اسے ___ کہتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Web link",
+     "ur": "ویب لنک"
+    },
+    {
+     "k": "B",
+     "en": "Hyperlink",
+     "ur": "ہائپر لنک"
+    },
+    {
+     "k": "C",
+     "en": "Browser link",
+     "ur": "براؤزر لنک"
+    },
+    {
+     "k": "D",
+     "en": "Search link",
+     "ur": "سرچ لنک"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version SP",
+   "q_en": "Find the output:\nvoid main (void) {\nint i = 0;\nswitch (i) {\ncase '0': printf(\"Computer\");\nbreak;\ncase '1': printf(\"Science\");\ndefault: printf(\"Computer Science\");\n}",
+   "q_ur": "درج شدہ پروگرام کی آؤٹ پٹ بتائیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Computer",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Science",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Computer Science",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Compile time error",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version SP",
+   "q_en": "Which among the following is NOT a logical or relational operator?",
+   "q_ur": "درج شدہ میں سے کون سا لوجیکل یا ریلیشنل آپریٹر نہیں ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "!=",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "==",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "||",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "=",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version SP",
+   "q_en": "What is the maximum number of possible input combinations in a table that has 4 variables?",
+   "q_ur": "4 ویری ایبل کے ٹرتھ ٹیبل میں زیادہ سے زیادہ کتنے (Combinations) ہوں گے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "16",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "12",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version SP",
+   "q_en": "Which of these DOES NOT define the rules of valid statement in programming?",
+   "q_ur": "ان میں سے کون پروگرامنگ کے درست قوانین کی تعریف نہیں بتاتا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Compiler",
+     "ur": "کمپائلر"
+    },
+    {
+     "k": "B",
+     "en": "Interpreter",
+     "ur": "انٹرپریٹر"
+    },
+    {
+     "k": "C",
+     "en": "Assembler",
+     "ur": "اسمبلر"
+    },
+    {
+     "k": "D",
+     "en": "Debugger",
+     "ur": "ڈی بگر"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version SP",
+   "q_en": "Which logical gate is represented by the function F=(x+y)'",
+   "q_ur": "F = (x+y)' پر کون سا لاجک گیٹ استعمال ہو گا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "OR",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NOR",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Exclusive-OR",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Exclusive-NOR",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version SP",
+   "q_en": "Evaluate 100/10/4:",
+   "q_ur": "100/10/4 کو حل کریں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2.5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3.5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4.5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version SP",
+   "q_en": "Output of the code:\nif ((1= =1) || (2= =3) )\nprintf(\"Good\")else\nprintf(\"Bad\"); [Note: printed with double spaces inside \"= =\" in the source scan.]",
+   "q_ur": "درج شدہ کوڈ کی آؤٹ پٹ کیا ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Good",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Bad",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "No output",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Syntax error",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version SP",
+   "q_en": "How many times a Do – While loop guarantees to execute?",
+   "q_ur": "Do – While loop کتنی بار ایگزیکیوٹ ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Infinitely",
+     "ur": "لامحدود"
+    },
+    {
+     "k": "C",
+     "en": "Variable",
+     "ur": "متغیر"
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version SP",
+   "q_en": "Which logical operator will be used to make the following compound condition:\nif (marks>=80 ___ marks<=100)\nthen print Grade A.",
+   "q_ur": "درج شدہ Compound Condition بنانے کے لیے کون سا Logical آپریٹر استعمال ہوگا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "AND",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "OR",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NOT",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NAND",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version SP",
+   "q_en": "What will be the output?\nvoid main(void) {\nint n;\nfor(n = 9; n!=0; n--)\nprintf(\"%d\" n--);\n}",
+   "q_ur": "درج شدہ پروگرام کی کیا آؤٹ پٹ ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "9 7 5 3 1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "9 8 7 6 5 4 3 2 1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Infinite loop",
+     "ur": "لامحدود لوپ"
+    },
+    {
+     "k": "D",
+     "en": "9 7 5 3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version SP",
+   "q_en": "<frameset ______ = \"50%,50%\">\nTo set vertical frames in HTML which keyword will be used?\nHTML<frameset ______ = \"50%,50%\">",
+   "q_ur": "HTML میں Vertical فریمز سیٹ کرنے کے لیے کون سا Keyword استعمال ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cols",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Vertical",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Rows",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Horizontal",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

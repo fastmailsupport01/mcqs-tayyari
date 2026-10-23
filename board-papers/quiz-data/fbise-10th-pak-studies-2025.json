@@ -1,0 +1,570 @@
+{
+ "board": "FBISE Islamabad",
+ "board_slug": "fbise",
+ "class": "10th",
+ "subject": "Pak Studies",
+ "year": 2025,
+ "slug": "fbise-10th-pak-studies-2025",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Version B",
+   "q_en": "Who elects Prime Minister in Pakistan?",
+   "q_ur": "پاکستان میں وزیر اعظم کا انتخاب کون کرتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "National Assembly",
+     "ur": "قومی اسمبلی"
+    },
+    {
+     "k": "B",
+     "en": "Senate",
+     "ur": "سینیٹ"
+    },
+    {
+     "k": "C",
+     "en": "Directly elected by the public",
+     "ur": "عوام براہ راست انتخاب کرتی ہے"
+    },
+    {
+     "k": "D",
+     "en": "Nominated by President",
+     "ur": "صدر نامزد کرتا ہے"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version B",
+   "q_en": "Nationalization policy was introduced by:",
+   "q_ur": "قومیانے کی پالیسی کس نے متعارف کروائی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zia ul Haq",
+     "ur": "ضیاء الحق"
+    },
+    {
+     "k": "B",
+     "en": "Muhammad Khan Junejo",
+     "ur": "محمد خان جونیجو"
+    },
+    {
+     "k": "C",
+     "en": "Mian Muhammad Nawaz Sharif",
+     "ur": "میاں محمد نواز شریف"
+    },
+    {
+     "k": "D",
+     "en": "Zulfiqar Ali Bhutto",
+     "ur": "ذوالفقار علی بھٹو"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version B",
+   "q_en": "28 May is celebrated in Pakistan as:",
+   "q_ur": "پاکستان میں 28 مئی بطور ______ منایا جاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Yum-e-Tameer",
+     "ur": "یوم تعمیر"
+    },
+    {
+     "k": "B",
+     "en": "Yum-e-Fatah",
+     "ur": "یوم فتح"
+    },
+    {
+     "k": "C",
+     "en": "Yum-e-Takbeer",
+     "ur": "یوم تکبیر"
+    },
+    {
+     "k": "D",
+     "en": "Yum-e-Istaqlal",
+     "ur": "یوم استقلال"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version B",
+   "q_en": "Which area of Afghanistan separates Pakistan from Central Asia?",
+   "q_ur": "افغانستان کا کون سا علاقہ پاکستان کو وسط ایشیا سے جدا کرتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Qandhar",
+     "ur": "قندھار"
+    },
+    {
+     "k": "B",
+     "en": "Wahkhan",
+     "ur": "واخان"
+    },
+    {
+     "k": "C",
+     "en": "Paktika",
+     "ur": "پکتیکا"
+    },
+    {
+     "k": "D",
+     "en": "Badakhashan",
+     "ur": "بدخشاں"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version B",
+   "q_en": "Pakistan shares its northern border with:",
+   "q_ur": "پاکستان کی شمالی سرحد کس ملک سے ملتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "India",
+     "ur": "بھارت"
+    },
+    {
+     "k": "B",
+     "en": "Afghanistan",
+     "ur": "افغانستان"
+    },
+    {
+     "k": "C",
+     "en": "Iran",
+     "ur": "ایران"
+    },
+    {
+     "k": "D",
+     "en": "China",
+     "ur": "چین"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version B",
+   "q_en": "Where are largest coal reserves in Pakistan?",
+   "q_ur": "پاکستان میں کوئلے کے سب سے بڑے ذخائر کہاں پائے جاتے ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Kala Bagh",
+     "ur": "کالا باغ"
+    },
+    {
+     "k": "B",
+     "en": "Gwadar",
+     "ur": "گوادر"
+    },
+    {
+     "k": "C",
+     "en": "Thar",
+     "ur": "تھر"
+    },
+    {
+     "k": "D",
+     "en": "Hangu",
+     "ur": "ہنگو"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version B",
+   "q_en": "Ghazi Brotha is a ______ energy project.",
+   "q_ur": "غازی بروتھا کون سی توانائی کا منصوبہ ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hydel",
+     "ur": "آبی"
+    },
+    {
+     "k": "B",
+     "en": "Thermal",
+     "ur": "حرارتی"
+    },
+    {
+     "k": "C",
+     "en": "Solar",
+     "ur": "شمسی"
+    },
+    {
+     "k": "D",
+     "en": "Air",
+     "ur": "ہوائی"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version B",
+   "q_en": "The national language of Pakistan is:",
+   "q_ur": "اردو پاکستان کی قومی زبان ______ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Urdu",
+     "ur": "اردو"
+    },
+    {
+     "k": "B",
+     "en": "Persian",
+     "ur": "فارسی"
+    },
+    {
+     "k": "C",
+     "en": "English",
+     "ur": "انگریزی"
+    },
+    {
+     "k": "D",
+     "en": "Arabic",
+     "ur": "عربی"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version B",
+   "q_en": "The folk tale \"Heer-Ranjha\" was written by:",
+   "q_ur": "قصہ ہیر رانجھا کس نے لکھا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hafiz Barkhurdar",
+     "ur": "حافظ برخوردار"
+    },
+    {
+     "k": "B",
+     "en": "Rehman Baba",
+     "ur": "رحمان بابا"
+    },
+    {
+     "k": "C",
+     "en": "Waris Shah",
+     "ur": "وارث شاہ"
+    },
+    {
+     "k": "D",
+     "en": "Fazal Shah",
+     "ur": "فضل شاہ"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version B",
+   "q_en": "The largest import item of Pakistan is:",
+   "q_ur": "پاکستان کی سب سے بڑی درآمدی چیز کون سی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sports Goods",
+     "ur": "کھیلوں کا سامان"
+    },
+    {
+     "k": "B",
+     "en": "Carpets",
+     "ur": "قالین"
+    },
+    {
+     "k": "C",
+     "en": "Fish",
+     "ur": "مچھلی"
+    },
+    {
+     "k": "D",
+     "en": "Petroleum products",
+     "ur": "پٹرولیم مصنوعات"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Version D",
+   "q_en": "According to 1973 constitution a ______ majority is required to make an amendment in constitution of Pakistan.",
+   "q_ur": "1973ء کے آئین کے مطابق پاکستان میں آئینی ترمیم کے لیے کتنی اکثریت کی ضرورت ہوتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version D",
+   "q_en": "Enlightened moderation policy was introduced by:",
+   "q_ur": "روشن خیال اعتدال پسندی کی پالیسی کس نے متعارف کروائی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zia-ul-Haq",
+     "ur": "ضیاء الحق"
+    },
+    {
+     "k": "B",
+     "en": "Nawaz Sharif",
+     "ur": "نواز شریف"
+    },
+    {
+     "k": "C",
+     "en": "Benezir Bhutto",
+     "ur": "بے نظیر بھٹو"
+    },
+    {
+     "k": "D",
+     "en": "Pervaiz Musharraf",
+     "ur": "پرویز مشرف"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version D",
+   "q_en": "All provinces have equal representation in:",
+   "q_ur": "تمام صوبوں کی ______ میں برابر نمائندگی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Senate",
+     "ur": "سینیٹ"
+    },
+    {
+     "k": "B",
+     "en": "National Assembly",
+     "ur": "قومی اسمبلی"
+    },
+    {
+     "k": "C",
+     "en": "Provincial Assembly",
+     "ur": "صوبائی اسمبلی"
+    },
+    {
+     "k": "D",
+     "en": "Supreme Court",
+     "ur": "سپریم کورٹ"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version D",
+   "q_en": "Pakistan provides easy access to ______ states to its sea parts.",
+   "q_ur": "براستہ پاکستان ______ ریاستوں کو سمندری بندرگاہوں تک آسان رسائی حاصل ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "West Asia",
+     "ur": "مغربی ایشیا"
+    },
+    {
+     "k": "B",
+     "en": "South Asia",
+     "ur": "جنوبی ایشیا"
+    },
+    {
+     "k": "C",
+     "en": "Central Asia",
+     "ur": "وسطی ایشیا"
+    },
+    {
+     "k": "D",
+     "en": "East Asia",
+     "ur": "مشرقی ایشیا"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version D",
+   "q_en": "Pakistan withdrew from SEATO pact in:",
+   "q_ur": "پاکستان نے سیٹو معاہدہ (SEATO) سے کب علیحدگی اختیار کی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "1952",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1962",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1972",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1982",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version D",
+   "q_en": "After 1965 war between Pakistan and India which agreement was signed?",
+   "q_ur": "پاکستان اور بھارت کے درمیان 1965ء کی جنگ کے بعد کون سا معاہدہ طے پایا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Tashkant Agreement",
+     "ur": "معاہدہ تاشقند"
+    },
+    {
+     "k": "B",
+     "en": "Simla Agreement",
+     "ur": "شملہ معاہدہ"
+    },
+    {
+     "k": "C",
+     "en": "Geneva Agreement",
+     "ur": "جنیوا معاہدہ"
+    },
+    {
+     "k": "D",
+     "en": "Trans Karakoram Agreement",
+     "ur": "ٹرانس قراقرم معاہدہ"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version D",
+   "q_en": "The largest deposits of copper in Pakistan are found in ______ province.",
+   "q_ur": "پاکستان میں کاپر (تانبے) کے سب سے بڑے ذخائر کہاں پائے جاتے ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Punjab",
+     "ur": "پنجاب"
+    },
+    {
+     "k": "B",
+     "en": "Sindh",
+     "ur": "سندھ"
+    },
+    {
+     "k": "C",
+     "en": "Khyber Pakhtunkhwa",
+     "ur": "خیبر پختونخوا"
+    },
+    {
+     "k": "D",
+     "en": "Baluchistan",
+     "ur": "بلوچستان"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version D",
+   "q_en": "Which one is considered the cash crop in Pakistan?",
+   "q_ur": "درج شدہ میں سے کون سی پاکستان کی نقد آور فصل ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cotton",
+     "ur": "کپاس"
+    },
+    {
+     "k": "B",
+     "en": "Wheat",
+     "ur": "گندم"
+    },
+    {
+     "k": "C",
+     "en": "Maize",
+     "ur": "مکئی"
+    },
+    {
+     "k": "D",
+     "en": "Millet",
+     "ur": "باجرہ"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version D",
+   "q_en": "Which one is the least populated province of Pakistan?",
+   "q_ur": "پاکستان کا سب سے کم گنجان آباد صوبہ کون سا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Punjab",
+     "ur": "پنجاب"
+    },
+    {
+     "k": "B",
+     "en": "Baluchistan",
+     "ur": "بلوچستان"
+    },
+    {
+     "k": "C",
+     "en": "Sindh",
+     "ur": "سندھ"
+    },
+    {
+     "k": "D",
+     "en": "Khyber Pakhtunkhwa",
+     "ur": "خیبر پختونخوا"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version D",
+   "q_en": "Mir Chakar is a famous writer of ______ language.",
+   "q_ur": "میر چاکر کس زبان کا مشہور ادیب ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Punjabi",
+     "ur": "پنجابی"
+    },
+    {
+     "k": "B",
+     "en": "Sindhi",
+     "ur": "سندھی"
+    },
+    {
+     "k": "C",
+     "en": "Balochi",
+     "ur": "بلوچی"
+    },
+    {
+     "k": "D",
+     "en": "Pashtu",
+     "ur": "پشتو"
+    }
+   ]
+  }
+ ]
+}

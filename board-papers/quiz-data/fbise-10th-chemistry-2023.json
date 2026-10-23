@@ -1,0 +1,682 @@
+{
+ "board": "FBISE Islamabad",
+ "board_slug": "fbise",
+ "class": "10th",
+ "subject": "Chemistry",
+ "year": 2023,
+ "slug": "fbise-10th-chemistry-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Version B",
+   "q_en": "The lowest temperature in stratosphere is:",
+   "q_ur": "سٹریٹوسفیئر کا سب سے کم درجہ حرارت کیا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "-55°C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5°C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "55°C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-5°C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version B",
+   "q_en": "Which of the following gases is used to destroy harmful bacteria in water?",
+   "q_ur": "درج شدہ میں سے کون سی گیس پانی میں موجود نقصان دہ بیکٹیریا کو ختم کرنے میں مدد دیتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Bromine",
+     "ur": "برومین"
+    },
+    {
+     "k": "B",
+     "en": "Chlorine",
+     "ur": "کلورین"
+    },
+    {
+     "k": "C",
+     "en": "Iodine",
+     "ur": "آئیوڈین"
+    },
+    {
+     "k": "D",
+     "en": "Fluorine",
+     "ur": "فلورین"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version B",
+   "q_en": "Which of the following organic compounds is found in gasoline (Petrol)?",
+   "q_ur": "درج شدہ میں سے کون سا نامیاتی مرکب گیسولین (پٹرول) میں پایا جاتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "C14H28",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "C12H26",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "C8H18",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "C20H42",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version B",
+   "q_en": "Predict the unit of Kc for the following reversible reaction:\nN2O4(g) ⇌ 2NO2(g)",
+   "q_ur": "درج شدہ ریورسیبل ری ایکشن کے لیے Kc کی اکائی بتائیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "moldm^-3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "mol^-1 dm^3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "moldm^3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "mol^-1 dm^-3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version B",
+   "q_en": "A reaction in which products react together to reform the original reactants is called:",
+   "q_ur": "ایک ری ایکشن جس میں پروڈکٹس ری ایکٹ کر کے دوبارہ اصل ری ایکٹنٹس بناتے ہیں اسے کیا کہتے ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Exothermic reaction",
+     "ur": "حرارت زا ری ایکشن"
+    },
+    {
+     "k": "B",
+     "en": "Reversible reaction",
+     "ur": "ریورسیبل ری ایکشن"
+    },
+    {
+     "k": "C",
+     "en": "Irreversible reaction",
+     "ur": "ارریورسیبل ری ایکشن"
+    },
+    {
+     "k": "D",
+     "en": "Endothermic reaction",
+     "ur": "حرارت گیر ری ایکشن"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version B",
+   "q_en": "In an aqueous solution of hydrochloric acid the concentration of H+ ion is 1×10^-6 moldm^-3. This solution is:",
+   "q_ur": "ہائیڈروکلورک ایسڈ کے آبی محلول میں H+ آئن کا ارتکاز 1×10^-6 moldm^-3 ہے۔ یہ کیا محلول ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Basic",
+     "ur": "اساسی"
+    },
+    {
+     "k": "B",
+     "en": "Neutral",
+     "ur": "نیوٹرل"
+    },
+    {
+     "k": "C",
+     "en": "Amphoteric",
+     "ur": "ایمفوٹیرک"
+    },
+    {
+     "k": "D",
+     "en": "Acidic",
+     "ur": "تیزابی"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version B",
+   "q_en": "In a homologous series, two adjacent compounds differ by:",
+   "q_ur": "ہومولوگس سیریز میں دو متصلہ مرکبات (کمپاؤنڈز) میں کیا فرق ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "-CH2- group",
+     "ur": "-CH2- گروپ"
+    },
+    {
+     "k": "B",
+     "en": "-CH- group",
+     "ur": "-CH- گروپ"
+    },
+    {
+     "k": "C",
+     "en": "CH4 group",
+     "ur": "CH4 گروپ"
+    },
+    {
+     "k": "D",
+     "en": "-CH3 group",
+     "ur": "-CH3 گروپ"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version B",
+   "q_en": "IUPAC name of C8H18 is:",
+   "q_ur": "C8H18 کا آئی یو پی اے سی (IUPAC) نام کیا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Octene",
+     "ur": "آکٹین"
+    },
+    {
+     "k": "B",
+     "en": "Octyne",
+     "ur": "آکٹائن"
+    },
+    {
+     "k": "C",
+     "en": "Octanal",
+     "ur": "آکٹینل"
+    },
+    {
+     "k": "D",
+     "en": "Octane",
+     "ur": "آکٹین"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version B",
+   "q_en": "Which of the following is an aldehyde?",
+   "q_ur": "درج شدہ میں سے ایلڈیہائیڈ کون سا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "CH3OCH3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CH3COOH",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CH3-CHO",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CH3CH2-OH",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version B",
+   "q_en": "In organic chemistry the term dehydrohalogenation means:",
+   "q_ur": "آرگینک کیمسٹری میں ڈی ہائیڈروہیلوجینیشن کی اصطلاح کا کیا مطلب ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Removal of halogen only",
+     "ur": "صرف ہیلوجن کا اخراج"
+    },
+    {
+     "k": "B",
+     "en": "Removal of hydrogen and halogen",
+     "ur": "ہائیڈروجن اور ہیلوجن کا اخراج"
+    },
+    {
+     "k": "C",
+     "en": "Removal of water and halogen",
+     "ur": "پانی اور ہیلوجن کا اخراج"
+    },
+    {
+     "k": "D",
+     "en": "Removal of water only",
+     "ur": "صرف پانی کا اخراج"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version B",
+   "q_en": "Identify the monosaccharide from the following carbohydrates:",
+   "q_ur": "درج ذیل کاربوہائیڈریٹس میں سے مونوسکیرائیڈ کی شناخت کریں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sucrose",
+     "ur": "سکروز"
+    },
+    {
+     "k": "B",
+     "en": "Lactose",
+     "ur": "لیکٹوز"
+    },
+    {
+     "k": "C",
+     "en": "Maltose",
+     "ur": "مالٹوز"
+    },
+    {
+     "k": "D",
+     "en": "Glucose",
+     "ur": "گلوکوز"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version B",
+   "q_en": "1 Kilogram of water will occupy minimum space at:",
+   "q_ur": "ایک کلو گرام پانی کم سے کم جگہ کس درجہ حرارت پر گھیرے گا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "100°C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-4°C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4°C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0°C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Version D",
+   "q_en": "Which of the following water borne diseases causes acute liver inflammation?",
+   "q_ur": "درج ذیل میں سے پھیلنے والی کون سی بیماری جگر کی شدید سوزش کا باعث بنتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hepatitis",
+     "ur": "ہیپاٹائٹس"
+    },
+    {
+     "k": "B",
+     "en": "Cholera",
+     "ur": "ہیضہ"
+    },
+    {
+     "k": "C",
+     "en": "Typhoid",
+     "ur": "ٹائیفائیڈ"
+    },
+    {
+     "k": "D",
+     "en": "Dysentery",
+     "ur": "پیچش"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version D",
+   "q_en": "Chemical formula of urea is:",
+   "q_ur": "یوریا کا کیمیائی فارمولا کیا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "NH4NO3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NH3CONH2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(NH4)2SO4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NH3COONH4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version D",
+   "q_en": "Predict the unit of Kc for the following reversible reaction:\n2CO(g) + O2(g) ⇌ 2CO2(g)",
+   "q_ur": "درج ذیل ریورسیبل ری ایکشن کے لیے Kc کی اکائی بتائیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "mol^2 dm^-6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "mol^-2 dm^6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "mol dm^-3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "mol^-1 dm^3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version D",
+   "q_en": "A state of chemical reaction in which forward and reverse reactions take place at the same rate is called:",
+   "q_ur": "جب فارورڈ ری ایکشن اور ریورس ری ایکشن ایک ہی رفتار سے ہو رہا ہو تو اسے کیمیائی حالت کیا کہتے ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Chemical equilibrium",
+     "ur": "کیمیکل ایکوی لبریم"
+    },
+    {
+     "k": "B",
+     "en": "Equilibrium constant",
+     "ur": "ایکوی لبریم کانسٹنٹ"
+    },
+    {
+     "k": "C",
+     "en": "Forward reaction",
+     "ur": "فارورڈ ری ایکشن"
+    },
+    {
+     "k": "D",
+     "en": "Reverse reaction",
+     "ur": "ریورس ری ایکشن"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version D",
+   "q_en": "Given Kw = [H+][OH-] = 1×10^-14 at 25°C. What is the concentration of H+ in pure water at 25°C?",
+   "q_ur": "دیا گیا ہے کہ 25°C پر Kw = [H+][OH-] = 1×10^-14 ہے۔ 25°C پر خالص پانی میں H+ آئن کی کنسنٹریشن کیا ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "1×10^-14 mol dm^-3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1×10^14 mol dm^-3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1×10^-7 mol dm^-3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1×10^8 mol dm^-3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version D",
+   "q_en": "Organic compounds are non-polar in nature and are NOT soluble in:",
+   "q_ur": "آرگینک کمپاؤنڈز غیر قطبی ہوتے ہیں اور یہ ___ میں حل نہیں ہوتے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Benzene",
+     "ur": "بینزین"
+    },
+    {
+     "k": "B",
+     "en": "Ethanol",
+     "ur": "ایتھنول"
+    },
+    {
+     "k": "C",
+     "en": "Ether",
+     "ur": "ایتھر"
+    },
+    {
+     "k": "D",
+     "en": "Water",
+     "ur": "پانی"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version D",
+   "q_en": "IUPAC name of C6H14 is:",
+   "q_ur": "C6H14 کا آئی یو پی اے سی (IUPAC) نام کیا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hexyne",
+     "ur": "ہیکسائن"
+    },
+    {
+     "k": "B",
+     "en": "Hexanol",
+     "ur": "ہیکسانول"
+    },
+    {
+     "k": "C",
+     "en": "Hexane",
+     "ur": "ہیکسین"
+    },
+    {
+     "k": "D",
+     "en": "Hexene",
+     "ur": "ہیکسین"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version D",
+   "q_en": "Which of the following is an alcohol?",
+   "q_ur": "درج ذیل میں سے الکوحل کون سا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "CH3COCH3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CH3OH",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CH3OCH3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CH3COOH",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version D",
+   "q_en": "In organic chemistry the term dehydration means:",
+   "q_ur": "آرگینک کیمسٹری میں ڈی ہائیڈریشن کی اصطلاح سے کیا مراد ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Removal of water",
+     "ur": "پانی کا اخراج"
+    },
+    {
+     "k": "B",
+     "en": "Removal of oxygen",
+     "ur": "آکسیجن کا اخراج"
+    },
+    {
+     "k": "C",
+     "en": "Removal of hydrogen",
+     "ur": "ہائیڈروجن کا اخراج"
+    },
+    {
+     "k": "D",
+     "en": "Removal of halogen",
+     "ur": "ہیلوجن کا اخراج"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version D",
+   "q_en": "Identify the disaccharide from the following carbohydrates: [Note: option A is printed as \"Glactose\" in the source scan.]",
+   "q_ur": "درج ذیل کاربوہائیڈریٹس میں سے ڈائی سیکرائیڈ کی شناخت کریں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Glactose",
+     "ur": "گلیکٹوز"
+    },
+    {
+     "k": "B",
+     "en": "Fructose",
+     "ur": "فرکٹوز"
+    },
+    {
+     "k": "C",
+     "en": "Sucrose",
+     "ur": "سکروز"
+    },
+    {
+     "k": "D",
+     "en": "Glucose",
+     "ur": "گلوکوز"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version D",
+   "q_en": "1 Kilogram of water will occupy minimum space at:",
+   "q_ur": "ایک کلو گرام پانی کم سے کم جگہ کس درجہ حرارت پر گھیرے گا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "-4°C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4°C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0°C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "100°C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version D",
+   "q_en": "As altitude increases in the troposphere the temperature decreases from 17°C to about;",
+   "q_ur": "جیسے جیسے ٹروپوسفیئر میں اونچائی بڑھتی ہے تو درجہ حرارت 17°C سے کم ہو کر تقریباً ___ ہو جاتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "5°C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "55°C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-5°C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-55°C",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

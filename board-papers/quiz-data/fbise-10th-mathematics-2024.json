@@ -1,0 +1,850 @@
+{
+ "board": "FBISE Islamabad",
+ "board_slug": "fbise",
+ "class": "10th",
+ "subject": "Mathematics",
+ "year": 2024,
+ "slug": "fbise-10th-mathematics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Version B",
+   "q_en": "What is the solution set of √(x+3) = -5?",
+   "q_ur": "مساوات √(x+3) = -5 کا حل سیٹ کیا ہوگا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "φ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{-22}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{-28}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{75.4}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version B",
+   "q_en": "Roots of the equation x² - 5x + 5 = 0 are:",
+   "q_ur": "مساوات x² - 5x + 5 = 0 کے روٹس ______ ہوں گے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Irrational and unequal",
+     "ur": "غیر ناطق اور نا برابر"
+    },
+    {
+     "k": "B",
+     "en": "Imaginary and equal",
+     "ur": "غیر حقیقی اور برابر"
+    },
+    {
+     "k": "C",
+     "en": "Rational and equal",
+     "ur": "ناطق اور برابر"
+    },
+    {
+     "k": "D",
+     "en": "Rational and unequal",
+     "ur": "ناطق اور نا برابر"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version B",
+   "q_en": "For what value of x, x + 13 : x + 7 = 4 : 5?",
+   "q_ur": "x کی کیا قیمت کے لیے x + 13 : x + 7 = 4 : 5 ؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "37",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "17",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-37",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-17",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version B",
+   "q_en": "Partial fractions of (x+2)/((x+1)(x²+2)) are of the form:",
+   "q_ur": "درج ذیل میں کون سی قسم (x+2)/((x+1)(x²+2)) کے جزوی کسروں کے ہوں گے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "A/(x+1) + B/(x²+2)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A/(x+1) + (Bx+C)/(x²+2)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A/(x²+2) + (Bx+C)/(x+1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A/(x+1) + Bx/(x²+2)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version B",
+   "q_en": "Median of the given data 12,14,24,15,19 is:",
+   "q_ur": "درج شدہ میں سے کیا ڈیٹا کے میڈین ہے 12,14,24,15,19 کا میڈین ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "15",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "17",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "19",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "34",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version B",
+   "q_en": "What is the area of a circular sector having central angle π/3 and radius 3?",
+   "q_ur": "اگر قطعہ دائرہ کا مرکزی زاویہ π/3 اور رداس 3 ہو تو رقبہ کیا ہوگا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "π/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3π/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6π",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9π/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version B",
+   "q_en": "In a right triangle projection of perpendicular upon base is:",
+   "q_ur": "ایک قائمہ زاویہ مثلث میں قاعدہ پر عمود کا ظل کیا ہوگا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Base",
+     "ur": "قاعدہ"
+    },
+    {
+     "k": "B",
+     "en": "Perpendicular",
+     "ur": "عمود"
+    },
+    {
+     "k": "C",
+     "en": "Hypotenuse",
+     "ur": "وتر"
+    },
+    {
+     "k": "D",
+     "en": "Zero",
+     "ur": "صفر"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version B",
+   "q_en": "What is the length of chord AB intercepted at 4cm away from the centre of circle having radius 5cm. (A circle diagram showing chord AB, centre O, perpendicular OC = 4 and radius OA = 5 is printed in the source scan.)",
+   "q_ur": "اگر 5 سم رداس کے دائرہ کا وتر AB مرکز سے 4 سم کی دوری پر ہو تو اس کی لمبائی کیا ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "3cm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6cm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7cm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9cm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version B",
+   "q_en": "If two circles each of radius 5cm touch internally, the distance between their centres is:",
+   "q_ur": "اگر 5 سم رداس کے دو دائرے ایک دوسرے کے اندرونی طور پر مماس کریں تو مراکز کا درمیانی فاصلہ ہوگا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "0cm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5cm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10cm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "25cm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version B",
+   "q_en": "What is the diameter length of the drawn circle? (A circle diagram with two tangents drawn from an external point P is printed in the source scan.)",
+   "q_ur": "دائرے کے تقریبا قطر کیا ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√41",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version B",
+   "q_en": "If circular arc subtends a central angle 40°, then the corresponding chord subtends a central angle:",
+   "q_ur": "اگر دائرہ قوس کا مرکزی زاویہ 40° ہو تو متعلقہ وتر کا مرکزی زاویہ کتنی مقدار کا ہوگا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "20°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "40°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "80°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version B",
+   "q_en": "What is the value of x in the figure? (A circle diagram with inscribed angles, including a 232° arc and a 116° angle, is printed in the source scan.)",
+   "q_ur": "تصویری خاکہ میں x کی قیمت کیا ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "116°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "128°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "84°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "64°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Version B",
+   "q_en": "What is the radius of a circle inscribed in a square of side 4cm? (A square with an inscribed circle diagram is printed in the source scan.)",
+   "q_ur": "تصویری خاکہ میں محصور دائرہ کا رداس کیا ہوگا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "2cm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4cm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6cm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√8cm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Version B",
+   "q_en": "The shown Venn diagram represents a/an: (A mapping/Venn diagram is printed in the source scan.)",
+   "q_ur": "تصویری خاکہ (وین ڈایا گرام) کیا ظاہر کرتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "INTO function",
+     "ur": "ان ٹو تفاعل"
+    },
+    {
+     "k": "B",
+     "en": "Bijective function",
+     "ur": "بائی جیکٹو تفاعل"
+    },
+    {
+     "k": "C",
+     "en": "ONTO function",
+     "ur": "آن ٹو تفاعل"
+    },
+    {
+     "k": "D",
+     "en": "Not a function",
+     "ur": "تفاعل نہیں ہے"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Version B",
+   "q_en": "Simplified form of (7 + 5ω + 5ω²)² is:",
+   "q_ur": "(7 + 5ω + 5ω²)² کی مختصر ترین صورت کیا ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "12",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "49",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "144",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Version D",
+   "q_en": "What is the solution set of 2x² = 3x?",
+   "q_ur": "مساوات 2x² = 3x کا حل سیٹ کیا ہوگا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "{0, 3/2}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{2/3}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{1, 1/2}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{3/4}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version D",
+   "q_en": "Roots of an equation 7x² + 8x + 1 = 0 are:",
+   "q_ur": "مساوات 7x² + 8x + 1 = 0 کے روٹس ______ ہوں گے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Irrational and equal",
+     "ur": "غیر ناطق اور برابر"
+    },
+    {
+     "k": "B",
+     "en": "Rational and equal",
+     "ur": "ناطق اور برابر"
+    },
+    {
+     "k": "C",
+     "en": "Rational and unequal",
+     "ur": "ناطق اور نا برابر"
+    },
+    {
+     "k": "D",
+     "en": "Imaginary and unequal",
+     "ur": "غیر حقیقی اور نا برابر"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version D",
+   "q_en": "If 8x - 14y = 4x - 6y then value of x : y is:",
+   "q_ur": "اگر 8x - 14y = 4x - 6y ہو تو x : y کی قیمت کیا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "21:8",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2:1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1:2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1:5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version D",
+   "q_en": "Partial fractions of (x² + 4)/((x+1)(x+2)) are of the form:",
+   "q_ur": "درج ذیل میں کون سی قسم (x² + 4)/((x+1)(x+2)) کے جزوی کسروں کے ہوں گے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "A/(x+1) + B/(x+2)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1 + A/(x+1) + B/(x+2)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1 + A/(x+1) + (Bx+C)/(x+2)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(Ax+B)/(x+1) + C/(x+2)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version D",
+   "q_en": "The shown Venn diagram represents a/an: (A mapping/Venn diagram is printed in the source scan.)",
+   "q_ur": "تصویری خاکہ (وین ڈایا گرام) کیا ظاہر کرتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "INTO function",
+     "ur": "ان ٹو تفاعل"
+    },
+    {
+     "k": "B",
+     "en": "Bijective function",
+     "ur": "بائی جیکٹو تفاعل"
+    },
+    {
+     "k": "C",
+     "en": "ONTO function",
+     "ur": "آن ٹو تفاعل"
+    },
+    {
+     "k": "D",
+     "en": "Not a function",
+     "ur": "تفاعل نہیں ہے"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version D",
+   "q_en": "If α, β are the roots of 2x² - 6x - 4 = 0 then value of α²β³ + α³β² is:",
+   "q_ur": "اگر α, β مساوات 2x² - 6x - 4 = 0 کے روٹس ہوں تو α²β³ + α³β² کی قیمت کیا ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "-12",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "12",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version D",
+   "q_en": "What is the Harmonic mean of 2, 4?",
+   "q_ur": "2,4 کی ہم آہنگ اوسط کیا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "3/8",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "√8",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8/3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version D",
+   "q_en": "What is the evaluated value of (1/2) Sec 45°?",
+   "q_ur": "درج شدہ قیمت (1/2) Sec 45° کی قیمت کیا ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/√2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2/√2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/(2√2)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4/√2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version D",
+   "q_en": "In a right triangle projection of hypotenuse on the base is:",
+   "q_ur": "ایک قائمہ زاویہ مثلث میں وتر کا ظل قاعدہ پر کیا ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hypotenuse",
+     "ur": "وتر"
+    },
+    {
+     "k": "B",
+     "en": "Base",
+     "ur": "قاعدہ"
+    },
+    {
+     "k": "C",
+     "en": "Perpendicular",
+     "ur": "عمود"
+    },
+    {
+     "k": "D",
+     "en": "Zero",
+     "ur": "صفر"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version D",
+   "q_en": "If two circles each of radius 3cm touch externally, the distance between their centres is:",
+   "q_ur": "اگر 3 سم رداس کے دو دائرے ایک دوسرے کو بیرونی طور پر مس کریں تو دائروں کے مراکز میں کتنا فاصلہ ہوگا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "0cm",
+     "ur": "صفر سم"
+    },
+    {
+     "k": "B",
+     "en": "3cm",
+     "ur": "3 سم"
+    },
+    {
+     "k": "C",
+     "en": "6cm",
+     "ur": "6 سم"
+    },
+    {
+     "k": "D",
+     "en": "9cm",
+     "ur": "9 سم"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version D",
+   "q_en": "What is the radius of the drawn circle if mAB = 8cm? (A circle diagram with chords AB and CD, centre O, is printed in the source scan.)",
+   "q_ur": "تصویری خاکہ میں اگر mAB = 8cm ہو تو دائرہ کا رداس کتنا ہوگا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "3cm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4cm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5cm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6cm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version D",
+   "q_en": "What is the length of the tangent AP to the circle having diameter 6cm? (A circle diagram with external point P, OP = 5 and radius OA = 3, is printed in the source scan.)",
+   "q_ur": "تصویری خاکہ میں دائرے کے مماس AP کی لمبائی کیا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "4cm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "√34cm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "34cm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "16cm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Version D",
+   "q_en": "If an arc subtends central angle 60°, then its corresponding chord subtends central angle:",
+   "q_ur": "اگر دائرہ قوس کا مرکزی زاویہ 60° ہو تو متعلقہ وتر کا مرکزی زاویہ کتنا ہوگا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "20°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "40°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "80°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Version D",
+   "q_en": "What is the value of x in the figure drawn? (A cyclic-quadrilateral circle diagram with a 260° reflex angle and a 100° angle is printed in the source scan.)",
+   "q_ur": "تصویری خاکہ میں x کی قیمت کیا ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "50°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "130°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "200°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "260°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Version D",
+   "q_en": "What is the length of diagonal of a square of side 6cm inscribed in the circle? (A square ABCD inscribed in a circle with diagonal DB is printed in the source scan.)",
+   "q_ur": "ایک دائرے میں 6cm کے محصور مربع کے وتر کی لمبائی ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "4cm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6√2cm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "12cm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "72cm",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,486 @@
+{
+ "board": "FBISE",
+ "board_slug": "fbise",
+ "class": "11th",
+ "subject": "Physics",
+ "year": 2022,
+ "slug": "fbise-11th-physics-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Version D",
+   "q_en": "Which of the following pairs has same dimension?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Pressure, Density",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Impulse, Momentum",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Stress, Strain",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Momentum, Inertia",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version D",
+   "q_en": "The number of significant figures in 0.000125010 are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version D",
+   "q_en": "Two forces of magnitudes F₁ and F₂ acting at right angle to each other have the resultant of the magnitude:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(F₁+F₂)/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "F₁²+F₂²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√(F₁²+F₂²)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(F₁²+F₂²)/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version D",
+   "q_en": "The distance covered by a body in time t, starting from rest is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "at²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2at²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a²t",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "½at²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version D",
+   "q_en": "The horizontal range of projectile is same for the angles:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "30° and 40°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "40° and 50°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "60° and 70°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "80° and 90°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version D",
+   "q_en": "A ball of mass 100g is thrown vertically upward at a speed of 25ms⁻¹. If no energy is lost, determine the height it would reach. (Loss in K.E=Gain in P.E)",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "31.9m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.28m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "63.78m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "321.5m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version D",
+   "q_en": "The mass of a body is m, its speed is v and K.E is E. When mass is doubled and its speed is reduced to half, then K.E will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2E",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "E/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4E",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "E/4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version D",
+   "q_en": "The angular displacement of one radian is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "47.3°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "57.3°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "67.3°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "77.3°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version D",
+   "q_en": "The ratio of the linear velocities of the points at distances r and r/4 from the axis of rotation of a rigid body is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.25",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version D",
+   "q_en": "Two rain drops have radii in the ratio 2:3. The ratio between their terminal velocities will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2:3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3:2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4:9",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9:4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version D",
+   "q_en": "The length of a second pendulum is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "70cm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "80cm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "90cm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "100cm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version D",
+   "q_en": "When amplitude of a wave becomes double, its energy becomes:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2 times",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "½ times",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4 times",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "¼ times",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Version D",
+   "q_en": "According to Laplace correction, sound travels in air under the condition of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Isothermal process",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Adiabatic process",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Isochoric process",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Isobaric process",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Version D",
+   "q_en": "The velocity of sound in air would become double to its velocity at 0°C at temperature:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "313°C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "586°C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "819°C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1172°C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Version D",
+   "q_en": "Fringe spacing =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Lλ/D",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Dλ/L",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "λ/(DL)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "L/(λD)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Version D",
+   "q_en": "According to first law of thermodynamics, Which one is correct?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cp+Cv = R",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cp = 1+R/Cv",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "R = Cv/Cp",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cp = R+Cv",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Version D",
+   "q_en": "A Carnot engine works between ice point and steam point. Its efficiency will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "26.81%",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "53.36%",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "62.46%",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "71.23%",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

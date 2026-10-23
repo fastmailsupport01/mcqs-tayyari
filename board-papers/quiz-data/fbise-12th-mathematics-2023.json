@@ -1,0 +1,1130 @@
+{
+ "board": "FBISE",
+ "board_slug": "fbise",
+ "class": "12th",
+ "subject": "Mathematics",
+ "year": 2023,
+ "slug": "fbise-12th-mathematics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Version B",
+   "q_en": "For what value of a the vectors 2i+4j−5k and −4i−8j+ak are parallel?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−10",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−8",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version B",
+   "q_en": "What is the value of f(−1) if f⁻¹(x) = (8−x)/2?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "7/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version B",
+   "q_en": "What is the value of lim(x→0) (1−cos x)/x²?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version B",
+   "q_en": "Which of the following is equal to y₂ if xy = 2?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−4/x³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2/x³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−2/x³",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4/x³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version B",
+   "q_en": "What is the value of d/dx [fog(x)] if f(x)=eˣ and g(x)=sin x?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "cos x e^(sin x)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "sin(eˣ)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "cos(eˣ)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "e^(sin x)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version B",
+   "q_en": "Which of the following is the derivative of xˣ w.r.t. x?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "xˣ/(1+ln x)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "xˣ ln x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "xˣ(1+ln x)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "xˣ/ln x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version B",
+   "q_en": "The derivative of odd function is always?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Both even and odd function",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "An even function",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "An odd function",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Neither even nor odd function",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version B",
+   "q_en": "Which of the following is equal to ∫(Cosec²x−1)dx?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−cot x+x+C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "cot x−x+C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−cot x−x+C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "cot x+x+C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version B",
+   "q_en": "For what value of x the function f(x)=x²−3x+7 has a critical point?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−2/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−3/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2/3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version B",
+   "q_en": "If ∫(a to π/4) Cos 2x dx = 1/2 then what should be the value of a?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π/3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−π/4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version B",
+   "q_en": "Which of the following is the evaluation of ∫ eˣ/(eˣ−3) dx?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(eˣ−3)⁻²+C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ln(eˣ)+C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ln(eˣ−3)+C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "eˣ ln(eˣ−3)+C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version B",
+   "q_en": "The slope and y−intercept of the line 2x+y−3=0 are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Slope=−2, y-intercept=−3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Slope=2, y-intercept=3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Slope=2, y-intercept=−3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Slope=−2, y-intercept=3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Version B",
+   "q_en": "Perpendicular distance of the line x+2y+4=0 from the point (1,0) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Version B",
+   "q_en": "If line l₁ is making angle 45° with x-axis and line l₂ is perpendicular to y-axis then the angle between l₁ and l₂ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π/3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Version B",
+   "q_en": "Which one is the solution of inequality −20>−2x?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10>x>2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10<x<+∞",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10>x>−∞",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−10>x>−∞",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Version B",
+   "q_en": "If y²−y=Sin x then which one is equal to dy/dx?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "sin x/(1−2y)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "cos x/(2y−1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "cos x/(1−2y)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "sin x/(2y−1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Version B",
+   "q_en": "What is the length of latus rectum of parabola (x+1)²=8y+8?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/8",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Version B",
+   "q_en": "What is the centre of ellipse (2x+1)/9 + (y−1)/5 =1?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(1/2,−1)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(1,−1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(−1,1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(−1/2,1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Version B",
+   "q_en": "If θ is the angle between two vectors a and b, and sin θ=1/2, |a|=|b|=√2 then what is the value of |a×b|?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Version B",
+   "q_en": "When a force F=3i+2j−4k is applied to an object a displacement d=4i+αj+4k occurred. For what value of α work done would be 6 units?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "9",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "7",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Version D",
+   "q_en": "What is the value of f(−4) if f⁻¹(x) = (1−x)/2?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−3/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "9",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−7",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version D",
+   "q_en": "If the distance (x) travelled by a car in time (t) is given by x=2t³−24 ln(t+1). What will be the velocity of the car for t=5? (Velocity=dx/dt)",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "128",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "134",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "140",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "146",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version D",
+   "q_en": "What is the value of lim(x→0) (x sin x)?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "∞",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version D",
+   "q_en": "What is the value of d/dx(gof(x)) if f(x)=sin x and g(x)=ln x?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "sin(ln x)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "tan x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "cot x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ln(sin x)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version D",
+   "q_en": "If y=ln√tan x then what is the value of dy/dx at x=π/4?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "∞",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version D",
+   "q_en": "If y=(1−x²)(1+x²) then what is the value of dy/dx?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version D",
+   "q_en": "Which of the following is the evaluation of ∫(Sec²x−1)dx?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "tan x+x+C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "tan x−x+C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−tan x+x+C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−tan x−x+C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version D",
+   "q_en": "For which of the following intervals functions f(x)=2x²−8x+4 is increasing.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(−∞,2]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[0,+∞)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[2,+∞)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[0,2]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version D",
+   "q_en": "If ∫(−π/2 to a) Cos x dx = 2 then what should be the value of a?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−π/3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version D",
+   "q_en": "Which of the following is the evaluation of ∫ eˣ/(eˣ+2) dx?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ln(eˣ+2)+C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ln(eˣ−2)+C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x−2e⁻ˣ+C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x+2e⁻ˣ+C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version D",
+   "q_en": "The x−intercept and y−intercept of the line 3x−y+6=0 are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x-intercept=2, y-intercept=−6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x-intercept=−2, y-intercept=−6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x-intercept=−2, y-intercept=6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x-intercept=2, y-intercept=6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version D",
+   "q_en": "For what value of k the distance from the point (0,1) to line 3x−4y+k=0 is 3?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "15",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−19",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "19",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "11",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Version D",
+   "q_en": "If the slope of line l₁ is 2 and it makes angle 45° with line l₂. What is the slope of line l₂? (Tan θ=(m₂−m₁)/(1+m₁m₂))",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−1/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Version D",
+   "q_en": "For which of the following inequalities, (3,3) is NOT the solution?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x+y>2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3x+5y<7",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3x+5y>7",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3x−7y<3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Version D",
+   "q_en": "Which of the following is the slope of normal to curve x²−y²−12=0 at P(4,2)?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−1/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Version D",
+   "q_en": "What are the vertices of an ellipse with equation x²/a²+y²/b²=1?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(±a,0)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(0,±a)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(±b,0)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(±c,0)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Version D",
+   "q_en": "Eccentricity of an ellipse 'e' is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "e>1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "e<1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "e=0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "e=1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Version D",
+   "q_en": "If |a|=|b|=√2 and |a×b|=2 then what is the angle between a and b?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π/3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Version D",
+   "q_en": "A displacement d=−i+3j+8k occurred when a constant force F=αi+3j+5k is applied to an object. If the work done is 45, then what would be the value of α?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Version D",
+   "q_en": "What is the volume of a tetrahedron determined by the vectors i, 2j and 3k?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2/3",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

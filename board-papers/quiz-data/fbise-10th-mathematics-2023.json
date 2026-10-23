@@ -1,0 +1,1270 @@
+{
+ "board": "FBISE Islamabad",
+ "board_slug": "fbise",
+ "class": "10th",
+ "subject": "Mathematics",
+ "year": 2023,
+ "slug": "fbise-10th-mathematics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Version B",
+   "q_en": "If x² - 1/9 = 0 then the solution set is:",
+   "q_ur": "اگر x² - 1/9 = 0 ہو تو اس کا حل سیٹ کیا ہوگا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-1/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{±1/3}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{±3}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version B",
+   "q_en": "The discriminant of x² - x - 1 = 0 is:",
+   "q_ur": "x² - x - 1 = 0 کا ڈسکریمیننٹ کیا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "√5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "±√5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "±5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version B",
+   "q_en": "ω⁹⁹ = ___",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ω",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ω²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version B",
+   "q_en": "If 3n:4m = 3p:4q then alternendo property is:",
+   "q_ur": "اگر 3n:4m = 3p:4q ہو تو متبادل ابدال نسبت ___ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "3n/3p = 4m/4q",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4m/3n = 4q/3p",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3p/3n = 4q/4m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(3n+4m)/4m = (3p+4q)/4q",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version B",
+   "q_en": "If α,β are roots of 3x² - 5x - 2 = 0 then product of roots is:",
+   "q_ur": "اگر α, β مساوات 3x² - 5x - 2 = 0 کے روٹس ہوں تو ان کا حاصل ضرب کیا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "2/3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-2/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-3/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version B",
+   "q_en": "In (2x+1) = A(x-1) + B(x-2) the value of A is:",
+   "q_ur": "(2x+1) = A(x-1) + B(x-2) میں A کی قیمت کیا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version B",
+   "q_en": "Which type of function is shown in given figure? (A diagram is printed in the source scan: two ovals labeled A = {a, b, c} and B = {x, y, z}, with arrows a→x, b→y, c→z.)",
+   "q_ur": "درج شدہ شکل کس تفاعل کی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Not a function",
+     "ur": "تفاعل نہیں ہے"
+    },
+    {
+     "k": "B",
+     "en": "Bijective function",
+     "ur": "بائی جیکٹو تفاعل"
+    },
+    {
+     "k": "C",
+     "en": "Injective function",
+     "ur": "ان جیکٹو تفاعل"
+    },
+    {
+     "k": "D",
+     "en": "Surjective function",
+     "ur": "سرجیکٹو تفاعل"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version B",
+   "q_en": "If Σx² = 32688, Σx = 568, n = 10 then standard deviation is:",
+   "q_ur": "اگر Σx² = 32688, Σx = 568, n = 10 ہو تو معیاری انحراف ___ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "6.36",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6.6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6.44",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6.52",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version B",
+   "q_en": "If A ⊂ B then A ∪ B = ___",
+   "q_ur": "اگر A ⊂ B ہو تو A ∪ B = ___",
+   "options": [
+    {
+     "k": "A",
+     "en": "A",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "B",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "φ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "U",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version B",
+   "q_en": "In which quadrant only tanθ and cotθ are positive?",
+   "q_ur": "کس کواڈرنٹ میں صرف tanθ اور cotθ مثبت ہوتے ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "I",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "II",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "III",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "IV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version B",
+   "q_en": "In the figure, the length of chord AB is: (A diagram is printed in the source scan: a circle with centre O, chord AB, D the foot of the perpendicular from O to AB with OD = 4cm, and radius OA = 5cm.)",
+   "q_ur": "دی گئی شکل میں وتر AB کی لمبائی کتنی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "4cm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "9cm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7cm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6cm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version B",
+   "q_en": "If a,b,c are sides of a triangle with c > a, c > b and c² > a² + b² then it is ___ triangle.",
+   "q_ur": "اگر a,b,c ایک مثلث کے بازو ہوں جبکہ c > a, c > b اور c² > a² + b² تو یہ ایک ___ مثلث ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Acute angled",
+     "ur": "حادہ زاویہ"
+    },
+    {
+     "k": "B",
+     "en": "Obtuse angled",
+     "ur": "منفرجہ زاویہ"
+    },
+    {
+     "k": "C",
+     "en": "Right angled",
+     "ur": "قائمۃ الزاویہ"
+    },
+    {
+     "k": "D",
+     "en": "Equilateral",
+     "ur": "مساوی الاضلاع"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Version B",
+   "q_en": "Two tangents drawn to a circle from a point outside it are:",
+   "q_ur": "کسی بیرونی نقطے سے دائرے کے دو مماس ___ ہوتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Parallel",
+     "ur": "متوازی"
+    },
+    {
+     "k": "B",
+     "en": "Equal in length",
+     "ur": "لمبائی میں برابر"
+    },
+    {
+     "k": "C",
+     "en": "Not equal in length",
+     "ur": "لمبائی میں مختلف"
+    },
+    {
+     "k": "D",
+     "en": "Perpendicular to diameter",
+     "ur": "دائرے کے قطر پر عمود"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Version B",
+   "q_en": "A 4cm long chord subtends a central angle of 60°. The radial segment of this circle is: (A diagram is printed in the source scan: a circle with a sector of 60° at centre O and chord 4cm.)",
+   "q_ur": "ایک 4cm لمبی وتر دائرے کے مرکز پر 60° کا زاویہ بناتا ہے۔ تو دائرے کا رداس ___ ہوگا۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1cm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2cm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3cm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4cm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Version B",
+   "q_en": "In the figure, O is centre of circle, then the angle x is: (A diagram is printed in the source scan: a circle with centre O, central angle AOB = 110°, and angle x at the circumference.)",
+   "q_ur": "شکل میں O دائرے کا مرکز ہے تو زاویہ x کتنا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "55°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "110°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "220°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "125°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Version D",
+   "q_en": "The solution set of 81x² - 1 = 0 is:",
+   "q_ur": "81x² - 1 = 0 کا حل سیٹ کیا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "{±1/9}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{±1/3}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/9",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version D",
+   "q_en": "The discriminant of ax² - bx - c = 0 is:",
+   "q_ur": "ax² - bx - c = 0 کا ڈسکریمیننٹ کیا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "b² - 4ac",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "√(b² - 4ac)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "b² + 4ac",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√(b² + 4ac)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version D",
+   "q_en": "If α, β are roots of 3x² - 5x - 2 = 0 then sum of roots is:",
+   "q_ur": "اگر α, β مساوات 3x² - 5x - 2 = 0 کے روٹس ہوں تو ان کا مجموعہ کیا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "5/3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3/5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-5/3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-3/5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version D",
+   "q_en": "If a:b = x:y then invertendo property is:",
+   "q_ur": "اگر a:b = x:y ہو تو انورٹیندو نسبت ___ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "a:x = b:y",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "b:x = a:y",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "b:a = y:x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a:y = b:x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version D",
+   "q_en": "Partial fractions of (x+2)/((x+1)(x²+2)) are of the form",
+   "q_ur": "(x+2)/((x+1)(x²+2)) کی جزوی کسر ___ قسم کی ہوتی ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "A/(x+1) + B/(x²+2)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A/(x+1) + (Bx+c)/(x²+2)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A/(x+1) + Bx/(x²+2)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ax/(x+1) + B/(x²+2)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version D",
+   "q_en": "Which type of function is shown in given figure? (A diagram is printed in the source scan: two ovals labeled X = {1, 2} and Y = {a, b, c}, with arrows 1→a, 2→b.)",
+   "q_ur": "درج شدہ شکل کس تفاعل کی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Not a function",
+     "ur": "تفاعل نہیں ہے"
+    },
+    {
+     "k": "B",
+     "en": "Bijective function",
+     "ur": "بائی جیکٹو تفاعل"
+    },
+    {
+     "k": "C",
+     "en": "Injective function",
+     "ur": "ان جیکٹو تفاعل"
+    },
+    {
+     "k": "D",
+     "en": "Surjective function",
+     "ur": "سرجیکٹو تفاعل"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version D",
+   "q_en": "If Σx² = 32688, Σx = 568, n = 10 then variance is:",
+   "q_ur": "اگر Σx² = 32688, Σx = 568, n = 10 ہو تو تغیر ___ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "40.56",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "43.56",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "41.56",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "42.56",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version D",
+   "q_en": "If A ⊂ B then A ∩ B = ___",
+   "q_ur": "اگر A ⊂ B ہو تو A ∩ B = ___",
+   "options": [
+    {
+     "k": "A",
+     "en": "A",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "B",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "φ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "μ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version D",
+   "q_en": "ω⁻¹² = ___",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ω",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ω²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version D",
+   "q_en": "If a,b,c are sides of a triangle with c > a, c > b and c² < a² + b² then it is ___ triangle.",
+   "q_ur": "اگر a,b,c ایک مثلث کے بازو ہوں جبکہ c > a, c > b اور c² < a² + b² ہو تو یہ ایک ___ مثلث ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Acute angled",
+     "ur": "حادہ زاویہ"
+    },
+    {
+     "k": "B",
+     "en": "Obtuse angled",
+     "ur": "منفرجہ زاویہ"
+    },
+    {
+     "k": "C",
+     "en": "Right angled",
+     "ur": "قائمۃ الزاویہ"
+    },
+    {
+     "k": "D",
+     "en": "Equilateral",
+     "ur": "مساوی الاضلاع"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version D",
+   "q_en": "If tanθ = 3/4 and θ lies in III quadrant, then sinθ =",
+   "q_ur": "اگر tanθ = 3/4 اور θ تیسرے کواڈرنٹ میں ہو تو sinθ = ?",
+   "options": [
+    {
+     "k": "A",
+     "en": "3/5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-3/5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5/3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-5/3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version D",
+   "q_en": "In the figure, the length of chord AB is: (A diagram is printed in the source scan: a circle with centre O, chord AB, D the foot of the perpendicular from O to AB with OD = 4cm, and radius OA = 5cm.)",
+   "q_ur": "دی گئی شکل میں AB کی لمبائی ___ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "4cm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "9cm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7cm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6cm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Version D",
+   "q_en": "The semi circumference and the diameter of circle both subtend a central angle of:",
+   "q_ur": "دائرے کے نصف محیط اور قطر (ڈائیامیٹر) کا مرکزی زاویہ ___ ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "180°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "270°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "360°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Version D",
+   "q_en": "The measure of the external angle of a regular hexagon is:",
+   "q_ur": "ایک مسدس کے بیرونی زاویے کی مقدار ___ ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "π/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π/6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Version D",
+   "q_en": "In the figure, O is the centre of the circle then angle x is: (A diagram is printed in the source scan: a triangle with vertex O at the bottom showing 60°, and angle x at the left vertex.)",
+   "q_ur": "شکل میں O دائرے کا مرکز ہے تو زاویہ x کتنا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "15°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "30°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "60°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Version SP",
+   "q_en": "The equation ax² + bx + c = 0 will be pure quadratic equation if:",
+   "q_ur": "مساوات ax² + bx + c = 0 دو درجی (خالص) مساوات ہوگی اگر:",
+   "options": [
+    {
+     "k": "A",
+     "en": "a = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "b = 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "c = 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x = 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version SP",
+   "q_en": "What is the sum of all the cube roots of unity?",
+   "q_ur": "اکائی کے تمام مکعب جزر کا مجموعہ ___ کے برابر ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "ω²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ω",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version SP",
+   "q_en": "If 1+i and 1-i are the roots of quadratic equation then the quadratic equation is:",
+   "q_ur": "اگر کسی دو درجی مساوات کے روٹس 1+i اور 1-i ہوں تو یہ مساوات کیا ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "x² - 3x + 3 = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x² + 3x - 3 = 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x² - 2x + 2 = 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x² + 2x - 2 = 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version SP",
+   "q_en": "Roots of the equation 9x² + 6x + 2 = 0 are:",
+   "q_ur": "مساوات 9x² + 6x + 2 = 0 کے روٹس ___ ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Real and equal",
+     "ur": "حقیقی اور مساوی"
+    },
+    {
+     "k": "B",
+     "en": "Real and unequal",
+     "ur": "حقیقی اور غیر مساوی"
+    },
+    {
+     "k": "C",
+     "en": "Imaginary",
+     "ur": "خیالی یا غیر حقیقی"
+    },
+    {
+     "k": "D",
+     "en": "Irrational",
+     "ur": "غیر ناطق"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version SP",
+   "q_en": "If 3(4x - 5y) = 2x - 7y then the ratio x:y is equal to:",
+   "q_ur": "اگر 3(4x-5y) = 2x-7y ہو تو نسبت x:y ___ کے برابر ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "4:5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5:4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10:8",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8:10",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version SP",
+   "q_en": "Which one of the following are partial fractions of (x-5)/((x+2)(x²+2x-3))?",
+   "q_ur": "(x-5)/((x+2)(x²+2x-3)) کے لیے درج شدہ میں سے صحیح جزوی کسر کون سی ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "A/(x+2) + (Bx+C)/(x²+2x-3)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1 + A/(x+2) + (Bx+C)/(x²+2x-3)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ax/(x+2) + Bx/(x-1) + Cx/(x-1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A/(x+2) + B/(x-1) + C/(x+3)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version SP",
+   "q_en": "Which of the following expressions shows the shaded region? (A Venn diagram is printed in the source scan: universal set U with overlapping sets A and B, the non-overlapping part of B shaded.)",
+   "q_ur": "دی گئی شکل میں انٹی نشانی ظاہر والے کے لیے کون سی ایکسپریشن درست ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "A ∩ B'",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "B ∩ A'",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A ∪ B'",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "B ∪ A'",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version SP",
+   "q_en": "If X̄ = 7, Σf = 30 and Σfx = 120 + 3K then value of \"K\" is:",
+   "q_ur": "اگر X̄ = 7، Σf = 30، Σfx = 120 + 3K ہو تو \"K\" کی قیمت کیا ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "-30",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "+30",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-11",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "11",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version SP",
+   "q_en": "What is the length of the arc RST? (A diagram is printed in the source scan: a circle with centre O, OT = 10cm, right angle at O between OR and OT, arc RST marked.)",
+   "q_ur": "دی گئی شکل میں قوس RST کی لمبائی کیا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "5πcm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10πcm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "900cm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "450cm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version SP",
+   "q_en": "What is the length of chord AB in the given figure? (A diagram is printed in the source scan: a circle with centre O, perpendicular from O to chord AB, OB = 5, distance 3.)",
+   "q_ur": "دی گئی شکل میں وتر AB کی لمبائی کیا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "AB = 3cm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "AB = 4cm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "AB = 8cm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "AB = 6cm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version SP",
+   "q_en": "In the figure if mOA = 2π then the area of semicircular region is: (A diagram is printed in the source scan: a semicircle with diameter AB = 2π and centre O.)",
+   "q_ur": "دی گئی شکل میں اگر mOA = 2π ہو تو نصف دائرہ کا رقبہ کیا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "4π²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2/π",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4π",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2π³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version SP",
+   "q_en": "In the given figure: \"O\" is the centre. What is the value of angle m∠QRT? (A diagram is printed in the source scan: a circle with points P, Q, R, T and a central angle of 80°.)",
+   "q_ur": "دی گئی شکل میں \"O\" دائرے کا مرکز ہے۔ زاویہ m∠QRT کی مقدار کیا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "140°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "100°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "40°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Version SP",
+   "q_en": "A circle passes through the vertices of a right angled triangle ΔABC, with mAC = 3cm, mBC = 4cm and m∠C = 90°, then radius of this circle is:",
+   "q_ur": "کسی قائمۃ الزاویہ مثلث ΔABC جس میں mAC = 3cm, mBC = 4cm اور m∠C = 90° ہو اس مثلث کے گرد دائرے کا رداس ___ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.5cm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5.5cm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2.5cm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3.5cm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Version SP",
+   "q_en": "What is the radius of the circle if mAB = 10cm and mAD = 2cm? (A diagram is printed in the source scan: a horizontal line with points A, B, D, S and a circle above it.)",
+   "q_ur": "اگر mAB = 10cm اور mAD = 2cm ہو تو دائرے کے رداس کی لمبائی کیا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "24cm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "14cm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4cm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "40cm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Version SP",
+   "q_en": "The triangle with lengths of its sides 8cm, 17cm and 15cm is:",
+   "q_ur": "ایک مثلث جس کے اضلاع کی لمبائیاں 8cm, 17cm اور 15cm ہوں وہ ___ مثلث ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Acute",
+     "ur": "حادہ زاویہ"
+    },
+    {
+     "k": "B",
+     "en": "Scalene",
+     "ur": "مختلف الاضلاع"
+    },
+    {
+     "k": "C",
+     "en": "Obtuse",
+     "ur": "منفرجہ زاویہ"
+    },
+    {
+     "k": "D",
+     "en": "Isosceles",
+     "ur": "مساوی الساقین"
+    }
+   ]
+  }
+ ]
+}

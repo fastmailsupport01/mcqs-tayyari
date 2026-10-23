@@ -1,0 +1,738 @@
+{
+ "board": "FBISE Islamabad",
+ "board_slug": "fbise",
+ "class": "11th",
+ "subject": "Computer Science",
+ "year": 2025,
+ "slug": "fbise-11th-computer-science-2025",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Version B",
+   "q_en": "Which gate produces a HIGH output when at least one input is LOW?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "AND gate",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NAND gate",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "OR gate",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NOR gate",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version B",
+   "q_en": "What is an efficient way to organize a collection of photos on your computer?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Naming them in random order",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Grouping them by date or event",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Deleting some photos randomly",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Printing all photos and shuffling them",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version B",
+   "q_en": "Which of the following represents a reliable source of information?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A peer-reviewed academic journal",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A social media post without citation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A personal blog with no evidence",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A random website with advertisements",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version B",
+   "q_en": "What is the main objective of classification in Supervised learning?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "To group data into clusters without labels",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "To predict continuous values",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "To reduce the dimensions of data",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "To assign predefined labels to input data",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version B",
+   "q_en": "Which type of cloud deployment model is most suitable for organizations with strict regulatory requirements?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Private cloud",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Public cloud",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Hybrid cloud",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Community cloud",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version B",
+   "q_en": "Consider the list, P= [2, 5, 3, 4], what will the statement print (max(P)) return?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Error in statement",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version B",
+   "q_en": "What is the primary goal of abstraction in computational thinking?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Writing detailed step–by–step instructions for solving a problem",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Using a computer to solve mathematical equations",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Repeating a process until a solution is found",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ignoring unnecessary details to focus on the important aspects of problem",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version B",
+   "q_en": "Which type of feasibility study in SDLC involves evaluating whether the proposed system can be developed with available technology?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Legal feasibility",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Schedule feasibility",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Technical feasibility",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Economic feasibility",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version B",
+   "q_en": "Which of the following is an example of open-ended research question?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "How many students use mobile phones in a class?",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Does exercise reduce stress?",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "What are the effects of climate change on agriculture?",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Is online education better than traditional education?",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version B",
+   "q_en": "Which of the following can be classified as a high-fidelity prototype?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A detailed mobile app demo with clickable buttons",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A hand-drawn wireframe of a website",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A basic outline of an app on paper",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A simple text document describing the app features",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version B",
+   "q_en": "What is the main advantage of using a simulation instead of real-world testing?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Always gives perfect results",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Risk-free and cost-effective",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Eliminates the need for real-world experience",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Requires no computer programming",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version B",
+   "q_en": "What will be the result of x=2 | 4 Python statement?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Version B",
+   "q_en": "Which of the following is an example of a service?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "e-book",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Laptop",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Medical consultation",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Pre-packaged food items",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Version D",
+   "q_en": "Which gate produces a LOW output when at least one input is HIGH?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "AND gate",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NAND gate",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NOR gate",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "OR gate",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version D",
+   "q_en": "What is an efficient algorithm for finding a specific book in a large library?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Asking other visitors for help",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Using the catalog system to find its location",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Randomly pulling out books from the shelves",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Browsing without a plan",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version D",
+   "q_en": "Which of the following represents a reliable source of information?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A personal blog with no evidence",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A social media post without citation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A peer-reviewed academic journal",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A random website with advertisements",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version D",
+   "q_en": "K-means clustering is an example of the following statistical modelling technique:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Supervised learning",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Semi-supervised learning",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Reinforcement learning",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Unsupervised learning",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version D",
+   "q_en": "The key advantage of using a private cloud is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Higher security and control over data",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Lower cost compared to public cloud",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Accessible to the public",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Reduced need for IT infrastructure",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version D",
+   "q_en": "Consider the list, A= [10, 20, 30, 40], what will the statement print (len(A)) return?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "40",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Error in statement",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version D",
+   "q_en": "What does decomposition mean in computational thinking?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Combining smaller problems into a larger solution",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ignoring the problem until it resolves itself",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Writing code without any structure",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Breaking a problem into smaller, more manageable parts",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version D",
+   "q_en": "Which type of feasibility study in SDLC assesses whether the proposed system can be completed within a given timeframe?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Legal feasibility",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Schedule feasibility",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Technical feasibility",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Operational feasibility",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version D",
+   "q_en": "Which of the following is an example of a typical survey question?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Solve 5x7=?",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "What is the capital of China?",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "How many hours do you spend on the internet daily?",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "What is the boiling point of water?",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version D",
+   "q_en": "Which of the following can be classified as a low-fidelity prototype?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A wireframe sketch on paper",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A fully functional mobile app",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A high-resolution mock up with animations",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A completed website with backend functionality",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version D",
+   "q_en": "Which of the following is a characteristic of qualitative interviews?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "They have only one-word answers",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "They focus on open-ended questions",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "They only collect numerical data",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "They follow a strict set of yes/no questions",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version D",
+   "q_en": "What will be the result of x = 5 & 3 Python statement?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "7",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Version D",
+   "q_en": "Which of the following is an example of a product?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Online banking",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Car repair",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mobile phone",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Medical consultation",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

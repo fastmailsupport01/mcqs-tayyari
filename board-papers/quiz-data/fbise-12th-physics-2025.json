@@ -1,0 +1,962 @@
+{
+ "board": "FBISE Islamabad",
+ "board_slug": "fbise",
+ "class": "12th",
+ "subject": "Physics",
+ "year": 2025,
+ "slug": "fbise-12th-physics-2025",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Version B",
+   "q_en": "Which of the following CANNOT be accelerated using electric field?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Proton",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ion",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Electron",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Neutron",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version B",
+   "q_en": "According to Quantum theory, increasing the brightness of a beam of light without changing the color will increase:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "The speed of photons",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "The frequency of photons",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "The number of photons",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "The energy of each photon",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version B",
+   "q_en": "Primary function of transformer is to change:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "The direction of alternating current",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "The level of alternating voltage",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Alternating current into direct current",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mechanical energy into heat energy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version B",
+   "q_en": "A forward biased PN Junction offers:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Very high resistance",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Very low resistance",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Infinite resistance",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero resistance",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version B",
+   "q_en": "Which is NOT the characteristic of LASER?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Intense",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Multi-directional",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Monochromatic",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Coherent",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version B",
+   "q_en": "The resulting nucleus in given reaction is: _0^1n + ^(137)_(56)Ba --> _____ + γ",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "^(136)_(56)Ba",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "^(138)_(57)La",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "^(138)_(56)Ba",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "^(138)_(55)Cs",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version B",
+   "q_en": "Compton effect proves the:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Particle nature of radiations",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Wave nature of particle",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Wave nature of radiations",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Dual nature of particle",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version B",
+   "q_en": "Which is an application of Mutual Induction?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "AC generator",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Transformer",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Radio choke",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "DC generator",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version B",
+   "q_en": "The temperature at which a ferromagnetic material becomes paramagnetic is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Neutral Point",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Absolute Point",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Inflection Point",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Curie Point",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version B",
+   "q_en": "SI unit of capacitive reactance is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ohm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Mho",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Farad",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Henry",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version B",
+   "q_en": "In which of the following conditions, the galvanometer shows zero deflection? (A Wheatstone-bridge circuit diagram is printed in the source scan.)",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "V(B) = V(D)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "V(B) < V(D)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "V(B) > V(D)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "V(B) = 2V(D)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version B",
+   "q_en": "Due to electric polarization of dielectric, the charge storing capacity of capacitor:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Remains the same",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Becomes zero",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Decreases",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Increases",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Version B",
+   "q_en": "In the given stress-strain curve which point is known as yield point? (A stress-strain curve with marked points P, Q, R, S is printed in the source scan.)",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "R",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "S",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "P",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Q",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Version B",
+   "q_en": "Which of the following series lies in the ultraviolet region?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Bracket series",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Pfund series",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Lyman series",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Balmer series",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Version B",
+   "q_en": "Which one belongs to Hadrons?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Photon",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Pion",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Electron",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Neutrino",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Version B",
+   "q_en": "Coulomb force between two electric charges is 120N. If the distance between the charges is doubled, the coulomb force will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "15 N",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "30 N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "60 N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "40 N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Version B",
+   "q_en": "A particle having the mass of an electron and charge of proton is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Antiproton",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Electron",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Photon",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Positron",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Version D",
+   "q_en": "Which one belongs to Lepton's group?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electron",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Proton",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Neutron",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Pion",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version D",
+   "q_en": "The unit of electric field intensity E is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Vm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NC⁻²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Vm⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NmA⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version D",
+   "q_en": "Capacitance of a capacitor can be increased by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Using battery of high potential",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Increasing distance between the plates",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Decreasing area of plates",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Inserting dielectric between the plates",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version D",
+   "q_en": "Use Kirchhoff's first law to deduce the value of Current I in figure: (A circuit diagram with currents 5A, 1A, 3A, 1A is printed in the source scan.)",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4A",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1A",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2A",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3A",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version D",
+   "q_en": "The correct relationship between ε and V(t) for a closed circuit is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ε = V(t) − Ir",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ε = V(t)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ε > V(t)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ε < V(t)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version D",
+   "q_en": "Ohm-meter is the SI unit of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Resistivity",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Resistance",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Conductivity",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Conductance",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version D",
+   "q_en": "Lenz's law is in accordance with the law of conservation of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mass",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Charge",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Momentum",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Energy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version D",
+   "q_en": "Primary function of transformer is to change:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "The level of alternating voltage",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Alternating current into direct current",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mechanical energy into heat energy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "The direction of alternating current",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version D",
+   "q_en": "Magnetic flux will be minimum if the angle between magnetic field strength and area vector is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "60°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version D",
+   "q_en": "At high frequency in an inductive circuit, the current will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Infinite",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Large",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Small",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version D",
+   "q_en": "Identify the diamagnetic material:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Copper",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Aluminium",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cobalt",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Iron",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version D",
+   "q_en": "In photoelectric effect, which factor increases by increasing the intensity of incident photon?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Stopping potential",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Work function",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "K.E of electrons",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Number of photons",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Version D",
+   "q_en": "The conversion of an alternating current into direct current is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Rectification",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Amplification",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Resolution",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Magnification",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Version D",
+   "q_en": "An electron in a hydrogen atom is in its ground state. The minimum energy required to ionize it is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.5 ev",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "13.6 ev",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3.4 ev",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.1 ev",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Version D",
+   "q_en": "Initial quantity of a uranium sample is 400g. After 3rd half life how much uranium will be left?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "25 g",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "50 g",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "100 g",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "200 g",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Version D",
+   "q_en": "Positron and electron annihilate into:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "One γ-ray photon",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "α - rays",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Two γ-ray photons",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "X-rays",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Version D",
+   "q_en": "Peak value of an AC voltage is 300 V, its rms value is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "212V",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "300V",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "220V",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "320V",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

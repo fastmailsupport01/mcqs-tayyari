@@ -1,0 +1,738 @@
+{
+ "board": "FBISE Islamabad",
+ "board_slug": "fbise",
+ "class": "12th",
+ "subject": "Computer Science",
+ "year": 2024,
+ "slug": "fbise-12th-computer-science-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Version B",
+   "q_en": "The technique that reuses an existing class to build a new class is known as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Polymorphism",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Inheritance",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Data hiding",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Function overloading",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version B",
+   "q_en": "The program in execution is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Web browser",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "File",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Kernel",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Process",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version B",
+   "q_en": "In flow chart the (parallelogram) symbol is used to represent: (A parallelogram symbol is printed in the source scan.)",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Arithmetic operations",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Start",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Decision",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Input/output operations",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version B",
+   "q_en": "The step by step procedure to solve a problem is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Direct implementation",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Algorithm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Flow chart",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Coding",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version B",
+   "q_en": "In file handling stream is a:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Series of variable address",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Series of variables",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Series of bytes",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Series of constants",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version B",
+   "q_en": "A type of member function that is preceded by tilde sign ~ is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Polymorphism",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Destructor",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Object",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Constructor",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version B",
+   "q_en": "What will be the output of the following expression? int x=20, y=3; cout<<x%y;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version B",
+   "q_en": "Which of the following loops is called post-test loop?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nested for loop",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "For loop",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "While loop",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Do-while loop",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version B",
+   "q_en": "Which of the following is correct syntax of string declaration?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "char book[30];",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "int book[30];",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "char book[30];",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "char book{ };",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version B",
+   "q_en": "int arr[5]={9,10,12,19,98}; What will be stored at arr[4];",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "9",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "98",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "19",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version B",
+   "q_en": "The parameters used in function call are called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Local parameters",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Formal parameters",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Global parameters",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Actual parameters",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version B",
+   "q_en": "Which of the following functions is used to find if the control has reached the end of file or not?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "eof( )",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "bof( )",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "gets( )",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "puts( )",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Version B",
+   "q_en": "The ability to use an operator or function in multiple ways is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Virtual function",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Inheritance",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Polymorphism",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Data hiding",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Version D",
+   "q_en": "An object is a variable of type:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "class",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "int",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "float",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "file",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version D",
+   "q_en": "Which of the following is a system software needed to load applications/programs into the memory and execute it?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Language processor",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Device driver",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Operating system",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Utility program",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version D",
+   "q_en": "Monitoring the position of a rocket in the space is the application of ______ operating system.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Real-Time",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Time-sharing",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Batch processing",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Multi-programming",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version D",
+   "q_en": "Which of the following symbols in flowchart represents decision making? (Flowchart symbols are printed in the source scan.)",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "rectangle symbol",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "parallelogram symbol",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "diamond symbol",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "circle symbol",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version D",
+   "q_en": "Which of the following operators is arithmetic assignment operator?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "||",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "+=",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "+===",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "!=",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version D",
+   "q_en": "What will be the value of x after executing the following expression? int x,y=3; x=y++; cout<<x;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version D",
+   "q_en": "The statement in C++ that transfers the control to the start of the loop body is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Switch",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Continue",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Exit",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Break",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version D",
+   "q_en": "What will be the output of the following expression? int a=15, b=10; a>b? a+b: a-b;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "05",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "15",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "25",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version D",
+   "q_en": "If int arr[2][3]={15,21,9,84,33,72}; what will be at arr[1][1];?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "21",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "84",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "72",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "33",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version D",
+   "q_en": "Which of the following functions is used to append the string 2 to the end of string 1?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "strlen( )",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "strcat( )",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "strcpy( )",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "strcmp( )",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version D",
+   "q_en": "The parameters used in the header of function definition are called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Global parameters",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Actual parameters",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Formal parameters",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Local parameters",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version D",
+   "q_en": "The correct syntax to write single character in file is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "obj.gets();",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "obj.put(ch);",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "obj.get(ch);",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "obj.gets(ch);",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Version D",
+   "q_en": "Under which access specifier, the 'data members' and 'member functions' are accessible from outside the class?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Private",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Public",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Protected",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Object",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

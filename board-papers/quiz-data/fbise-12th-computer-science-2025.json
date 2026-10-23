@@ -1,0 +1,738 @@
+{
+ "board": "FBISE Islamabad",
+ "board_slug": "fbise",
+ "class": "12th",
+ "subject": "Computer Science",
+ "year": 2025,
+ "slug": "fbise-12th-computer-science-2025",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Version B",
+   "q_en": "Which phase of the SDLC is used to assess the strengths and weaknesses of a proposed system?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Requirement engineering phase",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Testing phase",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Feasibility phase",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Design phase",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version B",
+   "q_en": "Which of the following operating systems executes without requiring user interaction during execution?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Batch processing OS",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Time sharing OS",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Multi-tasking OS",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Multi programming OS",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version B",
+   "q_en": "Which of the following DOS commands is used to display the contents of directory?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CD",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "MD",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "DIR",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "DEL",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version B",
+   "q_en": "Header files are enclosed in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[ ]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "' '",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{ }",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "< >",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version B",
+   "q_en": "Which of the following escape sequences is used to play a beep sound during execution?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "'\\a'",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "'\\b'",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "'\\r'",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "'\\n'",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version B",
+   "q_en": "Which of the following operators has highest precedence?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "!",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "++",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "*",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "&&",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version B",
+   "q_en": "Which of the following is a valid case in switch structure?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "case 'ab':",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "case x>10:",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "case 30:",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "case 2.5:",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version B",
+   "q_en": "Which C++ statement will cause to execute the body of loop ten times?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "for (a=1; a<=10; a++)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "for(a=1; a<=10; a+=3)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "for(a=10; a>1; a--)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "for(a=1; a<10; a++)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version B",
+   "q_en": "The smallest subscript using int a[10] declaration is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version B",
+   "q_en": "Null character in strings is represented by the following symbol:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "'\\c'",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "'\\*'",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "'\\n'",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "'\\0'",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version B",
+   "q_en": "a++; can also be written as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a=+1;",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a+=1;",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1+=a;",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1=+a;",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version B",
+   "q_en": "In given C++ code segment, underlined element is: — [Class st{ public: st(){} }; — the constructor st() is underlined in the source scan]",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Object",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Access specifier",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Constructor",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Destructor",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Version B",
+   "q_en": "When reading one character at a time from a file the following function is used:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "fputs()",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "fgets()",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "put()",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "get()",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Version D",
+   "q_en": "Which of following is the valid process state transition?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Terminated to running state",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Running to ready state",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ready to blocked state",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Blocked to running state",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version D",
+   "q_en": "Preprocessor directive starts with:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "?",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "~",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "#",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{ }",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version D",
+   "q_en": "Which of the following escape sequences is used to play a beep sound during execution?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "'\\b'",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "'\\a'",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "'\\r'",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "'\\n'",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version D",
+   "q_en": "Which of the following is a valid case statement is switch statement?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "case 20:",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "case 1.5:",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "case 'ab':",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "case x>10:",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version D",
+   "q_en": "What happens to the value of a static variable between function call?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "It is deleted from memory after returning from function",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "It is only accessible in other files",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "It gets reset to its initial value",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "It retains its previous value",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version D",
+   "q_en": "Which of the following is reference operator?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "*",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "&",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "?",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "#",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version D",
+   "q_en": "Which is correct way to declare destructor?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "*A()",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "void A()",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A()",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "~A()",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version D",
+   "q_en": "When reading one character at a time from a file the following function is used:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "fputs()",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "fgets()",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "put()",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "get()",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version D",
+   "q_en": "char name[20]=\"FBISE 2025\"; cout<<strlen(name); will display:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "11",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "20",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "9",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version D",
+   "q_en": "Which statement will print the natural numbers from 1 to 10?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "for(i=10; i<=1; i++) cout<<i<<\"\\t\";",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "for(i=1; i<10; i++) cout<<i<<\"\\t\";",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "for (i=1; i<=10; i++) cout<<i<<\"\\t\";",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "for(i=1;i>=10;i++) cout<<i<<\"\\t\";",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version D",
+   "q_en": "a++; can also be written as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1+=a;",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1=+a;",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a=+1;",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a+=1;",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version D",
+   "q_en": "In which operating system job runs at different locations (computers) in a network?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Distributed",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Embedded",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Batch processing",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Multitasking",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Version D",
+   "q_en": "Which phase of SDLC is used to assess the strengths and weaknesses of a proposed system?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Design phase",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Requirement Engineering phase",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Feasibility phase",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Testing phase",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

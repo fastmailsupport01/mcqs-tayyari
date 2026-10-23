@@ -1,0 +1,962 @@
+{
+ "board": "FBISE Islamabad",
+ "board_slug": "fbise",
+ "class": "11th",
+ "subject": "Physics",
+ "year": 2025,
+ "slug": "fbise-11th-physics-2025",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Version B",
+   "q_en": "The dimensions [ML²T⁻²] show:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Power",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Work",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Velocity",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Acceleration",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version B",
+   "q_en": "If r = 2.25±0.01cm then percentage uncertainty in \"r\" will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.2%",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.3%",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.4%",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.5%",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version B",
+   "q_en": "ĵ.(î×k̂) =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version B",
+   "q_en": "Magnitude of centripetal force Fc =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "mrω²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "mrω",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "mω²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "mv²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version B",
+   "q_en": "If the length of blade of a fan is increased, then its rotational speed (at same voltage and current):",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Will increase",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Will decrease",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Will become infinite",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Remains constant",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version B",
+   "q_en": "Two bodies A and B of same masses have velocities in the ratio 2:1, their kinetic energies are in the ratio:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2:1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1:2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4:1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1:4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version B",
+   "q_en": "Maximum drag force on a 1kg falling sphere is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "9.8 N",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1 N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "98 N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4.9 N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version B",
+   "q_en": "Young's Modulus, Y=",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(ΔL/L)/(F/A)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(FA)/(ΔL.L)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(ΔL.L)/(FA)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(F/A)/(ΔL/L)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version B",
+   "q_en": "In an adiabatic process which quantity remains constant?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Internal energy",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Volume",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Temperature",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mass",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version B",
+   "q_en": "Location of a submarine in deep sea can be detected by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Doppler effect",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Compton's effect",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Faraday's Law",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Bernoulli principle",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version B",
+   "q_en": "An electron is placed in a uniform electric field directed from south to north. In which direction will electron move after it is released?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "East",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "South",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "North",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "West",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version B",
+   "q_en": "In order to achieve high accuracy, the slide wire of a potentiometer should be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "As long as possible",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "As short as possible",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Very thick",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Neither too small, nor too large",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Version B",
+   "q_en": "Two closely placed parallel wires are carrying current in opposite direction, the wires will:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Repel each other",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Attract each other",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Not affect each other",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Rotate each other",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Version B",
+   "q_en": "One weber is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "NA⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NmA⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Nm⁻¹A",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nm⁻¹A⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Version B",
+   "q_en": "When an object moves with a very high speed its length ______ in the direction of its motion.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Contracts",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Expands",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Remains same",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Becomes zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Version B",
+   "q_en": "Relativistic mass is always:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Less than rest mass",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Greater than rest mass",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Equal to rest mass",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Version B",
+   "q_en": "A hadron may either be a Baryon or a:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Lepton",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Gluon",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Photon",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Meson",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Version D",
+   "q_en": "In a simple pendulum experiment, percentage errors (uncertainty) in \"L\" and \"T\" are 0.1% and 2% respectively. Maximum percentage error (uncertainty) in \"LT²\" is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4.1%",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3%",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2.1%",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3.2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version D",
+   "q_en": "If A̅.B̅ = |A̅×B̅| then angle \"θ\" between vectors A̅ and B̅ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version D",
+   "q_en": "When a massive body of mass M₁ is moving with velocity V₁ collides with lighter stationary body of mass m₂, the velocity of massive body after collision will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "V₁' = 2V₁",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "V₂' = V₁",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "V₁' = V₁",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "V₂' = 2V₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version D",
+   "q_en": "Moment of inertia of a body spinning about its axis DOES NOT depend on the:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Angular velocity of body",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Mass of body",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Orientation of the axis",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Distribution of mass around axis",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version D",
+   "q_en": "The bodies A and B of equal masses have velocities ratio in 2:1 their K.E are in the ratio of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2:1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1:2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4:1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1:4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version D",
+   "q_en": "The fluid is said to be incompressible, if its density is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Constant",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Very high",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Very small",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version D",
+   "q_en": "Equation of continuity is based upon law of conservation of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Momentum",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Energy",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mass",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Charge",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version D",
+   "q_en": "Glass is an example of ______ solid.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Crystalline",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Amorphous",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Poly-crystalline",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ductile",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version D",
+   "q_en": "Young's Modulus, Y=",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(ΔL/L)/(F/A)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(FA)/(ΔL.L)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(ΔL.L)/(FA)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(F/A)/(ΔL/L)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version D",
+   "q_en": "A Carnot engine undergoes ______ processes in one cycle.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Two",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Three",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Four",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Six",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version D",
+   "q_en": "Stars moving away from the earth show:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Red shift",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Blue shift",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Black shift",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Yellow shift",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version D",
+   "q_en": "A negatively charged particle is placed in a uniform electric field directed from south to north. In which direction will the particle move after being released?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "North",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "South",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "East",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "West",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Version D",
+   "q_en": "A 100 ohm resistor is connected across the terminals of a 10V battery. The power dissipation of the resistor is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 watt",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10 watts",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "100 watts",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1000 watts",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Version D",
+   "q_en": "The SI unit of magnetic induction is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Gauss",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Weber",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Tesla",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Version D",
+   "q_en": "Relativistic mass is always:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Less than rest mass",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Greater than rest mass",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Equal to rest mass",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Version D",
+   "q_en": "Inertial frame of reference is a frame in which ______ law of motion holds.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1st",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2nd",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3rd",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4th",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Version D",
+   "q_en": "Two up quarks and one down quark make a:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Meson",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Photon",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Neutron",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Proton",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

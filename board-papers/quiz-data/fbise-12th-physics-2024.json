@@ -1,0 +1,962 @@
+{
+ "board": "FBISE Islamabad",
+ "board_slug": "fbise",
+ "class": "12th",
+ "subject": "Physics",
+ "year": 2024,
+ "slug": "fbise-12th-physics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Version B",
+   "q_en": "If the velocity of free electron is doubled, its De-Broglie wave length changes by the factor of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/√2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version B",
+   "q_en": "The energy of photon of wave length 500nm is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.77 ev",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.52 ev",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3.10 ev",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2.49 ev",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version B",
+   "q_en": "An expression for current gain of a transistor is given by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "β = I_E / I_B",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "β = I_B / I_E",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "β = I_B / I_C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "β = I_C / I_B",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version B",
+   "q_en": "For an atom in excited state n=5, maximum number of transitions that take place is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "25",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version B",
+   "q_en": "The variation of electric potential due to a point charge with distance is represented by the graph:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(A constant ΔV vs Δr graph is printed in the source scan.)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(A rising-curve ΔV vs Δr graph is printed in the source scan.)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(A straight-line ΔV vs Δr graph is printed in the source scan.)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(A decreasing-line ΔV vs Δr graph is printed in the source scan.)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version B",
+   "q_en": "In RLC series circuit, the current at resonance frequency is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Infinite",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Maximum",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Minimum",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version B",
+   "q_en": "In the figure, the charge on 3 μF capacitor is: (A circuit diagram of 2 μF, 3 μF and 6 μF capacitors in series with V = 20 V is printed in the source scan.)",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "30 μC",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "40 μC",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10 μC",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "20 μC",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version B",
+   "q_en": "The force acting on a charged particle kept between the plates of charged capacitor is F. If one of the plates of the capacitor is removed, the force on particle becomes:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "F/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "F",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2F",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version B",
+   "q_en": "The best instrument for the accurate measurement of emf of a cell is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Potentiometer",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ohm meter",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Voltmeter",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ammeter",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version B",
+   "q_en": "The AC circuit in which current and voltage are in phase, the power factor is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version B",
+   "q_en": "The temperature below which the resistivity of super conductor falls to zero is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Critical temperature",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Kelvin temperature",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Absolute temperature",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Limiting temperature",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version B",
+   "q_en": "A 60 watt bulb operates at 50% efficiency, the energy dissipated in 10 Seconds is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "600 J",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "700 J",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "200 J",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "300 J",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Version B",
+   "q_en": "Galvanometer is sensitive when the value of C/BAN is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Negative",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Small",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Large",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Version B",
+   "q_en": "With the increase in speed of motor, the magnitude of back emf:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Decreases",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Becomes zero",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Does not change",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Increases",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Version B",
+   "q_en": "If N_s/N_p = 1 then the transformer is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Neither step up nor step down",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Rectifier transformer",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Step up",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Step down",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Version B",
+   "q_en": "A wire is stretched to double of its length its strain is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Version B",
+   "q_en": "PN junction when reverse biased acts as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Inductor",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "OFF switch",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Capacitor",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ON switch",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Version D",
+   "q_en": "What is the SI unit of current gain?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "It has no unit",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ampere",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Volt",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ohm-meter",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version D",
+   "q_en": "The variation of electric potential due to a point charge with distance is represented by the graph as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(A constant ΔV vs Δr graph is printed in the source scan.)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(A straight-line ΔV vs Δr graph is printed in the source scan.)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(A decreasing-line ΔV vs Δr graph is printed in the source scan.)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(A rising-curve ΔV vs Δr graph is printed in the source scan.)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version D",
+   "q_en": "The interior of a hollow charged sphere is a:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Field free region",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Strong field region",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Weak field region",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Partial field region",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version D",
+   "q_en": "The thermocouple circuit which is used to measure temperature, works on:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Compton effect",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Thomson effect",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Peltier effect",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Seebeck effect",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version D",
+   "q_en": "Which is correct for an open circuit?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "V_t = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "V_t < ε",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "V_t = ε",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "V_t = ε + Ir",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version D",
+   "q_en": "What fraction of a radio-active sample will be left after 600 years whose half-life is 150 years?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/16",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/8",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version D",
+   "q_en": "Two up quarks and one down quark make:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A Meson",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A Proton",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A Neutron",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A Photon",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version D",
+   "q_en": "When an electron in an atom goes from a lower orbit to higher orbit its:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "KE and PE decrease",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "KE increases, PE decreases",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "KE decreases, PE increases",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "KE and PE increase",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version D",
+   "q_en": "An electron moves 3×10^5 m/s perpendicular to magnetic field of 2 T. What is the magnitude of magnetic force?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4.0×10^6 N",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "9.6×10^-17 N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6.4×10^-17 N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3.6×10^-10 N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version D",
+   "q_en": "If the length of solenoid is doubled but number of turns remain same, then B inside the solenoid becomes:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Four times",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Double",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "One fourth",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Half",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version D",
+   "q_en": "The term Δϕ/Δt has the same dimensions as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Current",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Flux",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Potential difference",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Time",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version D",
+   "q_en": "If back emf is zero, then the coil draws:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Minimum current",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Steady current",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Zero current",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Maximum current",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Version D",
+   "q_en": "In the equation Δλ = h/(m_o c) (1 - Cosθ), which factor is called Compton wave length?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "h(1 - Cosθ)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "h / m_o c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1 / m_o c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1 - Cosθ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Version D",
+   "q_en": "In choke coil the reactance X_L and resistance R_s are related as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "X_L = ∞",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "X_L = R",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "X_L << R",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "X_L >> R",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Version D",
+   "q_en": "In purely inductive circuit, the current:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Lags the emf by 60°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Lags the emf by 90°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Leads the emf by 90°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Is in phase with emf",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Version D",
+   "q_en": "Impurity atoms are doped in semi-conductor to increase:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Resistivity",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Protons",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Positrons",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Conductivity",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Version D",
+   "q_en": "Curie point is a temperature where:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Paramagnetic changes to Ferromagnetic material",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Diamagnetic changes to Paramagnetic material",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Paramagnetic changes to Diamagnetic material",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ferromagnetic changes to Paramagnetic material",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

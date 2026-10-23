@@ -1,0 +1,962 @@
+{
+ "board": "FBISE",
+ "board_slug": "fbise",
+ "class": "12th",
+ "subject": "Chemistry",
+ "year": 2023,
+ "slug": "fbise-12th-chemistry-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Version B",
+   "q_en": "Which of the following has highest ionization energy?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Lithium",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Boron",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Oxygen",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nitrogen",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version B",
+   "q_en": "Which of the following oxides is acidic?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Na₂O",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "KO₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "MgO",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NO₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version B",
+   "q_en": "Pb⁺⁴ compounds are good:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Reducing agents",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Oxidizing agents",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Dehydrating agents",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Hydrating agents",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version B",
+   "q_en": "Carboxylic acids can be prepared by the reactions of Grignard reagent with:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Oxygen",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Nitrogen",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Carbon dioxide",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Formaldehyde",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version B",
+   "q_en": "To what category of molecules do enzymes belong?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Carbohydrates",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Proteins",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Lipids",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Fats",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version B",
+   "q_en": "Peroxyacetyl Nitrate (PAN) is an irritant to human beings and it affects:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Eyes",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Nose",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Stomach",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Skin",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version B",
+   "q_en": "Chemically nail polish remover is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Acetone",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Acetic acid",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ethanol",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ether",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version B",
+   "q_en": "Which of the following electronic transitions requires highest amount of energy when a compound is interacted with ultraviolet radiations?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "n→π*",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π→π*",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "δ→δ*",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "n→δ*",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version B",
+   "q_en": "Height of peak in mass spectrum shows:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Number of isotopes",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Mass number",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Relative abundance of isotopes",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Number of protons",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version B",
+   "q_en": "Which of the following will NOT give iodoform test?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Formaldehyde",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Acetaldehyde",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Acetone",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ethanol",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version B",
+   "q_en": "Oxidation of 2-Propanol gives:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Acetaldehyde",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Formaldehyde",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Acetone",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Acetic acid",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version B",
+   "q_en": "Nitration of phenol takes place at ____ than benzene.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Slower rate",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Faster rate",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Equal rate",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Moderate rate",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Version B",
+   "q_en": "Reaction of alcohols with sodium metal gives:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Helium gas",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Hydrogen gas",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Carbon dioxide",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Carbon monoxide",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Version B",
+   "q_en": "Geometrical isomerism is shown by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Lactic acid",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Acetic acid",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1-Butene",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2-Butene",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Version B",
+   "q_en": "Which of the following alkynes is acidic in nature?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1-Butyne",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2-Butyne",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2-Pentyne",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3-Hexyne",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Version B",
+   "q_en": "Which type of functional group is present in compound CH₃COOCH₃?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ester",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Anhydride",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Acid amide",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ether",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Version B",
+   "q_en": "The oxidation state of central metal (Mn) in the following complex Na[Mn(CO)₅(F)₂] is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "+2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "+3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "–1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "+1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Version D",
+   "q_en": "Carboxylic acid reacts with metal to form salts with the evolution of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CO₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "H₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CO",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CH₄",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version D",
+   "q_en": "Reaction of Triglycerides with alkalies is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hydration",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Saponification",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Hardening",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Dehydration",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version D",
+   "q_en": "Which of the following is correct formula of Ziegler catalyst?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "R₃Al + ZnCl₄",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "R₂Al + TiCl₄",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "R₃Al + TiCl₄",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "RAl + TiCl₄",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version D",
+   "q_en": "Oxidizing smog consists of high concentration of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "O₃",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "SO₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NO₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cl₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version D",
+   "q_en": "Which region of electromagnetic spectrum is involved in bonds vibrations?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ultraviolet",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Infra red",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Radio waves",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Microwaves",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version D",
+   "q_en": "The characteristic signal of Carbonyl Carbon of acetone in I.R spectrum will be detected at:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3200cm⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1200cm⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "800cm⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1720cm⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version D",
+   "q_en": "Which of the following aldehydes will be most reactive towards Nucleophiles?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Benzaldehyde",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Acetaldehyde",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Formaldehyde",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Propanaldehyde",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version D",
+   "q_en": "Which of the following has highest ionization energy?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Al",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Si",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "P",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "S",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version D",
+   "q_en": "Which of the following alcohols will produce least stable alkoxide ion when O–H bond breaks?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Methanol",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ethanol",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2-Propanol",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2-Methyl 2-Propanol",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version D",
+   "q_en": "2,3-dimethyl-2-butene on reaction with O₃/H₂O yields two molecules of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Acetaldehyde",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Acetone",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Formaldehyde",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Benzaldehyde",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version D",
+   "q_en": "Which of the following alcohols cannot be synthesized when Grignard reagent reacts with aldehydes and ketones?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ethanol",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Isobutyl alcohol",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Propanol",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Methanol",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version D",
+   "q_en": "No. of chiral centres in lactic acid COOH(CH)OH / CH₃ are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Two",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "One",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Three",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Four",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Version D",
+   "q_en": "The general formula of cycloalkanes resembles with:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Alkenes",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Alkynes",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Alkanes",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Benzene",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Version D",
+   "q_en": "The only alkaline earth metal which releases H₂ gas when reacted with alkalies is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Be",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Mg",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ca",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Sr",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Version D",
+   "q_en": "Which of the following is most Paramagnetic?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Fe³⁺",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Sc³⁺",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ti⁴⁺",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "V⁺⁵",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Version D",
+   "q_en": "Coordination sphere in [Cn(en)₃]SO₄ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Neutral",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Positively charged",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Negatively Charged",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Amphoteric",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Version D",
+   "q_en": "Which of the following hydroxides of group II elements is least soluble in water?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ca(OH)₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Mg(OH)₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Be(OH)₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Sr(OH)₂",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,850 @@
+{
+ "board": "FBISE Islamabad",
+ "board_slug": "fbise",
+ "class": "10th",
+ "subject": "Mathematics",
+ "year": 2025,
+ "slug": "fbise-10th-math-2025",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Version B",
+   "q_en": "Which of the following is a radical equation?",
+   "q_ur": "درج شدہ میں سے کونسی جذری مساوات ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "√(3x+1)=0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "√(3x)+√2=0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2x+√3=0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√(2x+3)=0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version B",
+   "q_en": "If a and b are roots of 4x²−3x+7=0 then value of 1/ab is:",
+   "q_ur": "اگر a اور b، 4x²−3x+7=0 کے روٹس ہوں تو 1/ab کی قیمت کیا ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "−3/4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3/7",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−3/7",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4/7",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version B",
+   "q_en": "If 2a+1:21::4:7 then a =",
+   "q_ur": "اگر 2a+1:21::4:7 تو a برابر ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "13/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "11/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version B",
+   "q_en": "1/(x²−1) =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/(x+1) − 1/(x−1)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/(2(x+1)) − 1/(2(x−1))",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/(2(x−1)) − 1/(2(x+1))",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/(2(x−1)) + 1/(2(x+1))",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version B",
+   "q_en": "From the given figure f is:",
+   "q_ur": "دی گئی شکل کے مطابق f کیا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Into function",
+     "ur": "انٹو فنکشن"
+    },
+    {
+     "k": "B",
+     "en": "Onto function",
+     "ur": "آنٹو فنکشن"
+    },
+    {
+     "k": "C",
+     "en": "Bijective function",
+     "ur": "بائی جیکٹیو فنکشن"
+    },
+    {
+     "k": "D",
+     "en": "Not a function",
+     "ur": "فنکشن نہیں ہے"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version B",
+   "q_en": "If n(X)=t then number of binary relations in X×X is:",
+   "q_ur": "اگر n(X)=t تو X×X میں بائنری ریلیشنز کی تعداد ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "2t",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "t²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2ᵗ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2t²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version B",
+   "q_en": "∑f(X−X̄)² / ∑f =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Range",
+     "ur": "وسعت"
+    },
+    {
+     "k": "B",
+     "en": "Median",
+     "ur": "وسطانیہ"
+    },
+    {
+     "k": "C",
+     "en": "Standard deviation",
+     "ur": "معیاری انحراف"
+    },
+    {
+     "k": "D",
+     "en": "Variance",
+     "ur": "تغیرپذیری"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version B",
+   "q_en": "If X̄=32.5, ∑fX=1300, then ∑f = ?",
+   "q_ur": "اگر X̄=32.5, ∑fX=1300 تو ∑f = ______",
+   "options": [
+    {
+     "k": "A",
+     "en": "40",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "80",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "160",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "400",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version B",
+   "q_en": "The central angle of a quadrant of a circle is:",
+   "q_ur": "دائرے کے چوتھائی کا مرکزی زاویہ ______ ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "30°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "90°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version B",
+   "q_en": "In the figure OL̅ ⊥ MK̅ and CK̅ = 2x+3, CM̅ = 4x find x:",
+   "q_ur": "دی گئی شکل میں OL̅ ⊥ MK̅ اور CK̅=2x+3، CM̅=4x تو x",
+   "options": [
+    {
+     "k": "A",
+     "en": "3/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−3/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−2/3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version B",
+   "q_en": "In the figure chord AB = 4cm and central angle is 60° what is measurement of radial segment.",
+   "q_ur": "دی گئی شکل میں AB=4cm اور مرکزی زاویہ 60° ہے تو رداس کی لمبائی کیا ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version B",
+   "q_en": "Central angle of minor arc of a circle is always:",
+   "q_ur": "ایک دائرے کی صغیرہ قوس کا مرکزی زاویہ ______ ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "< 90°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "< 180°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "> 90°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "> 180°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Version B",
+   "q_en": "Interior angle of a regular hexagon is:",
+   "q_ur": "ایک باقاعدہ مسدس کا اندرونی زاویہ کتنا ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "108°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "120°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "135°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Version B",
+   "q_en": "The roots of the equation x²−8x+16=0 are:",
+   "q_ur": "x²−8x+16=0 کے روٹس کس قسم کے ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Rational and unequal",
+     "ur": "ناطق اور نابرابر"
+    },
+    {
+     "k": "B",
+     "en": "Rational and equal",
+     "ur": "ناطق اور برابر"
+    },
+    {
+     "k": "C",
+     "en": "Imaginary and equal",
+     "ur": "غیر حقیقی اور برابر"
+    },
+    {
+     "k": "D",
+     "en": "Irrational and equal",
+     "ur": "غیر ناطق اور برابر"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Version B",
+   "q_en": "In the figure, the angle x is:",
+   "q_ur": "دی گئی شکل میں زاویہ x ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "150°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "100°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "75°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "50°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Version D",
+   "q_en": "Solution set of x + 1/x = 2 is:",
+   "q_ur": "x + 1/x = 2 کا حل سیٹ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "{1}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{−1}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{−1,1}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{0}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version D",
+   "q_en": "If ω is cube root of unity, then ω⁻¹⁸ is equal to:",
+   "q_ur": "اگر ω اکائی کا جذری روٹ ہے تو ω⁻¹⁸ کس کے برابر ہوگا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "ω",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ω²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version D",
+   "q_en": "The mean proportional of 4m²n⁴ and P⁶ is:",
+   "q_ur": "4m²n⁴ اور P⁶ کا درمیانی تناسب ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "2mn²P³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "±2mn²P³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2mn²/P³",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "±2mn²/P³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version D",
+   "q_en": "Root of the equation 12x² + x − 20 = 0 are:",
+   "q_ur": "12x² + x − 20 = 0 مساوات کے روٹس کس قسم کے ہونگے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Imaginary",
+     "ur": "غیر حقیقی"
+    },
+    {
+     "k": "B",
+     "en": "Rational",
+     "ur": "ناطق"
+    },
+    {
+     "k": "C",
+     "en": "Equal",
+     "ur": "برابر"
+    },
+    {
+     "k": "D",
+     "en": "Irrational",
+     "ur": "غیر ناطق"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version D",
+   "q_en": "If 1/(x²−1) = A/(x−1) + B/(x+1) then:",
+   "q_ur": "اگر 1/(x²−1) = A/(x−1) + B/(x+1) ہو تو:",
+   "options": [
+    {
+     "k": "A",
+     "en": "A=1/2, B=1/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A=1/2, B=−1/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A=−1/2, B=1/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A=−1/2, B=−1/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version D",
+   "q_en": "In sets if n(A) = P then n(A×A) =",
+   "q_ur": "سیٹوں میں اگر n(A) = P تو n(A×A) = ______ ہوگا۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "P",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2P",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "P²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2P²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version D",
+   "q_en": "If the arithmetic mean of 25 values is 10, then what is sum of values?",
+   "q_ur": "سیٹوں میں اگر 25 مقداروں کا حسابی اوسط 10 ہو تو مقداروں کا مجموعہ کیا ہوگا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "250",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "125",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "25",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2.5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version D",
+   "q_en": "What is the harmonic mean of a and b",
+   "q_ur": "a اور b کا ہارمونک اوسط کیا ہوگا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "2ab/(a+b)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "√(ab)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(a+b)/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(a+b)/2ab",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version D",
+   "q_en": "Central angle of a semicircle is:",
+   "q_ur": "ایک نیم دائرے کا مرکزی زاویہ کیا ہوگا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "< 90°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "= 90°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "= 180°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "> 180°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version D",
+   "q_en": "In the figure chord AB = 4cm and central angle is 60°. What is radial segment.",
+   "q_ur": "دی گئی شکل میں AB=4cm اور مرکزی زاویہ 60° ہے۔ تو رداس کی لمبائی کیا ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version D",
+   "q_en": "Transverse common tangents intersect each other at:",
+   "q_ur": "ٹرانسورس مشترکہ مماس کتنے نقطے پر ایک دوسرے کو قطع کرتے ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 point",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2 points",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3 points",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4 points",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version D",
+   "q_en": "If α,β are roots of x²−5x+2=0 then sum of roots 2α and 2β is:",
+   "q_ur": "اگر α,β، x²−5x+2=0 کے روٹس ہوں تو 2α اور 2β روٹس کا مجموعہ کیا ہوگا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−10",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Version D",
+   "q_en": "Which of the following divides the data into four equal parts?",
+   "q_ur": "درج شدہ میں سے کیا مواد کو چار برابر حصوں میں تقسیم کرتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Average",
+     "ur": "اوسط"
+    },
+    {
+     "k": "B",
+     "en": "Quartile",
+     "ur": "چہارمی حصہ"
+    },
+    {
+     "k": "C",
+     "en": "Dispersion",
+     "ur": "انتشار"
+    },
+    {
+     "k": "D",
+     "en": "Frequency",
+     "ur": "تعداد"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Version D",
+   "q_en": "In figure OL̅ ⊥ MK̅ and CK̅ = 2x+3, CM̅ = 4x find x.",
+   "q_ur": "اگر OL̅ ⊥ MK̅ اور CK̅=2x+3، CM̅=4x تو x کی قیمت کیا ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "3/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−3/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−2/3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Version D",
+   "q_en": "α² + β² =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "α² − β²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/α² + 1/β²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(α+β)²−2αβ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(α+β)²",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

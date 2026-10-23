@@ -1,0 +1,738 @@
+{
+ "board": "FBISE Islamabad",
+ "board_slug": "fbise",
+ "class": "10th",
+ "subject": "Computer Science",
+ "year": 2024,
+ "slug": "fbise-10th-computer-science-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Version B",
+   "q_en": "Which shape represents input or output operations in a flowchart? (A printed flowchart symbol is shown against each option.)",
+   "q_ur": "فلوچارٹ میں کون سی شکل ان پٹ یا آؤٹ پٹ آپریشن کو ظاہر کرتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Rectangle shape",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Parallelogram",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Oval",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Diamond",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version B",
+   "q_en": "Which of the following functions is included in stdio.h header file?",
+   "q_ur": "درج شدہ میں سے کون سا فنکشن (stdio.h) ہیڈر فائل میں شامل ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "printf()",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "clrscr()",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "sin()",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "getch()",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version B",
+   "q_en": "Which one of the following is a step by step problem solving method?",
+   "q_ur": "فلوچارٹ پر بلم حل کرنے کے لیے ان میں سے کون سا مرحلہ وار طریقہ ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Flowchart",
+     "ur": "فلوچارٹ"
+    },
+    {
+     "k": "B",
+     "en": "Planning",
+     "ur": "منصوبہ بندی"
+    },
+    {
+     "k": "C",
+     "en": "Analysis",
+     "ur": "تحلیل"
+    },
+    {
+     "k": "D",
+     "en": "Algorithm",
+     "ur": "الگورتھم"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version B",
+   "q_en": "What is the extension of C language source program?",
+   "q_ur": "C لینگویج سورس پروگرام کی (extension) کیا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": ".c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": ".doc",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": ".clp",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": ".obj",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version B",
+   "q_en": "If x=12; y=x++; what will be the value stored in y?",
+   "q_ur": "اگر x=12; y=x++; تو y میں Stored value کیا ہو گی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "11",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "12",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "13",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "21",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version B",
+   "q_en": "Which of the following operations of logic gate is represented by '+' sign?",
+   "q_ur": "'+' کے نشان سے لاجک گیٹ کے کون سے آپریشن کو ظاہر کیا جاتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "AND",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "OR",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NOT",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NAND",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version B",
+   "q_en": "Which of the following statements is used to display the value of n (where int n=5)?",
+   "q_ur": "n کی (int n=5) ویلیو کو ظاہر کرنے کے لیے کون سا سٹیٹمنٹ استعمال ہو گا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "printf(\"%c\",n);",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "printf(\"%c\",&n);",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "printf(\"%d\",n);",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "printf(\"%d\",&n);",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version B",
+   "q_en": "What will be the output of the following program segment? for (n=1;n<=4;n++) printf(\"%d\\t\",n);",
+   "q_ur": "درج شدہ (program segment) کا آؤٹ پٹ کیا ہو گا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 2 3 4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4 3 2 1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1 1 1 1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4321",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version B",
+   "q_en": "Choose the correct HTML element for the largest heading.",
+   "q_ur": "سب سے بڑی (heading) کے لیے درست HTML ایلیمنٹ کا انتخاب کریں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "<h6>",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "<head>",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "<heading>",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "<h1>",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version B",
+   "q_en": "Which statement is equivalent to m=m*a;?",
+   "q_ur": "m=m*a; کے برابر کون سا سٹیٹمنٹ ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "m*=a;",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "m=*a;",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "m=a*a;",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "m=a*;",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version B",
+   "q_en": "How many OR gates are required to create the logic circuit of the given Boolean function? F = xz + yz + xyz",
+   "q_ur": "درج شدہ بولین فنکشن کا لاجک سرکٹ بنانے کے لیے کتنے OR گیٹ کی ضرورت ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version B",
+   "q_en": "Which of the following is the correct HTML code for adding a background color?",
+   "q_ur": "بیک گراؤنڈ کلر شامل کرنے کے لیے کون سا درست HTML کوڈ ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "<body style=\"background-color\">",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "<background>yellow</background>",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "<body bgcolor=yellow></body>",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "<bground>yellow</bground>",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Version B",
+   "q_en": "Which of the following is valid data type for switch statement?",
+   "q_ur": "سوئچ سٹیٹمنٹ کے لیے (valid) ڈیٹا ٹائپ کون سی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "float",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "unsigned",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "double",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "int",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Version D",
+   "q_en": "Which of the following is required to translate C language program?",
+   "q_ur": "C لینگویج پروگرام کو ٹرانسلیٹ کرنے کے لیے درج شدہ میں سے کس کی ضرورت ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Compiler",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Loader",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Linker",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Debugger",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version D",
+   "q_en": "Which keyword is used to cover unhandled possibilities in switch statement?",
+   "q_ur": "سوئچ سٹیٹمنٹ میں (unhandled) امکانات کے لیے کون سا کی ورڈ استعمال ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "break",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "default",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "case",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "continue",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version D",
+   "q_en": "Which shape represents decision operation in a flowchart? (A printed flowchart symbol is shown against each option.)",
+   "q_ur": "فلوچارٹ میں کون سی شکل فیصلے کے عمل کو ظاہر کرتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Rectangle shape",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Parallelogram",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Oval",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Diamond",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version D",
+   "q_en": "Which of the following variable is an invalid variable name in C language?",
+   "q_ur": "درج شدہ میں سے کون سا C لینگویج میں (invalid) ویری ایبل کا نام ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sum",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Sum$",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Sum2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Sum_marks",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version D",
+   "q_en": "If a=10; b=++a; what will be the value stored in b?",
+   "q_ur": "اگر a=10; b=++a; تو b میں Stored value کیا ہو گی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "9",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "11",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version D",
+   "q_en": "Which logic gate is represented by the given function? F = (x+y)̅",
+   "q_ur": "درج شدہ فنکشن کس لاجک گیٹ کو ظاہر کرتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "AND",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NOR",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "OR",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NAND",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version D",
+   "q_en": "How many times \"hello\" will be displayed after executing the following code? for (n=0; n<=4; n++) printf(\"hello\");",
+   "q_ur": "درج شدہ کوڈ کو عمل کرنے کے بعد \"hello\" کتنی بار پرنٹ ہو گا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Infinite",
+     "ur": "لامتناہی"
+    },
+    {
+     "k": "D",
+     "en": "Loop will not run",
+     "ur": "لوپ نہیں چلے گی"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version D",
+   "q_en": "Which symbol is used with variable name in scanf() function?",
+   "q_ur": "scanf() فنکشن میں ویری ایبل کے نام کے ساتھ کون سی علامت استعمال ہوتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "$",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "#",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "&",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "^",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version D",
+   "q_en": "Which of the following function is used to output a string on the screen?",
+   "q_ur": "اسکرین پر string output کرنے کے لیے کون سا فنکشن استعمال ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "gets()",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "getchar()",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "puts()",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "putchar()",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version D",
+   "q_en": "Which statement is equivalent to x*=a;?",
+   "q_ur": "x*=a; کے برابر کون سا سٹیٹمنٹ ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "x=x*a;",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x=*a;",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x=a*a;",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x=a*;",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version D",
+   "q_en": "Which tag is used for paragraph in HTML?",
+   "q_ur": "HTML میں پیراگراف کے لیے کون سا ٹیگ استعمال ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "<paragraph>",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "<para>",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "<p>",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "<para graph>",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version D",
+   "q_en": "How many AND gates are required to create the logic circuit of the given Boolean function? F=xz+yz+xyz",
+   "q_ur": "درج شدہ بولین فنکشن کا لاجک سرکٹ بنانے کے لیے کتنے AND گیٹ کی ضرورت ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Version D",
+   "q_en": "Which of the following is the correct HTML code for applying border to an image?",
+   "q_ur": "Image کو border لگانے کے لیے کون سا درست HTML کوڈ ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "<img href=\"image.gif\" bd=5>",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "<img src=\"image.gif\" border=5>",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "<img alt=\"image.gif\" bord=5>",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "<image border=5>image.gif</image>",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

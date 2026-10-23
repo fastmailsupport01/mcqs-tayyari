@@ -1,0 +1,962 @@
+{
+ "board": "FBISE",
+ "board_slug": "fbise",
+ "class": "12th",
+ "subject": "Biology",
+ "year": 2023,
+ "slug": "fbise-12th-biology-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Version B",
+   "q_en": "A snail was moving on a table. When the table was tapped snail stopped moving. When tapping was done repeatedly, snail stopped responding to it. Identify the type of behavior shown.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Imprinting",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Habituation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Innate",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Instinct",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version B",
+   "q_en": "Due to lightning, a forest was set on fire and destroyed. The type of succession which will occur then is termed as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Xerarch",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Secondary",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Hydrarch",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Primary",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version B",
+   "q_en": "Which one is a steroid hormone?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Adrenaline",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Parathormone",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Insulin",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Aldosterone",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version B",
+   "q_en": "The following diagram shows nephron. Identify the processes which occur at X and Y. (Note: a nephron diagram with X at the glomerulus and Y at the proximal tubule is given.)",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Selective Reabsorption, Ultrafiltration",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Diffusion, Tubular secretion",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ultrafiltration, Selective Reabsorption",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Active Transport, Selective Reabsorption",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version B",
+   "q_en": "Which of the following steps are involved in inhalation? I. Diaphragm contracts; II. Rib cage lowers; III. External intercostal muscles contract; IV. Pressure in lungs decreases.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "II, III, IV",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "I, III, IV",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "I, II, IV",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "I, II, III",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version B",
+   "q_en": "The workers in a honey bee hive exhibit:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Aggregation",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Territoriality",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Altruism",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Dominance Hierarchy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version B",
+   "q_en": "In the given figure of action potential in a Neuron, hyperpolarization is represented by: (Note: a graph of membrane potential vs Time (ms) is given with P at resting potential, R on the rising phase, S at the peak and Q at the undershoot.)",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Q",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "R",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "S",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "P",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version B",
+   "q_en": "Which one of the following is NOT a Sexually Transmitted Disease?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Gonorrhea",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Syphilis",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "AIDS",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Measles",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version B",
+   "q_en": "The extra embryonic membrane which provides a fluid filled environment for developing fetus is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Chorion",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Allantois",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Yolk sac",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Amnion",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version B",
+   "q_en": "In pea plant, round and wrinkled seed shape is controlled by R and r alleles respectively. The cross which will give rise 1:1 ratio of both phenotypes can be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Rr x Rr",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Rr x RR",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Rr x rr",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "RR x rr",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version B",
+   "q_en": "Baldness is more common in males than in females because it is a:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sex influenced trait",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Sex limited trait",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Y-linked trait",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Sex linked recessive trait",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version B",
+   "q_en": "In DNA replication, the primer:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Consists of few DNA nucleotides",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Helps to unwind DNA double strand",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Prevents DNA strands to pair up",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Is a short segment of RNA nucleotides",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Version B",
+   "q_en": "After successful implantation of blastocyst into endometrium of uterus, level of which hormone increases?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Human chorionic gonadotrophin",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Luteinizing hormone",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Oxytocin",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Progesterone",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Version B",
+   "q_en": "Normally vaccination can be done at any age for:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Measles",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Hepatitis",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Diphtheria",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Polio",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Version B",
+   "q_en": "According to Hardy Weinberg Theorem, which one of the following factor cannot change allelic frequency?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mutation",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Random mating",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Selection",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Gene flow",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Version B",
+   "q_en": "Restriction endonucleases can be used in Genetic Engineering to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Produce cDNA",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cut plasmid DNA",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Join DNA at sticky ends",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Clone DNA",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Version B",
+   "q_en": "In Nitrogen cycle, conversion of Nitrates into nitrogen is termed as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ammonification",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Assimilation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Denitrification",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nitrification",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Version D",
+   "q_en": "Which of the following events occur during exhalation? I. Diaphragm relaxes; II. Rib cage lowers; III. External intercostal muscles contract; IV. Pressure in lungs Increases.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "I, II, III",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "II, III, IV",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "I, III, IV",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "I, II, IV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version D",
+   "q_en": "If body is overheated, the body temperature can be regulated by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "More sweating, vasoconstriction",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Less sweating, vasodilation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Less sweating, vasoconstriction",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "More sweating, vasodilation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version D",
+   "q_en": "Which part of Limbic system is involved in long term memory formation?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cerebellum",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Hippocampus",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Amygdala",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Hypothalamus",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version D",
+   "q_en": "The type of Agonistic behavior exhibited by mountain gorilla is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Dominance hierarchy",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Altruism",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Territoriality",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Instinct",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version D",
+   "q_en": "Which one is a Sexually Transmitted Disease?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Syphilis",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Measles",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Polio",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Tetanus",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version D",
+   "q_en": "Leydig cells found in testes are involved in secretion of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Inhibin",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Testosterone",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Luteinizing hormone",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nutrients",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version D",
+   "q_en": "All of the following are examples of Reflex Action EXCEPT:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Blinking of eyelids in bright light",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Pulling hand away from hot object",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Sneezing on tickling nose",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Picking pen to write name",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version D",
+   "q_en": "When true breeding red and white flowering plants were crossed, all pink offsprings were produced. When these pink flowered plants were self crossed, the percent of pink flowering offsprings would be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "25%",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "50%",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "75%",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "100%",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version D",
+   "q_en": "During translation, the amino acyl t-RNA complex attaches to small ribosomal unit at:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "P site",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "E site",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "mRNA",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A site",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version D",
+   "q_en": "Hemophilia is more common in males than in females because this trait is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Y-linked recessive",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Sex influenced",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Sex limited",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Sex linked recessive",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version D",
+   "q_en": "A female having 44 + XO chromosome, webbed neck and large number of moles is suffering from:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Turner syndrome",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Down syndrome",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Klinefelter syndrome",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Sickle cell anaemia",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version D",
+   "q_en": "The ability of a particular environment that can support maximum individuals is termed as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Uniform distribution",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Clumped distribution",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Carrying capacity",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Density",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Version D",
+   "q_en": "All of the following are Stop Codons EXCEPT:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "UGA",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "UAG",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "UAA",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "AUG",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Version D",
+   "q_en": "Identify the part where fertilization of ovum occurs. (Note: a diagram of the female reproductive system is given with parts labelled A (ovary), B (fallopian tube), C (uterus) and D (cervix).)",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "B",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "D",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Version D",
+   "q_en": "To prove DNA replication is semi conservative, Meselson and Stahl labelled DNA with N¹⁵, DNA sample appeared heaviest which was collected after.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0 minutes",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "20 minutes",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "40 minutes",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "60 minutes",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Version D",
+   "q_en": "Which type of behaviour helps animals with short life span to live successfully?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Learning",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Innate",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Imprinting",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Altruism",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Version D",
+   "q_en": "All are characteristics of Haemoglobin EXCEPT:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Has more affinity with oxygen",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Loses oxygen at PO₂ 60mmHg",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Transports oxygen",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Has four iron atoms in molecule",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1130 @@
+{
+ "board": "FBISE Islamabad",
+ "board_slug": "fbise",
+ "class": "12th",
+ "subject": "Mathematics",
+ "year": 2025,
+ "slug": "fbise-12th-mathematics-2025",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Version B",
+   "q_en": "lim(x→a) ((1+2x)^2 −1)/x =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version B",
+   "q_en": "lim(x→∞) (1+2/x)^(x/2) =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "e",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/e",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version B",
+   "q_en": "d/dx (e^x + 2e^(−2x)) =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "e^x − 4e^(−2x)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "e^x + 4e^(−2x)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "e^x − e^(−2x)/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "e^x − 2e^(−2x)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version B",
+   "q_en": "If dy/dx = 3/2 x^(1/2) − 2x, then d²y/dx² =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3/2 x^(1/2) − 2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3/4 x^(−1/2) − 2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/4 x^(1/2) − 2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4/3 x^(−1/2) − 2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version B",
+   "q_en": "If y = 1/8 sin 2x, then the value of d⁴y/dx⁴ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2 sin 2x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−2 sin 2x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2 cos 2x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−2 cos 2x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version B",
+   "q_en": "If r⃗(t) = (1+t²)î + sin t ĵ + cos 2t k̂, then lim(t→0) r⃗(t) =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "î + ĵ + k̂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "î + k̂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "î + ĵ − k̂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "î + ĵ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version B",
+   "q_en": "If r⃗(t) = t²î − 2tĵ, then v⃗(t) =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2tî − ĵ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2tî − 2ĵ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "tî − 2ĵ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "tî − ĵ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version B",
+   "q_en": "∫ cos x / sin x dx =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ln|sin x| + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ln|cos x| + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−ln|sin x| + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−ln|cos x| + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version B",
+   "q_en": "If 2∫₀² x dx = 3k − 2, then the value of 'k' is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version B",
+   "q_en": "If A(5,−5), B(−2,0) and C(0,2) are vertices of a triangle then its centroid is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(1,1)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(−1,−1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(−1,1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(1,−1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version B",
+   "q_en": "If 4x − 2y = 3, then the slope of the line is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version B",
+   "q_en": "The equation of circle with centre (−1,−1) and radius 2 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(x−1)² + (y−1)² = 2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(x−1)² + (y−1)² = 4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(x+1)² + (y+1)² = 2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(x+1)² + (y+1)² = 4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Version B",
+   "q_en": "If x² + y² + 4x + 4y = 0 is an equation of circle then its radius is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2√2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3√2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Version B",
+   "q_en": "If y² = 8x is an equation of parabola, then its focus is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(0,4)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(0,2)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(2,0)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(4,0)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Version B",
+   "q_en": "If d²y/dx² − (dy/dx)² + y = 3x is a differential equation, then its order and degree respectively are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1,2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2,1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2,2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2,3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Version B",
+   "q_en": "If 1/x dy/dx = 2, then solution y(x) of differential equation is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x² + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x²/2 + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2x² + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−x² + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Version B",
+   "q_en": "If f(x,y) = x² + 3y, then ∂f/∂x (1,1) =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Version B",
+   "q_en": "If f(x,y) = e^(x+y), then ∂f/∂y (1,0) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "e",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/e",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Version B",
+   "q_en": "If f(x) = x³ − 2x + 1 and x₀ = 0, then f'(x₀) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Version B",
+   "q_en": "The value of Δx to approximate ∫₀² (x² + 1) dx for (n = 4 sub intervals) by 'Trapezoidal Rule' is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.25",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Version D",
+   "q_en": "lim(x→0) ((1+3x)² −1)/x =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version D",
+   "q_en": "lim(x→∞) (1+3/x)^(x/3) =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "e",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/e",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version D",
+   "q_en": "d/dx (e^x + 3e^(−3x)) =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "e^x − 9e^(−3x)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "e^x + 9e^(−3x)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "e^x − 6e^(−3x)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "e^x + 6e^(−3x)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version D",
+   "q_en": "If dy/dx = 2x + 5/2 x^(3/2), then d²y/dx² =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2 + 5/2 x^(1/2)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2 + 15/4 x^(1/2)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2 − 15/4 x^(1/2)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2 + 5/2 x^(3/2)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version D",
+   "q_en": "If y = 1/8 cos 2x, then the value of d⁴y/dx⁴ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2 cos 2x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−2 cos 2x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2 sin 2x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−2 sin 2x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version D",
+   "q_en": "If r⃗(t) = (t²−1)î + sin t ĵ + cos 2t k̂, then lim(t→0) r⃗(t) is =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "î + k̂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−î + k̂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−î + ĵ + k̂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−î − ĵ + k̂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version D",
+   "q_en": "If r⃗(t) = t²î + 2tĵ, then v⃗(t) = is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2tî + ĵ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2tî + 2ĵ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "tî + 2ĵ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "tî + ĵ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version D",
+   "q_en": "∫ sin t / cos t dt is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−ln|cos t| + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ln|cos t| + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ln|sin t| + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−ln|sin t| + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version D",
+   "q_en": "If 2∫₀³ x dx = 2k − 3, then the value of 'k' is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version D",
+   "q_en": "If A(−5,5), B(2,0) and C(0,−2) are vertices of a triangle then its centroid is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(1,1)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(−1,−1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(1,−1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(−1,1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version D",
+   "q_en": "If 6x − 3y = 2, then the slope of the line is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version D",
+   "q_en": "The equation of circle with centre (1,1) and radius 2 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(x+1)² + (y+1)² = 2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(x+1)² + (y+1)² = 4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(x−1)² + (y−1)² = 2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(x−1)² + (y−1)² = 4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Version D",
+   "q_en": "If x² + y² + 6x + 6y = 0 is an equation of circle then its radius is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2√2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3√2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Version D",
+   "q_en": "If y² = −8x is an equation of parabola, then its focus is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(0,−4)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(0,−2)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(−2,0)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(−4,0)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Version D",
+   "q_en": "If d³y/dx³ − d²y/dx² + (dy/dx)² = x⁴ is a differential equation, then its order and degree respectively are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3,1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1,3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2,3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3,2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Version D",
+   "q_en": "If 1/x² dy/dx = 3 then solution y(x) of differential equation is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x³ + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x³/3 + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3x³ + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−x³ + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Version D",
+   "q_en": "If f(x,y) = 3x + y², then ∂f/∂y (1,1) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Version D",
+   "q_en": "If f(x,y) = e^(x−y), then ∂f/∂x (0,1) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "e",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/e",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Version D",
+   "q_en": "If f(x) = x³ − 2x + 3 and x₀ = 0, then f'(x₀) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Version D",
+   "q_en": "The value of Δx to approximate ∫₀² (x² − 1) dx for (n = 4 sub intervals) by 'Trapezoidal Rule' is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.25",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

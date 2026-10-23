@@ -1,0 +1,1130 @@
+{
+ "board": "FBISE Islamabad",
+ "board_slug": "fbise",
+ "class": "12th",
+ "subject": "Mathematics",
+ "year": 2024,
+ "slug": "fbise-12th-mathematics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Version B",
+   "q_en": "If f(x) = √(x+5) and f(g(x)) = 3x then what is the value of g(x)?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "9x^2 + 5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3x^2 - 5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "9x^2 - 5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3x^2 + 5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version B",
+   "q_en": "Without finding the inverse, what is the range of f^(-1)(x), where f(x) = 3 + √(x-2)?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[2,∞)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[3,∞)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[0,∞)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[-2,∞)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version B",
+   "q_en": "Which of the following represents an even function?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "f(x) = (x^2-16)/(x-4)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "f(x) = Cos x - x/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "f(x) = (1-Cos x)/Sin^2 x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "f(x) = (x-5)^4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version B",
+   "q_en": "If x + y = Sin(x+y) then dy/dx is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cos(x+y)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Sin(x+y)/(x+y)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version B",
+   "q_en": "Minimum value of the function f(x) = x^2 + 2x - 3 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version B",
+   "q_en": "If f(x) = e^(ln(Sin x)) then what is the value of f'(π/2)?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "∞",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version B",
+   "q_en": "What evaluates ∫(0 to π/2) Cos x (e^(Sin x) dx)?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2e",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "e",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "e+1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "e-1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version B",
+   "q_en": "Which of the following options represents f'(x) = x/(x^2+1) and f(0) = 1?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "f(x) = 2ln(x^2+1)+2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "f(x) = ln(x^2+1)+1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "f(x) = (1/2)ln(x+1)+1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "f(x) = (1/2)ln(x^2+1)+1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version B",
+   "q_en": "If 2∫(0 to 2)(x-k)dx = 1 then what is the value of k?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3/4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version B",
+   "q_en": "For what value of k, the line πx + √2 y + √7 = 0 is perpendicular to the line kx + 3y + 2 = 0?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3/π",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3√2/π",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-3√2/π",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√2/π",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version B",
+   "q_en": "A line that cuts the x-axis at (2,0) and y-axis at (0,-4), has equation:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2x + y - 4 = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2x - y - 4 = 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2x + y + 4 = 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x + 2y + 4 = 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version B",
+   "q_en": "What is the angle between pair of lines represented by x^2 + 2xy - y^2 = 0?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π/3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Version B",
+   "q_en": "If the lines 3x - y - 2 = 0, 5x + ay - 3 = 0 and 2x + y - 2 = 0 are concurrent then what is the value of a?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Version B",
+   "q_en": "The ordered pair (3,2) is NOT a solution of inequality:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x + y > 2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3x + 5y > 7",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3x - 7y < 3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x - y > 1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Version B",
+   "q_en": "What are the foci of an ellipse x^2/25 + y^2/16 = 1?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(±4,0)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(±3,0)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(0,±3)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(±5,0)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Version B",
+   "q_en": "Directrices of the hyperbola x^2/a^2 - y^2/b^2 = 1 are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "y = 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x = ±a/e",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "y = ±e/a",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Version B",
+   "q_en": "What is the length of tangent from (2,1) to the circle 3x^2 + 3y^2 + 6x - 12y + 1 = 0?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4/√3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2/√3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Version B",
+   "q_en": "If |Sin α i + Cos α j + t k| = 3 then, what is the value of t?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "9",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2√2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Version B",
+   "q_en": "What is Cosine of the angle that a vector v = √2i + j + k makes with y-axis?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "30°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "90°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Version B",
+   "q_en": "What are the direction Cosines of the vector √3i - √3j + √3k?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/√3, -1/√3, 1/√3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1,1,-1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1,-1,1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√3,-√3,√3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Version D",
+   "q_en": "What result occurs, in evaluating lim(h→0)(1+2h)^(1/h)?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "e",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/e",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "e^2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/e^2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version D",
+   "q_en": "If f(x) = 3x - 5 then what is the value of f^(-1)(4)?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5/3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version D",
+   "q_en": "If f(x) = 3x + 1 and f(g(x)) = 3x^2 - 3x + 1 then, what is the value of g(x)?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x^2 - x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x^2 - 3x + 1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3x^2 - 3x + 3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3x^2 + x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version D",
+   "q_en": "If y = √(Sin√x) then dy/dx is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/(4x tan√x)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4x√(Sin√x)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(Cos√x)/(4√x Sin√x)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(Cos√x)/(4√(Sin√x))",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version D",
+   "q_en": "What is the value of x at the point on the curve y = x^2 - 8x + 3, where the gradient is 2?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version D",
+   "q_en": "If f(x) = 2Sin^(-1)(x/3) then what is the result of f'(1)?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3/(2√2)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/(2√2)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/√2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3/√2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version D",
+   "q_en": "If ∫(0 to 2) f(x)dx = 3 then, what is the value of K if ∫(0 to 2)(3f(x)+4x)dx = K?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "20",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "17",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "11",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version D",
+   "q_en": "If f'(x) = 1/x + 1/(x^2+1) and f(1) = π/2 then f(x) is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ln|x| + tan^(-1)x + π/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ln|x| + tan^(-1)x + π/4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ln|x| + cot^(-1)x + π/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2ln|x| + cot^(-1)x + π/4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version D",
+   "q_en": "What result occurs, in evaluating ∫(Sin x - Cos x)/√(1-Sin 2x) dx?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sin x + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Sin x - Cos x + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Sin x + Cos x + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version D",
+   "q_en": "For what value of k the lines 4x - y + k = 0 and 6kx + 8y + 3 = 0 are perpendicular?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version D",
+   "q_en": "The perpendicular distance from origin to a line 4x + 3y + 10 = 0 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version D",
+   "q_en": "Centroid of the triangle with vertices A(4,-2), B(-2,4) and C(4,10) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(-2,4)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(2,4)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(2,-4)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(-2,-4)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Version D",
+   "q_en": "The ordered pair (1,2) is one solution of the inequality:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2x + y > 5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2x - y > 3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2x + y < 3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2x + y < 5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Version D",
+   "q_en": "What is the length of diameter of a circle (x+5)^2 + (y-8)^2 = 12?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4√3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2√3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "12",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "24",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Version D",
+   "q_en": "What is the length of latus rectum of an ellipse x^2/36 + y^2/25 = 1?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "25/6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "25/36",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "25/3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3/25",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Version D",
+   "q_en": "Which of the following is an asymptote of the hyperbola 3x^2 - 4y^2 - 12 = 0?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "y = ±(4/3)x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "y = ±(3/4)x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "y = ±(2/√3)x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "y = ±(√3/2)x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Version D",
+   "q_en": "The directrix of the parabola x^2 = 8y is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x + 2 = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x - 2 = 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "y + 2 = 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "y - 2 = 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Version D",
+   "q_en": "If a = i + 2j + k, b = j + k then what is the value of λ if a + λb is perpendicular to b?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-3/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-1/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Version D",
+   "q_en": "What is Cosine of the angle that a vector √2i + j + k makes with x-axis?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "30°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "90°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Version D",
+   "q_en": "If the vectors 2i - 3j + 4k, i + 2j - k and αi - j + 2k are coplanar then, what is the value of α?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "8/11",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "11/8",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5/8",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5/11",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

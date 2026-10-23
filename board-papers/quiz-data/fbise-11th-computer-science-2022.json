@@ -1,0 +1,430 @@
+{
+ "board": "FBISE",
+ "board_slug": "fbise",
+ "class": "11th",
+ "subject": "Computer Science",
+ "year": 2022,
+ "slug": "fbise-11th-computer-science-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Version D",
+   "q_en": "Which of the following is an example of embedded computing device?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Keyboard",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Digital Washing Machine",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mouse",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Trackball",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version D",
+   "q_en": "Which of the following is used to process complex calculations and designing of complicated machines?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mini computer",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Micro computer",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Personal computer",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Super computer",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version D",
+   "q_en": "Which of the following types of optical disks can store more than 100 GB of data?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Blu-ray disk",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Digital video disk",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Compact disk",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Floppy disk",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version D",
+   "q_en": "A type of memory that needs frequent power refreshing to retain its charge is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Programmable ROM",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Magneto resistive RAM",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Dynamic RAM",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Static RAM",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version D",
+   "q_en": "The part of computer system that can hold data temporarily during processing is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Register",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ROM",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Optical disk",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Hard disk",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version D",
+   "q_en": "Which of the following registers holds program instruction that are fetched from the memory for execution?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Memory Address Register",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Memory Buffer Register",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Program Counter Register",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Instruction Register",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version D",
+   "q_en": "The expansion card which is required to run multimedia application on a computer is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Gigabit card",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Network interface card",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Video graphic card",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Modem card",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version D",
+   "q_en": "An interface or connection point through which peripheral devices connect to the computer is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Expansion slots",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Port",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Modem",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "System Bus",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version D",
+   "q_en": "TCP and UDP protocols are used at the following layer:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Session layer",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Application layer",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Network layer",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Transport layer",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version D",
+   "q_en": "To setup a computer lab of 25 computers which class of IP address is suitable?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Class A",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Class B",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Class C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Class D",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version D",
+   "q_en": "Which of the following satellite systems is located above Low Earth Orbit and Below Geostationary Earth Orbit?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Geostationary Earth Orbit",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "High Earth Orbit",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Medium Earth Orbit",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Low Earth Orbit",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version D",
+   "q_en": "A Radio Frequency (RF) communication system consists of two components known as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Transmitter and receiver",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Transmitter and medium",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Transmitter and transceiver",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Receiver and medium",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Version D",
+   "q_en": "Which of the following database languages is uses to insert, update and delete data in database?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "DDL",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "DML",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "DCL",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "DXL",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Version D",
+   "q_en": "The maximum number of an instance of one entity associated with each instance of related entity is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Unary relationship",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Modality",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cardinality",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Relational schema",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Version D",
+   "q_en": "Which type of query is used to extract data from tables based on specified criteria?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Action query",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Select query",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Update query",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Insert query",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

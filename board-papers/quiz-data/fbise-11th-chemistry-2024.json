@@ -1,0 +1,962 @@
+{
+ "board": "FBISE Islamabad",
+ "board_slug": "fbise",
+ "class": "11th",
+ "subject": "Chemistry",
+ "year": 2024,
+ "slug": "fbise-11th-chemistry-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Version B",
+   "q_en": "A liquid is thought to be pure ethanol. Which of the following is best way to test its purity?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Dehydrating it with H2SO4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Measuring its boiling point",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Reacting with ethanol",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Burning it completely",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version B",
+   "q_en": "Volume occupied by 2 g of SO2 gas at S.T.P will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "17 dm^3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.7 dm^3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.7 cm^3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "700 dm^3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version B",
+   "q_en": "The largest/maximum number of molecules are present in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "180 g of C6H12O6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "44 g of CO2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "98 g of H2SO4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "36 g of H2O",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version B",
+   "q_en": "If ^29_61 Cu and ^79_197 Au are used as anodes for production of x-rays, then \"Cu\" will produce the x-rays of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "High energy",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Shorter wavelength",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Longer wavelength",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "High frequency",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version B",
+   "q_en": "The third line of Balmer series appears due to the transition of electron from:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "n3 → n1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "n4 → n2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "n5 → n2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "n5 → n1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version B",
+   "q_en": "Which of the following covalent bond has lowest bond energy?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "H - I",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "H - F",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "H - Cl",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "H - Br",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version B",
+   "q_en": "Shape of PH3 molecule is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "T-shape",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Octahedral",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Pyramidal",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Triangular planar",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version B",
+   "q_en": "Which pair of gases diffuses with the same rate at same temperature and pressure?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CO and PH3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CO and NO",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NO and C2H6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NH3 and PH3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version B",
+   "q_en": "Which of the following is NOT present in plasma?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Neutral atoms",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Electrons",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cations",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Anions",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version B",
+   "q_en": "Which of the following processes is NOT endothermic?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Vaporization",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Condensation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Fusion",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Sublimation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version B",
+   "q_en": "If crystallization of \"NaCl\" is carried out in the presence of urea then its shape will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Octahedral",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cubic",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Tetrahedral",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Pyramidal",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version B",
+   "q_en": "The strong conjugate base in the given is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CO3^-2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NO3^-1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cl^-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "SO4^-2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Version B",
+   "q_en": "A reaction will proceed in forward direction to maximum extent if value of Kc is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10^-2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10^-30",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10^+30",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Version B",
+   "q_en": "For a reaction \"A → Product\", doubling the concentration of \"A\" quadruples the rate. The reaction is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero order",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1st order",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2nd order",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3rd order",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Version B",
+   "q_en": "Swelling of dead bones in water is due to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Osmosis",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Evaporation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Decomposition",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Boiling",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Version B",
+   "q_en": "Which of the following is NOT a state function?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Work",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Temperature",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Pressure",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Volume",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Version B",
+   "q_en": "\"Zn\" acts as anode in Daniel cell but acts as cathode when coupled with Aluminum electrode. This is because:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "E° of Zn = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "E° of Zn > E° of Al",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "E° of Zn < E° of Al",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "E° of Zn = E° of Al",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Version D",
+   "q_en": "A device that converts the energy of combustion of Fuels like hydrogen directly into electrical energy is known as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Lead Storage cell",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Fuel cell",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NICAD cell",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Dry cell",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version D",
+   "q_en": "Which of the following gases resembles ideal gas?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "HCl",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "C4H10",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "H2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NH3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version D",
+   "q_en": "A beaker contains 9 g of water. The number of hydrogen atoms in it will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "6.02×10^24",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3.01×10^24",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6.02×10^23",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3.01×10^23",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version D",
+   "q_en": "Which one of the following pairs of gases contains the same number of molecules at S.T.P?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "28 g of N2 and 22 g of CO2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "32 g of O2 and 32 g of N2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "16 g of O2 and 14 g of N2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8 g of O2 and 22 g of CO2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version D",
+   "q_en": "According to Aufbau Principle a new electrons enters the orbital when:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "m + s is maximum",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "m + s is minimum",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "n + l is maximum",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "n + l is minimum",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version D",
+   "q_en": "The frequency of green light is 6×10^14 Hz. Its wavelength is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5000 nm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "50000 nm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5 nm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "500 nm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version D",
+   "q_en": "In which of the following molecules central atom has sp^2 hybridization?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "BF3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NH3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "H2O",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NF3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version D",
+   "q_en": "Which one of the following molecules has zero dipole moment?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "H2S (Bent)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "BF3 (Triangular Planar)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NH3 (Pyramidal)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "H2O (Bent)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version D",
+   "q_en": "Which pair of the gases diffuses with the same rate at S.T.P?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CO and PH3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NH3 and PH3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CO and NO",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NO and C2H6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version D",
+   "q_en": "To which of the following gaseous mixture, Dalton's law is NOT applicable?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "N2 and CO2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NH3 and HCl",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "H2 and N2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ne and He",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version D",
+   "q_en": "Which of the following is NOT the unit of viscosity?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "poise",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Nm^-2s",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "poise^-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "kgm^-1s^-1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version D",
+   "q_en": "Which of the following pairs are isomorphs of each other?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "MgO and MgCl2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NaCl and MgO",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "MgO and CaCO3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "KNO3 and NaCl",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Version D",
+   "q_en": "Which of the following pairs constitute a buffer solution?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "NaCl + HCl",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Na2CO3 + H2CO3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NaOH + HCl",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "HNO3 + NH4NO3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Version D",
+   "q_en": "The pH of a solution of HCl is 4. Molarity of solution will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.04",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4.0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.0001",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Version D",
+   "q_en": "The rate of reaction ______ as the reaction proceeds.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Remains the same",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Becomes infinite",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Increases",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Decreases",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Version D",
+   "q_en": "Which of the following is NOT the colligative property of solution?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Optical activity",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Osmosis",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Elevation of Boiling point",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Depression of Freezing point",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Version D",
+   "q_en": "Born Haber cycle is the application of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Henry's law",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Moseley's law",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Faraday's law",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Hess's law",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}
