@@ -1,0 +1,346 @@
+{
+ "board": "BBISE Quetta",
+ "board_slug": "quetta",
+ "class": "9th",
+ "subject": "Mathematics",
+ "year": 2024,
+ "slug": "quetta-9th-mathematics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "[1 0; 0 3] is a ---------- matrix.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Scalar",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Diagonal",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Rectangular",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Unit",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "In 2i(3 - i) the real part is '----------'.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "In 1614, ---------- developed the concept of the logarithm.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Al-Khawarizmi",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Briggs",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Napier",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Euler",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The simplest form of √(1/4) is ----------.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2/3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Factors of x² - 9y² are ----------.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(x - 3y)²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(x + 3y)²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(3x - y)²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(x - 3y)(x + 3y)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "L.C.M of 4x, 8xy and 12x²y² is ----------.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "24x²y",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "12x²y",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "24xy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "12xy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The solution of 2z + 8 = 11 is ----------.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-3/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2/3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "(-1, -5) lies in ---------- quadrant.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "I",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "II",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "III",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "IV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Two or more than two points which lie on the same straight line is called ---------- points.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Non-collinear",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Collinear",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Concurrent",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "line",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The ---------- sides and angles of congruent triangles are congruent.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Parallel",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Opposite",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Corresponding",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Unparallel",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "There are ---------- acute angles in right angled triangle.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "One",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Two",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Three",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Many",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Pythagoras theorem was first derived by the Greek Mathematician Pythagoras ---------- years ago.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1500",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2200",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2300",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2500",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

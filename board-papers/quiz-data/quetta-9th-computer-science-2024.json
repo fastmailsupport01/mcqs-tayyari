@@ -1,0 +1,234 @@
+{
+ "board": "BBISE Quetta",
+ "board_slug": "quetta",
+ "class": "9th",
+ "subject": "Computer Science",
+ "year": 2024,
+ "slug": "quetta-9th-computer-science-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Who invented logarithm?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Blaise Pascal",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "John Napeir",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Charles Babbage",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Herman Hollerith",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Which of the following user interface is the easiest one to learn and use?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CLI",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "GUI",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "UNIX",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "DOS",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Which of the following tab of Word Ribbon contains Clipboard group?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Page Layout",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Insert",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "File",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Home",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "In which of the following impairment, the strength of signal falls off with distance?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Distortion",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Attenuation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cross talk",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Noise",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Which of the following topology is most expensive to implement?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Star",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Bus",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ring",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mesh",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "In which of the following network topology, switch is required?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Star",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Bus",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ring",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mesh",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Which of the following authentication method is most reliable?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Username and password",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Biometrics",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Personal identification number",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Access card",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Which of the following malware displays advertisements on the screen?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Virus",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Worm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Adware",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Trojan",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,290 @@
+{
+ "board": "BBISE Quetta",
+ "board_slug": "quetta",
+ "class": "10th",
+ "subject": "Chemistry",
+ "year": 2024,
+ "slug": "quetta-10th-chemistry-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The type of equilibrium found in fulcrum and fauna is.",
+   "q_ur": "فلکرم اور فاؤنا میں جو توازن تشکیل پاتا ہے اس کی نوعیت ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Static",
+     "ur": "جامد"
+    },
+    {
+     "k": "B",
+     "en": "Dynamic",
+     "ur": "متحرک"
+    },
+    {
+     "k": "C",
+     "en": "Physical",
+     "ur": "طبعی"
+    },
+    {
+     "k": "D",
+     "en": "Chemical",
+     "ur": "کیمیائی"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "A liquid has a pH of 7, it tells that the liquid is.",
+   "q_ur": "ایک مائع جس کی pH=7 ہے تو اس سے پتہ چلتا ہے کہ مائع ______ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Acidic",
+     "ur": "تیزابی"
+    },
+    {
+     "k": "B",
+     "en": "Basic",
+     "ur": "اساسی"
+    },
+    {
+     "k": "C",
+     "en": "Neutral",
+     "ur": "نیوٹرل"
+    },
+    {
+     "k": "D",
+     "en": "Amphoteric",
+     "ur": "ایمفوٹیرک"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "NaHCO₃ is a chemical compound.",
+   "q_ur": "NaHCO₃ ایک کیمیائی کمپاؤنڈ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Organic",
+     "ur": "آرگینک"
+    },
+    {
+     "k": "B",
+     "en": "Inorganic",
+     "ur": "ان آرگینک"
+    },
+    {
+     "k": "C",
+     "en": "Bioorganic",
+     "ur": "بائیو آرگینک"
+    },
+    {
+     "k": "D",
+     "en": "Neutral",
+     "ur": "نیوٹرل"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Dehydration of alcohols with sulphuric acid yields",
+   "q_ur": "الکحل کی سلفیورک ایسڈ کے ساتھ ڈی ہائیڈریشن سے بنتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Alkane",
+     "ur": "الکین (Alkane)"
+    },
+    {
+     "k": "B",
+     "en": "Benzene",
+     "ur": "بینزین"
+    },
+    {
+     "k": "C",
+     "en": "Alkyne",
+     "ur": "الکائن"
+    },
+    {
+     "k": "D",
+     "en": "Alkene",
+     "ur": "الکین (Alkene)"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "General formula of monosaccharides is",
+   "q_ur": "مونو سیکرائیڈز کا جنرل فارمولا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "CₙH₂ₙ₋₂Oₙ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cₙ(H₂O)ₙ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CₙH₂ₙ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CₙH₂ₙ₊₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Percentage of oxygen in atmosphere is",
+   "q_ur": "ہوا میں آکسیجن کا تناسب ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "21%",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "20%",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "22%",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "19%",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Pure water has the taste.",
+   "q_ur": "خالص پانی کا ذائقہ ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Salty",
+     "ur": "نمکین"
+    },
+    {
+     "k": "B",
+     "en": "Sweet",
+     "ur": "میٹھا"
+    },
+    {
+     "k": "C",
+     "en": "Tasteless",
+     "ur": "بے ذائقہ"
+    },
+    {
+     "k": "D",
+     "en": "Sour",
+     "ur": "کھٹا"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The first step in metallurgical operations is.",
+   "q_ur": "دھات کاری آپریشن میں سب سے پہلا مرحلہ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Concentration of Ore",
+     "ur": "اور (Ore) کی کنسنٹریشن"
+    },
+    {
+     "k": "B",
+     "en": "Crushing the Ore",
+     "ur": "اور (Ore) کی کرشنگ"
+    },
+    {
+     "k": "C",
+     "en": "Refining the Ore",
+     "ur": "اور (Ore) کی ریفائننگ"
+    },
+    {
+     "k": "D",
+     "en": "Extraction of metal from Ore",
+     "ur": "اور (Ore) سے دھات کا حصول"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Halogenation means.",
+   "q_ur": "ہیلوجینیشن کا مطلب ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Reaction with chlorine",
+     "ur": "کلورین سے ری ایکشن"
+    },
+    {
+     "k": "B",
+     "en": "reaction with bromine",
+     "ur": "برومین سے ری ایکشن"
+    },
+    {
+     "k": "C",
+     "en": "reaction with iodine",
+     "ur": "آئیوڈین سے ری ایکشن"
+    },
+    {
+     "k": "D",
+     "en": "reaction with all of these",
+     "ur": "ان تمام سے ری ایکشن"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "General formula of Ketone is.",
+   "q_ur": "کیٹون (Ketone) کا جنرل فارمولا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "RCOR",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ROH",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ROR",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "RX",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

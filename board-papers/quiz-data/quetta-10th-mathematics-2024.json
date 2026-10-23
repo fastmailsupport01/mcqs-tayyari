@@ -1,0 +1,346 @@
+{
+ "board": "BBISE Quetta",
+ "board_slug": "quetta",
+ "class": "10th",
+ "subject": "Mathematics",
+ "year": 2024,
+ "slug": "quetta-10th-mathematics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Sum of the cube roots of unity is -----.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "If y varies directly as x then it can be written as -----.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "y ∝ 1/x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "y ∝ x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "K ∝ x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "y ∝ 1/K",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "(x-1)/((x+7)(x²+9)) can be decomposed in partial fraction -----.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A/(x+7) + B/(x²+9)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(Ax+B)/(x²+9) + C/(x+7)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A/(x+7) + (Bx+C)/(x²+9)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A/(x+7) - (Bx+C)/(x²+9)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "(A ∪ B)ᶜ = -----.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A ∪ B",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A ∩ Bᶜ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Aᶜ ∪ Bᶜ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Aᶜ ∩ Bᶜ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Histogram is a graph of -----.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Frequency",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Class limit",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ungrouped data",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Frequency distribution",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "An angle is a union of two -----.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Non collinear rays",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Collinear rays",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Initial rays",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Terminal rays",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "An angle inscribed in a semi circle is a ----- angle",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Area",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Sector",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Right",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Chord",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "If B ⊆ A then A ∪ B = -----.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "B",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Bᶜ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Aᶜ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Third proportional of 9 and 6 is -----.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "12",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "15",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Sum of roots of quadratic equation 2x² + 3x + 7 = 0 is -----.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-3/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The tangent and radius of a circle at the point of contact are -----.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Parallel",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "non parallel",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "perpendicular",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Double",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "A chord passing through the center of circle is called -----.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Radius",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Collinear",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Diameter",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Medium",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

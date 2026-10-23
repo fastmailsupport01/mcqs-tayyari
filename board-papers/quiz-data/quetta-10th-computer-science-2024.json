@@ -1,0 +1,234 @@
+{
+ "board": "BBISE Quetta",
+ "board_slug": "quetta",
+ "class": "10th",
+ "subject": "Computer Science",
+ "year": 2024,
+ "slug": "quetta-10th-computer-science-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "What is represented by a small circle in a flowchart?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Connector",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Processing",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Start/Stop",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Decision",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Which symbol is used for processing in a flowchart?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Rectangle",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Parallelogram",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Diamond",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Oval",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "What define the rules of valid statements in programming?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Compiler",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Interpreter",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Syntax",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Semantic",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "How many bytes are set aside by the compiler for a variable of type float?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Which of the following is an arithmetic operator?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "%",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "<=",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "&&",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "+=",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Which of the following is an increment operator?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "+",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "+=",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "++",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "=+",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Which operation is represented by \"&&\" sign?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "AND",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "OR",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NOT",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NAND",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Which language is used for creating Web pages?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "HTML",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "C Language",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "URL",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Web browser",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}
