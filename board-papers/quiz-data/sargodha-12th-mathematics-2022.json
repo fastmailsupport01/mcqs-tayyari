@@ -1,0 +1,570 @@
+{
+ "board": "BISE Sargodha",
+ "board_slug": "sargodha",
+ "class": "12th",
+ "subject": "Mathematics",
+ "year": 2022,
+ "slug": "sargodha-12th-mathematics-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "∫2ˣ dx =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The range of the function f(x) = √(x²−4) is,",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Limₓ→₀ (eˣ−1)/x =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "d/dx(√(tan x)) =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "If y = sin√x, then dy/dx =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "d/dx(1/(1/ℓnx)) =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "d/dx(1/cosec x) =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "∫x⁻¹ dx =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The direction cosines of a vector 3i̲ − j̲ + 2k̲ are",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The solution of the differential equation dy/dx = (y²+1)/e⁻ˣ is,",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "∫(cot x)/(ℓn sin x) dx =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "If a line ℓ is perpendicular to x-axis, then its inclination is,",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "The equation of the straight line whose slope is 2 and y-intercept 5 is,",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "The distance of a point P(6, −1) from the line 6x − 4y + 9 = 0 is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "The slope of line through the points (−2, 4), (5, 11) is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "Point (3, 2) is not the solution of inequality",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "The focus of the parabola x² = 8y is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group I",
+   "q_en": "The eccentricity of the hyperbola is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group I",
+   "q_en": "The Centre of the circle (x−1)² + (y+3)² = 3 is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group I",
+   "q_en": "Which one of the following is not a unit vector,",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

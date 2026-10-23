@@ -1,0 +1,430 @@
+{
+ "board": "BISE Sahiwal",
+ "board_slug": "sahiwal",
+ "class": "9th",
+ "subject": "Mathematics",
+ "year": 2022,
+ "slug": "sahiwal-9th-mathematics-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "If y = 2x + 1, x = 2 then y is equal to:",
+   "q_ur": "اگر y = 2x + 1، x = 2 تو y برابر ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The bisectors of the angles of a triangle are:",
+   "q_ur": "کسی مثلث کے تینوں زاویوں کے ناصف ہوتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Collinear",
+     "ur": "ہم خط"
+    },
+    {
+     "k": "B",
+     "en": "Concurrent",
+     "ur": "ہم نقطہ"
+    },
+    {
+     "k": "C",
+     "en": "Perpendicular",
+     "ur": "عمود"
+    },
+    {
+     "k": "D",
+     "en": "Proportional",
+     "ur": "متناسب"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "A ray has ______ end points.",
+   "q_ur": "ایک شعاع کے ______ سرے ہوتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "If three altitudes of a triangle are congruent, then the triangle is:",
+   "q_ur": "اگر ایک مثلث کے تینوں عمود مماثل ہیں تو وہ مثلث ہو گی۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Equilateral",
+     "ur": "مساوی الاضلاع"
+    },
+    {
+     "k": "B",
+     "en": "Right angled",
+     "ur": "قائمۃ الزاویہ"
+    },
+    {
+     "k": "C",
+     "en": "Isosceles",
+     "ur": "مساوی الساقین"
+    },
+    {
+     "k": "D",
+     "en": "Acute angled",
+     "ur": "حادۃ الزاویہ"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "If two opposite sides of a quadrilateral are congruent and parallel, it is:",
+   "q_ur": "اگر کسی چوکور کے دو متضاد اضلاع مماثل اور متوازی ہوں، تو وہ ہو گی۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Parallelogram",
+     "ur": "متوازی الاضلاع"
+    },
+    {
+     "k": "B",
+     "en": "Triangle",
+     "ur": "مثلث"
+    },
+    {
+     "k": "C",
+     "en": "Rhombus",
+     "ur": "معین"
+    },
+    {
+     "k": "D",
+     "en": "Trapezium",
+     "ur": "ذوزنقہ"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Mid-point of points (2, 2) and (0, 0) is:",
+   "q_ur": "نقاط (0,0) اور (2,2) کا درمیانی نقطہ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "(1,1)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(1,0)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(0,1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(-1,-1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The region enclosed by the bounding lines of a closed figure is called the ______ of the figure.",
+   "q_ur": "کسی بند شکل کی حد بندی کرنے والے خطوط جس علاقے کا احاطہ کرتے ہیں، وہ شکل کا ______ کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Perimeter",
+     "ur": "احاطہ"
+    },
+    {
+     "k": "B",
+     "en": "Area",
+     "ur": "رقبہ"
+    },
+    {
+     "k": "C",
+     "en": "Union",
+     "ur": "یونین"
+    },
+    {
+     "k": "D",
+     "en": "Altitude",
+     "ur": "ارتفاع"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "______ triangles are of same size and shape.",
+   "q_ur": "______ مثلثیں سائز اور شکل میں ایک جیسی ہوتی ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Congruent",
+     "ur": "ہم شکل"
+    },
+    {
+     "k": "B",
+     "en": "Proportional",
+     "ur": "متناسب"
+    },
+    {
+     "k": "C",
+     "en": "Collinear",
+     "ur": "ہم خط"
+    },
+    {
+     "k": "D",
+     "en": "Similar",
+     "ur": "متشابہ"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Order of transpose of [[2,1],[0,1],[3,2]] is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3-by-2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2-by-3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1-by-3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3-by-1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Imaginary part of -i(3i + 2) is:",
+   "q_ur": "کمپلیکس نمبر -i(3i + 2) کا امیجنری جزو ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "-2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "log(m^n) can be written as:",
+   "q_ur": "log(m^n) کو اس طرح بھی لکھا جا سکتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "(log m)^n",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "m log n",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "n log m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "log mn",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The degree of polynomial 4x^4 + 2x^2y is:",
+   "q_ur": "4x^4 + 2x^2y کثیر رقمی کا درجہ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Factors of 3x^2 - x - 2 are:",
+   "q_ur": "3x^2 - x - 2 کے اجزائے ضربی ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "(x+1), (3x-2)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(3x+1), (3x+2)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(x-1), (3x-2)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(x-1), (3x+2)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "The square root of a^2 - 2a + 1 is:",
+   "q_ur": "a^2 - 2a + 1 کا جذر المربع ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "±(a+1)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "±(a-1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(a-1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(a+1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "x = 0 is a solution set of the inequality:",
+   "q_ur": "x = 0 ______ غیر مساوات ______ کا حل سیٹ کون ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "x > 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3x + 5 < 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x + 2 < 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x - 2 < 0",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,682 @@
+{
+ "board": "BISE Sahiwal",
+ "board_slug": "sahiwal",
+ "class": "9th",
+ "subject": "Physics",
+ "year": 2022,
+ "slug": "sahiwal-9th-physics-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Specific heat of water is:",
+   "q_ur": "پانی کی حرارت مخصوصہ ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1000 Jkg⁻¹K⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4000 Jkg⁻¹K⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4200 Jkg⁻¹K⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "810 Jkg⁻¹K⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Normal human body's temperature is:",
+   "q_ur": "نارمل یا صحت مند انسانی جسم کا ٹمپریچر ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "15°C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "32°F",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0K",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "37°C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Land breeze blows from:",
+   "q_ur": "نسیم بری چلتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Land to sea during night",
+     "ur": "رات کے وقت خشکی سے سمندر کی طرف"
+    },
+    {
+     "k": "B",
+     "en": "Land to sea during day",
+     "ur": "دن کے وقت خشکی سے سمندر کی طرف"
+    },
+    {
+     "k": "C",
+     "en": "Sea to land during night",
+     "ur": "رات کے وقت سمندر سے خشکی کی طرف"
+    },
+    {
+     "k": "D",
+     "en": "Sea to land during day",
+     "ur": "دن کے وقت سمندر سے خشکی کی طرف"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The value of \"g\" at a height one earth's radius above the surface of the earth is:",
+   "q_ur": "\"g\" کی قیمت سطح زمین سے زمین کے رداس کے مساوی بلندی پر ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "2g",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/2 g",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/3 g",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/4 g",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The work done will be zero when the angle between force and distance is:",
+   "q_ur": "ورک صفر ہو گا جب فورس اور فاصلے کے درمیان زاویہ ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "180°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The orbital speed of a low orbit satellite is:",
+   "q_ur": "نچلے آربٹ کے سیٹلائٹ کی آربٹل سپیڈ ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": "صفر"
+    },
+    {
+     "k": "B",
+     "en": "8 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "800 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8000 ms⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Which of the given substance is the lightest one?",
+   "q_ur": "ان میں سے کونسی سب سے ہلکی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Copper",
+     "ur": "کاپر"
+    },
+    {
+     "k": "B",
+     "en": "Mercury",
+     "ur": "مرکری"
+    },
+    {
+     "k": "C",
+     "en": "Aluminium",
+     "ur": "الومینیم"
+    },
+    {
+     "k": "D",
+     "en": "Lead",
+     "ur": "سیسہ"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Inertia depends upon: ______",
+   "q_ur": "انرشیا کا انحصار ______ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Force",
+     "ur": "فورس"
+    },
+    {
+     "k": "B",
+     "en": "Net force",
+     "ur": "نیٹ فورس"
+    },
+    {
+     "k": "C",
+     "en": "Mass",
+     "ur": "ماس"
+    },
+    {
+     "k": "D",
+     "en": "Velocity",
+     "ur": "ویلوسٹی"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The number of perpendicular components of a force is:",
+   "q_ur": "کسی ویکٹر کے عمودی کمپونینٹس کی تعداد ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Which of the given is a vector quantity?",
+   "q_ur": "ان میں سے کونسی مقدار ویکٹر ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Speed",
+     "ur": "سپیڈ"
+    },
+    {
+     "k": "B",
+     "en": "Distance",
+     "ur": "فاصلہ"
+    },
+    {
+     "k": "C",
+     "en": "Displacement",
+     "ur": "ڈسپلیسمنٹ"
+    },
+    {
+     "k": "D",
+     "en": "Power",
+     "ur": "پاور"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Which one of the given is the smallest quantity?",
+   "q_ur": "دی گئی مقداروں میں سے کونسی مقدار سب سے کم ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.01g",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2mg",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "100μg",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5000ng",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The number of base units in SI is:",
+   "q_ur": "SI میں بنیادی یونٹس کی تعداد ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "The product of mass (m) and acceleration (a) is equal to:",
+   "q_ur": "ماس (m) اور ایکسلریشن (a) کا حاصل ضرب ہو گا۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Momentum",
+     "ur": "مومنٹم"
+    },
+    {
+     "k": "B",
+     "en": "Force",
+     "ur": "فورس"
+    },
+    {
+     "k": "C",
+     "en": "Inertia",
+     "ur": "انرشیا"
+    },
+    {
+     "k": "D",
+     "en": "Torque",
+     "ur": "ٹارک"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Formula for centripetal force is:",
+   "q_ur": "سنٹری پیٹل فورس کا فارمولا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Fc = mv/r",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Fc = mv/r²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Fc = mv²/r",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Fc = mv²/r²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Least count of a metre rod is:",
+   "q_ur": "میٹر راڈ کا لیسٹ کاؤنٹ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.1 mm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.0 mm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.0 cm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.0 m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "What will be the temperature on Kelvin scale when it is 20°C on Celsius scale?",
+   "q_ur": "اگر سیلسیس اسکیل پر ٹمپریچر 20°C ہو تو کیلون اسکیل پر ٹمپریچر ہو گا۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "273K",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "293K",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "300K",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "373K",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Water freezes at:",
+   "q_ur": "پانی کس ٹمپریچر پر منجمد ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "0°F",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "32°F",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "273K",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0K",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "In which of the given states of matter, molecules do not leave their position?",
+   "q_ur": "مادہ کی کونسی حالت میں مالیکیول اپنی پوزیشن نہیں چھوڑتے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Solid",
+     "ur": "سالڈ"
+    },
+    {
+     "k": "B",
+     "en": "Liquid",
+     "ur": "لکوڈ"
+    },
+    {
+     "k": "C",
+     "en": "Gas",
+     "ur": "گیس"
+    },
+    {
+     "k": "D",
+     "en": "Plasma",
+     "ur": "پلازما"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "In solids, heat is transferred by:",
+   "q_ur": "ٹھوس اجسام میں انتقال حرارت کا طریقہ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Radiation",
+     "ur": "ریڈی ایشن"
+    },
+    {
+     "k": "B",
+     "en": "Convection",
+     "ur": "کنویکشن"
+    },
+    {
+     "k": "C",
+     "en": "Conduction",
+     "ur": "کنڈکشن"
+    },
+    {
+     "k": "D",
+     "en": "Absorption",
+     "ur": "ابزورپشن"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "The value of \"g\" at a height one earth's radius above the surface of the earth is:",
+   "q_ur": "\"g\" کی قیمت سطح زمین سے زمین کے رداس کے مساوی بلندی پر ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "2g",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/2 g",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/3 g",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/4 g",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Force of 10N is making an angle of 30° with x-axis, its horizontal component is:",
+   "q_ur": "10 نیوٹن کی فورس x-ایکسز کے ساتھ 30° کا زاویہ بناتی ہے۔ اس فورس کا ہاریزنٹل کمپونینٹ ہو گا۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "4N",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8.7N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "The work done will be zero when the angle between force and distance is:",
+   "q_ur": "ورک صفر ہو گا جب فورس اور فاصلے کے درمیان زاویہ ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "180°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Which of the given is a vector quantity?",
+   "q_ur": "ان میں سے کونسی مقدار ویکٹر ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Speed",
+     "ur": "سپیڈ"
+    },
+    {
+     "k": "B",
+     "en": "Distance",
+     "ur": "فاصلہ"
+    },
+    {
+     "k": "C",
+     "en": "Power",
+     "ur": "پاور"
+    },
+    {
+     "k": "D",
+     "en": "Displacement",
+     "ur": "ڈسپلیسمنٹ"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "In the value 210.0g, the number of significant figures is/are:",
+   "q_ur": "210.0g میں اہم ہندسوں کی تعداد ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

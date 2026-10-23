@@ -1,0 +1,570 @@
+{
+ "board": "BISE Sargodha",
+ "board_slug": "sargodha",
+ "class": "10th",
+ "subject": "Computer Science",
+ "year": 2021,
+ "slug": "sargodha-10th-computer-science-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The number of pixels are called",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Typographical errors in BASIC statements are",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "If two or more statements are written on a line, they must be seperated by a ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Which of the following shortcut key is used to save a file in GW-BASIC?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "In GW-BASIC, types of control structures are",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Which keyword is used to increment or decrement a counter by a value that you specify?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "There are ______ types of array.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "A variable that holds a large group of similar type of data is called.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "A large program can be divided into smaller parts called",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The output of ABS(-4.58) is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "The diamond symbol represents the",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "If two or more statments are written on a line, they must be separated by a ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Which of the following is a short key to save a program in GW-BASIC?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Which is a loop statment?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "How many types of Loops in GW-BASIC?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Maximum number of elements per dimension is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "What is the representation of the third element in array N",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "The output of ABS(-4.58) is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "From which category INT function belongs to",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "The number of pixels are called.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

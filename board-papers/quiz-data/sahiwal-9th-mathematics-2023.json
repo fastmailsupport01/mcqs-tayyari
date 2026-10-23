@@ -1,0 +1,430 @@
+{
+ "board": "BISE Sahiwal",
+ "board_slug": "sahiwal",
+ "class": "9th",
+ "subject": "Mathematics",
+ "year": 2023,
+ "slug": "sahiwal-9th-mathematics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Point (−3, −1) lies in quadrant ______.",
+   "q_ur": "نقطہ (−3, −1) مستوی کے ربع ______ میں واقع ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "I",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "II",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "III",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "IV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Equality of two ratios is called ______.",
+   "q_ur": "دو نسبتوں میں برابری کے تعلق کو ______ کہتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Proportion",
+     "ur": "تناسب"
+    },
+    {
+     "k": "B",
+     "en": "Ratio",
+     "ur": "نسبت"
+    },
+    {
+     "k": "C",
+     "en": "Average",
+     "ur": "اوسط"
+    },
+    {
+     "k": "D",
+     "en": "Congruent",
+     "ur": "متطابق"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Two lines can intersect at ______ point / points:",
+   "q_ur": "دو خطوط ______ نقطہ/نقاط پر تقاطع کر سکتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "one",
+     "ur": "ایک"
+    },
+    {
+     "k": "B",
+     "en": "two",
+     "ur": "دو"
+    },
+    {
+     "k": "C",
+     "en": "three",
+     "ur": "تین"
+    },
+    {
+     "k": "D",
+     "en": "four",
+     "ur": "چار"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "One angle on the base of an isosceles triangle is 30°. What is the measure of its vertical angle?",
+   "q_ur": "متساوی الساقین مثلث کے قاعدے پر ایک زاویہ 30° ہے۔ اس کے راسی زاویے کی مقدار کیا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "30°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "120°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The right bisectors of the sides of an obtuse triangle intersect each other ______ the triangle:",
+   "q_ur": "منفرجہ زاویہ مثلث کے اضلاع کے عمودی ناصف ایک دوسرے کو مثلث کے ______ قطع کرتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "inside",
+     "ur": "اندر"
+    },
+    {
+     "k": "B",
+     "en": "at base",
+     "ur": "قاعدے پر"
+    },
+    {
+     "k": "C",
+     "en": "at hypotenuse",
+     "ur": "وتر پر"
+    },
+    {
+     "k": "D",
+     "en": "outside",
+     "ur": "باہر"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Mid-point of the points (0,0) and (2,2) is ______.",
+   "q_ur": "نقاط (0,0) اور (2,2) کا درمیانی نقطہ ______ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "(1,1)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(1,0)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(0,1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(−1,−1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The region enclosed by the bounding lines of a closed figure is called ______ of the figure.",
+   "q_ur": "کسی بند شکل کی باؤنڈری کرنے والے خطوط جس حصے کا احاطہ کرتے ہیں وہ شکل کا ______ کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "perimeter",
+     "ur": "احاطہ"
+    },
+    {
+     "k": "B",
+     "en": "area",
+     "ur": "رقبہ"
+    },
+    {
+     "k": "C",
+     "en": "altitude",
+     "ur": "ارتفاع"
+    },
+    {
+     "k": "D",
+     "en": "union",
+     "ur": "یونین"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "In a parallelogram, the opposite sides are ______.",
+   "q_ur": "متوازی الاضلاع کے مخالف اضلاع ______ ہوتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Non-congruent",
+     "ur": "غیر متطابق"
+    },
+    {
+     "k": "B",
+     "en": "Parallel",
+     "ur": "متوازی"
+    },
+    {
+     "k": "C",
+     "en": "Un parallel",
+     "ur": "غیر متوازی"
+    },
+    {
+     "k": "D",
+     "en": "Unequal",
+     "ur": "نابرابر"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Product of [x y] [[2],[−1]] is ______:",
+   "q_ur": "[x y] [[2],[−1]] کی ضرب حاصل ______ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "[2x+y]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[x−2y]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[x+2y]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[2x−y]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Real part of 2ab(i+i²) is ______:",
+   "q_ur": "کمپلیکس نمبر 2ab(i+i²) کا حقیقی حصہ ______ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "2ab",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2abi",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−2abi",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−2ab",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "For common logarithm, the base is ______:",
+   "q_ur": "عام لوگار تھم کی اساس ______ ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "e",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The degree of polynomial 4x⁴+2x²y is ______:",
+   "q_ur": "کثیر رکنی 4x⁴+2x²y کا درجہ ______ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "(x+y)(x²−xy+y²) = ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x³−y³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x³+y³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(x+y)³",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(x−y)³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "What should be added to complete the square of x⁴+64?",
+   "q_ur": "x⁴+64 میں کیا جمع کیا جائے کہ مکمل مربع بن جائے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "8x²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−8x²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "16x²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4x²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "x = ______ is a solution of the inequality −2 < x < 3/2",
+   "q_ur": "x = ______ غیر مساوات −2 < x < 3/2 کے حل سیٹ کا ایک رکن ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "−5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3/2",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

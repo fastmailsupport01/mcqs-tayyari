@@ -1,0 +1,570 @@
+{
+ "board": "BISE Sahiwal",
+ "board_slug": "sahiwal",
+ "class": "9th",
+ "subject": "Computer Science",
+ "year": 2022,
+ "slug": "sahiwal-9th-computer-science-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "______ is a type of Boolean proposition that consists of two or more propositions.",
+   "q_ur": "بولین پروپوزیشن کی قسم ہے جو دو یا زیادہ پروپوزیشن پر مشتمل ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Basic Proposition",
+     "ur": "بیسک پروپوزیشن"
+    },
+    {
+     "k": "B",
+     "en": "Compound Proposition",
+     "ur": "کمپاؤنڈ پروپوزیشن"
+    },
+    {
+     "k": "C",
+     "en": "Complex Proposition",
+     "ur": "کمپلیکس پروپوزیشن"
+    },
+    {
+     "k": "D",
+     "en": "Truth values",
+     "ur": "ٹروتھ ویلیوز"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Which of the given is correct IPv4 address?",
+   "q_ur": "ان میں کون سا IPv4 ایڈریس درست ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "256.20.15.0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "af.2c.5f.4d",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "25:2:5:14",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "172.16.54.1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Protecting data from malicious users is called:",
+   "q_ur": "نقصان پہنچانے والے صارفین سے ڈیٹا کو محفوظ رکھنے کا عمل کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Data privacy",
+     "ur": "ڈیٹا پرائیویسی"
+    },
+    {
+     "k": "B",
+     "en": "Data sharing",
+     "ur": "ڈیٹا شیئرنگ"
+    },
+    {
+     "k": "C",
+     "en": "Data distribution",
+     "ur": "ڈیٹا ڈسٹریبیوشن"
+    },
+    {
+     "k": "D",
+     "en": "Data processing",
+     "ur": "ڈیٹا پروسیسنگ"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "______ is a process of encoding data.",
+   "q_ur": "ایک ایسا عمل ہے جس میں ڈیٹا کو انکوڈ کیا جاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Confidentiality",
+     "ur": "کانفیڈینشیلیٹی"
+    },
+    {
+     "k": "B",
+     "en": "Password",
+     "ur": "پاسورڈ"
+    },
+    {
+     "k": "C",
+     "en": "Piracy",
+     "ur": "پائریسی"
+    },
+    {
+     "k": "D",
+     "en": "Encryption",
+     "ur": "انکرپشن"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "<br> is ______ tag.",
+   "q_ur": "<br> ایک ______ ٹیگ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Paired",
+     "ur": "جوڑا"
+    },
+    {
+     "k": "B",
+     "en": "Singular",
+     "ur": "سنگولر"
+    },
+    {
+     "k": "C",
+     "en": "Single",
+     "ur": "سنگل"
+    },
+    {
+     "k": "D",
+     "en": "Double",
+     "ur": "ڈبل"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "There are ______ of headings in HTML document.",
+   "q_ur": "HTML ڈاکومنٹ میں ______ قسم کی ہیڈنگز ہوتی ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "How many Ws are necessary to understand a problem?",
+   "q_ur": "ایک مسئلہ کو سمجھنے کے لیے کتنے (Ws) ضروری ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Which solution is NOT reached through proper algorithm planning or work planning?",
+   "q_ur": "کس حل کو مناسب الگورتھم پلاننگ سے نہیں پہنچایا جاتا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Prepared solution",
+     "ur": "تیار شدہ حل"
+    },
+    {
+     "k": "B",
+     "en": "Condid solution",
+     "ur": "کنڈڈ سلوشن"
+    },
+    {
+     "k": "C",
+     "en": "Stratogized solution",
+     "ur": "اسٹریٹیجائزڈ سلوشن"
+    },
+    {
+     "k": "D",
+     "en": "Best solution",
+     "ur": "بہترین حل"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "A ______ is the system for representation of numeric data.",
+   "q_ur": "عددی نظام اعداد و شمار کی نمائندگی کے لیے ایک سسٹم استعمال کرتا ہے۔ ______ کہتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Number system",
+     "ur": "نمبر سسٹم"
+    },
+    {
+     "k": "B",
+     "en": "Binary Number system",
+     "ur": "بائنری نمبر سسٹم"
+    },
+    {
+     "k": "C",
+     "en": "Decimal Number system",
+     "ur": "ڈیسیمل نمبر سسٹم"
+    },
+    {
+     "k": "D",
+     "en": "Octal Number system",
+     "ur": "آکٹل نمبر سسٹم"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The binary value of (156)10 is:",
+   "q_ur": "(156)10 کی بائنری ویلیو ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "(100001100)2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(100110000)2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(1001111100)2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(10011100)2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Which of the given is a cybercrime?",
+   "q_ur": "ان میں سے کون سا سائبر کرائم ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Encryption",
+     "ur": "انکرپشن"
+    },
+    {
+     "k": "B",
+     "en": "Hacking",
+     "ur": "ہیکنگ"
+    },
+    {
+     "k": "C",
+     "en": "Decryption",
+     "ur": "ڈیکرپشن"
+    },
+    {
+     "k": "D",
+     "en": "Debugging",
+     "ur": "ڈی بگنگ"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "The ______ element is a container for meta data.",
+   "q_ur": "ایسے ایلیمنٹ کہتے ہیں جو میٹا ڈیٹا کا کنٹینر ہو۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "<body>",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "<head>",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "<title>",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "<html>",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "The ______ tag marks starting of a paragraph.",
+   "q_ur": "ٹیگ ______ ایک پیراگراف شروع کرنے کے لیے استعمال ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "<pr>",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "<pg>",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "<p>",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "<ph>",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "______ is used to assemble more than one propositions into one proposition.",
+   "q_ur": "ایک سے زیادہ پروپوزیشنز کو ایک ساتھ ملانے سے ______ بنتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Boolean Proposition",
+     "ur": "بولین پروپوزیشن"
+    },
+    {
+     "k": "B",
+     "en": "Categorical Proposition",
+     "ur": "کیٹیگوریکل پروپوزیشن"
+    },
+    {
+     "k": "C",
+     "en": "Moral proposition",
+     "ur": "مورل پروپوزیشن"
+    },
+    {
+     "k": "D",
+     "en": "Compound Proposition",
+     "ur": "کمپاؤنڈ پروپوزیشن"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The ______ is considered as the most well known example of network of networks.",
+   "q_ur": "______ کو نیٹ ورک آف نیٹ ورکس کی سب سے مشہور مثال سمجھا جاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "File sharing",
+     "ur": "فائل شیئرنگ"
+    },
+    {
+     "k": "B",
+     "en": "Internet",
+     "ur": "انٹرنیٹ"
+    },
+    {
+     "k": "C",
+     "en": "Hardware sharing",
+     "ur": "ہارڈ ویئر شیئرنگ"
+    },
+    {
+     "k": "D",
+     "en": "Application sharing",
+     "ur": "ایپلیکیشن شیئرنگ"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "A computer expert who can steal data when it moves from one location to other is called ______",
+   "q_ur": "کمپیوٹر ماہر جو ڈیٹا چوری کرتا ہے جب یہ دنیا میں ایک مقام سے دوسرے مقام پر منتقل ہوتا ہے، اسے ______ کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hacker",
+     "ur": "ہیکر"
+    },
+    {
+     "k": "B",
+     "en": "Encryption",
+     "ur": "انکرپشن"
+    },
+    {
+     "k": "C",
+     "en": "Decryption",
+     "ur": "ڈیکرپشن"
+    },
+    {
+     "k": "D",
+     "en": "Patent",
+     "ur": "پیٹنٹ"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "______ means to test if the required solution is there.",
+   "q_ur": "______ کا مطلب ہے کہ آیا مطلوبہ حل موجود ہے یا نہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Verification",
+     "ur": "ویری فیکیشن"
+    },
+    {
+     "k": "B",
+     "en": "Algorithm",
+     "ur": "الگورتھم"
+    },
+    {
+     "k": "C",
+     "en": "Validation",
+     "ur": "ویلیڈیشن"
+    },
+    {
+     "k": "D",
+     "en": "Flowchart",
+     "ur": "فلو چارٹ"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Which symbol in the flowchart is used to either start or end the flowchart?",
+   "q_ur": "فلو چارٹ میں کون سا سمبل اسٹارٹ اور اینڈ کے لیے استعمال ہوتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Terminal",
+     "ur": "ٹرمینل"
+    },
+    {
+     "k": "B",
+     "en": "Connector",
+     "ur": "کنیکٹر"
+    },
+    {
+     "k": "C",
+     "en": "Process",
+     "ur": "پروسیس"
+    },
+    {
+     "k": "D",
+     "en": "Decision",
+     "ur": "ڈیسیژن"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "In binary number system '17' is equal to ______",
+   "q_ur": "بائنری سسٹم میں \"17\" ______ کے برابر ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "(10000)2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(10110)2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(10001)2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(10100)2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "All the characters on the 'Keyboard' have some binary codes those codes are called ______",
+   "q_ur": "کی بورڈ کے تمام حروف کا ایک بائنری کوڈ ہوتا ہے۔ یہ کوڈ ______ کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Unicode",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "BCB",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ASCII",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "BCD",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

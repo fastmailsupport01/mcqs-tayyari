@@ -1,0 +1,570 @@
+{
+ "board": "BISE Sargodha",
+ "board_slug": "sargodha",
+ "class": "12th",
+ "subject": "Mathematics",
+ "year": 2021,
+ "slug": "sargodha-12th-mathematics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The function f(x) = (x³ - x)/(x² + 1) is ______ function",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "lim θ→0 Sin7θ/θ =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "d/dx (sec⁻¹x) =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The derivative of tan x w.r.t. tan x is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "d/dx (1/sin x) =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "d/dx (aˣ) =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "∫ cosec²x/cot x dx =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "∫ 1/(9+x²) dx =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Moment of force F̅ about O is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "∫ eˣ (1/x - 1/x²) dx =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "∫₀^π Sinx dx =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The distance of the point (-4, 5) from y-axis is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "The slope of the line with inclination 90⁰ is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "The lines a₁x + b₁y + c₁=0 and a₂x + b₂y + c₂=0, are perpendicular if",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "The point (1,0) lies in the solution of the inequality",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "The centre of the circle x²+y²+2gx+2fy+c=0, is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "The equation of directrix of the parabola y²=4ax, is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group I",
+   "q_en": "Vertices of the hyperbola x²/16 - y²/4 =1, are",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group I",
+   "q_en": "Two vectors u̲ and v̲ are perpendicular if",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group I",
+   "q_en": "(i̲ × j̲) × k̲ =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

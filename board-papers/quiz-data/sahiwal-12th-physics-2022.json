@@ -1,0 +1,962 @@
+{
+ "board": "BISE Sahiwal",
+ "board_slug": "sahiwal",
+ "class": "12th",
+ "subject": "Physics",
+ "year": 2022,
+ "slug": "sahiwal-12th-physics-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Energy of electron in the infinite orbit of hydrogen atom is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "13.2 eV",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-13.2 eV",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3.4 eV",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Photoelectric effect is explained by considering light as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electromagnetic waves",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Corpuscles",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Wave front having energy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Simple waves",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Energy of a photon is independent of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Intensity of light",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Frequency of light",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Wavelength of light",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Velocity of light in a medium",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Current gain of transistor is of the order of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Decimal",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Hundreds",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Thousands",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "A photo diode can turn its current ON and OFF in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nano second",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Milli second",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Seconds",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "100 second",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The number of different crystal systems based on the geometrical arrangement of their atoms is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Power factor in resistive circuit when AC is passing will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/√2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Power dissipation in pure inductor circuit over the cycle is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "VI",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "VI cosθ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "V²/R",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Efficiency of practical transformer is less than ideal one due to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Eddy current",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "High current",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Low current",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Low voltage",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "VSA⁻¹ is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Joule",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Watt",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Henry",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Newton",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "A one coulomb charge of mass one gram is in electric field of 1NC⁻¹, acceleration will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "100 ms⁻²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1000 ms⁻²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1 ms⁻²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10 ms⁻²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Magnetic flux through area 5m²k due to magnetic field 3i + 2j tesla is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "15 Wb",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10 Wb",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "30 Wb",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "A wire of length l and resistance R is cut into three equal pieces and twisted. Equivalent resistance will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "R",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "R/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "R/9",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "R/4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "Shape of Gaussian surface should be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Closed",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Spherical",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Circular",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Box type",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Toner is given:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Positive charge",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Negative charge",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Conventional current",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "No charge",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "It is very difficult to dispose off radioactive waste due to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Long half life",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "High energy",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Uncontrolled chain reaction",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Fast chemical reaction",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "Size of quark is of the order of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Less than 10⁻¹⁵ m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Less than 10⁻¹⁰ m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Less than 10⁻⁹ m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Less than 10⁻¹⁸ m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "At high frequency the value of reactance of a capacitor in A.C circuit will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Small",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Large",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Infinite",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "The mean value of A.C is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "I₀",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "I₀/√2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Torque is produced in a current carrying coil when it is placed in a:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electric field",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Magnetic field",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Gravitational field",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nuclear field",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "The application of mutual induction is a:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "D.C motor",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Radio",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Television",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Transformer",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Energy density in inductor is given by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(1/2)(B²/μ₀)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(1/2)(B²/μ₀²)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "B²/(2μ₀²)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "B²/(2μ₀)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Which one has least resistance?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Galvanometer",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ammeter",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Voltmeter",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ohmmeter",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "When a charge of 5μC passes through a conductor in 2 sec. the current in conductor is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10A",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2.5A",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2.5mA",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2.5μA",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "The electric intensity due to an infinite sheet of positive charge is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "E = σ/2ε₀",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "E = σ/ε₀",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "E = 2σ/ε₀",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "E = 1/2σε₀",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Which one is photoconductor?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Copper",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Selenium",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mercury",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Aluminium",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "The binding energy per nucleon is maximum for:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Helium",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Iron",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Polonium",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Radium",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Half life of Uranium -239 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "26.5 minutes",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "24.5 minutes",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "25.5 minutes",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "23.5 minutes",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Photons emitted in inner shell transition are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Continuous X-rays",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Discontinuous X-rays",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Characteristics X-rays",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Energetic X-rays",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "The value of Wien's constant is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2.9×10⁻³ mk",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2.9×10³ mk",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2.9×10⁻⁵ mk",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2.9×10⁴ mk",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "Platinum wire becomes yellow at a temperature of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "900°C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "500°C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1100°C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1300°C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "A device which used for the conversion of A.C into D.C is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "An oscillator",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Detector",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "An amplifier",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Rectifier",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "The value of potential barrier for Silicon at room temperature is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.3 V",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.7 V",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.5 V",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.9 V",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "The S.I unit of stress is same as that of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Force",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Pressure",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Momentum",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Work",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

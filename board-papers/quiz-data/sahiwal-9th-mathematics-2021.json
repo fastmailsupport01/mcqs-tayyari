@@ -1,0 +1,850 @@
+{
+ "board": "BISE Sahiwal",
+ "board_slug": "sahiwal",
+ "class": "9th",
+ "subject": "Mathematics",
+ "year": 2021,
+ "slug": "sahiwal-9th-mathematics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "(a²-b²)/(a+b) is equal to:",
+   "q_ur": "(a²-b²)/(a+b) برابر ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "(a-b)²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(a+b)²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(a+b)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(a-b)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "log_z x will be equal to:",
+   "q_ur": "log_z x برابر ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "log_y x / log_y z",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "log_y z / log_y z",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "log_y z / log_y y",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "log_y y / log_y x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "log_a x × log_a b can be written as:",
+   "q_ur": "log_a x × log_a b کی قیمت ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "log_a c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "log_a a",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "log_a b",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "log_b c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Which is order of a square matrix?",
+   "q_ur": "کون سا ایک مربع میٹرکس کا آرڈر ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "2-by-2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1-by-2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2-by-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3-by-2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The value of i² is:",
+   "q_ur": "i² کی قیمت ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "i",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-i",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Every real number is:",
+   "q_ur": "ہر حقیقی نمبر ایک ____ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "positive integer",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "rational number",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "negative integer",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "complex number",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The order of matrix (2 1) is:",
+   "q_ur": "میٹرکس (2 1) کا آرڈر ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "2-by-1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1-by-2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1-by-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2-by-2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The medians of a triangle cut each other in the ratio:",
+   "q_ur": "مثلث کے میڈینز ایک دوسرے کو ____ کے تناسب میں کاٹتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "4:1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3:1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2:1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1:1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "A point equidistant from the end points of a line segment is on its:",
+   "q_ur": "ایک قطعہ خط کے دونوں سروں سے مساوی فاصلے پر واقع نقطہ ____ پر ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "bisector",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "right bisector",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "perpendicular",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "median",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "If y = 2x+1, x = 2 then y is:",
+   "q_ur": "اگر y = 2x+1, x = 2 تو y برابر ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Distance between the points (1,0) and (0,1) is:",
+   "q_ur": "نقاط (1,0) اور (0,1) کا درمیانی فاصلہ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "L.C.M of a³+b³ and a⁴-b⁴ is:",
+   "q_ur": "a³-b³ اور a²+b² کا LCM ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "a²+b²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a²-b²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a⁴-b⁴",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a-b",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Which of the given is the solution of the inequality 3-4x ≤ 1?",
+   "q_ur": "ان میں سے کون سا 3-4x ≤ 1 کا حل ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "-8",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-14/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "none of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "H.C.F of x-2 and x²+x-6 is:",
+   "q_ur": "x-2 اور x²+x-6 کا HCF ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "x²+x-6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x+3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x-2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x+2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Factors of 8x³+27y³ are:",
+   "q_ur": "8x³+27y³ کے اجزائے ضربی ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "(2x+3y),(4x²+9y²)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(2x-3y),(4x²-9y²)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(2x+3y),(4x²-6xy+9y²)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(2x-3y),(4x²+6xy+9y²)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "The logarithm of unity to any base is:",
+   "q_ur": "کسی بھی بیس پر یونٹی کا لاگارتھم ____ کے برابر ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "e",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "What will be added to complete the square of 9a²-12ab?",
+   "q_ur": "9a²-12ab کے مربع کو مکمل کرنے کے لیے اس میں کیا جمع کیا جائے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "-16a²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "16b²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4b²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-4b²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Points (2,-3) lies in quadrant:",
+   "q_ur": "نقطہ (2,-3) ____ کواڈرنٹ میں واقع ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "I",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "II",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "III",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "IV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "The medians of a triangle cut each other in the ratio:",
+   "q_ur": "مثلث کے میڈینز ایک دوسرے کو ____ کے تناسب میں کاٹتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "4:1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3:1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2:1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1:1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "L.C.M of 15x², 45xy, 30xyz is:",
+   "q_ur": "15x², 45xy, 30xyz کا LCM ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "90xyz",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "90x²yz",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "15xyz",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "15x²yz",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Mid-point of the points (2,2) and (0,0) is:",
+   "q_ur": "نقاط (2,2) اور (0,0) کا مڈ پوائنٹ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "(1,1)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(1,0)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(0,1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(-1,-1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "If the capacity \"c\" of an elevator is at most 1600 pounds, then:",
+   "q_ur": "ایک لفٹ کی گنجائش c زیادہ سے زیادہ 1600 پاؤنڈز ہے تو ____۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "c < 1600",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "c ≥ 1600",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "c ≤ 1600",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "c > 1600",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "A quadrilateral having each angle equal to 90° is called:",
+   "q_ur": "ایک چوکور جس کا ہر زاویہ 90° کے برابر ہو ____ کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Parallelogram",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Rectangle",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Trapezium",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Rhombus",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "The product of two algebraic expressions is equal to the ____ of their H.C.F and L.C.M.",
+   "q_ur": "دو الجبرک ایکسپریشنز کا حاصل ضرب ان کے HCF اور LCM کے ____ کے برابر ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "sum",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "difference",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "quotient",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "product",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Which is order of a square matrix?",
+   "q_ur": "کون سا ایک مربع میٹرکس کا آرڈر ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "2-by-2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1-by-2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2-by-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3-by-2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "(a²-b²)/(a+b) is equal to:",
+   "q_ur": "(a²-b²)/(a+b) برابر ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "(a-b)²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(a+b)²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a+b",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a-b",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "[√2 0; 0 √2] is called ____ matrix.",
+   "q_ur": "[√2 0; 0 √2] ____ کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "scalar",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "unit",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "singular",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "log_a x × log_a b can be written as:",
+   "q_ur": "log_a x × log_a b کی قیمت ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "log_a c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "log_a a",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "log_a b",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "log_b c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "Real part of 2ab(1+i²) is:",
+   "q_ur": "2ab(1+i²) کا حقیقی حصہ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "2ab",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-2ab",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2abi",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-2abi",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "Which of the given sets have the closure property w.r.t addition?",
+   "q_ur": "کون سا سیٹ جمع کے حوالے سے کلوزر پراپرٹی رکھتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "{0}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{0,-1}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{0,1}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{1,√2,1/2}",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

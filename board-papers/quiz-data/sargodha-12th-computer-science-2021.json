@@ -1,0 +1,430 @@
+{
+ "board": "BISE Sargodha",
+ "board_slug": "sargodha",
+ "class": "12th",
+ "subject": "Computer Science",
+ "year": 2021,
+ "slug": "sargodha-12th-computer-science-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "In 3NF, which form of dependency is removed?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "A record is a complete set of ______ field.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "How many types of relationship?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Which of the following may be a temporary file?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "SQL is used for",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Which of the following keys does not hold uniqueness property",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "No. of expressions in for loop statement are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Choose an alternative to the if-else statement from the following",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Memory is allocated to a local variable at the time of its.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": ".exe file is produced by the",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Debugging is the process of",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Which of the following is a valid character constant?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Select a data type that offers the highest precision?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "The function getche () is defined in",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Select an operator with the highest precedence?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,682 @@
+{
+ "board": "BISE Sahiwal",
+ "board_slug": "sahiwal",
+ "class": "9th",
+ "subject": "Chemistry",
+ "year": 2022,
+ "slug": "sahiwal-9th-chemistry-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "M-shell consists of how many sub shells?",
+   "q_ur": "M شیل کتنے سب شیلز پر مشتمل ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Oxidation number of sulphur in H₂SO₄ is:",
+   "q_ur": "H₂SO₄ میں سلفر کا آکسیڈیشن نمبر ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "+4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "+2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "+7",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "+6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Formula of the rust is:",
+   "q_ur": "زنگ کا فارمولا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Fe₂O₃.nH₂O",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Fe₂O₃",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Fe(OH)₃.nH₂O",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Fe(OH)₃",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The halogen which exist in liquid form at room temperature is:",
+   "q_ur": "ہیلوجن جو روم ٹمپریچر پر مائع حالت میں پائی جاتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Chlorine",
+     "ur": "کلورین"
+    },
+    {
+     "k": "B",
+     "en": "Bromine",
+     "ur": "برومین"
+    },
+    {
+     "k": "C",
+     "en": "Fluorine",
+     "ur": "فلورین"
+    },
+    {
+     "k": "D",
+     "en": "Iodine",
+     "ur": "آئیوڈین"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The instrument used to measure pressure in laboratory is:",
+   "q_ur": "لیبارٹری میں پریشر ماپنے کیلئے آلہ استعمال کیا جاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Manometer",
+     "ur": "مینومیٹر"
+    },
+    {
+     "k": "B",
+     "en": "Barometer",
+     "ur": "بیرومیٹر"
+    },
+    {
+     "k": "C",
+     "en": "Altimeter",
+     "ur": "الٹی میٹر"
+    },
+    {
+     "k": "D",
+     "en": "Galvanometer",
+     "ur": "گیلوانو میٹر"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Which of the given gas diffuses fastest?",
+   "q_ur": "ان میں سے کونسی گیس تیزی سے ڈفیوز ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hydrogen",
+     "ur": "ہائیڈروجن"
+    },
+    {
+     "k": "B",
+     "en": "Helium",
+     "ur": "ہیلیم"
+    },
+    {
+     "k": "C",
+     "en": "Fluorine",
+     "ur": "فلورین"
+    },
+    {
+     "k": "D",
+     "en": "Chlorine",
+     "ur": "کلورین"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Number of grams of solute dissolved in 100 grams of solution is called:",
+   "q_ur": "سلوٹ کی گرام میں وہ مقدار جو سولوشن کے 100 گرام میں حل ہو، کہلاتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "m/m%",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "m/v%",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "v/m%",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "v/v%",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Which pair has polar covalent bond?",
+   "q_ur": "کونسا پیئر پولر کوویلنٹ بانڈ رکھتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "HCl and H₂O",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "C₂H₂ and H₂O",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "N₂ and H₂O",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cl₂ and O₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "In long form of periodic table the horizontal lines are called:",
+   "q_ur": "لونگ فارم آف پیریاڈک ٹیبل میں افقی قطاریں کہلاتی ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Groups",
+     "ur": "گروپس"
+    },
+    {
+     "k": "B",
+     "en": "Blocks",
+     "ur": "بلاکس"
+    },
+    {
+     "k": "C",
+     "en": "Periods",
+     "ur": "پیریڈز"
+    },
+    {
+     "k": "D",
+     "en": "Triads",
+     "ur": "ٹرائی ایڈز"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Boiling point of NaCl is:",
+   "q_ur": "سوڈیم کلورائیڈ کا بوائلنگ پوائنٹ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "0°C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "100°C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "800°C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1413°C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Empirical formula of benzene is:",
+   "q_ur": "بینزین کا ایمپیریکل فارمولا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "CH₂O",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CHO",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "C₂H₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CH",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The most abundant element accuring in the ocean is:",
+   "q_ur": "سمندر میں پائے جانے والے ایلیمنٹس میں سب سے زیادہ ایبنڈنٹ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Oxygen",
+     "ur": "آکسیجن"
+    },
+    {
+     "k": "B",
+     "en": "Hydrogen",
+     "ur": "ہائیڈروجن"
+    },
+    {
+     "k": "C",
+     "en": "Nitrogen",
+     "ur": "نائٹروجن"
+    },
+    {
+     "k": "D",
+     "en": "Silicon",
+     "ur": "سلیکان"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Which one of these settle down in water?",
+   "q_ur": "ان میں سے کونسی ایک چیز پانی میں بیٹھ جاتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Honey",
+     "ur": "شہد"
+    },
+    {
+     "k": "B",
+     "en": "Kerosine oil",
+     "ur": "کیروسین آئل"
+    },
+    {
+     "k": "C",
+     "en": "Benzene",
+     "ur": "بینزین"
+    },
+    {
+     "k": "D",
+     "en": "NaCl",
+     "ur": "سوڈیم کلورائیڈ"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Hydrogen bonding is represented by:",
+   "q_ur": "ہائیڈروجن بانڈنگ کو ظاہر کیا جاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Dotted line",
+     "ur": "نقطہ دار لائن"
+    },
+    {
+     "k": "B",
+     "en": "Single line",
+     "ur": "سنگل لائن"
+    },
+    {
+     "k": "C",
+     "en": "Double line",
+     "ur": "ڈبل لائن"
+    },
+    {
+     "k": "D",
+     "en": "Triple line",
+     "ur": "ٹرپل لائن"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Which one is a polar molecule?",
+   "q_ur": "ان میں سے کونسا پولر مالیکیول ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "O₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cl₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "HCl",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "H₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "The density of Gold is:",
+   "q_ur": "گولڈ کی ڈینسٹی ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "2.70 gcm⁻³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "7.86 gcm⁻³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10.90 gcm⁻³",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "19.3 gcm⁻³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Deuterium is an isotope of element: [illegible in source scan]",
+   "q_ur": "ڈیوٹیریم [illegible in source scan] کا آئسوٹوپ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Carbon",
+     "ur": "کاربن"
+    },
+    {
+     "k": "B",
+     "en": "Hydrogen",
+     "ur": "ہائیڈروجن"
+    },
+    {
+     "k": "C",
+     "en": "Chlorine",
+     "ur": "کلورین"
+    },
+    {
+     "k": "D",
+     "en": "Iodine",
+     "ur": "آئیوڈین"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Transition elements are:",
+   "q_ur": "ٹرانزیشن ایلیمنٹس ہوتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "All gases",
+     "ur": "تمام گیسیز"
+    },
+    {
+     "k": "B",
+     "en": "All non-metals",
+     "ur": "تمام نان میٹلز"
+    },
+    {
+     "k": "C",
+     "en": "All metals",
+     "ur": "تمام میٹلز"
+    },
+    {
+     "k": "D",
+     "en": "All metalloids",
+     "ur": "تمام میٹلائیڈز"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Formula mass of Potassium Sulphate (K₂SO₄) is:",
+   "q_ur": "پوٹاشیم سلفیٹ (K₂SO₄) کا فارمولا ماس ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "110 amu",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "130 amu",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "174 amu",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "200 amu",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Which one of the given can be separated by physical means into its components?",
+   "q_ur": "دیئے گئے میں سے کس کے اجزاء کو طبیعی طریقوں سے الگ الگ کیا جا سکتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mixtures",
+     "ur": "مکسچرز"
+    },
+    {
+     "k": "B",
+     "en": "Elements",
+     "ur": "ایلیمنٹس"
+    },
+    {
+     "k": "C",
+     "en": "Compounds",
+     "ur": "کمپاؤنڈز"
+    },
+    {
+     "k": "D",
+     "en": "Radical",
+     "ur": "ریڈیکل"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Formula of the rust is:",
+   "q_ur": "زنگ کا فارمولا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Fe₂O₃.nH₂O",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Fe₂O₃",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Fe(OH)₃.nH₂O",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Fe(OH)₃",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Which one of the given metals is the heaviest?",
+   "q_ur": "ان میٹلز میں سے سب سے بھاری میٹل کونسی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Osmium",
+     "ur": "اوسمیم"
+    },
+    {
+     "k": "B",
+     "en": "Platinum",
+     "ur": "پلیٹینم"
+    },
+    {
+     "k": "C",
+     "en": "Uranium",
+     "ur": "یورینیم"
+    },
+    {
+     "k": "D",
+     "en": "Cesium",
+     "ur": "سیزیم"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Universal solvent is:",
+   "q_ur": "یونیورسل سالونٹ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ether",
+     "ur": "ایتھر"
+    },
+    {
+     "k": "B",
+     "en": "Water",
+     "ur": "پانی"
+    },
+    {
+     "k": "C",
+     "en": "Sodium Carbonate",
+     "ur": "سوڈیم کاربونیٹ"
+    },
+    {
+     "k": "D",
+     "en": "Sulphur",
+     "ur": "سلفر"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "How many types of electrochemical cell are?",
+   "q_ur": "الیکٹرو کیمیکل سیل کی کتنی اقسام ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

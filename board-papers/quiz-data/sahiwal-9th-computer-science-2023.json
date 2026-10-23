@@ -1,0 +1,570 @@
+{
+ "board": "BISE Sahiwal",
+ "board_slug": "sahiwal",
+ "class": "9th",
+ "subject": "Computer Science",
+ "year": 2023,
+ "slug": "sahiwal-9th-computer-science-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Which tag is used to create a hyperlink in a webpage?",
+   "q_ur": "ویب پیج میں ہائپر لنک بنانے کے لیے کونسا ٹیگ استعمال ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "<a>",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "<b>",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "<hr>",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "<br>",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Internet service is provided by ______:",
+   "q_ur": "انٹرنیٹ سروس ______ کی طرف سے فراہم کی جاتی ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "TCP",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "HTP",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ISP",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "SMTP",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Expression A+(B.C) is equal to:",
+   "q_ur": "ایکسپریشن A+(B.C) برابر ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "A.(B.C)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A+(B+C)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(A.B)+(A.C)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(A+B).(A+C)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Number '20' is equal to ______ in binary system:",
+   "q_ur": "نمبر '20' بائنری سسٹم میں ______ کے برابر ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "10110",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10100",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10011",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10000",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "In a flowchart, symbol ▱ represents:",
+   "q_ur": "فلوچارٹ میں علامت ▱ کی نمائندگی کرتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Decision",
+     "ur": "فیصلہ"
+    },
+    {
+     "k": "B",
+     "en": "Input/output",
+     "ur": "ان پٹ/آؤٹ پٹ"
+    },
+    {
+     "k": "C",
+     "en": "Processing",
+     "ur": "پروسیسنگ"
+    },
+    {
+     "k": "D",
+     "en": "Connector",
+     "ur": "کنیکٹر"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "______ is a graphical representation of an algorithm:",
+   "q_ur": "______ ایک الگورتھم کی تصویری نمائندگی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Matrix",
+     "ur": "قالب"
+    },
+    {
+     "k": "B",
+     "en": "Graph",
+     "ur": "گراف"
+    },
+    {
+     "k": "C",
+     "en": "Flowchart",
+     "ur": "فلوچارٹ"
+    },
+    {
+     "k": "D",
+     "en": "Solution",
+     "ur": "حل"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Routing is a process of taking data from one device and sending it to another device in different ______.",
+   "q_ur": "راوٹنگ ایک عمل ہے جس میں ایک آلے سے ڈیٹا لے کر دوسرے آلے کو مختلف ______ پر بھیجا جاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Channel",
+     "ur": "چینل"
+    },
+    {
+     "k": "B",
+     "en": "Area",
+     "ur": "ایریا"
+    },
+    {
+     "k": "C",
+     "en": "Path",
+     "ur": "پاتھ"
+    },
+    {
+     "k": "D",
+     "en": "Network",
+     "ur": "نیٹ ورک"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "______ tag is used to underline a text:",
+   "q_ur": "______ ٹیگ کسی متن کو انڈرلائن کرنے کے لیے استعمال کیا جاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "<p>",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "<u>",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "<b>",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "<i>",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Which of the given is used to read an encrypted message:",
+   "q_ur": "دیے گئے میں سے کونسا ایک خفیہ پیغام کو پڑھنے کے لیے استعمال ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Spoofing",
+     "ur": "سپوفنگ"
+    },
+    {
+     "k": "B",
+     "en": "Patent",
+     "ur": "پیٹنٹ"
+    },
+    {
+     "k": "C",
+     "en": "Password",
+     "ur": "پاس ورڈ"
+    },
+    {
+     "k": "D",
+     "en": "Cryptographic keys",
+     "ur": "کرپٹوگرافک کیز"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Which symbol represents the copyright protected produce?",
+   "q_ur": "کونسا علامت کاپی رائٹ کے تحفظ کی نمائندگی کرتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "©",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ø",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "⊗",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "®",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "______ means to test if the required solution is there?",
+   "q_ur": "______ کا مطلب ہے کہ آیا مطلوبہ حل موجود ہے یا نہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Verification",
+     "ur": "ویریفیکیشن"
+    },
+    {
+     "k": "B",
+     "en": "Algorithm",
+     "ur": "الگورتھم"
+    },
+    {
+     "k": "C",
+     "en": "Validation",
+     "ur": "ویلیڈیشن"
+    },
+    {
+     "k": "D",
+     "en": "Flowchart",
+     "ur": "فلوچارٹ"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Test data has ______ types.",
+   "q_ur": "ٹیسٹ ڈیٹا کی اقسام ______ ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Expression (A+B).(A+C) is equal to:",
+   "q_ur": "ایکسپریشن (A+B).(A+C) برابر ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "A+(B.C)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A.B+A.C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A.(B.C)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A+(B+C)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "One mega byte is equal to:",
+   "q_ur": "ایک میگا بائٹ برابر ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1024 MB",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1024 KB",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1024 GB",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1024 TB",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The IPv4 address is made up of ______ binary bits.",
+   "q_ur": "IPv4 ایڈریس ______ بائنری بٹس سے بنتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "31",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "29",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "32",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "30",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Routers connect multiple ______ together",
+   "q_ur": "راوٹرز بہت سارے ______ کو آپس میں ملاتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Networks",
+     "ur": "نیٹ ورکس"
+    },
+    {
+     "k": "B",
+     "en": "Channels",
+     "ur": "چینلز"
+    },
+    {
+     "k": "C",
+     "en": "Protocols",
+     "ur": "پروٹوکولز"
+    },
+    {
+     "k": "D",
+     "en": "Computers",
+     "ur": "کمپیوٹرز"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "The process used for encoding data is called ______",
+   "q_ur": "ایسا عمل جس کی مدد سے ڈیٹا کی ان کوڈنگ کی جاتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Encryption",
+     "ur": "خفیہ کاری"
+    },
+    {
+     "k": "B",
+     "en": "Sabotage",
+     "ur": "تخریب کاری"
+    },
+    {
+     "k": "C",
+     "en": "Patent",
+     "ur": "پیٹنٹ"
+    },
+    {
+     "k": "D",
+     "en": "Copyright",
+     "ur": "کاپی رائٹ"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "______ is used for authentication to enter a system.",
+   "q_ur": "______ کو ایک سسٹم میں رسائی کے لیے تصدیق کے طور پر استعمال کیا جاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Password",
+     "ur": "پاس ورڈ"
+    },
+    {
+     "k": "B",
+     "en": "Webpage",
+     "ur": "ویب پیج"
+    },
+    {
+     "k": "C",
+     "en": "Keyboard",
+     "ur": "کی بورڈ"
+    },
+    {
+     "k": "D",
+     "en": "Network",
+     "ur": "نیٹ ورک"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "An individual list item can contain another entire list called:",
+   "q_ur": "ایک لسٹ جو کہ اپنے اندر ایک اور لسٹ رکھتی ہے، کہلاتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ordered list",
+     "ur": "آرڈرڈ لسٹ"
+    },
+    {
+     "k": "B",
+     "en": "Unordered list",
+     "ur": "ان آرڈرڈ لسٹ"
+    },
+    {
+     "k": "C",
+     "en": "Nested list",
+     "ur": "نیسٹڈ لسٹ"
+    },
+    {
+     "k": "D",
+     "en": "Defination list",
+     "ur": "ڈیفینیشن لسٹ"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "In HTML ______ tag is used to print the word 'Pakistan' in bold.",
+   "q_ur": "HTML میں ______ ٹیگ 'Pakistan' کو بولڈ کرنے کے لیے استعمال ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "<i>",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "<b>",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "<u>",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "<br>",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

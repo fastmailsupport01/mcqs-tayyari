@@ -1,0 +1,682 @@
+{
+ "board": "BISE Sahiwal",
+ "board_slug": "sahiwal",
+ "class": "9th",
+ "subject": "Biology",
+ "year": 2023,
+ "slug": "sahiwal-9th-biology-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Movement of molecules from area of higher concentration to area of lower concentration is called:",
+   "q_ur": "مالیکیولز کا زیادہ ارتکاز والے علاقے سے کم ارتکاز والے علاقے کی طرف بہنا کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Diffusion",
+     "ur": "ڈیفیوژن"
+    },
+    {
+     "k": "B",
+     "en": "Filtration",
+     "ur": "فلٹریشن"
+    },
+    {
+     "k": "C",
+     "en": "Active transport",
+     "ur": "ایکٹو ٹرانسپورٹ"
+    },
+    {
+     "k": "D",
+     "en": "Transpiration",
+     "ur": "ٹرانسپائریشن"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "If organic cofactors are tightly bound to enzyme, then these are called:",
+   "q_ur": "اگر آرگینک کو_فیکٹرز انزائم کے ساتھ مضبوطی سے بندھے ہوں تو کہلاتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Inhibitors",
+     "ur": "ان ہیبیٹرز"
+    },
+    {
+     "k": "B",
+     "en": "Activators",
+     "ur": "ایکٹیویٹرز"
+    },
+    {
+     "k": "C",
+     "en": "Co-enzyme",
+     "ur": "کو_انزائم"
+    },
+    {
+     "k": "D",
+     "en": "Prosthetic group",
+     "ur": "پروستھیٹک گروپ"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Meiosis occurs only in: ________.",
+   "q_ur": "می اوسس ہوتی ہے صرف ________ میں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Haploid cell",
+     "ur": "ہیپلوائیڈ سیل"
+    },
+    {
+     "k": "B",
+     "en": "Diploid cell",
+     "ur": "ڈپلوائیڈ سیل"
+    },
+    {
+     "k": "C",
+     "en": "Triploid cell",
+     "ur": "ٹرپلوائیڈ سیل"
+    },
+    {
+     "k": "D",
+     "en": "Tetraploid cell",
+     "ur": "ٹیٹراپلوائیڈ سیل"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Which one of given organs is a part of digestive system?",
+   "q_ur": "دیے گئے آرگنز میں سے کونسا آرگن ڈائجیسٹو سسٹم کا حصہ ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Lungs",
+     "ur": "پھیپھڑے"
+    },
+    {
+     "k": "B",
+     "en": "Oral cavity",
+     "ur": "اورل کیوٹی"
+    },
+    {
+     "k": "C",
+     "en": "Kidneys",
+     "ur": "گردے"
+    },
+    {
+     "k": "D",
+     "en": "Heart",
+     "ur": "دل"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Which of these molecules can enter into Kreb's Cycle:",
+   "q_ur": "ان مالیکیولز میں سے کونسا مالیکیول کریبس سائیکل میں جا سکتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Glucose",
+     "ur": "گلوکوز"
+    },
+    {
+     "k": "B",
+     "en": "Pyruvic acid",
+     "ur": "پائرووک ایسڈ"
+    },
+    {
+     "k": "C",
+     "en": "Sucrose",
+     "ur": "سکروز"
+    },
+    {
+     "k": "D",
+     "en": "Acetyle-CoA",
+     "ur": "ایسیٹائل CoA"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The normal pH of human blood is:",
+   "q_ur": "انسانی خون کی نارمل pH ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "6.8",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "7.0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7.2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "7.4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Different organs and organ systems are organized together to form:",
+   "q_ur": "مختلف آرگنز اور آرگن سسٹم آپس میں منظم ہو کر بناتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Species level",
+     "ur": "سپیشیز لیول"
+    },
+    {
+     "k": "B",
+     "en": "Individual level",
+     "ur": "انڈیویجوئل لیول"
+    },
+    {
+     "k": "C",
+     "en": "Population level",
+     "ur": "پاپولیشن لیول"
+    },
+    {
+     "k": "D",
+     "en": "Community level",
+     "ur": "کمیونٹی لیول"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Which one of these is micromolecule?",
+   "q_ur": "ان میں سے کونسا مائیکرومالیکیول ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Protein",
+     "ur": "پروٹین"
+    },
+    {
+     "k": "B",
+     "en": "Starch",
+     "ur": "سٹارچ"
+    },
+    {
+     "k": "C",
+     "en": "Glucose",
+     "ur": "گلوکوز"
+    },
+    {
+     "k": "D",
+     "en": "Lipids",
+     "ur": "لپڈز"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "In biological method, the next step to hypothesis is:",
+   "q_ur": "بائیولوجیکل میتھڈ میں ہائیپوتھیسس سے اگلا قدم ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Observation",
+     "ur": "مشاہدہ"
+    },
+    {
+     "k": "B",
+     "en": "Deduction",
+     "ur": "ڈیڈکشن"
+    },
+    {
+     "k": "C",
+     "en": "Theory",
+     "ur": "تھیوری"
+    },
+    {
+     "k": "D",
+     "en": "Law",
+     "ur": "لاء"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "In which phase cell duplicates its chromosomes?",
+   "q_ur": "سیل اپنے کروموسومز کی کاپیاں کس فیز میں تیار کرتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "G1 phase",
+     "ur": "جی_1 فیز"
+    },
+    {
+     "k": "B",
+     "en": "G2 phase",
+     "ur": "جی_2 فیز"
+    },
+    {
+     "k": "C",
+     "en": "S phase",
+     "ur": "ایس فیز"
+    },
+    {
+     "k": "D",
+     "en": "G0 Phase",
+     "ur": "جی ناٹ فیز"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Photograph taken through a microscope is called:",
+   "q_ur": "مائیکروسکوپ کے ذریعے لی جانے والی فوٹوگراف کو کہتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "X-Ray",
+     "ur": "ایکس رے"
+    },
+    {
+     "k": "B",
+     "en": "Ultrasound",
+     "ur": "الٹراساؤنڈ"
+    },
+    {
+     "k": "C",
+     "en": "Micrograph",
+     "ur": "مائیکروگراف"
+    },
+    {
+     "k": "D",
+     "en": "Radiograph",
+     "ur": "ریڈیوگراف"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The scientific name of onion is:",
+   "q_ur": "پیاز کا سائنسی نام ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Asterias rubens",
+     "ur": "ایسٹیریاس روبینز"
+    },
+    {
+     "k": "B",
+     "en": "Allium cepa",
+     "ur": "ایلیم سیپا"
+    },
+    {
+     "k": "C",
+     "en": "Corvus splendens",
+     "ur": "کوروس سپلینڈنز"
+    },
+    {
+     "k": "D",
+     "en": "Homo sapiens",
+     "ur": "ہومو سیپینز"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "In mosquito, the plasmodium multiplies in:",
+   "q_ur": "مچھر کے کس حصے میں پلازموڈیم اپنی مقدار بڑھاتے ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Salivary glands",
+     "ur": "سیلائیوری گلینڈز"
+    },
+    {
+     "k": "B",
+     "en": "Intestine",
+     "ur": "انٹسٹائن"
+    },
+    {
+     "k": "C",
+     "en": "Stomach",
+     "ur": "معدہ"
+    },
+    {
+     "k": "D",
+     "en": "Mouth",
+     "ur": "منہ"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Scurvy disease is due to lack of:",
+   "q_ur": "سکروی کی بیماری کس کی کمی سے ہوتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Vitamin B",
+     "ur": "وٹامن B"
+    },
+    {
+     "k": "B",
+     "en": "Vitamin A",
+     "ur": "وٹامن A"
+    },
+    {
+     "k": "C",
+     "en": "Vitamin D",
+     "ur": "وٹامن D"
+    },
+    {
+     "k": "D",
+     "en": "Vitamin C",
+     "ur": "وٹامن C"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Where does Glycolysis occur?",
+   "q_ur": "گلائیکولائسس کہاں واقع ہوتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nucleus",
+     "ur": "نیوکلیس"
+    },
+    {
+     "k": "B",
+     "en": "Cytoplasm",
+     "ur": "سائٹوپلازم"
+    },
+    {
+     "k": "C",
+     "en": "Ribosomes",
+     "ur": "رائبوسومز"
+    },
+    {
+     "k": "D",
+     "en": "Centriols",
+     "ur": "سینٹریولز"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Temperature that causes closure of stomata:",
+   "q_ur": "جس ٹمپریچر پر سٹومیٹا بند ہو جاتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "30°C−35°C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "40°C−45°C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10°C−15°C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "20°C−25°C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Change in genes is called:",
+   "q_ur": "جینز میں تبدیلی کہلاتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Budding",
+     "ur": "بڈنگ"
+    },
+    {
+     "k": "B",
+     "en": "Mutation",
+     "ur": "میوٹیشن"
+    },
+    {
+     "k": "C",
+     "en": "Regeneration",
+     "ur": "ری جنریشن"
+    },
+    {
+     "k": "D",
+     "en": "Crossing over",
+     "ur": "کراسنگ اوور"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Complete set of spindle fibers is known as:",
+   "q_ur": "سپنڈل فائبرز کے مکمل سیٹ کو کہتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Chromatin",
+     "ur": "کروماٹن"
+    },
+    {
+     "k": "B",
+     "en": "Kinetochore",
+     "ur": "کائینٹوکور"
+    },
+    {
+     "k": "C",
+     "en": "Cleavage",
+     "ur": "کلیویج"
+    },
+    {
+     "k": "D",
+     "en": "Mitotic spindle",
+     "ur": "مائٹوٹک سپنڈل"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Where does Pepsin enzyme work?",
+   "q_ur": "پیپسن انزائم کہاں کام کرتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Intestine",
+     "ur": "انٹسٹائن"
+    },
+    {
+     "k": "B",
+     "en": "Stomach",
+     "ur": "معدہ"
+    },
+    {
+     "k": "C",
+     "en": "Oesophagus",
+     "ur": "ایسوفیگس"
+    },
+    {
+     "k": "D",
+     "en": "Mouth",
+     "ur": "منہ"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "The cell wall of prokaryotes is composed of:",
+   "q_ur": "پروکیریوٹس کی سیل وال بنی ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cellulose",
+     "ur": "سیلولوز"
+    },
+    {
+     "k": "B",
+     "en": "Peptidoglycan",
+     "ur": "پیپٹیڈوگلائیکین"
+    },
+    {
+     "k": "C",
+     "en": "Lignin",
+     "ur": "لگنن"
+    },
+    {
+     "k": "D",
+     "en": "Chitin",
+     "ur": "کائٹن"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "These are composed of protein only:",
+   "q_ur": "یہ صرف پروٹین کے بنے ہوتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Prions",
+     "ur": "پرائونز"
+    },
+    {
+     "k": "B",
+     "en": "Viruses",
+     "ur": "وائرسز"
+    },
+    {
+     "k": "C",
+     "en": "Bacteria",
+     "ur": "بیکٹیریا"
+    },
+    {
+     "k": "D",
+     "en": "Viroids",
+     "ur": "وائرائیڈز"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "'Cisternae' belongs to:",
+   "q_ur": "سسٹرنی کا تعلق ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Vacuole",
+     "ur": "ویکیول"
+    },
+    {
+     "k": "B",
+     "en": "Mitochondrion",
+     "ur": "مائٹوکونڈریون"
+    },
+    {
+     "k": "C",
+     "en": "Golgi apparatus",
+     "ur": "گالجی اپریٹس"
+    },
+    {
+     "k": "D",
+     "en": "Nucleus",
+     "ur": "نیوکلیس"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Which one of these is a bioelement?",
+   "q_ur": "ان میں سے کونسا بائیوایلیمنٹ ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Aluminum",
+     "ur": "ایلومینیم"
+    },
+    {
+     "k": "B",
+     "en": "Cobalt",
+     "ur": "کوبالٹ"
+    },
+    {
+     "k": "C",
+     "en": "Bromine",
+     "ur": "برومین"
+    },
+    {
+     "k": "D",
+     "en": "Carbon",
+     "ur": "کاربن"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Branch of biology which deals with insects is called ________.",
+   "q_ur": "بائیولوجی کی شاخ جس کا تعلق حشرات سے ہے، کہلاتی ہے ________۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cell biology",
+     "ur": "سیل بائیولوجی"
+    },
+    {
+     "k": "B",
+     "en": "Entomology",
+     "ur": "اینٹومولوجی"
+    },
+    {
+     "k": "C",
+     "en": "Morphology",
+     "ur": "مورفولوجی"
+    },
+    {
+     "k": "D",
+     "en": "Taxonomy",
+     "ur": "ٹیکسانومی"
+    }
+   ]
+  }
+ ]
+}

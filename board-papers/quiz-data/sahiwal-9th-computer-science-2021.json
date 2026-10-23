@@ -1,0 +1,570 @@
+{
+ "board": "BISE Sahiwal",
+ "board_slug": "sahiwal",
+ "class": "9th",
+ "subject": "Computer Science",
+ "year": 2021,
+ "slug": "sahiwal-9th-computer-science-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The IPV4 address is made up of ____ Binary Bits.",
+   "q_ur": "IPV4 ایڈریس ____ بائنری بٹس سے بنتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "31",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "29",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "32",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "30",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Basic components of communication system are:",
+   "q_ur": "کمیونیکیشن سسٹم کے بنیادی اجزاء ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Best example of Volatile memory is:",
+   "q_ur": "وولاٹائل میموری کی بہترین مثال ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "USB",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "RAM",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ROM",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Hard Disk",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "In binary system, number \"17\" is equal to:",
+   "q_ur": "بائنری سسٹم میں نمبر \"17\" برابر ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "10000",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10110",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10001",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10100",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "In Hyperlink images are define with ____ tag.",
+   "q_ur": "ہائپر لنک میں تصویر ____ ٹیگ استعمال کرتے ہوئے لگائی جاتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "<Scr>",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "<Pic>",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "<Im>",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "<img>",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "A specific text, by clicking on it bring you to the next page is called:",
+   "q_ur": "ایک خاص ٹیکسٹ جس پر کلک کر کے دوسرے پیج پر جاسکتے ہیں، کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hyperlink",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Text",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Table",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "HTML",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The Encrypted data is called:",
+   "q_ur": "انکرپٹڈ ڈیٹا کیا کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Password",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Plain Text",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ciphertext",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Secret Text",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "A person who gain illegal access to a computer system is called:",
+   "q_ur": "کمپیوٹر سسٹم تک غیر قانونی رسائی حاصل کرنے والا شخص کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hacker",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Network Controller",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Computer Operator",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Authorized Person",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Total steps of problem solving are:",
+   "q_ur": "مسئلہ حل کرنے کے کل مراحل ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "7",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Which symbol is starting point of an algorithm?",
+   "q_ur": "کون سی علامت الگورتھم کے ابتدائی نقطہ کو ظاہر کرتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Input",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Goto",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Set",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Start",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "DHCP stands for:",
+   "q_ur": "DHCP مخفف ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Data Hosting Computer Protocol",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Dynamic Host Computer Protocol",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Dynamic Host Configuration Protocol",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Dynamic Host Common Protocol",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Routers connect multiple ____ together.",
+   "q_ur": "روٹرز بہت سارے ____ کو آپس میں ملاتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Networks",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Channels",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Addresses",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Layers",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "In the given, which is not a cybercrime?",
+   "q_ur": "ان میں سے کون سا سائبر کرائم نہیں ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hacking",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Phishing crime",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Identity theft",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Decryption",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "In the given, which is not a characteristic of good password?",
+   "q_ur": "ان میں سے کون سی اچھے پاس ورڈ کی خوبی نہیں ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "An eight characters long",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Does not contain username",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Contain uppercase letters",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Password is your name only",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The tag which is used for paragraph:",
+   "q_ur": "پیرا گراف کے لیے استعمال ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "<title>",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "<p>",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "<hr>",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "<br>",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Example of singular tag is:",
+   "q_ur": "سنگولر ٹیگ کی مثال ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "<br>",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "<p>",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "<body>",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "<head>",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "An algorithm produce a defined set of:",
+   "q_ur": "الگورتھم میں ____ کا ایک محدود سیٹ فراہم کرتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Steps",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Terminal",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Output",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Analysis",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "In flowchart, symbol is used for start and end:",
+   "q_ur": "فلو چارٹ میں آغاز اور اختتام کے لیے علامت استعمال ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Terminal",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Connecter",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Process",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Decision",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "In primary and secondary storages, data is stored in the form of:",
+   "q_ur": "پرائمری اور سیکنڈری سٹوریج ڈیوائسز میں ڈیٹا ____ کی صورت میں محفوظ ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Bit",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Byte",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Word",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Character",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "In binary system, number \"17\" is equal to:",
+   "q_ur": "بائنری سسٹم میں نمبر \"17\" برابر ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "10000",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10110",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10001",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10100",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}
