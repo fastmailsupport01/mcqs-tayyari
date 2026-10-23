@@ -1,0 +1,430 @@
+{
+ "board": "BISE Bahawalpur",
+ "board_slug": "bahawalpur",
+ "class": "11th",
+ "subject": "Computer Science",
+ "year": 2024,
+ "slug": "bahawalpur-11th-computer-science-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Single Group",
+   "q_en": "Software that is designed to be used by general public for their business tasks is called :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Operating System",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Device Driver",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Utility Programs",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Packaged Software",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Single Group",
+   "q_en": "The Protocol used by every Computer on the internet is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CSMA / CD",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "DSL",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ISDN",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "TCP / IP",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Single Group",
+   "q_en": "A Computer is connected to a LAN using :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "NIC",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Modem",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Bridge",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Router",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Single Group",
+   "q_en": "Image displayed on a Monitor Screen is composed of :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Pixels",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "DPI",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Resolution",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Digital Points",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Single Group",
+   "q_en": "Concurrent Flow of bits is done in :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Serial Transmission",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Parallel Transmission",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Synchronous Transmission",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Asynchronous Transmission",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Single Group",
+   "q_en": "The ROM is also called :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Direct Access Memory",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Read / Write Memory",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Non-Volatile Memory",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Main Memory",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Single Group",
+   "q_en": "Product promotion, place and price relates to :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Marketing",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Management",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Office Automation",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "E - Commerce",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Single Group",
+   "q_en": "The 7-bit-ASCII Code can represent :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "64 Characters",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "128 Characters",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "256 Characters",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "65,536 Characters",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Single Group",
+   "q_en": "The register used for Division and Multiplication is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "PC",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "MBR",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "DX",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "DS",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Single Group",
+   "q_en": "For adding text in the top margin of every page in MS-Word we use :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Header",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Footer",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Heading",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Title",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Single Group",
+   "q_en": "Add New Hardware option exists in :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "My Computer",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Window Explorer",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Control Panel",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Start Button",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Single Group",
+   "q_en": "Illegal copy of a Software is called :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Software Piracy",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Pirated Software",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Virus",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Antivirus",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Single Group",
+   "q_en": "For the Custom Format #, ###, the number 1500 will be displayed as :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1,500",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1500",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0,015",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0015",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Single Group",
+   "q_en": "The number of arguments in SQRT () function in MS Excel are :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Single Group",
+   "q_en": "Every webpage on the World Wide Web is accessed using :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "IP Address",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Domain Name",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Hyperlink",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "URL",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

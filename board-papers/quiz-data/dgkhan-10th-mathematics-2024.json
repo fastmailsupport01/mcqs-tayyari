@@ -1,0 +1,850 @@
+{
+ "board": "BISE DG Khan",
+ "board_slug": "dgkhan",
+ "class": "10th",
+ "subject": "Mathematics",
+ "year": 2024,
+ "slug": "dgkhan-10th-mathematics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "A straight line intersect the circle at",
+   "q_ur": "ایک خط جو دائرے کو کاٹے ...............",
+   "options": [
+    {
+     "k": "A",
+     "en": "No point at all",
+     "ur": "کوئی نقطہ نہیں"
+    },
+    {
+     "k": "B",
+     "en": "Three points",
+     "ur": "تین نقاط"
+    },
+    {
+     "k": "C",
+     "en": "Two points",
+     "ur": "دو نقاط"
+    },
+    {
+     "k": "D",
+     "en": "Single point",
+     "ur": "ایک نقطہ"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "A pair of chords of a circle subtending two congruent central angles is",
+   "q_ur": "دو متشاکل مرکزی زاویے پیدا کرنے والی وتریں آپس میں ............... ہوں گی",
+   "options": [
+    {
+     "k": "A",
+     "en": "Parallel",
+     "ur": "متوازی"
+    },
+    {
+     "k": "B",
+     "en": "Overlapping",
+     "ur": "متراکب"
+    },
+    {
+     "k": "C",
+     "en": "Congruent",
+     "ur": "متشاکل"
+    },
+    {
+     "k": "D",
+     "en": "Incongruent",
+     "ur": "غیر متشاکل"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "A line intersecting the circle is called",
+   "q_ur": "دائرے کو دو نقطوں پر کاٹنے والی لائن کہلاتی ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "Secant",
+     "ur": "قاطع"
+    },
+    {
+     "k": "B",
+     "en": "Tangent",
+     "ur": "مماس"
+    },
+    {
+     "k": "C",
+     "en": "Chord",
+     "ur": "وتر"
+    },
+    {
+     "k": "D",
+     "en": "Diameter",
+     "ur": "قطر"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The solution set of equation 8x³ − 32 = 0 is",
+   "q_ur": "مساوات 8x³ − 32 = 0 کا حل سیٹ ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "{± 4}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{4}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{2}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{± 2}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The quadratic formula is",
+   "q_ur": "دو درجی فارمولا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "x = (b ± √(b²−4ac))/2a",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x = (b ± √(b²+4ac))/2a",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x = (−b ± √(b²+4ac))/2a",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x = (−b ± √(b²−4ac))/2a",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Cube roots of unity are",
+   "q_ur": "اکائی کے جذر المکعب ہیں",
+   "options": [
+    {
+     "k": "A",
+     "en": "1, w, w²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1, w, −w²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1, w², −w",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−w, w², 1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "If α , β are the roots of equation x² − x − 1 = 0 , then α + β is",
+   "q_ur": "اگر α , β مساوات x² − x − 1 = 0 کے روٹس ہوں تو α + β ہوگا",
+   "options": [
+    {
+     "k": "A",
+     "en": "−1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "w",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "w²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "If a:b = x:y , then alternendo property is",
+   "q_ur": "اگر a:b = x:y ہو تو التیرننڈو خاصیت ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "a/x = b/y",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a/b = x/y",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(a−b)/b = (x−y)/y",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(a+b)/b = (x+y)/y",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Find x in proportion 4:x :: 3:15",
+   "q_ur": "تناسب 4:x :: 3:15 میں x معلوم کیجئے",
+   "options": [
+    {
+     "k": "A",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "20",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The identity (5x + 4)² = 25x² + 40x + 16 is true for",
+   "q_ur": "مساوات (5x + 4)² = 25x² + 40x + 16 کی کوئی قیمت کے لیے",
+   "options": [
+    {
+     "k": "A",
+     "en": "One value of x",
+     "ur": "x کی ایک قیمت کے لیے"
+    },
+    {
+     "k": "B",
+     "en": "Two values of x",
+     "ur": "x کی دو قیمتوں کے لیے"
+    },
+    {
+     "k": "C",
+     "en": "Three values of x",
+     "ur": "x کی تین قیمتوں کے لیے"
+    },
+    {
+     "k": "D",
+     "en": "All values of x",
+     "ur": "x کی تمام قیمتوں کے لیے"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Power set of an empty set is",
+   "q_ur": "خالی سیٹ کا پاور سیٹ ہوتا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "∅",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{∅}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{∅, {a}}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{a}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "If number of elements in set A is 3 and in set B is 2, then number of binary relations in A×B is",
+   "q_ur": "اگر سیٹ A کے ارکان کی تعداد 3 اور سیٹ B میں 2 ہوں تو A×B میں ثنائی رشتوں کی تعداد ہوگی",
+   "options": [
+    {
+     "k": "A",
+     "en": "2³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2⁴",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2⁶",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Mean is affected by change in",
+   "q_ur": "حسابی اوسط ............... میں تبدیلی سے متاثر ہوتا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "Value",
+     "ur": "قیمت"
+    },
+    {
+     "k": "B",
+     "en": "Ratio",
+     "ur": "نسبت"
+    },
+    {
+     "k": "C",
+     "en": "Origin",
+     "ur": "مبدأ"
+    },
+    {
+     "k": "D",
+     "en": "Proportion",
+     "ur": "تناسب"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "sec² θ = ...............",
+   "q_ur": "sec² θ = ...............",
+   "options": [
+    {
+     "k": "A",
+     "en": "1+tan² θ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1−sin² θ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1+cos² θ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1−tan² θ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Right bisector of the chord of a circle always passes through the",
+   "q_ur": "دائرے کے وتر کے عمودی ناصف ہمیشہ ............... سے گزرتا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "Radius",
+     "ur": "رداس"
+    },
+    {
+     "k": "B",
+     "en": "Centre",
+     "ur": "مرکز"
+    },
+    {
+     "k": "C",
+     "en": "Diameter",
+     "ur": "قطر"
+    },
+    {
+     "k": "D",
+     "en": "Circumference",
+     "ur": "محیط"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "The range of R = {(1,3),(2,2),(3,4)} is",
+   "q_ur": "اگر R = {(1,3),(2,2),(3,4)} ہو تو Range R ہوتی ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "{1,2,3}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{2,3,4}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{1,2,4}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{1,4}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Mean of a variable with similar observations , say constant k is",
+   "q_ur": "کسی متغیر مقدار کا ایک جیسی مشاہدات مثلاً مستقل مقدار k کے لیے حسابی اوسط ہوتا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "Negative",
+     "ur": "منفی"
+    },
+    {
+     "k": "B",
+     "en": "Zero",
+     "ur": "صفر"
+    },
+    {
+     "k": "C",
+     "en": "k itself",
+     "ur": "بذات خود k"
+    },
+    {
+     "k": "D",
+     "en": "Positive",
+     "ur": "مثبت"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "20° = ...............",
+   "q_ur": "20° = ...............",
+   "options": [
+    {
+     "k": "A",
+     "en": "360'",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "630'",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3600'",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1200'",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Locus of a point in a plane equidistant",
+   "q_ur": "مستوی کے تمام نقاط کا سیٹ جو معین نقطہ سے برابر فاصلے پر ہوں ............... کہلاتا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "Circle",
+     "ur": "دائرہ"
+    },
+    {
+     "k": "B",
+     "en": "Radius",
+     "ur": "رداس"
+    },
+    {
+     "k": "C",
+     "en": "Circumference",
+     "ur": "محیط"
+    },
+    {
+     "k": "D",
+     "en": "Diameter",
+     "ur": "قطر"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Two tangents drawn to a circle from a point outside it , are of ............... in length",
+   "q_ur": "ایک دائرے کے بیرونی نقطہ سے دو کھینچے گئے مماس لمبائی کے لحاظ سے ............... ہوتے ہیں",
+   "options": [
+    {
+     "k": "A",
+     "en": "Half",
+     "ur": "نصف"
+    },
+    {
+     "k": "B",
+     "en": "Double",
+     "ur": "دوگنا"
+    },
+    {
+     "k": "C",
+     "en": "Triple",
+     "ur": "تین گنا"
+    },
+    {
+     "k": "D",
+     "en": "Equal",
+     "ur": "برابر"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "A pair of chords of a circle subtending two congruent central angles is",
+   "q_ur": "دو متشاکل مرکزی زاویے پیدا جن دو وتروں سے بنتے ہیں وہ آپس میں ............... ہوں گے",
+   "options": [
+    {
+     "k": "A",
+     "en": "Incongruent",
+     "ur": "غیر متشاکل"
+    },
+    {
+     "k": "B",
+     "en": "Congruent",
+     "ur": "متشاکل"
+    },
+    {
+     "k": "C",
+     "en": "Over lapping",
+     "ur": "متراکب"
+    },
+    {
+     "k": "D",
+     "en": "Parallel",
+     "ur": "متوازی"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "The measure of the external angle of a regular octagon is",
+   "q_ur": "ایک منتظم مثمن کے بیرونی زاویے کی مقدار ہوتی ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "π/8",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π/3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "The solution set of equation 5x² = 30x is",
+   "q_ur": "مساوات 5x² = 30x کا حل سیٹ ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "{0, −6}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{0, 6}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{5, 30}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{−5, 30}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "An equation of the type 3ˣ + 3²⁻ˣ + 6 = 0 is a/an",
+   "q_ur": "مساوات 3ˣ + 3²⁻ˣ + 6 = 0 کی قسم ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "Reciprocal equation",
+     "ur": "معکوس مساوات"
+    },
+    {
+     "k": "B",
+     "en": "Radical equation",
+     "ur": "جذری مساوات"
+    },
+    {
+     "k": "C",
+     "en": "Linear equation",
+     "ur": "ایک درجی مساوات"
+    },
+    {
+     "k": "D",
+     "en": "Exponential equation",
+     "ur": "قوت نمائی مساوات"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Product of cube roots of unity is",
+   "q_ur": "اکائی کے جذر المکعب کا حاصل ضرب ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "− 1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "The discriminant of 2x² + 3x − 1 = 0 is",
+   "q_ur": "مساوات 2x² + 3x − 1 = 0 کا فرق کنندہ ہوتا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "17",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "17",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "16",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−16",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "The fourth proportional 'd' of a:b :: c:d is",
+   "q_ur": "a:b :: c:d میں چوتھا تناسب 'd' ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "ab/c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "bc/a",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "abc",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a/bc",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "If u ∝ v² , then",
+   "q_ur": "اگر u ∝ v²",
+   "options": [
+    {
+     "k": "A",
+     "en": "u = v²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "uv² = k",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "u = kv²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "uv² = l",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "x/((x+a) (x−a)) is",
+   "q_ur": "x/((x+a)(x−a)) ایک ............... ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "a proper fraction",
+     "ur": "واجب کسر"
+    },
+    {
+     "k": "B",
+     "en": "an improper fraction",
+     "ur": "غیر واجب کسر"
+    },
+    {
+     "k": "C",
+     "en": "an equation",
+     "ur": "مساوات"
+    },
+    {
+     "k": "D",
+     "en": "an identity",
+     "ur": "مماثلت"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "If A ⊆ B , then A∩B is equal to",
+   "q_ur": "اگر A ⊆ B ہو تو A∩B برابر ہوتا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "A",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "B",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Power set",
+     "ur": "پاور سیٹ"
+    },
+    {
+     "k": "D",
+     "en": "Subset",
+     "ur": "تحتی سیٹ"
+    }
+   ]
+  }
+ ]
+}

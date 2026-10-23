@@ -1,0 +1,850 @@
+{
+ "board": "BISE Bahawalpur",
+ "board_slug": "bahawalpur",
+ "class": "9th",
+ "subject": "Mathematics",
+ "year": 2023,
+ "slug": "bahawalpur-9th-mathematics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "log e = —— where e ≈ 2.718 :",
+   "q_ur": "log e = —— جبکہ e ≈ 2.718",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.4343",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "∞",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "(25/16)^(-1/2) = —— :",
+   "q_ur": "(25/16)^(-1/2) = ——",
+   "options": [
+    {
+     "k": "A",
+     "en": "5/4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4/5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-5/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-4/5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Adj of [[1,2],[0,-1]] is equals to :",
+   "q_ur": "[[1,2],[0,-1]] کا Adj برابر ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "[[-1,0],[2,1]]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[[1,-2],[0,-1]]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[[-1,2],[0,-1]]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[[-1,-2],[0,-1]]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Conjugate of Surd a+√b is —— :",
+   "q_ur": "مقدار اصم a+√b کا زوج متمم —— ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "-a+√b",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a-√b",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√a+√b",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√a-√b",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "If the capacity \"c\" of an elevator is at most 1600 pounds then —— :",
+   "q_ur": "ایک لفٹ کی بوجھ اٹھانے کی استعداد \"c\" زیادہ سے زیادہ 1600 پاؤنڈ ہو تو ——",
+   "options": [
+    {
+     "k": "A",
+     "en": "c < 1600",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "c ≥ 1600",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "c ≤ 1600",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "c > 1600",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "H.C.F. of x² - 5x + 6 and x² - x - 6 is —— :",
+   "q_ur": "x² - 5x + 6 اور x² - x - 6 کا عاد اعظم —— ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "x - 3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x + 2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x² - 4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x - 2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "What will be added to complete the square of 9a² - 12ab :",
+   "q_ur": "9a² - 12ab کو کامل مربع بنانے کے لیے اس میں کیا جمع کریں گے",
+   "options": [
+    {
+     "k": "A",
+     "en": "-16b²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "16b²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4b²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-4b²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Point (-3,-3) lies in the Quadrant :",
+   "q_ur": "نقطہ (-3,-3) مستوی کے ربع میں واقع ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "I",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "II",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "III",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "IV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "In a Parallelogram, opposite sides are —— :",
+   "q_ur": "متوازی الاضلاع کے مخالف اضلاع —— ہوتے ہیں",
+   "options": [
+    {
+     "k": "A",
+     "en": "Parallel",
+     "ur": "متوازی"
+    },
+    {
+     "k": "B",
+     "en": "Perpendicular",
+     "ur": "عمودی"
+    },
+    {
+     "k": "C",
+     "en": "Intersect",
+     "ur": "قاطع"
+    },
+    {
+     "k": "D",
+     "en": "Concurrent",
+     "ur": "ہم نقطہ"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "A Ray has —— end points :",
+   "q_ur": "ایک شعاع کے —— سرے ہوتے ہیں",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Mid-Point of the points (-2,2) and (2,-2) is —— :",
+   "q_ur": "نقاط (-2,2) اور (2,-2) کا درمیانی نقطہ —— ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "(2,2)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(-2,-2)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(0,0)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(1,1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Any point on the Right Bisector of a line is equidistant from —— :",
+   "q_ur": "اگر ایک نقطہ کسی قطعہ خط کے عمودی ناصف پر واقع ہو تو وہ —— سے مساوی الفاصلہ ہوتا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mid Point",
+     "ur": "وسطی نقطہ"
+    },
+    {
+     "k": "B",
+     "en": "End Point",
+     "ur": "سرے"
+    },
+    {
+     "k": "C",
+     "en": "Point of Intersection",
+     "ur": "نقطہ تقاطع"
+    },
+    {
+     "k": "D",
+     "en": "Any Point",
+     "ur": "کسی بھی نقطہ"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "The —— Altitudes of an Isosceles Triangle are congruent :",
+   "q_ur": "مساوی الساقین مثلث کے —— ارتفاع متماثل ہوتے ہیں",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "The Interior of a Triangle is the part of the —— enclosed by the Triangle :",
+   "q_ur": "—— کے ایسے تمام نقاط کا سیٹ جو کسی مثلث کے اندر ہوں مثلث کا اندرونہ کہلاتے ہیں",
+   "options": [
+    {
+     "k": "A",
+     "en": "Plane",
+     "ur": "مستوی"
+    },
+    {
+     "k": "B",
+     "en": "Square",
+     "ur": "مربع"
+    },
+    {
+     "k": "C",
+     "en": "Rectangle",
+     "ur": "مستطیل"
+    },
+    {
+     "k": "D",
+     "en": "Parallelogram",
+     "ur": "متوازی الاضلاع"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Symbol used for Similarity is :",
+   "q_ur": "متشابہ کے لیے علامت استعمال ہوتی ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "≤",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "≥",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "≈",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "One Angle on the base of an Isosceles Triangle is 30⁰, what is the Vertical Angle :",
+   "q_ur": "مساوی الساقین مثلث کے قاعدے پر ایک زاویہ 30⁰ ہے۔ اس کے راسی زاویے کی مقدار کیا ہوگی",
+   "options": [
+    {
+     "k": "A",
+     "en": "30⁰",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "60⁰",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "90⁰",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "120⁰",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "The area of given figure is: [rectangle 12 cm x 6 cm]",
+   "q_ur": "دی گئی شکل کا رقبہ ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "6 cm²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "12 cm²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "72 cm²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "36 cm²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "If a:b = c:d, then a, b, c and d are said to be in :",
+   "q_ur": "اگر a:b = c:d ہو تو مقداریں a, b, c اور d کہلاتی ہیں",
+   "options": [
+    {
+     "k": "A",
+     "en": "Proportion",
+     "ur": "تناسب"
+    },
+    {
+     "k": "B",
+     "en": "Ratio",
+     "ur": "نسبت"
+    },
+    {
+     "k": "C",
+     "en": "Equal",
+     "ur": "برابر"
+    },
+    {
+     "k": "D",
+     "en": "Unequal",
+     "ur": "ناہموار"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "A Line Segment has —— end points :",
+   "q_ur": "ایک قطعہ خط کے —— سرے ہوتے ہیں",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The Right Bisectors of the Three Sides of a Triangle are :",
+   "q_ur": "مثلث کے تینوں اضلاع کے عمودی ناصف ہوتے ہیں",
+   "options": [
+    {
+     "k": "A",
+     "en": "Congruent",
+     "ur": "متماثل"
+    },
+    {
+     "k": "B",
+     "en": "Collinear",
+     "ur": "ہم خط"
+    },
+    {
+     "k": "C",
+     "en": "Concurrent",
+     "ur": "ہم نقطہ"
+    },
+    {
+     "k": "D",
+     "en": "Parallel",
+     "ur": "متوازی"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "≅ Symbol is used for :",
+   "q_ur": "≅ کی علامت کس لیے استعمال ہوتی ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "Congruent",
+     "ur": "متماثل"
+    },
+    {
+     "k": "B",
+     "en": "Similar",
+     "ur": "متشابہ"
+    },
+    {
+     "k": "C",
+     "en": "Ratio",
+     "ur": "نسبت"
+    },
+    {
+     "k": "D",
+     "en": "Proportion",
+     "ur": "تناسب"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "The Mid Point of the Points (-2,2) and (2,-2) is :",
+   "q_ur": "نقاط (-2,2) اور (2,-2) کا درمیانی نقطہ ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "(2,2)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(-2,-2)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(0,0)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(1,1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "If (x,0) = (0,y), then (x,y) is :",
+   "q_ur": "اگر (x,0) = (0,y) ہو تو (x,y) ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "(0,0)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(1,0)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(0,1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(1,1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "If 'x' is no longer than 10, then :",
+   "q_ur": "اگر 'x' کی قیمت 10 سے بڑی نہ ہو تو",
+   "options": [
+    {
+     "k": "A",
+     "en": "x ≥ 8",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x < 10",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x ≤ 10",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x > 10",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "H.C.F. of a³ + b³ and a² - ab + b² is :",
+   "q_ur": "a³ + b³ اور a² - ab + b² کا عاد اعظم ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "a + b",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a² - ab + b²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(a - b)²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a² + b²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "What will be added to complete the Square 9a² - 12ab :",
+   "q_ur": "9a² - 12ab کو کامل مربع بنانے کے لیے کیا جمع کریں گے",
+   "options": [
+    {
+     "k": "A",
+     "en": "-16b²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "16b²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4b²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-4b²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "(a² - b²)/(a + b) is equal to —— :",
+   "q_ur": "(a² - b²)/(a + b) برابر ہے ——",
+   "options": [
+    {
+     "k": "A",
+     "en": "(a - b)²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(a + b)²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(a + b)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a - b",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "The Characteristic of 5.79 is —— :",
+   "q_ur": "5.79 کا خاصہ —— ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "The value of i⁹ is —— :",
+   "q_ur": "i⁹ کی قیمت —— ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "-i",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "i",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "Which Order is of a Square Matrix :",
+   "q_ur": "کون سا درجہ مربعی قالب کا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "1-by-2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2-by-2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2-by-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3-by-2",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

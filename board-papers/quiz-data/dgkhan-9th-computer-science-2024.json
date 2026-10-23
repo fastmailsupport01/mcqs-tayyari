@@ -1,0 +1,570 @@
+{
+ "board": "BISE DG Khan",
+ "board_slug": "dgkhan",
+ "class": "9th",
+ "subject": "Computer Science",
+ "year": 2024,
+ "slug": "dgkhan-9th-computer-science-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "1 Petabyte is equal to ............",
+   "q_ur": "1 پیٹا بائیٹ برابر ہے ______",
+   "options": [
+    {
+     "k": "A",
+     "en": "1024 KB",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1024 GB",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1024 MB",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1024 TB",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "DHCP stands for ............",
+   "q_ur": "DHCP ______ مختلف ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "Data Hosting Computer Protocol",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Dynamic Host Computer Protocol",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Dynamic Host Configuration Protocol",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Data Hosting configuration Protocol",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "In IPv 6 , there are 8 groups , separated by .................",
+   "q_ur": "IPv 6 میں 8 گروپس ہوتے ہیں ______ سے علیحدہ کرتے ہیں",
+   "options": [
+    {
+     "k": "A",
+     "en": ",",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": ":",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": ";",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": ".",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "............ Installing more copies of the software than have license for",
+   "q_ur": "حاصل کردہ لائسنس کے مقابلے میں سافٹ ویئر کی مزید کاپیاں انسٹال کرنا ______",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hard disk loading",
+     "ur": "ہارڈ ڈسک لوڈنگ"
+    },
+    {
+     "k": "B",
+     "en": "Counterfeiting",
+     "ur": "جعل سازی"
+    },
+    {
+     "k": "C",
+     "en": "Online piracy",
+     "ur": "آن لائن پائریسی"
+    },
+    {
+     "k": "D",
+     "en": "Client server over use",
+     "ur": "کلائنٹ سرور اوور یوز"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "A good password is at least ............ characters long",
+   "q_ur": "ایک اچھا پاس ورڈ کم از کم ______ حروف پر مشتمل ہوتا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "12",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "............ tag is used for inserting a line break",
+   "q_ur": "______ ٹیگ لائن کو بریک کرنے کے لیے استعمال کیا جاتا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "< b >",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "< i >",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "< br >",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "< u >",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "............ tag is used to make text italic",
+   "q_ur": "______ ٹیگ ٹیکسٹ کو ترچھا کرنے کے لیے استعمال ہوتا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "< b >",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "< br >",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "< u >",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "< i >",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "............ symbol is used to determine the flow of steps in a flowchart",
+   "q_ur": "______ کی علامت فلو چارٹ میں مراحل کے بہاؤ کا تعین کرنے کے لیے استعمال ہوتی ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "▭",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "◇",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "→",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "○",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Algorithm is a set of ............ to solve a problem",
+   "q_ur": "الگورتھم مسئلہ حل کرنے کے ______ کا مجموعہ ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "Results",
+     "ur": "نتائج"
+    },
+    {
+     "k": "B",
+     "en": "Steps",
+     "ur": "مراحل"
+    },
+    {
+     "k": "C",
+     "en": "Input",
+     "ur": "ان پٹ"
+    },
+    {
+     "k": "D",
+     "en": "Conditions",
+     "ur": "شرائط"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Binary number system has total ............... numbers",
+   "q_ur": "بائنری عددی نظام میں کل ______ نمبر ہوتے ہیں",
+   "options": [
+    {
+     "k": "A",
+     "en": "17",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "16",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "HTML is a ............ Language",
+   "q_ur": "HTML ایک ______ لینگویج ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "Machine language",
+     "ur": "مشین لینگویج"
+    },
+    {
+     "k": "B",
+     "en": "Markup language",
+     "ur": "مارک اپ لینگویج"
+    },
+    {
+     "k": "C",
+     "en": "Binary language",
+     "ur": "بائنری لینگویج"
+    },
+    {
+     "k": "D",
+     "en": "System language",
+     "ur": "سسٹم لینگویج"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Which solution are not reached through proper algorithm or work planning ?",
+   "q_ur": "کس حل کو مناسب الگورتھم پلاننگ (Planning) سے نہیں لکھا جاتا",
+   "options": [
+    {
+     "k": "A",
+     "en": "Prepared solution",
+     "ur": "تیار شدہ حل"
+    },
+    {
+     "k": "B",
+     "en": "Candid solution",
+     "ur": "کینڈیڈ حل"
+    },
+    {
+     "k": "C",
+     "en": "Strategized solution",
+     "ur": "حکمت عملی پر مبنی حل"
+    },
+    {
+     "k": "D",
+     "en": "Best solution",
+     "ur": "بہترین حل"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Problem analysis is the process to figure out ................. Ws",
+   "q_ur": "مسئلہ کے تجزیہ میں ______ ڈبلیو ز (Ws) کی پہچان شامل ہوتی ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Expression (A + B) . (A + C) is equal to .................",
+   "q_ur": "ایکسپریشن (A + B) . (A + C) ______ کے برابر ہوتی ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "A + (B . C)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A . B + A . C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A . (B . C)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A + (B + C)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "............ is temporary memory",
+   "q_ur": "______ ایک عارضی سٹوریج ڈیوائس ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "Non volatile",
+     "ur": "نان وولاٹائل"
+    },
+    {
+     "k": "B",
+     "en": "Hard disk",
+     "ur": "ہارڈ ڈسک"
+    },
+    {
+     "k": "C",
+     "en": "Volatile",
+     "ur": "وولاٹائل"
+    },
+    {
+     "k": "D",
+     "en": "Flash drive",
+     "ur": "فلیش ڈرائیو"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "The IPv4 is made up of ............ binary bits",
+   "q_ur": "IPv4 ایڈریس ______ بائنری بٹس سے بنتا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "29",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "30",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "31",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "32",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "............ allow users to communicate using e mail , news groups etc.",
+   "q_ur": "______ کی مدد سے صارفین ای میل اور نیوز گروپس میں معلومات کا تبادلہ کرتے ہیں",
+   "options": [
+    {
+     "k": "A",
+     "en": "File server",
+     "ur": "فائل سرور"
+    },
+    {
+     "k": "B",
+     "en": "Printer server",
+     "ur": "پرنٹر سرور"
+    },
+    {
+     "k": "C",
+     "en": "Mail server",
+     "ur": "میل سرور"
+    },
+    {
+     "k": "D",
+     "en": "Hardware server",
+     "ur": "ہارڈ ویئر سرور"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Which of the following doesn't includes the types of software piracy ?",
+   "q_ur": "درج ذیل میں سے کونسی سافٹ ویئر پائریسی کی اقسام میں شامل نہ ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "Soft lifting",
+     "ur": "سافٹ لفٹنگ"
+    },
+    {
+     "k": "B",
+     "en": "Liability",
+     "ur": "ذمہ داری"
+    },
+    {
+     "k": "C",
+     "en": "Client server overuse",
+     "ur": "کلائنٹ سرور اوور یوز"
+    },
+    {
+     "k": "D",
+     "en": "Online piracy",
+     "ur": "آن لائن پائریسی"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "............ crime involve computing",
+   "q_ur": "______ کرائم میں کمپیوٹنگ شامل ہوتی ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electric",
+     "ur": "الیکٹرک"
+    },
+    {
+     "k": "B",
+     "en": "Civil",
+     "ur": "سول"
+    },
+    {
+     "k": "C",
+     "en": "Tax",
+     "ur": "ٹیکس"
+    },
+    {
+     "k": "D",
+     "en": "Cyber",
+     "ur": "سائبر"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "An individual list item can contain another entire list called ............",
+   "q_ur": "ایک لسٹ جو کہ اپنے اندر ایک اور لسٹ رکھ سکتی ہے ______ کہلاتی ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ordered list",
+     "ur": "آرڈرڈ لسٹ"
+    },
+    {
+     "k": "B",
+     "en": "Unordered list",
+     "ur": "ان آرڈرڈ لسٹ"
+    },
+    {
+     "k": "C",
+     "en": "Nested list",
+     "ur": "نیسٹڈ لسٹ"
+    },
+    {
+     "k": "D",
+     "en": "Definition list",
+     "ur": "ڈیفینیشن لسٹ"
+    }
+   ]
+  }
+ ]
+}

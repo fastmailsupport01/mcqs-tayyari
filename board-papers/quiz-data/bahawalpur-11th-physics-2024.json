@@ -1,0 +1,962 @@
+{
+ "board": "BISE Bahawalpur",
+ "board_slug": "bahawalpur",
+ "class": "11th",
+ "subject": "Physics",
+ "year": 2024,
+ "slug": "bahawalpur-11th-physics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group Ist",
+   "q_en": "The main frontiers of fundamental Science are :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group Ist",
+   "q_en": "If |A̅.B̅| = |A̅ × B̅| then angle between vectors A̅ and B̅ is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group Ist",
+   "q_en": "The vector A̅ = (1/√2)î + (1/√2)ĵ is a :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Null Vector",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Unit Vector",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Vector of magnitude √2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Vector of magnitude 1/√2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group Ist",
+   "q_en": "The sum of three numbers 2.7543, 4.10 and 1.273 upto correct decimal place is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "8.12",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8.13",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8.127",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8.1273",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group Ist",
+   "q_en": "The Momentum and Kinetic Energy of a body having the same value at the speed of :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "8 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2 ms⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group Ist",
+   "q_en": "The relation for Moment of Inertia of the thin ring is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "mr²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/2 mr²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2/5 mr²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2/3 mr²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group Ist",
+   "q_en": "Tidal Energy is due to Gravitational Pull of :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Moon",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Sun",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Earth",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mars",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group Ist",
+   "q_en": "Motion of Projectile is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "One Dimensional",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Two Dimensional",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Three Dimensional",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Four Dimensional",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group Ist",
+   "q_en": "The Unit of Rotational K.E is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "rad s⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Js",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "J",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Kgm²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group Ist",
+   "q_en": "If the path difference between two waves is λ/2 then interference will be :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Constructive",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Destructive",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Beats",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Both A and B",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group Ist",
+   "q_en": "Time Period of Simple Pendulum only depends on :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mass",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Length",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Amplitude",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Displacement",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group Ist",
+   "q_en": "Stoke's Law hold for bodies when they have :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Spherical Shape",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Curved Shape",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Rectangular Shape",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Triangle Shape",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group Ist",
+   "q_en": "The maximum value of beat frequency is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10 Hz",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "100 Hz",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "20 Hz",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "30 Hz",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group Ist",
+   "q_en": "When Ice melts, entropy :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Increases",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Decreases",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Constant",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group Ist",
+   "q_en": "Using the relation for Magnification Power M = 1 + d/f if f = 5 cm and d = 25 cm then M will be :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "7",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group Ist",
+   "q_en": "The effective path difference between two x-ray beams reflected from a crystal plane is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "d sin θ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "d/2 sin θ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2d sin θ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2 sin θ/d",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group Ist",
+   "q_en": "For the Isothermal Process, the first Law of Thermodynamics can be written as :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Q = ΔU + w",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Q = ΔU",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Q = –ΔU",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Q = W",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group 2nd",
+   "q_en": "The Entropy of sand in a desert at night time will be :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Increases",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Constant",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Decreases",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group 2nd",
+   "q_en": "When the temperature difference between source and sink is Constant, then the efficiency will be :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Smaller",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Remain Same",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Greater",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group 2nd",
+   "q_en": "The infrared light emitted from LED has a Wavelength :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.3 μm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.23 μm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.38 μm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1 μm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group 2nd",
+   "q_en": "The spacing between two adjacent dark fringes is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "λL/2d",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "λL/d",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "nλ/d",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2L/d",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group 2nd",
+   "q_en": "The Wavelength of the fundamental mode of vibration of a closed end pipe is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2l",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "l",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "l/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4l",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group 2nd",
+   "q_en": "The distance from first antinode to 7th node is equal to :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10λ/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3λ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "11λ/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "7λ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group 2nd",
+   "q_en": "When the bob of Simple Pendulum is at its dynamic equilibrium position, it has :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "K.E",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "P.E and K.E",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "P.E",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Both A and B",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group 2nd",
+   "q_en": "A two meter high tank containing water is hit by two bullets of same caliber at 1.5 m and 1 m above the ground, the speed of efflux is maximum for :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.5 m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.5 m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.3 m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group 2nd",
+   "q_en": "100° is equal to :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.7 rad",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "16.5 rad",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.82 rad",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.75 rad",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group 2nd",
+   "q_en": "A man in an elevator descending with deacceleration will conclude that his apparent weight has :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Increased",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Decreased",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Remain Constant",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Reduced to Zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group 2nd",
+   "q_en": "Tidal Energy is due to Gravitational Pull of :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Moon",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Sun",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Earth",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mars",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group 2nd",
+   "q_en": "Acceleration of 1.5 ms⁻² expressed in Km Hour⁻² is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "324 Km Hour⁻²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "19440 Km Hour⁻²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5400 Km Hour⁻²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4 Km Hour⁻²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group 2nd",
+   "q_en": "Distance covered by a freely falling body in 2 sec will be :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4.9m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "29.2 m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "19.6m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "44.1m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group 2nd",
+   "q_en": "The angle between two vectors 2î – 3ĵ and 3k̂ is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "30°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group 2nd",
+   "q_en": "A Paratrooper having :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Dynamic Equilibrium",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Static Equilibrium",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Acceleration",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero Velocity",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group 2nd",
+   "q_en": "Kgm²s⁻² is the unit of :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Work",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Force",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Moment of Force",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Both A and C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group 2nd",
+   "q_en": "The sum of 2.7342, 2.3, 1.432 and 5.32 upto the correct decimal place is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "11.78",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "11.8",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "11.786",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "11.7862",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

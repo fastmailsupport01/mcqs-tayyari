@@ -1,0 +1,682 @@
+{
+ "board": "BISE Bahawalpur",
+ "board_slug": "bahawalpur",
+ "class": "12th",
+ "subject": "Computer Science",
+ "year": 2024,
+ "slug": "bahawalpur-12th-computer-science-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Single Group",
+   "q_en": "[MS - ACCESS] Which of the following Database model is often referred to as an Inverted Tree :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hierarchical",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Network",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Relational",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Object Oriented",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Single Group",
+   "q_en": "[MS - ACCESS] Which of the following is also known as Control Key :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sort Key",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Composite Key",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Primary Key",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Candidate Key",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Single Group",
+   "q_en": "[MS - ACCESS] Which of the following symbol is NOT used in ER – Diagram :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Rectangle",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Oval",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Diamond",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Triangle",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Single Group",
+   "q_en": "[MS - ACCESS] The goal of Normalization is to :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Increase No. of Relations",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Increase Redundancy",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Get Stable Data Structure",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Remove Constraints",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Single Group",
+   "q_en": "[MS - ACCESS] The output of the query is in the form of :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Form",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Report",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Graph",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Table",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Single Group",
+   "q_en": "[MS - ACCESS] How many table views are available in MS – Access :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Single Group",
+   "q_en": "[C - Language] Which places an executable file in memory :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Compiler",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Linker",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Loader",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Debugger",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Single Group",
+   "q_en": "[C - Language] Which of the following is NOT a reserved word :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Goto",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "While",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "For",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Float",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Single Group",
+   "q_en": "[C - Language] Format Specifier used for integer data type is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "%c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "%d",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "%f",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "%s",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Single Group",
+   "q_en": "[C - Language] Escape Sequence for backslash is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "\\",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "\\b",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "\\\\",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "\\t",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Single Group",
+   "q_en": "[C - Language] Conditional Operator gives the result for 'a' != 97 ? 10 : 20 ;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "20",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "30",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "107",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Single Group",
+   "q_en": "[C - Language] Which of the following is NOT valid case statement in switch :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Case O :",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Case – 1 :",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Case 'A' :",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Case \"A\" :",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Single Group",
+   "q_en": "[C - Language] A loop whose condition never becomes false is called :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Infinite Loop",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Continuous Loop",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Running Loop",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Fast Loop",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Single Group",
+   "q_en": "[C - Language] The Scope of a variable refers to its :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Name",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Accessibility",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Length",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Data Type",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Single Group",
+   "q_en": "[C - Language] If a file is closed by fclose ( ) function properly, then fclose ( ) function return :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "NULL",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "– 1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Single Group",
+   "q_en": "[Visual Basic] Which places an executable file in memory :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Compiler",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Linker",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Loader",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Debugger",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Single Group",
+   "q_en": "[Visual Basic] Which of the following is a reserved word :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Int",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "IF",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "For",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "While",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Single Group",
+   "q_en": "[Visual Basic] You can enter data in a control only when it has :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Tab Order",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Focus",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mask",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Color",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Single Group",
+   "q_en": "[Visual Basic] Methods Characterize an object's :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Style",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Appearance",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Behavior",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Value",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Single Group",
+   "q_en": "[Visual Basic] The naming Prefix for a label control is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Lab",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "lbl",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "lbe",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "l",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Single Group",
+   "q_en": "[Visual Basic] Which method removes a form from the screen and from memory :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Show",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Hide",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Load",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Unload",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Single Group",
+   "q_en": "[Visual Basic] A Loop whose Condition never becomes false is called :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Infinite Loop",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Continuous Loop",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Running Loop",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Fast Loop",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Single Group",
+   "q_en": "[Visual Basic] The Scope of a variable refers to its :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Name",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Accessibility",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Length",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Data Type",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Single Group",
+   "q_en": "[Visual Basic] The Trigger the timer event once every second, set the interval properly to :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "100",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1000",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10000",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

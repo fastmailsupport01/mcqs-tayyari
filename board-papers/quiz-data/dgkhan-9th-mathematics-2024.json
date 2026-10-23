@@ -1,0 +1,850 @@
+{
+ "board": "BISE DG Khan",
+ "board_slug": "dgkhan",
+ "class": "9th",
+ "subject": "Mathematics",
+ "year": 2024,
+ "slug": "dgkhan-9th-mathematics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The symbol used for congruent is................",
+   "q_ur": "متشاکل کے لیے علامت ______ استعمال ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "≅",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "||",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "⊥",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "↔",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Congruent figures have ................ area",
+   "q_ur": "متشاکل شکل کا رقبہ ______ ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Small",
+     "ur": "چھوٹا"
+    },
+    {
+     "k": "B",
+     "en": "Same",
+     "ur": "ایک جیسا"
+    },
+    {
+     "k": "C",
+     "en": "Greater",
+     "ur": "بڑا"
+    },
+    {
+     "k": "D",
+     "en": "Zero",
+     "ur": "صفر"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The quadrilateral have each angle of 90° is called ................",
+   "q_ur": "چوکور جس کا ہر زاویہ 90° ہو ______ کہلاتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Triangle",
+     "ur": "مثلث"
+    },
+    {
+     "k": "B",
+     "en": "Rhombus",
+     "ur": "معین"
+    },
+    {
+     "k": "C",
+     "en": "Rectangle",
+     "ur": "مستطیل"
+    },
+    {
+     "k": "D",
+     "en": "Parallelogram",
+     "ur": "متوازی الاضلاع"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The adjoint of [[2, −3],[1, 4]] is",
+   "q_ur": "[[2, −3],[1, 4]] کا Adj برابر ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "[[4, 3],[−1, 2]]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[[2, −3],[−1, 4]]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[[−3, 2],[1, 4]]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[[4, 2],[−3, 1]]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The conjugate of ( 6 − 4i ) is",
+   "q_ur": "(6−4i) کا کانجوگیٹ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "6 − 4i",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4 − 6i",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6 + 6i",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6 + 4i",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "log(mⁿp) can be written as",
+   "q_ur": "log(mⁿp) کو لکھا جا سکتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "n log m − log p",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "n log m + log p",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "m log m − n log p",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "n(log m − log p)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "a⁴ − 4b⁴ is equal to",
+   "q_ur": "a⁴ − 4b⁴ برابر ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "(a+b),(a−2b),(a+2b)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(a²+b²),(a+b),(a−b)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(a²+2b²),(a²−2b²)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(a²+b²),(a²−4b²)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Find m so that x²+4x+m is a complete square",
+   "q_ur": "m کی کونسی قیمت کے لیے x²+4x+m مکمل مربع بن جائے گا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "-8",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "H.C.F of a³+b³ and a²−ab + b² is",
+   "q_ur": "a³+b³ اور a²−ab+b² کا عاد اعظم ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "a²−ab+b²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(a−b)²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(a+b)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a²+b",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "If x is no longer than 10 then",
+   "q_ur": "اگر x کی قیمت 10 سے بڑی نہ ہو تو",
+   "options": [
+    {
+     "k": "A",
+     "en": "x > 10",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x ≤ 10",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x < 10",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x ≥ 10",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The Point (-3, -3) lies in ............ quadrant",
+   "q_ur": "نقطہ (-3, -3) مستوی کے ______ ربع میں واقع ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "II",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "I",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "III",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "IV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The mid-point of (2 , 2) and (0 , 0) is",
+   "q_ur": "نقطہ (2, 2) اور (0, 0) کا درمیانی نقطہ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "(0 , 0)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(-2 , -2)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(2 , 2)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(1 , 1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "A ray has ...........end points",
+   "q_ur": "ایک شعاع کے ______ سرے ہوتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "The line joining to the mid-points of two sides of a triangle is ................ to third side.",
+   "q_ur": "مثلث کے دو اضلاع کے درمیانی نقاط کو ملانے والا خط تیسرے ضلع کے ______ ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Parallel",
+     "ur": "متوازی"
+    },
+    {
+     "k": "B",
+     "en": "Congruent",
+     "ur": "متماثل"
+    },
+    {
+     "k": "C",
+     "en": "Perpendicular",
+     "ur": "عمود"
+    },
+    {
+     "k": "D",
+     "en": "Similar",
+     "ur": "متشابہ"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Bisection means, to divide into .............. equal parts",
+   "q_ur": "تنصیف سے مراد ______ برابر حصوں میں تقسیم کرنا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Find \" m \" so that x² + 4x + m is a complete square",
+   "q_ur": "\"m\" کی قیمت کیا ہے کہ x² + 4x + m پورا مربع بن جائے",
+   "options": [
+    {
+     "k": "A",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-8",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "16",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "H.C.F of a²−b² and a³−b³ is ...............",
+   "q_ur": "a²−b² اور a³−b³ کا عاد اعظم ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "a−b",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a+b",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a²+ab+b²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a²−ab+b²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "x = 0 is the solution of the inequality",
+   "q_ur": "x = 0 غیر مساوات کے حل سیٹ کا رکن ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "x > 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3x + 5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x + 2 > 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x − 2 < 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Point (2, −3) lies is quadrant",
+   "q_ur": "نقطہ (2, −3) مستوی کے ربع میں ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "I",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "II",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "III",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "IV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "A triangle having all sides different is called",
+   "q_ur": "ایسی مثلث جس کے تمام اضلاع کی لمبائیاں مختلف ہوں وہ ______ کہلاتی ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "Isosceles",
+     "ur": "متساوی الساقین"
+    },
+    {
+     "k": "B",
+     "en": "Scalene",
+     "ur": "مختلف الاضلاع"
+    },
+    {
+     "k": "C",
+     "en": "Equilateral",
+     "ur": "مساوی الاضلاع"
+    },
+    {
+     "k": "D",
+     "en": "Right angle",
+     "ur": "قائمۃ الزاویہ"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "The symbol used for line AB is",
+   "q_ur": "خط AB کے لیے علامت استعمال ہوتی ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "AB̅",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "|AB|",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "AB→",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "AB↔",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "In parallelogram opposite angles are ................",
+   "q_ur": "متوازی الاضلاع کے مخالف زاویے ______ ہوتے ہیں",
+   "options": [
+    {
+     "k": "A",
+     "en": "Congruent",
+     "ur": "متماثل"
+    },
+    {
+     "k": "B",
+     "en": "Same",
+     "ur": "ایک جیسے"
+    },
+    {
+     "k": "C",
+     "en": "Opposite",
+     "ur": "مخالف"
+    },
+    {
+     "k": "D",
+     "en": "Diagonal",
+     "ur": "وتر"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "The ............ of the sides of a triangle are concurrent",
+   "q_ur": "کسی مثلث کے اضلاع کے ______ ہم نقطہ ہوتے ہیں",
+   "options": [
+    {
+     "k": "A",
+     "en": "Bisection",
+     "ur": "تنصیف"
+    },
+    {
+     "k": "B",
+     "en": "Right bisector",
+     "ur": "عمودی ناصف"
+    },
+    {
+     "k": "C",
+     "en": "Mid point",
+     "ur": "وسطی نقطہ"
+    },
+    {
+     "k": "D",
+     "en": "Angle",
+     "ur": "زاویہ"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "One and only one line can be drawn through ............... point",
+   "q_ur": "______ نقاط میں سے ایک اور صرف ایک خط کھینچا جاتا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Area of given figure is ................. [diagram: rectangle 4 cm by 4 cm with right-angle mark at corner]",
+   "q_ur": "دی گئی شکل کا رقبہ ______ ہے [شکل: مستطیل 4 cm × 4 cm جس کے کونے پر قائمہ کا نشان ہے]",
+   "options": [
+    {
+     "k": "A",
+     "en": "16 cm²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4 cm²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8 cm²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6 cm²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "................ congruent triangles can be made by joining mid points of the sides of triangle",
+   "q_ur": "ایک مثلث کے اضلاع کے وسطی نقاط کو ملانے سے ______ متماثل مثلثیں بنائی جاتی ہیں",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "If |2 9; 2 x| = 0 , then x is equal to",
+   "q_ur": "اگر |2 9; 2 x| = 0 تو x برابر ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "9",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−9",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "In ∛45 then radicand is .................",
+   "q_ur": "∛45 میں ریڈیکنڈ ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "45",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "45/3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "log 2.718 = ............................",
+   "q_ur": "................ = log 2.718",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.4342",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.3816",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "1/(a−b) + 1/(a+b) is equal to .................",
+   "q_ur": "1/(a−b) + 1/(a+b) برابر ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "2b/(a²−b²)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−2a/(a²−b²)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2a/(a²−b²)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−2b/(a²−b²)",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1130 @@
+{
+ "board": "BISE DG Khan",
+ "board_slug": "dgkhan",
+ "class": "12th",
+ "subject": "Mathematics",
+ "year": 2024,
+ "slug": "dgkhan-12th-mathematics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Derivative of √x w.r.t. x at x = a is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "√a",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2√a",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/√a",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/(2√a)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "If f(x) = x¹⁰⁰ , f'(1) =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "50",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "99",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "100",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "∫ a^λx dx =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a^λx/λ + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a^λx/ln a + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a^λx/(λ ln a) + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a^λx . ln a + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "∫ eˣ (1/x − 1/x²) dx =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "eˣ/x + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "- eˣ/x + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "eˣ. ln x + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "- eˣ/x² + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "∫ 1/(x² + 16) dx =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "tan⁻¹(x/4) + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/4 tan⁻¹(x/4) + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/4 tan(x/4) + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/2 tan⁻¹(x/4) + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "∫ 0 dx =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "constant",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "A line which pass through one vertex and mid-point of opposite side of a triangle is called",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Median",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Altitude",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Normal",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Perpendicular bisector",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "If A(-2 , 3) , B(-4 , 1) and C(3 , 5) are the vertices of a triangle , then its centroied is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(-3/2 , 9/2)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(-1 , 3)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(-3 , 4)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(-3 , 9)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "If point (2 , -9) lies on line px + y + 20 = 0 , then value of p is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "11/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-11/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "29/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-29/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "If x > b , then which one is correct ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-x > -b",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-x < b",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x < b",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-x < -b",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The circle whose radius is 0 is called a/an",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Unit circle",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Imaginary circle",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Point circle",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Circum circle",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The point (-5 , 6) lies ........... the circle x² + y² = 61",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Outside",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Inside",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "On",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Any where",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "The length of semi-latus rectum of hyperbola",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2a",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "b²/2a",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "b²/a",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2b²/a",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "Which of the following is not vector quantity",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Weight",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Momentum",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Force",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Energy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "If vectors a and b have same direction , then a . b =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ab",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-ab",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ab sinθ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(ab)²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "Value of 2i × 2j . k is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "cosech hx is equal to .............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2/(eˣ + e⁻ˣ)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/(eˣ + e⁻ˣ)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2/(eˣ − e⁻ˣ)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2/(e⁻ˣ − eˣ)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group I",
+   "q_en": "f(x) = ax + b , a ≠ 0 is a/an",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Linear function",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Odd function",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Even function",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Identity function",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group I",
+   "q_en": "Derivative of an identity function is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Identity function",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group I",
+   "q_en": "x³ d/dx (ln 2x) =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2x³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3x²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6x²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "∫ eˣ(sinx − cosx) dx = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "eˣ cosx + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "eˣ sinx + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "− eˣ cosx + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "− eˣ sinx + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "∫(0 to 1/2) 1/√(1−x²) dx = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π/6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "The distance of a point P(2 , -3) from the x-axis is equal to",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "If (2 , 4) , (4 , 6) and (3 , 2) are the vertices of a triangle , then coordinates of the centroid are",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(3 , 4)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(4 , 6)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(9/2 , 6)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(24 , 48)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The lines represented by 3x² − 5xy − 3y² = 0 will be",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Parallel",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Perpendicular",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Neither parallel nor perpendicular",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Tangent lines",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "x = 2 is the solution of",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x > 1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x < 5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x > 7",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x > 9",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "A chord which contains the centre of the circle is called",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Radius",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Focal chord",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Diameter",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Tangent line",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "The perpendicular at the outer end of a radial segment is ................ to the circle",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Secant",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Normal",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Perpendicular",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Tangent",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Asymptotes of the curve x²/16 - y²/25 = 1 are",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "y = ± 5/4 x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "y = ± 4/5 x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "y = ± 5/4 √(x² − 16)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "y = − 5/4 √(x² − 16)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Projection of a vector b along vector a is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(a.b)/|b|",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(a.b)/b",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(a.b)/a",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(a.b)/|a|",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "The value of [ k i j ] = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "If three vectors a , b and c are coplanar , then scalar triple product of these vectors is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a negative number",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a positive number",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a non-negative number",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "Lim (x → a) (x^n-1 − a^n-1)/(x − a) = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "na^n-1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(n-1)a^n-2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "na^n-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(n-1)a^n-1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "If f(x) = 2 + √(x − 1) ∀ x ∈ IR then domain of f⁻¹(x) is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[-1 , +∞)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[0 , +∞)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[1 , +∞)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[2 , +∞)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "d/dx (x − sin2x/2) = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2sin²x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2cos²x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2sinx",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2cosx",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "If f(x) = 1/12 x⁴ , then f⁽⁴⁾(x) = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "If xy + y² = 2 , then dy/dx = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(−x)/(x + 2y)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(−y)/(x + 2y)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(xy − y)/(x + 2y)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(x − 2y)/(x − y)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group II",
+   "q_en": "If f(x) = x² + 2x − 3 , then f(x) is decreasing in the interval",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(-1 , +∞)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(-∞ , -1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(-∞ , 1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(1 , 3)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group II",
+   "q_en": "∫ (sinx − cosx)/√(1 − sin2x) dx = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "sinx + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "cosx + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "cos²x + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group II",
+   "q_en": "∫ x/(x + 2) dx = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x + ln(x + 2) + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x − ln(x + 2)² + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x − ln(x + 2) + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x + ln(x + 2)² + c",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

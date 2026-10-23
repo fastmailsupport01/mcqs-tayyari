@@ -1,0 +1,682 @@
+{
+ "board": "BISE DG Khan",
+ "board_slug": "dgkhan",
+ "class": "10th",
+ "subject": "Chemistry",
+ "year": 2024,
+ "slug": "dgkhan-10th-chemistry-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "At dynamic equilibrium",
+   "q_ur": "ڈائنامک ایکوی لبریم کی حالت میں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "The reaction stops to proceed",
+     "ur": "ری ایکشن آگے بڑھنے سے رک جاتا ہے"
+    },
+    {
+     "k": "B",
+     "en": "The amounts of reactants and products are equal",
+     "ur": "پروڈکٹس اور ری ایکٹنٹس کی مقداریں برابر ہوتی ہیں"
+    },
+    {
+     "k": "C",
+     "en": "The speeds of forward and reverse reactions are equal",
+     "ur": "فارورڈ اور ریورس ری ایکشن کی سپیڈ برابر ہوتی ہے"
+    },
+    {
+     "k": "D",
+     "en": "The reaction can no longer be reversed",
+     "ur": "ری ایکشن کو واپس نہیں لوٹایا جاسکتا"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "A.salt is not composed of",
+   "q_ur": "ایک سالٹ میں نہیں ہوتا۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Metallic cation",
+     "ur": "میٹلک کیٹائن"
+    },
+    {
+     "k": "B",
+     "en": "Non – metallic anion",
+     "ur": "نان میٹلک اینائن"
+    },
+    {
+     "k": "C",
+     "en": "An anion of a base",
+     "ur": "بیس کا اینائن"
+    },
+    {
+     "k": "D",
+     "en": "An anion of an acid",
+     "ur": "ایسڈ کا اینائن"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "You want to dry a gas which one of the following salts you will use ?",
+   "q_ur": "آپ ایک گیس کو خشک کرنے کے لیے کون سا سالٹ استعمال کریں گے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "CaCl2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NaCl",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CaO",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Na2SiO3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Pitch is a black residue of",
+   "q_ur": "پچ کس کا سیاہ ریزٹ ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Coke",
+     "ur": "کوک"
+    },
+    {
+     "k": "B",
+     "en": "Coal tar",
+     "ur": "کول ٹار"
+    },
+    {
+     "k": "C",
+     "en": "Coal",
+     "ur": "کول"
+    },
+    {
+     "k": "D",
+     "en": "Coal gas",
+     "ur": "کول گیس"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The reduction of alkyl halides takes place in the presence of",
+   "q_ur": "الکائل ہیلائڈز کی ریڈکشن کس کی موجودگی میں ہوتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zn/HCl",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Na/HCl",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mg/HCl",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cu/HCl",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Thousands of amino acids polymerize to form",
+   "q_ur": "ہزاروں امائنو ایسڈ پولیمرائز ہو کر بناتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Carbohydrates",
+     "ur": "کاربوہائیڈریٹس"
+    },
+    {
+     "k": "B",
+     "en": "Proteins",
+     "ur": "پروٹینز"
+    },
+    {
+     "k": "C",
+     "en": "Lipids",
+     "ur": "لپڈز"
+    },
+    {
+     "k": "D",
+     "en": "Vitamins",
+     "ur": "وٹامنز"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The most important oligosaccharide is",
+   "q_ur": "سب سے اہم اولیگو سیکرائڈ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Glucose",
+     "ur": "گلوکوز"
+    },
+    {
+     "k": "B",
+     "en": "Maltose",
+     "ur": "مالٹوز"
+    },
+    {
+     "k": "C",
+     "en": "Sucrose",
+     "ur": "سکروز"
+    },
+    {
+     "k": "D",
+     "en": "Fructose",
+     "ur": "فرکٹوز"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Depending upon temperature variations atmosphere is divided into ---------- regions.",
+   "q_ur": "ٹمپریچر میں تبدیلی کے لحاظ سے ایٹموسفیئر کو _______ ریجنز میں تقسیم کیا گیا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The process by which atmospheric nitrogen is turned into nitrates is called.",
+   "q_ur": "وہ عمل جس سے ہوا میں موجود نائٹروجن کو نائٹریٹس میں تبدیل کیا جاتا ہے، کہلاتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nitration",
+     "ur": "نائٹریشن"
+    },
+    {
+     "k": "B",
+     "en": "Fixing",
+     "ur": "فکسنگ"
+    },
+    {
+     "k": "C",
+     "en": "Oxidation",
+     "ur": "آکسیڈیشن"
+    },
+    {
+     "k": "D",
+     "en": "Reduction",
+     "ur": "ریڈکشن"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Which one of the following diseases causes severe diarrhea and is fatal ?",
+   "q_ur": "درج ذیل میں سے کونسی بیماری شدید ڈائریا کا باعث اور مہلک ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Jaundice",
+     "ur": "یرقان"
+    },
+    {
+     "k": "B",
+     "en": "Dysentry",
+     "ur": "پیچش"
+    },
+    {
+     "k": "C",
+     "en": "Cholera",
+     "ur": "کالا"
+    },
+    {
+     "k": "D",
+     "en": "Typhoid",
+     "ur": "ٹائفائیڈ"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Specific heat capacity of water is",
+   "q_ur": "پانی کی سپیسیفک ہیٹ کیپیسٹی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "4.2 KJg-1K-1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4.2 Jg-1K-1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2.4 KJg-1K-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2.4 Jg-1K-1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Crude Oil is heated in the furnace up to",
+   "q_ur": "فرنس میں کرڈ آئل کو کس ٹمپریچر تک گرم کیا جاتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "300 °C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "350 °C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "400 °C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "450 °C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Permanent hardness is removed by adding",
+   "q_ur": "پرمانینٹ ہارڈنیس کو کس کے استعمال سے ختم کیا جاسکتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Na2 Zeolite",
+     "ur": "سوڈیم زیولائٹ"
+    },
+    {
+     "k": "B",
+     "en": "Soda lime",
+     "ur": "سوڈا لائم"
+    },
+    {
+     "k": "C",
+     "en": "Lime water",
+     "ur": "چونے کا پانی"
+    },
+    {
+     "k": "D",
+     "en": "Quick lime",
+     "ur": "ان بجھا چونا"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Cholera is caused by",
+   "q_ur": "ہیضہ کی وجہ سے پیدا ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Virus",
+     "ur": "وائرس"
+    },
+    {
+     "k": "B",
+     "en": "Bacteria",
+     "ur": "بیکٹیریا"
+    },
+    {
+     "k": "C",
+     "en": "Fungi",
+     "ur": "فنجائی"
+    },
+    {
+     "k": "D",
+     "en": "Algae",
+     "ur": "الجی"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "When NaHCO3 is heated it forms ?",
+   "q_ur": "جب NaHCO₃ کو گرم کیا جاتا ہے تو یہ بن جاتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "CO2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ca(OH)2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CaCO3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CaO",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "The units of equilibrium constant Kc for a reaction N2 + 3H2 ⇌ 2NH3 are",
+   "q_ur": "اس ری ایکشن میں ایکوی لبریم کونسٹنٹ Kc کے یونٹس ہیں۔ N₂ + 3H₂ ⇌ 2NH₃",
+   "options": [
+    {
+     "k": "A",
+     "en": "mol dm-3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "mol-2 dm6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "mol-1 dm-3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "mol-1 dm3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The conjugate base of H2PO4- is",
+   "q_ur": "H₂PO₄⁻ کا کانجوگیٹ بیس ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "HPO4-2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "H2PO4-2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "H3PO4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "PO4-3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Malic acid is found in",
+   "q_ur": "مالک ایسڈ پایا جاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Lemon",
+     "ur": "لیموں"
+    },
+    {
+     "k": "B",
+     "en": "Sour milk",
+     "ur": "کھٹے ہوئے دودھ"
+    },
+    {
+     "k": "C",
+     "en": "Oranges",
+     "ur": "مالٹے"
+    },
+    {
+     "k": "D",
+     "en": "Apples",
+     "ur": "سیب"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Formula of acetaldehyde is",
+   "q_ur": "ایسٹ الڈہائڈ (acetaldehyde) کا فارمولا کون سا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "CH3–CH2–OH",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CH3–C(=O)–OH",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CH3–C(=O)–H",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "H–C(=O)–H",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Which one of these is a saturated hydrocarbon ?",
+   "q_ur": "ان میں سے کونسا سیچوریٹڈ ہائیڈروکاربن ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "C2H4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "C3H6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "C4H8",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "C5H12",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "When glucose and fructose combine they produce ?",
+   "q_ur": "گلوکوز اور فرکٹوز کے ملنے سے بنتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Starch",
+     "ur": "سٹارچ"
+    },
+    {
+     "k": "B",
+     "en": "Cellulose",
+     "ur": "سیلولوز"
+    },
+    {
+     "k": "C",
+     "en": "Sucrose",
+     "ur": "سکروز"
+    },
+    {
+     "k": "D",
+     "en": "Maltose",
+     "ur": "مالٹوز"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "The organic compounds used as drugs to control bleeding are",
+   "q_ur": "بلیڈنگ کو روکنے کے لیے دوا کے طور پر کون سے آرگینک کمپاؤنڈز استعمال کیے جاتے ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Vitamins",
+     "ur": "وٹامنز"
+    },
+    {
+     "k": "B",
+     "en": "Proteins",
+     "ur": "پروٹینز"
+    },
+    {
+     "k": "C",
+     "en": "Lipids",
+     "ur": "لپڈز"
+    },
+    {
+     "k": "D",
+     "en": "Glycerides",
+     "ur": "گلیسیرائیڈز"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Buildings are being damaged by acid rain because it attacks",
+   "q_ur": "ایسڈرین کی وجہ سے عمارتوں کو نقصان پہنچتا ہے کیونکہ یہ مندرجہ ذیل میں سے کسی ایک سے ری ایکٹ کرتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Calcium sulphate",
+     "ur": "کیلشیم سلفیٹ"
+    },
+    {
+     "k": "B",
+     "en": "Calcium Nitrate",
+     "ur": "کیلشیم نائٹریٹ"
+    },
+    {
+     "k": "C",
+     "en": "Calcium carbonate",
+     "ur": "کیلشیم کاربونیٹ"
+    },
+    {
+     "k": "D",
+     "en": "Calcium Oxalate",
+     "ur": "کیلشیم آگزلیٹ"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Just above the Earth's surface is",
+   "q_ur": "زمین کی سطح کے بالکل اوپر کون سا سفیئر ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mesosphere",
+     "ur": "میسوسفیئر"
+    },
+    {
+     "k": "B",
+     "en": "Stratosphere",
+     "ur": "سٹریٹوسفیئر"
+    },
+    {
+     "k": "C",
+     "en": "Thermosphere",
+     "ur": "تھرموسفیئر"
+    },
+    {
+     "k": "D",
+     "en": "Troposphere",
+     "ur": "ٹروپوسفیئر"
+    }
+   ]
+  }
+ ]
+}

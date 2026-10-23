@@ -1,0 +1,570 @@
+{
+ "board": "BISE Bahawalpur",
+ "board_slug": "bahawalpur",
+ "class": "9th",
+ "subject": "Computer Science",
+ "year": 2023,
+ "slug": "bahawalpur-9th-computer-science-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "------ is a Graphical representation of an Algorithm :",
+   "q_ur": "------- الگورتھم کا ایک تصویری اظہار ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Matrix",
+     "ur": "قالب"
+    },
+    {
+     "k": "B",
+     "en": "Graph",
+     "ur": "گراف"
+    },
+    {
+     "k": "C",
+     "en": "Solution",
+     "ur": "حل"
+    },
+    {
+     "k": "D",
+     "en": "Flow Chart",
+     "ur": "فلو چارٹ"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Hard Disk is an example of ------ :",
+   "q_ur": "ہارڈ ڈسک ایک مثال ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Primary Memory",
+     "ur": "پرائمری میموری"
+    },
+    {
+     "k": "B",
+     "en": "RAM",
+     "ur": "ریم"
+    },
+    {
+     "k": "C",
+     "en": "Secondary Memory",
+     "ur": "سیکنڈری میموری"
+    },
+    {
+     "k": "D",
+     "en": "ROM",
+     "ur": "روم"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Expression (A + B) • (A + C) is equal to ------ :",
+   "q_ur": "ایکسپریشن (A + B) • (A + C) کے برابر ہوتی ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "A + (B • C)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A • B + A • C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A • (B • C)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A + (B + C)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "It is not type of Test Data :",
+   "q_ur": "یہ ٹیسٹ ڈیٹا کی قسم نہیں ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Boundary Test Data",
+     "ur": "باؤنڈری ٹیسٹ ڈیٹا"
+    },
+    {
+     "k": "B",
+     "en": "Valid Test Data",
+     "ur": "درست ٹیسٹ ڈیٹا"
+    },
+    {
+     "k": "C",
+     "en": "Complete Test Data",
+     "ur": "مکمل ٹیسٹ ڈیٹا"
+    },
+    {
+     "k": "D",
+     "en": "Absent Test Data",
+     "ur": "عدم دستیاب ٹیسٹ ڈیٹا"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Routing is a process of taking data from one device and sending it to another device in different ------ :",
+   "q_ur": "روٹنگ ایسا عمل ہے جس میں ایک آلے سے ڈیٹا لے کر دوسرے آلے کو مختلف ------ پر بھیجا جاتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Channel",
+     "ur": "چینل"
+    },
+    {
+     "k": "B",
+     "en": "Network",
+     "ur": "نیٹ ورک"
+    },
+    {
+     "k": "C",
+     "en": "Path",
+     "ur": "پاتھ"
+    },
+    {
+     "k": "D",
+     "en": "Area",
+     "ur": "ایریا"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Who is Hacker :",
+   "q_ur": "ہیکر کون ہوتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Antivirus",
+     "ur": "اینٹی وائرس"
+    },
+    {
+     "k": "B",
+     "en": "Computer Expert",
+     "ur": "کمپیوٹر ایکسپرٹ"
+    },
+    {
+     "k": "C",
+     "en": "End User",
+     "ur": "اینڈ یوزر"
+    },
+    {
+     "k": "D",
+     "en": "Protocol",
+     "ur": "پروٹوکول"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "To save the HTML Page, we use ------ as File Extension :",
+   "q_ur": "HTML پیج کو محفوظ کرنے کے لیے ہم ------ ایکسٹینشن استعمال کرتے ہیں :",
+   "options": [
+    {
+     "k": "A",
+     "en": "HTML",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "HTM",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "XHTML",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Both A and B",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Hub is used in ------ Topology :",
+   "q_ur": "ہب ------ ٹاپالوجی میں استعمال ہوتی ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Bus Topology",
+     "ur": "بس ٹاپالوجی"
+    },
+    {
+     "k": "B",
+     "en": "Star Topology",
+     "ur": "سٹار ٹاپالوجی"
+    },
+    {
+     "k": "C",
+     "en": "Ring Topology",
+     "ur": "رنگ ٹاپالوجی"
+    },
+    {
+     "k": "D",
+     "en": "Mesh Topology",
+     "ur": "میش ٹاپالوجی"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "------ Tag is used to Display Data in Tabular Form :",
+   "q_ur": "------ ٹیگ مواد کو ٹیبل کی شکل میں دکھانے کے لیے استعمال ہوتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "< td >",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "< table >",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "< tr >",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "< th >",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Which of the following does not include the type of Software Piracy :",
+   "q_ur": "درج ذیل میں سے کون سی سافٹ ویئر پائریسی کی قسم نہیں ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Softlifting",
+     "ur": "سافٹ لفٹنگ"
+    },
+    {
+     "k": "B",
+     "en": "Liability",
+     "ur": "ذمہ داری"
+    },
+    {
+     "k": "C",
+     "en": "Client Sever Overuse",
+     "ur": "کلائنٹ سرور اوور یوز"
+    },
+    {
+     "k": "D",
+     "en": "Online Piracy",
+     "ur": "آن لائن پائریسی"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "The number system we use in our daily life is ------ :",
+   "q_ur": "عام روزمرہ کی زندگی میں استعمال ہونے والا عددی نظام ------ ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Decimal Number System",
+     "ur": "اعشاری نظام"
+    },
+    {
+     "k": "B",
+     "en": "Hexa Decimal Number System",
+     "ur": "ہیکسا ڈیسمل نمبر سسٹم"
+    },
+    {
+     "k": "C",
+     "en": "Octal Number System",
+     "ur": "آکٹل نظام"
+    },
+    {
+     "k": "D",
+     "en": "Binary Number System",
+     "ur": "ثنائی نظام"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Which Solution is not reached through proper Algorithm or work planning :",
+   "q_ur": "کس حل کو مناسب الگورتھم یا پلاننگ سے نہیں سمجھا جاتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Prepared Solution",
+     "ur": "تیار شدہ حل"
+    },
+    {
+     "k": "B",
+     "en": "Candid Solution",
+     "ur": "کینڈیڈ حل"
+    },
+    {
+     "k": "C",
+     "en": "Strategized Solution",
+     "ur": "حکمت عملی پر مبنی حل"
+    },
+    {
+     "k": "D",
+     "en": "Best Solution",
+     "ur": "بہترین حل"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "In a Flowchart ◇ symbol is used to indicate :",
+   "q_ur": "فلو چارٹ میں ◇ کی علامت ظاہر کرتی ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Decision",
+     "ur": "فیصلہ سازی"
+    },
+    {
+     "k": "B",
+     "en": "Input",
+     "ur": "ان پٹ"
+    },
+    {
+     "k": "C",
+     "en": "Output",
+     "ur": "آؤٹ پٹ"
+    },
+    {
+     "k": "D",
+     "en": "Progress",
+     "ur": "پراگریس"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Number '17' is equal to ---- in Binary System :",
+   "q_ur": "بائنری سسٹم میں نمبر '17' ------ کے برابر ہوتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "10000",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10110",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10001",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10100",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Which of the following is not a characteristic of good password :",
+   "q_ur": "درج ذیل میں سے کون سی اچھے پاس ورڈ کی خوبی نہیں ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Is Eight Character Long",
+     "ur": "آٹھ حرفی طوالت"
+    },
+    {
+     "k": "B",
+     "en": "Does not contains user name",
+     "ur": "یوزر نیم پر مشتمل نہ ہو"
+    },
+    {
+     "k": "C",
+     "en": "Contains upper case letters",
+     "ur": "بڑے حروف پر مشتمل ہو"
+    },
+    {
+     "k": "D",
+     "en": "Password is your name only",
+     "ur": "پاس ورڈ صرف آپ کے نام پر مشتمل ہے"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "WWW stands for :",
+   "q_ur": "WWW مخفف ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "World Wide Web",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "World Wheel Web",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Wheather Wide Web",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "What Wide Web",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "The IPV4 Address is made up of ------ Binary Bits :",
+   "q_ur": "IPV4 ایڈریس ------ بائنری بٹس سے بنتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "31",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "29",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "32",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "30",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "\"In Benazir Income Scheme you won a prize of \"75600\". This type of message you receive on your cell phone and ask you to call a number which type of this Cyber Crime is :",
+   "q_ur": "\"بے نظیر انکم سکیم میں 75600/- روپے انعام مبارک ہو\" اس قسم کا پیغام آپ کے موبائل فون پر موصول ہوا اور کہا گیا کہ اس نمبر پر کال کریں تو یہ سائبر کرائم کی کون سی قسم ہوگی :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hacking",
+     "ur": "ہیکنگ"
+    },
+    {
+     "k": "B",
+     "en": "Advance Fee Fraud",
+     "ur": "ایڈوانس فیس فراڈ"
+    },
+    {
+     "k": "C",
+     "en": "Identity Theft",
+     "ur": "شناخت کی چوری"
+    },
+    {
+     "k": "D",
+     "en": "Piracy",
+     "ur": "پائریسی"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Which Topology uses more Lengthy Cable :",
+   "q_ur": "کس ٹاپالوجی میں سب سے زیادہ تار استعمال ہوتی ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Bus Topology",
+     "ur": "بس ٹاپالوجی"
+    },
+    {
+     "k": "B",
+     "en": "Star Topology",
+     "ur": "سٹار ٹاپالوجی"
+    },
+    {
+     "k": "C",
+     "en": "Ring Topology",
+     "ur": "رنگ ٹاپالوجی"
+    },
+    {
+     "k": "D",
+     "en": "Mesh Topology",
+     "ur": "میش ٹاپالوجی"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "[illegible in source scan]",
+   "q_ur": "[illegible in source scan]",
+   "options": [
+    {
+     "k": "A",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

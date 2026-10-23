@@ -1,0 +1,682 @@
+{
+ "board": "BISE DG Khan",
+ "board_slug": "dgkhan",
+ "class": "12th",
+ "subject": "Computer Science",
+ "year": 2024,
+ "slug": "dgkhan-12th-computer-science-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Single Group",
+   "q_en": "The output of the query is in the form of a",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Table",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Form",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Report",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "List",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Single Group",
+   "q_en": "How many table views are available in Microsoft Access",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Single Group",
+   "q_en": "A collection of related fields is called",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Character",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "File",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Database",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Record",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Single Group",
+   "q_en": "Which of the following is not a type of database key ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Public",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Primary",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Foreign",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Secondary",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Single Group",
+   "q_en": "In an ER diagram , a diamond represents",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Attribute",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Relationship",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Entity",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "File",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Single Group",
+   "q_en": "Which form of dependency is removed in 3NF ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Full",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Functional",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Transitive",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Partial",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Single Group",
+   "q_en": "[C-LANGUAGE] What will be the value of y after executing the following statement y = (5 < 10) ? 5 : 10 ;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "510",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "15",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Single Group",
+   "q_en": "[VISUAL BASIC] Image control holds a graphic that is assigned to .............. property",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Caption",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Auto size",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Picture",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Text",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Single Group",
+   "q_en": "[C-LANGUAGE] All of the followings are control statements except",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sequential",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Repetition",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Selection",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Float",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Single Group",
+   "q_en": "[VISUAL BASIC] All items in a list box can be cleared at once using method",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Remove item",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Delete",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Finish",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Clear",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Single Group",
+   "q_en": "[C-LANGUAGE] Which of the following symbol is used at the end of case statement",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": ";",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "end l",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": ":",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "<",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Single Group",
+   "q_en": "[VISUAL BASIC] You can enter data in a control only when it has",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Control",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Focus",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mask",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Tab order",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Single Group",
+   "q_en": "[C-LANGUAGE] The first line of function definition is known as",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Arguments",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Function body",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Return type",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Function header",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Single Group",
+   "q_en": "[VISUAL BASIC] Forms and controls are collectively recognized as",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Properties",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Method",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Object",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Events",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Single Group",
+   "q_en": "[C-LANGUAGE] An array subscript should be",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "float",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "int",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "double",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "string",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Single Group",
+   "q_en": "[VISUAL BASIC] The naming prefix for a label control is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "lable",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "la",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "lb",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "lbl",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Single Group",
+   "q_en": "[C-LANGUAGE] .exe is produced by",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Loader",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Interpreter",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Linker",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Debugger",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Single Group",
+   "q_en": "[VISUAL BASIC] Variables name cannot begin with",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Number",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Uppercase",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Lowercase",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Underscore",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Single Group",
+   "q_en": "[C-LANGUAGE] The number of bytes used by float data type in C-language is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Single Group",
+   "q_en": "[VISUAL BASIC] The long data type in VB occupies .......... bytes",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Single Group",
+   "q_en": "[C-LANGUAGE] Which of the following operator has lowest precedence ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "=",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "+",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "*",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "( )",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Single Group",
+   "q_en": "[VISUAL BASIC] A loop within a loop is called",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nested",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Complex",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Outer",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Sentinel",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Single Group",
+   "q_en": "[C-LANGUAGE] If int a = 5 , then the statement printf (\" % 4 d \" , a) will display",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[space]5[space][space]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5[space][space][space]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[space][space][space]5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "\" 5 \"",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Single Group",
+   "q_en": "[VISUAL BASIC] .............. is an example of post test loop",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Do while",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "While wend",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Do until",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Do loop while",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

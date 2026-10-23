@@ -1,0 +1,570 @@
+{
+ "board": "BISE Bahawalpur",
+ "board_slug": "bahawalpur",
+ "class": "11th",
+ "subject": "Mathematics",
+ "year": 2024,
+ "slug": "bahawalpur-11th-mathematics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Single Group",
+   "q_en": "Modulus of 5 – 3i is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "√4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "√16",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√25",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√34",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Single Group",
+   "q_en": "If p is a logical statement then p ∧ ~p is always :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Absurdity",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Contingency",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Tautology",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Conditional",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Single Group",
+   "q_en": "If A ⊆ B and A – B = ∅, then n (A – B) = …… :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "n(A)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "n(B)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "n(A) – n(B)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Single Group",
+   "q_en": "The Property ∀ a ∈ R, a = a is called :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Symmetric",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Transitive",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Reflexive",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Commutative",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Single Group",
+   "q_en": "Set containing elements of A or B is denoted by :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A∩B",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A ⊆ B",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A∪B",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "B ⊆ A",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Single Group",
+   "q_en": "Roots of the equation x² – 5x + 6 = 0 are …… :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2, –3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "–2, –3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2, 3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "–2, 3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Single Group",
+   "q_en": "If A = [1 1; 1 x], and |A| = 4, then x = …. :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Single Group",
+   "q_en": "A matrix of order m x 1 is called :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Row Matrix",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Column Matrix",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Diagonal Matrix",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Null Matrix",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Single Group",
+   "q_en": "Degree of Constant Polynomial is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "n",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Single Group",
+   "q_en": "Σ(K=1 to n) K = ……",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "n²(n+1)²/4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "n(n+1)/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "n(n+1)(n+2)/6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "n(n–1)/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Single Group",
+   "q_en": "The Arithmetic Mean between √2 and 3√2 is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2√2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3√2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4√2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Single Group",
+   "q_en": "x/(2x+3) is …… :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Proper Fraction",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Improper Fraction",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Identity Fraction",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mixed Fraction",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Single Group",
+   "q_en": "Probability of an impossible event is …… :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.25",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Single Group",
+   "q_en": "Tan (α – 90°) = …. :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cot α",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "– Cot α",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Tan α",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "– Tan α",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Single Group",
+   "q_en": "Solution of Cot θ = 1/√3 in quad III is ….. :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5π/3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "7π/6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4π/3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "7π/3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Single Group",
+   "q_en": "Numbers of terms in the expansion of (a + x)²ⁿ⁺¹ are :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2n + 2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2n + 1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2n",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "n + 1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Single Group",
+   "q_en": "Period of Cot 3x is …… :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2π/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π/3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Single Group",
+   "q_en": "If Sinx = √3/2 and x ∈ [0, 2π], then x is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5π/3, 4π/3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/4, 3π/4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/3, 2π/3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π/6, 5π/6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Single Group",
+   "q_en": "The Value of Sin⁻¹(Cos π/6) is equal to :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3π/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π/3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Single Group",
+   "q_en": "Sec (α/2) = …… :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "√(s(s–a)/bc)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "√(bc/(s(s–a)))",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "s/Δ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Δ/(s–b)",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

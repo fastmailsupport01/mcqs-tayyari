@@ -1,0 +1,682 @@
+{
+ "board": "BISE DG Khan",
+ "board_slug": "dgkhan",
+ "class": "9th",
+ "subject": "Chemistry",
+ "year": 2023,
+ "slug": "dgkhan-9th-chemistry-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Molar mass of H₂SO₄ is.",
+   "q_ur": "H₂SO₄ کا مولر ماس ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "98 g",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "98 amu",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "9.8 g",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9.8 amu",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "One atomic mass unit (amu) is equal to.",
+   "q_ur": "ایک اٹامک ماس یونٹ برابر ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.66x10⁻²⁴ mg",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "66x10⁻²⁴ g",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.66x10⁻²⁴ kg",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.66x10⁻²³ g",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The proton was discovered by",
+   "q_ur": "پروٹون دریافت کیا",
+   "options": [
+    {
+     "k": "A",
+     "en": "Gold Stein",
+     "ur": "گولڈ سٹائن"
+    },
+    {
+     "k": "B",
+     "en": "J.J Thomson",
+     "ur": "جے جے تھامسن"
+    },
+    {
+     "k": "C",
+     "en": "Neil Bohr",
+     "ur": "نیل بوہر"
+    },
+    {
+     "k": "D",
+     "en": "Rutherford",
+     "ur": "ردرفورڈ"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Lanthanides and Actinides lie in.",
+   "q_ur": "لینتھانائیڈز اور ایکٹینائیڈز رکھے جاتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "s-block",
+     "ur": "ایس بلاک"
+    },
+    {
+     "k": "B",
+     "en": "p-block",
+     "ur": "پی بلاک"
+    },
+    {
+     "k": "C",
+     "en": "d-block",
+     "ur": "ڈی بلاک"
+    },
+    {
+     "k": "D",
+     "en": "f-block",
+     "ur": "ایف بلاک"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Boiling point of Alcohol is",
+   "q_ur": "الکحل کا بوائلنگ پوائنٹ ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "70 °C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "100 °C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0 °C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "78 °C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Covalent bond involves the",
+   "q_ur": "کوویلنٹ بانڈ نتیجہ ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "Donation of electron",
+     "ur": "الیکٹران کے عطیے کا"
+    },
+    {
+     "k": "B",
+     "en": "Acceptance of electrons",
+     "ur": "الیکٹران کی ایکسپٹنس کا"
+    },
+    {
+     "k": "C",
+     "en": "Sharing of electrons",
+     "ur": "الیکٹران کے شیئرنگ کا"
+    },
+    {
+     "k": "D",
+     "en": "Repulsion of electrons",
+     "ur": "الیکٹران میں ریپلشن کا"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The elements that can exist in two or more different forms in physical state is called.",
+   "q_ur": "وہ عناصر جن میں ایٹموں کی ترتیب دو یا دو سے زیادہ طرح کی ہو کہلاتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "isotopes",
+     "ur": "آئسوٹوپس"
+    },
+    {
+     "k": "B",
+     "en": "Allotropes",
+     "ur": "ایلوٹروپس"
+    },
+    {
+     "k": "C",
+     "en": "Amorphous",
+     "ur": "ایمارفس"
+    },
+    {
+     "k": "D",
+     "en": "Crystalline",
+     "ur": "کرسٹلائن"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The concentrated solution of common salt in water is called.",
+   "q_ur": "عام نمک کا پانی میں کنسنٹریٹڈ سلوشن کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Brine",
+     "ur": "برائن"
+    },
+    {
+     "k": "B",
+     "en": "Benzene",
+     "ur": "بنزین"
+    },
+    {
+     "k": "C",
+     "en": "Alcohol",
+     "ur": "الکحل"
+    },
+    {
+     "k": "D",
+     "en": "Toluene",
+     "ur": "ٹالوین"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Opal is an example of solution.",
+   "q_ur": "اوپل سلوشن کی مثال ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Liquid in Gas",
+     "ur": "گیس میں مائع"
+    },
+    {
+     "k": "B",
+     "en": "Solid in Gas",
+     "ur": "گیس میں ٹھوس"
+    },
+    {
+     "k": "C",
+     "en": "Solid in Solid",
+     "ur": "ٹھوس میں ٹھوس"
+    },
+    {
+     "k": "D",
+     "en": "Gas in Solid",
+     "ur": "ٹھوس میں گیس"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "[illegible in source scan] of Down's cell is made up of.",
+   "q_ur": "ڈاؤنز سیل کا کیتھوڈ بنتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Iron",
+     "ur": "آئرن"
+    },
+    {
+     "k": "B",
+     "en": "Steel",
+     "ur": "سٹیل"
+    },
+    {
+     "k": "C",
+     "en": "Graphite",
+     "ur": "گریفائٹ"
+    },
+    {
+     "k": "D",
+     "en": "Zinc",
+     "ur": "زنک"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "[illegible in source scan] formula of rust is.",
+   "q_ur": "زنگ کا فارمولا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Fe₂O₃.nH₂O",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Fe₂O₃",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Fe(OH)₃.nH₂O",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Fe(OH)₃",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "[illegible in source scan] most reactive metal is.",
+   "q_ur": "سب سے زیادہ ری ایکٹو میٹل ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cesium",
+     "ur": "سیزیم"
+    },
+    {
+     "k": "B",
+     "en": "Rubidium",
+     "ur": "روبیڈیم"
+    },
+    {
+     "k": "C",
+     "en": "Potassium",
+     "ur": "پوٹاشیم"
+    },
+    {
+     "k": "D",
+     "en": "Sodium",
+     "ur": "سوڈیم"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Molecular mass of H₂O is.",
+   "q_ur": "پانی کے ایک مالیکیول کا ماس ہوتا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "18 amu",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "18 g",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "18 mg",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "18 kg",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Number of moles are equivalent to 8 grams of CO₂ are.",
+   "q_ur": "8 گرام CO₂ کے کتنے مولز برابر ہوتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.15",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.18",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.21",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.24",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Electronic configuration of Fluorine is.",
+   "q_ur": "فلورین کی الیکٹرانک کنفیگریشن ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1s²,2s²,2p⁵",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1s²,2s²,2p⁴",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1s²,2s²,2p³",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1s²,2s²,2p¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "The base of long form of periodic table is.",
+   "q_ur": "لانگ فارم آف پیریاڈک ٹیبل کی بنیاد ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mendeleev principle",
+     "ur": "مینڈیلیف کا اصول"
+    },
+    {
+     "k": "B",
+     "en": "Atomic number",
+     "ur": "اٹامک نمبر"
+    },
+    {
+     "k": "C",
+     "en": "Atomic mass",
+     "ur": "اٹامک ماس"
+    },
+    {
+     "k": "D",
+     "en": "Mass number",
+     "ur": "ماس نمبر"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The result of transfer of electron between atom appear to.",
+   "q_ur": "ایٹمز کے درمیان الیکٹران کی منتقلی کا نتیجہ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Metallic bond",
+     "ur": "میٹالک بانڈ کی صورت میں"
+    },
+    {
+     "k": "B",
+     "en": "Ionic bond",
+     "ur": "آئونک بانڈ کی صورت میں"
+    },
+    {
+     "k": "C",
+     "en": "Covalent bond",
+     "ur": "کوویلنٹ بانڈ کی صورت میں"
+    },
+    {
+     "k": "D",
+     "en": "Coordinate covalent bond",
+     "ur": "کوآرڈینیٹ کوویلنٹ بانڈ کی صورت میں"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Which of the following has triple covalent bond.",
+   "q_ur": "درج ذیل میں سے کس میں ٹرپل کوویلنٹ بانڈ پایا جاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "C₂H₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "HCl",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CH₄",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NaCl",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "One atmospheric pressure is equal to........ pascal",
+   "q_ur": "1 atm پریشر پاسکل کے برابر ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "101325 Pa",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10325 Pa",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "106075 Pa",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10523 Pa",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "The types of solution are.",
+   "q_ur": "سلوشن کی اقسام ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "9",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "One example of solution is.",
+   "q_ur": "سلوشن کی ایک مثال ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Oxygen",
+     "ur": "آکسیجن"
+    },
+    {
+     "k": "B",
+     "en": "CO₂",
+     "ur": "کاربن ڈائی آکسائیڈ"
+    },
+    {
+     "k": "C",
+     "en": "Air",
+     "ur": "ہوا"
+    },
+    {
+     "k": "D",
+     "en": "Nitrogen",
+     "ur": "نائٹروجن"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "The example of Non electrolyte is.",
+   "q_ur": "نان الیکٹرولائٹ کی مثال ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "NaOH",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "HCl",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "H₂SO₄",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "C₆H₆",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Concentrated solution of NaCl is called.",
+   "q_ur": "NaCl کا کنسنٹریٹڈ سلوشن کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Starch Solution",
+     "ur": "سٹارچ سلوشن"
+    },
+    {
+     "k": "B",
+     "en": "Chloride Solution",
+     "ur": "کلورائیڈ سلوشن"
+    },
+    {
+     "k": "C",
+     "en": "Brine Solution",
+     "ur": "برائن سلوشن"
+    },
+    {
+     "k": "D",
+     "en": "Carbonated Solution",
+     "ur": "کاربونیٹڈ سلوشن"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Metal which floats on water is.",
+   "q_ur": "دھات جو پانی پر تیرتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Calcium",
+     "ur": "کیلشیم"
+    },
+    {
+     "k": "B",
+     "en": "Sodium",
+     "ur": "سوڈیم"
+    },
+    {
+     "k": "C",
+     "en": "Magnesium",
+     "ur": "میگنیشیم"
+    },
+    {
+     "k": "D",
+     "en": "Potassium",
+     "ur": "پوٹاشیم"
+    }
+   ]
+  }
+ ]
+}

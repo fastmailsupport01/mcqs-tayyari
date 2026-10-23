@@ -1,0 +1,682 @@
+{
+ "board": "BISE Bahawalpur",
+ "board_slug": "bahawalpur",
+ "class": "9th",
+ "subject": "Chemistry",
+ "year": 2023,
+ "slug": "bahawalpur-9th-chemistry-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Number of Moles in 8g of CO₂ is equivalent to :",
+   "q_ur": "CO₂ کے 8 گرام میں مولز کی تعداد برابر ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.15",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.18",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.21",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.24",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The Empirical Formula of Glucose is :",
+   "q_ur": "گلوکوز کا ایمپیریکل فارمولا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "C₆H₁₂O₆",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CH",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CH₂O",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "C₆H₆",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "One of the following is the most penetrating particles :",
+   "q_ur": "درج ذیل میں سے پارٹیکلز میں سب سے زیادہ سرایت کرنے والے ہیں",
+   "options": [
+    {
+     "k": "A",
+     "en": "Protons",
+     "ur": "پروٹونز"
+    },
+    {
+     "k": "B",
+     "en": "Electrons",
+     "ur": "الیکٹرونز"
+    },
+    {
+     "k": "C",
+     "en": "Neutrons",
+     "ur": "نیوٹرونز"
+    },
+    {
+     "k": "D",
+     "en": "Alpha Particles",
+     "ur": "الفا پارٹیکلز"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Long Form of Periodic Table is based on :",
+   "q_ur": "لانگ فارم آف پیریڈک ٹیبل کی بنیاد ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mendeleev Postulate",
+     "ur": "مینڈلیف کا نظریہ"
+    },
+    {
+     "k": "B",
+     "en": "Atomic Number",
+     "ur": "ایٹمک نمبر"
+    },
+    {
+     "k": "C",
+     "en": "Atomic Mass",
+     "ur": "ایٹمک ماس"
+    },
+    {
+     "k": "D",
+     "en": "Mass Number",
+     "ur": "ماس نمبر"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "A bond pair in Covalent Molecules usually has :",
+   "q_ur": "کوویلنٹ مالیکیولز میں موجود بانڈڈ جوڑا رکھتا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 Electron",
+     "ur": "ایک الیکٹرون"
+    },
+    {
+     "k": "B",
+     "en": "2 Electrons",
+     "ur": "دو الیکٹرونز"
+    },
+    {
+     "k": "C",
+     "en": "3 Electrons",
+     "ur": "تین الیکٹرونز"
+    },
+    {
+     "k": "D",
+     "en": "4 Electrons",
+     "ur": "چار الیکٹرونز"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "One of the following is an Electron Deficient Molecule :",
+   "q_ur": "درج ذیل مالیکیول میں الیکٹرونز کی کمی پائی جاتی ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "NH₃",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "BF₃",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "N₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "O₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Which of the following Gas diffuses fastest :",
+   "q_ur": "ان میں سے وہ گیس جو تیزی سے ڈیفیوز کرتی ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hydrogen",
+     "ur": "ہائیڈروجن"
+    },
+    {
+     "k": "B",
+     "en": "Helium",
+     "ur": "ہیلیم"
+    },
+    {
+     "k": "C",
+     "en": "Fluorine",
+     "ur": "فلورین"
+    },
+    {
+     "k": "D",
+     "en": "Chlorine",
+     "ur": "کلورین"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Molarity is the number of Moles of Solute dissolved in :",
+   "q_ur": "مولیرٹی سلوٹ کے مولز کی وہ تعداد ہے جو حل شدہ ہو",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 Kg of Solution",
+     "ur": "سلوشن کے ایک کلوگرام میں"
+    },
+    {
+     "k": "B",
+     "en": "100 g of Solvent",
+     "ur": "سالونٹ کے 100 گرام میں"
+    },
+    {
+     "k": "C",
+     "en": "1 dm³ of Solvent",
+     "ur": "سالونٹ کے 1 dm³ میں"
+    },
+    {
+     "k": "D",
+     "en": "1 dm³ of Solution",
+     "ur": "سلوشن کے 1 dm³ میں"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "\"Chalk in water\" is an example of :",
+   "q_ur": "\"پانی میں چاک\" مثال ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "Suspension",
+     "ur": "سسپنشن"
+    },
+    {
+     "k": "B",
+     "en": "Colloid",
+     "ur": "کولائیڈ"
+    },
+    {
+     "k": "C",
+     "en": "Solution",
+     "ur": "سلوشن"
+    },
+    {
+     "k": "D",
+     "en": "Solute",
+     "ur": "سلوٹ"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The Oxidation Number of Chromium in K₂Cr₂O₇ is :",
+   "q_ur": "K₂Cr₂O₇ میں کرومیم کا آکسیڈیشن نمبر ہوتا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "+2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "+6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "+14",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "+7",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "In HNO₃, the Oxidation Number of Nitrogen is :",
+   "q_ur": "HNO₃ میں نائٹروجن کا آکسیڈیشن نمبر ہوتا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "+5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "+6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "+7",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "+8",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Which of the following Non-Metal is Lustrous :",
+   "q_ur": "درج ذیل میں سے کون سا چمکدار نان میٹل ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sulphur",
+     "ur": "سلفر"
+    },
+    {
+     "k": "B",
+     "en": "Phosphorus",
+     "ur": "فاسفورس"
+    },
+    {
+     "k": "C",
+     "en": "Iodine",
+     "ur": "آئیوڈین"
+    },
+    {
+     "k": "D",
+     "en": "Carbon",
+     "ur": "کاربن"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "The Industrial Manufacturing of Sulphuric Acid is an application of :",
+   "q_ur": "صنعتی پیمانے پر سلفیورک ایسڈ کی تیاری جس کے تحت آتی ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "Industrial Chemistry",
+     "ur": "انڈسٹریل کیمسٹری"
+    },
+    {
+     "k": "B",
+     "en": "Bio Chemistry",
+     "ur": "بائیو کیمسٹری"
+    },
+    {
+     "k": "C",
+     "en": "Organic Chemistry",
+     "ur": "آرگینک کیمسٹری"
+    },
+    {
+     "k": "D",
+     "en": "Inorganic Chemistry",
+     "ur": "ان آرگینک کیمسٹری"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "An Element which has the lowest Atomic Radius :",
+   "q_ur": "ایک ایلیمنٹ جو سب سے کم اٹامک ریڈیس رکھتا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "F",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Be",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ne",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Li",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Number of Neutrons in Deuterium ²₁H Isotope is :",
+   "q_ur": "ڈیوٹیریم ²₁H آئسوٹوپ میں نیوٹرونز کی تعداد ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Example of a Mixture is :",
+   "q_ur": "ایک مکسچر کی مثال ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "Air",
+     "ur": "ہوا"
+    },
+    {
+     "k": "B",
+     "en": "Oxygen",
+     "ur": "آکسیجن"
+    },
+    {
+     "k": "C",
+     "en": "Water",
+     "ur": "پانی"
+    },
+    {
+     "k": "D",
+     "en": "Sugar",
+     "ur": "شوگر"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "One is a Polar Molecule :",
+   "q_ur": "ان میں سے جو پولر مالیکیول ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "O₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cl₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "HCl",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "H₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Mist is an example of which solution :",
+   "q_ur": "دھند کس سلوشن کی مثال ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "Solid in Gas",
+     "ur": "گیس میں ٹھوس"
+    },
+    {
+     "k": "B",
+     "en": "Gas in Liquid",
+     "ur": "مائع میں گیس"
+    },
+    {
+     "k": "C",
+     "en": "Liquid in Gas",
+     "ur": "گیس میں مائع"
+    },
+    {
+     "k": "D",
+     "en": "Gas in Solid",
+     "ur": "ٹھوس میں گیس"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "The Density of Gold is :",
+   "q_ur": "گولڈ کی ڈینسٹی ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "2.70 g cm⁻³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "7.86 g cm⁻³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10.90 g cm⁻³",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "19.3 g cm⁻³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Polar Covalent Compounds easily dissolve in :",
+   "q_ur": "پولر کوویلنٹ کمپاؤنڈز آسانی سے حل ہو جاتے ہیں",
+   "options": [
+    {
+     "k": "A",
+     "en": "Water",
+     "ur": "پانی میں"
+    },
+    {
+     "k": "B",
+     "en": "Benzene",
+     "ur": "بینزین میں"
+    },
+    {
+     "k": "C",
+     "en": "Ether",
+     "ur": "ایتھر میں"
+    },
+    {
+     "k": "D",
+     "en": "Acetone",
+     "ur": "ایسیٹون میں"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "One of the following is Water Soluble Compound :",
+   "q_ur": "درج ذیل میں سے جو کمپاؤنڈ پانی میں حل ہوتا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "CH₄",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NaCl",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "C₂H₄",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "C₆H₆",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "The Oxidation Number of Oxygen in Peroxides is :",
+   "q_ur": "پرآکسائیڈز میں آکسیجن کا آکسیڈیشن نمبر ہوتا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "One is a Non Electrolyte :",
+   "q_ur": "ایک نان الیکٹرولائٹ ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "Benzene",
+     "ur": "بینزین"
+    },
+    {
+     "k": "B",
+     "en": "HCl",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NaOH",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CH₃COOH",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "One is an example of Reducing Agent :",
+   "q_ur": "ایک ریڈیوسنگ ایجنٹ کی مثال ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "O₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cl₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zn",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

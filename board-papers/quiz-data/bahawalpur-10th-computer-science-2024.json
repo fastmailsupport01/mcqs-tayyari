@@ -1,0 +1,290 @@
+{
+ "board": "BISE Bahawalpur",
+ "board_slug": "bahawalpur",
+ "class": "10th",
+ "subject": "Computer Science",
+ "year": 2024,
+ "slug": "bahawalpur-10th-computer-science-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "The function that does not return anything has return type :",
+   "q_ur": "جو فنکشن کوئی قیمت واپس نہ کرے اس کی ریٹرن ٹائپ ہوتی ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Null",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Nothing",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Never",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Void",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "The functions which are available in C standard library are called :",
+   "q_ur": "سی سٹینڈرڈ لائبریری میں موجود فنکشنز __ کہلاتے ہیں :",
+   "options": [
+    {
+     "k": "A",
+     "en": "User defined",
+     "ur": "یوزر ڈیفائنڈ"
+    },
+    {
+     "k": "B",
+     "en": "Built in",
+     "ur": "بلٹ ان"
+    },
+    {
+     "k": "C",
+     "en": "Repetitive",
+     "ur": "تکراری"
+    },
+    {
+     "k": "D",
+     "en": "Selected",
+     "ur": "سلیکٹڈ"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Array elements are stored at memory locations :",
+   "q_ur": "ارے کے ارکان میموری کے __ مقامات پر محفوظ ہوتے ہیں :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Scattered",
+     "ur": "بکھرے ہوئے"
+    },
+    {
+     "k": "B",
+     "en": "Divided",
+     "ur": "تقسیم شدہ"
+    },
+    {
+     "k": "C",
+     "en": "Contiguous",
+     "ur": "متصل"
+    },
+    {
+     "k": "D",
+     "en": "Controlled",
+     "ur": "کنٹرولڈ"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "In For Loop, this expression is executed only once :",
+   "q_ur": "For لوپ میں یہ ایکسپریشن صرف ایک بار چلتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Condition",
+     "ur": "شرط"
+    },
+    {
+     "k": "B",
+     "en": "Initialization",
+     "ur": "انیشیلائزیشن"
+    },
+    {
+     "k": "C",
+     "en": "Body",
+     "ur": "باڈی"
+    },
+    {
+     "k": "D",
+     "en": "Float",
+     "ur": "فلوٹ"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "What is the Output of the following code :\nint m = 70;\nif (m >= 40)\nprint (\"Pass\");\nelse\nprint(\"Fail\");",
+   "q_ur": "درج ذیل کوڈ کی آؤٹ پٹ کیا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "33",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Pass",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "70",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Fail",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Which of the following is Selection Statement :",
+   "q_ur": "ان میں سے کونسی سلیکشن سٹیٹمنٹ ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "if",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "for",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "int",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "while",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "The value of C expression (10%6)*3 is :",
+   "q_ur": "C ایکسپریشن میں (10%6)*3 کی قیمت ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "4.5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "12",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Which of these is a Valid Character Constant :",
+   "q_ur": "ان میں سے کونسا درست کریکٹر کانسٹنٹ ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "'her'",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "'9'",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "\"Ali\"",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "\"a\"",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "To initialize a variable we use __ operator :",
+   "q_ur": "ایک متغیر کو انیشیلائز کرنے کے لیے ہم __ آپریٹر استعمال کرتے ہیں :",
+   "options": [
+    {
+     "k": "A",
+     "en": ">",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "==",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "=",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "%",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Which of these is valid variable name :",
+   "q_ur": "ان میں سے کونسا وری ایبل کا نام درست ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "2 Car",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "$ Var",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Number",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "= Colour",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,682 @@
+{
+ "board": "BISE DG Khan",
+ "board_slug": "dgkhan",
+ "class": "9th",
+ "subject": "Physics",
+ "year": 2023,
+ "slug": "dgkhan-9th-physics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Mass of water molecule is.",
+   "q_ur": "پانی کے مالیکیول کا ماس ہوتا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "6x10⁻²³ g",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6x10⁻¹⁸ g",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2.9x10⁻²³ g",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3x10⁻⁴ g",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Which one of the following is the smallest quantity ?",
+   "q_ur": "درج ذیل میں سے کون سی مقدار سب سے چھوٹی ہے ؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.01 g",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "100 mg",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2 mg",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5000 ng",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Which of the following is a vector quantity ?",
+   "q_ur": "درج ذیل میں سے کون سی مقدار ویکٹر ہے ؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Speed",
+     "ur": "سپیڈ"
+    },
+    {
+     "k": "B",
+     "en": "Distance",
+     "ur": "فاصلہ"
+    },
+    {
+     "k": "C",
+     "en": "Displacement",
+     "ur": "ڈسپلیسمنٹ"
+    },
+    {
+     "k": "D",
+     "en": "Power",
+     "ur": "پاور"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Which of the following is the unit of momentum?",
+   "q_ur": "درج ذیل میں سے مومنٹم کا یونٹ کون سا ہے ؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "NS",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Nm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Kg ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NS⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Second condition for equilibrium is represented mathematically as",
+   "q_ur": "ایکویلبریم کی دوسری شرط کو ریاضیاتی طور پر ظاہر کیا جاتا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "∑τ = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "∑F = 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "∑Fₓ = 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "∑Fᵧ = 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The number of forces that can be added head to tail rule are",
+   "q_ur": "ہیڈ ٹو ٹیل رول سے ویکٹرز کی تعداد جنہیں جمع کیا جا سکتا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "Any number",
+     "ur": "کوئی بھی تعداد"
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The value of 'g' at a height one Earth's radius above the surface of the Earth is.",
+   "q_ur": "زمین کی سطح سے زمین کے رداس کے برابر بلندی پر 'g' کی قیمت ہوتی ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "2g",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/4 g",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/3 g",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/2 g",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The work done will be zero when the angle between the force and the distance is.",
+   "q_ur": "ورک صفر ہو گا جب فورس اور فاصلے کے درمیان زاویہ ہو تا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "180°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "90°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "In which of the following state molecules do not leave their position?",
+   "q_ur": "مادہ کی کون سی حالت میں مالیکیول اپنی پوزیشن نہیں چھوڑتے ؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Plasma",
+     "ur": "پلازما"
+    },
+    {
+     "k": "B",
+     "en": "Solid",
+     "ur": "ٹھوس"
+    },
+    {
+     "k": "C",
+     "en": "Gas",
+     "ur": "گیس"
+    },
+    {
+     "k": "D",
+     "en": "Liquid",
+     "ur": "مائع"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "What should be the approximate length of a glass tube to construct a water barometer ?",
+   "q_ur": "پانی کا بارومیٹر بنانے کے لیے شیشے کی ٹیوب کی لمبائی کتنی ہونی چاہیے ؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.5 m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1 m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "11 m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2.5 m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Water freezes at.",
+   "q_ur": "پانی جس ٹمپریچر پر برف میں تبدیل ہوتا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "0°F",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-273 K",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0 K",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "32°F",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The major source of heat energy is.",
+   "q_ur": "حرارتی توانائی کی بڑی ماخذ کون سی ہے ؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Moon",
+     "ur": "چاند"
+    },
+    {
+     "k": "B",
+     "en": "Sun",
+     "ur": "سورج"
+    },
+    {
+     "k": "C",
+     "en": "Earth",
+     "ur": "زمین"
+    },
+    {
+     "k": "D",
+     "en": "Water",
+     "ur": "پانی"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "An interval of 200 μs is equivalent to.",
+   "q_ur": "200 مائیکرو سیکنڈ کا وقفہ مساوی ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.2 s",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.02 s",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2x10⁻⁴ s",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2x10⁻⁶ s",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Which one of the following is the smallest quantity ?",
+   "q_ur": "درج ذیل میں سے کون سی مقدار سب سے چھوٹی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.01 g",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2 mg",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "100 μg",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5000 ng",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "A change in position is called.",
+   "q_ur": "پوزیشن میں تبدیلی کہلاتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Speed",
+     "ur": "سپیڈ"
+    },
+    {
+     "k": "B",
+     "en": "Velocity",
+     "ur": "ولاسٹی"
+    },
+    {
+     "k": "C",
+     "en": "Displacement",
+     "ur": "ڈسپلیسمنٹ"
+    },
+    {
+     "k": "D",
+     "en": "Distance",
+     "ur": "فاصلہ"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Which of the following is the unit of momentum?",
+   "q_ur": "درج ذیل میں سے مومنٹم کا یونٹ کون سا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Kg ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NS",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NS⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The number of forces that can be added by head to tail rule are.",
+   "q_ur": "ہیڈ ٹو ٹیل رول سے ویکٹرز کی تعداد جنہیں جمع کیا جا سکتا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Any number",
+     "ur": "کوئی بھی تعداد"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Earth gravitational force of attraction vanishes at.",
+   "q_ur": "زمین کی گریوی کی کشش ثقل ختم ہو جاتی ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "6400 km",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Infinity",
+     "ur": "لامحدود فاصلے"
+    },
+    {
+     "k": "C",
+     "en": "42300 km",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1000 km",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "In Einstein's mass-energy equation, 'C' is the.",
+   "q_ur": "آئن سٹائن کی ماس انرجی مساوات میں 'C' ظاہر کرتا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "Speed of light",
+     "ur": "روشنی کی سپیڈ"
+    },
+    {
+     "k": "B",
+     "en": "Speed of Sound",
+     "ur": "آواز کی سپیڈ"
+    },
+    {
+     "k": "C",
+     "en": "Speed of electron",
+     "ur": "الیکٹرون کی سپیڈ"
+    },
+    {
+     "k": "D",
+     "en": "Speed of earth",
+     "ur": "زمین کی سپیڈ"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Which one of the following converts light energy into electrical energy ?",
+   "q_ur": "درج ذیل میں سے کون سا لائٹ انرجی کو الیکٹریکل انرجی میں تبدیل کرتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electric Bulb",
+     "ur": "الیکٹرک بلب"
+    },
+    {
+     "k": "B",
+     "en": "Electric Generator",
+     "ur": "الیکٹرک جنریٹر"
+    },
+    {
+     "k": "C",
+     "en": "Photocell",
+     "ur": "فوٹو سیل"
+    },
+    {
+     "k": "D",
+     "en": "Electric Cell",
+     "ur": "الیکٹرک سیل"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "In which of the following state molecules do not leave their position ?",
+   "q_ur": "مادہ کی کون سی حالت میں مالیکیول اپنی پوزیشن نہیں چھوڑتے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Solid",
+     "ur": "ٹھوس"
+    },
+    {
+     "k": "B",
+     "en": "Liquid",
+     "ur": "مائع"
+    },
+    {
+     "k": "C",
+     "en": "Gas",
+     "ur": "گیس"
+    },
+    {
+     "k": "D",
+     "en": "Plasma",
+     "ur": "پلازما"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Water freezes at",
+   "q_ur": "پانی جس ٹمپریچر پر برف میں تبدیل ہوتا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "0°F",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "32°F",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-273 K",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0 K",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "In gases heat is mainly transferred by.",
+   "q_ur": "گیسوں میں حرارت کا انتقال زیادہ تر کس سبب سے ہوتا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "Molecules Collision",
+     "ur": "مالیکیولز کا ٹکراؤ"
+    },
+    {
+     "k": "B",
+     "en": "Conduction",
+     "ur": "کنڈکشن"
+    },
+    {
+     "k": "C",
+     "en": "Convection",
+     "ur": "کنویکشن"
+    },
+    {
+     "k": "D",
+     "en": "Radiation",
+     "ur": "ریڈی ایشن"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "In solids heat is transferred by.",
+   "q_ur": "ٹھوس اجسام میں حرارت کا انتقال کس طرح ہوتا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "Radiation",
+     "ur": "ریڈی ایشن"
+    },
+    {
+     "k": "B",
+     "en": "Conduction",
+     "ur": "کنڈکشن"
+    },
+    {
+     "k": "C",
+     "en": "Convection",
+     "ur": "کنویکشن"
+    },
+    {
+     "k": "D",
+     "en": "Absorption",
+     "ur": "ابزوپشن"
+    }
+   ]
+  }
+ ]
+}

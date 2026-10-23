@@ -1,0 +1,682 @@
+{
+ "board": "BISE Bahawalpur",
+ "board_slug": "bahawalpur",
+ "class": "9th",
+ "subject": "Physics",
+ "year": 2024,
+ "slug": "bahawalpur-9th-physics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Least Count of Digital Vernier Calipers is :",
+   "q_ur": "ڈیجیٹل ورنیئر کیلیپرز کا لیسٹ کاؤنٹ ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.1 mm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.01 mm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.001 mm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1 mm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "SI Unit of Weight is :",
+   "q_ur": "وزن کا SI یونٹ ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Joule",
+     "ur": "جول"
+    },
+    {
+     "k": "B",
+     "en": "Meter",
+     "ur": "میٹر"
+    },
+    {
+     "k": "C",
+     "en": "Kilogram",
+     "ur": "کلوگرام"
+    },
+    {
+     "k": "D",
+     "en": "Newton",
+     "ur": "نیوٹن"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Product of Mass and Acceleration is :",
+   "q_ur": "ماس اور ایکسلریشن کا حاصل ضرب ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Inertia",
+     "ur": "انرشیا"
+    },
+    {
+     "k": "B",
+     "en": "Torque",
+     "ur": "ٹارک"
+    },
+    {
+     "k": "C",
+     "en": "Force",
+     "ur": "فورس"
+    },
+    {
+     "k": "D",
+     "en": "Momentum",
+     "ur": "مومینٹم"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Which quantity is a Scalar Quantity :",
+   "q_ur": "کوئی مقدار اسکیلر مقدار ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Time",
+     "ur": "وقت"
+    },
+    {
+     "k": "B",
+     "en": "Force",
+     "ur": "فورس"
+    },
+    {
+     "k": "C",
+     "en": "Torque",
+     "ur": "ٹارک"
+    },
+    {
+     "k": "D",
+     "en": "Velocity",
+     "ur": "ولاسٹی"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The Steering of a Car is example of :",
+   "q_ur": "کار کا اسٹیرنگ مثال ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Force",
+     "ur": "فورس"
+    },
+    {
+     "k": "B",
+     "en": "Net Force",
+     "ur": "نیٹ فورس"
+    },
+    {
+     "k": "C",
+     "en": "Couple",
+     "ur": "کپل"
+    },
+    {
+     "k": "D",
+     "en": "Momentum",
+     "ur": "مومینٹم"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Which one of the following converts Light Energy into Electrical Energy :",
+   "q_ur": "مندرجہ ذیل میں سے کون سی ڈیوائس لائٹ انرجی کو الیکٹریکل انرجی میں تبدیل کرتی ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electric Bulb",
+     "ur": "الیکٹرک بلب"
+    },
+    {
+     "k": "B",
+     "en": "Photo Cell",
+     "ur": "فوٹو سیل"
+    },
+    {
+     "k": "C",
+     "en": "Electric Generator",
+     "ur": "الیکٹرک جنریٹر"
+    },
+    {
+     "k": "D",
+     "en": "Electric Cell",
+     "ur": "الیکٹرک سیل"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The energy of a moving body during motion is called :",
+   "q_ur": "حرکت کے دوران کسی جسم کی انرجی کہلاتی ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Kinetic Energy",
+     "ur": "کائی نیٹک انرجی"
+    },
+    {
+     "k": "B",
+     "en": "Nuclear Energy",
+     "ur": "نیوکلیئر انرجی"
+    },
+    {
+     "k": "C",
+     "en": "Chemical Energy",
+     "ur": "کیمیکل انرجی"
+    },
+    {
+     "k": "D",
+     "en": "Potential Energy",
+     "ur": "پوٹینشل انرجی"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The Formula to find the Orbital Speed (Vo) of a Low Orbit Satellite is :",
+   "q_ur": "زمین کے انتہائی قریب گردش کرنے والے سیٹلائٹ کی سپیڈ (Vo) کا فارمولا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Vo = g R",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Vo = g R²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Vo = √(g R²)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Vo = √(g R)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "In which of the following State Molecules do not leave their position :",
+   "q_ur": "مادہ کی کوئی حالت میں مالیکیول اپنی پوزیشن نہیں چھوڑتے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Solid",
+     "ur": "ٹھوس"
+    },
+    {
+     "k": "B",
+     "en": "Liquid",
+     "ur": "مائع"
+    },
+    {
+     "k": "C",
+     "en": "Gas",
+     "ur": "گیس"
+    },
+    {
+     "k": "D",
+     "en": "Plasma",
+     "ur": "پلازما"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Which Bird is Thermal Climber :",
+   "q_ur": "کونسا پرندہ تھرمل کلائمبر ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sparrow",
+     "ur": "چڑیا"
+    },
+    {
+     "k": "B",
+     "en": "Eagle",
+     "ur": "عقاب"
+    },
+    {
+     "k": "C",
+     "en": "Pigeon",
+     "ur": "کبوتر"
+    },
+    {
+     "k": "D",
+     "en": "Crow",
+     "ur": "کوا"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Which of the following affects Evaporation :",
+   "q_ur": "ان میں سے کون سی چیز ایوپوریشن پر اثر انداز ہوتی ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Temperature",
+     "ur": "درجہ حرارت"
+    },
+    {
+     "k": "B",
+     "en": "Surface Area of the Liquid",
+     "ur": "مائع کا سطحی ایریا"
+    },
+    {
+     "k": "C",
+     "en": "Wind",
+     "ur": "ہوا"
+    },
+    {
+     "k": "D",
+     "en": "All of the above",
+     "ur": "اوپر والی تمام"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Boiling Point of Water is :",
+   "q_ur": "پانی کا بوائلنگ پوائنٹ ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "98°C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "78°C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "100°C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "90°C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Which of the following is the Unit of Momentum :",
+   "q_ur": "درج ذیل میں سے مومینٹم کا یونٹ کونسا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Kg ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ns",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ns⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "By dividing Displacement of a Moving Body with Time, we obtain :",
+   "q_ur": "کسی متحرک جسم کے ڈس پلیسمنٹ کو وقت پر تقسیم کرنے سے حاصل ہوتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Speed",
+     "ur": "سپیڈ"
+    },
+    {
+     "k": "B",
+     "en": "Acceleration",
+     "ur": "ایکسلریشن"
+    },
+    {
+     "k": "C",
+     "en": "Velocity",
+     "ur": "ولاسٹی"
+    },
+    {
+     "k": "D",
+     "en": "Displacement",
+     "ur": "ڈس پلیسمنٹ"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Amount of a Substance in Terms of Numbers is measured in :",
+   "q_ur": "کسی شے میں مادے کی مقدار معلوم کرنے کا یونٹ ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Gram",
+     "ur": "گرام"
+    },
+    {
+     "k": "B",
+     "en": "Kilogram",
+     "ur": "کلوگرام"
+    },
+    {
+     "k": "C",
+     "en": "Newton",
+     "ur": "نیوٹن"
+    },
+    {
+     "k": "D",
+     "en": "Mole",
+     "ur": "مول"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Coefficient of Friction is :",
+   "q_ur": "کوایفیشینٹ آف فرکشن ہوتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "μ = Fs/R",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "μ = R/Fs",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "μ = P/w",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "μ = Fs/w",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The Kinetic Energy of a body of Mass 2 kg is 25 J, its speed is :",
+   "q_ur": "2 کلوگرام ماس کے ایک جسم کی کائی نیٹک انرجی 25 J ہے۔ اس کی سپیڈ ہو گی :",
+   "options": [
+    {
+     "k": "A",
+     "en": "5 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "12.5 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "25 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "50 ms⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "The value of 'g' on Moon Surface is 1.6 ms⁻². What will be the Weight of a 100 kg body on the Surface of Moon :",
+   "q_ur": "چاند کی سطح پر 'g' کی قیمت 1.6 ms⁻² ہے۔ چاند پر 100 kg کے ایک جسم کا وزن ہو گا :",
+   "options": [
+    {
+     "k": "A",
+     "en": "100 N",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "160 N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1000 N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1600 N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "The number of Perpendicular Components of a Force is :",
+   "q_ur": "کسی ویکٹر کے عمودی کمپوننٹس کی تعداد ہوتی ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "The Energy Stored in Dam is :",
+   "q_ur": "ڈیم کے پانی میں ذخیرہ شدہ انرجی ہوتی ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electrical Energy",
+     "ur": "الیکٹریکل انرجی"
+    },
+    {
+     "k": "B",
+     "en": "Potential Energy",
+     "ur": "پوٹینشل انرجی"
+    },
+    {
+     "k": "C",
+     "en": "Kinetic Energy",
+     "ur": "کائی نیٹک انرجی"
+    },
+    {
+     "k": "D",
+     "en": "Nuclear Energy",
+     "ur": "نیوکلیئر انرجی"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Which of the following Material has Large Specific Heat :",
+   "q_ur": "کونسا میٹریل درج ذیل میں سے زیادہ حرارت مخصوصہ کا حامل ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Copper",
+     "ur": "کاپر"
+    },
+    {
+     "k": "B",
+     "en": "Ice",
+     "ur": "برف"
+    },
+    {
+     "k": "C",
+     "en": "Mercury",
+     "ur": "مرکری"
+    },
+    {
+     "k": "D",
+     "en": "Water",
+     "ur": "پانی"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Normal Human Body Temperature is :",
+   "q_ur": "نارمل انسانی جسم کا ٹمپریچر ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "15°C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "73°C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "37°F",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "37°C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "SI Unit of Pressure is Pascal , which is equal to :",
+   "q_ur": "سسٹم انٹرنیشنل میں پریشر کا یونٹ پاسکل ہے اور پاسکل برابر ہوتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "10⁴ Nm⁻²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10 Nm⁻²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1 Nm⁻²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10² Nm⁻²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "False Ceiling is done to :",
+   "q_ur": "مصنوعی اندرونی چھت لگانے کا مقصد ہوتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Lower the height of the Ceiling",
+     "ur": "چھت کی اونچائی کم کرنا"
+    },
+    {
+     "k": "B",
+     "en": "Keep the roof clean",
+     "ur": "چھت کو صاف رکھنا"
+    },
+    {
+     "k": "C",
+     "en": "Cool the room",
+     "ur": "کمرے کو ٹھنڈا کرنا"
+    },
+    {
+     "k": "D",
+     "en": "Insulate the Ceiling",
+     "ur": "چھت کو انسولیٹ کرنا"
+    }
+   ]
+  }
+ ]
+}

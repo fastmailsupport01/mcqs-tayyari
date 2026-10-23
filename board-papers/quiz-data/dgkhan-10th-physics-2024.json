@@ -1,0 +1,682 @@
+{
+ "board": "BISE DG Khan",
+ "board_slug": "dgkhan",
+ "class": "10th",
+ "subject": "Physics",
+ "year": 2024,
+ "slug": "dgkhan-10th-physics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Waves transfer",
+   "q_ur": "ویوز منتقل کرتی ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Energy",
+     "ur": "انرجی"
+    },
+    {
+     "k": "B",
+     "en": "Frequency",
+     "ur": "فرکوئنسی"
+    },
+    {
+     "k": "C",
+     "en": "Wave length",
+     "ur": "ویولینتھ"
+    },
+    {
+     "k": "D",
+     "en": "Velocity",
+     "ur": "ولاسٹی"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The spring constant is",
+   "q_ur": "سپرنگ کونسٹنٹ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "F = ma",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "W = mg",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "k = - F/x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "k = - x/m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Which is an example of longitudinal waves?",
+   "q_ur": "لونگیٹیوڈنل ویوز کی مثال ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Light waves",
+     "ur": "روشنی کی ویوز"
+    },
+    {
+     "k": "B",
+     "en": "Sound waves",
+     "ur": "ساؤنڈ ویوز"
+    },
+    {
+     "k": "C",
+     "en": "Radio waves",
+     "ur": "ریڈیو ویوز"
+    },
+    {
+     "k": "D",
+     "en": "Water waves",
+     "ur": "پانی کی ویوز"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "One bel is equal to",
+   "q_ur": "ایک بیل (bel) برابر ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "20 dB",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "30 dB",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "40 dB",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10 dB",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The index of refraction depends on",
+   "q_ur": "انڈیکس آف ریفریکشن کا انحصار کن پر ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "The focal length",
+     "ur": "فوکل لینتھ"
+    },
+    {
+     "k": "B",
+     "en": "The speed of light",
+     "ur": "روشنی کی سپیڈ"
+    },
+    {
+     "k": "C",
+     "en": "The image distance",
+     "ur": "امیج کا فاصلہ"
+    },
+    {
+     "k": "D",
+     "en": "The object distance",
+     "ur": "جسم کا فاصلہ"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Types of reflection are",
+   "q_ur": "ریفلیکشن کی اقسام ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Capacitance is defined as",
+   "q_ur": "کیپیسیٹنس کی تعریف اس طرح کی جاسکتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "VC",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "QV",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Q/V",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "V/Q",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "An electric current in conductors is due to the flow of",
+   "q_ur": "کنڈکٹرز میں الیکٹرک کرنٹ کے بہاؤ کی وجہ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Positive ions",
+     "ur": "پازیٹو آئنز"
+    },
+    {
+     "k": "B",
+     "en": "Negative ions",
+     "ur": "نیگیٹو آئنز"
+    },
+    {
+     "k": "C",
+     "en": "Positive charges",
+     "ur": "پازیٹو چارجز"
+    },
+    {
+     "k": "D",
+     "en": "Free electrons",
+     "ur": "آزاد الیکٹرونز"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The direction of induced e.m.f in a circuit is in accordance with conservation of",
+   "q_ur": "انڈیوسڈ ای۔ایم۔ایف کی سمت سرکٹ میں کس قانون کے مطابق ہوتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mass",
+     "ur": "ماس"
+    },
+    {
+     "k": "B",
+     "en": "Energy",
+     "ur": "انرجی"
+    },
+    {
+     "k": "C",
+     "en": "Momentum",
+     "ur": "مومنٹم"
+    },
+    {
+     "k": "D",
+     "en": "Charge",
+     "ur": "چارج"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The particles emitted from a hot cathode surface are",
+   "q_ur": "ایسے پارٹیکلز جو گرم کیتھوڈ کی سطح سے خارج ہو جاتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electrons",
+     "ur": "الیکٹرونز"
+    },
+    {
+     "k": "B",
+     "en": "Negative ions",
+     "ur": "نیگیٹو آئنز"
+    },
+    {
+     "k": "C",
+     "en": "Protons",
+     "ur": "پروٹانز"
+    },
+    {
+     "k": "D",
+     "en": "Positive ions",
+     "ur": "پازیٹو آئنز"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Which of the following is not processing ?",
+   "q_ur": "کونسا عمل پروسیسنگ نہیں ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Arranging",
+     "ur": "ترتیب دینا"
+    },
+    {
+     "k": "B",
+     "en": "Manipulating",
+     "ur": "جوڑ توڑ کرنا"
+    },
+    {
+     "k": "C",
+     "en": "Calculating",
+     "ur": "حساب کتاب کرنا"
+    },
+    {
+     "k": "D",
+     "en": "Gathering",
+     "ur": "اکٹھا کرنا"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Isotopes of atoms of same element with different",
+   "q_ur": "آئسوٹوپس ایک ہی ایلیمنٹ کے ایسے ایٹمز ہوتے ہیں جن کا مختلف ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Atomic mass",
+     "ur": "ایٹمک ماس"
+    },
+    {
+     "k": "B",
+     "en": "Atomic number",
+     "ur": "ایٹمک نمبر"
+    },
+    {
+     "k": "C",
+     "en": "Number of protons",
+     "ur": "پروٹانز کی تعداد"
+    },
+    {
+     "k": "D",
+     "en": "Number of electrons",
+     "ur": "الیکٹرونز کی تعداد"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "An electric current in a conductor is due to the flow of",
+   "q_ur": "کنڈکٹر میں الیکٹرک کرنٹ کے بہاؤ کی وجہ۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Positive ion",
+     "ur": "پازیٹو آئن"
+    },
+    {
+     "k": "B",
+     "en": "Negative ion",
+     "ur": "نیگیٹو آئن"
+    },
+    {
+     "k": "C",
+     "en": "Positive charge",
+     "ur": "پازیٹو چارج"
+    },
+    {
+     "k": "D",
+     "en": "Free electrons",
+     "ur": "آزاد الیکٹرونز"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "SI unit of electric potential is volt, which is equal to",
+   "q_ur": "الیکٹرک پوٹینشل کا یونٹ وولٹ ہے جو کہ برابر ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "JC",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "J-1 C-1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "J C-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "J-1 C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "If the current in a wire which is placed perpendicular to a magnetic field increases, the force on the wire",
+   "q_ur": "ایک میگنیٹک فیلڈ میں عموداً رکھی ہوئی وائر میں سے بہنے والے کرنٹ کی مقدار کو بڑھایا جائے تو وائر پر عمل کرنے والی فورس۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Increases",
+     "ur": "بڑھے گی"
+    },
+    {
+     "k": "B",
+     "en": "Decreases",
+     "ur": "کم ہوگی"
+    },
+    {
+     "k": "C",
+     "en": "Remain the same",
+     "ur": "تبدیل نہیں ہوگی"
+    },
+    {
+     "k": "D",
+     "en": "Will be zero",
+     "ur": "صفر ہوگی"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Electron gun has an electrode which controlled the flow of electrons",
+   "q_ur": "الیکٹرون گن میں ایک الیکٹروڈ جو الیکٹرونز کے بہاؤ کو کنٹرول کرتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Anod",
+     "ur": "اینوڈ"
+    },
+    {
+     "k": "B",
+     "en": "Deflecting plate",
+     "ur": "ڈیفلیکٹنگ پلیٹ"
+    },
+    {
+     "k": "C",
+     "en": "Grid",
+     "ur": "گرڈ"
+    },
+    {
+     "k": "D",
+     "en": "Screen",
+     "ur": "سکرین"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Which of the following is not processing ?",
+   "q_ur": "کونسا عمل پروسیسنگ نہیں ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Arranging",
+     "ur": "ترتیب دینا"
+    },
+    {
+     "k": "B",
+     "en": "Manipulating",
+     "ur": "جوڑ توڑ کرنا"
+    },
+    {
+     "k": "C",
+     "en": "Calculating",
+     "ur": "حساب کتاب کرنا"
+    },
+    {
+     "k": "D",
+     "en": "Gathering",
+     "ur": "اکٹھا کرنا"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "The charge on alpha particle emitted during phenomenon of radioactivity",
+   "q_ur": "ریڈیو ایکٹیویٹی کے عمل کے دوران خارج ہونے والے الفا پارٹیکل پر چارج ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "- e",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "+ e",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "+ 2e",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "+ 3e",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Which one of the waves cannot pass through Vacuum ?",
+   "q_ur": "کون سی ویوز ویکیوم میں سے نہیں گزر سکتی ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Radio waves",
+     "ur": "ریڈیو ویوز"
+    },
+    {
+     "k": "B",
+     "en": "Television waves",
+     "ur": "ٹیلی ویژن ویوز"
+    },
+    {
+     "k": "C",
+     "en": "Light waves",
+     "ur": "روشنی کی ویوز"
+    },
+    {
+     "k": "D",
+     "en": "Sound waves",
+     "ur": "آواز کی ویوز"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "In the vibratory motion of simple pendulum the net force along the string is",
+   "q_ur": "سمپل پینڈولم کی وائبریٹری موشن میں ڈوری کے ساتھ لگنے والی رزلٹنٹ فورس ہوتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "mg",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "mg sin θ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "mg cos θ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "In sound waves the distance between two consecutive compression or rarefaction is",
+   "q_ur": "آواز کی ویوز میں دو متصل کمپریشن یا ریئرفیکشن کے درمیان فاصلہ۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "λ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "λ/4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "λ/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2 λ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "During regular reflection of light the angle of incidence is 30° , its corresponding angle of reflection is",
+   "q_ur": "روشنی کی باقاعدہ ریفلیکشن میں اینگل آف انسیڈنس کی مقدار 30° ہے اس کا متعلقہ اینگل آف ریفلیکشن ہوگا۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "15°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "30°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "60°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "The index of refraction depends upon",
+   "q_ur": "انڈیکس آف ریفریکشن کا انحصار کس پر ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Focal length",
+     "ur": "فوکل لینتھ"
+    },
+    {
+     "k": "B",
+     "en": "Speed of light",
+     "ur": "روشنی کی سپیڈ"
+    },
+    {
+     "k": "C",
+     "en": "Image distance",
+     "ur": "امیج کا فاصلہ"
+    },
+    {
+     "k": "D",
+     "en": "Object distance",
+     "ur": "جسم کا فاصلہ"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "The charge store on a 5F capacitor , when it charges to a potential difference of 12 V is",
+   "q_ur": "جب ایک 5F کے کیپیسٹر کو 12 V کے پوٹینشل ڈفرنس تک چارج کیا جائے تو اس پر چارج سٹور ہوگا۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "2.4 C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.42 C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "60 C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "17 C",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

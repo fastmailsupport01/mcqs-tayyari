@@ -1,0 +1,962 @@
+{
+ "board": "BISE DG Khan",
+ "board_slug": "dgkhan",
+ "class": "12th",
+ "subject": "Chemistry",
+ "year": 2024,
+ "slug": "dgkhan-12th-chemistry-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Planar triangular shape is associated with which set of hybrid orbitals",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "sp³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "sp",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "sp²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "dsp²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Formula of chloroform is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CH₃Cl",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CCl₄",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CH₂Cl₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CHCl₃",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "During nitration of benzene , the active nitrating agent is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "NO₃",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NO₂⁺",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NO₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "HNO₃",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "When Ethanol (CH₃ – CH₂ – OH) is made to react with ethyl magnesium bromide the product formed is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CH₄",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CH₂ = CH₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "C₂H₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CH₃ – CH₃",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Which compound is called a universal solvent ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "H₂O",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CH₃OH",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "C₂H₅OH",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CH₃ – O – CH₃",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "One of the following compounds will react with Tollen's reagent.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CH₃ – C(=O) – H",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CH₃ – C(=O) – CH₃",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CH₃ – C(=O) – OH",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CH₃ – C(=O) – CH₂ – CH₃",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "One of the following is not a fatty acid",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Acetic acid",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Propanoic acid",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Butanoic acid",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Phthalic acid",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Which one of the following enzymes brings about the hydrolysis of fats ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Urease",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Maltase",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Lipase",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zymase",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Which is not a calcarious material ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Lime",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Clay",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Marble",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Marine Shell",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Disinfection of chlorine is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Inexpensive",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Expensive",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Rapid",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Slow",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Ecosystem is a smaller unit of",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Lithosphere",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Hydrosphere",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Atmosphere",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Biosphere",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Select the two normal elements are present in Fifth period",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Rb , Sr",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cs , Ba",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Fr , Ra",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "La , Hf",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "The mineral (CaSO₄ . 2H₂O) has the general name",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Gypsum",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Dolomite",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Calcite",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Epsom salt",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "One of the element forms an ion with charge 3+",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Beryllium",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Aluminium",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Carbon",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Silicon",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Choose the gas which is obtained by the reaction of Formic acid with conc: H₂SO₄",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "C₂H₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "C₂H₄",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CO₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CO",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "One of the halogen occurs naturally in a positive oxidation state",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Fluorine",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Chlorine",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Iodine",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Bromine",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "Group VI – B of transition elements contains",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zn , Cd , Hg",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cr , Mo , W",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Fe , Ru , Os",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mn , Te , Re",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Which of the following is not a fatty acid ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Propanoic acid",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Acetic acid",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Phthalic acid",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Butanoic acid",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "A polymeric substance that is formed in a liquid state and then hardened to a rigid solid is called a",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Fibre",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Plastic",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Varnish",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Polyamide resins",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Which is not a calcarious material ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Lime",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Clay",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Marble",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Marine shell",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "The main pollutant of leather tanneries in the waste water is due to the salt of",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Lead",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Chromium (VI)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Copper",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Chromium (III)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The capacity of organic matter in natural water to consume oxygen within a period of five days is called",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "DO",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "BOD",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "COD",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "PAN",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Coinage metals are",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ni , Pd , Pt",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cu , Ag , Au",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "As , Al , Pd",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Fe , Si , Sn",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Which element is deposited at cathode during the electrolysis of brine in diaphragm cell ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "H₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Na",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cl₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "O₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "The chief ore of Aluminium is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Na₃ AlF₆",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Al₂O₃ . 2H₂O",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Al₂O₃",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Al₂O₃ . H₂O",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Nitrous acid reacts with aminobenzene to produce",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Urea",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Phenol",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Toluene",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NH₃",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Which of the following represents the correct electronic configuration of the outermost energy level of an element of zero (VIII A) group in the ground state ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "s²p²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "s²p⁴",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "s²p⁵",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "s²p⁶",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Coordination number of Pt in [Pt Cl (NO₂) (NH₃)₄] is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Select from the following the one which is alcohol",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CH₃ – CH₂ – OH",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CH₃ – O – CH₃",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CH₃ COOH",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CH₃ – CH₂ – Br",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "The formula of chloroform is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CH₃Cl",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CCl₄",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CH₂Cl₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CHCl₃",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "During nitration of benzene , the active nitrating agent is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "NO₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NO₂⁺",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NO₂⁻",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "HNO₃",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "Which reagent does not produce ethane by reacting with ethyl magnesium chloride in the presence of dry ether ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "H₂O",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NH₃",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "HCHO",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "C₂H₅OH",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "Which compound will have maximum repulsion with water ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "C₆H₆",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "C₂H₅OH",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CH₃OCH₃",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CH₃CH₂OH",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "Which of the following reagents will react with both aldehydes and ketones ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Grignard reagent",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Fehling's reagent",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Benedict's reagent",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Tollen's reagent",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

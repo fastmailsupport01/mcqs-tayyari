@@ -1,0 +1,570 @@
+{
+ "board": "BISE Bahawalpur",
+ "board_slug": "bahawalpur",
+ "class": "9th",
+ "subject": "Computer Science",
+ "year": 2024,
+ "slug": "bahawalpur-9th-computer-science-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "In a ____ error, the solution is working but not giving required results :",
+   "q_ur": "____ قسم کی غلطی کی وجہ سے الگورتھم چل رہا ہوتا ہے مگر درست جواب نہیں دے رہا ہوتا :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Random Error",
+     "ur": "رینڈم ایرر"
+    },
+    {
+     "k": "B",
+     "en": "Logical Error",
+     "ur": "لاجیکل ایرر"
+    },
+    {
+     "k": "C",
+     "en": "Syntax Error",
+     "ur": "سینٹیکس ایرر"
+    },
+    {
+     "k": "D",
+     "en": "Runtime Error",
+     "ur": "رن ٹائم ایرر"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Hexa – Decimal have ____ numbers :",
+   "q_ur": "ہیکسا ڈیسیمل میں ____ نمبر ہوتے ہیں :",
+   "options": [
+    {
+     "k": "A",
+     "en": "15",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "16",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "17",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "18",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "1 Petabyte is equal to ____ :",
+   "q_ur": "1 پیٹا بائٹ ____ کے برابر ہوتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "(1024)³ Byte",
+     "ur": "(1024)³ بائٹ"
+    },
+    {
+     "k": "B",
+     "en": "(1024)⁴ Byte",
+     "ur": "(1024)⁴ بائٹ"
+    },
+    {
+     "k": "C",
+     "en": "(1024)⁵ Byte",
+     "ur": "(1024)⁵ بائٹ"
+    },
+    {
+     "k": "D",
+     "en": "(1024)⁶ Byte",
+     "ur": "(1024)⁶ بائٹ"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "How many STEPS are in Problem Solving :",
+   "q_ur": "مسئلہ حل کرنے کے کتنے مراحل ہوتے ہیں :",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The Receiver must be Capable of Accepting the ____ :",
+   "q_ur": "پیغام موصول کنندہ ____ قبول کرنے کے قابل ہونا چاہیے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Protocol",
+     "ur": "پروٹوکول"
+    },
+    {
+     "k": "B",
+     "en": "Message",
+     "ur": "پیغام"
+    },
+    {
+     "k": "C",
+     "en": "Address",
+     "ur": "ایڈریس"
+    },
+    {
+     "k": "D",
+     "en": "Information",
+     "ur": "معلومات"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "\"Experience is the Teacher of All Things\" who says this Quote :",
+   "q_ur": "\"تجربہ ہر چیز کا استاد ہے\" یہ کس کا قول ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Gaius Julius",
+     "ur": "گائس جولیس کا"
+    },
+    {
+     "k": "B",
+     "en": "Adam Smith",
+     "ur": "ایڈم سمتھ کا"
+    },
+    {
+     "k": "C",
+     "en": "Pascal",
+     "ur": "پاسکل کا"
+    },
+    {
+     "k": "D",
+     "en": "Charles Babbage",
+     "ur": "چارلس بابیج کا"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "To save the HTML Page, we can use ____ as File Extension :",
+   "q_ur": "ایک HTML پیج کو محفوظ کرنے کے لیے ہم ____ ایکسٹینشن استعمال کرتے ہیں :",
+   "options": [
+    {
+     "k": "A",
+     "en": "htm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "xhtm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "xhtml",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "head",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "172.16.54.1 is an example of ____ :",
+   "q_ur": "172.16.54.1 ____ کی مثال ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Protocol",
+     "ur": "پروٹوکول"
+    },
+    {
+     "k": "B",
+     "en": "Domain",
+     "ur": "ڈومین"
+    },
+    {
+     "k": "C",
+     "en": "IPv4 Address",
+     "ur": "IPv4 ایڈریس"
+    },
+    {
+     "k": "D",
+     "en": "DNS",
+     "ur": "ڈی این ایس"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The ____ element is a Container for Metadata (data about data) :",
+   "q_ur": "اپنے اندر میٹا ڈیٹا رکھتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "<body>",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "<head>",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "<title>",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "<html>",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Making Illegal Copies of Software is called ____ :",
+   "q_ur": "سافٹ ویئر کی غیر قانونی نقل بنانا ____ کہلاتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hacking",
+     "ur": "ہیکنگ"
+    },
+    {
+     "k": "B",
+     "en": "Piracy",
+     "ur": "پائریسی"
+    },
+    {
+     "k": "C",
+     "en": "Counterfeiting",
+     "ur": "جعل سازی"
+    },
+    {
+     "k": "D",
+     "en": "Sabotage",
+     "ur": "تخریب کاری"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "In a Flow Chart Diamond Symbol represents :",
+   "q_ur": "فلو چارٹ میں ڈائمنڈ کی علامت ظاہر کرتی ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Input / Output",
+     "ur": "ان پٹ / آؤٹ پٹ"
+    },
+    {
+     "k": "B",
+     "en": "Decision",
+     "ur": "فیصلہ سازی"
+    },
+    {
+     "k": "C",
+     "en": "Processing",
+     "ur": "پروسیسنگ"
+    },
+    {
+     "k": "D",
+     "en": "Connector",
+     "ur": "کنیکٹر"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "In OR Operator P OR Q may also be written as ____ :",
+   "q_ur": "OR آپریٹر میں P OR Q کو ____ بھی لکھ سکتے ہیں :",
+   "options": [
+    {
+     "k": "A",
+     "en": "P + Q",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "P.Q",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "P = Q",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "P / Q",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Number \"12\" is equal to ____ in Binary System :",
+   "q_ur": "بائنری سسٹم میں نمبر \"12\" ____ کے برابر ہوتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "1001",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1000",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1011",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1100",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "____ means to test if the solution is actually solving the same problem for which it was designed :",
+   "q_ur": "____ سے مراد اس بات کی تصدیق کرنا ہے کہ حل اسی مسئلے کے لیے ہے جس کو حل کی ضرورت تھی :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Clarification",
+     "ur": "کلیریفیکیشن"
+    },
+    {
+     "k": "B",
+     "en": "Identification",
+     "ur": "آئیڈینٹی فیکیشن"
+    },
+    {
+     "k": "C",
+     "en": "Verification",
+     "ur": "ویریفیکیشن"
+    },
+    {
+     "k": "D",
+     "en": "Validation",
+     "ur": "ویلیڈیشن"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "URL stands for ____ :",
+   "q_ur": "URL ____ کا مخفف ہوتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Uniform Residen ce Locator",
+     "ur": "یونیفارم ریزیڈنس لوکیٹر"
+    },
+    {
+     "k": "B",
+     "en": "Uniform Resource Locator",
+     "ur": "یونیفارم ریسورس لوکیٹر"
+    },
+    {
+     "k": "C",
+     "en": "Unbalance Resource Locator",
+     "ur": "ان بیلنس ریسورس لوکیٹر"
+    },
+    {
+     "k": "D",
+     "en": "Unethical Resource Locator",
+     "ur": "ان ایتھیکل ریسورس لوکیٹر"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Encoding of Data is an example of ____ :",
+   "q_ur": "ڈیٹا کی ان کوڈنگ (encoding) ____ کی ایک مثال ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Patent",
+     "ur": "پیٹنٹ"
+    },
+    {
+     "k": "B",
+     "en": "Confidentiality",
+     "ur": "رازداری"
+    },
+    {
+     "k": "C",
+     "en": "Encryption",
+     "ur": "خفیہ کاری"
+    },
+    {
+     "k": "D",
+     "en": "Copyright",
+     "ur": "کاپی رائٹ"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "On Webpage to give number before start of Fruits name which Tag will be used :",
+   "q_ur": "ویب پیج پر پھلوں کے نام کے شروع میں نمبر لگانے کے لیے ہم کونسا ٹیگ استعمال کریں گے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "<table>",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "<dt>",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "<ul>",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "<ol>",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Routing is Process of taking Data from one device and sending it to another device in different :",
+   "q_ur": "روٹنگ ایسا عمل ہے جس میں ایک آلے سے ڈیٹا لے کر دوسرے آلے کو مختلف ____ پر بھیجا جاتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Channel",
+     "ur": "چینل"
+    },
+    {
+     "k": "B",
+     "en": "Area",
+     "ur": "ایریا"
+    },
+    {
+     "k": "C",
+     "en": "Network",
+     "ur": "نیٹ ورک"
+    },
+    {
+     "k": "D",
+     "en": "Path",
+     "ur": "پاتھ"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Which of the following Tag is used for the Least Important Heading :",
+   "q_ur": "درج ذیل میں سے کونسا ٹیگ سب سے کم اہمیت والی ہیڈنگ لکھنے کے لیے استعمال ہوتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "<h2>",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "<h3>",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "<h5>",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "<h6>",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Which Symbol represents the Copyright Protected Product :",
+   "q_ur": "کونسی علامت کاپی رائٹ سے محفوظ پراڈکٹ کو ظاہر کرتی ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "®",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "©",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ⓧ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "∅",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

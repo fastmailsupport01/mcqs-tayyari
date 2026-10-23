@@ -1,0 +1,962 @@
+{
+ "board": "BISE DG Khan",
+ "board_slug": "dgkhan",
+ "class": "11th",
+ "subject": "Physics",
+ "year": 2024,
+ "slug": "dgkhan-11th-physics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The minimum velocity necessary to put a satellite into orbit is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "7.1 Kms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "7.9 Kms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7.4 Kms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8.7 Kms⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Stoke's law holds for bodies having :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Oblong shape",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Rectangular shape",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Spherical shape",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All shapes",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Product of time period and frequency is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The value of ' r ' for monoatomic gas is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.67",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.40",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.29",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.45",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Laplace's formula for speed of sound is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "√(γP/p)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "√(E/p)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√(P/p)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "γP/p",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The blue colour of sky is due to :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Reflection",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Diffraction",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Scattering",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Polarization",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Magnifying power of astronomical Telescope is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "fₑ/fₒ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "fₒ/fₑ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "fₑfₒ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/(fₑfₒ)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Heat is form of :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Power",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Momentum",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Torque",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Energy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Pascal is the unit of :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Force",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Pressure",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Tension",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Weight",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "SI unit of intensity of light is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Watt",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Joule",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mole",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Candela",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "1 giga is equal to :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10¹²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10⁹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10¹⁸",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The magnitude of î . (ĵ×k̂) is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ĵ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "If Aₓ and Aᵧ are both negative, the resultant vector will lie in --------- quadrant.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "First",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Second",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Third",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Fourth",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "A body having uniform acceleration of 10 ms⁻² has a velocity of 100 ms⁻¹. In what time its velocity will be doubled ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "7 S",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "14 S",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10 S",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "16 S",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "The mass of an object is quantitative measure of its :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Momentum",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Inertia",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Energy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Velocity",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "Work is negative when angle between F̅ and d̅ is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "180°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "45°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "One revolution is equal to :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π/2 rad",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π rad",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2 π rad",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π/4 rad",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Open end of an organ pipe act as :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Node",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Antinode",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Crest",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Trough",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "The wavelength of X – rays is of the order of :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10⁻¹⁰ mm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10⁻¹⁰ cm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10⁻¹⁰ m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10⁻¹⁰ dm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Optical fibre is covered for the protection with :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Glass",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Plastic jacket",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Copper",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Aluminum",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "The value of triple point of water is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "273.16 °C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "273.16 F",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "273.16 K",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "273.16 K⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "When hot and cold water are mixed, the entropy :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Decreases",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Increases",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Remains constant",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Unit used for the factor √(l/g) may be :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Meter",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Second",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Kilogram",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Radian",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Solid angle is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "One dimensional",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Two dimensional",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Three dimensional",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Four dimensional",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "If the magnitude of A̅ . B̅ = 1/2 AB then an angle between A̅ and B̅ is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "30°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "90°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "î . (k̂ × î) is equal to :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "î",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ĵ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Impulse has the same unit as that of :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Force",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Energy",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mass",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Momentum",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "When an object moves with constant acceleration, the velocity – time graph is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Parabola",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Hyperbola",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Straight line",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Semi circle",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "1 Kilowatt is the unit of :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Power",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Work",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Energy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Weight",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "The value of ' g ' at the center of earth is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "infinite",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2 g",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3 g",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "The expression for the angular momentum is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "L̅ = p̅ . r̅",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "L̅ = - p̅ . r̅",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "L̅ = r̅ × p̅",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "L̅ = p̅ × r̅.",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "The diastolic pressure of a normal healthy person in torr is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "70 - 75",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "75 - 80",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "90 - 95",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "95 - 100",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "If time period of a simple pendulum is double, its length will be",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Eight times",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Four times",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Three times",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Two times",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "The value of ' r ' for diatomic gas is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.67",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.29",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.73",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

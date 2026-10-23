@@ -1,0 +1,962 @@
+{
+ "board": "BISE Bahawalpur",
+ "board_slug": "bahawalpur",
+ "class": "12th",
+ "subject": "Physics",
+ "year": 2024,
+ "slug": "bahawalpur-12th-physics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group Ist",
+   "q_en": "A wire of resistance 9 Ohm is cut into three equal parts and these are connected in parallel. The Equivalent Resistance is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 Ohm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3 Ohm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "9 Ohm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "27 Ohm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group Ist",
+   "q_en": "By Introducing a Dielectric between the plates of a Charged Capacitor, energy stored will be :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Increased",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Decreased",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Remain Constant",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nothing Can Be Said",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group Ist",
+   "q_en": "Force between two point charges 10 μC and 40 μC is 9000 N. Then distance between them is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2 cm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "20 cm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "20 m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "400 m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group Ist",
+   "q_en": "In case of Torque on a Current carrying coil, 'α' is angle between :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "B̅ and A̅",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Pole faces and Plane of Coil",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "B̅ and Plane of Coil",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group Ist",
+   "q_en": "A Transformer consists of 500 turns in Primary and 200 turns in Secondary. When a battery of emf 9V is connected at the Primary, The Voltage obtained at Secondary is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3.6 V",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "22.4 V",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "9 V",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero Volt",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group Ist",
+   "q_en": "A steady current of 1 A in a coil of 1000 turns generates a flux of 10⁻⁴ Wb to pass through the loop of the coil. The energy stored in the inductor is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5 J",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.05 J",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.5 J",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "50 J",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group Ist",
+   "q_en": "The restoring couple in moving coil Galvanometer is due to :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Current in the coil",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Magnetic Field",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Material of Coil",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Twist in Wire",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group Ist",
+   "q_en": "A parallel resonance circuit has resonance frequency 'f'. If Capacitance of this circuit is increased four times, then resonance frequency becomes :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2 f",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4 f",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "f/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "f/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group Ist",
+   "q_en": "The phase difference between input voltage and output voltage of the Transistor Amplifier is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "180°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "120°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group Ist",
+   "q_en": "In Hysteresis Loop, lagging of magnetism behind magnetizing current is called :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Saturation",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Retentivity",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Hysteresis",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Coercivity",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group Ist",
+   "q_en": "Power factor is 1 for :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Pure Inductor",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Pure Capacitor",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Pure Resistor",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Both Capacitor and Inductor",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group Ist",
+   "q_en": "A Transistor has a base current of 1mA and emitter current 100 mA. The current gain of the transistor is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "99",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "100",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "101",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group Ist",
+   "q_en": "In laser, the excited atom returns to its ground state from its meta stable state is about :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10⁻¹⁰ s",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10⁻⁸ s",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10⁻⁵ s",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10⁻³ s",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group Ist",
+   "q_en": "Which of the following detectors can count fast and operate at low voltage :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Geiger Counter",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Wilson Cloud Chamber",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Solid State Detector",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Scintillation Counter",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group Ist",
+   "q_en": "The momentum of a Photon of frequency 'f' is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "hc / f",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "c / hf",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "f / hc",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "hf / c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group Ist",
+   "q_en": "In a Nuclear Reactor, Cadmium rods are used to :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Speed Up Electrons",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Slow Down Neutrons",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Absorb Neutrons",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Produce Neutrons",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group Ist",
+   "q_en": "The de-Broglie wavelength of a particle of mass 'm' moving with Kinetic energy 'E' is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "√(h/2mE)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "h/√(2mE)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "h / 2mE",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√(h) / 2mE",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group 2nd",
+   "q_en": "The SI unit of Electric Flux is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nm²C⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Nm⁻²C⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Nm²C⁻²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NmC⁻²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group 2nd",
+   "q_en": "The Force between two point charges in the presence of air is 80 N. When a dielectric \"Germanium\" of dielectric constant 16 is placed between them, the force reduces to :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2N",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "32N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group 2nd",
+   "q_en": "The Potential Difference between the head and tail of an Electric EEL can be up to :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "200 V",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "500 V",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "600 V",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1000 V",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group 2nd",
+   "q_en": "The relation between Current 'I' and angle of deflection 'θ' in a moving coil Galvanometer is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "I ∝ θ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "I ∝ 1/θ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "I ∝ Sinθ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "I ∝ Cos θ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group 2nd",
+   "q_en": "Torque on a Current Carrying coil placed in a uniform magnetic field is minimum when angle between plane of coil and magnetic field is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "30°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "90°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group 2nd",
+   "q_en": "When the motor is just started, the back emf is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Maximum",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Minimum",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Almost Zero",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Equal to Current",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group 2nd",
+   "q_en": "The Inductor Stores energy in :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electric Field",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Magnetic Field",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Gravitational Field",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nuclear Field",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group 2nd",
+   "q_en": "The Slope of q – t Curve at any instant of time when A.C passes through a capacitor represents :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Current",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Voltage",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Inductance",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Capacitance",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group 2nd",
+   "q_en": "The Impedance of a parallel resonance circuit at resonance is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Resistive",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Capacitive",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Inductive",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group 2nd",
+   "q_en": "Which of the following is a brittle substance :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Lead",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Copper",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Glass",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Wrought Iron",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group 2nd",
+   "q_en": "A Photodiode can turn its current ON and OFF in :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Milli Seconds",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Micro Seconds",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Nano Seconds",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mega Seconds",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group 2nd",
+   "q_en": "The size of base in a transistor is of the order of :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10⁻⁴ m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10⁻⁶ m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10⁻⁸ m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10⁻¹⁰ m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group 2nd",
+   "q_en": "In Photoelectric Effect, the Photoelectric Current can be increased by :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Increasing the Frequency of Light",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Decreasing the Frequency of Light",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Increasing the Intensity of Light",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Decreasing the Intensity of Light",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group 2nd",
+   "q_en": "When a platinum wire is heated, it becomes white at about :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "900°C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1100°C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1300°C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1600°C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group 2nd",
+   "q_en": "K_α X – rays are produced due to transition of electron from :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "K to L Shell",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "L to K Shell",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "M to K Shell",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "M to L Shell",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group 2nd",
+   "q_en": "The range of weak nuclear force is of the order of :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10⁻⁹ m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10⁻¹⁰ m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10⁻¹⁷ m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10⁻¹⁵ m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group 2nd",
+   "q_en": "In Karachi Nuclear Power Plant (KANUP), the moderator used is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Graphite",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Carbon",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Heavy Water",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Boron Rod",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,682 @@
+{
+ "board": "BISE Bahawalpur",
+ "board_slug": "bahawalpur",
+ "class": "9th",
+ "subject": "Physics",
+ "year": 2023,
+ "slug": "bahawalpur-9th-physics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Water Freezes at :",
+   "q_ur": "پانی جس ٹمپریچر پر برف بن جاتا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "0 F⁰",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "32 F⁰",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-273 K",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0 K",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "In Solids, Heat is transferred by :",
+   "q_ur": "ٹھوس اجسام میں انتقال حرارت کا طریقہ ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "Radiation",
+     "ur": "ریڈی ایشن"
+    },
+    {
+     "k": "B",
+     "en": "Conduction",
+     "ur": "کنڈکشن"
+    },
+    {
+     "k": "C",
+     "en": "Convection",
+     "ur": "کنویکشن"
+    },
+    {
+     "k": "D",
+     "en": "Absorption",
+     "ur": "ابزاپشن"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Mercury is used as Thermometric Material because it has :",
+   "q_ur": "مرکری کو تھرمومیٹرک میٹریل کے طور پر استعمال کیا جاتا ہے کیونکہ یہ رکھتا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "Uniform Thermal Expansion",
+     "ur": "یکساں حرارتی پھیلاؤ"
+    },
+    {
+     "k": "B",
+     "en": "Low Freezing Point",
+     "ur": "کم فریزنگ پوائنٹ"
+    },
+    {
+     "k": "C",
+     "en": "Small Heat Capacity",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All these",
+     "ur": "تمام"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "What should be the approximate length of a Glass Tube to construct a Water Barometer :",
+   "q_ur": "پانی کا بیرومیٹر بنانے کیلئے شیشے کی ٹیوب کی لمبائی اتنی ہونی چاہیے",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.5 m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1 m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2.5 m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "11 m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Rate of doing work is called :",
+   "q_ur": "ورک کرنے کی شرح کو کہتے ہیں",
+   "options": [
+    {
+     "k": "A",
+     "en": "Energy",
+     "ur": "انرجی"
+    },
+    {
+     "k": "B",
+     "en": "Torque",
+     "ur": "ٹارک"
+    },
+    {
+     "k": "C",
+     "en": "Power",
+     "ur": "پاور"
+    },
+    {
+     "k": "D",
+     "en": "Momentum",
+     "ur": "مومنٹم"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The energy stored in coal is :",
+   "q_ur": "کوئلہ میں ذخیرہ شدہ انرجی ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "Heat Energy",
+     "ur": "ہیٹ انرجی"
+    },
+    {
+     "k": "B",
+     "en": "Kinetic Energy",
+     "ur": "کائنیٹک انرجی"
+    },
+    {
+     "k": "C",
+     "en": "Chemical Energy",
+     "ur": "کیمیکل انرجی"
+    },
+    {
+     "k": "D",
+     "en": "Nuclear Energy",
+     "ur": "نیوکلیئر انرجی"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The value of 'g' at a height one Earth's Radius above the surface of the Earth is :",
+   "q_ur": "'g' کی قیمت سطح زمین سے زمین کے رداس کے مساوی بلندی پر ہوتی ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "2 g",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/2 g",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/3 g",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/4 g",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "A force of 10 N is making an angle of 30⁰ with the Horizontal. Its Horizontal Components will be :",
+   "q_ur": "10 نیوٹن کی ایک فورس x-ایکسز کے ساتھ 30° کا زاویہ بناتی ہے۔ اس فورس کا افقی کمپوننٹ ہوگا",
+   "options": [
+    {
+     "k": "A",
+     "en": "4 N",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5 N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7 N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8.7 N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Newton's First Law of Motion is valid only in the absence of — :",
+   "q_ur": "مندرجہ ذیل میں سے کس کی غیر موجودگی میں نیوٹن کے پہلے قانون موشن کا اطلاق ہوتا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "Force",
+     "ur": "فورس"
+    },
+    {
+     "k": "B",
+     "en": "Net Force",
+     "ur": "نیٹ فورس"
+    },
+    {
+     "k": "C",
+     "en": "Friction",
+     "ur": "فرکشن"
+    },
+    {
+     "k": "D",
+     "en": "Momentum",
+     "ur": "مومنٹم"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "A body has Translatory Motion if it moves along a :",
+   "q_ur": "کسی جسم کی موشن ٹرانسلیٹری ہوگی اگر وہ حرکت کرتا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "Straight Line",
+     "ur": "خط مستقیم میں"
+    },
+    {
+     "k": "B",
+     "en": "Circle",
+     "ur": "دائرہ میں"
+    },
+    {
+     "k": "C",
+     "en": "Line without Rotation",
+     "ur": "گھومے بغیر"
+    },
+    {
+     "k": "D",
+     "en": "Curved Path",
+     "ur": "خمدار راستہ پر"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "A Measuring Cylinder is used to measure :",
+   "q_ur": "پیمائشی سلنڈر سے معلوم کیا جاتا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mass",
+     "ur": "ماس"
+    },
+    {
+     "k": "B",
+     "en": "Area",
+     "ur": "ایریا"
+    },
+    {
+     "k": "C",
+     "en": "Volume",
+     "ur": "والیوم"
+    },
+    {
+     "k": "D",
+     "en": "Level of Liquid",
+     "ur": "کسی مائع کا لیول"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Which Instrument is most suitable to measure the Internal Diameter of a Test Tube :",
+   "q_ur": "کسی ٹیسٹ ٹیوب کا اندرونی ڈائمیٹر معلوم کرنے کے لئے انتہائی موزوں آلہ کون سا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "Metre Rule",
+     "ur": "میٹر راز"
+    },
+    {
+     "k": "B",
+     "en": "Vernier Callipers",
+     "ur": "ورنیئر کیلیپرز"
+    },
+    {
+     "k": "C",
+     "en": "Measuring Tap",
+     "ur": "پیمائشی ٹیپ"
+    },
+    {
+     "k": "D",
+     "en": "Screw Gauge",
+     "ur": "سکرو گیج"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "(Vf - Vi)/t is equal to :",
+   "q_ur": "(Vf - Vi)/t برابر ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "a",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "s",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "h",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2as",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Least Count of Screw Gauge is :",
+   "q_ur": "سکریو گیج کی لیسٹ کاؤنٹ ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.1 mm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.01 mm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.001 mm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.0001 mm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "200000 ms⁻¹ is equal to :",
+   "q_ur": "200000 ms⁻¹ برابر ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "2 Kms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "20 Kms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "200 Kms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2000 Kms⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Inertia Depends on :",
+   "q_ur": "انرشیا کا انحصار ہوتا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "Force",
+     "ur": "فورس"
+    },
+    {
+     "k": "B",
+     "en": "Velocity",
+     "ur": "ولاسٹی"
+    },
+    {
+     "k": "C",
+     "en": "Time",
+     "ur": "وقت"
+    },
+    {
+     "k": "D",
+     "en": "Mass",
+     "ur": "ماس"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Earths' Gravitational Force of attraction vanishes at :",
+   "q_ur": "زمین کی گریویٹیشنل فورس غائب ہو جاتی ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "6400 Km",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Infinity",
+     "ur": "لامحدود فاصلہ"
+    },
+    {
+     "k": "C",
+     "en": "42300 Km",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1000 Km",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "A Force of 10 N is making an angle of 30⁰ with the Horizontal, its Horizontal Component will be :",
+   "q_ur": "10 نیوٹن کی ایک فورس x-ایکسز کے ساتھ 30° کا زاویہ بناتی ہے۔ اس فورس کا افقی کمپوننٹ ہوگا",
+   "options": [
+    {
+     "k": "A",
+     "en": "5 N",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "7.7 N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8.7 N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10 N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Mathematical Form of 2nd Condition of Equilibrium is :",
+   "q_ur": "ایکوی لبریم کی دوسری شرط کی حسابی شکل ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "Στ = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ΣF = 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ΣP = 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ΣW = 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Potential Energy (P.E.) = ------- :",
+   "q_ur": "پوٹینشل انرجی (P.E.) = -------",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/2 mv²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "mv²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "m²gh",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "mgh",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "The Specific Heat of Water is :",
+   "q_ur": "پانی کی حرارت مخصوصہ ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "2100 J Kg⁻¹K⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2500 J Kg⁻¹K⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3000 J Kg⁻¹K⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4200 J Kg⁻¹K⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "S.I. Unit of Pressure is Pascal which is equal to :",
+   "q_ur": "سسٹم انٹرنیشنل (SI) میں پریشر کا یونٹ پاسکل ہے جو کہ برابر ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "10⁴ Nm⁻²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1 Nm⁻²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10² Nm⁻²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10³ Nm⁻²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Liquid Pressure at depth 'h' can be calculated by formula :",
+   "q_ur": "'h' گہرائی پر مائع کا پریشر فارمولے کی مدد سے معلوم کیا جا سکتا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "P = ρgh",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "P = ρ/gh",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "P = g/ρh",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "P = ρg/h",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Rate of Flow of Heat is :",
+   "q_ur": "حرارت کے بہاؤ کی شرح ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "Q × t",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Q² × t",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Q/t",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Q²/t",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

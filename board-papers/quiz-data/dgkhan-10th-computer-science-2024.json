@@ -1,0 +1,570 @@
+{
+ "board": "BISE DG Khan",
+ "board_slug": "dgkhan",
+ "class": "10th",
+ "subject": "Computer Science",
+ "year": 2024,
+ "slug": "dgkhan-10th-computer-science-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "If the size of an array is 100, the range of indexes will be ----------------- ?",
+   "q_ur": "اگر ایک ارے کا سائز 100 ہے تو انڈیکس کی رینج -------- ہو گی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "0 - 99",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0 - 100",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1 - 100",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2 - 102",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "------------ structure allows repetition of a set of instructions.",
+   "q_ur": "-------- سٹرکچر ہمیشہ ہدایات کے ایک سیٹ کو بار بار دہرانے کے لیے استعمال ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Loop",
+     "ur": "لوپ"
+    },
+    {
+     "k": "B",
+     "en": "Conditional",
+     "ur": "مشروط"
+    },
+    {
+     "k": "C",
+     "en": "Control",
+     "ur": "کنٹرول"
+    },
+    {
+     "k": "D",
+     "en": "Data",
+     "ur": "ڈیٹا"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The values passed to a function are called ------------",
+   "q_ur": "فنکشن کو پاس کی گئی قیمتیں -------- کہلاتی ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Bodies",
+     "ur": "باڈیز"
+    },
+    {
+     "k": "B",
+     "en": "return types",
+     "ur": "ریٹرن ٹائپس"
+    },
+    {
+     "k": "C",
+     "en": "arrays",
+     "ur": "اریز"
+    },
+    {
+     "k": "D",
+     "en": "arguments",
+     "ur": "آرگیومنٹس"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The advantages of using functions are ------------",
+   "q_ur": "فنکشنز استعمال کرنے کے فوائد -------- ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "readability",
+     "ur": "پڑھنے جانے کی صلاحیت"
+    },
+    {
+     "k": "B",
+     "en": "reusability",
+     "ur": "بار بار استعمال"
+    },
+    {
+     "k": "C",
+     "en": "easy debugging",
+     "ur": "ڈی بگنگ میں آسانی"
+    },
+    {
+     "k": "D",
+     "en": "All",
+     "ur": "تمام"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "_________is a software that is responsible for the conversion of program files to machine understandable and executable code.",
+   "q_ur": "-------- ایک سافٹ ویئر ہے جو پروگرام کی فائلز کو ایسے کوڈ میں تبدیل کر دیتا ہے جسے مشین سمجھ سکے اور چلا سکے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Compiler",
+     "ur": "کمپائلر"
+    },
+    {
+     "k": "B",
+     "en": "Editor",
+     "ur": "ایڈیٹر"
+    },
+    {
+     "k": "C",
+     "en": "IDE",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Debugger",
+     "ur": "ڈی بگر"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "A list of words that are predefined and must not be used by the programmer to name his own variables are known as -----------------",
+   "q_ur": "ایسے الفاظ کی فہرست جو پہلے سے طے شدہ اور پروگرام اپنے متغیرات کے نام کے لیے استعمال نہیں کرتا اسے -------- کے نام سے جانا جاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "auto words",
+     "ur": "آٹو ورڈز"
+    },
+    {
+     "k": "B",
+     "en": "reserved words",
+     "ur": "کی۔ورڈز"
+    },
+    {
+     "k": "C",
+     "en": "restricted words",
+     "ur": "محدود الفاظ"
+    },
+    {
+     "k": "D",
+     "en": "predefined words",
+     "ur": "پہلے سے ڈیفائن کیے ہوئے الفاظ"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "scanf ( ) is a ----------- in C programming language.",
+   "q_ur": "C پروگرامنگ لینگویج میں scanf ( ) -------- ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Keyword",
+     "ur": "مطلوبہ لفظ"
+    },
+    {
+     "k": "B",
+     "en": "Library",
+     "ur": "لائبریری"
+    },
+    {
+     "k": "C",
+     "en": "Function",
+     "ur": "فنکشن"
+    },
+    {
+     "k": "D",
+     "en": "None of them",
+     "ur": "کوئی بھی نہیں"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Find out the output of the following code. int a = 4 ; float b = 2.2 ; a = a * b ;",
+   "q_ur": "درج ذیل کوڈ کی آؤٹ پٹ کیا ہو گی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "8.8",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8.0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8.2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "-----------statements describe the sequence in which statements of the program should be executed.",
+   "q_ur": "-------- سٹیٹمنٹس بتاتی ہیں کہ پروگرام کی سٹیٹمنٹس کس ترتیب سے ایگزیکیوٹ ہوں گی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Loop",
+     "ur": "لوپ"
+    },
+    {
+     "k": "B",
+     "en": "Conditional",
+     "ur": "مشروط"
+    },
+    {
+     "k": "C",
+     "en": "Control",
+     "ur": "کنٹرول"
+    },
+    {
+     "k": "D",
+     "en": "All",
+     "ur": "تمام"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Find out the error from the code if (a = = = 10)",
+   "q_ur": "درج ذیل کوڈ میں سے ایرر تلاش کیجیے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "==",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "=",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "( )",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "&&",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "------- make it easier to read and write values in an array.",
+   "q_ur": "-------- سے ارے میں قیمتیں لکھنا اور پڑھنا آسان ہو جاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Loops",
+     "ur": "لوپس"
+    },
+    {
+     "k": "B",
+     "en": "Conditions",
+     "ur": "کنڈیشنز"
+    },
+    {
+     "k": "C",
+     "en": "Expressions",
+     "ur": "ایکسپریشنز"
+    },
+    {
+     "k": "D",
+     "en": "Functions",
+     "ur": "فنکشنز"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "To initialize the array in a single statement, initialize it ------------- declaration.",
+   "q_ur": "ایک ہی سٹیٹمنٹ میں ارے کو انیشلائز کرنے کے لیے اسے ڈیکلیریشن کے -------- انیشلائز کیجیے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "At the time of",
+     "ur": "وقت"
+    },
+    {
+     "k": "B",
+     "en": "After",
+     "ur": "بعد"
+    },
+    {
+     "k": "C",
+     "en": "Before",
+     "ur": "پہلے"
+    },
+    {
+     "k": "D",
+     "en": "Both A & B",
+     "ur": "A اور B دونوں"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "The functions which are not available in C standard library are called -----------------.",
+   "q_ur": "وہ فنکشن جو C سٹینڈرڈ لائبریری میں دستیاب نہیں ہوتے انہیں -------- کہتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "User - defined",
+     "ur": "یوزر ڈیفائنڈ"
+    },
+    {
+     "k": "B",
+     "en": "Built - in",
+     "ur": "بلٹ ان"
+    },
+    {
+     "k": "C",
+     "en": "Recursive",
+     "ur": "ریکرسیو"
+    },
+    {
+     "k": "D",
+     "en": "Repetitive",
+     "ur": "تکراری"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "In this function int cd ( ) { return 'a'} \" int \" is -------------",
+   "q_ur": "اس فنکشن میں int cd ( ) { return ' a ' } \" int \" -------- ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Body",
+     "ur": "باڈی"
+    },
+    {
+     "k": "B",
+     "en": "Return type",
+     "ur": "ریٹرن ٹائپ"
+    },
+    {
+     "k": "C",
+     "en": "Array",
+     "ur": "ارے"
+    },
+    {
+     "k": "D",
+     "en": "Arguments",
+     "ur": "آرگیومنٹس"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "For initializing a variable, we use ----------------- operator.",
+   "q_ur": "ایک متغیر کو انیشلائز کرنے کے لیے ہم -------- آپریٹر استعمال کرتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "→",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "=",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "@",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "?",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "------------ can be thought of as a container to store constants.",
+   "q_ur": "-------- کو کانسٹنٹس محفوظ کرنے کے لیے برتن سمجھا جا سکتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Box",
+     "ur": "باکس"
+    },
+    {
+     "k": "B",
+     "en": "Jar",
+     "ur": "جار"
+    },
+    {
+     "k": "C",
+     "en": "Variable",
+     "ur": "متغیر"
+    },
+    {
+     "k": "D",
+     "en": "Collection",
+     "ur": "مجموعہ"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Which of the following is a valid character in C Language ?",
+   "q_ur": "مندرجہ ذیل میں سے کون سا کریکٹر C لینگویج میں درست ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "\" here \"",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "\" a \"",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "' 9 '",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "\" 9 \"",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Find out the output of the following code. int a = 4 * 3 / (5+1) + 7 % 4 ; printf (\" % d \" , a) ;",
+   "q_ur": "درج ذیل کوڈ کی آؤٹ پٹ کیا ہو گی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "9",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "In if statement, what happens if condition is false ?",
+   "q_ur": "if سٹیٹمنٹ میں اگر کنڈیشن غلط ہے تو کیا ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Program crashes",
+     "ur": "پروگرام رک جاتا ہے"
+    },
+    {
+     "k": "B",
+     "en": "Index out of bound error",
+     "ur": "انڈیکس آؤٹ آف باؤنڈ ایرر آتا ہے"
+    },
+    {
+     "k": "C",
+     "en": "Further code executes",
+     "ur": "باقی کوڈ چلتا رہتا ہے"
+    },
+    {
+     "k": "D",
+     "en": "Compiler asks to change condition",
+     "ur": "کمپائلر کنڈیشن بدلنے کا مطالبہ کرتا ہے"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Find out the output of the following code. Int y = 18 % 9 ; printf (\" % d \" , y) ;",
+   "q_ur": "درج ذیل کوڈ کی آؤٹ پٹ کیا ہو گی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

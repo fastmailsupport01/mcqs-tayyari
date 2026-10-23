@@ -1,0 +1,682 @@
+{
+ "board": "BISE Bahawalpur",
+ "board_slug": "bahawalpur",
+ "class": "10th",
+ "subject": "Physics",
+ "year": 2023,
+ "slug": "bahawalpur-10th-physics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "If the Mass of the Bob of a Pendulum is increased by a factor of 3, the period of the Pendulum's motion will :",
+   "q_ur": "اگر کسی پینڈولم کی کوئی کا اس تین گنا کر دیا جائے تو اس کی موشن کا پیریڈ کتنا ہو جائے گا :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Be increased by a factor of 2",
+     "ur": "دو گنا بڑھ جائے گا"
+    },
+    {
+     "k": "B",
+     "en": "Remain the same",
+     "ur": "کوئی فرق نہیں پڑے گا"
+    },
+    {
+     "k": "C",
+     "en": "Be decreased by a factor of 2",
+     "ur": "دو گنا کم ہو جائے گا"
+    },
+    {
+     "k": "D",
+     "en": "Be decreased by a factor of 4",
+     "ur": "چار گنا کم ہو جائے گا"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Coulomb's Law is valid for the Charges which are :",
+   "q_ur": "کولمب کا قانون کن چارجز کے لیے درست ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Moving Point Charges",
+     "ur": "حرکت کرتے ہوئے پوائنٹ چارجز"
+    },
+    {
+     "k": "B",
+     "en": "Moving and Large Charges",
+     "ur": "حرکت کرتے ہوئے بڑے سائز کے چارجز"
+    },
+    {
+     "k": "C",
+     "en": "Stationary and Point Charges",
+     "ur": "ساکن اور پوائنٹ چارجز"
+    },
+    {
+     "k": "D",
+     "en": "Stationary and Large Size Charges",
+     "ur": "ساکن اور بڑے سائز کے چارجز"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The Index of Refraction depends on :",
+   "q_ur": "انڈیکس آف ریفریکشن کا انحصار کس پر ہوتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "The Focal Length",
+     "ur": "فوکل لینتھ پر"
+    },
+    {
+     "k": "B",
+     "en": "The Speed of Light",
+     "ur": "روشنی کی سپیڈ پر"
+    },
+    {
+     "k": "C",
+     "en": "The Image Distance",
+     "ur": "امیج کے فاصلے پر"
+    },
+    {
+     "k": "D",
+     "en": "The Object Distance",
+     "ur": "جسم کے فاصلے پر"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Mice can hear frequency upto :",
+   "q_ur": "چوہے کہاں تک کی فریکوئنسی کی آوازیں سن سکتے ہیں :",
+   "options": [
+    {
+     "k": "A",
+     "en": "35000 Hz",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3500 Hz",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "50,000 Hz",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1,00,000 Hz",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "How many types of Charges are :",
+   "q_ur": "چارجز کتنی اقسام کے ہوتے ہیں :",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "[MRI]",
+   "q_ur": "MRI کس کا مخفف ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Magnetic Resonance Imaging",
+     "ur": "میگنیٹک ریزوننس امیجنگ"
+    },
+    {
+     "k": "B",
+     "en": "Magnetic Resistance and Current",
+     "ur": "میگنیٹک ریزسٹنس اور کرنٹ"
+    },
+    {
+     "k": "C",
+     "en": "Magnetic Resistance Imaginary",
+     "ur": "میگنیٹک ریزسٹنس امیجنری"
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": "ان میں سے کوئی نہیں"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The presence of a Magnetic Field can be detected by a :",
+   "q_ur": "میگنیٹک فیلڈ کی موجودگی کا پتہ کیسے لگایا جا سکتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Small Mass",
+     "ur": "چھوٹا ماس"
+    },
+    {
+     "k": "B",
+     "en": "Stationary Positive Charge",
+     "ur": "ساکن پوزیٹیو چارج سے"
+    },
+    {
+     "k": "C",
+     "en": "Stationary Negative Charge",
+     "ur": "ساکن نیگیٹیو چارج سے"
+    },
+    {
+     "k": "D",
+     "en": "Magnetic Compass",
+     "ur": "میگنیٹک کمپاس سے"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "An Electric Current in Conductor is due to the flow of :",
+   "q_ur": "کنڈکٹر میں الیکٹرک کرنٹ کے بہاؤ کی وجہ ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Positive Ions",
+     "ur": "پوزیٹیو آئنز"
+    },
+    {
+     "k": "B",
+     "en": "Negative Ions",
+     "ur": "نیگیٹیو آئنز"
+    },
+    {
+     "k": "C",
+     "en": "Positive Charges",
+     "ur": "پوزیٹیو چارجز"
+    },
+    {
+     "k": "D",
+     "en": "Free Electrons",
+     "ur": "آزاد الیکٹرونز"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "If X = A • B, then X = 1 when :",
+   "q_ur": "اگر X = A • B ، تو 'X' لیول '1' پر ہوگی اگر :",
+   "options": [
+    {
+     "k": "A",
+     "en": "A and B are '1'",
+     "ur": "B = 1, A = 1"
+    },
+    {
+     "k": "B",
+     "en": "A or B is '0'",
+     "ur": "B = 0 یا A = 0"
+    },
+    {
+     "k": "C",
+     "en": "A is '0' and B is '1'",
+     "ur": "B = 1 اور A = 0"
+    },
+    {
+     "k": "D",
+     "en": "A is '1' and B is '0'",
+     "ur": "B = 0 اور A = 1"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "In Nuclide ¹³₆X the number of Protons is :",
+   "q_ur": "نیوکلائڈ ¹³₆X میں پروٹونز کی تعداد ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "From which of the following we can get information almost about everything :",
+   "q_ur": "مندرجہ ذیل میں سے کس سے آپ ہر طرح کی انفارمیشن حاصل کر سکتے ہیں :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Books",
+     "ur": "کتابیں"
+    },
+    {
+     "k": "B",
+     "en": "Teacher",
+     "ur": "استاد"
+    },
+    {
+     "k": "C",
+     "en": "Computer",
+     "ur": "کمپیوٹر"
+    },
+    {
+     "k": "D",
+     "en": "Internet",
+     "ur": "انٹرنیٹ"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "In Computer Terminology, Information means :",
+   "q_ur": "کمپیوٹر ٹرمینالوجی میں انفارمیشن کا مطلب ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Any Data",
+     "ur": "کوئی بھی ڈیٹا"
+    },
+    {
+     "k": "B",
+     "en": "Raw Data",
+     "ur": "خام ڈیٹا"
+    },
+    {
+     "k": "C",
+     "en": "Processed Data",
+     "ur": "پروسیسڈ ڈیٹا"
+    },
+    {
+     "k": "D",
+     "en": "Large Data",
+     "ur": "زیادہ ڈیٹا"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Which is an example of Longitudnal Waves :",
+   "q_ur": "کون سی لونگیٹیوڈنل ویوز کی مثال ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sound Wave",
+     "ur": "ساؤنڈ ویو"
+    },
+    {
+     "k": "B",
+     "en": "Light Wave",
+     "ur": "لائٹ ویو"
+    },
+    {
+     "k": "C",
+     "en": "Radio Wave",
+     "ur": "ریڈیو ویو"
+    },
+    {
+     "k": "D",
+     "en": "Water Wave",
+     "ur": "واٹر ویو"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "The Mass of the bob of a Pendulum is increased by a factor of 3, the period of Pendulum Motion will :",
+   "q_ur": "اگر کسی پینڈولم کی کوئی کا اس 3 گنا کر دیا جائے تو اس پینڈولم کی موشن کا پیریڈ کتنا ہو جائے گا :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Be increased by a factor of 2",
+     "ur": "2 گنا بڑھ جائے گا"
+    },
+    {
+     "k": "B",
+     "en": "Remain the Same",
+     "ur": "کوئی فرق نہیں پڑے گا"
+    },
+    {
+     "k": "C",
+     "en": "Be decreased by a factor of 2",
+     "ur": "2 گنا کم ہو جائے گا"
+    },
+    {
+     "k": "D",
+     "en": "Be decreased by a factor of 4",
+     "ur": "4 گنا کم ہو جائے گا"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Which of the following is an example of Simple Harmonic Motion :",
+   "q_ur": "درج ذیل میں سے کون سی مثال سمپل ہارمونک موشن کی ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "The Motion of Simple Pendulum",
+     "ur": "سمپل پینڈولم کی حرکت"
+    },
+    {
+     "k": "B",
+     "en": "The Motion of Ceiling Fan",
+     "ur": "چھت والے پنکھے کی حرکت"
+    },
+    {
+     "k": "C",
+     "en": "The spinning of Earth on its Axis",
+     "ur": "زمین کی اس کے ایکسز کے گرد حرکت"
+    },
+    {
+     "k": "D",
+     "en": "A bouncing ball on the floor",
+     "ur": "فرش پر باؤنس کرتی ہوئی گیند"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Which of the following Quantity is not changed during Refraction of Light :",
+   "q_ur": "مندرجہ ذیل میں سے کون سی مقدار روشنی کی ریفریکشن کے دوران تبدیل نہیں ہوتی :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Its Direction",
+     "ur": "اس کی سمت"
+    },
+    {
+     "k": "B",
+     "en": "Its Speed",
+     "ur": "اس کی سپیڈ"
+    },
+    {
+     "k": "C",
+     "en": "Its Frequency",
+     "ur": "اس کی فریکوئنسی"
+    },
+    {
+     "k": "D",
+     "en": "Its Wavelength",
+     "ur": "اس کی ویولینتھ"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The Electric Current in Conductor is due to the flow of :",
+   "q_ur": "کنڈکٹر میں الیکٹرک کرنٹ کے بہاؤ کی وجہ ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Positive Ions",
+     "ur": "پازیٹیو آئنز"
+    },
+    {
+     "k": "B",
+     "en": "Negative Ions",
+     "ur": "نیگیٹیو آئنز"
+    },
+    {
+     "k": "C",
+     "en": "Positive Charge",
+     "ur": "پازیٹیو چارج"
+    },
+    {
+     "k": "D",
+     "en": "Free Electrons",
+     "ur": "آزاد الیکٹرونز"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "A Positive Electric Charge :",
+   "q_ur": "ایک پازیٹیو الیکٹرک چارج :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Attract other Positive Charge",
+     "ur": "دوسرے پازیٹیو چارج کو کشش کرتا ہے"
+    },
+    {
+     "k": "B",
+     "en": "Repel other positive charge",
+     "ur": "دوسرے پازیٹیو چارج کو دفع کرتا ہے"
+    },
+    {
+     "k": "C",
+     "en": "Attract Neutral Charge",
+     "ur": "نیوٹرل چارج کو کشش کرتا ہے"
+    },
+    {
+     "k": "D",
+     "en": "Repels the Neutral Charge",
+     "ur": "نیوٹرل چارج کو دفع کرتا ہے"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "A Converging Mirror with a Radius of 20 cm creates a real image 30 cm from the mirror. What is the object distance :",
+   "q_ur": "ایک کنورجنگ مرر کا ریڈیس 20 cm ہے۔ یہ مرر 30 cm پر ریئل امیج بناتا ہے۔ جسم کا فاصلہ کیا ہوگا :",
+   "options": [
+    {
+     "k": "A",
+     "en": "5 cm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "7.5 cm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "15 cm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "20 cm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Which statement is true about the Magnetic Poles :",
+   "q_ur": "میگنیٹک پولز کے متعلق کون سا بیان درست ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Unlike Poles repel",
+     "ur": "مختلف پولز ایک دوسرے کو دفع کرتے ہیں"
+    },
+    {
+     "k": "B",
+     "en": "Like Poles Attract",
+     "ur": "ایک جیسے پولز ایک دوسرے کو کشش کرتے ہیں"
+    },
+    {
+     "k": "C",
+     "en": "Magnetic Poles do not affect eachother",
+     "ur": "مقناطیسی پولز ایک دوسرے پر اثر انداز نہیں ہوتے ہیں"
+    },
+    {
+     "k": "D",
+     "en": "A single Magnetic Pole does not exist",
+     "ur": "اکیلا میگنیٹک پول اپنا وجود برقرار نہیں رکھ سکتا"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Isotopes have :",
+   "q_ur": "آئسوٹوپس رکھتے ہیں :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Same number of Protons",
+     "ur": "ایک جیسے پروٹونز"
+    },
+    {
+     "k": "B",
+     "en": "Different number of Protons",
+     "ur": "مختلف پروٹونز"
+    },
+    {
+     "k": "C",
+     "en": "Same number of Neutrons",
+     "ur": "ایک جیسے نیوٹرونز"
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": "ان میں سے کوئی نہیں"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "1 KB = ------ :",
+   "q_ur": "ایک کلو بائٹ ------ برابر ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "(Bytes) 1032",
+     "ur": "بائٹس 1032"
+    },
+    {
+     "k": "B",
+     "en": "(Bytes) 1036",
+     "ur": "بائٹس 1036"
+    },
+    {
+     "k": "C",
+     "en": "(Bytes) 1048",
+     "ur": "بائٹس 1048"
+    },
+    {
+     "k": "D",
+     "en": "(Bytes) 1024",
+     "ur": "بائٹس 1024"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Thermoionic Emission in Tungston Filament requires :",
+   "q_ur": "ٹنگسٹن فلامنٹ میں تھرمو آئیونک ایمیشن کے لئے درکار ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.3 V and 6 A",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6 V and 0.3 A",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3 V and 0.6 A",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3 V and 3 A",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "The number of Isotopes of Hydrogen is :",
+   "q_ur": "ہائیڈروجن کے آئسوٹوپس کی تعداد ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

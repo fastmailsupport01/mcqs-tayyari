@@ -1,0 +1,850 @@
+{
+ "board": "BISE Bahawalpur",
+ "board_slug": "bahawalpur",
+ "class": "9th",
+ "subject": "Mathematics",
+ "year": 2024,
+ "slug": "bahawalpur-9th-mathematics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Express 7.61 x 10⁻⁴ to Ordinary Notation :",
+   "q_ur": "7.61 x 10⁻⁴ کی عام ترقیم ہو گی :",
+   "options": [
+    {
+     "k": "A",
+     "en": "7610000",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "76100",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.00761",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.000761",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The Value of i¹⁹ is ____ :",
+   "q_ur": "i¹⁹ کی قیمت ____ ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "–i",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "–1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "+i",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "If B = [[5, -4], [-2, -1]] then –2B will be :",
+   "q_ur": "اگر B = [[5, -4], [-2, -1]] تو -2B کی قیمت ہو گی :",
+   "options": [
+    {
+     "k": "A",
+     "en": "[[3, -6], [-4, -3]]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[[7, -2], [0, 1]]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[[10, -8], [-4, -2]]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[[-10, 8], [4, 2]]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "(√a³ + √b³)(√a³ – √b³) is equal to ____ :",
+   "q_ur": "(√a³ + √b³)(√a³ – √b³) برابر ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "a³ – b³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a² – b²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a – b",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a¹ᐟ³ – b¹ᐟ³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "x = 0 is a Solution of the Inequality ____ :",
+   "q_ur": "x = 0 غیر مساوات ____ کے حل سیٹ کا رکن ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "x > 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3x + 5 < 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x + 2 < 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x – 2 < 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The Square Root of a² – 2a + 1 is ____ :",
+   "q_ur": "a² – 2a + 1 کا جزر المربع ____ ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "±(a+1)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "±(a–1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a–1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a+1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Find 'm' so that x² + 4x + m is a complete Square :",
+   "q_ur": "'m' کی کس قیمت کے لیے x² + 4x + m کامل مربع بن جائے گا :",
+   "options": [
+    {
+     "k": "A",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "–8",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "16",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Point (2, –3) lies in the Quadrant :",
+   "q_ur": "نقطہ (2, –3) مستوی کے ربع میں ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "I",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "II",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "III",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "IV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "In a Parallelogram Opposite Angles are ____ :",
+   "q_ur": "متوازی الاضلاع کے مخالف زاویے ____ ہوتے ہیں :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Congruent",
+     "ur": "متماثل"
+    },
+    {
+     "k": "B",
+     "en": "Equal",
+     "ur": "برابر"
+    },
+    {
+     "k": "C",
+     "en": "Both A and B",
+     "ur": "A اور B دونوں"
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": "کوئی بھی نہیں"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The Symbol of Congruent is ____ :",
+   "q_ur": "متماثل کے لیے علامت استعمال ہوتی ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "=",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "≅",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "≠",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "↔",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Distance between the Points (1, 0) and (0, 1) is :",
+   "q_ur": "نقاط (1, 0) اور (0, 1) کا درمیانی فاصلہ ____ ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "√2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Right Bisection of a ____ means to draw a Perpendicular which passes through the Mid Point of Line Segment :",
+   "q_ur": "کسی ____ کی عمودی تنصیف سے مراد یہ ہے کہ اس قطعہ خط پر ایسا عمود کھینچنا جو اس کے وسطی نقطہ میں سے گزرے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Line",
+     "ur": "خط"
+    },
+    {
+     "k": "B",
+     "en": "Ray",
+     "ur": "شعاع"
+    },
+    {
+     "k": "C",
+     "en": "Line Segment",
+     "ur": "قطعہ خط"
+    },
+    {
+     "k": "D",
+     "en": "Angle",
+     "ur": "زاویہ"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "A Quadrilateral having each Angle of 90° is called ____ :",
+   "q_ur": "ایک چوکور جس کا ہر زاویہ 90° ہو ____ کہلاتی ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Parallelogram",
+     "ur": "متوازی الاضلاع"
+    },
+    {
+     "k": "B",
+     "en": "Rectangle",
+     "ur": "مستطیل"
+    },
+    {
+     "k": "C",
+     "en": "Trapezium",
+     "ur": "ذوزنقہ"
+    },
+    {
+     "k": "D",
+     "en": "Rhombus",
+     "ur": "معین"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "Parallelograms on equal bases and having the same (or equal) altitudes are ____ in area :",
+   "q_ur": "برابر قاعدوں پر واقع اور برابر ارتفاع والی متوازی الاضلاع اشکال رقبے میں ____ ہوتی ہیں :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Unequal",
+     "ur": "نابرابر"
+    },
+    {
+     "k": "B",
+     "en": "Equal",
+     "ur": "برابر"
+    },
+    {
+     "k": "C",
+     "en": "Congruent",
+     "ur": "متماثل"
+    },
+    {
+     "k": "D",
+     "en": "Similar",
+     "ur": "متشابہ"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Similar Triangles are ____ in Size :",
+   "q_ur": "متشابہ مثلثان سائز میں ____ ہوتی ہیں :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Same",
+     "ur": "ایک جیسی"
+    },
+    {
+     "k": "B",
+     "en": "Parallel",
+     "ur": "متوازی"
+    },
+    {
+     "k": "C",
+     "en": "Different",
+     "ur": "مختلف"
+    },
+    {
+     "k": "D",
+     "en": "Equal",
+     "ur": "برابر"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "[[√5, 0], [0, √5]] is a ____ Matrix :",
+   "q_ur": "[[√5, 0], [0, √5]] کو ____ قالب کہتے ہیں :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": "صفری"
+    },
+    {
+     "k": "B",
+     "en": "Scalar",
+     "ur": "سکیلر"
+    },
+    {
+     "k": "C",
+     "en": "Unit",
+     "ur": "واحدانی"
+    },
+    {
+     "k": "D",
+     "en": "Singular",
+     "ur": "نادر"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "(49/36)^(-1/2) = ____ :",
+   "q_ur": "____ = (49/36)^(-1/2) :",
+   "options": [
+    {
+     "k": "A",
+     "en": "7/6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6/7",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "–7/6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "–6/7",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "log_a a = ____ :",
+   "q_ur": "____ = log_a a :",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "–1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "The degree of Polynomial 3x⁴ – 2x³y is ____ :",
+   "q_ur": "3x⁴ – 2x³y کی ڈگری ____ ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Factors of 8x³ + 27y³ are ____ :",
+   "q_ur": "8x³ + 27y³ کے اجزائے ضربی ہیں :",
+   "options": [
+    {
+     "k": "A",
+     "en": "(2x + 3y)(4x² + 9y²)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(2x – 3y)(4x² – 9y²)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(2x + 3y)(4x² – 6xy + 9y²)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(2x – 3y)(4x² + 6xy + 9y²)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "The Square Root of a² – 2a + 1 is ____ :",
+   "q_ur": "a² – 2a + 1 کا جزر المربع ____ ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "±(a+1)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a–1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "±(a–1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a+1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "A Statement Involving any of the Symbols <, >, ≤, or ≥ is called ____ :",
+   "q_ur": "کوئی بیان جس میں ≥ یا ≤ ، > ، < میں سے کوئی ایک علامت پائی جائے ____ کہلاتی ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Inequality",
+     "ur": "غیر مساوات"
+    },
+    {
+     "k": "B",
+     "en": "Equation",
+     "ur": "مساوات"
+    },
+    {
+     "k": "C",
+     "en": "Identity",
+     "ur": "ایسی مساوات جو متغیر کی ہر قیمت کے لیے درست ہو"
+    },
+    {
+     "k": "D",
+     "en": "Linear Equation",
+     "ur": "یک درجی مساوات"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "If (x–1, y+1) = (0, 0) then (x, y) is ____ :",
+   "q_ur": "اگر (x–1, y+1) = (0, 0) ہو تو (x, y) برابر ہے ____ :",
+   "options": [
+    {
+     "k": "A",
+     "en": "(–1, –1)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(1, 1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(–1, 1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(1, –1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Mid-Point of the Points (–2, 2) and (2, –2) is :",
+   "q_ur": "نقاط (–2, 2) اور (2, –2) کا درمیانی نقطہ ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "(2, 2)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(–2, –2)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(0, 0)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(1, 1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "The Symbol used \"for Correspondence\" is ____ :",
+   "q_ur": "\"مطابقت میں ہے\" کے لیے علامت ____ استعمال ہوتی ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "→",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "↔",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "≈",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "≅",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Diagonal of a Parallelogram divides the Parallelogram into ____ Congruent Triangles :",
+   "q_ur": "متوازی الاضلاع کا کوئی ایک وتر اسے ____ متماثل مثلثوں میں تقسیم کرتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "The Right Bisectors of the sides of an Obtuse Triangle Intersect each other ____ the Triangle :",
+   "q_ur": "منفرجہ زاویہ مثلث کے اضلاع کے عمودی ناصف ایک دوسرے کو مثلث کے ____ قطع کرتے ہیں :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Inside",
+     "ur": "اندر"
+    },
+    {
+     "k": "B",
+     "en": "Base",
+     "ur": "قاعدہ"
+    },
+    {
+     "k": "C",
+     "en": "Hypotenuse",
+     "ur": "وتر"
+    },
+    {
+     "k": "D",
+     "en": "Outside",
+     "ur": "باہر"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "If two Triangles are Similar, then the Measure of their Corresponding Sides are ____ :",
+   "q_ur": "اگر دو مثلثان متشابہ ہوں تو ان کے متناظرہ اضلاع ____ ہوتے ہیں :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Equal",
+     "ur": "برابر"
+    },
+    {
+     "k": "B",
+     "en": "Different",
+     "ur": "مختلف"
+    },
+    {
+     "k": "C",
+     "en": "Proportional",
+     "ur": "متناسب"
+    },
+    {
+     "k": "D",
+     "en": "Large",
+     "ur": "بڑے"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "Area of given Figure is ____ : (Parallelogram with base 8 cm and altitude 4 cm)",
+   "q_ur": "دی گئی شکل کا رقبہ ____ ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "18 cm²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "32 cm²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "16 cm²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "36 cm²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "If the three Altitudes of a Triangle are Congruent, then the Triangle will be ____ :",
+   "q_ur": "اگر ایک مثلث کے تینوں عمود متماثل ہوں تو وہ مثلث ____ ہو گی :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Equilateral",
+     "ur": "مساوی الاضلاع"
+    },
+    {
+     "k": "B",
+     "en": "Right Angled",
+     "ur": "قائمۃ الزاویہ"
+    },
+    {
+     "k": "C",
+     "en": "Isosceles",
+     "ur": "متساوی الساقین"
+    },
+    {
+     "k": "D",
+     "en": "Acute Angie",
+     "ur": "حادۃ الزاویہ"
+    }
+   ]
+  }
+ ]
+}

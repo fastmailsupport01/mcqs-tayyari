@@ -1,0 +1,570 @@
+{
+ "board": "BISE Bahawalpur",
+ "board_slug": "bahawalpur",
+ "class": "12th",
+ "subject": "Mathematics",
+ "year": 2024,
+ "slug": "bahawalpur-12th-mathematics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Single Group",
+   "q_en": "A function of the form f(x, y) = 0 is called :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Parametric Function",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Identity Function",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Explicit Function",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Implicit Function",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Single Group",
+   "q_en": "(e^2x – 1)/(2e^x) = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sinx",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cos x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Sinhx",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Coshx",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Single Group",
+   "q_en": "lim_(x→a) (f(x)–f(a))/(x–a) is equal to :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "f'(x)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "f'(0)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "f'(a)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "f'(2)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Single Group",
+   "q_en": "d/dx (1/(ax+b)) is equal to :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/(ax+b)²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "–a/(ax+b)²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a/(ax+b)²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ln (ax + b)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Single Group",
+   "q_en": "Derivative of Sin²x with respect to Cos²x is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "–1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "tanx",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "cotx",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Single Group",
+   "q_en": "Derivative of Sinh⁻¹ x with respect to x is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/√(1–x²)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/√(1+x²)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "–1/√(1–x²)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "–1/√(1+x²)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Single Group",
+   "q_en": "For n ≠ –1, ∫xⁿ dx = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x^(n–1)/(n–1) + C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x^(n+1) + C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x^(n+1)/(n+1) + C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "xⁿ/(n+1) + C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Single Group",
+   "q_en": "∫Sec²nx dx = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "n/3 sec nx + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "n tan nx + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "tan nx + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/n tan nx + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Single Group",
+   "q_en": "When expression √(x² – a²) involve in integration, we substitute :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x = asecθ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x = asinθ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x = atanθ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x = sinθ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Single Group",
+   "q_en": "∫(-∞ to ∞) 1/(1+x²) dx = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π/3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Single Group",
+   "q_en": "If Distance of point (5, x) from x – axis is 3 then x = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "–5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Single Group",
+   "q_en": "If 'α' is inclination of line 'l' then it must be true that :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0 ≤ α < π/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/2 ≤ α < π",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0 ≤ α ≤ 2π",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0 < α < π",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Single Group",
+   "q_en": "If lines are parallel then point of intersections are :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Does not exist",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Finite",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Infinite",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Both B and C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Single Group",
+   "q_en": "A Feasible Solution which maximize or minimize the objective function is called :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Solution",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Optimal Solution",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Minimum Solution",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Maximum Solution",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Single Group",
+   "q_en": "Axis of Parabola x² = 4ay is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "y = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x = y",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x = 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "y = –x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Single Group",
+   "q_en": "Length of major and minor axis of ellipse x² + 16y² = 16 is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4, 1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10, 5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "16, 2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8, 2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Single Group",
+   "q_en": "If eccentricity e > 1 then the conic is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hyperbola",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ellipse",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Circle",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Parabola",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Single Group",
+   "q_en": "Direction Cosines of y – axis are :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(1, 0, 0)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(0, 1, 0)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(0, 0, 1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(0, 0, 0)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Single Group",
+   "q_en": "|a x b| = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Area of Triangle",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Area of Circle",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Area of Parallelogram",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Area of Trapezium",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Single Group",
+   "q_en": "Projection of Vector r = ai + bj + ck on x – axis is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "b",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√(a² + b² + c²)",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

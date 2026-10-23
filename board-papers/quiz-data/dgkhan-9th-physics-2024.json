@@ -1,0 +1,682 @@
+{
+ "board": "BISE DG Khan",
+ "board_slug": "dgkhan",
+ "class": "9th",
+ "subject": "Physics",
+ "year": 2024,
+ "slug": "dgkhan-9th-physics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Which of the following has large specific heat ?",
+   "q_ur": "درج ذیل میں سے کس کی حرارت مخصوصہ زیادہ ہے ؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Copper",
+     "ur": "تانبہ"
+    },
+    {
+     "k": "B",
+     "en": "Ice",
+     "ur": "برف"
+    },
+    {
+     "k": "C",
+     "en": "Water",
+     "ur": "پانی"
+    },
+    {
+     "k": "D",
+     "en": "Mercury",
+     "ur": "مرکری"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Volume thermal expansion of solids (V) = -----------",
+   "q_ur": "ٹھوس اجسام کے والیم میں حرارتی پھیلاؤ (V) = -------",
+   "options": [
+    {
+     "k": "A",
+     "en": "V₀ + α ΔT",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "V₀ (1 + α ΔT)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "V₀ + β ΔT",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "V₀ (1 + β ΔT)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Rate of flow of heat = -----------",
+   "q_ur": "حرارت کے بہاؤ کی شرح = -------",
+   "options": [
+    {
+     "k": "A",
+     "en": "Q × t",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Q/t",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Q² × t",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Q²/t",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Least count of digital Vernier Callipers is",
+   "q_ur": "ڈیجیٹل ورنیئر کیلیپرز کا لیسٹ کاؤنٹ ہے ۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/10 cm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/100 cm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/1000 cm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/10000 cm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "In third equation of motion 2aS + Vᵢ² = -----------",
+   "q_ur": "حرکت کی تیسری مساوات میں 2aS + Vᵢ² = -----------",
+   "options": [
+    {
+     "k": "A",
+     "en": "V_f²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "V_f",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "t²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "t",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Coefficient of friction (μ) = ...............",
+   "q_ur": "فرکشن کا کوایفیشینٹ (μ) برابر ہے ۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "F_s R",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "F_s / R",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "R / F_s",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "F_s R²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "To run , what is needed to push the ground backward ?",
+   "q_ur": "دوڑنے کے لیے ، گراؤنڈ کو پیچھے دھکیلنے کیلیے کس چیز کی ضرورت ہوتی ہے ؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Momentum",
+     "ur": "مومینٹم"
+    },
+    {
+     "k": "B",
+     "en": "Weight",
+     "ur": "وزن"
+    },
+    {
+     "k": "C",
+     "en": "Acceleration",
+     "ur": "ایکسلریشن"
+    },
+    {
+     "k": "D",
+     "en": "Friction",
+     "ur": "فرکشن"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "S.I unit of torque is.",
+   "q_ur": "S.I میں ٹارک کا یونٹ ہے ۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nm⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Nm²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Nm⁻²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The value of 'g' at the surface of sun is",
+   "q_ur": "سورج کی سطح پر 'g' کی قیمت ہوتی ہے ۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "8.87 ms⁻²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "25.94 ms⁻²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "274.2 ms⁻²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9.8 ms⁻²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Work done by a body due to its motion is equal to ----------- of body.",
+   "q_ur": "کسی جسم کی حرکت کی وجہ سے کیا گیا ورک اس جسم کی ------- کے برابر ہوتا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "Potential Energy",
+     "ur": "پوٹینشل انرجی"
+    },
+    {
+     "k": "B",
+     "en": "Kinetic Energy",
+     "ur": "کائنیٹک انرجی"
+    },
+    {
+     "k": "C",
+     "en": "Power",
+     "ur": "پاور"
+    },
+    {
+     "k": "D",
+     "en": "Velocity",
+     "ur": "ولاسٹی"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "One horse power is equal to",
+   "q_ur": "ایک ہارس پاور برابر ہوتا ہے",
+   "options": [
+    {
+     "k": "A",
+     "en": "746 watt",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "476 watt",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "647 watt",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "674 watt",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "What should be the approximate length of a glass tube to construct a water barometer ?",
+   "q_ur": "پانی کا بیرومیٹر بنانے کیلیے شیشے کی ٹیوب کی لمبائی اندازاً کتنی ہونی چاہیے ؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "11 m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2.5 m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1 m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.5 m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Water freezes at.",
+   "q_ur": "پانی جس ٹمپریچر پر برف بن جاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "0°F",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "32°F",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-273 K",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0 K",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "When ice is cooled below 0°C, it",
+   "q_ur": "جب برف کو 0°C سے نیچے ٹھنڈا کیا جاتا ہے تو وہ",
+   "options": [
+    {
+     "k": "A",
+     "en": "Contracts",
+     "ur": "سکڑتی ہے"
+    },
+    {
+     "k": "B",
+     "en": "Expand",
+     "ur": "پھیلتی ہے"
+    },
+    {
+     "k": "C",
+     "en": "Melt",
+     "ur": "پگھلتی ہے"
+    },
+    {
+     "k": "D",
+     "en": "Evaporate",
+     "ur": "بخارات بنتی ہے"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "In solids, heat is transferred by.",
+   "q_ur": "ٹھوس اجسام میں انتقال حرارت کا طریقہ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Radiation",
+     "ur": "ریڈی ایشن"
+    },
+    {
+     "k": "B",
+     "en": "Conduction",
+     "ur": "کنڈکشن"
+    },
+    {
+     "k": "C",
+     "en": "Convection",
+     "ur": "کنویکشن"
+    },
+    {
+     "k": "D",
+     "en": "Absorption",
+     "ur": "ابزاپشن"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Which one of the following is the smallest quantity ?",
+   "q_ur": "درج ذیل میں سے کونسی مقدار سب سے چھوٹی ہے ؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.01 g",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2 mg",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "100 μg",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5000 ng",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "A train is moving at a speed of 36 Kmh⁻¹ . Its speed expressed in ms⁻¹ is",
+   "q_ur": "ایک ٹرین 36 Kmh⁻¹ کی سپیڈ سے حرکت کر رہی ہے۔ ms⁻¹ میں اس کی سپیڈ کیا ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "10 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "20 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "25 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "30 ms⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Inertia depends upon.",
+   "q_ur": "انرشیا کا انحصار ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Force",
+     "ur": "فورس"
+    },
+    {
+     "k": "B",
+     "en": "Net force",
+     "ur": "نیٹ فورس"
+    },
+    {
+     "k": "C",
+     "en": "Mass",
+     "ur": "ماس"
+    },
+    {
+     "k": "D",
+     "en": "Velocity",
+     "ur": "ولاسٹی"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "A string is stretched by two equal and opposite forces of 20 N each, the tension in the string is.",
+   "q_ur": "ایک ڈوری کو دو برابر اور مخالف فورسز، ہر ایک کی مقدار 20 N کی مدد سے کھینچا جا رہا ہے، ڈوری میں ٹینشن ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": "صفر"
+    },
+    {
+     "k": "B",
+     "en": "5 N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10 N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "20 N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "A couple is formed by.",
+   "q_ur": "ایک کپل عمل میں آتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Two forces perpendicular to each other",
+     "ur": "دو ایک دوسرے پر عمودی فورسز"
+    },
+    {
+     "k": "B",
+     "en": "Two like parallel forces",
+     "ur": "دو لائیک پیرالل فورسز"
+    },
+    {
+     "k": "C",
+     "en": "Two equal and opposite forces in the same line",
+     "ur": "دو ایک ہی لائن پر عمل کرنے والی مساوی اور مخالف فورسز"
+    },
+    {
+     "k": "D",
+     "en": "Two equal and opposite forces not in the same line",
+     "ur": "دو برابر اور مخالف فورسز ایک ہی لائن پر عمل نہ کرنے والی"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "The value of 'g' at the height one Earth's radius above the surface of the earth is.",
+   "q_ur": "'g' کی قیمت سطح زمین سے زمین کے ریڈیئس کے مساوی بلندی پر ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "2 g",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/2 g",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/3 g",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/4 g",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "The work done in lifting a brick of mass 2 kg through a height of 5 m above the ground will be.",
+   "q_ur": "2 کلوگرام کی ایک اینٹ زمین سے 5 m کی بلندی تک لے جانے میں کیا ورک ہوگا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "10 J",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "100 J",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3.5 J",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1000 J",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "The speed of light is.",
+   "q_ur": "روشنی کی رفتار ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "3 x 10⁹ ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3 x 10¹⁰ ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3 x 10⁸ ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3 x 10¹⁸ ms⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "What should be the approximate length of a glass tube to construct a water barometer ?",
+   "q_ur": "پانی کا بیرومیٹر بنانے کیلیے شیشے کی ٹیوب کی لمبائی اندازاً کتنی ہونی چاہیے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "11 m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1 m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2.5 m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,850 @@
+{
+ "board": "BISE Bahawalpur",
+ "board_slug": "bahawalpur",
+ "class": "10th",
+ "subject": "Mathematics",
+ "year": 2023,
+ "slug": "bahawalpur-10th-mathematics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The measure of the External Angle of a Regular Hexagon is :",
+   "q_ur": "ایک منتظم مسدس کے بیرونی زاویے کی مقدار ہوتی ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "π/6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π/5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Out of two Congruent Arcs of a circle, if One Arc makes a central angle of 30⁰, then the other Arc will subtend the central angle of :",
+   "q_ur": "ایک دائرے کی دو متماثل قوسوں میں سے اگر ایک قوس کا مرکزی زاویہ 30o ہو تو دوسری کا مرکزی زاویہ ------ ہوتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "30⁰",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "45⁰",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "60⁰",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "15⁰",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Tangents drawn at the ends of Diameter of a Circle are ------ to each other :",
+   "q_ur": "دائرے کے قطر کے سروں پر کھینچے گئے مماس آپس میں ------ ہوتے ہیں :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Collinear",
+     "ur": "ہم خط"
+    },
+    {
+     "k": "B",
+     "en": "Non-Parallel",
+     "ur": "غیر متوازی"
+    },
+    {
+     "k": "C",
+     "en": "Parallel",
+     "ur": "متوازی"
+    },
+    {
+     "k": "D",
+     "en": "Perpendicular",
+     "ur": "عمود"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Radii of a Circle are :",
+   "q_ur": "ایک ہی دائرے کے رداس ہیں :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Half of any Chord",
+     "ur": "کسی بھی وتر سے آدھے"
+    },
+    {
+     "k": "B",
+     "en": "Double of the Diameter",
+     "ur": "قطر سے دوگنا"
+    },
+    {
+     "k": "C",
+     "en": "All Unequal",
+     "ur": "تمام غیر برابر"
+    },
+    {
+     "k": "D",
+     "en": "All Equal",
+     "ur": "تمام برابر"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "SecθCotθ = ------ ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/Sinθ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/Cosθ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Sinθ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Sinθ/Cosθ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "A Histogram is a set of adjacent :",
+   "q_ur": "کالی نقشہ مجموعہ ہے مشتمل :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Circles",
+     "ur": "دائروں کا"
+    },
+    {
+     "k": "B",
+     "en": "Squares",
+     "ur": "مربعوں کا"
+    },
+    {
+     "k": "C",
+     "en": "Rectangles",
+     "ur": "مستطیلوں کا"
+    },
+    {
+     "k": "D",
+     "en": "Rows",
+     "ur": "قطاروں کا"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The spread or scatterness of observations in a data set is called :",
+   "q_ur": "کسی مواد میں مادت کا پھیلاؤ کہلاتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Average",
+     "ur": "اوسط"
+    },
+    {
+     "k": "B",
+     "en": "Dispersion",
+     "ur": "انتشار"
+    },
+    {
+     "k": "C",
+     "en": "Central Tendency",
+     "ur": "مرکزی رجحان"
+    },
+    {
+     "k": "D",
+     "en": "Mode",
+     "ur": "عادہ"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Point (-1,4) lies in the Quadrant :",
+   "q_ur": "نقطہ (-1,4) ربع میں واقع ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "II",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "III",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "IV",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "I",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Power Set of any empty set is :",
+   "q_ur": "خالی سیٹ کا پاور سیٹ ہوتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "{a}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{φ}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{φ, {a}}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "φ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "A Fraction in which the Degree of Numerator is less than the degree of the Denominator is called :",
+   "q_ur": "کسر جس میں شمار کنندہ کی ڈگری مخرج کی ڈگری سے کم ہو ------ کہلاتی ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "An Equation",
+     "ur": "مساوات"
+    },
+    {
+     "k": "B",
+     "en": "An Identity",
+     "ur": "مماثلت"
+    },
+    {
+     "k": "C",
+     "en": "An Improper Fraction",
+     "ur": "غیر واجب کسر"
+    },
+    {
+     "k": "D",
+     "en": "A Proper Fraction",
+     "ur": "واجب کسر"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The Third Proportion of x² and y² is :",
+   "q_ur": "x² اور y² کا تیسرا تناسب ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "y²/x²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x²y²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "y⁴/x²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "y²/x⁴",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "In a Ratio x : y, 'y' is called :",
+   "q_ur": "نسبت x : y میں 'y' کہلاتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Consequent",
+     "ur": "دوسری رقم"
+    },
+    {
+     "k": "B",
+     "en": "Relation",
+     "ur": "تعلق"
+    },
+    {
+     "k": "C",
+     "en": "Antecedent",
+     "ur": "پہلی رقم"
+    },
+    {
+     "k": "D",
+     "en": "Proportion",
+     "ur": "تناسب"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "If α, β are the roots of the equation x² - x - 1 = 0, then product of the roots 2α and 2β is :",
+   "q_ur": "اگر α, β مساوات x² - x - 1 = 0 کے روٹس ہوں تو 2α اور 2β کا حاصل ضرب ہوتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "-2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "Product of Cube Roots of Unity is :",
+   "q_ur": "اکائی کے جزر المکعب کا حاصل ضرب ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "The number of Methods to solve a Quadratic Equation is :",
+   "q_ur": "دو درجی مساوات کو حل کرنے کے کتنے طریقے ہیں :",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group 2nd",
+   "q_en": "The measure of the External Angles of a Regular Octagon is :",
+   "q_ur": "ایک منتظم مثمن کے بیرونی زاویوں کی مقدار ہوتی ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "π/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π/8",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group 2nd",
+   "q_en": "A 4cm long chord subtends a Central Angle of 60⁰ the radial segment of this circle is :",
+   "q_ur": "ایک 4cm لمبا وتر والا قوس مرکز پر 60⁰ کا زاویہ بناتا ہے دائرے کا رداس ہوگا :",
+   "options": [
+    {
+     "k": "A",
+     "en": "4 cm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3 cm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2 cm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1 cm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group 2nd",
+   "q_en": "A Circle has only one ------ :",
+   "q_ur": "ایک دائرے کا صرف ایک ہی ------ ہوتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Secant",
+     "ur": "خط قاطع"
+    },
+    {
+     "k": "B",
+     "en": "Centre",
+     "ur": "مرکز"
+    },
+    {
+     "k": "C",
+     "en": "Diameter",
+     "ur": "قطر"
+    },
+    {
+     "k": "D",
+     "en": "Chord",
+     "ur": "وتر"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group 2nd",
+   "q_en": "A Complete Circle is divided into :",
+   "q_ur": "مکمل دائرے کو تقسیم کیا جاتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "90⁰",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "180⁰",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "270⁰",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "360⁰",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group 2nd",
+   "q_en": "SecθCotθ = ------ ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sinθ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/Cosθ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/Sinθ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Sinθ/Cosθ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group 2nd",
+   "q_en": "Sum of the Deviations of the variable 'x' from its Mean is always ------ :",
+   "q_ur": "کسی متغیر 'x' کا اس کے حسابی اوسط سے انحراف کا مجموعہ ہمیشہ ------ ہوتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Same",
+     "ur": "ایک جیسا"
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group 2nd",
+   "q_en": "The most frequent occuring observation in a data set is called :",
+   "q_ur": "کسی مواد میں سب سے زیادہ دہرائے جانے والی مد کہلاتی ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Arithmatic Mean",
+     "ur": "حسابی اوسط"
+    },
+    {
+     "k": "B",
+     "en": "Median",
+     "ur": "وسطانیہ"
+    },
+    {
+     "k": "C",
+     "en": "Harmonic Mean",
+     "ur": "ہارمونک اوسط"
+    },
+    {
+     "k": "D",
+     "en": "Mode",
+     "ur": "عادہ"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group 2nd",
+   "q_en": "If A ⊆ B then A ∪ B is equal to :",
+   "q_ur": "اگر A ⊆ B تو A ∪ B برابر ہوتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "B",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "φ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A ∩ B",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group 2nd",
+   "q_en": "The different number of ways to describe a Set are :",
+   "q_ur": "سیٹ کو بیان کرنے کے مختلف طریقوں کی تعداد ہوتی ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group 2nd",
+   "q_en": "Partial Fractions of (x - 2)/((x - 1)(x + 2)) are of the form :",
+   "q_ur": "(x - 2)/((x - 1)(x + 2)) کی جزوی کسور ------ قسم کی ہوتی ہیں :",
+   "options": [
+    {
+     "k": "A",
+     "en": "A/(x - 1) + B/(x + 2)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ax/(x - 1) + B/(x + 2)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A/(x - 1) + (Bx + C)/(x + 2)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(Ax + B)/(x - 1) + C/(x + 2)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group 2nd",
+   "q_en": "In a Proportion a : b :: c : d, b and c are called :",
+   "q_ur": "تناسب a : b :: c : d میں b اور c کہلاتے ہیں :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Extremes",
+     "ur": "طرفین"
+    },
+    {
+     "k": "B",
+     "en": "Fourth Proportional",
+     "ur": "چوتھا تناسب"
+    },
+    {
+     "k": "C",
+     "en": "Third Proportional",
+     "ur": "تیسرا تناسب"
+    },
+    {
+     "k": "D",
+     "en": "Means",
+     "ur": "وسطین"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group 2nd",
+   "q_en": "If y² ∝ 1/x³ then :",
+   "q_ur": "اگر y² ∝ 1/x³ تو :",
+   "options": [
+    {
+     "k": "A",
+     "en": "y² = 1/x³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "y² = x²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "y² = k/x³",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "y² = kx³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group 2nd",
+   "q_en": "Sum of the Cube Roots of Unity is :",
+   "q_ur": "اکائی کے جزر المکعب کا مجموعہ ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group 2nd",
+   "q_en": "The Discriminant of ax² + bx + c = 0 is :",
+   "q_ur": "مساوات ax² + bx + c = 0 کا فرق کنندہ ہوتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "b² - 4ac",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "b² + 4ac",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-b² + 4ac",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-b² - 4ac",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group 2nd",
+   "q_en": "The Solution Set of the equation 4x² - 16 = 0 is :",
+   "q_ur": "مساوات 4x² - 16 = 0 کا حل سیٹ ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "{± 4}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{4}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "± 2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "± 2",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

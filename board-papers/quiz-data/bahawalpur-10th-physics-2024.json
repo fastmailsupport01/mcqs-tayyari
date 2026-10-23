@@ -1,0 +1,682 @@
+{
+ "board": "BISE Bahawalpur",
+ "board_slug": "bahawalpur",
+ "class": "10th",
+ "subject": "Physics",
+ "year": 2024,
+ "slug": "bahawalpur-10th-physics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Which form of Energy is Sound :",
+   "q_ur": "ساؤنڈ انرجی کی کونسی قسم ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mechanical",
+     "ur": "مکینیکل"
+    },
+    {
+     "k": "B",
+     "en": "Electrical",
+     "ur": "الیکٹریکل"
+    },
+    {
+     "k": "C",
+     "en": "Thermal",
+     "ur": "تھرمل"
+    },
+    {
+     "k": "D",
+     "en": "Chemical",
+     "ur": "کیمیکل"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "If T = 1.99 Sec then Frequency is :",
+   "q_ur": "اگر T = 1.99 Sec ہو تو فریکوئنسی ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.50 Hz",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.60 Hz",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.40 Hz",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.30 Hz",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The relation between v, f and λ of a Wave is :",
+   "q_ur": "ایک ویو کی ولاسٹی، فریکوئنسی اور ویولینتھ کے درمیان تعلق ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "v f = λ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "f λ = v",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "v λ = f",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "v = λ/f",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The speed of Sound at 0°C is :",
+   "q_ur": "ساؤنڈ کی سپیڈ 0°C پر ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "386 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "376 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "231 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "331 ms⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Electric Field Lines always :",
+   "q_ur": "الیکٹرک فیلڈ لائنز ہمیشہ :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Always cross each other",
+     "ur": "ایک دوسرے کو عبور کر سکتی ہیں"
+    },
+    {
+     "k": "B",
+     "en": "Cross each other in the region of weak field",
+     "ur": "کم فیلڈ والے علاقے میں ایک دوسرے کو عبور کرتی ہیں"
+    },
+    {
+     "k": "C",
+     "en": "Cross each other in the region of strong field",
+     "ur": "زیادہ فیلڈ والے علاقے میں ایک دوسرے کو عبور کرتی ہیں"
+    },
+    {
+     "k": "D",
+     "en": "Never cross each other",
+     "ur": "ایک دوسرے کو عبور نہیں کر سکتی"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Snell's Law is :",
+   "q_ur": "سنیل کا قانون ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "n = Sin r",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "n = Sin r / Sin i",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "n = Sin i / Sin r",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "n = Sin i",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The Index of Refraction depends on :",
+   "q_ur": "انڈیکس آف ریفریکشن کا انحصار کس پر ہوتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Focal length",
+     "ur": "فوکل لینتھ"
+    },
+    {
+     "k": "B",
+     "en": "The speed of light",
+     "ur": "روشنی کی سپیڈ"
+    },
+    {
+     "k": "C",
+     "en": "The image distance",
+     "ur": "امیج کا فاصلہ"
+    },
+    {
+     "k": "D",
+     "en": "The object distance",
+     "ur": "جسم کا فاصلہ"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "What is the Power rating of a Lamp connected to a 12V source when it carries 2.5A :",
+   "q_ur": "12V کے سورس سے جوڑے گئے ایک لیمپ کی پاور کی شرح کیا ہو گی جبکہ اس میں سے 2.5 A کرنٹ بہہ رہا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "30 W",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "14.5 W",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4.8 W",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "60 W",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The Brain of any Computer System is :",
+   "q_ur": "کسی بھی کمپیوٹر سسٹم کا دماغ ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Monitor",
+     "ur": "مونیٹر"
+    },
+    {
+     "k": "B",
+     "en": "Memory",
+     "ur": "میموری"
+    },
+    {
+     "k": "C",
+     "en": "Control Unit",
+     "ur": "کنٹرول یونٹ"
+    },
+    {
+     "k": "D",
+     "en": "CPU",
+     "ur": "سی پی یو"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "If X = A.B, then X is '1' when :",
+   "q_ur": "اگر X = A.B ، تو X لیول '1' پر ہو گی اگر :",
+   "options": [
+    {
+     "k": "A",
+     "en": "A is '0' and B is '1'",
+     "ur": "A = 0 اور B = 1"
+    },
+    {
+     "k": "B",
+     "en": "A or B is '0'",
+     "ur": "A = 0 یا B = 0"
+    },
+    {
+     "k": "C",
+     "en": "A and B are '1'",
+     "ur": "A = 1 اور B = 1"
+    },
+    {
+     "k": "D",
+     "en": "A is '1' and B is '0'",
+     "ur": "A = 1 اور B = 0"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The turn ratios of a Transformer is 10. It means :",
+   "q_ur": "اگر ٹرانسفارمر کے چکرون کی نسبت 10 ہو تو :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Is = 10 Ip",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ns = 10 Np",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ns = Np/10",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Vs = Vp/10",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Release of Energy by the Sun is due to :",
+   "q_ur": "سورج کس عمل کے ذریعے انرجی خارج کرتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nuclear Fission",
+     "ur": "نیوکلیئر فشن"
+    },
+    {
+     "k": "B",
+     "en": "Nuclear Fusion",
+     "ur": "نیوکلیئر فیوژن"
+    },
+    {
+     "k": "C",
+     "en": "Burning of Gasses",
+     "ur": "گیسز کے جلنے کی وجہ سے"
+    },
+    {
+     "k": "D",
+     "en": "Chemical Reaction",
+     "ur": "کیمیکل ری ایکشن کے ذریعے"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Which device can be used to produce both Transverse and Longitudinal Waves :",
+   "q_ur": "کونسا آلہ ٹرانسورس اور لونگیٹیوڈنل دونوں ویوز پیدا کرنے کے لیے استعمال کیا جا سکتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "A string",
+     "ur": "ڈوری"
+    },
+    {
+     "k": "B",
+     "en": "A ripple tank",
+     "ur": "رپل ٹینک"
+    },
+    {
+     "k": "C",
+     "en": "A helical spring (Slinky)",
+     "ur": "سلنکی"
+    },
+    {
+     "k": "D",
+     "en": "A tuning Fork",
+     "ur": "ٹیوننگ فورک"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Five Joules of work is needed to shift 10 C of charge from one place to another. The Potential Difference between the places is :",
+   "q_ur": "ایک 10 C کے چارج کو ایک جگہ سے دوسری جگہ لے جانے کے لیے پانچ جول ورک کرنا پڑتا ہے۔ ان دونوں مقامات کے درمیان پوٹینشل ڈفرنس ہو گا :",
+   "options": [
+    {
+     "k": "A",
+     "en": "2V",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.5V",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5V",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10V",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "An object is 14 cm in front of a convex mirror. The image is 5.8 cm behind the mirror. What is the focal length of the mirror :",
+   "q_ur": "ایک جسم کنویکس مرر کے سامنے 14 cm کے فاصلے پر پڑا ہے۔ ایمیج مرر کے پیچھے 5.8 cm پر بنتی ہے، مرر کی فوکل لینتھ کیا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "–4.1 cm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "–8.2 cm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "–20 cm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "–9.9 cm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "How does sound travel from its source to your ears :",
+   "q_ur": "ساؤنڈ پیدا ہونے والے جسم سے آپ تک کیسے پہنچتی ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "By changes in Air Pressure",
+     "ur": "ہوا کے دباؤ میں تبدیلی کی وجہ سے"
+    },
+    {
+     "k": "B",
+     "en": "By Vibration in wire or string",
+     "ur": "تار یا ڈوری کی وائبریشن سے"
+    },
+    {
+     "k": "C",
+     "en": "By Electromagnetic Waves",
+     "ur": "الیکٹرو میگنیٹک ویوز کی بدولت"
+    },
+    {
+     "k": "D",
+     "en": "By Infrared waves",
+     "ur": "انفراریڈ ویوز کی بدولت"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Combined resistance of two identical resistors connected in series is 8Ω. The combined resistance in a parallel arrangement will be :",
+   "q_ur": "سیریز طریقے سے جوڑے گئے دو ایک جیسے رزسٹرز کی رزسٹنس کا مجموعہ 8Ω ہے۔ پیرالل طریقے سے جوڑنے سے ان کی رزسٹنس کا مجموعہ ہو گا :",
+   "options": [
+    {
+     "k": "A",
+     "en": "2 Ω",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4 Ω",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8 Ω",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "12 Ω",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "What does the term E-mail stand for :",
+   "q_ur": "ای میل کس شے کا مخفف ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Emergency mail",
+     "ur": "ایمرجنسی میل"
+    },
+    {
+     "k": "B",
+     "en": "Extra mail",
+     "ur": "ایکسٹرا میل"
+    },
+    {
+     "k": "C",
+     "en": "Electronic mail",
+     "ur": "الیکٹرانک میل"
+    },
+    {
+     "k": "D",
+     "en": "External mail",
+     "ur": "ایکسٹرنل میل"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "If X = A.B , then X is '1' when :",
+   "q_ur": "اگر X = A.B ، تو X لیول '1' پر ہو گی اگر :",
+   "options": [
+    {
+     "k": "A",
+     "en": "A and B are '1'",
+     "ur": "A = 1 اور B = 1"
+    },
+    {
+     "k": "B",
+     "en": "A or B is '0'",
+     "ur": "A = 0 یا B = 0"
+    },
+    {
+     "k": "C",
+     "en": "A is '0' and B is '1'",
+     "ur": "A = 0 اور B = 1"
+    },
+    {
+     "k": "D",
+     "en": "A is '1' and B is '0'",
+     "ur": "A = 1 اور B = 0"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "If the current in the wire which is placed perpendicular to a Magnetic Field increases, the force on the wire :",
+   "q_ur": "اگر میگنیٹک فیلڈ میں عموداً رکھی ہوئی وائر میں بہنے والے کرنٹ کی مقدار کو بڑھایا جائے تو وائر پر عمل کرنے والی میگنیٹک فورس :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Increases",
+     "ur": "بڑھے گی"
+    },
+    {
+     "k": "B",
+     "en": "Decreases",
+     "ur": "کم ہو گی"
+    },
+    {
+     "k": "C",
+     "en": "Remains the same",
+     "ur": "تبدیل نہیں ہو گی"
+    },
+    {
+     "k": "D",
+     "en": "Will be zero",
+     "ur": "صفر ہو گی"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "One of the Isotopes of Uranium is ²³⁸₉₂U. The number of Neutrons in this Isotope is :",
+   "q_ur": "یورینیم کا ایک آئسوٹوپ ²³⁸₉₂U ہے۔ اس آئسوٹوپ میں نیوٹرونز کی تعداد ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "92",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "146",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "238",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "330",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Which are the facts that are used by Programs to produce useful information :",
+   "q_ur": "وہ کون سے حقائق ہیں جن سے بذریعہ پروگرامز کو اثر انداز انفارمیشن حاصل کی جاتی ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hardware",
+     "ur": "ہارڈویئر"
+    },
+    {
+     "k": "B",
+     "en": "Software",
+     "ur": "سافٹ ویئر"
+    },
+    {
+     "k": "C",
+     "en": "Data",
+     "ur": "ڈیٹا"
+    },
+    {
+     "k": "D",
+     "en": "Programs",
+     "ur": "پروگرامز"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "A Practical Application of mutual induction is :",
+   "q_ur": "میوچوئل انڈکشن کا عملی اطلاق ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electric Motor",
+     "ur": "الیکٹرک موٹر"
+    },
+    {
+     "k": "B",
+     "en": "Generator",
+     "ur": "جنریٹر"
+    },
+    {
+     "k": "C",
+     "en": "Diode",
+     "ur": "ڈائی اوڈ"
+    },
+    {
+     "k": "D",
+     "en": "Transformer",
+     "ur": "ٹرانسفارمر"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Ohm's Law is applicable to :",
+   "q_ur": "اوہم کے قانون کا اطلاق ہوتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Liquids",
+     "ur": "مائعات"
+    },
+    {
+     "k": "B",
+     "en": "Gasses",
+     "ur": "گیسیز"
+    },
+    {
+     "k": "C",
+     "en": "Liquid Conductors only",
+     "ur": "صرف مائع کنڈکٹرز پر"
+    },
+    {
+     "k": "D",
+     "en": "Metallic Conductors only",
+     "ur": "صرف میٹلک کنڈکٹرز پر"
+    }
+   ]
+  }
+ ]
+}

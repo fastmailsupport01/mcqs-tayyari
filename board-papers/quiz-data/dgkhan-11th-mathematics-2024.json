@@ -1,0 +1,1130 @@
+{
+ "board": "BISE DG Khan",
+ "board_slug": "dgkhan",
+ "class": "11th",
+ "subject": "Mathematics",
+ "year": 2024,
+ "slug": "dgkhan-11th-mathematics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Factorial form of (n+1) (n) (n-1) is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(n+1)!/(n-2)!",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(n-2)!/(n+1)!",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(n+1)!/n!",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "n!/(n+1)!",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "(2 + i)² ÷ (2 – i)² = ----------------",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4 i",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8 i",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6 i",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10 i",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Value of sin² π / 4 + cos² π / 4 = ----------------",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/√2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Sec (π/2 – θ) = ----------------",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "- sec θ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "- cosec θ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "sec θ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "cosec θ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Period of cosec x is ----------------",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2 π",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3 π",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Radius of escribed circle opposite to vertex A of triangle is -------------",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Δ/s",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Δ/(s–a)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Δ/(s–b)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Δ/(s–c)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Cos x = 1/2 , then x = -------------",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π/6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Sin (Cos⁻¹ √3/2 ) = -----------------------",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π/6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2/√3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "1 is not -------------- number",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Odd",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Real",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Prime",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Rational",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Multiplicative inverse of complex number (0,1)",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(0 , -1)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(-1 , 0)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(1 , 0)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(0 , 1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Set G is closed and associative with respect to binary operation, then set G is called",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Groupoid",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Semi-Group",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Monoid",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Group",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Disjunction of two statements p and q is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "p ∧ q",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "p ∨ q",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "p → q",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "p ↔ q",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Tabular form of { x | x ∈ N ∧ x + 4 = 0 } is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "{ }",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{0}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{-4}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{0,4}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "A square matrix A is symmetric if Aᵗ =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Aᵗ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "- Aᵗ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "- A",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "If order of matrix A is 2 x 5 and order of B is 5 x 7 , then order of AB is --------------",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5 x 2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "7 x 5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7 x 2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2 x 7",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "α , β are roots of x² +2x+1= 0 , then α²+β² = --------------",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "If ω is cube root of unity, then (1+ ω+ ω²)² = ----------------",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ω",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ω²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group I",
+   "q_en": "2/(x²–1) = 1/(x–1) + B/(x+1) , then value of B is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group I",
+   "q_en": "Sum the series 1+ 9/10 + 81/100 + -----------",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "9",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "9/10",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10/9",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group I",
+   "q_en": "5ᵗʰ term of sequence whose general term is aₙ = n + (-1)ⁿ is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Number of necklaces can be made from 6 beads",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "720",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "120",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "90",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "60",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Middle term in expansion of (3 + x)⁴ is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "81 x²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "54 x²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "26 x²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "108 x²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "One degree is equal to ................ radian",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "180/π",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/180",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/90",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "cot (90 - α) = ....................",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "tan α",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "- tan α",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "cot α",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "- cot α",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Period of sin x/3 is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2 π",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2π/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6 π",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3 π",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "cos α/2 = ....................",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "s(s-a)/bc",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "s(s-b)/ac",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√(s(s-a)/bc)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√(s(s-b)/ac)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "sec (cos⁻¹ 1/2) = --------------",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π/6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "If cos x = - √3/2 , then value of x is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5π/6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−π/3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "a < b ⇒ - a > - b , a , b ∈ R property used is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Transitive",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Additive",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Multiplicative",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Trichotomy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "If Z = 1 – i , then |Z| = ....................",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√−2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "A and B are disjoint sets then",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A ∩ B = ∅",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A ∪ B = ∅",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A - B = ∅",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "B - A = ∅",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Tabular form of { x | x ∈ E ∧ 2 < x ≤ 4}",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "{2 , 3 , 4}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{2 , 4}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{4}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{ ∅ }",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "The set A has m elements , Number of elements in power set of A",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2ᵐ⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2ᵐ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2ᵐ⁺¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2ᵐ/²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "Rank of the matrix [1 1; 1 1] is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "- 1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "Determinant of [-5] is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Not possible",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "- 5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "α , β are roots of ax² – bx + c = 0 , then α + β = --------------",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "b/a",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "- b/a",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "c/a",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "- c/a",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "If polynomial x² – 2x + 2 is divided by x – 1 , then remainder is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group II",
+   "q_en": "Partial fraction of x/((x−1)(x+2)) = 1/(3(x−1)) + B/(x+2) , then value of B is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-3/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2/3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-2/3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group II",
+   "q_en": "Sum of n-arithmatic means between a and b is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(a+b)/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "n(a+b)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(a+b)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "n((a+b)/2)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group II",
+   "q_en": "Next term of sequence 7 , 9 , 12 , ................ Is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "14",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "15",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "16",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "18",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

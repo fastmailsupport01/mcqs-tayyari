@@ -1,0 +1,962 @@
+{
+ "board": "BISE DG Khan",
+ "board_slug": "dgkhan",
+ "class": "12th",
+ "subject": "Physics",
+ "year": 2024,
+ "slug": "dgkhan-12th-physics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "A particle of mass m and charge q is released from rest in a uniform of electric field E. The K.E attained by the particle after moving a distance ' d ' is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ed/q",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "qE²d",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "qEd",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "qE/d²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Two charges are placed at a certain distance a part in vacuum. If a dielectric slab is placed between them , the force between them",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Will increase",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Will decrease",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Will remain unchanged",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "May increase or decrease depending on the material of the slab",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "If the current passing through a conductor is reduced to half, then heat produced becomes",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2 times",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Remains the same",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/4 times",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Becomes half",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Weber ampere per meter is equal to",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Joule",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Newton",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Tesla",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Henry",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "An electron is moving in a circle of radius ' r ' in a uniform magnetic field B suddenly the field is reduced to B/2 .The radius of circle now becomes",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "r/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "r/4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2 r",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4/r",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Which of the following quantity remains unchanged in a transformer ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Voltage",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Current",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Power",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Frequency",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Maximum motional emf in a conductor is given by ' vBL '. At which angle the conductor moves in magnetic field such that emf in it becomes half then its maximum value",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0⁰",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "30⁰",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "45⁰",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "60⁰",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "In R-L-C series circuit the phase angle between X_L and X_C is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Tan⁻¹(WL/R)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Tan⁻¹(1/wRC)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Tan⁻¹(Z/R)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The power factor of an A.C circuit has",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "SI unit ampere",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "SI unit volt",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "SI unit watt",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Curie temperature for iron is about",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "750 K",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "570 K",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1023 K",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "378 K",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The value of input resistance of op – amp is of the order of",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Few Ohms",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Milli Ohms",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Kilo Ohms",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mega Ohms",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "A device which converts a physical quantity into voltage is called a",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sensor",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Inverter",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Amplifier",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Photodiode",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "We can never accurately describe all aspects of subatomic particles simultaneously. It is correct according to",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Uncertainty principle",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "de – Broglie theory",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Einstein theory",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Photoelectric effect",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "If one photon is obtained in annihilation of matter then which of the following conservation law not hold",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Energy",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Momentum",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Charge",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All these law would not hold",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "In the Bohr's model of the hydrogen atom , the lowest orbit corresponds to",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Infinite energy",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Maximum energy",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Minimum energy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero energy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "Mass equivalent of 931 Mev energy is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "6.02 × 10⁻³¹ Kg",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.66 × 10⁻²⁷ Kg",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.67 × 10⁻²⁷ Kg",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6.02 × 10⁻²⁷ Kg",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "If energy of γ-radiation is less than 0.5 Mev the dominant process is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Photoelectric effect",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Compton effect",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Pair production",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Black body radiation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "A test charge experiences force due to applied electric field",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Parallel",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Anti - Parallel",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Perpendicular",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Oblique",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Unit +ve charge is placed over a spherical hollow surface, flux crossing it outwards is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/ε₀",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2/ε₀",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2 ε₀",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Heat energy is converted to electrical energy by",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Primary cells",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Thermo-couples",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Solar cells",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Generators",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "A high speed graph plotting device is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Voltmeter",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Galvanometer",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ammeter",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "C.R.O",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Lamp and scale arrangement is used in galvanometers to measure deflection",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Stable",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Dead beat",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Sensitive",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Astatic",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "The behaviour is like resistors in alternating current",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Capacitor",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Motor",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Inductor",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Generator",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "A transformer with many secondary coils is used for",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Door bell",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "TV receiver",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Power transmission",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Transistor radio",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "An alternating quantity can be represented by a",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Static vector",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Rotating vector",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Scalar",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Straight line",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "At resonance, the voltage of inductor and capacitor in series RLC circuit are",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "In phase",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Out of phase",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Perpendicular",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Oblique",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "The reverse current to reduce the magnetization to zero is called",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Retentive",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Remanance",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Coercive",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Magnetization",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "A fast switching device responding in nano – seconds is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "PN Junction",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Photo diode",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "LED",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Photo – voltaic cell",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "When output of non – inverting amplifier is fed back directly to inverting input, gain is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "R₂/R₁",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "One",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1 - R₂/R₁",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "Second postulate of special theory of relativity is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Wrong",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Virtual",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Experimental fact",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Sometimes correct",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "For low energy quanta, dominant properties are",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Particle nature",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Wave nature",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Dual nature",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Multi nature",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "Longest wavelength of Paschen series is (R_H = Rydberg's constant)",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "9/R_H",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "144/7R_H",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/R_H",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "400/9R_H",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "For a radioactive sample of initial population No, decayed fraction after 4 half – lives is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/16",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "15/16",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "The energy output per nucleon in fusion is greater than energy output per nucleon in fission",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "25 times",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6 to 7 times",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "17 times",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "200 times",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}
