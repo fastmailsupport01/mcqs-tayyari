@@ -1,0 +1,682 @@
+{
+ "board": "BISE Bahawalpur",
+ "board_slug": "bahawalpur",
+ "class": "10th",
+ "subject": "Physics",
+ "year": 2021,
+ "slug": "bahawalpur-10th-physics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The number of Vibrations of a Vibrating Body in one second is called:",
+   "q_ur": "وائبریٹنگ موشن کرتے ہوئے جسم کی ایک سیکنڈ میں وائبریشن کی تعداد کہلاتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Time Period",
+     "ur": "ٹائم پیریڈ"
+    },
+    {
+     "k": "B",
+     "en": "Amplitude",
+     "ur": "ایمپلی ٹیوڈ"
+    },
+    {
+     "k": "C",
+     "en": "Frequency",
+     "ur": "فریکوئنسی"
+    },
+    {
+     "k": "D",
+     "en": "Velocity",
+     "ur": "ولاسٹی"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Sound Travels from its source to your ear by:",
+   "q_ur": "ساؤنڈ پیدا ہونے والے جسم سے آپتک پہنچتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Changes in Air Pressure",
+     "ur": "ہوا کے دباؤ میں تبدیلی کی وجہ سے"
+    },
+    {
+     "k": "B",
+     "en": "Vibration in Wire or Strings",
+     "ur": "تار یا ڈوری کی وائبریشن سے"
+    },
+    {
+     "k": "C",
+     "en": "Electromagnetic Waves",
+     "ur": "الیکٹرو میگنیٹک ویوز کی بدولت"
+    },
+    {
+     "k": "D",
+     "en": "Infrared Waves",
+     "ur": "انفرا ریڈ ویوز کی بدولت"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The correct relation between the Focal Length (f) and Radius of Curvature (R) is:",
+   "q_ur": "فوکل لینتھ (f) اور ریڈیئس آف کرویچر (R) کے درمیان درست تعلق ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "f = R",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "f = 2R",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "f = R/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "f = R/3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "In Total Internal Reflection, entire light is reflected back into:",
+   "q_ur": "ٹوٹل انٹرنل ریفلیکشن میں تمام روشنی ریفلیکٹ ہو کر واپس آتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Rarer Medium",
+     "ur": "لطیف میڈیم میں"
+    },
+    {
+     "k": "B",
+     "en": "Some other Medium",
+     "ur": "کسی دوسرے میڈیم میں"
+    },
+    {
+     "k": "C",
+     "en": "Medium with smaller Refractive Index",
+     "ur": "چھوٹے ریفریکٹیو انڈیکس والے میڈیم میں"
+    },
+    {
+     "k": "D",
+     "en": "Denser Medium",
+     "ur": "کثیف میڈیم میں"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The Coulomb's Law is valid for charges which are:",
+   "q_ur": "کولمب کا قانون موزوں ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Moving and Point Charges",
+     "ur": "حرکت کرتے ہوئے پوائنٹ چارجز کیلئے"
+    },
+    {
+     "k": "B",
+     "en": "Moving and Big Charges",
+     "ur": "حرکت کرتے ہوئے بڑے سائز کے چارجز کیلئے"
+    },
+    {
+     "k": "C",
+     "en": "Stationary and Point Charges",
+     "ur": "ساکن پوائنٹ چارجز کیلئے"
+    },
+    {
+     "k": "D",
+     "en": "Stationary and Large Size Charges",
+     "ur": "ساکن اور بڑے سائز کے چارجز کیلئے"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "1 KWh = _____",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "36 x 10⁵ J",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3.6 x 10⁵ J",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "36 MJ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "360 MJ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The direction of Induced e.m.f. in a Circuit is in accordance with the law of Conservation of:",
+   "q_ur": "انڈیوسڈ ای۔ایم۔ایف۔ کی سمت کس قانون کے مطابق ہوتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Energy",
+     "ur": "انرجی کی کنزرویشن کے قانون کے مطابق"
+    },
+    {
+     "k": "B",
+     "en": "Mass",
+     "ur": "ماس کی کنزرویشن کے قانون کے مطابق"
+    },
+    {
+     "k": "C",
+     "en": "Charge",
+     "ur": "چارج کی کنزرویشن کے قانون کے مطابق"
+    },
+    {
+     "k": "D",
+     "en": "Momentum",
+     "ur": "مومنٹم کی کنزرویشن کے قانون کے مطابق"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "x = overline{A+B} is Boolean Expression for:",
+   "q_ur": "x = overline{A+B} بولین علامت ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "OR Gate",
+     "ur": "آر گیٹ"
+    },
+    {
+     "k": "B",
+     "en": "NOR Gate",
+     "ur": "نار گیٹ"
+    },
+    {
+     "k": "C",
+     "en": "NAND Gate",
+     "ur": "نینڈ گیٹ"
+    },
+    {
+     "k": "D",
+     "en": "NOT Gate",
+     "ur": "ناٹ گیٹ"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The set of instructions and rules to design and use information system is called:",
+   "q_ur": "ہدایات اور قوانین کا مجموعہ جو انفارمیشن سسٹم کو ڈیزائن کرنے اور استعمال کرنے کے لئے بنایا جاتا ہے کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hardware",
+     "ur": "ہارڈویئر"
+    },
+    {
+     "k": "B",
+     "en": "Data",
+     "ur": "ڈیٹا"
+    },
+    {
+     "k": "C",
+     "en": "People",
+     "ur": "افراد"
+    },
+    {
+     "k": "D",
+     "en": "Procedure",
+     "ur": "طریقہ کار"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Atomic Mass Number (A) is equal to number of:",
+   "q_ur": "اٹامک ماس نمبر (A) برابر ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Protons",
+     "ur": "پروٹان کی تعداد کے"
+    },
+    {
+     "k": "B",
+     "en": "Nucleons",
+     "ur": "نیوکلیونز کی تعداد کے"
+    },
+    {
+     "k": "C",
+     "en": "Neutron",
+     "ur": "نیوٹران کی تعداد کے"
+    },
+    {
+     "k": "D",
+     "en": "Electrons",
+     "ur": "الیکٹران کی تعداد کے"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Unit of Intensity Level of Sound is:",
+   "q_ur": "ساؤنڈ کے انٹینسٹی لیول کا یونٹ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Wm⁻²",
+     "ur": "واٹ فی مربع میٹر"
+    },
+    {
+     "k": "B",
+     "en": "dB",
+     "ur": "ڈیسی بل"
+    },
+    {
+     "k": "C",
+     "en": "ms⁻¹",
+     "ur": "میٹر فی سیکنڈ"
+    },
+    {
+     "k": "D",
+     "en": "Hertz",
+     "ur": "ہرٹز"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "What is the power rating of a lamp connected to a 12 V source when it carries 2.5 A current:",
+   "q_ur": "12 V کے سورس سے جڑے گئے ایک لیمپ کی پاور کی شرح کیا ہوگی اگر اس میں سے 2.5 A کرنٹ بہہ رہا ہو:",
+   "options": [
+    {
+     "k": "A",
+     "en": "14.5 W",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "20 W",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "25 W",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "30 W",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Value of Intensity for faintest Audible Sound is:",
+   "q_ur": "مدھمترین اور قابل سماعت آواز کی انٹینسٹی ہوتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "10⁻¹² Wm⁻²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10⁻¹⁰ Wm⁻²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10⁻¹⁰ Wm⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10 Wm⁻²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "S.I. Unit of Capacitance is:",
+   "q_ur": "کیپیسی ٹینس کا S.I. یونٹ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ohm",
+     "ur": "اوہم"
+    },
+    {
+     "k": "B",
+     "en": "Ampere",
+     "ur": "ایمپیئر"
+    },
+    {
+     "k": "C",
+     "en": "Farad",
+     "ur": "فیراڈ"
+    },
+    {
+     "k": "D",
+     "en": "Volt",
+     "ur": "وولٹ"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Electric Power is defined as:",
+   "q_ur": "الیکٹرک پاور کی تعریف اس طرح کی جاتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "IR",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CV",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "QV",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "I²R",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Release of Energy by the Sun is due to:",
+   "q_ur": "سورج سے انرجی خارج ہوتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nuclear Fission",
+     "ur": "نیوکلیئر فشن کے ذریعے"
+    },
+    {
+     "k": "B",
+     "en": "Burning of Gases",
+     "ur": "گیسز کے جلنے کی وجہ سے"
+    },
+    {
+     "k": "C",
+     "en": "Nuclear Fusion",
+     "ur": "نیوکلیئر فیوژن کے ذریعے"
+    },
+    {
+     "k": "D",
+     "en": "Chemical Reaction",
+     "ur": "کیمیکل ری ایکشن کے ذریعے"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "ICT stands for:",
+   "q_ur": "ICT مخفف ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "International Computer Technology",
+     "ur": "انٹرنیشنل کمپیوٹر ٹیکنالوجی"
+    },
+    {
+     "k": "B",
+     "en": "Information and Communication Technology",
+     "ur": "انفارمیشن اینڈ کمیونیکیشن ٹیکنالوجی"
+    },
+    {
+     "k": "C",
+     "en": "Information and Computer Technology",
+     "ur": "انفارمیشن اینڈ کمپیوٹر ٹیکنالوجی"
+    },
+    {
+     "k": "D",
+     "en": "Indian Computer Technology",
+     "ur": "انڈین کمپیوٹر ٹیکنالوجی"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "If X = A·B then 'X' is '1' when:",
+   "q_ur": "اگر X = A·B تو 'X' 'لیول 1' پر ہوگی اگر:",
+   "options": [
+    {
+     "k": "A",
+     "en": "A = 1, B = 1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A = 0, B = 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A = 0, B = 1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A = 1, B = 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "The presence of Magnetic Field can be detected by a:",
+   "q_ur": "میگنیٹک فیلڈ کی موجودگی کا پتہ لگایا جاسکتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Small Mass",
+     "ur": "چھوٹے ماس سے"
+    },
+    {
+     "k": "B",
+     "en": "Stationary Positive Charge",
+     "ur": "ساکن پوزیٹیو چارج سے"
+    },
+    {
+     "k": "C",
+     "en": "Stationary Negative Charge",
+     "ur": "ساکن نیگیٹیو چارج سے"
+    },
+    {
+     "k": "D",
+     "en": "Magnetic Compass",
+     "ur": "میگنیٹک کمپاس سے"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "The property of a substance, which offers opposition to the flow of current through it is called:",
+   "q_ur": "کسی میٹیریل کی وہ خاصیت جو اس میں سے بہنے والے کرنٹ کے خلاف مزاحمت پیش کرتی ہے کہلاتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Capacitance",
+     "ur": "کیپیسی ٹینس"
+    },
+    {
+     "k": "B",
+     "en": "Resistance",
+     "ur": "رزسٹنس"
+    },
+    {
+     "k": "C",
+     "en": "Electromotive Force",
+     "ur": "الیکٹروموٹیو فورس"
+    },
+    {
+     "k": "D",
+     "en": "Power",
+     "ur": "پاور"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "5 Joules of work is needed to shift 10 C of charge from one place to another, the Potential Difference between the places is:",
+   "q_ur": "ایک 10 C کے چارج کو ایک جگہ سے دوسری جگہ لے جانے کے لئے 5 جول ورک درکار ہوتا ہے۔ ان دونوں مقامات کے درمیان پوٹینشل ڈفرنس ہوگا:",
+   "options": [
+    {
+     "k": "A",
+     "en": "2 V",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10 V",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.5 V",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5 V",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Focal Length for Diverging Lens is:",
+   "q_ur": "ڈائی ورجنگ لینز کے لئے فوکل لینتھ ہوتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Negative",
+     "ur": "نیگیٹیو"
+    },
+    {
+     "k": "B",
+     "en": "Zero",
+     "ur": "صفر"
+    },
+    {
+     "k": "C",
+     "en": "Positive",
+     "ur": "پوزیٹیو"
+    },
+    {
+     "k": "D",
+     "en": "+2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "The loudness of a sound is most closely related to its:",
+   "q_ur": "ساؤنڈ کی لاؤڈنیس کا زیادہ تر انحصار ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Frequency",
+     "ur": "فریکوئنسی پر"
+    },
+    {
+     "k": "B",
+     "en": "Period",
+     "ur": "پیریڈ پر"
+    },
+    {
+     "k": "C",
+     "en": "Wavelength",
+     "ur": "ویولینتھ پر"
+    },
+    {
+     "k": "D",
+     "en": "Amplitude",
+     "ur": "ایمپلی ٹیوڈ پر"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "If the Mass of the Bob of a Pendulum is increased by a factor of 3, the period of the Pendulum's Motion will:",
+   "q_ur": "اگر کسی پینڈلم کی گولی کا ماس تین گنا کردیا جائے تو اس پینڈلم کی موشن کا پیریڈ:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Be increased by a factor of 2",
+     "ur": "دوگنا بڑھ جائے گا"
+    },
+    {
+     "k": "B",
+     "en": "Remains same",
+     "ur": "کوئی فرق نہیں پڑے گا"
+    },
+    {
+     "k": "C",
+     "en": "Be decreased by a factor of 2",
+     "ur": "دوگنا کم ہوجائے گا"
+    },
+    {
+     "k": "D",
+     "en": "Be decreased by a factor of 4",
+     "ur": "چارگنا کم ہوجائے گا"
+    }
+   ]
+  }
+ ]
+}

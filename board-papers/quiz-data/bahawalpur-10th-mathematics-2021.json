@@ -1,0 +1,850 @@
+{
+ "board": "BISE Bahawalpur",
+ "board_slug": "bahawalpur",
+ "class": "10th",
+ "subject": "Mathematics",
+ "year": 2021,
+ "slug": "bahawalpur-10th-mathematics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The number of terms in a Standard Quadratic Equation ax²+bx+c = 0 is:",
+   "q_ur": "دو درجی معیاری مساوات ax²+bx+c = 0 میں رکنوں کی تعداد ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Cube Roots of \"-1\" are:",
+   "q_ur": "\"-1\" کے جذرالمکعب ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "-1,-w,-w²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-1,w,-w²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-1,-w,w²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1,-w,-w²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Two Square Roots of Unity are:",
+   "q_ur": "اکائی کے دو جذرالمربع ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "1,-1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1,w",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1,-w",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "w,w²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "In a Ratio x:y, \"y\" is called:",
+   "q_ur": "نسبت x:y میں \"y\" کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Relation",
+     "ur": "تعلق"
+    },
+    {
+     "k": "B",
+     "en": "Antecedent",
+     "ur": "پہلی رقم"
+    },
+    {
+     "k": "C",
+     "en": "Consequent",
+     "ur": "دوسری رقم"
+    },
+    {
+     "k": "D",
+     "en": "Proportion",
+     "ur": "تناسب"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "If U ∝ V², then:",
+   "q_ur": "اگر U ∝ V² تو:",
+   "options": [
+    {
+     "k": "A",
+     "en": "U = V²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "U = KV²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "UV² = K",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "UV² = 1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Partial Fraction of (x+2)/((x+1)(x²+2)) are of the form:",
+   "q_ur": "(x+2)/((x+1)(x²+2)) کی جزوی کسر ______ کی قسم کی ہوتی ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "A/(x+1) + B/(x²+2)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A/(x+1) + Bx/(x²+2)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(Ax+B)/(x+1) + C/(x²+2)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A/(x+1) + (Bx+C)/(x²+2)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The different number of ways to describe a set are:",
+   "q_ur": "سیٹ کو بیان کرنے کے مختلف طریقوں کی تعداد ہوتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "If A ⊆ B then A − B is equal to:",
+   "q_ur": "اگر A ⊆ B تو A − B برابر ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "A",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "φ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "B",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "B − A",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "A Frequency Polygon is a many sided ______:",
+   "q_ur": "تعددی کثیرالاضلاع کئی پہلوؤں کی ______ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Square",
+     "ur": "مربع"
+    },
+    {
+     "k": "B",
+     "en": "Rectangle",
+     "ur": "مستطیل"
+    },
+    {
+     "k": "C",
+     "en": "Triangle",
+     "ur": "مثلث"
+    },
+    {
+     "k": "D",
+     "en": "Closed Figure",
+     "ur": "بند شکل"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The measure which determines the middlemost observation in a Data Set is called:",
+   "q_ur": "ایسا پیمانہ جو مواد کی درمیانی مد بتائے کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Median",
+     "ur": "وسطانیہ"
+    },
+    {
+     "k": "B",
+     "en": "Mode",
+     "ur": "عادہ"
+    },
+    {
+     "k": "C",
+     "en": "Mean",
+     "ur": "حسابی اوسط"
+    },
+    {
+     "k": "D",
+     "en": "Average",
+     "ur": "اوسط"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Sec²θ = ______:",
+   "q_ur": "Sec²θ = ______:",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 − Sin²θ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1 + tan²θ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1 + Cos²θ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1 − tan²θ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "A Chord passing through the Centre of a Circle is called:",
+   "q_ur": "دائرے کے مرکز سے گزرنے والا وتر کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Radius",
+     "ur": "رداس"
+    },
+    {
+     "k": "B",
+     "en": "Circumference",
+     "ur": "محیط"
+    },
+    {
+     "k": "C",
+     "en": "Diameter",
+     "ur": "قطر"
+    },
+    {
+     "k": "D",
+     "en": "Secant",
+     "ur": "قاطع خط"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "A Line which has only one point in common with a circle is called:",
+   "q_ur": "ایک خط جس کا دائرے کے ساتھ صرف ایک نقطہ مشترک ہو کہتے ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sine of a Circle",
+     "ur": "دائرے کا Sine"
+    },
+    {
+     "k": "B",
+     "en": "Cosine of a Circle",
+     "ur": "دائرے کا Cosine"
+    },
+    {
+     "k": "C",
+     "en": "Secant of a Circle",
+     "ur": "دائرے کا Secant"
+    },
+    {
+     "k": "D",
+     "en": "Tangent of a Circle",
+     "ur": "دائرے کا Tangent"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "A 4cm long chord subtends a Central Angle of 60⁰. The Radial Segment of this circle is ______:",
+   "q_ur": "ایک 4 سم لمبائی والا وتر مرکز پر 60⁰ کا زاویہ بناتا ہے۔ دائرے کا رداس ______ ہوگا:",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "A Line Intersecting a Circle is called:",
+   "q_ur": "دائرے کو قطع کرتا خط کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Secant",
+     "ur": "خط قاطع"
+    },
+    {
+     "k": "B",
+     "en": "Tangent",
+     "ur": "مماس"
+    },
+    {
+     "k": "C",
+     "en": "Chord",
+     "ur": "وتر"
+    },
+    {
+     "k": "D",
+     "en": "Sector",
+     "ur": "سیکٹر"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "The Solution Set of Equation 4x² − 16 = 0 is:",
+   "q_ur": "مساوات 4x² − 16 = 0 کا حل سیٹ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "±2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{±2}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{4}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{±4}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Product of the Cube Roots of Unity is:",
+   "q_ur": "اکائی کے جذرالمکعب کا حاصل ضرب ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "α² + β² is equal to:",
+   "q_ur": "α² + β² برابر ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "(α+β)² − 2αβ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "α² − β²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "α + β",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/α² + 1/β²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Find \"x\" in Proportion 4 : x :: 5 : 15:",
+   "q_ur": "تناسب 4 : x :: 5 : 15 میں \"x\" معلوم کیجئے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "75/4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "12",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "If u/v = v/w = k, then:",
+   "q_ur": "اگر u/v = v/w = k تو:",
+   "options": [
+    {
+     "k": "A",
+     "en": "u = wk²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "u = vk²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "u = w²k",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "u = v²k",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "(2x + 1)/((x + 1)(x − 1)) is ______:",
+   "q_ur": "(2x + 1)/((x + 1)(x − 1)) ایک ______ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "An Improper Fraction",
+     "ur": "غیر واجب کسر"
+    },
+    {
+     "k": "B",
+     "en": "A Proper Fraction",
+     "ur": "واجب کسر"
+    },
+    {
+     "k": "C",
+     "en": "An Equation",
+     "ur": "مساوات"
+    },
+    {
+     "k": "D",
+     "en": "An Identity",
+     "ur": "مماثلت"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "A Set with no element is called:",
+   "q_ur": "سیٹ جس میں کوئی رکن نہ ہو کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Subset",
+     "ur": "قتحی سیٹ"
+    },
+    {
+     "k": "B",
+     "en": "Empty Set",
+     "ur": "خالی سیٹ"
+    },
+    {
+     "k": "C",
+     "en": "Singleton Set",
+     "ur": "یکتائی سیٹ"
+    },
+    {
+     "k": "D",
+     "en": "Super Set",
+     "ur": "سپر سیٹ"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "If A ⊆ B then A ∪ B is equal to:",
+   "q_ur": "اگر A ⊆ B تو A ∪ B برابر ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "φ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "B",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A ∩ B",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Sum of the Deviations of the Variable 'X' from its Mean is always:",
+   "q_ur": "کسی متغیر 'X' کے اس کے حسابی اوسط سے انحراف کا مجموعہ ہمیشہ ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Same",
+     "ur": "ایک جیسا"
+    },
+    {
+     "k": "D",
+     "en": "Different",
+     "ur": "مختلف"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "The Spread of Observations in a Data Set is called:",
+   "q_ur": "کسی مواد میں مات کا پھیلاؤ کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Average",
+     "ur": "اوسط"
+    },
+    {
+     "k": "B",
+     "en": "Dispersion",
+     "ur": "انتشار"
+    },
+    {
+     "k": "C",
+     "en": "Central Tendency",
+     "ur": "مرکزی رجحان"
+    },
+    {
+     "k": "D",
+     "en": "Range",
+     "ur": "سمت"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "If Tanθ = √3 then θ is equal to:",
+   "q_ur": "اگر Tanθ = √3 ہو تو θ = ______:",
+   "options": [
+    {
+     "k": "A",
+     "en": "30⁰",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "45⁰",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "60⁰",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "90⁰",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Line Segment joining any point of the circle to the centre is called ____:",
+   "q_ur": "دائرے کے کسی نقطہ سے مرکز کو ملانے والا قطعہ خط ______ کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Circumference",
+     "ur": "محیط"
+    },
+    {
+     "k": "B",
+     "en": "Diameter",
+     "ur": "قطر"
+    },
+    {
+     "k": "C",
+     "en": "Radius",
+     "ur": "رداس"
+    },
+    {
+     "k": "D",
+     "en": "Radial Segment",
+     "ur": "رداسی قطعہ"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "A Line which has only one point in common with a circle is called ______ of a Circle:",
+   "q_ur": "ایک خط جس کا دائرے کے ساتھ صرف ایک نقطہ مشترک ہو دائرے کا ______ کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sine of a Circle",
+     "ur": "دائرے کا Sine"
+    },
+    {
+     "k": "B",
+     "en": "Cosine of a Circle",
+     "ur": "دائرے کا Cosine"
+    },
+    {
+     "k": "C",
+     "en": "Tangent of a Circle",
+     "ur": "دائرے کا Tangent"
+    },
+    {
+     "k": "D",
+     "en": "Secant of a Circle",
+     "ur": "دائرے کا Secant"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "The measure of the External Angle of a Regular Hexagon is:",
+   "q_ur": "ایک مسدس کے بیرونی زاویے کی مقدار ہوتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "π/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π/6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "A pair of Chords of a circle subtending two congruent central angles is ______:",
+   "q_ur": "دو مماثل مرکزی زاویے جن دو وتروں سے بنتے ہیں وہ آپس میں ______ ہوتے ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Congruent",
+     "ur": "مماثل"
+    },
+    {
+     "k": "B",
+     "en": "Incongruent",
+     "ur": "غیر مماثل"
+    },
+    {
+     "k": "C",
+     "en": "Overlapping",
+     "ur": "متراکب"
+    },
+    {
+     "k": "D",
+     "en": "Parallel",
+     "ur": "متوازی"
+    }
+   ]
+  }
+ ]
+}

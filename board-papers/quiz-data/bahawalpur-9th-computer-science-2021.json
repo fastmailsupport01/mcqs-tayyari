@@ -1,0 +1,570 @@
+{
+ "board": "BISE Bahawalpur",
+ "board_slug": "bahawalpur",
+ "class": "9th",
+ "subject": "Computer Science",
+ "year": 2021,
+ "slug": "bahawalpur-9th-computer-science-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Before Problem Solving, we need to first ------ a problem:",
+   "q_ur": "کسی مسئلہ کو حل کرنے سے پہلے ------ کرنا چاہیے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Analysis",
+     "ur": "تجزیہ"
+    },
+    {
+     "k": "B",
+     "en": "Define",
+     "ur": "تعین"
+    },
+    {
+     "k": "C",
+     "en": "Un-understand",
+     "ur": "سمجھنا"
+    },
+    {
+     "k": "D",
+     "en": "Planning",
+     "ur": "منصوبہ بندی"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "In a Flowchart, Rectangle symbol represents:",
+   "q_ur": "فلوچارٹ میں مستطیل کی علامت ظاہر کرتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Input/Output",
+     "ur": "ان پٹ / آؤٹ پٹ"
+    },
+    {
+     "k": "B",
+     "en": "Decision",
+     "ur": "فیصلہ سازی"
+    },
+    {
+     "k": "C",
+     "en": "Processing",
+     "ur": "پروسیسنگ"
+    },
+    {
+     "k": "D",
+     "en": "Connector",
+     "ur": "کونیکٹر"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Hexadecimal System has total ------ numbers:",
+   "q_ur": "ہیکزا ڈیسیمل نظام میں کل ------ نمبرز ہوتے ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "17",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "16",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "18",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "15",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Primarily there are ------ types of Memory:",
+   "q_ur": "بنیادی طور پر میموری کی ------ اقسام ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The Receiver must be capable of accepting the ------:",
+   "q_ur": "موصول کنندہ ------ قبول کرنے کے قابل ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Protocol",
+     "ur": "پروٹوکول"
+    },
+    {
+     "k": "B",
+     "en": "Message",
+     "ur": "پیغام"
+    },
+    {
+     "k": "C",
+     "en": "Address",
+     "ur": "ایڈریس"
+    },
+    {
+     "k": "D",
+     "en": "Information",
+     "ur": "معلومات"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "TCP/IP model has ------ layers:",
+   "q_ur": "TCP/IP ماڈل کی ------ لیئرز ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "------ is a serious attack on a Computer System:",
+   "q_ur": "------ کمپیوٹر سسٹم پر ایک شدید حملہ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Trade Secret",
+     "ur": "تجارتی راز"
+    },
+    {
+     "k": "B",
+     "en": "Sabotage",
+     "ur": "تخریب کاری"
+    },
+    {
+     "k": "C",
+     "en": "Cyber Crime",
+     "ur": "سائبر کرائم"
+    },
+    {
+     "k": "D",
+     "en": "Patent",
+     "ur": "پیٹنٹ"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The ------ is an amazing tool for Communication:",
+   "q_ur": "------ مواصلات کے لئے حیرت انگیز ذریعہ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Software",
+     "ur": "سافٹ ویئر"
+    },
+    {
+     "k": "B",
+     "en": "Hacking",
+     "ur": "ہیکنگ"
+    },
+    {
+     "k": "C",
+     "en": "Internet",
+     "ur": "انٹرنیٹ"
+    },
+    {
+     "k": "D",
+     "en": "Phishing",
+     "ur": "فشنگ"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The HTML Document begins with the Tag ------:",
+   "q_ur": "ایک HTML ڈاکیومنٹ ------ ٹیگ سے شروع ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "<head>",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "<body>",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "<html>",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "<title>",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Which of the following Tag is used for the most important Heading:",
+   "q_ur": "مندرجہ ذیل میں سے کون سا ٹیگ سب سے اہم ہیڈنگ لکھنے کے لئے استعمال ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "<h1>",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "<h2>",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "<h5>",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "<h3>",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "A well defined problem is the one that does not contain ------:",
+   "q_ur": "ایک واضح مسئلہ میں کوئی نہیں ہوتی ------:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Error",
+     "ur": "غلطی"
+    },
+    {
+     "k": "B",
+     "en": "Validation",
+     "ur": "ویلیڈیشن"
+    },
+    {
+     "k": "C",
+     "en": "Ambiguities",
+     "ur": "غلط فہمی"
+    },
+    {
+     "k": "D",
+     "en": "Picture",
+     "ur": "تصویر"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Before jumping into the solution of the problem, it is important to:",
+   "q_ur": "مسئلہ کو حل کرنے سے پہلے ضروری ہے کہ اسے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Understand a problem",
+     "ur": "مسئلہ سمجھا جائے"
+    },
+    {
+     "k": "B",
+     "en": "Define a Problem",
+     "ur": "مسئلہ تعین کیا جائے"
+    },
+    {
+     "k": "C",
+     "en": "Draw a picture",
+     "ur": "تصویر بنائی جائے"
+    },
+    {
+     "k": "D",
+     "en": "Use Guess",
+     "ur": "اندازہ لگایا جائے"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "The Base of Binary Number System is:",
+   "q_ur": "ثنائی عددی نظام کی بنیاد ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "16",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "02",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "08",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "1 Petabyte is equal to:",
+   "q_ur": "1 پیٹا بائٹ برابر ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "1024 KB",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1024 MB",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1024 GB",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1024 TB",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "A ------ is used to transfer data from one point to another:",
+   "q_ur": "------ کسی ایک جگہ سے ڈیٹا دوسری جگہ منتقل کرنے کیلئے استعمال ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Message",
+     "ur": "منبع / پیغام"
+    },
+    {
+     "k": "B",
+     "en": "Receiver",
+     "ur": "رسیور / وصول کنندہ"
+    },
+    {
+     "k": "C",
+     "en": "Protocol",
+     "ur": "پروٹوکول"
+    },
+    {
+     "k": "D",
+     "en": "Communication System",
+     "ur": "کمیونیکیشن سسٹم"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "------ Protocol is a Standard Protocol to Transmit E-mails:",
+   "q_ur": "------ ایک بنیادی پروٹوکول ہے جو کہ ای میلز کو ایک جگہ سے دوسری جگہ منتقل کرنے میں استعمال ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "HTTP",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "FTP",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "SMTP",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "DHCP",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Making Illegal Copies of Software is called:",
+   "q_ur": "سافٹ ویئر کی غیر قانونی نقول بنانے کو کہا جاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hacking",
+     "ur": "ہیکنگ"
+    },
+    {
+     "k": "B",
+     "en": "Phishing Crime",
+     "ur": "فشنگ کرائم"
+    },
+    {
+     "k": "C",
+     "en": "Identity Theft",
+     "ur": "شناخت کی چوری"
+    },
+    {
+     "k": "D",
+     "en": "Piracy",
+     "ur": "پائریسی"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Some Software Companies sell Software with a Confidential Text, called the ------:",
+   "q_ur": "کچھ سافٹ ویئر کمپنیاں سافٹ ویئر کو خفیہ متن کے ساتھ فروخت کرتی ہیں، جسے ------ کہتے ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Password",
+     "ur": "پاس ورڈ"
+    },
+    {
+     "k": "B",
+     "en": "Encryption",
+     "ur": "خفیہ کاری"
+    },
+    {
+     "k": "C",
+     "en": "Key of that Software",
+     "ur": "سافٹ ویئر کی کی"
+    },
+    {
+     "k": "D",
+     "en": "Description",
+     "ur": "بیانیے"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Head Section ends with ------ tag:",
+   "q_ur": "ہیڈ سیکشن ------ ٹیگ سے اختتام پذیر ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "</head>",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "<head>",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "</html>",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "<.head>",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "There are ------ types of Tags in an HTML Document:",
+   "q_ur": "HTML ڈاکیومنٹ میں ------ طرح کے ٹیگز ہوتے ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

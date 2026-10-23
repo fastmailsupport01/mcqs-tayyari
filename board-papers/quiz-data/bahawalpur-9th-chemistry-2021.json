@@ -1,0 +1,682 @@
+{
+ "board": "BISE Bahawalpur",
+ "board_slug": "bahawalpur",
+ "class": "9th",
+ "subject": "Chemistry",
+ "year": 2021,
+ "slug": "bahawalpur-9th-chemistry-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "One amu (Atomic Mass Unit) is equivalent to:",
+   "q_ur": "ایک amu (اٹامک ماس یونٹ) کس کے برابر ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.66 x 10-24 mg",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.66 x 10-24 g",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.66 x 10-24 Kg",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.66 x 10-23 g",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The concept of Orbit was used by:",
+   "q_ur": "ایٹم کے آربٹ کا تصور کس نے پیش کیا:",
+   "options": [
+    {
+     "k": "A",
+     "en": "J.J.Thomson",
+     "ur": "جے جے تھامسن"
+    },
+    {
+     "k": "B",
+     "en": "Rutherford",
+     "ur": "ردرفورڈ"
+    },
+    {
+     "k": "C",
+     "en": "Planck",
+     "ur": "پلانک"
+    },
+    {
+     "k": "D",
+     "en": "Bohr",
+     "ur": "بوہر"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The amount of Energy given out when an Electron is added to an Atom is called:",
+   "q_ur": "جب ایٹم میں ایک الیکٹرون جمع کیا جاتا ہے تو انرجی کی جو مقدار خارج ہوتی ہے کہلاتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Lattice Energy",
+     "ur": "لیٹس انرجی"
+    },
+    {
+     "k": "B",
+     "en": "Ionization Energy",
+     "ur": "آئیونائزیشن انرجی"
+    },
+    {
+     "k": "C",
+     "en": "Electronegativity",
+     "ur": "الیکٹرونیگیٹیویٹی"
+    },
+    {
+     "k": "D",
+     "en": "Electron Affinity",
+     "ur": "الیکٹرون افینٹی"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Long Form of Periodic Table is constructed on the basis of:",
+   "q_ur": "لونگ فارم آف پیریاڈک ٹیبل کی بنیاد ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mendeleev Postulate",
+     "ur": "مینڈلیف کا اصول"
+    },
+    {
+     "k": "B",
+     "en": "Atomic Number",
+     "ur": "اٹامک نمبر"
+    },
+    {
+     "k": "C",
+     "en": "Atomic Mass",
+     "ur": "اٹامک ماس"
+    },
+    {
+     "k": "D",
+     "en": "Mass Number",
+     "ur": "ماس نمبر"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The transfer of Electrons between Atoms results:",
+   "q_ur": "ایٹمز کے درمیان الیکٹرونز کی منتقلی کا نتیجہ نکلتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Metallic Bonding",
+     "ur": "میٹالک بانڈنگ کی شکل میں"
+    },
+    {
+     "k": "B",
+     "en": "Ionic Bonding",
+     "ur": "آئیونک بانڈنگ کی شکل میں"
+    },
+    {
+     "k": "C",
+     "en": "Covalent Bonding",
+     "ur": "کوویلنٹ بانڈنگ کی شکل میں"
+    },
+    {
+     "k": "D",
+     "en": "Coordinate Covalent Bonding",
+     "ur": "کوآرڈینیٹ کوویلنٹ بانڈنگ کی شکل میں"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "A Bond Pair in Covalent Molecule usually has:",
+   "q_ur": "کوویلنٹ مالیکیول میں موجود بانڈ پیئر عموماً رکھتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "One Electron",
+     "ur": "ایک الیکٹرون"
+    },
+    {
+     "k": "B",
+     "en": "Two Electrons",
+     "ur": "دو الیکٹرونز"
+    },
+    {
+     "k": "C",
+     "en": "Three Electrons",
+     "ur": "تین الیکٹرونز"
+    },
+    {
+     "k": "D",
+     "en": "Four Electrons",
+     "ur": "چار الیکٹرونز"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "In Evaporation Process Liquid Molecules which leave the surface of the liquid have:",
+   "q_ur": "ایوپوریشن میں جو مالیکیولز مائع کی سطح کو چھوڑتے ہیں ان میں ہوتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Very Low Energy",
+     "ur": "بہت کم انرجی"
+    },
+    {
+     "k": "B",
+     "en": "Moderate Energy",
+     "ur": "درمیانی انرجی"
+    },
+    {
+     "k": "C",
+     "en": "Very High Energy",
+     "ur": "بہت زیادہ انرجی"
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": "ان میں سے کوئی نہیں"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Which one of the following Solution contains more water:",
+   "q_ur": "ان میں سے کس سلوشن میں پانی زیادہ ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "2 M",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1 M",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.5 M",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.25 M",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "If 10 cm3 of Alcohol is dissolved in 100 g of water, it is called:",
+   "q_ur": "اگر 100 گرام پانی میں 10 cm3 الکحل حل کیا جائے تو یہ کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "m/m %",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "m/v %",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "v/m %",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "v/v ‰",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Which one of the following is not an Electrolyte:",
+   "q_ur": "درج ذیل میں سے کون سا الیکٹرولائٹ نہیں ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sugar Solution",
+     "ur": "شوگر کا سلوشن"
+    },
+    {
+     "k": "B",
+     "en": "Sulphuric Acid Solution",
+     "ur": "سلفیورک ایسڈ کا سلوشن"
+    },
+    {
+     "k": "C",
+     "en": "Lime Solution",
+     "ur": "چونے کا سلوشن"
+    },
+    {
+     "k": "D",
+     "en": "Sodium Chloride Solution",
+     "ur": "سوڈیم کلورائیڈ کا سلوشن"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The most common example of Corrosion is:",
+   "q_ur": "کروژن کی عام مثال کون سی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Chemical Decay",
+     "ur": "کیمیکل توڑ پھوڑ"
+    },
+    {
+     "k": "B",
+     "en": "Rusting of Iron",
+     "ur": "لوہے کو زنگ لگنا"
+    },
+    {
+     "k": "C",
+     "en": "Rusting of Aluminium",
+     "ur": "ایلومینیم کو زنگ لگنا"
+    },
+    {
+     "k": "D",
+     "en": "Rusting of Tin",
+     "ur": "ٹن کو زنگ لگنا"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Metals can form Ions carrying charge:",
+   "q_ur": "میٹلز کون سے چارج والا آئن بناتی ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Uni Positive",
+     "ur": "یونی پوزیٹو"
+    },
+    {
+     "k": "B",
+     "en": "Di-Positive",
+     "ur": "ڈائی پوزیٹو"
+    },
+    {
+     "k": "C",
+     "en": "Tri-Positive",
+     "ur": "ٹرائی پوزیٹو"
+    },
+    {
+     "k": "D",
+     "en": "All these",
+     "ur": "یہ تمام"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "The Simplest Whole Number Ratio of Atoms present in a compound is known as:",
+   "q_ur": "ایک کمپاؤنڈ میں موجود ایٹمز کی سادہ عددی نسبت کو ظاہر کرتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Molecular Formula",
+     "ur": "مالیکیولر فارمولا"
+    },
+    {
+     "k": "B",
+     "en": "Formula Mass",
+     "ur": "فارمولا ماس"
+    },
+    {
+     "k": "C",
+     "en": "Chemical Formula",
+     "ur": "کیمیکل فارمولا"
+    },
+    {
+     "k": "D",
+     "en": "Empirical Formula",
+     "ur": "ایمپیریکل فارمولا"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Atomic Number of Fluorine is:",
+   "q_ur": "فلورین کا اٹامک نمبر ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "9",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "15",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "In Transition Elements Sub-shell is in the process of completion:",
+   "q_ur": "ٹرانزیشن ایلیمنٹس میں سب شیل مکمل ہونے کے مراحل میں ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "s",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "p",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "d",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "f",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Half of the Distance between the Nuclei of the two bonded atoms is referred as:",
+   "q_ur": "دو جڑے ایٹمز کے نیوکلیائی کے درمیان فاصلے کے نصف کو اس ایٹم کا کہتے ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Size",
+     "ur": "سائز"
+    },
+    {
+     "k": "B",
+     "en": "Shielding Effect",
+     "ur": "شیلڈنگ ایفیکٹ"
+    },
+    {
+     "k": "C",
+     "en": "Orbit",
+     "ur": "آربٹ"
+    },
+    {
+     "k": "D",
+     "en": "Atomic Radius",
+     "ur": "اٹامک ریڈیس"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "If a Covalent Bond is formed between two similar atoms by equal sharing of Electron pair between the two atoms, it is called:",
+   "q_ur": "اگر کوویلنٹ بانڈ دو ایک جیسے ایٹمز کے درمیان مساوی شیئرنگ کی صورت میں تشکیل پاتا ہے تو کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ionic",
+     "ur": "آئیونک"
+    },
+    {
+     "k": "B",
+     "en": "Coordinate",
+     "ur": "کوآرڈینیٹ"
+    },
+    {
+     "k": "C",
+     "en": "Polar",
+     "ur": "پولر"
+    },
+    {
+     "k": "D",
+     "en": "Pure Covalent",
+     "ur": "خالص کوویلنٹ"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "All Intermolecular Forces which are collectively called Van der Waals forces are in nature:",
+   "q_ur": "تمام انٹرمالیکیولر فورسز جو مجموعی طور پر وان ڈروالز فورسز کہلاتی ہیں فطری طور پر ہوتی ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Lone",
+     "ur": "لون"
+    },
+    {
+     "k": "B",
+     "en": "Liquid",
+     "ur": "مائع"
+    },
+    {
+     "k": "C",
+     "en": "Chemical",
+     "ur": "کیمیکل"
+    },
+    {
+     "k": "D",
+     "en": "Electrical",
+     "ur": "الیکٹریکل"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "The process of changing of a Gas Phase into Liquid is called:",
+   "q_ur": "گیسی حالت کا مائع میں تبدیل ہونے کا عمل کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Evaporation",
+     "ur": "ایوپوریشن"
+    },
+    {
+     "k": "B",
+     "en": "Melting",
+     "ur": "میلٹنگ"
+    },
+    {
+     "k": "C",
+     "en": "Transpiration",
+     "ur": "ٹرانسپائریشن"
+    },
+    {
+     "k": "D",
+     "en": "Condensation",
+     "ur": "کنڈنسیشن"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "The volume of cm3 of a solute dissolved in 100 grams of the solution is termed as %:",
+   "q_ur": "سولیوٹ کے والیم کی cm3 میں وہ مقدار جو 100 گرام سلوشن میں حل ہو % کہلاتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "m/m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "m/v",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "v/m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "v/v",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "The volume in cm3 of a solute dissolved per 100 cm3 of the solution is termed as %:",
+   "q_ur": "سولیوٹ کے والیم کی cm3 میں وہ مقدار جو سلوشن کے 100 cm3 میں حل ہو % کہلاتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "v/m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "v/v",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "m/v",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "m/m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "The gain of Electrons by an Atom or Ion during a Chemical Reaction is called:",
+   "q_ur": "کسی کیمیکل ری ایکشن میں کسی ایٹم یا آئن کا الیکٹرونز حاصل کرنا کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Oxidation",
+     "ur": "آکسیڈیشن"
+    },
+    {
+     "k": "B",
+     "en": "Reduction",
+     "ur": "ریڈکشن"
+    },
+    {
+     "k": "C",
+     "en": "Electrolysis",
+     "ur": "الیکٹرولائسز"
+    },
+    {
+     "k": "D",
+     "en": "Electricity",
+     "ur": "الیکٹریسٹی"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "The Electrolytes which Ionize almost completely in their aqueous solution and produce more ions is called:",
+   "q_ur": "ایسے الیکٹرولائٹس جو ایکویس سلوشن میں مکمل طور پر آئنائز ہو جائیں اور زیادہ آئنز پیدا کریں کہلاتے ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Non Electrolytes",
+     "ur": "نان الیکٹرولائٹس"
+    },
+    {
+     "k": "B",
+     "en": "Strong",
+     "ur": "طاقتور"
+    },
+    {
+     "k": "C",
+     "en": "Weak",
+     "ur": "کمزور"
+    },
+    {
+     "k": "D",
+     "en": "Solutions",
+     "ur": "سلوشنز"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Metals have tendency to lose their valence electrons, this is called:",
+   "q_ur": "میٹلو اپنے ویلنس الیکٹرونز خارج کرنے کا رجحان رکھتے ہیں یہ خاصیت کہلاتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ionization Energy",
+     "ur": "آئیونائزیشن انرجی"
+    },
+    {
+     "k": "B",
+     "en": "Electropositivity",
+     "ur": "الیکٹروپوزیٹیویٹی"
+    },
+    {
+     "k": "C",
+     "en": "Valency",
+     "ur": "ویلنسی"
+    },
+    {
+     "k": "D",
+     "en": "Hardness",
+     "ur": "ہارڈنس"
+    }
+   ]
+  }
+ ]
+}

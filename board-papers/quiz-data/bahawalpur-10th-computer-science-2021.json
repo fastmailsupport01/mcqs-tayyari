@@ -1,0 +1,570 @@
+{
+ "board": "BISE Bahawalpur",
+ "board_slug": "bahawalpur",
+ "class": "10th",
+ "subject": "Computer Science",
+ "year": 2021,
+ "slug": "bahawalpur-10th-computer-science-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Division by Zero is:",
+   "q_ur": "صفر سے تقسیم ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Syntax Error",
+     "ur": "سینٹیکس ایرر"
+    },
+    {
+     "k": "B",
+     "en": "Logical Error",
+     "ur": "لاجیکل ایرر"
+    },
+    {
+     "k": "C",
+     "en": "Runtime Error",
+     "ur": "رن ٹائم ایرر"
+    },
+    {
+     "k": "D",
+     "en": "Machine Error",
+     "ur": "مشین ایرر"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "If two or more Statements are written on a line, they must be separated by a ------:",
+   "q_ur": "اگر ایک قطار میں دو یا دو سے زیادہ سٹیٹمنٹس لکھی جاتی ہیں تو انہیں ------ سے جدا کرنا چاہیے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Colon",
+     "ur": "کالن"
+    },
+    {
+     "k": "B",
+     "en": "Semi Colon",
+     "ur": "سیمی کالن"
+    },
+    {
+     "k": "C",
+     "en": "Comma",
+     "ur": "کوما"
+    },
+    {
+     "k": "D",
+     "en": "Hyphen",
+     "ur": "ہائفن"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Which of the following is a Type Declaration Character for Integer Variables:",
+   "q_ur": "انٹیجر ویری ایبلز کی نشاندہی کے لئے کون سا کریکٹر استعمال ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "!",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "%",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "#",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "$",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "How many types of Control Structures are there:",
+   "q_ur": "کنٹرول سٹرکچرز کی کتنی اقسام ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Which word indicates the end of WHILE LOOP:",
+   "q_ur": "کون سا لفظ WHILE LOOP کے اختتام کی نشاندہی کرتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "END",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "STOP",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NEXT",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "WEND",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "One Dimensional Array is also known as:",
+   "q_ur": "یک سمتی ارے کا دوسرا نام ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Vector Array",
+     "ur": "ویکٹر ارے"
+    },
+    {
+     "k": "B",
+     "en": "Program Array",
+     "ur": "پروگرام ارے"
+    },
+    {
+     "k": "C",
+     "en": "Unique Array",
+     "ur": "منفرد ارے"
+    },
+    {
+     "k": "D",
+     "en": "Structure Array",
+     "ur": "سٹرکچر ارے"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The Index of each element of Array is:",
+   "q_ur": "ارے کے ہر رکن کا انڈیکس ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Similar",
+     "ur": "ایک جیسا"
+    },
+    {
+     "k": "B",
+     "en": "Unique",
+     "ur": "منفرد"
+    },
+    {
+     "k": "C",
+     "en": "Even",
+     "ur": "جفت"
+    },
+    {
+     "k": "D",
+     "en": "Odd",
+     "ur": "طاق"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Which function is used to convert ASCII Codes to its character equivalent:",
+   "q_ur": "کون سا فنکشن ASCII کوڈز کو متبادل کریکٹر میں تبدیل کرنے کے لئے استعمال ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "CHAR$( )",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CHR",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CHAR",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CHR$( )",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The Output of function ABS(-7.45) will be:",
+   "q_ur": "فنکشن ABS(-7.45) کی آؤٹ پٹ ہوگی:",
+   "options": [
+    {
+     "k": "A",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-7",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-7.45",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "7.45",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Which function changes the way of Displaying Output in BASIC:",
+   "q_ur": "کون سا فنکشن بیسک میں آؤٹ پٹ دینے کے طریقے کو تبدیل کرتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "SCREEN",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "PRINT",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "LEFT$",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ABS",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Which of the following Command is used to automatically generate Line Number:",
+   "q_ur": "کون سی کمانڈ لائنوں کے نمبر خود بخود جنریٹ کرتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "CONT",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "AUTO",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "LOAD",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "RUN",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "In GW-BASIC, the maximum number of characters in a line can be:",
+   "q_ur": "بیسک میں ایک لائن میں زیادہ سے زیادہ حروف کی تعداد ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "255",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "270",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "355",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "380",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Algorithm is a --------:",
+   "q_ur": "الگورتھم ہے ایک ------:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Requirement Document",
+     "ur": "ضرورت کے بارے میں ڈاکیومنٹ"
+    },
+    {
+     "k": "B",
+     "en": "Design Document",
+     "ur": "ڈیزائن ڈاکیومنٹ"
+    },
+    {
+     "k": "C",
+     "en": "Test Document",
+     "ur": "ٹیسٹ ڈاکیومنٹ"
+    },
+    {
+     "k": "D",
+     "en": "User Guide",
+     "ur": "یوزر گائیڈ"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "A Loop within loop is called:",
+   "q_ur": "لوپ کے اندر لوپ کہلاتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Complex Loop",
+     "ur": "پیچیدہ لوپ"
+    },
+    {
+     "k": "B",
+     "en": "Infinite Loop",
+     "ur": "لامتناہی لوپ"
+    },
+    {
+     "k": "C",
+     "en": "Nested Loop",
+     "ur": "نیسٹڈ لوپ"
+    },
+    {
+     "k": "D",
+     "en": "Outer Loop",
+     "ur": "بیرونی لوپ"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "In the Statement List [ 4 ], the value 4 indicates:",
+   "q_ur": "ایک سٹیٹمنٹ List [ 4 ] میں 4 کی مقدار ظاہر کرتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Constant",
+     "ur": "کانسٹنٹ"
+    },
+    {
+     "k": "B",
+     "en": "Array Element",
+     "ur": "ارے کا رکن"
+    },
+    {
+     "k": "C",
+     "en": "Index",
+     "ur": "انڈیکس"
+    },
+    {
+     "k": "D",
+     "en": "Variable",
+     "ur": "متغیر"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "In BASIC, User Defined Function is called:",
+   "q_ur": "بیسک میں یوزر ڈیفائنڈ فنکشن کو کہتے ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Procedure",
+     "ur": "پروسیجر"
+    },
+    {
+     "k": "B",
+     "en": "File",
+     "ur": "فائل"
+    },
+    {
+     "k": "C",
+     "en": "Action",
+     "ur": "ایکشن"
+    },
+    {
+     "k": "D",
+     "en": "Code",
+     "ur": "کوڈ"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "The end of WHILE LOOP is:",
+   "q_ur": "WHILE LOOP کا اختتام ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "END",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "STOP",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NEXT",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "WEND",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Which of the following option is type of Function in BASIC LANGUAGE:",
+   "q_ur": "درج ذیل میں سے کون سی آپشن بیسک لینگویج میں فنکشن کی ایک قسم ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Simple Function",
+     "ur": "سادہ فنکشن"
+    },
+    {
+     "k": "B",
+     "en": "Readymade Function",
+     "ur": "ریڈی میڈ فنکشن"
+    },
+    {
+     "k": "C",
+     "en": "Local Function",
+     "ur": "لوکل فنکشن"
+    },
+    {
+     "k": "D",
+     "en": "Built-in-Function",
+     "ur": "بلٹ ان فنکشن"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "The Index of First Element of Array is:",
+   "q_ur": "ارے کے پہلے رکن کا انڈیکس ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "The Dots that compose the image of a photograph on screen are called:",
+   "q_ur": "سکرین پر تصویر جن نقاط کا مجموعہ ہوتی ہے وہ کہلاتے ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Character",
+     "ur": "کریکٹر"
+    },
+    {
+     "k": "B",
+     "en": "Points",
+     "ur": "پوائنٹس"
+    },
+    {
+     "k": "C",
+     "en": "Pixels",
+     "ur": "پکسلز"
+    },
+    {
+     "k": "D",
+     "en": "Drawing",
+     "ur": "ڈرائنگ"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,850 @@
+{
+ "board": "BISE Bahawalpur",
+ "board_slug": "bahawalpur",
+ "class": "9th",
+ "subject": "Mathematics",
+ "year": 2021,
+ "slug": "bahawalpur-9th-mathematics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Adj of [[1,2],[0,-1]] is equals to:",
+   "q_ur": "[[1,2],[0,-1]] کا Adj برابر ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "[[-1,-2],[0,1]]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[[1,-2],[0,-1]]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[[-1,2],[0,-1]]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[[-1,0],[2,1]]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Product of [x y] [[2],[-1]] is equal to ----:",
+   "q_ur": "ضرب حاصل [x y] [[2],[-1]] برابر ہے ----:",
+   "options": [
+    {
+     "k": "A",
+     "en": "[2x+y]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[x-2y]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[2x-y]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[x+2y]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Write 7th root of x in Exponential form:",
+   "q_ur": "7th root of x کو پاور فارم میں لکھئے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x^7",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x^(1/7)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x^(7/2)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The Conjugate of 5+4i is ------:",
+   "q_ur": "5+4i کا کانجوگیٹ ------ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "-5+4i",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-5-4i",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5-4i",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5+4i",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The relation y = log(z)x implies ------:",
+   "q_ur": "اگر y = log(z)x ہو تو ------:",
+   "options": [
+    {
+     "k": "A",
+     "en": "x^y = z",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "z^y = x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x^z = y",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "y^z = x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The logarithm of unity to any base is ------:",
+   "q_ur": "کسی اساس پر \"1\" کا لوگار تھم ------ کے برابر ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "e",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "(3+√2)(3-√2) is equal to ------:",
+   "q_ur": "(3+√2)(3-√2) برابر ہے ------:",
+   "options": [
+    {
+     "k": "A",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-7",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Factors of 3x^2-x-2 are ------:",
+   "q_ur": "3x^2-x-2 کے اجزائے ضربی ------ ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "(x+1),(3x-2)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(x+1),(3x+2)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(x-1),(3x-2)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(x-1),(3x+2)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "H.C.F. of 5x^2y^2 and 20x^3y^3 is ------:",
+   "q_ur": "5x^2y^2 اور 20x^3y^3 کا عاد اعظم ------ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "5x^2y^2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "20x^3y^3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "100x^5y^5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5xy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "What should be added to complete the square of x^4+64:",
+   "q_ur": "جملہ x^4+64 میں کیا جمع کیا جائے کہ مکمل مربع بن جائے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "8x^2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-8x^2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4x^2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "16x^2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "If the capacity \"c\" of an elevator is at most 1600 pounds then ------:",
+   "q_ur": "ایک لفٹ کی بوجھ اٹھانے کی استعداد \"c\" زیادہ سے زیادہ 1600 پاؤنڈ ہو تو ------:",
+   "options": [
+    {
+     "k": "A",
+     "en": "c < 1600",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "c ≥ 1600",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "c ≤ 1600",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "c > 1600",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Point (2,-3) lies in ------ Quadrant:",
+   "q_ur": "نقطہ (2,-3) مستوی کے ------ ربع میں ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "I",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "II",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "III",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "IV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Mid-point of the points (2,2) and (0,0) is ------:",
+   "q_ur": "نقاط (0,0) اور (2,2) کا درمیانی نقطہ ------ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "(1,1)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(1,0)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(0,1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(-1,-1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "A Triangle having two sides congruent is called ------:",
+   "q_ur": "ایک مثلث جس کے دو اضلاع متشابہ ہوں ------ کہلاتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Scalene",
+     "ur": "مختلف الاضلاع"
+    },
+    {
+     "k": "B",
+     "en": "Right Angled",
+     "ur": "قائمۃ الزاویہ"
+    },
+    {
+     "k": "C",
+     "en": "Equilateral",
+     "ur": "مساوی الاضلاع"
+    },
+    {
+     "k": "D",
+     "en": "Isosceles",
+     "ur": "مساوی الساقین"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "The medians of a Triangle cut each other in the ratio ------:",
+   "q_ur": "مثلث کے وسطانیے ایک دوسرے کو ------ کی نسبت میں قطع کرتے ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "4:1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2:1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3:1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1:1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Adj of [[1,2],[0,-1]] is equals to:",
+   "q_ur": "[[1,2],[0,-1]] کا Adj برابر ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "[[1,-2],[0,1]]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[[1,-2],[0,-1]]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[[-1,-2],[0,1]]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[[-1,0],[2,1]]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Product of [x y] [[2],[-1]] is equal to ----:",
+   "q_ur": "ضرب حاصل [x y] [[2],[-1]] برابر ہے ----:",
+   "options": [
+    {
+     "k": "A",
+     "en": "[2x+y]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[x-2y]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[2x-y]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[x+2y]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Write 4^(2/3) with Radical Sign:",
+   "q_ur": "4^(2/3) کو ریڈیکل فارم میں لکھئے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "cube-root(4^2)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "negative square-root(4^3)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "square-root(4^3)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "square-root(4^6)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "(25/16)^(-1/2) = ------:",
+   "q_ur": "(25/16)^(-1/2) = ------:",
+   "options": [
+    {
+     "k": "A",
+     "en": "5/4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4/5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-5/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-4/5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The value of log(p/q) is:",
+   "q_ur": "log(p/q) کی قیمت ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "log p - log q",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(log p)/(log q)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "log p + log q",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "log q - log p",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "log p - log q is same as ------:",
+   "q_ur": "log p - log q = ------:",
+   "options": [
+    {
+     "k": "A",
+     "en": "log(p/q)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "log(p-q)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(log p)/(log q)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "log q - log p",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "(a^2-b^2)/(a+b) is equal to:",
+   "q_ur": "(a^2-b^2)/(a+b) برابر ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "(a-b)^2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(a+b)^2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a+b",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a-b",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Factors of 5x^2-17xy-12y^2 are:",
+   "q_ur": "5x^2-17xy-12y^2 کے اجزائے ضربی ------ ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "(x+4y),(5x+3y)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(x-4y),(x+3y)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(x-4y),(5x+3y)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(5x-4y),(x+3y)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "H.C.F. of x^2-5x+6 and x^2-x-6 is:",
+   "q_ur": "x^2-5x+6 اور x^2-x-6 کا عاد اعظم ------ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "x-3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x+2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x^2-4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x-2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "H.C.F. of a^2-b^2 and a^3-b^3 is:",
+   "q_ur": "a^2-b^2 اور a^3-b^3 کا عاد اعظم ------ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "a-b",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a+b",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a^2+ab+b^2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a^2-ab+b^2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "If 'x' is no larger than 10, then:",
+   "q_ur": "اگر 'x' کی قیمت 10 سے بڑی نہ ہو تو:",
+   "options": [
+    {
+     "k": "A",
+     "en": "x ≥ 8",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x ≤ 10",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x < 10",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x ≥ 10",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Point (2,-3) lies in Quadrant:",
+   "q_ur": "نقطہ (2,-3) مستوی کے ربع میں ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "I",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "II",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "III",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "IV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "Mid Point of the Points (-2,2) and (2,-2) is:",
+   "q_ur": "نقاط (-2,2) اور (2,-2) کا درمیانی نقطہ ------ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "(2,2)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(-2,2)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(0,0)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(1,1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "Congruent Triangles can be made by joining the mid-points of the sides of a Triangle:",
+   "q_ur": "ایک مثلث کے اضلاع کے وسطی نقاط کو ملانے سے متشابہ مثلثان بنائی جا سکتی ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "A point equidistant from the end points of a line segment is on its ------:",
+   "q_ur": "ایک نقطہ جو کسی قطعہ خط کے سروں سے مساوی الفاصلہ ہو تو وہ اس قطعہ خط کے ------ پر واقع ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Bisector",
+     "ur": "ناصف"
+    },
+    {
+     "k": "B",
+     "en": "Right Bisector",
+     "ur": "عمودی ناصف"
+    },
+    {
+     "k": "C",
+     "en": "Perpendicular",
+     "ur": "عمود"
+    },
+    {
+     "k": "D",
+     "en": "Median",
+     "ur": "وسطانیہ"
+    }
+   ]
+  }
+ ]
+}

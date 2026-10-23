@@ -1,0 +1,682 @@
+{
+ "board": "BISE Bahawalpur",
+ "board_slug": "bahawalpur",
+ "class": "9th",
+ "subject": "Physics",
+ "year": 2021,
+ "slug": "bahawalpur-9th-physics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Which one of the following is the smallest quantity:",
+   "q_ur": "درج ذیل میں سے کون سی مقدار سب سے چھوٹی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.01 g",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.02 mg",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "100 μg",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5000 ng",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Change in Position is called:",
+   "q_ur": "پوزیشن میں تبدیلی کہلاتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Speed",
+     "ur": "سپیڈ"
+    },
+    {
+     "k": "B",
+     "en": "Velocity",
+     "ur": "ولاسٹی"
+    },
+    {
+     "k": "C",
+     "en": "Displacement",
+     "ur": "ڈسپلیسمنٹ"
+    },
+    {
+     "k": "D",
+     "en": "Distance",
+     "ur": "فاصلہ"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Which of the following is the unit of Momentum:",
+   "q_ur": "درج ذیل میں سے مومینٹم کا یونٹ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ns",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ns-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Kg ms-2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The turning effect of a Force is called:",
+   "q_ur": "کسی فورس کے گردشی اثر کو کہتے ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Momentum",
+     "ur": "مومینٹم"
+    },
+    {
+     "k": "B",
+     "en": "Torque",
+     "ur": "ٹارک"
+    },
+    {
+     "k": "C",
+     "en": "Pressure",
+     "ur": "پریشر"
+    },
+    {
+     "k": "D",
+     "en": "Work",
+     "ur": "ورک"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The value of \"g\" on Moon's Surface is 1.6 ms-2. What will be the weight of a 100 Kg body on the surface of the Moon:",
+   "q_ur": "چاند کی سطح پر \"g\" کی قیمت 1.6 ms-2 ہے۔ چاند پر 100 کلوگرام کے ایک جسم کا وزن ہوگا:",
+   "options": [
+    {
+     "k": "A",
+     "en": "100 N",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "160 N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1000 N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1600 N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Rate of Doing Work is called:",
+   "q_ur": "کام کرنے کی شرح کو کہتے ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Energy",
+     "ur": "انرجی"
+    },
+    {
+     "k": "B",
+     "en": "Torque",
+     "ur": "ٹارک"
+    },
+    {
+     "k": "C",
+     "en": "Power",
+     "ur": "پاور"
+    },
+    {
+     "k": "D",
+     "en": "Momentum",
+     "ur": "مومنٹم"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "In S.I., the unit of Density is:",
+   "q_ur": "S.I. میں ڈینسٹی کا یونٹ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Kg m-3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Kg m-2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Kg m-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Kg m2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "In S.I., the unit of Specific Heat is:",
+   "q_ur": "S.I. میں حرارت مخصوصہ کا یونٹ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "JKg-1K",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "JKg K-1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "J-1Kg K",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "JKg-1K-1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The number of process of Heat Transferred are:",
+   "q_ur": "انتقال حرارت کے طریقوں کی تعداد ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "How many Divisions are in Vernier Scale of Vernier Callipers:",
+   "q_ur": "ورنئیر کیلیپرز کی ورنئیر سکیل پر کتنے درجے ہوتے ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "20",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "40",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "50",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "A ball is thrown vertically upward. Its velocity at highest point is:",
+   "q_ur": "ایک گیند کو عموداً اوپر کی طرف پھینکا گیا ہے۔ بلند ترین مقام پر اس کی ولاسٹی ہوگی:",
+   "options": [
+    {
+     "k": "A",
+     "en": "-10 ms-1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10 ms-2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "20 ms-1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The number of Forces that can be added by Head to Tail Rule are:",
+   "q_ur": "ہیڈ ٹو ٹیل رول سے فورسز کی تعداد جنہیں جمع کیا جا سکتا ہے \"وہ\" ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Any Number",
+     "ur": "کوئی بھی نمبر"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Which one of the following is the smallest quantity:",
+   "q_ur": "درج ذیل میں سے کون سی مقدار سب سے چھوٹی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.01 g",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2 mg",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "100 μg",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5000 ng",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Change in Position is called:",
+   "q_ur": "پوزیشن میں تبدیلی کہلاتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Speed",
+     "ur": "سپیڈ"
+    },
+    {
+     "k": "B",
+     "en": "Velocity",
+     "ur": "ولاسٹی"
+    },
+    {
+     "k": "C",
+     "en": "Displacement",
+     "ur": "ڈسپلیسمنٹ"
+    },
+    {
+     "k": "D",
+     "en": "Distance",
+     "ur": "فاصلہ"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "The formula of Velocity is:",
+   "q_ur": "ولاسٹی کا فارمولا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "v = t/d",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "v = d/t",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "v = d+t",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "v = h+t",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Newton's First Law of Motion is valid only in the absence of:",
+   "q_ur": "مندرجہ ذیل میں سے کس کی غیر موجودگی میں نیوٹن کے پہلے قانون موشن کا اطلاق ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Force",
+     "ur": "فورس"
+    },
+    {
+     "k": "B",
+     "en": "Net Force",
+     "ur": "نیٹ فورس"
+    },
+    {
+     "k": "C",
+     "en": "Friction",
+     "ur": "فرکشن"
+    },
+    {
+     "k": "D",
+     "en": "Momentum",
+     "ur": "مومینٹم"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The Number of Perpendicular Components of Vector are:",
+   "q_ur": "کسی ویکٹر کے عمودی کمپونینٹس کی تعداد ہوتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Value of \"g\" increases with the:",
+   "q_ur": "\"g\" کی قیمت بڑھتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Increase in Mass of the Body",
+     "ur": "جسم کا ماس بڑھنے سے"
+    },
+    {
+     "k": "B",
+     "en": "Increase in Altitude",
+     "ur": "بلندی بڑھنے سے"
+    },
+    {
+     "k": "C",
+     "en": "Decrease in Altitude",
+     "ur": "بلندی کم ہونے سے"
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": "ان میں سے کوئی نہیں"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Mass of Earth is:",
+   "q_ur": "زمین کا ماس ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "6 x 10-24 Kg",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6 x 1024 Kg",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6 x 1024 g",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6 x 1024 mg",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "The Kinetic Energy of a Body of Mass 2 Kg is 25 J. Its Speed will be:",
+   "q_ur": "2 کلوگرام کے ایک جسم کی کائنیٹک انرجی 25 J ہے۔ اس کی سپیڈ کیا ہوگی:",
+   "options": [
+    {
+     "k": "A",
+     "en": "5 ms-1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "12.5 ms-1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "25 ms-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "50 ms-1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "In S.I. Unit of Pressure is Pascal which is equal to:",
+   "q_ur": "سسٹم انٹرنیشنل میں پریشر کا یونٹ پاسکل ہے اور ایک پاسکل برابر ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "104 Nm-2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1 Nm-2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "102 Nm-2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "103 Nm-2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "What will be the value of β for a Solid for which α has value of 2 x 10-5K-1?:",
+   "q_ur": "ایک ٹھوس کے طولی حرارتی پھیلاؤ کے کوایفیشینٹ کی قیمت 2x10-5K-1 ہے۔ اس کے والیم میں پھیلاؤ کے کوایفیشینٹ کی قیمت ہوگی:",
+   "options": [
+    {
+     "k": "A",
+     "en": "2 x 10-5K-1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6 x 10-5K-1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8 x 10-15K-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8 x 10-5K-1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "False Ceiling is done to:",
+   "q_ur": "مصنوعی اور اندرونی چھت لگانے کا مقصد ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Lower the Height of Ceiling",
+     "ur": "چھت کی اونچائی کم کرنا"
+    },
+    {
+     "k": "B",
+     "en": "Keep the Roof Clean",
+     "ur": "چھت کو صاف رکھنا"
+    },
+    {
+     "k": "C",
+     "en": "Cool the Room",
+     "ur": "کمرے کو ٹھنڈا کرنا"
+    },
+    {
+     "k": "D",
+     "en": "Insulate the Ceiling",
+     "ur": "چھت کو انسولیٹ کرنا"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Land Breeze and Sea Breeze are the result of:",
+   "q_ur": "نسیم بری اور نسیم بحری نتیجہ ہوتی ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Radiation",
+     "ur": "ریڈی ایشن"
+    },
+    {
+     "k": "B",
+     "en": "Conduction",
+     "ur": "کنڈکشن"
+    },
+    {
+     "k": "C",
+     "en": "Convection",
+     "ur": "کنویکشن"
+    },
+    {
+     "k": "D",
+     "en": "Absorption",
+     "ur": "انجذاب"
+    }
+   ]
+  }
+ ]
+}
