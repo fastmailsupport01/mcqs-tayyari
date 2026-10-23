@@ -1,0 +1,682 @@
+{
+ "board": "FBISE Islamabad",
+ "board_slug": "fbise",
+ "class": "9th",
+ "subject": "Biology",
+ "year": 2025,
+ "slug": "fbise-9th-biology-2025",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Version B",
+   "q_en": "Study of fossils is a part of:",
+   "q_ur": "فوسلز کا مطالعہ کس کا حصہ ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Paleontology",
+     "ur": "پیلیونٹولوجی"
+    },
+    {
+     "k": "B",
+     "en": "Ecology",
+     "ur": "ایکولوجی"
+    },
+    {
+     "k": "C",
+     "en": "Anatomy",
+     "ur": "اناٹومی"
+    },
+    {
+     "k": "D",
+     "en": "Cytology",
+     "ur": "سائٹولوجی"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version B",
+   "q_en": "If human and cats belong to same class, they must belong to same: ______.",
+   "q_ur": "انسان اور بلی کا تعلق ایک کلاس سے ہو تو ان کا ایک ہی ______ ہونا چاہیے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Genus",
+     "ur": "جینس"
+    },
+    {
+     "k": "B",
+     "en": "Family",
+     "ur": "فیملی"
+    },
+    {
+     "k": "C",
+     "en": "Order",
+     "ur": "آرڈر"
+    },
+    {
+     "k": "D",
+     "en": "Phylum",
+     "ur": "فائلم"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version B",
+   "q_en": "Colonial organization is the unique feature of kingdom:",
+   "q_ur": "کالونیل آرگنائزیشن کس کنگڈم کی منفرد خصوصیت ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Animalia",
+     "ur": "اینیمیلیا"
+    },
+    {
+     "k": "B",
+     "en": "Fungi",
+     "ur": "فنجائی"
+    },
+    {
+     "k": "C",
+     "en": "Protista",
+     "ur": "پروٹسٹا"
+    },
+    {
+     "k": "D",
+     "en": "Plantae",
+     "ur": "پلانٹی"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version B",
+   "q_en": "Which organelle is considered as protein factory of cell?",
+   "q_ur": "کس آرگنیل کو سیل کی پروٹین فیکٹری سمجھا جاتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mitochondria",
+     "ur": "مائٹوکونڈریا"
+    },
+    {
+     "k": "B",
+     "en": "Nucleus",
+     "ur": "نیوکلیئس"
+    },
+    {
+     "k": "C",
+     "en": "Ribosome",
+     "ur": "رائبوسوم"
+    },
+    {
+     "k": "D",
+     "en": "Lysosome",
+     "ur": "لائسوسوم"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version B",
+   "q_en": "Which system is involved in regulating blood glucose level?",
+   "q_ur": "خون میں گلوکوز کی سطح کو کنٹرول کرنے میں کون سا سسٹم شامل ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Endocrine system",
+     "ur": "اینڈوکرائن سسٹم"
+    },
+    {
+     "k": "B",
+     "en": "Skeletal system",
+     "ur": "سکیلیٹل سسٹم"
+    },
+    {
+     "k": "C",
+     "en": "Immune system",
+     "ur": "امیون سسٹم"
+    },
+    {
+     "k": "D",
+     "en": "Nervous system",
+     "ur": "نروس سسٹم"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version B",
+   "q_en": "Which one cannot be the part of pyrimidine?",
+   "q_ur": "نائٹروجنی بیسز میں سے کون سی پیریمڈین کا حصہ نہیں ہو سکتا:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Adenine",
+     "ur": "ایڈینین"
+    },
+    {
+     "k": "B",
+     "en": "Cytosine",
+     "ur": "سائٹوسین"
+    },
+    {
+     "k": "C",
+     "en": "Thymine",
+     "ur": "تھائیمین"
+    },
+    {
+     "k": "D",
+     "en": "Uracil",
+     "ur": "یوراسل"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version B",
+   "q_en": "During translation sequence of amino acids in the protein molecule is decided on the basis of sequence of nucleotides in:",
+   "q_ur": "پروٹین کے مالیکیول کی ٹرانسلیشن میں امینو ایسڈز کی ترتیب کا فیصلہ نیوکلیوٹائیڈز میں ترتیب سے کیا جاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "tRNA",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "mRNA",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "rRNA",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "DNA",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version B",
+   "q_en": "NADH releases ______ when it passes through electron transport chain.",
+   "q_ur": "NADH الیکٹرون ٹرانسپورٹ چین سے گزرنے پر ______ بناتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "2 ATP molecules",
+     "ur": "2 ATP مالیکیولز"
+    },
+    {
+     "k": "B",
+     "en": "3 ATP molecules",
+     "ur": "3 ATP مالیکیولز"
+    },
+    {
+     "k": "C",
+     "en": "20 ATP molecules",
+     "ur": "20 ATP مالیکیولز"
+    },
+    {
+     "k": "D",
+     "en": "36 ATP molecules",
+     "ur": "36 ATP مالیکیولز"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version B",
+   "q_en": "Light dependent reactions of photosynthesis occur in which part of cell?",
+   "q_ur": "فوٹوسنتھیسز کی لائٹ ڈیپنڈنٹ ری ایکشن سیل کے کس حصے میں ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Thylakoid membrane",
+     "ur": "تھائلاکائیڈ ممبرین"
+    },
+    {
+     "k": "B",
+     "en": "Stroma",
+     "ur": "سٹروما"
+    },
+    {
+     "k": "C",
+     "en": "Grana",
+     "ur": "گرانا"
+    },
+    {
+     "k": "D",
+     "en": "Cytoplasm",
+     "ur": "سائٹوپلازم"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version B",
+   "q_en": "Food prepared in leaves is transported by: ______.",
+   "q_ur": "پتوں میں تیار شدہ خوراک کو ______ جزوں منتقل کرتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Xylem",
+     "ur": "زائلم"
+    },
+    {
+     "k": "B",
+     "en": "Phloem",
+     "ur": "فلوئم"
+    },
+    {
+     "k": "C",
+     "en": "Mesophyll",
+     "ur": "میزوفل"
+    },
+    {
+     "k": "D",
+     "en": "Guard cell",
+     "ur": "گارڈ سیل"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version B",
+   "q_en": "The evolutionary process by which new biological species arise is called:",
+   "q_ur": "ارتقائی عمل جس میں نئی حیاتیاتی انواع پیدا ہوتی ہیں، اسے کیا کہتے ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Natural selection",
+     "ur": "قدرتی انتخابات"
+    },
+    {
+     "k": "B",
+     "en": "Artificial selection",
+     "ur": "مصنوعی انتخاب"
+    },
+    {
+     "k": "C",
+     "en": "Selective breeding",
+     "ur": "انتخابی افزائش"
+    },
+    {
+     "k": "D",
+     "en": "Speciation",
+     "ur": "سپیسی ایشن"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version B",
+   "q_en": "The first cell or tiny piece of parent plant used in tissue culture is called:",
+   "q_ur": "ٹشو کلچر میں مستعمل پیرنٹ پلانٹ کا پہلا سیل یا چھوٹا ٹکڑا کیا کہلاتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Plantlet",
+     "ur": "پلانٹلیٹ"
+    },
+    {
+     "k": "B",
+     "en": "Seedling",
+     "ur": "سیڈلنگ"
+    },
+    {
+     "k": "C",
+     "en": "Explant",
+     "ur": "ایکسپلانٹ"
+    },
+    {
+     "k": "D",
+     "en": "Callus",
+     "ur": "کیلاس"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Version D",
+   "q_en": "Study of inserting human insulin gene in bacteria is related with:",
+   "q_ur": "بیکٹیریا میں انسانی انسولین جین داخل کرنے کا مطالعہ کس شعبے سے متعلق ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Biochemistry",
+     "ur": "بائیو کیمسٹری"
+    },
+    {
+     "k": "B",
+     "en": "Molecular Biology",
+     "ur": "مالیکیولر بائیولوجی"
+    },
+    {
+     "k": "C",
+     "en": "Cell Biology",
+     "ur": "سیل بائیولوجی"
+    },
+    {
+     "k": "D",
+     "en": "Biotechnology",
+     "ur": "بائیو ٹیکنالوجی"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version D",
+   "q_en": "A multicellular heterotrophic eukaryotic organism having chitinous cell wall is the member of kingdom:",
+   "q_ur": "ایک ملٹی سیلولر، ہیٹروٹرافک یوکیریوٹک جاندار جس کا سیل وال کائٹن کا ہو کس کنگڈم کا رکن ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Animalia",
+     "ur": "اینیمیلیا"
+    },
+    {
+     "k": "B",
+     "en": "Plantae",
+     "ur": "پلانٹی"
+    },
+    {
+     "k": "C",
+     "en": "Fungi",
+     "ur": "فنجائی"
+    },
+    {
+     "k": "D",
+     "en": "Protista",
+     "ur": "پروٹسٹا"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version D",
+   "q_en": "A ______ is a group of related genera.",
+   "q_ur": "فیملی ایک جنس کے متعلقہ گروپ کا ایک اکٹھا درجہ کون سا ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Family",
+     "ur": "فیملی"
+    },
+    {
+     "k": "B",
+     "en": "Order",
+     "ur": "آرڈر"
+    },
+    {
+     "k": "C",
+     "en": "Class",
+     "ur": "کلاس"
+    },
+    {
+     "k": "D",
+     "en": "Phylum",
+     "ur": "فائلم"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version D",
+   "q_en": "Identify organelle which lacks its own DNA:",
+   "q_ur": "آرگنیل کی شناخت کریں جس کا اپنا ڈی این اے نہ ہو۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nucleus",
+     "ur": "نیوکلیئس"
+    },
+    {
+     "k": "B",
+     "en": "Chloroplast",
+     "ur": "کلوروپلاسٹ"
+    },
+    {
+     "k": "C",
+     "en": "Mitochondria",
+     "ur": "مائٹوکونڈریا"
+    },
+    {
+     "k": "D",
+     "en": "Golgi complex",
+     "ur": "گولجی کمپلیکس"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version D",
+   "q_en": "If tissue is not formed at a certain level of organization, which next level will not form?",
+   "q_ur": "اگر تنظیم کے ایک لیول پر ٹشو نہیں بنتے تو کون سا اگلا لیول نہیں بنے گا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Atomic level",
+     "ur": "ایٹمک لیول"
+    },
+    {
+     "k": "B",
+     "en": "Molecular level",
+     "ur": "مالیکیولر لیول"
+    },
+    {
+     "k": "C",
+     "en": "Organelle level",
+     "ur": "آرگنیل لیول"
+    },
+    {
+     "k": "D",
+     "en": "Organ level",
+     "ur": "آرگن لیول"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version D",
+   "q_en": "DNA contains all other nitrogenous bases, EXCEPT:",
+   "q_ur": "ڈی این اے میں دیگر تمام نائٹروجنس بیسز موجود ہوتے ہیں سوائے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Adenine",
+     "ur": "ایڈینین"
+    },
+    {
+     "k": "B",
+     "en": "Uracil",
+     "ur": "یوراسل"
+    },
+    {
+     "k": "C",
+     "en": "Thymine",
+     "ur": "تھائیمین"
+    },
+    {
+     "k": "D",
+     "en": "Guanine",
+     "ur": "گوانین"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version D",
+   "q_en": "In DNA, the \"rungs\" of ladder are formed between pair of:",
+   "q_ur": "ڈی این اے میں سیڑھی کے ڈنڈے کس کے درمیان جوڑوں کے ذریعے بنتے ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Phosphate groups",
+     "ur": "فاسفیٹ گروپس"
+    },
+    {
+     "k": "B",
+     "en": "Sugar molecules",
+     "ur": "شوگر مالیکیولز"
+    },
+    {
+     "k": "C",
+     "en": "Nitrogenous bases",
+     "ur": "نائٹروجنس بیسز"
+    },
+    {
+     "k": "D",
+     "en": "Nucleotides",
+     "ur": "نیوکلیوٹائیڈز"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version D",
+   "q_en": "FADH₂ releases ______ when it passes through electron transport chain.",
+   "q_ur": "FADH₂ الیکٹرون ٹرانسپورٹ چین سے گزرنے پر ______ بناتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "2 ATP molecules",
+     "ur": "2 ATP مالیکیولز"
+    },
+    {
+     "k": "B",
+     "en": "3 ATP molecules",
+     "ur": "3 ATP مالیکیولز"
+    },
+    {
+     "k": "C",
+     "en": "20 ATP molecules",
+     "ur": "20 ATP مالیکیولز"
+    },
+    {
+     "k": "D",
+     "en": "36 ATP molecules",
+     "ur": "36 ATP مالیکیولز"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version D",
+   "q_en": "Which step of aerobic respiration uses oxygen as final acceptor to produce water?",
+   "q_ur": "ایروبک ریسپائریشن کا کون سا مرحلہ پانی پیدا کرنے کے لیے آکسیجن کو فائنل ایکسیپٹر کے طور پر استعمال کرتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Glycolysis",
+     "ur": "گلائیکولائسس"
+    },
+    {
+     "k": "B",
+     "en": "Krebs cycle",
+     "ur": "کربس سائیکل"
+    },
+    {
+     "k": "C",
+     "en": "Formation of acetyl CO-A",
+     "ur": "ایسٹائل کو اے کی تشکیل"
+    },
+    {
+     "k": "D",
+     "en": "Electron transport chain",
+     "ur": "الیکٹرون ٹرانسپورٹ چین"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version D",
+   "q_en": "Food prepared in leaves is transported by: ______.",
+   "q_ur": "پتوں میں تیار شدہ خوراک کو ______ جزوں منتقل کرتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Xylem",
+     "ur": "زائلم"
+    },
+    {
+     "k": "B",
+     "en": "Phloem",
+     "ur": "فلوئم"
+    },
+    {
+     "k": "C",
+     "en": "Mesophyll",
+     "ur": "میزوفل"
+    },
+    {
+     "k": "D",
+     "en": "Guard cell",
+     "ur": "گارڈ سیل"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version D",
+   "q_en": "The differences shown by the individuals of the same species are called:",
+   "q_ur": "ایک ہی نوع کے افراد کے درمیان پائے جانے والے اختلافات کو کیا کہا جاتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Evolution",
+     "ur": "ارتقاء"
+    },
+    {
+     "k": "B",
+     "en": "Speciation",
+     "ur": "سپیسی ایشن"
+    },
+    {
+     "k": "C",
+     "en": "Variation",
+     "ur": "تغیرات"
+    },
+    {
+     "k": "D",
+     "en": "Competition",
+     "ur": "مقابلہ"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version D",
+   "q_en": "Which is NOT an example of bulb?",
+   "q_ur": "درج شدہ میں سے کیا بلب کی مثال نہیں ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Tulip",
+     "ur": "ٹیولپ"
+    },
+    {
+     "k": "B",
+     "en": "Onion",
+     "ur": "پیاز"
+    },
+    {
+     "k": "C",
+     "en": "Lili",
+     "ur": "للی"
+    },
+    {
+     "k": "D",
+     "en": "Garlic",
+     "ur": "لہسن"
+    }
+   ]
+  }
+ ]
+}

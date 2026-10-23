@@ -1,0 +1,850 @@
+{
+ "board": "FBISE Islamabad",
+ "board_slug": "fbise",
+ "class": "9th",
+ "subject": "Mathematics",
+ "year": 2025,
+ "slug": "fbise-9th-math-2025",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Version B",
+   "q_en": "(1/4)^(−1/2) =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "16",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version B",
+   "q_en": "The scientific notation of 345.6 is:",
+   "q_ur": "345.6 کی سائنسی نوٹیشن کیا ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "3.456×10²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3.456×10³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3.456×10⁻²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3.456×10⁻³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version B",
+   "q_en": "Given relation R is a subset of ______, if: X={2,4,6} Y={1,3,5} R={(1,2),(3,4),(5,6)}",
+   "q_ur": "دی گئی ریلیشن R کس کا سب سیٹ ہوگا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "X×X",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "X×Y",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Y×X",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Y×Y",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version B",
+   "q_en": "What statement does the shaded region represent? [A printed Venn diagram of three sets A, B, C with the B∩C region shaded is next to the question in the source scan]",
+   "q_ur": "شیڈڈ ریجن کس سٹیٹمنٹ کو ظاہر کرتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "A∩B∩C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(A∩B)∩C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "B∩C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A∪C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version B",
+   "q_en": "Factorization of: 49a²−28ab+4b²=",
+   "q_ur": "دیے گئے فقرے کی تجزی:",
+   "options": [
+    {
+     "k": "A",
+     "en": "(7a+2b)²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(49a−4b)²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(7a−2b)²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(7a−28b)²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version B",
+   "q_en": "If x is smaller than 10, then which statement is TRUE?",
+   "q_ur": "اگر x عدد 10 سے چھوٹا ہے تو کون سی سٹیٹمنٹ درست ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "x≥20",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x≤10",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x<10",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x>10",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version B",
+   "q_en": "Slope of a line passing through two points (3,5) and (9,11) is:",
+   "q_ur": "نقطوں (3,5) اور (9,11) سے گزرتی لائن کی سلوپ:",
+   "options": [
+    {
+     "k": "A",
+     "en": "8/3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6/6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8/4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version B",
+   "q_en": "At what angle do the given lines intersect each other? y=2/3x−4  y=−3/2x+4",
+   "q_ur": "دی گئی لائنیں ایک دوسرے کو کس زاویے پر قطع کرتی ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "0°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "180°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version B",
+   "q_en": "What is the value of x in the given similar triangles? [Two printed similar right triangles are shown: one with base 3 and height x, the other with base 9 and height 6]",
+   "q_ur": "دی گئی مماثل مثلثوں میں x کی ویلیو کیا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version B",
+   "q_en": "What is the value of measure angle C in the figure? [A printed right triangle ABC with AB=5, BC=9 and right angle at B is next to the question in the source scan]",
+   "q_ur": "دی گئی شکل میں زاویہ C کی مقدار کتنی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "29.1°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "60.94°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "56.25°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "33.75°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version B",
+   "q_en": "The bearing of A from O is: [A printed compass diagram showing an angle of 35° is next to the question in the source scan]",
+   "q_ur": "نقطہ A کی بیئرنگ کیا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "035°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "055°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "125°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "305°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version B",
+   "q_en": "The three medians of any triangle are: ______.",
+   "q_ur": "مثلث کے اندر ہم نقطہ ______ ہوتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Concurrent inside",
+     "ur": "مثلث کے اندر ہم نقطہ"
+    },
+    {
+     "k": "B",
+     "en": "Concurrent outside",
+     "ur": "مثلث کے باہر ہم نقطہ"
+    },
+    {
+     "k": "C",
+     "en": "Collinear",
+     "ur": "ہم خطہ"
+    },
+    {
+     "k": "D",
+     "en": "Mutually perpendicular",
+     "ur": "باہمی عمود"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Version B",
+   "q_en": "The median of the given data is: 77, 79, 82, 86, 90, 92, 93",
+   "q_ur": "دیے گئے مواد کا میڈین کیا ہوگا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "79",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "82",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "86",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "88",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Version B",
+   "q_en": "What is the probability of getting Tail, if a fair coin is tossed once?",
+   "q_ur": "اگر ایک مناسب سکہ اچھالا جائے تو ٹیل آنے کا کیا امکان ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Version B",
+   "q_en": "A die was rolled 50 times, and the number 4 appeared 15 times. What is the relative frequency of rolling a 4?",
+   "q_ur": "لڈو کا ایک دانہ 50 مرتبہ پھینکنے پر 15 مرتبہ نمبر 4 آیا۔ نمبر 4 کی ریلیٹو فریکوئنسی کیا ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.15",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.30",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.20",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.25",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Version D",
+   "q_en": "(1/9)^(−3/2) =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "27",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/27",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "±27",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "±1/27",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version D",
+   "q_en": "The scientific notation of 0.00567 is:",
+   "q_ur": "0.00567 کی سائنسی نوٹیشن کیا ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "5.67×10³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5.67×10⁻³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5.67×10⁻²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5.67×10²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version D",
+   "q_en": "For sets A={a,b} and B={1,2} then R={(a,1),(b,2)} is a subset of:",
+   "q_ur": "دیے گئے سیٹس A={a,b} ، اور B={1,2} ، R={(a,1),(b,2)} کس کا سب سیٹ ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "A×A",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A×B",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "B×A",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "B×B",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version D",
+   "q_en": "In the Venn diagram, region A∩B∩C' represents elements in: [A printed Venn diagram of three sets A, B, C is next to the question in the source scan]",
+   "q_ur": "دی گئی وین ڈائیگرام میں A∩B∩C' کون سے ارکان کو ظاہر کرتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "A and B but not in C",
+     "ur": "A اور B میں لیکن C میں نہیں"
+    },
+    {
+     "k": "B",
+     "en": "A, B and C",
+     "ur": "A,B اور C میں"
+    },
+    {
+     "k": "C",
+     "en": "A or B but not C",
+     "ur": "A یا B میں لیکن C میں نہیں"
+    },
+    {
+     "k": "D",
+     "en": "A only",
+     "ur": "صرف A میں"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version D",
+   "q_en": "Factorization of: 4a²−12ab+9b²=",
+   "q_ur": "درج فقرے کی تجزی:",
+   "options": [
+    {
+     "k": "A",
+     "en": "(2a−3b)²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(2a+3b)²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(4a+3b)²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(4a−3b)²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version D",
+   "q_en": "A pizza costs Rs. 1350, and you have Rs. 2500. Maximum how many/much pizzas can be bought with this money?",
+   "q_ur": "ایک پیزا کی قیمت 1350 روپے ہے۔ 2500 روپے میں کتنے (ایک حصہ) پیزا خریدا جا سکتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "≥1.85",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "≤1.85",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": ">1.85",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version D",
+   "q_en": "Slope of a line passing through two points (4,0) and (0,−8)is:",
+   "q_ur": "نقطوں (4,0) اور (0,−8) سے گزرتی لائن کی سلوپ:",
+   "options": [
+    {
+     "k": "A",
+     "en": "−2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version D",
+   "q_en": "The angle between the given lines is: y=3/4x−5  y=3/4x+5 is:",
+   "q_ur": "درج ذیل لائنوں کا باہمی زاویہ کتنا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "0°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "180°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version D",
+   "q_en": "If two polygons are similar in shape and ratio of their corresponding sides is 2:3, what is the ratio of their areas?",
+   "q_ur": "اگر دو مماثل کثیر الاضلاع کے متناظر اضلاع میں نسبت 2:3 ہو تو ان کے رقبوں میں کیا نسبت ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "2:3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4:9",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8:27",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1:1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version D",
+   "q_en": "What is the value of x in the given figure? [A printed right triangle with angle 35° and opposite side 5 cm; hypotenuse x is next to the question in the source scan]",
+   "q_ur": "دی گئی شکل میں x کی مقدار کتنی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "5cm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10cm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7.5cm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "15cm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version D",
+   "q_en": "A ship sails on a three-figure bearing of 075°. In which direction is the ship heading?",
+   "q_ur": "ایک کشتی تھری فگر بیئرنگ پر 075° چل رہی ہے۔ اس کا رخ کیا ہوگا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "North",
+     "ur": "شمال"
+    },
+    {
+     "k": "B",
+     "en": "East",
+     "ur": "مشرق"
+    },
+    {
+     "k": "C",
+     "en": "North East",
+     "ur": "شمال مشرق"
+    },
+    {
+     "k": "D",
+     "en": "South East",
+     "ur": "جنوب مشرق"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version D",
+   "q_en": "In how many equal-area triangles, do the three medians divide a triangle?",
+   "q_ur": "مثلث کے تین میڈینز مثلث کو کتنی مساوی مثلثوں میں تقسیم کرتے ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Version D",
+   "q_en": "A company surveyed the number of products purchased in a month: {2, 3, 3, 2, 4, 5, 3, 6}. What is the mode of the data?",
+   "q_ur": "ایک کمپنی نے پراڈکٹس کی خریداری کا سروے کیا۔ جس میں درج ذیل خام آئے۔ {2, 3, 3, 2, 4, 5, 3, 6} اس مواد کا موڈ معلوم کریں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Version D",
+   "q_en": "A bag contains 4 blue balls and 6 red balls. If one ball is drawn at random, what is the probability that it is NOT blue?",
+   "q_ur": "ایک بیگ میں 4 نیلی اور 6 سرخ گیندیں ہیں۔ اگر ایک گیند نکالی جائے تو اس بات کا کیا امکان ہے کہ نکالی جانے والی گیند نیلی نہیں ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "2/5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3/5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4/5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6/5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Version D",
+   "q_en": "In 50 trials, an event occurs 10 times. What is the relative frequency of the event?",
+   "q_ur": "50 کوششوں میں ایک واقعہ 10 مرتبہ وقوع پذیر ہوتا ہے۔ اس واقعے کی ریلیٹو فریکوئنسی کتنی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/10",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/50",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,738 @@
+{
+ "board": "FBISE Islamabad",
+ "board_slug": "fbise",
+ "class": "9th",
+ "subject": "Computer Science",
+ "year": 2025,
+ "slug": "fbise-9th-cs-2025",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Version B",
+   "q_en": "Which shapes are used to represent concepts in a concept map?",
+   "q_ur": "تصوراتی نقشے میں تصورات کی نمائندگی کرنے کے لیے کون سی شکلیں استعمال ہوتی ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Squares & triangle",
+     "ur": "مربع اور مثلث"
+    },
+    {
+     "k": "B",
+     "en": "Boxes & circles",
+     "ur": "بکس اور حلقے"
+    },
+    {
+     "k": "C",
+     "en": "Stars & polygons",
+     "ur": "ستارے اور کثیر الاضلاع"
+    },
+    {
+     "k": "D",
+     "en": "Rectangle & hexagons",
+     "ur": "مستطیل اور مسدس"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version B",
+   "q_en": "The smallest unit of memory in a digital computer:",
+   "q_ur": "ڈیجیٹل کمپیوٹر میں میموری کی سب سے چھوٹی اکائی کیا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Bit",
+     "ur": "بٹ"
+    },
+    {
+     "k": "B",
+     "en": "Byte",
+     "ur": "بائٹ"
+    },
+    {
+     "k": "C",
+     "en": "Kilobyte",
+     "ur": "کلو بائٹ"
+    },
+    {
+     "k": "D",
+     "en": "Word",
+     "ur": "ورڈ"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version B",
+   "q_en": "Which of the following is an example of primary data collection method?",
+   "q_ur": "درج شدہ میں سے کون سی بنیادی ڈیٹا اکٹھا کرنے کے طریقے کی مثال ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Government records",
+     "ur": "گورنمنٹ ریکارڈ"
+    },
+    {
+     "k": "B",
+     "en": "Online database",
+     "ur": "آن لائن ڈیٹا بیس"
+    },
+    {
+     "k": "C",
+     "en": "Interviews",
+     "ur": "انٹرویو"
+    },
+    {
+     "k": "D",
+     "en": "Past research studies",
+     "ur": "سابقہ ریسرچ سٹڈی"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version B",
+   "q_en": "Which is an example of AI very common?",
+   "q_ur": "کون سی AI کی مثال بہت عام ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Microwave",
+     "ur": "مائیکرو ویو"
+    },
+    {
+     "k": "B",
+     "en": "Refrigerator",
+     "ur": "ریفریجریٹر"
+    },
+    {
+     "k": "C",
+     "en": "Bicycle",
+     "ur": "بائیسکل"
+    },
+    {
+     "k": "D",
+     "en": "Chat bot",
+     "ur": "چیٹ بوٹ"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version B",
+   "q_en": "The tag used to define a hyperlink in HTML:",
+   "q_ur": "کون سا ٹیگ HTML میں ہائپر لنک کے لیے استعمال ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "<a>",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "<p>",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "<i>",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "<u>",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version B",
+   "q_en": "Correct way to declare a variable in JavaScript:",
+   "q_ur": "جاوا اسکرپٹ میں ویری ایبل ڈیکلیئر کرنے کا صحیح طریقہ:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Variable n=10;",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Variable name=10;",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Vary n=10;",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "var n=10;",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version B",
+   "q_en": "Attackers use phishing for:",
+   "q_ur": "حملہ آور فشنگ کیوں استعمال کرتے ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Tracking",
+     "ur": "ٹریکنگ کے لیے"
+    },
+    {
+     "k": "B",
+     "en": "Backup",
+     "ur": "بیک اپ کے لیے"
+    },
+    {
+     "k": "C",
+     "en": "Stealing data",
+     "ur": "ڈیٹا چرانے کے لیے"
+    },
+    {
+     "k": "D",
+     "en": "Encryption",
+     "ur": "انکرپشن کے لیے"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version B",
+   "q_en": "What is the purpose of malware?",
+   "q_ur": "میلویئر کا مقصد کیا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Improve system performance",
+     "ur": "سسٹم کی بہتر کارکردگی"
+    },
+    {
+     "k": "B",
+     "en": "Harm computers",
+     "ur": "کمپیوٹر خراب کرنا"
+    },
+    {
+     "k": "C",
+     "en": "Provide free tools",
+     "ur": "مفت ٹولز مہیا کرنا"
+    },
+    {
+     "k": "D",
+     "en": "Backup data",
+     "ur": "ڈیٹا کا بیک اپ کرنا"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version B",
+   "q_en": "Which of the following datatype does Java Script use to represent true or false values?",
+   "q_ur": "کون سا ڈیٹا ٹائپ جاوا اسکرپٹ میں صحیح یا غلط ویلیو کی نمائندگی کرنے کے لیے استعمال ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "String",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Number",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "List",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Boolean",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version B",
+   "q_en": "Which of the following is NOT one of the five phases of design thinking?",
+   "q_ur": "درج شدہ میں سے کون سا ڈیزائن تھنکنگ کے پانچ مراحل میں سے ایک نہیں ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Empathize",
+     "ur": "ہمدردی"
+    },
+    {
+     "k": "B",
+     "en": "Ideate",
+     "ur": "خیال"
+    },
+    {
+     "k": "C",
+     "en": "Analyze",
+     "ur": "تجزیہ"
+    },
+    {
+     "k": "D",
+     "en": "Prototype",
+     "ur": "پروٹو ٹائپ"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version B",
+   "q_en": "What is the correct sequence of IPO chart?",
+   "q_ur": "IPO چارٹ کی صحیح ترتیب کیا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Input, plan, output",
+     "ur": "ان پٹ، پلان، آؤٹ پٹ"
+    },
+    {
+     "k": "B",
+     "en": "Input, process, output",
+     "ur": "ان پٹ، پروسیس، آؤٹ پٹ"
+    },
+    {
+     "k": "C",
+     "en": "Input, program, output",
+     "ur": "ان پٹ، پروگرام، آؤٹ پٹ"
+    },
+    {
+     "k": "D",
+     "en": "Input, proceed, output",
+     "ur": "ان پٹ، پروسیڈ، آؤٹ پٹ"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version B",
+   "q_en": "Cursor on a computer screen is controlled by:",
+   "q_ur": "کون سا آلہ کمپیوٹر اسکرین پر کرسر کی حرکت کو کنٹرول کرتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Keyboard",
+     "ur": "کی بورڈ"
+    },
+    {
+     "k": "B",
+     "en": "Printer",
+     "ur": "پرنٹر"
+    },
+    {
+     "k": "C",
+     "en": "Mouse",
+     "ur": "ماؤس"
+    },
+    {
+     "k": "D",
+     "en": "Scanner",
+     "ur": "اسکینر"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Version B",
+   "q_en": "Which mode of communication can flow data in one direction only?",
+   "q_ur": "کس کمیونیکیشن موڈ میں ڈیٹا صرف ایک سمت میں ٹرانسفر کر سکتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Simplex",
+     "ur": "سیمپلیکس"
+    },
+    {
+     "k": "B",
+     "en": "Half duplex",
+     "ur": "ہاف ڈوپلیکس"
+    },
+    {
+     "k": "C",
+     "en": "Full duplex",
+     "ur": "فل ڈوپلیکس"
+    },
+    {
+     "k": "D",
+     "en": "Asynchronous",
+     "ur": "اسنکرونس"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Version D",
+   "q_en": "What is correct sequence of IPO chart?",
+   "q_ur": "IPO چارٹ کی صحیح ترتیب کیا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Input, plan, output",
+     "ur": "ان پٹ، پلان، آؤٹ پٹ"
+    },
+    {
+     "k": "B",
+     "en": "Input, process, output",
+     "ur": "ان پٹ، پروسیس، آؤٹ پٹ"
+    },
+    {
+     "k": "C",
+     "en": "Input, program, output",
+     "ur": "ان پٹ، پروگرام، آؤٹ پٹ"
+    },
+    {
+     "k": "D",
+     "en": "Input, proceed, output",
+     "ur": "ان پٹ، پروسیڈ، آؤٹ پٹ"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version D",
+   "q_en": "Which mode of communication allows simultaneous sending and receiving data?",
+   "q_ur": "کون سا مواصلاتی طریقہ بیک وقت ڈیٹا بھیجنے اور وصول کرنے کی اجازت دیتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Simplex",
+     "ur": "سیمپلیکس"
+    },
+    {
+     "k": "B",
+     "en": "Half duplex",
+     "ur": "ہاف ڈوپلیکس"
+    },
+    {
+     "k": "C",
+     "en": "Asynchronous",
+     "ur": "اسنکرونس"
+    },
+    {
+     "k": "D",
+     "en": "Full duplex",
+     "ur": "فل ڈوپلیکس"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version D",
+   "q_en": "Which of the following is an example of secondary data collection method?",
+   "q_ur": "درج شدہ میں سے کون سی ثانوی ڈیٹا اکٹھا کرنے کے طریقے کی مثال ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Government records",
+     "ur": "گورنمنٹ ریکارڈ"
+    },
+    {
+     "k": "B",
+     "en": "Observations",
+     "ur": "آبزرویشنز"
+    },
+    {
+     "k": "C",
+     "en": "Interviews",
+     "ur": "انٹرویو"
+    },
+    {
+     "k": "D",
+     "en": "Experiments",
+     "ur": "تجربات"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version D",
+   "q_en": "In which area of AI, facial recognition technology is commonly used?",
+   "q_ur": "AI کے کس شعبے میں چہرے کی شناخت کی ٹیکنالوجی عام طور پر استعمال ہوتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Speech recognition",
+     "ur": "تقریر کی شناخت"
+    },
+    {
+     "k": "B",
+     "en": "Computer vision",
+     "ur": "کمپیوٹر ویژن"
+    },
+    {
+     "k": "C",
+     "en": "NLP",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Expert system",
+     "ur": "ماہر نظام"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version D",
+   "q_en": "The tag used to define a hyperlink in HTML:",
+   "q_ur": "کون سا ٹیگ HTML میں ہائپر لنک کی وضاحت کے لیے استعمال ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "<p>",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "<a>",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "<i>",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "<u>",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version D",
+   "q_en": "The keyword used to declare variables in JavaScript:",
+   "q_ur": "جاوا اسکرپٹ میں ویری ایبل ڈیکلیئر کرنے کا کی ورڈ کیا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "dim",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "const",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "var",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "variable",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version D",
+   "q_en": "Attackers use phishing for:",
+   "q_ur": "حملہ آور فشنگ کیوں استعمال کرتے ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Tracking",
+     "ur": "ٹریکنگ کے لیے"
+    },
+    {
+     "k": "B",
+     "en": "Backup",
+     "ur": "بیک اپ کے لیے"
+    },
+    {
+     "k": "C",
+     "en": "Stealing data",
+     "ur": "ڈیٹا چرانے کے لیے"
+    },
+    {
+     "k": "D",
+     "en": "Encryption",
+     "ur": "انکرپشن کے لیے"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version D",
+   "q_en": "Which of the following is an example of spyware?",
+   "q_ur": "درج شدہ میں سے کون سا اسپائی ویئر کی مثال ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Free trial software",
+     "ur": "مفت آزمائشی سافٹ ویئر"
+    },
+    {
+     "k": "B",
+     "en": "Security tool",
+     "ur": "سیکیورٹی ٹول"
+    },
+    {
+     "k": "C",
+     "en": "Antivirus",
+     "ur": "اینٹی وائرس"
+    },
+    {
+     "k": "D",
+     "en": "Online tracking",
+     "ur": "آن لائن ٹریکنگ"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version D",
+   "q_en": "Which of the following is not a valid JavaScript data type?",
+   "q_ur": "درج شدہ میں سے کون سا درست جاوا اسکرپٹ ڈیٹا ٹائپ نہیں ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Long",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "String",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Number",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Boolean",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version D",
+   "q_en": "Which of the following type of process is design thinking?",
+   "q_ur": "درج شدہ میں سے کون سا ڈیزائن سوچ کا عمل ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Linear",
+     "ur": "لینیئر"
+    },
+    {
+     "k": "B",
+     "en": "Random",
+     "ur": "رینڈم"
+    },
+    {
+     "k": "C",
+     "en": "Iterative and non linear",
+     "ur": "تکراری اور نان لینیئر"
+    },
+    {
+     "k": "D",
+     "en": "Predictive",
+     "ur": "پیش گوئی کرنے والا"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Version D",
+   "q_en": "Which of the following is the first step in solving a simple problem?",
+   "q_ur": "درج شدہ میں سے کون سا ایک سادہ مسئلہ کو حل کرنے میں پہلا قدم ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Design a plan",
+     "ur": "ایک منصوبہ تیار کریں"
+    },
+    {
+     "k": "B",
+     "en": "Implement the plan",
+     "ur": "منصوبے کو لاگو کریں"
+    },
+    {
+     "k": "C",
+     "en": "Define and analyze the problem",
+     "ur": "مسئلے کی وضاحت اور تجزیہ کریں"
+    },
+    {
+     "k": "D",
+     "en": "Evaluate",
+     "ur": "تشخیص"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Version D",
+   "q_en": "Identify the output device:",
+   "q_ur": "آؤٹ پٹ ڈیوائس کی نشاندہی کریں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Keyboard",
+     "ur": "کی بورڈ"
+    },
+    {
+     "k": "B",
+     "en": "Printer",
+     "ur": "پرنٹر"
+    },
+    {
+     "k": "C",
+     "en": "Mouse",
+     "ur": "ماؤس"
+    },
+    {
+     "k": "D",
+     "en": "Scanner",
+     "ur": "اسکینر"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Version D",
+   "q_en": "The smallest unit of memory in a digital computer is:",
+   "q_ur": "ڈیجیٹل کمپیوٹر میں میموری کی سب سے چھوٹی اکائی کیا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Bit",
+     "ur": "بٹ"
+    },
+    {
+     "k": "B",
+     "en": "Byte",
+     "ur": "بائٹ"
+    },
+    {
+     "k": "C",
+     "en": "Kilobyte",
+     "ur": "کلو بائٹ"
+    },
+    {
+     "k": "D",
+     "en": "Word",
+     "ur": "ورڈ"
+    }
+   ]
+  }
+ ]
+}

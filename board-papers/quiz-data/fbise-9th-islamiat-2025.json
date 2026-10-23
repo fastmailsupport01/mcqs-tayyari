@@ -1,0 +1,570 @@
+{
+ "board": "FBISE Islamabad",
+ "board_slug": "fbise",
+ "class": "9th",
+ "subject": "Islamiat",
+ "year": 2025,
+ "slug": "fbise-9th-islamiat-2025",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Version B",
+   "q_en": "Which book is still safe in its real form?",
+   "q_ur": "کون سی کتاب اپنی اصل صورت میں محفوظ ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": "Torah (تورات)"
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": "Bible (انجیل)"
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": "Zaboor (زبور)"
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": "Quran Pak (قرآن مجید)"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version B",
+   "q_en": "According to hadith deliberate wrong advice is:",
+   "q_ur": "حدیث کے مطابق جان بوجھ کر غلط مشورہ دینا کیا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": "Good deed (نیکی)"
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": "Dishonesty (خیانت)"
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": "Appreciated (حوصلہ افزا)"
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": "Honesty (دیانت داری)"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version B",
+   "q_en": "Key to paradise is:",
+   "q_ur": "جنت کی کنجی _____ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": "Fast (روزہ)"
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": "Hajj (حج)"
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": "Namaz (نماز)"
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": "Zakat (زکوٰۃ)"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version B",
+   "q_en": "To whom did the Holy Prophet (ﷺ) give the key of the Kaaba on the occasion of the conquest of Makkah?",
+   "q_ur": "فتح مکہ کے موقع پر نبی کریم (ﷺ) نے خانہ کعبہ کی چابی کس کے حوالے فرمائی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": "Usman bin Affan (رض) / حضرت عثمان بن عفانؓ"
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": "Usman bin Talha (رض) / حضرت عثمان بن طلحہؓ"
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": "Usman bin Ali (رض) / حضرت عثمان بن علیؓ"
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": "Usman bin Hassan (رض) / حضرت عثمان بن حسنؓ"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version B",
+   "q_en": "The name of the grandfather of Prophet (خاتم النبیین ﷺ):",
+   "q_ur": "خاتم النبیین (ﷺ) کے دادا کا نام کیا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": "Abdul Rab (عبدالرب)"
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": "Abdul Talib (عبدالطالب)"
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": "Abdul Rasheed (عبدالرشید)"
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": "Abdul Mutalib (عبدالمطلب)"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version B",
+   "q_en": "According to hadith one who is not _____ has no faith (ایمان).",
+   "q_ur": "حدیث کے مطابق جو شخص _____ نہیں اس کا کوئی ایمان نہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": "Honest (امانت دار)"
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": "Dishonest (خائن)"
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": "Brave (بہادر)"
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": "Patient (صابر)"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version B",
+   "q_en": "In quran, the word used for 'قسم' (Oath) is:",
+   "q_ur": "قرآن مجید میں 'قسم' کے لیے _____ کا لفظ استعمال ہوا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": "جسم"
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": "حسین"
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": "عمود"
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": "یمین"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version B",
+   "q_en": "According to whom unannounced charity reduces Allah (ﷻ)'s anger?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": "Nizamuddin (Auliya) (رح)"
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": "Zain ul Abidin (رح)"
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": "Abn-e-Khuldun (رح)"
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": "Jalal ud Din (رح)"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version B",
+   "q_en": "Hazrat Abdullah bin Amer bin Aas had the command on _____ other than Arabic.",
+   "q_ur": "حضرت عبداللہ بن عمرو بن عاصؓ کو عربی زبان کے علاوہ _____ پر دسترس حاصل تھی۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": "Latin (لاطینی)"
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": "Sanskrit (سنسکرت)"
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": "Syraic/Hebrew (عبرانی/سریانی)"
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": "Persian/French (فارسی/فرانسیسی)"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version B",
+   "q_en": "'الا تقان فی علوم القرآن' is the compilation of which famous scholar?",
+   "q_ur": "'الاتقان فی علوم القرآن' کس مشہور عالم کی تصنیف ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": "Abdul Qasim Qashairi (عبدالقاسم قشیری)"
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": "Faridudin Attar (فرید الدین عطار)"
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": "Allama Shatibi (علامہ شاطبی)"
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": "Allama Ibn Khaldun (علامہ ابن خلدون)"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Version D",
+   "q_en": "In which Hijri year were the Ramadhan fasts made obligatory?",
+   "q_ur": "رمضان کے روزے کس ہجری میں فرض ہوئے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": "10 Hijri (10 ہجری)"
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": "5 Hijri (5 ہجری)"
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": "2 Hijri (2 ہجری)"
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": "1 Hijri (1 ہجری)"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Version D",
+   "q_en": "Whom did the Prophet (خاتم النبیین ﷺ) appoint as the governor of Makkah on the occasion of the conquest of Makkah?",
+   "q_ur": "فتح مکہ کے موقع پر نبی کریم (خاتم النبیین ﷺ) نے مکہ کا گورنر کس کو مقرر فرمایا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": "Abu Musa Ashari (رض) / ابوموسیٰ اشعریؓ"
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": "Etab bin Usaid (رض) / عتاب بن اسیدؓ"
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": "Abu Drda (رض) / ابودرداءؓ"
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": "Abu Zar Ghiffari (رض) / ابوذر غفاریؓ"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Version D",
+   "q_en": "What was the main purpose of the Hilful Fazool?",
+   "q_ur": "حلف الفضول کا بنیادی مقصد _____ تھا۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": "Commercial affairs (تجارتی معاملات)"
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": "Advocacy of the oppressed (مظلوم کی مدد)"
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": "Employment (روزگار کا حصول)"
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": "Diplomacy (سفارت کاری)"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Version D",
+   "q_en": "Honesty in _____ leads to peace in society.",
+   "q_ur": "_____ میں امانت داری سے معاشرے میں سکون پیدا ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": "Worship (عبادات)"
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": "Affairs (معاملات)"
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": "Seclusion (خلوت نشینی)"
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": "Generosity (سخاوت)"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Version D",
+   "q_en": "According to the Prophet's command which of these actions mollify good deeds?",
+   "q_ur": "نبی کریم (خاتم النبیین ﷺ) کے فرمان کے مطابق ان میں سے کون سی چیز نیکیوں کو مٹا دیتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": "Arrogance (تکبر)"
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": "Hypocrisy (منافقت)"
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": "Jealousy (حسد)"
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": "Backbiting (غیبت)"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Version D",
+   "q_en": "The Kaffara (کفارہ) is on:",
+   "q_ur": "کفارہ کس پر لازم ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": "عین مقتولہ"
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": "عین مظلوم"
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": "عین ظالم"
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": "عین مقتول"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Version D",
+   "q_en": "According to the Quran how many types of neighbors are there?",
+   "q_ur": "قرآن کے رو سے پڑوسی کی کتنی اقسام ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Version D",
+   "q_en": "Which sahabi delivered the letter of invitation to Islam to the King of Abyssinia Najashi?",
+   "q_ur": "شاہ نجاشی کو دعوت اسلام کا خط پہنچانے والے صحابی کون تھے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": "Amar bin Aas (رض) / عمرو بن عاصؓ"
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": "Amar bin Saeed (رض) / عمرو بن سعیدؓ"
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": "Amar bin Umayyah (رض) / عمرو بن امیہؓ"
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": "Amar bin Salim (رض) / عمرو بن سالمؓ"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Version D",
+   "q_en": "Who participated in seven battles during the era of the Prophet (خاتم النبیین ﷺ)?",
+   "q_ur": "خاتم النبیین (ﷺ) کے عہد میں سات غزوات میں کس صحابیہؓ نے شرکت کی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": "Ummi Shifa (رض) / ام شفاءؓ"
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": "Ummi Aiman (رض) / ام ایمنؓ"
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": "Ummi Salma (رض) / ام سلمہؓ"
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": "Ummi Atiya (رض) / ام عطیہؓ"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Version D",
+   "q_en": "What is the subject of Allama Abdul Qasim al Qushayri's book 'Risala al Qushaysiya'?",
+   "q_ur": "علامہ ابوالقاسم قشیری کی کتاب 'رسالہ قشیریہ' کس موضوع پر ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "",
+     "ur": "Sufism (تصوف)"
+    },
+    {
+     "k": "B",
+     "en": "",
+     "ur": "Matters (معاملات)"
+    },
+    {
+     "k": "C",
+     "en": "",
+     "ur": "Abandon innovation (ترک بدعات)"
+    },
+    {
+     "k": "D",
+     "en": "",
+     "ur": "Legacy (میراث)"
+    }
+   ]
+  }
+ ]
+}
