@@ -1,0 +1,1130 @@
+{
+ "board": "BISE Sahiwal",
+ "board_slug": "sahiwal",
+ "class": "12th",
+ "subject": "Mathematics",
+ "year": 2021,
+ "slug": "sahiwal-12th-mathematics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "If f(x) = √(x+4) then f(x²+4) is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "√(x²+8)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "√(x²-8)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√(x-8)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x²-8",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The function f(x) = (2+3x)/(2x) is not continuous at:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x = -3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x = -2/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x = 1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x = 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "lim(x→a) (f(x)-f(a))/(x-a) = ____",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "f'(x)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "f'(a)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "f'(0)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "f'(x-a)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "f(x) = x^(2/3), then f'(8) = ____",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The derivative of (x³+2x²)/x³ equals:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2/x²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-2/x²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/(2x²)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-1/(2x²)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "If f(x) = tan⁻¹x, then f'(cot x) is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/(1+x²)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "sin²x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "cos²x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "sec²x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "f(x+δx) = ____",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "f'(x)δx",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "f(x) - f'(x)δx",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "f(x) + f'(x)δx",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "f(x)δx",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "∫(a/(x√(x²-1)))dx =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a tan⁻¹x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-a cosec⁻¹x + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-a sec⁻¹x + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/a sec⁻¹x + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "When the expression √(a²-x²) involves in integration substitute, is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x = a sin θ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a sec θ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a tan θ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a = sin θ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "∫₀³ 1/√(9-x²) dx = ____",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2/π",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-2/π",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-π/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Which of the following is not a solution of the system of inequalities x+2y ≤ 8, 2x-3y ≤ 6, 2x+y ≥ 2, x ≥ 0, y ≥ 0",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(1,0)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(8,0)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(0,4)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(3,0)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "When axes are translated, the coordinates of the point (-6,9) are changed into (-3,7), find the point through which axes are translated:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(-3,2)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(3,-2)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(7,-3)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(-9,6)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "The equation of horizontal line passing through (-5,3) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x+5=0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-5x+3y=0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3x-5y=0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "y-3=0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "A line passes through (1,5) and (k,7) and has a slope k, the values of k is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-1 and 2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3 and -2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2, -3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-1, -2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "The focus of the parabola y² = 4ax is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(a,0)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(0,a)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(-a,0)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "The eccentricity of y²/4 - x² = 1 equals:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "√2/√5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2/√5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-√5/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√5/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "Conic are the curves obtained by cutting a right circular cone by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sphere",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A line",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A plane",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A curve",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group I",
+   "q_en": "If a and b are two non-zero vectors, then a×b = ____",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "b×a",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a·b",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-a×-b",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "b×a [best-effort]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group I",
+   "q_en": "Angle between the vectors l+j, l-j is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group I",
+   "q_en": "Projection of a along b is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "â·b̂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a-b",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a·b̂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "â·b",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "The perimeter P of a square as a function of its area A is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "P = √A",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "P = 2√A",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "P = 3√A",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "P = 4√A",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "lim(x→3) (x-3)/√(x-√3) = ____",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "√3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2√3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/√3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/(2√3)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "If 3x+4y-5=0, then dy/dx =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4/3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-4/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-3/4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "d/dx(√(cot x)) =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/(2√(cot x))",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "cosec²x/(2√(cot x))",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-cosec²x/(2√(cot x))",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2cosec²x/√(cot x)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "If f(x) = tan⁻¹x, then f'(cot x) =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "sin²x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "cos²x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "sec²x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/(1+x²)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "d/dx(-cot x) =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "sec²x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "cosec²x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-cosec²x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "tan²x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "∫aˣdx =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "aˣ + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "aˣ + lna + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "aˣ·lna + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "aˣ/(lna) + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "The anti-derivative of 1/((1+x²)tan⁻¹x) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ln(tan⁻¹x) + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ln(1+x²) + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2(tan⁻¹x)² + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/2(tan⁻¹x)² + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Suitable substitution for solving ∫1/(x√(x²-a²)) dx is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x = a sin θ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x = a tan θ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x = a sec θ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x = a cos θ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "∫₀^(π/4) sec²x dx =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "If (3,5) is the mid-point of (5,a) and (1,7), then a = ____",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "The point (3,-8) lies in the ____ quadrant.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1st",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2nd",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3rd",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4th",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "The lines l₁ and l₂ with slopes m₁ and m₂ respectively, are parallel if:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "m₁m₂ = 1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "m₁ = m₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "m₁m₂ = -1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "m₁ + m₂ = 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "The point (2,1) is not in the solution of the inequality:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2x+y > 3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2x+y > 4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2x+y < 3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2x+y > 1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "Centre of the circle x²+y²+7x-3y = 0, is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(7,-3)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(-7/2,3/2)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(-7,3)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(7/2,-3/2)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "The equation of directrix of the parabola x² = 5y is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x+5/4=0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x-5/4=0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "y+5/4=0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "y-5/4=0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "The length of latus-rectum of hyperbola x²/a² - y²/b² = 1, is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a²/(2b)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "b²/(2a)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2b²/a [best-effort]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2b²/a [best-effort]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group II",
+   "q_en": "If u = 2αi + j - k and v = i + αj + 4k are perpendicular, then α =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-4/3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group II",
+   "q_en": "The vectors u, v and w are coplanar if:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "u·v×w = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "u·v×w = 1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "u·v×w = 2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "u·v×w = 3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group II",
+   "q_en": "Work done by a constant force F̅ during a displacement d̅ is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "F̅×d̅",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "d̅×F̅",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "F̅+d̅",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "F̅·d̅",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

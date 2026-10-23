@@ -1,0 +1,486 @@
+{
+ "board": "BISE Sahiwal",
+ "board_slug": "sahiwal",
+ "class": "12th",
+ "subject": "Physics",
+ "year": 2021,
+ "slug": "sahiwal-12th-physics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "For an inductor connected to an A.C. source, the applied voltage:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "leads the current",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "is in phase with current",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "lags the current",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "changes independently",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The power dissipated in A.C. circuit is given by P = I_rms × V_rms cosθ, in this relation cosθ is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "phase factor",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "gain factor",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "loss factor",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "power factor",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The curie temperature for iron is about:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "100°C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "750°C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "900°C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1150°C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The reverse current through a semiconductor diode is due to flow of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "holes",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "electrons",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "majority carriers",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "minority carriers",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "A light emitting diode emits light only when it is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "OFF",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "reverse biased",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "forward biased",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "unbiased",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Momentum of photon is given by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "hλ/c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "fλ/c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "hf/c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "hf/λ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Compton shift equals the Compton wavelength, if the scattered X-ray photons are observed at:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "180°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "45°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Orbital angular momentum of an electron in the allowed stationary orbit of hydrogen atom is given by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "nh/(2π)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2h/(nπ)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2π/(nh)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2n/πh [best-effort]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The unit of decay constant is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "S⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "m⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "S",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Total number of quarks is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Self inductance of a solenoid having length \"l\" number of turns per unit length \"n\" and area of cross-section \"A\" is given by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "n²Al",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "μ₀nAl",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "μ₀n²Al",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "μ₀nA²l",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "One henry is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Vs⁻¹A⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Vs⁻¹A",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "VsA",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "VsA⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "When a charged particle is projected at right angle to the magnetic field, the magnitude of the magnetic force on charged particle is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "infinite",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "maximum",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "zero",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "negligible",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "The value of permeability of free space is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4×10⁻² Wb A⁻¹ m⁻¹ [best-effort]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4×10⁹ Wb A⁻¹ m⁻¹ [best-effort]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4π×10⁻² Wb A⁻¹ m⁻¹ [best-effort]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4π×10⁷ Wb A⁻¹ m⁻¹ [best-effort]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "SI unit of conductivity is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "mho m⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Siemen",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ω m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ω K⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "A capacitor is a device that can:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "generate charge",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "store charge",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "neutralize charge",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "burn charge",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "Electric flux through a surface enclosing a charge depends on:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "charge only",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "medium only",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "shape of closed surface",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "medium and charge enclosed",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}
