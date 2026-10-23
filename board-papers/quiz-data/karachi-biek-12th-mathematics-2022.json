@@ -1,0 +1,822 @@
+{
+ "board": "BIEK Karachi",
+ "board_slug": "karachi-biek",
+ "class": "12th",
+ "subject": "Mathematics",
+ "year": 2022,
+ "slug": "karachi-biek-12th-mathematics-2022",
+ "questions": [
+  {
+   "n": "i",
+   "group": "Annual Examination",
+   "q_en": "The general term of the sequence 1-2, 2-3, 3-4, ............is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "n",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "n + 1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "n(n + 1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "n(n + 2)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ii",
+   "group": "Annual Examination",
+   "q_en": "A real value function f(x) = x + x3 is a/an:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Even function",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Odd function",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Composite function",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Neither even nor odd function",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iii",
+   "group": "Annual Examination",
+   "q_en": "lim (n→∞) (1 + 1/n)^n is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/e",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "e",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-e",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iv",
+   "group": "Annual Examination",
+   "q_en": "lim (n→∞) (x² - 4)/(x - 2)",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "v",
+   "group": "Annual Examination",
+   "q_en": "Slope of a vertical line is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "∞",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vi",
+   "group": "Annual Examination",
+   "q_en": "If the lines a1x + b1y + c1 = 0 and a2x + b2y + c2 = 0 are perpendicular, then:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a1b2 - a2b2 = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a1a2 + b1b2 = 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a1b1 + a2b2 = 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a1b1 - a2b2 = 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vii",
+   "group": "Annual Examination",
+   "q_en": "Slope of the line perpendicular to the line 2x - y + 3 = 0 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-1/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "viii",
+   "group": "Annual Examination",
+   "q_en": "The equation x(1/2) + y(√3/2) = 2 is in perpendicular form, then the value of sin α is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "√3/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/√3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2/√3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ix",
+   "group": "Annual Examination",
+   "q_en": "The point of concurrency of the internal bisectors of angles of a triangle is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "orthocenter",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "incentre",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "centroid",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "circumcenter",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "x",
+   "group": "Annual Examination",
+   "q_en": "If A, B and C are collinear points then area of triangle ABC is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Positive",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Negative",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "infinite",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xi",
+   "group": "Annual Examination",
+   "q_en": "Every linear equation represents a/an:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Straight line",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Circle",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Parabola",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ellipse",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xii",
+   "group": "Annual Examination",
+   "q_en": "The inclination of a line is 135o, then slope is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "√3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiii",
+   "group": "Annual Examination",
+   "q_en": "Two lines represented by ax² + 2hxy + by² = 0 will be orthogonal if:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a + b = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a = b",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a + b = 1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ab = 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiv",
+   "group": "Annual Examination",
+   "q_en": "The centroid of a triangle divides the median internally in the ratio of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 : 2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3 : 2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2 : 1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2 : 2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xv",
+   "group": "Annual Examination",
+   "q_en": "An equation including dy/dx is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Polynomial Equation",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Differential Equation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Exponential Equation",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Logarithmic Equation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xvi",
+   "group": "Annual Examination",
+   "q_en": "If y(x) = tan⁻¹ 2x then f(x) =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/(1 + x²)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/(4 + x²)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2/(1 + 4x²)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2/(4 + x²)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xvii",
+   "group": "Annual Examination",
+   "q_en": "The slope of tangent to the curve y = x2 + 2x + 3 at (1, 2) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xviii",
+   "group": "Annual Examination",
+   "q_en": "If S = 9√t is the relation between distance and time, then speed at t = 1 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "9/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2/9",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/18",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-2/9",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xix",
+   "group": "Annual Examination",
+   "q_en": "If y = sin⁻¹ 2x, then its derivative is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-2/√(1 - 4x²)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2/√(1 - 4x²)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-2/√(1 + 4x²)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2/√(1 + 4x²)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xx",
+   "group": "Annual Examination",
+   "q_en": "If y = x³ + 4, then d²y/dx² = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3x²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxi",
+   "group": "Annual Examination",
+   "q_en": "The necessary condition for function f(x) to have extreme value is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "f'(x) = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "f(x) = 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "f''(x) = 1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "f''(x) = 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxii",
+   "group": "Annual Examination",
+   "q_en": "Anti-derivative of zero is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Constant",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxiii",
+   "group": "Annual Examination",
+   "q_en": "∫ dx/(2x + 3) =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2ln(2x + 3) + C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/2 ln(2x + 3) + C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ln(2x + 3) + C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3ln(2x + 3) + C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxiv",
+   "group": "Annual Examination",
+   "q_en": "∫ ln e^x dx =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ex + C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ln ex + C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x²/2 + C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ln x + C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxv",
+   "group": "Annual Examination",
+   "q_en": "∫ x^p dx = when p ≠ -1:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x^(p+1)/(p+1) + C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "px^(p-1) + C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x^(p-1)/(p-1) + C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "px^(p+1) + C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxvi",
+   "group": "Annual Examination",
+   "q_en": "∫ tan x sec² x dx:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/2 tan²x + C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/3 tan²x + C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/2 sec²x + C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/3 sec²x + C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxvii",
+   "group": "Annual Examination",
+   "q_en": "∫ e^(x²) 2x dx =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "e^(x²) + C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "e^(x²)/2 + C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2e^(x²) + C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "e^(x²)/(2x) + C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxviii",
+   "group": "Annual Examination",
+   "q_en": "Formula for area above the x - axis, under the curve is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "∫ₐᵇ y dx",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "∫ₐᵇ x dx",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "∫ₐᵇ y dy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "∫ₐᵇ x dy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxix",
+   "group": "Annual Examination",
+   "q_en": "The centre of the circle x² + y² + 4x + 2y - 3 = 0 is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(2, 1)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(-2, -1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(2, -1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(1, 2)",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

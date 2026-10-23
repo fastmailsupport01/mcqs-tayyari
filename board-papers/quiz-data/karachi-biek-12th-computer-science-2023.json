@@ -1,0 +1,430 @@
+{
+ "board": "BIEK Karachi",
+ "board_slug": "karachi-biek",
+ "class": "12th",
+ "subject": "Computer Science",
+ "year": 2023,
+ "slug": "karachi-biek-12th-computer-science-2023",
+ "questions": [
+  {
+   "n": "i",
+   "group": "Annual Examination",
+   "q_en": "This is the extension used to represent the project file in Visual Basic",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": ".vbp",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": ".vb",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": ".cis",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": ".vvb",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ii",
+   "group": "Annual Examination",
+   "q_en": "This toolbox is used to include an age on the Visual Basic form:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Add Image Box",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Picture Box",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Add Picture Box",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Image Box",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iii",
+   "group": "Annual Examination",
+   "q_en": "This is used to display a message box in Visual Basic:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Message Box. Show",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Message show",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Message Box",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "AlertBox. View",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iv",
+   "group": "Annual Examination",
+   "q_en": "Comparison operators are also termed as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Comparators",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Comparables",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Relations",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Relational",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "v",
+   "group": "Annual Examination",
+   "q_en": "This is the result of the expression 10 − 5 > 3 * 4 − 2",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Syntax error",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "No resulting value found",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "False",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "True",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vi",
+   "group": "Annual Examination",
+   "q_en": "It is the process of adding a number to the value stored in a value:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Counting",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Updating",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Accumulating",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Decrementing",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vii",
+   "group": "Annual Examination",
+   "q_en": "Passing a copy of the variable is referred to as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Pass by value",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Pass by adress",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Pass by reference",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Pass by pointer",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "viii",
+   "group": "Annual Examination",
+   "q_en": "It returns a value after performing its specific task:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Function Procedure",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Sub procedure",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Sub block",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Structure",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ix",
+   "group": "Annual Examination",
+   "q_en": "This statement is the last statement in the function:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Footer",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Header",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Return",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Call",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "x",
+   "group": "Annual Examination",
+   "q_en": "The items in a combo box belong to this collection:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "items",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "list",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "list box",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "values",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xi",
+   "group": "Annual Examination",
+   "q_en": "It allows you to select from a list of choices.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Combo box",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Combo list",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Check box",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Radio button",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xii",
+   "group": "Annual Examination",
+   "q_en": "Data in an Array can be distinguished using",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Reference",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Subscript",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Array",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ID",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiii",
+   "group": "Annual Examination",
+   "q_en": "This database model arranges data in a parent child relationship:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Relation Model",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Network Model",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Hierarchical Model",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Flat Model",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiv",
+   "group": "Annual Examination",
+   "q_en": "This database model may have more than one parent:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Relation Model",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Network Model",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "hierarchical Model",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Flat Model",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xv",
+   "group": "Annual Examination",
+   "q_en": "In database, columns are called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Tuples",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Attributes",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Keys",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Table",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

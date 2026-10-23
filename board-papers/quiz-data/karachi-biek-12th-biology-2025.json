@@ -1,0 +1,962 @@
+{
+ "board": "BIEK Karachi",
+ "board_slug": "karachi-biek",
+ "class": "12th",
+ "subject": "Biology",
+ "year": 2025,
+ "slug": "karachi-biek-12th-biology-2025",
+ "questions": [
+  {
+   "n": "i",
+   "group": "Botany",
+   "q_en": "Process where information present on gene is used to produce a functional product by living organism is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Transcription",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Translation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Gene expression",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mutation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ii",
+   "group": "Botany",
+   "q_en": "It is a condition of true colour blindness:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Monochromacy",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Dichromacy",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Trichromacy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Haemophilia",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iii",
+   "group": "Botany",
+   "q_en": "Organs with similar functions but different in their anatomical features are termed as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Analogous organs",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Homoglous organs",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Exterior organs",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Interior organs",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iv",
+   "group": "Botany",
+   "q_en": "Conversion of nitrates into nitrogen is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nitrification",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Denitrification",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ammonification",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nitrogen fixation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "v",
+   "group": "Botany",
+   "q_en": "The water cycle begins with the process of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Transpiration",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Combustion",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Evaporation",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Decomposition",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vi",
+   "group": "Botany",
+   "q_en": "The protein that prevents the rebinding of complementary DNA strand during replication fork is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "DNA Helicase",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ligase",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "SSB (Single Stranded Binding Protein)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Primase",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vii",
+   "group": "Botany",
+   "q_en": "Ecological succession occurring in Arid environments like deserts, mountain and dumes is known as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hydrarch",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Xerarch",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Secondary",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Primary",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "viii",
+   "group": "Botany",
+   "q_en": "This type of culture is used to produce disease free plants from infected plant material:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Meristem culture",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Embryo culture",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ovary culture",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Anther culture",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ix",
+   "group": "Botany",
+   "q_en": "This type of cell culture involves the isolation of cells directly from animal tissues and their growth in vitro:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "primary cell culture",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "cell line culture",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3D culture",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "cloning",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "x",
+   "group": "Botany",
+   "q_en": "The second stage of Xerarch stage succession is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Crustose-Lichens stage",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Foliase-Lichens stage",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Herb stage",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Moss stage",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xi",
+   "group": "Botany",
+   "q_en": "Mutation in which genes are mutated in normal pattern without any harmful effect:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Positive mutation",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Negative mutation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Neutral mutation",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Linkage",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xii",
+   "group": "Botany",
+   "q_en": "The Endosymbiotic theory was suggested by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Lynn Margulis",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Darwin",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Lamarck",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Malthus",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiii",
+   "group": "Botany",
+   "q_en": "The gene which interferes of masks the phenotype of the non-locus gene is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mutant gene",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Epistatic gene",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Pleiotropy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Sex-linked",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiv",
+   "group": "Botany",
+   "q_en": "The alleles of holandric genes is located on:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "X-chromosome",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Y-chromosome",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Both X and Y chromosomes",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Autosome",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xv",
+   "group": "Botany",
+   "q_en": "According to the International Society of Blood Transfusion, the number of system of blood groups are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "15",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "more than 30",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xvi",
+   "group": "Botany",
+   "q_en": "Transgenic plant used in biofuel production is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cord grass",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Lemon grass",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Switch grass",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Glasswort",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "i",
+   "group": "Zoology",
+   "q_en": "This belongs to endothermic:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Frog",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Human",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Lizard",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Fish",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ii",
+   "group": "Zoology",
+   "q_en": "Kidney secrete this hormone for maintaining of blood pressure:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Erythropoietin",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Leukopoietin",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Renin",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Thrombopoietin",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iii",
+   "group": "Zoology",
+   "q_en": "A bone lies in between skull and post cranial skeleton is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Malleus",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cervical bone",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Hyoid bone",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cranial bone",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iv",
+   "group": "Zoology",
+   "q_en": "In vitro fertilization (IVF) is a method used for:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Treat infertility",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Enhance hormones",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Prevents STDs",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Enhance Enzymes",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "v",
+   "group": "Zoology",
+   "q_en": "It is controlled by medulla oblongata in the brain:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Vision",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Memory",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Balance",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Breathing",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vi",
+   "group": "Zoology",
+   "q_en": "Goiter is caused by the deficiency of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Calcium",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Iodine",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Potassium",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Sodium",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vii",
+   "group": "Zoology",
+   "q_en": "Glycogen is converted into glucose by the action of this hormone:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Insulin",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Glucagon",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Calcitonim",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cortisol",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "viii",
+   "group": "Zoology",
+   "q_en": "This is related to abnormal or degenerative changes in vertebrae:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sciatica",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Spondylosis",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Disc slip",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Simple fracture",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ix",
+   "group": "Zoology",
+   "q_en": "Part of human brain Hippocampus name from its shape because it resembles with:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sea lion",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Sea shell",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Sea horse",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Horse shoe",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "x",
+   "group": "Zoology",
+   "q_en": "Syphilis is a sexually transmitted disease caused by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Virus",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Bacteria",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Protozoan",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Yeast",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xi",
+   "group": "Zoology",
+   "q_en": "The number of muscles in human body is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "300",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "400",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "500",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "600",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xii",
+   "group": "Zoology",
+   "q_en": "The end of fertility in female is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Menarch",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Menses",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Menopause",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ovulation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiii",
+   "group": "Zoology",
+   "q_en": "It trigger the release of Testosteron into the blood:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "PSH",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "LH",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "PH",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Inhibin",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiv",
+   "group": "Zoology",
+   "q_en": "Degeneration of dopamine in neuron caused by this:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Alzheimer's disease",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Parkinson's disease",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Huntington's disease",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Epilepsy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xv",
+   "group": "Zoology",
+   "q_en": "The hormone that prevents urination and dehydration is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Oxytocin",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "T3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ADH",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ACTH",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xvi",
+   "group": "Zoology",
+   "q_en": "Over secretion of cortisol causes:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Addison's disease",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Crushing's disease",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Acromegaly",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Diabetes",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xvii",
+   "group": "Zoology",
+   "q_en": "If the body is injured and bleeds, this begin:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Positive feedback",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Negative feedback",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Both positive and negative feedback",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "End of feedback",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xviii",
+   "group": "Zoology",
+   "q_en": "This is caused due to the deficiency of insulin:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "High blood pressure",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Diarrhea",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Diabetes",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Anaemia",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

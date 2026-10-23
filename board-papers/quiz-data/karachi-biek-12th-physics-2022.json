@@ -1,0 +1,934 @@
+{
+ "board": "BIEK Karachi",
+ "board_slug": "karachi-biek",
+ "class": "12th",
+ "subject": "Physics",
+ "year": 2022,
+ "slug": "karachi-biek-12th-physics-2022",
+ "questions": [
+  {
+   "n": "i",
+   "group": "Annual Examination",
+   "q_en": "The value of absolute zero on the Fahrenheit scale is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "491.[illegible in source scan]°F",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−459.4°F",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−523.4°F",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "459.4°F",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ii",
+   "group": "Annual Examination",
+   "q_en": "The resistivity of a material is ρ .If area of cross-section of material is doubled and length is halved then the resistivity of conductor:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "remains constant",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "increases 4 times",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "increases 2 times",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "is one fourth",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iii",
+   "group": "Annual Examination",
+   "q_en": "A voltmeter is an ideal one if its internal resistance is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "very large",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "large",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "small",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "infinite",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iv",
+   "group": "Annual Examination",
+   "q_en": "Pentavalent impurities are also known as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Accepter Impurities",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Donor Impurities",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Hole",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Electron",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "v",
+   "group": "Annual Examination",
+   "q_en": "The relativistic mass of 5kg ball observed by observer moving with a speed equal to speed of light is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5kg",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10 kg",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "infinite",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "20 kg",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vi",
+   "group": "Annual Examination",
+   "q_en": "An intense, monochromatic, narrow and coherent beam of light is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "X − rays",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "β − rays",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "LASER",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "MASER",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vii",
+   "group": "Annual Examination",
+   "q_en": "The force that holds nucleons together in nucleus is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "nuclear force",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "coulombs force",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "gravitational force",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "weak force",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "viii",
+   "group": "Annual Examination",
+   "q_en": "This is the most penetrating:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "α - particle",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "β - particle",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "γ − rays",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "positron",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ix",
+   "group": "Annual Examination",
+   "q_en": "Four bulbs of 10W, 20W, 30W and 40W are connected in series. The bulb that will shine the most is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10W",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "20 W",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "30 W",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "40W",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "x",
+   "group": "Annual Examination",
+   "q_en": "Photoelectric effect proves this nature of light:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Wave",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Particle",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Polarization",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Diffraction",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xi",
+   "group": "Annual Examination",
+   "q_en": "If the number of electrons in excited state exceeds than the number of electrons in the ground state, then this will occur:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Excitation Potential",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Population Inversion",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Excitation Energy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ionization Energy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xii",
+   "group": "Annual Examination",
+   "q_en": "A current of 9 amp flows in a circuit of three resistors connected parallel. If each resistor has magnitude 5 Ω, then current in the 3rd resistor is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "9 amp",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3 amp",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.5 amp",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.5 amp",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiii",
+   "group": "Annual Examination",
+   "q_en": "If the forbidden energy gap is very small, then material is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Insulator",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Conductor",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Semi-Insulator",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Semi-Conductor",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiv",
+   "group": "Annual Examination",
+   "q_en": "In this process, matter is converted into energy:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Pair production",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Compton effect",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Photo electric effect",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Annihilation of matter",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xv",
+   "group": "Annual Examination",
+   "q_en": "LASER produces three dimensional image called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "monogram",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "spectrogram",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "hologram",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "photogram",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xvi",
+   "group": "Annual Examination",
+   "q_en": "The number of neutrons in ₉₂U²³⁵ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "92",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "146",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "143",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "140",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xvii",
+   "group": "Annual Examination",
+   "q_en": "A transformer step down:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Energy",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "AC only",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "DC only",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "both AC & DC",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xviii",
+   "group": "Annual Examination",
+   "q_en": "The section of transistor that supplies charge carriers (electrons or holes) is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "collector",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "base",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "emitter",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "junction",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xix",
+   "group": "Annual Examination",
+   "q_en": "In pair production the electron and positron move in opposite direction to conserve:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Momentum",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Charge",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Energy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mass",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xx",
+   "group": "Annual Examination",
+   "q_en": "If distance between the plates of capacitor of capacitance C is doubled and area is halved, the capacitance will become:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "C/4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxi",
+   "group": "Annual Examination",
+   "q_en": "Induced emf cannot be produced by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "change of flux",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "movement of a coil",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "AC source",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "DC source",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxii",
+   "group": "Annual Examination",
+   "q_en": "A thermodynamic process, such as compression or expansion done very quickly, will nearly be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Isothermal",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Adiabatic",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Isochoric",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Isobaric",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxiii",
+   "group": "Annual Examination",
+   "q_en": "An electron of mass 'm' and charge 'e' is accelerated by a difference of potential V, its speed will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "v = √(2Ve/m)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "v = √(2Vm/e)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "v = √(2Vme)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "v = √(m/2Ve)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxiv",
+   "group": "Annual Examination",
+   "q_en": "Electric field intensity at a point inside a uniformly charged hollow sphere is given by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "σ/2ε₀",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "σ/ε₀",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2ε₀/σ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxv",
+   "group": "Annual Examination",
+   "q_en": "If work done in moving positive point charge along a surface is zero then this surface must be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hypothetical",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Irregular",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Equipotential",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Rough",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxvi",
+   "group": "Annual Examination",
+   "q_en": "A particle of mass and charge is to be held motionless by an electric field E, the electric intensity will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "E = mg/g",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "E = mg/q",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "E = mgq",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "E = q/mg",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxvii",
+   "group": "Annual Examination",
+   "q_en": "A 12 volt, battery with internal resistance 0.1Ω is to be charged at 10 Amp, the charger must be of this volt:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "11",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "9",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "13",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "12",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxviii",
+   "group": "Annual Examination",
+   "q_en": "A 2.2kW electric iron operates at 220 volt, the current it draws:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "20 Ampere",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "22 Ampere",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10 Ampere",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5 Ampere",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxix",
+   "group": "Annual Examination",
+   "q_en": "Lenz's law is direct consequence of this:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ohm's law",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Coulomb's law",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Faraday's law",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "law of conservation of energy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxx",
+   "group": "Annual Examination",
+   "q_en": "When a charged particle enters in a magnetic field B⃗ with velocity v⃗ making angle θ, the trajectory of particle will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "circular",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "elliptical",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "helix",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "straight line",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxxi",
+   "group": "Annual Examination",
+   "q_en": "The minimum energy required for pair production is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2.01 MeV",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.02 MeV",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.21 MeV",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.20 MeV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxxvii",
+   "group": "Annual Examination",
+   "q_en": "In 'L' shell of hydrogen atom, angular momentum of an electron on is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "h/2π",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2h/π",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "h/π",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2πh",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxxviii",
+   "group": "Annual Examination",
+   "q_en": "Isotope ₆C¹⁴ is mostly used in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Industry",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Medical Science",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Archeology",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Agriculture",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

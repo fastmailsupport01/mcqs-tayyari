@@ -1,0 +1,710 @@
+{
+ "board": "BIEK Karachi",
+ "board_slug": "karachi-biek",
+ "class": "12th",
+ "subject": "Mathematics",
+ "year": 2021,
+ "slug": "karachi-biek-12th-mathematics-2021",
+ "questions": [
+  {
+   "n": "i",
+   "group": "Annual Examination",
+   "q_en": "The lim (x→0) (e^(2x) - 1)/x =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ii",
+   "group": "Annual Examination",
+   "q_en": "lim (x→0) sin(4/5 x)/x =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5/4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4/5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iii",
+   "group": "Annual Examination",
+   "q_en": "lim (y→∞) (1 + 5/y)^y =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "e^5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "e^4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "e",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iv",
+   "group": "Annual Examination",
+   "q_en": "The perpendicular form of the equation of a straight line is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "y = mx + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "y - y1 = m(x - x1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x/a + y/b = 1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x cos α + y sin α = p",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "v",
+   "group": "Annual Examination",
+   "q_en": "Distance of the point (4,5) from y-axis is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5 units",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "9 units",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4 units",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1 unit",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vi",
+   "group": "Annual Examination",
+   "q_en": "The distance between two points (μ cos θ, μ sin θ) and (0, 0) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 units",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "μ units",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "μ² units",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-1 unit",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vii",
+   "group": "Annual Examination",
+   "q_en": "The slope of the line perpendicular to 3x - 5y - 15 = 0 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5/3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-5/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-3/5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3/5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "viii",
+   "group": "Annual Examination",
+   "q_en": "The slope of the tangent to the curve y = x² + 4 at x = 1 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ix",
+   "group": "Annual Examination",
+   "q_en": "If two lines are perpendicular, then:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a1a2 + b1b2 = 1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a1b2 + a2b1 = 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a1a2 + b1b2 = 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a1a2 + b1b2 = -1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "x",
+   "group": "Annual Examination",
+   "q_en": "d/dx (x^a) =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x^a ln a",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x^a / ln a",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x^a ln x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ax^(a-1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xi",
+   "group": "Annual Examination",
+   "q_en": "d/dx sec² x =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "sec²x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "sec²x tanx",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "tan x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2sec²x tanx",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xii",
+   "group": "Annual Examination",
+   "q_en": "If x = p sin t and y = q cos t, then dy/dx =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-tan t",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "q/p cos t",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-q/p tan t",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-q/p tan t",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiii",
+   "group": "Annual Examination",
+   "q_en": "If n = -1, then ∫ {f(x)}^n f'(x) dx :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "{f(x)}^(n+1)/(n+1) + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{f(x)}^(n+1)/n + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ln f(x) + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{f(x)}^(n-1)/(n-1) + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiv",
+   "group": "Annual Examination",
+   "q_en": "The necessary condition for f(x) to have an extreme value is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "f'(x) = 1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "f(x) = 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "f'(x) = 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "f''(x) = 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xv",
+   "group": "Annual Examination",
+   "q_en": "∫ dx/(3 + x²) =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "tan⁻¹ x/3 + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "sin⁻¹ x/√3 + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/√3 tan⁻¹ x/√3 + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "cos⁻¹ x/√3 + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xvi",
+   "group": "Annual Examination",
+   "q_en": "∫ e^2x dx is equal to :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2x + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "e^(2x) + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "e^(x²) + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x² + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xvii",
+   "group": "Annual Examination",
+   "q_en": "∫ (1 + x)dx/(x² + 2x) =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ln(x² + 2x) + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ln √(x² + 2x) + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ln(x² + 2x)² + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ln(2x + 1) + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xviii",
+   "group": "Annual Examination",
+   "q_en": "This equation of circle passes through the origin:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x² + y² + 8x + 7 = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x² + y² - 9y + 11 = 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x² + y² + 8x + 11y = 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x² + y² - 8x + 11y + 19 = 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xix",
+   "group": "Annual Examination",
+   "q_en": "The center of the circle x² + y² + 6x - 10y + 33 = 0 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(-3, 5)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(-3, -5)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(3, -5)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(3, 5)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xx",
+   "group": "Annual Examination",
+   "q_en": "The radius of the circle x² + y² + 2gx + 2fy + k = 0 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "√(g² + f² + k)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "√(g² + f² - k)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√(g² - f² + k)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√(f² - g² + k)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxi",
+   "group": "Annual Examination",
+   "q_en": "In the parabola y² = 4ax, 4a represents:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "focus",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "vertex",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "axis",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "length of latus rectum",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxii",
+   "group": "Annual Examination",
+   "q_en": "The length of minor axis of the ellipse x²/16 + y²/9 = 1 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "25",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxiii",
+   "group": "Annual Examination",
+   "q_en": "The vertices of hyperbola x²/16 + y²/4 = 1 are :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(±2, 0)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(0, ±2)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(0, ±4)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(±4, 0)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxiv",
+   "group": "Annual Examination",
+   "q_en": "Magnitude of the vector a = 3i - j + 2k is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "13",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "√12",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√14",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√11",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxv",
+   "group": "Annual Examination",
+   "q_en": "The unit vector in the direction of r = i + j + k is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "√3 (i + j + k)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/√3 (i + j + k)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/√3 (i - j + k)",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

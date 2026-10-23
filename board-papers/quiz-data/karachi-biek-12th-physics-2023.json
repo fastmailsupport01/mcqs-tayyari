@@ -1,0 +1,486 @@
+{
+ "board": "BIEK Karachi",
+ "board_slug": "karachi-biek",
+ "class": "12th",
+ "subject": "Physics",
+ "year": 2023,
+ "slug": "karachi-biek-12th-physics-2023",
+ "questions": [
+  {
+   "n": "i",
+   "group": "Annual Examination",
+   "q_en": "Kinetic energy per mole of an ideal gas is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/2 kT",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2/3 kT",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3/2 RT",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2/3 RT",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ii",
+   "group": "Annual Examination",
+   "q_en": "An instrument which can measure and compare potentials without drawing any current from the circuit is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ammeter",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Voltmeter",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Potentiometer",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "AV Ometer",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iii",
+   "group": "Annual Examination",
+   "q_en": "In laser, the lifetime of an electron in a metastable state is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10⁻³ sec",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10⁻⁸ sec",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10³ sec",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10⁹ sec",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iv",
+   "group": "Annual Examination",
+   "q_en": "On equipotential surface, work done in moving charged particle is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Positive",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Negative",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Infinite",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "v",
+   "group": "Annual Examination",
+   "q_en": "Balmer series of hydrogen atom spectrum lies in this region:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Infrared",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ultraviolet",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Visible",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Radio-wave",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vi",
+   "group": "Annual Examination",
+   "q_en": "If the temperature of a cold body is decreased, the efficiency of Carnot engine will:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "remain constant",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "increase",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "decrease",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "be zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vii",
+   "group": "Annual Examination",
+   "q_en": "The device is used to make the path of ionizing particles visible:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Geiger Muller Counter",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cyclotron",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Wilson Cloud Chamber",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Solid State Detector",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "viii",
+   "group": "Annual Examination",
+   "q_en": "The unit of potential gradient is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "volt/meter",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Coulomb/meter",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Volt / Ampere",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Volt/Ampere",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ix",
+   "group": "Annual Examination",
+   "q_en": "If 1A current flows through 2m long wire, the charge flows through it in 2 hours will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3600C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "7200C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "600 C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "x",
+   "group": "Annual Examination",
+   "q_en": "To obtain p-type semiconductor silicon must be doped with the atom whose valency is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xi",
+   "group": "Annual Examination",
+   "q_en": "Reverse process of photoelectric effect is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Pair production",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Compton effect",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Annihilation of matter",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "X-Ray production",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xii",
+   "group": "Annual Examination",
+   "q_en": "Compton effect proves the:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Photon Theory of Light",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Dual Nature of Light",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Nature of Light",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Uncertain Nature of Light",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiii",
+   "group": "Annual Examination",
+   "q_en": "The energy radiated from black body is directly proportional to the fourth power of absolute temperature' This law is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Wein's Law",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Rayleigh Jeans Law",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Stefan's Law",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Plank's Law",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiv",
+   "group": "Annual Examination",
+   "q_en": "A charge of 0.1C is accelerated through a potential difference of 1000 V, its kinetic energy will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "200J",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10J",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "100J",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "100 eV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xv",
+   "group": "Annual Examination",
+   "q_en": "It is the most suitable material for making core of electromagnet:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Air",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Steel",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Copper and Nickel Alloy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Soft Iron",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xvi",
+   "group": "Annual Examination",
+   "q_en": "coulomb/volt is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Newton",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Joule",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Farad",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ohm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xvii",
+   "group": "Annual Examination",
+   "q_en": "Rest mass of photon is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Infinite",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "9.11 × 10⁻³¹kg",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.67 × 10⁻²⁷kg",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

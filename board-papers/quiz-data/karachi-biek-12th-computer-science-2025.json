@@ -1,0 +1,430 @@
+{
+ "board": "BIEK Karachi",
+ "board_slug": "karachi-biek",
+ "class": "12th",
+ "subject": "Computer Science",
+ "year": 2025,
+ "slug": "karachi-biek-12th-computer-science-2025",
+ "questions": [
+  {
+   "n": "i",
+   "group": "Annual Examination",
+   "q_en": "This is the extension of a project file in VB:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": ".vbr",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": ".vbx",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": ".vbf",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "vbp",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ii",
+   "group": "Annual Examination",
+   "q_en": "The database model organizes data into a tree like structure:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Relational model",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Hierarchical model",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Network model",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Object oriented model",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iii",
+   "group": "Annual Examination",
+   "q_en": "Default property of first form is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Form0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Form1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Form",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Formn",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iv",
+   "group": "Annual Examination",
+   "q_en": "This control selects a single choice from a data group:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Check Box",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Option Button",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Caption Box",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "List Box",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "v",
+   "group": "Annual Examination",
+   "q_en": "The variable of this scope is limited to particular function/procedure in which it is declared is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Local variable",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Numeric variable",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Global variable",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Public variable",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vi",
+   "group": "Annual Examination",
+   "q_en": "Each row in a table is called a:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Field",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Tuple",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Entity",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Attribute",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vii",
+   "group": "Annual Examination",
+   "q_en": "It is a list of homogeneous data elements:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Form",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Function",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Check Box",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Array",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "viii",
+   "group": "Annual Examination",
+   "q_en": "A sub program which returns a value is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Function",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Report",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Code",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Procedure",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ix",
+   "group": "Annual Examination",
+   "q_en": "This is a loop in VB:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "If-Then",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "For-Next",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Select-Case",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Goto",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "x",
+   "group": "Annual Examination",
+   "q_en": "This object in MS-Access used to present data in printed form:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Form",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Query",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Report",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Table",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xi",
+   "group": "Annual Examination",
+   "q_en": "Primary key of another related table is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Candidate Key",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Alternate Key",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Composite Key",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Foreign Key",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xii",
+   "group": "Annual Examination",
+   "q_en": "Reserve word DIM explicitly declares:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Variable",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Constant",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Keyword",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Function",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiii",
+   "group": "Annual Examination",
+   "q_en": "This MS-Access object is considered primary:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Query",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Form",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Table",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Report",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiv",
+   "group": "Annual Examination",
+   "q_en": "The databases model allowing Query through SQL is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Network",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Hierarchical",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Relational",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Flat",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xv",
+   "group": "Annual Examination",
+   "q_en": "The various components in MS-Access are called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Tools",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Entities",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Properties",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Objects",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

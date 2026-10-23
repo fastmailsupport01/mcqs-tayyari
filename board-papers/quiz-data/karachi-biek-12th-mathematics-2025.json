@@ -1,0 +1,570 @@
+{
+ "board": "BIEK Karachi",
+ "board_slug": "karachi-biek",
+ "class": "12th",
+ "subject": "Mathematics",
+ "year": 2025,
+ "slug": "karachi-biek-12th-mathematics-2025",
+ "questions": [
+  {
+   "n": "i",
+   "group": "Annual Examination",
+   "q_en": "The Maple command of the function f(x) = 5xy, differentiate with respect to x:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "diff(5*x*y,y)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "diff(5x*y*, y)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "diff(5*x*y,x)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "diff(5*xy,x)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ii",
+   "group": "Annual Examination",
+   "q_en": "The Maple command to evaluate π to 5 digits is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "> evalf(Pi, 5)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "> evalf(5, pi)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "> evalf(pi * 5)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "> evalf(5 ÷ Pi)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iii",
+   "group": "Annual Examination",
+   "q_en": "In interval [4, 5] ∩ (4, 5) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "∅",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(4, 5)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{4, 5}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[4, 5]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iv",
+   "group": "Annual Examination",
+   "q_en": "If \"x\" is in radian, sin ax/x:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/a",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "v",
+   "group": "Annual Examination",
+   "q_en": "If y = tan⁻¹ √x, then dy/dx =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/(2√x(1+x))",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/(2x(1+x²))",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√x/(2(1+x))",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/(2x(1+√x))",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vi",
+   "group": "Annual Examination",
+   "q_en": "If f(x) = x² - 3x - 5 and f'(x) = 2 then x =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2/5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vii",
+   "group": "Annual Examination",
+   "q_en": "d/dx [a f(x)] =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a'",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a f'(x)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a' f(x)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "f'(x)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "viii",
+   "group": "Annual Examination",
+   "q_en": "Second order derivation of f'(x) = A sin x + B cos x is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "f(x)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-f(x)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "±f(x)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "f'(x)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ix",
+   "group": "Annual Examination",
+   "q_en": "If f(t) = (e^(2t) + l)k then f'(t) at t = 0 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "k",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2k",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "x",
+   "group": "Annual Examination",
+   "q_en": "∫ x^n dx; where n ≠ -1 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x^(n+1)/(n+1) + C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "n x^(n+1) + C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x^(n-1)/(n-1) + C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ln x + C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xi",
+   "group": "Annual Examination",
+   "q_en": "∫₀^(2/π) cos x dx =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "∞",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xii",
+   "group": "Annual Examination",
+   "q_en": "The equation of the line parallel to y-axis which is at a distance of 3 units on its left:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x - 3 = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x + 3 = 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "y - 3 = 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "y + 3 = 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiii",
+   "group": "Annual Examination",
+   "q_en": "The point of concurrency of the altitudes of a triangle is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Incentre",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Orthocentre",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Circumcentre",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Centrold",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiv",
+   "group": "Annual Examination",
+   "q_en": "If the circle x² + y² + 2gx + 2fy + c = 0 touches y-axis then the radius is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "|f + g|",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "|f - g|",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "|f|",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "|g|",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xv",
+   "group": "Annual Examination",
+   "q_en": "The centre of circle (x - 3)² + (y + 5)² = 36 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(3, -5)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(-3, 5)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(3, 5)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(-3, -5)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xvi",
+   "group": "Annual Examination",
+   "q_en": "The latus rectum of the parabola (x + 3)² = -6(y - 4) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xvii",
+   "group": "Annual Examination",
+   "q_en": "The eccentricity of a rectangular hyperbola is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "±√2i",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-√2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√2i",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xviii",
+   "group": "Annual Examination",
+   "q_en": "The order and degree of differential equation d³y/dx³ = √(1 + (dy/dx)³) are respectively:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2 and 2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2 and 3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3 and 2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3 and 3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xix",
+   "group": "Annual Examination",
+   "q_en": "The general solution of the differential equation dy/dx = e^(x-y) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "e^(x-y) = c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "e^y = e^x + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "e^(xy) = c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "e^x + e^(-y) = c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xx",
+   "group": "Annual Examination",
+   "q_en": "If f(x, y) = sin(x/y), then f_y =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x/y² cos(x/y)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x/y² sin(x/y)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-x/y² cos(x/y)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-x/y² sin(x/y)",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

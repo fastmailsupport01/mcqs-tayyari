@@ -1,0 +1,1018 @@
+{
+ "board": "BIEK Karachi",
+ "board_slug": "karachi-biek",
+ "class": "12th",
+ "subject": "Computer Science",
+ "year": 2021,
+ "slug": "karachi-biek-12th-computer-science-2021",
+ "questions": [
+  {
+   "n": "i",
+   "group": "Annual Examination",
+   "q_en": "This data type in C occupies 4 times as many bytes of memory as type char:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "int",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "float",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "double",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "long float",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ii",
+   "group": "Annual Examination",
+   "q_en": "A block of instructions that performs a specific task, is a/an:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "function",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "loop",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "string",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "array",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iii",
+   "group": "Annual Examination",
+   "q_en": "Every statement in C must end with:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": ":",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": ";",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": ".",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iv",
+   "group": "Annual Examination",
+   "q_en": "A variable that can hold the value 234 having a data type:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "char",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "float",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "int",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "double",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "v",
+   "group": "Annual Examination",
+   "q_en": "A relational operator is used to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "change variable to logical values",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "compare values",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "distinguish different types of variable",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "combine values",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vi",
+   "group": "Annual Examination",
+   "q_en": "This statement causes an exit only from the inner most switch:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "continue",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "goto",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "break",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "default",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vii",
+   "group": "Annual Examination",
+   "q_en": "Multiple increment expression in a for loop expression is separated by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "<",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": ">",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": ";",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": ",",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "viii",
+   "group": "Annual Examination",
+   "q_en": "A string is terminated by a null character which is written as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "\\0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "//",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "\\n",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "\\\\",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ix",
+   "group": "Annual Examination",
+   "q_en": "Type char can accommodate numbers from:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-32768 to +32767",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3.4e-38 to 3.4e+38",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-128 to 127",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0 to 65565",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "x",
+   "group": "Annual Examination",
+   "q_en": "The function designed specially to read string from the keyboard:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "getch()",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "puts()",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "gets()",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "getchar()",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xi",
+   "group": "Annual Examination",
+   "q_en": "An external variable is defined:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "in the first function that uses it",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "in any function that uses it",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "in main () only",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "outside of any function",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xii",
+   "group": "Annual Examination",
+   "q_en": "This function is used to clear the screen:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "clear",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "clrscr",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Clrsr",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CLS()",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiii",
+   "group": "Annual Examination",
+   "q_en": "This format specifier is used for exponential notation:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "%e",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "%x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "%xd",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "%d",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiv",
+   "group": "Annual Examination",
+   "q_en": "In switch statement if no match is found with any case statement, only the statements following are execute in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "else",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "continue",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "default",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "break",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xv",
+   "group": "Annual Examination",
+   "q_en": "A loop performed within another loop is said to be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "nested loop",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "conditional loop",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "recursive loop",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "continuous loop",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xvi",
+   "group": "Annual Examination",
+   "q_en": "Three types of control structures are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "initialization, condition, increment",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "sequence, selection, iteration",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "sequential, selection, conditional",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "initialization, condition, decrement",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xvii",
+   "group": "Annual Examination",
+   "q_en": "String is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a collection of characters",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a list of characters",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "an array of characters",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a single character",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xviii",
+   "group": "Annual Examination",
+   "q_en": "This will be output of 22% 3:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "22",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xix",
+   "group": "Annual Examination",
+   "q_en": "The function scanf() reads:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "any possible number",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a single character",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "any possible variable type",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a character and a string",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xx",
+   "group": "Annual Examination",
+   "q_en": "This loop will be executed at least once whether its condition is false:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "for",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "while",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "do-while",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "continuous loop",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxi",
+   "group": "Annual Examination",
+   "q_en": "A variable which can be accessed by all program modules is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "global variable",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "local variable",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "argument",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "private variable",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxii",
+   "group": "Annual Examination",
+   "q_en": "Case statement is used with:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "printf()",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "scanf()",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "switch ()",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "getch()",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxiii",
+   "group": "Annual Examination",
+   "q_en": "This statement is incorrect in C:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "int a;",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "float b;",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "double c;",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "character c;",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxiv",
+   "group": "Annual Examination",
+   "q_en": "The escape sequence is used for:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "tab",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "backspace",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "end of string",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "new line",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxv",
+   "group": "Annual Examination",
+   "q_en": "This is called the address operator:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "&",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "%",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "&&",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "|",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxvi",
+   "group": "Annual Examination",
+   "q_en": "The library function sqrt (1024) returns:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "512",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "32",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "256",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "64",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxvii",
+   "group": "Annual Examination",
+   "q_en": "Quantities whose values cannot be changed during program execution are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "data files",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "variables",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "constants",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "functions",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxviii",
+   "group": "Annual Examination",
+   "q_en": "If a = -5, the statement a + = 5 returns:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-15",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxix",
+   "group": "Annual Examination",
+   "q_en": "This expression is valid:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a++1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6++",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a++",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a++1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxx",
+   "group": "Annual Examination",
+   "q_en": "This operator operates on only one operand:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "=",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "= =",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "&&",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "!",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxxi",
+   "group": "Annual Examination",
+   "q_en": "This is invalid variable declaration",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "double c;",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "unsigned int k;",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "float p,q",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "char name;",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxxii",
+   "group": "Annual Examination",
+   "q_en": "What will be the output of the following statement: Printf(\"%.2f\", 633.6658)",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "63.33",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "63",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "633.66",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "633.6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxxiii",
+   "group": "Annual Examination",
+   "q_en": "This statement can terminate any loop immediately:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "continue",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "switch",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "break",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "goto",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxxiv",
+   "group": "Annual Examination",
+   "q_en": "A format specifier used for int type variable is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "%c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "%f",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "%d",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "%s",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxxv",
+   "group": "Annual Examination",
+   "q_en": "Function prototype is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Function definition",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Function Declaration",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Function Calling",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Function Repetation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxxvi",
+   "group": "Annual Examination",
+   "q_en": "This sub directory contains header files:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "lib",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "bin",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "include",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "bgi",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}
