@@ -1,0 +1,430 @@
+{
+ "board": "BISE Swat",
+ "board_slug": "swat",
+ "class": "11th",
+ "subject": "Computer Science",
+ "year": 2021,
+ "slug": "swat-11th-computer-science-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Annual",
+   "q_en": "Which of the following software are set of programs that operate and control the computer system.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Free ware",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Share ware",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "System software",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Application software",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Annual",
+   "q_en": "The output produced by printers are called ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hard copy",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Soft copy",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Plain output",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Rough output",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Annual",
+   "q_en": "______ is not a portable computer.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Laptop",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "PDA",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Notebook",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mainframe",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Annual",
+   "q_en": "Which of the following is called internal processor memory?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "RAM",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ROM",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cache",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "DRAM",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Annual",
+   "q_en": "______ is the smallest amount of memory a computer can hold?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Byte",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "KB",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Bit",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "MB",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Annual",
+   "q_en": "Which of the following is a sequential access storage device.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Magnetic disk",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Blu-Ray device",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Magnetic tape",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zip disk",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Annual",
+   "q_en": "Where are the logical operations performed in the CPU ______?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CU",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Register",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ALU",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Memory",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Annual",
+   "q_en": "Which of the following register has a special role in multiply and deride operation?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Base register",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Memory Buffa Register",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Data Register",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Counter Register",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Annual",
+   "q_en": "In which communication mode data can be sent and received in both directions but not at the same time?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Simplex",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Full-duplex",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Half-duplex",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Duplex",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Annual",
+   "q_en": "The frequency range of radio signal is between 3 KHz to ______ GHz.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Annual",
+   "q_en": "A field or combination of fields used to identity particular row in a relation is called ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Secondary key",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Foreign key",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Primary key",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Alternate key",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Annual",
+   "q_en": "Which of the following is used to store data in a database?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Table",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Form",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Query",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Report",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Annual",
+   "q_en": "______ is a microprocessor architecture that is designed to perform a smaller number of types of computer instructions.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "RISC",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CISC",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "DISK",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "LIST",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Annual",
+   "q_en": "______ signals can be used for short range communication in a closed area using line of sight propagation.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Wifi",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Bluetooth",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Wifmax",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Infrared",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Annual",
+   "q_en": "Which of the following topology is most expensive to implement?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Star topology",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Bus topology",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ring topology",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mesh topology",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,318 @@
+{
+ "board": "BISE Swat",
+ "board_slug": "swat",
+ "class": "10th",
+ "subject": "Computer Science",
+ "year": 2022,
+ "slug": "swat-10th-computer-science-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Annual",
+   "q_en": "An algorithm is a sequence of computational steps that transfer the input into ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Data structure",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Algorithm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Output",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All of them",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Annual",
+   "q_en": "A quantity whose value may change during execution of the program is called a ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Constant",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Name",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Variable",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Symbol",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Annual",
+   "q_en": "Which of the following function is used to display output on the screen?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "print f ( )",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "scan f ( )",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "get s ( )",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "getchar ( )",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Annual",
+   "q_en": "In C language every statement is terminated by ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Double quotes",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Full stop",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Comma",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Semi colon",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Annual",
+   "q_en": "Switch statement is used for ______ choice or selection.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Single",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Double",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Multiple",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Annual",
+   "q_en": "Keyword \"default\" is used in the body of ______ statement.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "if",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Switch",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "if-else",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Annual",
+   "q_en": "How many types of loop structure are available in C?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Annual",
+   "q_en": "In which loop the number of intevation are known in advance?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "do-while",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "while",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "nested",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "for",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Annual",
+   "q_en": "An electronic circuit that takes one or more input signals and produces a single output signal is called ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Digital logic gate",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Diagram",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Table",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Annual",
+   "q_en": "Internet address which Identifies a website is called?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Web page",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "URL",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Web site",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Web Server",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Annual",
+   "q_en": "Which language is used for creating web pages?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "C language",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "URL",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "HTML",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Web Browser",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

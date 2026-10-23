@@ -1,0 +1,430 @@
+{
+ "board": "BISE Swat",
+ "board_slug": "swat",
+ "class": "10th",
+ "subject": "Mathematics",
+ "year": 2023,
+ "slug": "swat-10th-mathematics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Annual",
+   "q_en": "1 + tan²θ = ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sin²θ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cos²θ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cosec²θ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Sec²θ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Annual",
+   "q_en": "Phythagoras was a ______ Mathematician.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Indian",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Greek",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Pakistani",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Chinese",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Annual",
+   "q_en": "A chord is 5 cm from the centre of a circle of radius 13 cm then length of chord is ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "6 cm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "12 cm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "24 cm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "30 cm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Annual",
+   "q_en": "Two tangents drawn to a circle from a point outside it are of ______ in length.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Half",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Equal",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Double",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Triple",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Annual",
+   "q_en": "How many Tangents can be drawn from the point outside the circle ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Annual",
+   "q_en": "The most frequent value in the data is called ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mean",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Median",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mode",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "G.Mean",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Annual",
+   "q_en": "The reciprocal of Arithmetic Mean is ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "G. Mean",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Harmonic Mean",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Median",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mode",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Annual",
+   "q_en": "If A has two elements and B has three elements, then number of binary relation in A x B is ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2 x 3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2⁶",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Annual",
+   "q_en": "Direct variation between a and b is expressed as ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a = b",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a = 1/b",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a ∝ b",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a ∝ 1/b",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Annual",
+   "q_en": "(2x²+1)/(x-1) is ______ fraction.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Improper rational",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Proper rational",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Irrational",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Proper irrational",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Annual",
+   "q_en": "The third proportional of x and y is ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "xy",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x/y",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "y²/x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Annual",
+   "q_en": "Discriminant of 4x² + x +1= 0 is ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "15",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-15",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "16",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "17",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Annual",
+   "q_en": "The sum of the cube roots of unity is ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "± 1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Annual",
+   "q_en": "If x² - 1/4 = 0 Then solution are ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "X= ± 1/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x = ± 1/4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x = ± 2/8",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x = ± 1/16",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Annual",
+   "q_en": "If 2ˣ = 1/2 then X = ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

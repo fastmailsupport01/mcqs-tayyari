@@ -1,0 +1,430 @@
+{
+ "board": "BISE Swat",
+ "board_slug": "swat",
+ "class": "10th",
+ "subject": "Mathematics",
+ "year": 2021,
+ "slug": "swat-10th-mathematics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Annual",
+   "q_en": "If P(x) and Q(x) are two polynomials then P(x)/Q(x), Q(x) ≠ 0 is called ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Proper fraction",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Irrational fraction",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Improper fraction",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Rational fraction",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Annual",
+   "q_en": "A chord 8√3 units long is 4 units from the centre of a circle. The length of the radius of the circle is ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "14.4 units",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8 units",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8√2 units",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2√8 units",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Annual",
+   "q_en": "The measure of an angle in a semi-circle is equal to ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "180°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Annual",
+   "q_en": "AB and CD are two chords of the same circle and AB < CD, then",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "AB is closer to zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "AB must be parallel to CD",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Can't decide",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CD is closer to zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Annual",
+   "q_en": "Two chords of a circle which are equidistant from the centre are",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Congruent",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Parallel",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Not congruent",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Not parallel",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Annual",
+   "q_en": "The difference between upper limit of two consecutive classes in a frequency table is called ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Class limit",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Class interval",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Class mark",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Range",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Annual",
+   "q_en": "45° = ______ radians",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π/3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π/4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Annual",
+   "q_en": "1+Cot²θ = ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cosec²θ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cos²θ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Sin²θ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Sec²θ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Annual",
+   "q_en": "Identify the item that does not have the same ratio as the other three.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "30/45",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4 to 6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2:3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3 to 2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Annual",
+   "q_en": "If m ∝ 1/n then.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "mn = k",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "m/n = k",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "n : km",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "m = kn",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Annual",
+   "q_en": "What are the solutions of the equation x²+7x-18=0.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-2 or 9",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2 or -9",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2 or 9",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-2 or -9",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Annual",
+   "q_en": "1/w = ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "w³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "w",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "w²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Annual",
+   "q_en": "The sum of the roots of the equation x²-5kx+6k²=0 is ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-5k",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5k²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-5/6k",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5k",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Annual",
+   "q_en": "The equation x⁴-5x²+4=0 is called ______ equation.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Quadratic",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cubic",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Quartic",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Annual",
+   "q_en": "(3x-2)/(2x²-x) = ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2/x + 1/(2x-1)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2/x - 1/(2x-1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/(2x-1) - 2/x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

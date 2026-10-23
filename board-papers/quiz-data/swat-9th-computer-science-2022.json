@@ -1,0 +1,318 @@
+{
+ "board": "BISE Swat",
+ "board_slug": "swat",
+ "class": "9th",
+ "subject": "Computer Science",
+ "year": 2022,
+ "slug": "swat-9th-computer-science-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Annual",
+   "q_en": "______ computers are used to process & represent continuous Data.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Analog",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Digital",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Hybrid",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Super",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Annual",
+   "q_en": "______ are high speed temporary storage location used to hold data and instructions.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "RAM",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ROM",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Register",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Hard Disk",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Annual",
+   "q_en": "______ is a set of programs containing instructions that coordinates all activities of the computer.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Networking",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Operating System",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Internet",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Annual",
+   "q_en": "Which program protects computer from many common viruses and Trojans which can be harmful for the system?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Internet Explorer",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Antivirus",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Excel",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Word",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Annual",
+   "q_en": "Which of the following break options move text to a new page before reaching the end of a page?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Page break",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Section break",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Line break",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Column break",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Annual",
+   "q_en": "______ are graphic presentations of data from a worksheet.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Diagrams",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Algorithens",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Charts",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Annual",
+   "q_en": "In ______ Transmission, data is transmitted one byte at a time.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Duplex",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Guided",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Synchronous",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Asynchronous",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Annual",
+   "q_en": "______ is intelligent device which routes data to destination computers.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Router",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Switch",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Bridge",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Hub",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Annual",
+   "q_en": "In which transmission, data flow only in one direction from the sending device to the receiving device?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Duplex",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Simplex",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Half Duplex",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Full Duplex",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Annual",
+   "q_en": "In ______ network Topology each node is directly connected to the central computer or Hub.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ring",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Bus",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Star",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mesh",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Annual",
+   "q_en": "The people who do cracking are called ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Tracker",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cyber crime",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Hacker",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Crackers",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

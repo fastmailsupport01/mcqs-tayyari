@@ -1,0 +1,346 @@
+{
+ "board": "BISE Swat",
+ "board_slug": "swat",
+ "class": "10th",
+ "subject": "Physics",
+ "year": 2023,
+ "slug": "swat-10th-physics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Annual",
+   "q_en": "What is the frequency of oscillation if time period is 20 ms ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.02 HZ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "50 HZ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.5 HZ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "40 HZ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Annual",
+   "q_en": "The unit of spring constant is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "NC⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Nm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Nm⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NS⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Annual",
+   "q_en": "Which of the following cannot transmit sound ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Gas",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Liquid",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Solid",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Vacuum",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Annual",
+   "q_en": "Index of refraction for diamond is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2.417",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.544",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.434",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.333",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Annual",
+   "q_en": "Which of the following represents one Ohm ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "JC⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "VA⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "JS⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "WA⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Annual",
+   "q_en": "The human eye forms the image of an object at its:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Pupil",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Iris",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Retina",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cornea",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Annual",
+   "q_en": "The value of Coulomb's constant (K) depends on:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Value of charges",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Material medium",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Separation between charges",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Annual",
+   "q_en": "If the distance between two charges is doubled , the force between them becomes :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/4th",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Four times",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Half",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Double",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Annual",
+   "q_en": "A step-up transformer increases :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Energy",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Voltage",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Power",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Current",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Annual",
+   "q_en": "The Boolean expression for NAND gate is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "X= A+ B",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "X= A+B with bar over (A+B)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "X= A.B with bar over (A.B)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "X= A with bar over A",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Annual",
+   "q_en": "Which of the following information storage device is least use these days ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Compact disc",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Hard drive",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Flash drive",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Floppy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Annual",
+   "q_en": "What is the number of neutrons in ²⁴²₉₂PU ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "150",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "242",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "92",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "334",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

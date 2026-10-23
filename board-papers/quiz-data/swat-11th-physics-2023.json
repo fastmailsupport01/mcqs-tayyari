@@ -1,0 +1,514 @@
+{
+ "board": "BISE Swat",
+ "board_slug": "swat",
+ "class": "11th",
+ "subject": "Physics",
+ "year": 2023,
+ "slug": "swat-11th-physics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Annual",
+   "q_en": "Kgms⁻¹ is equivalent to",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ns",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ns⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "N⁻¹s",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ns⁻²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Annual",
+   "q_en": "The angular speed in rad/hr for daily rotation of our earth is?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π/6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/12",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2π",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4π",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Annual",
+   "q_en": "When Fx=3N and F=5N then Fy=?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "6N",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Annual",
+   "q_en": "At terminal velocity, the acceleration of falling object is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0ms⁻²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1ms⁻²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-9.8ms⁻²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "+9.8ms⁻²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Annual",
+   "q_en": "The slope of x-axis or any line parallel to x-axis is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Maximum",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Uniform",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Infinity",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Annual",
+   "q_en": "Two forces of magnitude 20N and 50N act simultaneously on a body. Which one of the following forces cannot be the resultant",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "20N",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "30N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "40N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "70N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Annual",
+   "q_en": "The restoring force of SHM is maximum when particle",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Displacement is maximum",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Crossing mean position",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Half way",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "At rest",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Annual",
+   "q_en": "The net force that acts on a 10N falling object, when it encounters 4N of air resistance is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10 N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Annual",
+   "q_en": "Which of the following pair of angles will have the same horizontal range.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "30° and 70°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "15° and 75°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "25° and 70°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "30° and 65°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Annual",
+   "q_en": "For the constructive interference between two set of waves, the phase difference should be",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2π",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4π",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Annual",
+   "q_en": "The time rate of change of linear momentum is equal to",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Force",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Impulse",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Inertia",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "energy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Annual",
+   "q_en": "Which one of the following properties proves the transverse wave nature of light",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Interference",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Refraction",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Polarization",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Diffraction",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Annual",
+   "q_en": "Which one is constant for satellite in orbit?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Velocity",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "K.E",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "P.E",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Angular Momentum",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Annual",
+   "q_en": "Triple point of water is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "273.16°C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "273.16°F",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "273.16K",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "372.16K",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Annual",
+   "q_en": "The atmosphere is held to the earth by",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Winds",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Gravity",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Clouds",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Rotation of earth",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Annual",
+   "q_en": "If the total work done around a closed path is equal to zero, the field is said to be",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Uniform",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Variable",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Conservative",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of them",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Annual",
+   "q_en": "The percentage uncertainty in the measurement of (3.76±0.25)m is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4 %",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6.6 %",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "25 %",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "376 %",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Annual",
+   "q_en": "The angle formed by a complete circumference at the centre of the circle is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2π",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3π",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4π",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

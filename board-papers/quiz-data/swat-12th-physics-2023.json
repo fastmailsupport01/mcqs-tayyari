@@ -1,0 +1,514 @@
+{
+ "board": "BISE Swat",
+ "board_slug": "swat",
+ "class": "12th",
+ "subject": "Physics",
+ "year": 2023,
+ "slug": "swat-12th-physics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Annual",
+   "q_en": "Self-inductance (L) in terms of magnetic flux (φ), no of turns (N) and electric current (I) can be written as ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "L = Nφ/I",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "L = NφI",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "L = Iφ/N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "L = N/(Iφ)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Annual",
+   "q_en": "The ratio of power in AC circuit to that of DC circuit is equal to ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sin φ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cos φ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Tan φ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Sec φ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Annual",
+   "q_en": "Pair production can't take place in vacuum because ______ is not conserved.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Momentum",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Charge",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Energy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mass",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Annual",
+   "q_en": "An electric charge q is placed at the centre of cube of side 'a' the electric flux on its one side will be ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "q/(4πε₀)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "q/(a³ε₀)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "q/(6ε₀)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "q/ε₀",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Annual",
+   "q_en": "²⁴₁₂X = ⁴₂Y + ?? + Q The given reaction is completed by ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Alpha (α)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Beta (β)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Gamma (γ)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Sigma (δ)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Annual",
+   "q_en": "By increasing applied anode voltage, wavelength (λ) of x-rays ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Increases",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Decreases",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Remains unchanged",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Becomes infinite",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Annual",
+   "q_en": "The seismometer works on the principle of ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electromagnetism",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Electromagnetic induction",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Maxwell equations",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ampere's Law",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Annual",
+   "q_en": "²³⁸₉₂U contains ______ number of nucleons.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "146",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "238",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "92",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "330",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Annual",
+   "q_en": "For one complete cycle, the simple mean value of AC is ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Vm/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2Vm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.707 Vm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Annual",
+   "q_en": "\"mho\" is a unit of ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Resistivity",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Resistance",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Conductivity",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Conductance",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Annual",
+   "q_en": "The function of unipolar junction transistors depends on ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Majority carriers",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Both A&B",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Minority carriers",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Annual",
+   "q_en": "The super conductor has a ______ resistance.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Moderate",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "High",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Infinite",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Annual",
+   "q_en": "How much voltage is required to make 2A flow through a resistance of 8Ω?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "16 AΩ⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "16 ΩA⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "16 AΩ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "16 A⁻¹Ω⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Annual",
+   "q_en": "Which of the given is a boson?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Photon",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Neutrino",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Proton",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Pion",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Annual",
+   "q_en": "The reverse process of x-rays production can be related to ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Compton effect",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Pair production",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Photoelectric effect",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Annual",
+   "q_en": "Volt per meter is a non SI unit of ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electric force",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Voltage",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Electric power",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Electric intensity",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Annual",
+   "q_en": "Charge to mass ratio of electron is ______ that of proton.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Equal to",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Less than",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Greater than",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero compare to",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Annual",
+   "q_en": "According to Wien's displacement law, with rise in temperature of black body, the product λmax T is ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Increased",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Decreased",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Constant",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,346 @@
+{
+ "board": "BISE Swat",
+ "board_slug": "swat",
+ "class": "10th",
+ "subject": "Physics",
+ "year": 2021,
+ "slug": "swat-10th-physics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Annual",
+   "q_en": "If the pendulum completes exactly 12 cycles in 2.0 min, what is the frequency of the pendulum?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.10 Hz",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.17 Hz",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6.0 Hz",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10 Hz",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Annual",
+   "q_en": "Various instruments sound different even they play the same note due to difference in ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Loudness",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Pitch",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Intensity",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Quality",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Annual",
+   "q_en": "Which one of the following will refract light more?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Glass",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Air",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Diamond",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Water",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Annual",
+   "q_en": "Radius of curvature and focal length for convex mirror are related by equation ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "f = 2R",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "f = 1/2 R",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "f = - 1/2 R",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "f = -2R",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Annual",
+   "q_en": "The value of coulomb constant \"K\" depends on.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Charges",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Separation between charges",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Material medium",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Annual",
+   "q_en": "The device that is used to protect a circuit against overload is ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Fuse",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Lamp",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Heater",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Annual",
+   "q_en": "Batteries are rated with unit \"ampere-hour\" it is the unit of ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Current",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Power",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Charge",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Energy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Annual",
+   "q_en": "Which derived unit is equivalent to tesla T.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nm/A",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NA/m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "N/Am",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Am/N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Annual",
+   "q_en": "The Boolean equation for NAND gate is ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "X=AB",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "X=A+B",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "X=AB with bar over (AB)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "X=A+B with bar over (A+B)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Annual",
+   "q_en": "Cathod rays are beam of.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electrons",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Protons",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Neutrons",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ions",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Annual",
+   "q_en": "If the angle of incidence is 30° the angle of reflection will be.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "30°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "210°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Annual",
+   "q_en": "What type of nuclear decay leaves the number of protons and neutrons unchanged?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Alpha decay",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Beta decay",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Gamma decay",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Both A and B",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

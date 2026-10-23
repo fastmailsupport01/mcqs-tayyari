@@ -1,0 +1,514 @@
+{
+ "board": "BISE Swat",
+ "board_slug": "swat",
+ "class": "11th",
+ "subject": "Physics",
+ "year": 2021,
+ "slug": "swat-11th-physics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Annual",
+   "q_en": "Rate of change of angular momentum is equal to.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Force",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Power",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Torque",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Work",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Annual",
+   "q_en": "Terminal velocity of spherical object is given by.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "mg/4πη",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "mg/6πη",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "mg/6πη",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "mg/9πη",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Annual",
+   "q_en": "A pipe has cross section area 0.0001m² in which water flows at 10m/s. The volume flow rate is.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.00001m³/s",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.001m³/s",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1m³/s",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.0001m³/s",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Annual",
+   "q_en": "Time period of the same pendulum at Karachi and Muree are related as.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "TK=TM",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "TK > TM",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "TK < TM",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2TK = 3TM",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Annual",
+   "q_en": "The restoring force of SHM is maximum when particle.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Displacement is maximum",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Half way between them",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Crossing mean position",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "At rest",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Annual",
+   "q_en": "Wave generator produces 500 pulses in 10sec. Find the frequency of the pulses produced in second.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5000",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "500",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "50",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/50",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Annual",
+   "q_en": "Which of the following factor has no effect on the speed of sound in gas?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Humidity",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Pressure",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Temperature",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Density",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Annual",
+   "q_en": "Coloured fringes observed in a soap bubbles are example of.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Diffraction",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Interference",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Polarization",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Reflection",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Annual",
+   "q_en": "The S.I unit of molar specific heat or molar specific heat capacity.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Jmole⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "J/kg",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "J mole⁻¹ K⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Kg J⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Annual",
+   "q_en": "Dimension of torque is.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[MLT]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[M²L²T]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[ML²T⁻²]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[ML²T²]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Annual",
+   "q_en": "The sum of magnitudes of two forces is 16N. If the resultant force is 8N and its direction is perpendicular to minimum force then the forces are.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "6N and 10N",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8N and 8N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4N and 12N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2N and 14N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Annual",
+   "q_en": "Time rate of change of momentum gives.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Force",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Impulse",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Acceleration",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Power",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Annual",
+   "q_en": "Area between velocity time graph is numerically equal to.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Velocity",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Displacement",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Acceleration",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Power",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Annual",
+   "q_en": "Dimension of work is.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[MLT²]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[MLT⁻²]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[ML²T⁻²]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[ML²T²]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Annual",
+   "q_en": "Torque has zero value, if the angle between r and F is.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "30°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "90°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Annual",
+   "q_en": "Expression for escape velocity is given by.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "√(2GRe)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "√(GMe)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√(2gRe)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√(gRe)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Annual",
+   "q_en": "The atmosphere is held to the earth by.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Wind",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Gravity",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cloud",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Rotation of earth",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Annual",
+   "q_en": "Moment of inertia of rod or meter stick is given by.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/6 Ml²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/9 Ml²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/12 Ml²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/4 Ml²",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

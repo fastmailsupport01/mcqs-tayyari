@@ -1,0 +1,514 @@
+{
+ "board": "BISE Swat",
+ "board_slug": "swat",
+ "class": "12th",
+ "subject": "Chemistry",
+ "year": 2021,
+ "slug": "swat-12th-chemistry-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Annual",
+   "q_en": "Which is the heighest melting halide.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nacl",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Na Br",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Na F",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Annual",
+   "q_en": "The transition metals copper and ______ are best electrical conductors.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Iron",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Vanadium",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Chromium",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Manganese",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Annual",
+   "q_en": "Oxidation number of \"Pt\" in K₂[PtCl₆] is ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Annual",
+   "q_en": "Petrochemicals are used in the manufacture of.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Polythene",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Detergents",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Fibers",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Annual",
+   "q_en": "The number of Hydrogen in Pyrole is/are ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "9",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Annual",
+   "q_en": "The general formula of Alkenes having two C=C bonds is ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CₙH₂ₙ₊₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CₙH₂ₙ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CₙH₂ₙ₋₁",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CₙH₂ₙ₋₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Annual",
+   "q_en": "How many isomers are possible for C₂H₆O.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Annual",
+   "q_en": "Which one posses greater number of carbons?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Diesel Oil",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Kerosine Oil",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Gasoline",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Pet Ether",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Annual",
+   "q_en": "The optimum Pᴴ of pepsin is.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4.5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2.5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2.0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Annual",
+   "q_en": "Ethanol is produced from starch by the process of.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hydrolysis",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Hydrogenation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Decomposition",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Fermentation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Annual",
+   "q_en": "Lactose is a dissacharide of ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Glucose & Maltose",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Glucose & glactose",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Glucose & glucose",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Fructose & lactose",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Annual",
+   "q_en": "R-CH(X)-R is an example of which alkyle halide?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Primary",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Secondary",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Tertiary",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Annual",
+   "q_en": "Which one of the following is synthetic polymer?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cellulose",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Protein",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Rubber",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Polyethene",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Annual",
+   "q_en": "Cu⁺² salt solution is blue in colour due to transition of electron from ______ orbitals.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "\"S\" to \"P\"",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "\"d\" to \"d\"",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "\"P\" to \"d\"",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "\"P\" to \"P\"",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Annual",
+   "q_en": "Which one of the following halide is most reactive towards nucleophilic substitution reaction.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "C₂H₅Br",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "C₂H₅I",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "C₂H₅F",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CH₂H₅cl",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Annual",
+   "q_en": "Catalytic hydration of Ethyne gives.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Aldehyde",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ketone",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ester",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Annual",
+   "q_en": "The general formula of cycloalkanes is.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CₙH₂ₙ₊₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CₙH₂ₙ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CₙH₂ₙ₋₁",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CₙH₂ₙ₋₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Annual",
+   "q_en": "Dehydrohalogenation of alkyle halide carried out in the presence of ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zn duct",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "H₂SO₄",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Alcoholic KOH",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Aqueous KOH",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

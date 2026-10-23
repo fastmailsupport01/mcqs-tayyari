@@ -1,0 +1,346 @@
+{
+ "board": "BISE Swat",
+ "board_slug": "swat",
+ "class": "10th",
+ "subject": "Chemistry",
+ "year": 2021,
+ "slug": "swat-10th-chemistry-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Annual",
+   "q_en": "The unit of Kc for the following reaction is, PCl₃(g) + Cl₂(g) ⇌ PCl₅(g).",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "mol.dm⁻³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "mol⁻¹.dm⁻³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "mol⁻¹.dm³",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "mol.dm³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Annual",
+   "q_en": "AlCl₃ is an acid according to concept of.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Arrhenious",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Lowry-Brosted",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Lewis",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Annual",
+   "q_en": "Compounds which are electrons pair doner are Lewis base. Which one of the following is Lewis base,",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "NH₄OH",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NH₃",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NaOH",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nacl",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Annual",
+   "q_en": "Which one of the following is organic compound.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "C₂H₄",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CO",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CO₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NaHCO₃",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Annual",
+   "q_en": "Which one of the following is butyl group.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CH₃(CH₂)₂CH₃",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CH₃(CH₂)₂CH₂-",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CH₃(CH₂)CH₂-",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CH₃-CH₂-",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Annual",
+   "q_en": "The general formula of alkanes is.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CₙH₂ₙ₊₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CₙH₂ₙ₋₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CₙH₂ₙ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CₙH₂ₙ₊₁",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Annual",
+   "q_en": "Glycogen is an example of.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Fats",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Nucleic acid",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Carbohydrates",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Protien",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Annual",
+   "q_en": "On the basis of temperature variation the number of atmospheric regions are.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Five",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Two",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Three",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Four",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Annual",
+   "q_en": "All salts cause the water become hard except.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cacl₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ca(HCO₃)₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mg SO₄",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nacl",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Annual",
+   "q_en": "Matte is the mixture of.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CuS and FeS",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cu₂S and FeS",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cu₂O and FeS",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cu₂O and FeO",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Annual",
+   "q_en": "Which gas in the following is responsible for global warming.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nitrogen",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Carbon dioxide",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Oxygen",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ozone",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Annual",
+   "q_en": "How much hydrogen are there in alkane having 3 carbon atoms.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Four",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Six",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Eight",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ten",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

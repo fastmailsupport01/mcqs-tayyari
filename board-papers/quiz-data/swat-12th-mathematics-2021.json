@@ -1,0 +1,570 @@
+{
+ "board": "BISE Swat",
+ "board_slug": "swat",
+ "class": "12th",
+ "subject": "Mathematics",
+ "year": 2021,
+ "slug": "swat-12th-mathematics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Annual",
+   "q_en": "∫₁⁴ 3√x dx = ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "12",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "14",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "13",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "16",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Annual",
+   "q_en": "∫ e^x dx = ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "e^x + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a^x + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x e^x + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Annual",
+   "q_en": "If L₁ and L₂ are the two lines having slopes m₁ and m₂ than L₁ and L₂ are perpendicular if ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "m₁=m₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "m₁.m₂=-1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "m₁m₂=1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "m₁≠m₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Annual",
+   "q_en": "Equation of line that exists the y-intercept c=-4 & m=2 is ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "y=2x-4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "y=2x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "y=x-4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "y=3x-4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Annual",
+   "q_en": "Radius of the circle x²+y²-8x-6y+9=0 is ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Annual",
+   "q_en": "Length of the tangent drawn from the point (2,3) on the circle x²+y²-2x+4y-18=0 is ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "√2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Annual",
+   "q_en": "If the eccentricity of the conic e=1 then the conic is a ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ellipse",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Hyperbola",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Straight line",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Parabola",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Annual",
+   "q_en": "Circle is a special case of an ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Tangent line",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Parabola",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Hyperbola",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ellipse",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Annual",
+   "q_en": "The general solution of differential equation (dy/dx)² = 1-y² is ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "y=sin⁻¹ x + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "y=cos x + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "y= ± sin(x+c)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "tan x + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Annual",
+   "q_en": "If f(x,y,z) = x²y e^(2x) + (x+y-z)² then find f(-1,1,-1) = ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1-e²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "e²+1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "e²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "e⁻²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Annual",
+   "q_en": "Let g(x) = 3x then g⁻¹(x) = ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x/3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3/x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3x⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Annual",
+   "q_en": "If log₃ x = 2 then x = ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "9",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Annual",
+   "q_en": "Lim(x→∞) (1 + 1/x)^x = ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a^x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "e^x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "e",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a^x lna",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Annual",
+   "q_en": "Let y = 2/3x-5 is a function then y' = ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "6(3x-5)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2/(3x-5)²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3(3x-5)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6/(3x-5)²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Annual",
+   "q_en": "If y = tan⁻¹(11x) then dy/dx = ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "11/(1+(11x)²)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/(1+(11x)²)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "11/(1+x²)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "11x/(1+x²)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Annual",
+   "q_en": "Let y = e^(σx) is a function then dy/dx = ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "e^(σx)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "σe^(σx)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "σe^(σx)/x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "e^x/σx",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Annual",
+   "q_en": "The Equation of tangent at a point p(x₀,y₀) is ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "y=mx₀+c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x/a + y/b = 1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "y-y₀=m(x-x₀)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "y-y₁=mx",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Annual",
+   "q_en": "Lim(x→+∞) exp(-x) = ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "+∞",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Annual",
+   "q_en": "Let g(x) = |Sin x i - 2 x j + Cos x k| is a scalar function then g'(x) = ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cos x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cos x i - 2j - Sin x k",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Sin x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4x/(1+4x²)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Annual",
+   "q_en": "∫ dx/(x²+16) = ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "tan⁻¹ x + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "tan⁻¹ x/4 + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/4 tan⁻¹ x/4 + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "tan⁻¹ 4x",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

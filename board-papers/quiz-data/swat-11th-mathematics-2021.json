@@ -1,0 +1,570 @@
+{
+ "board": "BISE Swat",
+ "board_slug": "swat",
+ "class": "11th",
+ "subject": "Mathematics",
+ "year": 2021,
+ "slug": "swat-11th-mathematics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Annual",
+   "q_en": "2 sin π/4 cos π/4 = ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Annual",
+   "q_en": "n² > n + 3 for all n ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": ">2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "= 1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": ">2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": ">1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Annual",
+   "q_en": "The period of tan (x) = ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2π",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-π",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Annual",
+   "q_en": "|2 x; 3 6| = 0, then x = ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Annual",
+   "q_en": "cos (2π ± θ) = ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-cos θ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "cos θ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "sin θ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "±cos θ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Annual",
+   "q_en": "Sin⁻¹(-1/2) = ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-2π",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3π",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Annual",
+   "q_en": "Let A = {-1,0,1} and B = {-1,0,1}, which one is a 1-1 function from A to B ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "|x|",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Annual",
+   "q_en": "(n, 0) = ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "n!",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "n",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "n-1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Annual",
+   "q_en": "If vector a = xi + yj ≠ 0 vector then |vector a| = ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "> 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "≥ 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "< 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Annual",
+   "q_en": "If tan β < 0, then β lies in ______ quadrant.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "I or II",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "III or IV",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "II or III",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "II or IV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Annual",
+   "q_en": "Magnitude of Z = (0,-2) is.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(0,2)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Annual",
+   "q_en": "i(1/i - i) = ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-i",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1+i",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Annual",
+   "q_en": "A and B are two sure events, then P(A ∪ B) = ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Annual",
+   "q_en": "i·j = ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "k",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-k",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Annual",
+   "q_en": "A harmonic sequence is the reciprocal of the terms of ______ sequence,",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Constant",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Geometric",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Pascal",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Arithmetic",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Annual",
+   "q_en": "If vector a = 2i - 3j + 4k and vector b = i + 3j - 2k then a·b = ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-15",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "15",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Annual",
+   "q_en": "If a > 0, then the parabola f(x) = ax² + bx + c opens ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Left",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Right",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Downward",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Upward",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Annual",
+   "q_en": "The inverse of the linear function f(x) = 2x + 5 is ______ function.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Rational",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Linear",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Constant",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Quadratic",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Annual",
+   "q_en": "⁸P₂ = ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "28",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "56",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "16",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Annual",
+   "q_en": "The solution region of y - x > 4 contains the point.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(0,5)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(0,3)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(5,0)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

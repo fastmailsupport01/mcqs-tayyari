@@ -1,0 +1,514 @@
+{
+ "board": "BISE Swat",
+ "board_slug": "swat",
+ "class": "12th",
+ "subject": "Physics",
+ "year": 2021,
+ "slug": "swat-12th-physics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Annual",
+   "q_en": "Energy of electron in hydrogen 1st quantized orbit.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "12.6ev",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "13.6ev",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "13.6kev",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Annual",
+   "q_en": "The Magnetic flux will be maximum for an angle of.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "180°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Annual",
+   "q_en": "The RMS value of current in an AC circuit is 10A, the peak value of current is.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "14.1A",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "7.07A",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.707A",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10A",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Annual",
+   "q_en": "The temperature at which a material becomes superconductor is.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Curie temperature",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Critical temperature",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Neutral temperature",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Transition temperature",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Annual",
+   "q_en": "The De-Broglie wave length of an electron moving with a speed of 10⁶m/s is.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "7.3x10⁻¹⁰m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3.7x10⁻¹⁰m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7.3x10⁻⁹m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3.7x10⁻⁹m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Annual",
+   "q_en": "The process of conversion of AC into DC is known as.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Inversion",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Amplification",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Rectification",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Biasing",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Annual",
+   "q_en": "The torque in the coil can be increased by increasing.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "No. of turns",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Current and magnetic field",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Area of coil",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All of the above",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Annual",
+   "q_en": "The unit of magnetic flux is.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Tesla",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Weber",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Electron volt",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Both A & B",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Annual",
+   "q_en": "Transistor is basically.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Power amplifier",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Voltage Amplifier",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Energy amplifier",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Annual",
+   "q_en": "Electric potential of earth is taken zero because earth is a good.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Conductor",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Insulator",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Semi conductor",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Annual",
+   "q_en": "When a wire is stretched and its radius becomes 1/2, then its resistance will be.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "16 R",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4 R",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2 R",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Annual",
+   "q_en": "Ampere's law is applicable to.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Circular path",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Rectangular path",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "To any closed path",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Annual",
+   "q_en": "Kirchhoff's voltage law is based on law of conservation of.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Energy",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Charge",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mass",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Annual",
+   "q_en": "Nature of force b/w two current carrying wire in same directions.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Attraction",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Repulsion",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Both Attraction and repulsion",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Annual",
+   "q_en": "The device in which induced emf is statically induced emf is.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Transformer",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ac generator",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Alternator",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Dynamo",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Annual",
+   "q_en": "Power dissipated in resistive circuit for A.C.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Vrms Irms",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "VmaxImax/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Both A & B",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Annual",
+   "q_en": "Peak value of AC is [illegible in source scan] the RMS current is.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "√2 A",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1A",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5A",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Annual",
+   "q_en": "Which one is ferromagnetic in nature?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Soft iron",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Nickle",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Copper",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,514 @@
+{
+ "board": "BISE Swat",
+ "board_slug": "swat",
+ "class": "11th",
+ "subject": "Chemistry",
+ "year": 2023,
+ "slug": "swat-11th-chemistry-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Annual",
+   "q_en": "Difference in magnitude of a property in different directions is known as",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cleavage",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Isotropy",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Polymor phism",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Anisotropy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Annual",
+   "q_en": "An orbital that is filled first with electrons, is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3d",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4P",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5S",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5P",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Annual",
+   "q_en": "According to lowry-Bronsted concept, water is in nature",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Acidic",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Basic",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Neutral",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Amphoteric",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Annual",
+   "q_en": "The solubility of gases decrease with increase in",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Pressure",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Volume",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Temperature",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Annual",
+   "q_en": "When reactants and products are liquids or solids then",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ΔH=0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ΔH=ΔE",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ΔH=ΔE+PΔV",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ΔH=PΔV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Annual",
+   "q_en": "At same temperature and pressure, which gas will diffuse most slowly",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CO₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "N₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NH₃",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CH₄",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Annual",
+   "q_en": "Bond energy of a covalent bond decreases with increase in",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Polarity",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Multiplicity",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Size of atoms",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ionic character",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Annual",
+   "q_en": "At equilibrium state, the pressures/concentrations of reactants and products",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Increase",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Decrease",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Equal",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Constant",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Annual",
+   "q_en": "When equal moles of hydrogen and oxygen react to form water, then the limiting reactant is.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "H₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "O₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "H₂O",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Annual",
+   "q_en": "Which element is liberated at cathode during electrolysis of aqueous NaCl solution",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sodium",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Hydrogen",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Chlorine",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Oxygen",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Annual",
+   "q_en": "One molal aqueous solution of which salt has the highest boiling point",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "NaCl",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CaCl₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "MgCl₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "AlCl₃",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Annual",
+   "q_en": "According to Hess's law, enthalpy change for a cyclic process is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Low",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Moderate",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "High",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Annual",
+   "q_en": "Order of a reaction may be",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Whole number",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Fractional",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Annual",
+   "q_en": "A solute in solution neither precipitates nor further dissolves when",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "IP > Kₛₚ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "IP < Kₛₚ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "IP = Kₛₚ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "IP ≥ Kₛₚ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Annual",
+   "q_en": "Which buffer solution changes the added strong acid into weak acid",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Neutral buffer",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Basic buffer",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Acid buffer",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Annual",
+   "q_en": "The geometry of a triatomic molecule with zero dipole moment is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Planar trigonal",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "tetrahedral",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Angular",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Linear",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Annual",
+   "q_en": "An increase in internal energy of a system may cause",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Chemical change",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Phase change",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Temperature rise",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Annual",
+   "q_en": "Oxidation number of hydrogen in metal hydrides is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "+2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}
