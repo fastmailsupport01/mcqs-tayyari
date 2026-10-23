@@ -1,0 +1,570 @@
+{
+ "board": "BISE DI Khan",
+ "board_slug": "dikhan",
+ "class": "11th",
+ "subject": "Mathematics",
+ "year": 2022,
+ "slug": "dikhan-11th-mathematics-2022",
+ "questions": [
+  {
+   "n": "i",
+   "group": "Paper",
+   "q_en": "The period of -2 cos ecπx is_______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2π",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−2π",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ii",
+   "group": "Paper",
+   "q_en": "[a₁ + (n − 1).r⁻¹ is the rᵗʰ term of _______ series.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Arithmetic",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Geometric",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Arithmetico-geometric",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Arithmetic-harmonic",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iii",
+   "group": "Paper",
+   "q_en": "The multiplicative inverse of z = 0 + 0i is _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 + 0i",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0 + i",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0 + 0i",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Doesn't exist",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iv",
+   "group": "Paper",
+   "q_en": "If 1 + 2 + 3 + .......+ n = n(n+1)/2 then 1 + 2 + 3 ... ... + 24 =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1600",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "300",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "600",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1300",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "v",
+   "group": "Paper",
+   "q_en": "a⃗ = i − j + k + k then |a⃗| = _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "√2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vi",
+   "group": "Paper",
+   "q_en": "sin(Tan⁻¹ x), |x| < 1 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x/√(1−x²)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/√(1−x²)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/√(1+x²)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x/√(1+x²)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vii",
+   "group": "Paper",
+   "q_en": "Tan⁻¹[x/y] − Tan⁻¹[(x−y)/(x+y)] = _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3π/4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "viii",
+   "group": "Paper",
+   "q_en": "i⁵⁷ + 1/i²⁵ = _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "i",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2i",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−i",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ix",
+   "group": "Paper",
+   "q_en": "If z is a complex number then z + z̄ = _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2Im (z)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−2Re (z)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2Re(z)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2Im (z)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "x",
+   "group": "Paper",
+   "q_en": "j × (2j + 3k) = _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3j",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2j",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3i",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3k",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xi",
+   "group": "Paper",
+   "q_en": "If |a⃗ + b⃗| = |a⃗ − b⃗|, then _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a⃗ ∥ b⃗",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a⃗ ⊥ b⃗",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "|a⃗| = |b⃗|",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xii",
+   "group": "Paper",
+   "q_en": "If a,b,c form a H.P. then b = _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(a+c)/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2/(a+c)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2ab/(a+c)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2ac/(a+c)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiii",
+   "group": "Paper",
+   "q_en": "If A = |1 6 7; 2 −5 8; 3 0 9| then M₁₃ = _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "13",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−15",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "26",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "15",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiv",
+   "group": "Paper",
+   "q_en": "If p(A) = 1/2 and p(B) = 0, then p(A / B) = _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Not defined",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xv",
+   "group": "Paper",
+   "q_en": "The middle term in the expansion of (2x + 5y)⁴ is _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "600 x²y²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "120 xy²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5000 xy³",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6x²y²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xvi",
+   "group": "Paper",
+   "q_en": "f : A → B defined by f(x) = x² such that A = {−1,0,1,2} and B = {0,1,4} then f is _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "One-one",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Onto",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Bijective",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Not a function",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xvii",
+   "group": "Paper",
+   "q_en": "ⁿPᵣ / ⁿCᵣ = _______ ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(n)!/(r)!",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(r)!/(n)!",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "n!",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "r!",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xviii",
+   "group": "Paper",
+   "q_en": "The point of concurrency of the right bisectors of the sides of a triangle is called_______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "In-centre",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Circumcentre",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Orthocenter",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Centroid",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xix",
+   "group": "Paper",
+   "q_en": "sin(θ − π/2) = _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "sin x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−sin x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "cos x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−cos x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xx",
+   "group": "Paper",
+   "q_en": "f(x) = −2x⁴ + cos x is _______ function",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Odd",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Even",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Neither even nor odd",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Trigonometric",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

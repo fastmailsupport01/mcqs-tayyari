@@ -1,0 +1,430 @@
+{
+ "board": "BISE DI Khan",
+ "board_slug": "dikhan",
+ "class": "10th",
+ "subject": "Mathematics",
+ "year": 2021,
+ "slug": "dikhan-10th-mathematics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Paper",
+   "q_en": "The solution of √(2x+3) = x is _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "9",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Both A&B",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Paper",
+   "q_en": "The third proportional of x and y is _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "y²/x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x/y",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "xy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Paper",
+   "q_en": "The most frequent value in the data is called _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mean",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Median",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "G.M",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mode",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Paper",
+   "q_en": "The measure of the semi-circle is_______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "360⁰",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "180⁰",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "90⁰",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "270⁰",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Paper",
+   "q_en": "The measure of the external angle of hexagon is _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π/3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Paper",
+   "q_en": "A chord 40 units long is contained in a circle of radius 25. The distance of the chord from the centre of the circle is _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "15 units",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "31.2 units",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "47.1 units",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "50.1 units",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Paper",
+   "q_en": "Identify the item that does not have the same ratio as the other three.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "30/45",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4 to 6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2:3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3 to 2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Paper",
+   "q_en": "For any two sets A and B which are subsets of ∪, then (A∩B)' = _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A'∩B'",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A'∪B'",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A'∪B",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A'B'",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Paper",
+   "q_en": "However many tangents can be drawn from the point outside the circle?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Paper",
+   "q_en": "If an object is above the level of observer then the angle formed between the horizontal line of sight is called",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Angle of depression",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Angle of elevation",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Abtuse angle",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Paper",
+   "q_en": "If \"f\" is a function from A to B, then \"f\" is onto function if:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Range f = B",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Range f ≠ A",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Dom f = A",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Second element of all ordered pair contained in f is not repeated",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Paper",
+   "q_en": "What is the quotient when x³ − 8x² + 16x − 5 is divided by x − 5?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "x² − x + 5",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "x² − 3x + 2",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "x² − 3x + 1",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "x² − 13x + 49 + 240/(x+5)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Paper",
+   "q_en": "What is the alternando property of the following if a/b = c/d",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "(a−b)/b = (c−d)/d",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "a/(a+b) = c/(c+d)",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "a/c = b/d",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "b/a = d/c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Paper",
+   "q_en": "The quadratic equation (x−2)² = 0 has solution_______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "One real solution",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Two real solutions",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "No real solution",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Paper",
+   "q_en": "The sum of the cube roots of unity is _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

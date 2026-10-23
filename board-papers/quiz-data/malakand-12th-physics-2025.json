@@ -1,0 +1,514 @@
+{
+ "board": "BISE Malakand",
+ "board_slug": "malakand",
+ "class": "12th",
+ "subject": "Physics",
+ "year": 2025,
+ "slug": "malakand-12th-physics-2025",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group",
+   "q_en": "PN junction when reversed act as ________.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Capacitor",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Inductor",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ON Switch",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "OFF Switch",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group",
+   "q_en": "When both the junctions are forward biased, it is ________.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Active Region",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cut-off Region",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Saturation Region",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Q-Point",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group",
+   "q_en": "Pair production cannot take place in vacuum because ________ is not conserved.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mass",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Momentum",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Energy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Charge",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group",
+   "q_en": "By doubling the absolute temperature of black-body, the total energy radiated will change by a factor of ________.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "16",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group",
+   "q_en": "Which of the following series of hydrogen spectra lies in the visible region of the spectrum?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Lyman",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Balmer",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Paschen",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Brackett",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group",
+   "q_en": "Electromagnetic force is caused by exchange of ________.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electrons",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Protons",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Neutrons",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Photons",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group",
+   "q_en": "One curie is equal to ________",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3.70 × 10^-10 Bq",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3.70 × 10^10 Bq",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1 × 10^10 Bq",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1MBq",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group",
+   "q_en": "Which of the following is a boson?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Proton",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Neutrino",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Photon",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Pion",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group",
+   "q_en": "The electric field intensity due to infinite sheet of charges is given by E⃗ = ________",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "σ/ε₀ r̂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "σ/2ε₀ r̂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Q/ε₀",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "δA/ε₀",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group",
+   "q_en": "1GeV = ________",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10^9 ev",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10^6 ev",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10^12 ev",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10^15 ev",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group",
+   "q_en": "The electric field intensity inside a conductor is taken ________",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Positive",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Negative",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Constant",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group",
+   "q_en": "The particular temperature at which the thermo emf becomes zero is called ________ temperature.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Neutral",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Curie",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Inversion",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Critical",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group",
+   "q_en": "How much voltage is required to make 2A through a resistance of 8Ω.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "16AΩ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "16AΩ⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "16ΩA⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A⁻¹Ω⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group",
+   "q_en": "If the charge is at rest in magnetic field, then force on it is ________",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "qvB",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "qvB sin θ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "qvB cos θ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group",
+   "q_en": "When a coil rotate in magnetic field, the induced current in it ________",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Continuously changes",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Remain same",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Becomes maximum",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Becomes zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group",
+   "q_en": "The peak value of alternating current is 5√2. The mean square value of current will be ________.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5A",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2.5A",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5√2A",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group",
+   "q_en": "For Young's Modulus, Y = ________",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "F/Aθ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ΔP/(-ΔV/V)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Fl/AΔL",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "F/A",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group",
+   "q_en": "A wire is stretched to double of its length. Its strain is ________",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

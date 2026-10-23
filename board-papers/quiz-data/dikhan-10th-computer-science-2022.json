@@ -1,0 +1,346 @@
+{
+ "board": "BISE DI Khan",
+ "board_slug": "dikhan",
+ "class": "10th",
+ "subject": "Computer Science",
+ "year": 2022,
+ "slug": "dikhan-10th-computer-science-2022",
+ "questions": [
+  {
+   "n": "i",
+   "group": "Paper",
+   "q_en": "An algorithm is a sequence of computational steps that transform the input into:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Data Structure",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Algorithm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Output",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ii",
+   "group": "Paper",
+   "q_en": "Diagrammatic or symbolic representation of an algorithm is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Flowchart",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Loop",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Constant",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iii",
+   "group": "Paper",
+   "q_en": "Which of the following is not a high level language?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "BASIC",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Assembly Language",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Pascal",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Fortran",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iv",
+   "group": "Paper",
+   "q_en": "The process of converting source code into object code id known as _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Compilation",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Executing",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Linking",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Saving",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "v",
+   "group": "Paper",
+   "q_en": "Which function is used to display output on the screen?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Printf ( )",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Scanf ( )",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Gets ( )",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Getchar ( )",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vi",
+   "group": "Paper",
+   "q_en": "In C language ever statement is terminated by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Full stop",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Double Quotes",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Semi colon",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Comma",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vii",
+   "group": "Paper",
+   "q_en": "Which programming statement makes a decision?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "If",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Break",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Assignment",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Printf( )",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "viii",
+   "group": "Paper",
+   "q_en": "Statement used for multiple choice or selection is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "If-else",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Do-while",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Switch",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Continue",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ix",
+   "group": "Paper",
+   "q_en": "In which loop the condition comes after the body of the loop?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "For",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "While",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "do-while",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "x",
+   "group": "Paper",
+   "q_en": "Which loop is a good choice when the number of interations are not know in advance?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Do-while",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "For",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "While",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nested",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xi",
+   "group": "Paper",
+   "q_en": "The gate whose output is '1' when all the inputs are '0' is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "NAND gate",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NOR gate",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NOT gate",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "XOR gate",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xii",
+   "group": "Paper",
+   "q_en": "A collection of web pages hosted on a web server is called",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Web Address",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Website",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Home Page",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Web browser",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

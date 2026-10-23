@@ -1,0 +1,514 @@
+{
+ "board": "BISE DI Khan",
+ "board_slug": "dikhan",
+ "class": "12th",
+ "subject": "Physics",
+ "year": 2021,
+ "slug": "dikhan-12th-physics-2021",
+ "questions": [
+  {
+   "n": "i",
+   "group": "Paper",
+   "q_en": "The unit of mutual inductance is _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Volt",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ampare",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Henry",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Tesla",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ii",
+   "group": "Paper",
+   "q_en": "In transistor which junction is forward based _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Collector",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Emitter",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Both A and B",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Sometime A & Sometime B",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iii",
+   "group": "Paper",
+   "q_en": "Unit of decay constant λ is _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "m.s",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "m⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "s⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iv",
+   "group": "Paper",
+   "q_en": "One e.m.u is equal to _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.51 MeV",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "931 MeV",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "238 MeV",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "231 MeV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "v",
+   "group": "Paper",
+   "q_en": "_______ radiation ionized air molecules strongly.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Alpha",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Beta",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Gama",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Both B&C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vi",
+   "group": "Paper",
+   "q_en": "1NA⁻¹m is equal to _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 Henry",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1 Tesla",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1 Becquerel",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1 Gauss",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vii",
+   "group": "Paper",
+   "q_en": "For step down transformer _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Vs > Vp",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Vs ≥ Vp",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Vs < Vp",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Vs = Vp",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "viii",
+   "group": "Paper",
+   "q_en": "In case of DC the capacitive resistance Xc has_______ value.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Finite",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Infinite",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Both A&B",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ix",
+   "group": "Paper",
+   "q_en": "A size of nucleus is equal to _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10⁻¹⁴m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10⁻¹⁰m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10⁻¹¹m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10⁻¹²m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "x",
+   "group": "Paper",
+   "q_en": "Rectification is done by _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Choak",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Diode",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Transformer",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Inductor",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xi",
+   "group": "Paper",
+   "q_en": "_______ is the example of Ferro-magnetic material.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Copper",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Antimony",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Zinc",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cobalt",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xii",
+   "group": "Paper",
+   "q_en": "1.602 x 10⁻¹⁹ Joules is equal to _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1eV",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1V",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1GeV",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1MeV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiii",
+   "group": "Paper",
+   "q_en": "Dimension of plank constant is equivalent to_______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Torque",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Momentum",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Angular momentum",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Energy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiv",
+   "group": "Paper",
+   "q_en": "Ampere law is applicable to _______ path.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Any closed",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Circular",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Rectangular",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xv",
+   "group": "Paper",
+   "q_en": "One weber is equal to _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "N.A²/m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "N.m²/A",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "N.A/m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "N.m/A",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xvi",
+   "group": "Paper",
+   "q_en": "Electric potential of earth is taken to be zero because earth is a good _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Semi-conductor",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Conductor",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Insulator",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "di-electric",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xvii",
+   "group": "Paper",
+   "q_en": "The algebraic sum of potential changes in a closed circuit is _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Potential difference",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Resistance",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xviii",
+   "group": "Paper",
+   "q_en": "The magnetic field around a current carrying wire is _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "BαI",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "BαI/R₀ [illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "BαI/R [illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Both A&B",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

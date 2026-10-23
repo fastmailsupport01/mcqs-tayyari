@@ -1,0 +1,346 @@
+{
+ "board": "BISE Abbottabad",
+ "board_slug": "abbottabad",
+ "class": "9th",
+ "subject": "Physics",
+ "year": 2022,
+ "slug": "abbottabad-9th-physics-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group",
+   "q_en": "The least count of vernier calliper is ........... cm.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.0001",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.001",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.01",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group",
+   "q_en": "The slope of distance time graph represents ...........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "displacement",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "speed",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "acceleration",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "distance",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group",
+   "q_en": "The torque in uniformly rotating fan having blade of length of 0.5 m is ...........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.5 Nm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−0.5 Nm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0 Nm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.1 Nm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group",
+   "q_en": "The first condition of equilibrium is ...........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ΣF=0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Στ=0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ΣP=0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ΣW=0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group",
+   "q_en": "An object at earth and taken to moon should have ...........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "same mass/less weight",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "same mass/more weight",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "less mass/less weight",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "less mass/same weight",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group",
+   "q_en": "The angle at which horizontal and vertical components of force are equal is ...........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "30°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "90°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group",
+   "q_en": "An object of mass 10 kg is lifted vertically through a height of 5 m. The gravitational potential energy gained by the object is ...........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.5 J",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2 J",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "50 J",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "490 J",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group",
+   "q_en": "The unit used for pressure in weather map is ...........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Pa",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "bar",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Atm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nm⁻²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group",
+   "q_en": "The specific heat capacity of water is ........... J kg⁻¹K⁻¹.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5190",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4360",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4190",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group",
+   "q_en": "The expression used to measure Young's Modulus is ...........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "F/Ax",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Fl/A",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Fl/Ax",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ax/Fl",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group",
+   "q_en": "The transfer of heat from the sun on earth is due to ...........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "radiation",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "convection",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "conduction",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "absorption",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group",
+   "q_en": "The fahrenheit and celsius scale reading of temperature coincide at ...........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−40°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−460°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−273°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "+273°",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

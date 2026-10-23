@@ -1,0 +1,346 @@
+{
+ "board": "BISE DI Khan",
+ "board_slug": "dikhan",
+ "class": "9th",
+ "subject": "Computer Science",
+ "year": 2022,
+ "slug": "dikhan-9th-computer-science-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Paper",
+   "q_en": "Where is Columbia supercomputer located?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "NASA Russia",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NASA China",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NASA USA",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NASA Italy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Paper",
+   "q_en": "Which of the following is an input device for voice recording?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Scanner",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Keyboard",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Speaker",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Microphone",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Paper",
+   "q_en": "Which of the following operating system allows a user to work in a single program at any given time?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Single user",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Multi user",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Multitasking",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Real time",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Paper",
+   "q_en": "Which program is used to view internet sites / pages?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Internet Explorer",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Web viewer",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Word",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Excel",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Paper",
+   "q_en": "What is the zoom range of a Word document offered through zoom slider:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10% – 200%",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10% – 300%",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10% – 400%",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10% – 500%",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Paper",
+   "q_en": "Which of the following are the blank spaces around the edges of the page?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Header",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Footer",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Page Margins",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Alignment",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Paper",
+   "q_en": "What is the unit of signaling sped?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Baud",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Kilometer",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Second",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Hertz",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Paper",
+   "q_en": "Which of the following is an example of Guided Transmission Media?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Satellite",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Microwave",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Coaxial Cable",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Infrared",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Paper",
+   "q_en": "Which communication technique allows several users to share a band of frequencies?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Dial up",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "DSL",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ISDN",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CDMA",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Paper",
+   "q_en": "In which network architecture there is one dedicated computer which is called server?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Dedicated",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Point to point",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Peer to peer",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Client / Server",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Paper",
+   "q_en": "Which one of the following should not be written down or shared with others?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Password",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "User ID",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Program",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Data",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Paper",
+   "q_en": "Which of the following refers to any crime that involves a computer and a network?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Robbery",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Theft",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cyber Crime",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Shop lifting",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,514 @@
+{
+ "board": "BISE DI Khan",
+ "board_slug": "dikhan",
+ "class": "11th",
+ "subject": "Physics",
+ "year": 2021,
+ "slug": "dikhan-11th-physics-2021",
+ "questions": [
+  {
+   "n": "i",
+   "group": "Paper",
+   "q_en": "At terminal velocity the acceleration of falling body is _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0ms⁻²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4.9ms⁻²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−9.8ms⁻²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9.8ms⁻²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ii",
+   "group": "Paper",
+   "q_en": "Substance that does not flow easily (like honey) have the _______ value for co-efficient of viscosity.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Low",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "High",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Negative",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iii",
+   "group": "Paper",
+   "q_en": "Tuning of radio set is an example of _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mechanical resonance",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Musical resonance",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Electrical resonance",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Free vibrations",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iv",
+   "group": "Paper",
+   "q_en": "Deriving the equation of time period for simple pendulum which quantity should be kept small.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Length of simple pendulum",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Amplitude",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mass of simple pendulum",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Gravitational acceleration",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "v",
+   "group": "Paper",
+   "q_en": "Wave generator produces 500 pulses in 10 sec. Find the frequency of the pulses produce in second [illegible in source scan]",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5000",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "500",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "50",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/50",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vi",
+   "group": "Paper",
+   "q_en": "Which of the following factor has no effect on the speed of sound in gas?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Humidity",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Pressure",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Temperature",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Density",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vii",
+   "group": "Paper",
+   "q_en": "Coloured fringes observed in a soap bubbles are examples of _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Diffraction",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Interference",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Polarization",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Reflection",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "viii",
+   "group": "Paper",
+   "q_en": "The S.I unit of molar specific heat or molar specific capacity is given by _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "J mole⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "J/Kg",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Jmole⁻¹k⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Kg.molek⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ix",
+   "group": "Paper",
+   "q_en": "The dimension of power is _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[ML²T³]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[ML²T⁻³]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[MLT³]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[MLT⁻³]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "x",
+   "group": "Paper",
+   "q_en": "For which angle the equation |A.B| = |AxB| is correct?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "30°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "90°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xi",
+   "group": "Paper",
+   "q_en": "To improve the jumping record the long jumper should jump at the angle of _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "30°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "90°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xii",
+   "group": "Paper",
+   "q_en": "Range of projective on a horizontal plane is same for the following pair of angles.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "15° and 18°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "43° and 47°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "20° and 80°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "52° and 62°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiii",
+   "group": "Paper",
+   "q_en": "If Momentum is increased by 50% then KE increases by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "25%",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "100%",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "125%",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "200%",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiv",
+   "group": "Paper",
+   "q_en": "If Ax = 1.5cm, Ay = −1.0cm into which quadrant do the vector A points?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "I",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "II",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "III",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "IV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xv",
+   "group": "Paper",
+   "q_en": "Value of the escape velocity is given as _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "11.2m/s",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "11.2 x 10² m/s",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "11.2 x 10³m/s",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "112 m/s",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xvi",
+   "group": "Paper",
+   "q_en": "The atmosphere is held to the earth by_______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Wind",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Gravity",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cloud",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Rotation of earth",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xvii",
+   "group": "Paper",
+   "q_en": "Moment of inertia of thin walled cylinder or ring is given by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "MR²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/2 MR²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/4 MR²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "22/7 MR²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xviii",
+   "group": "Paper",
+   "q_en": "The angular speed in radians/hour for daily rotation of our earth is_______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2π",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4π",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π/12",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,514 @@
+{
+ "board": "BISE DI Khan",
+ "board_slug": "dikhan",
+ "class": "11th",
+ "subject": "Chemistry",
+ "year": 2022,
+ "slug": "dikhan-11th-chemistry-2022",
+ "questions": [
+  {
+   "n": "i",
+   "group": "Paper",
+   "q_en": "The total number of atoms in 22.4 dm³ of Co₂ at STP:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "6.02 x 10²³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2 x 6.02 x 10²³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3 x 6.02 x 10²³",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4 x 6.02 x 10²³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ii",
+   "group": "Paper",
+   "q_en": "Zeeman's effect is explain by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Principal quantum number",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Azimuthal quantum number",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Magnetic quantum number",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Spin quantum number",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iii",
+   "group": "Paper",
+   "q_en": "Which set of quantum number is not correct?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "n = 4 l = 2 me = 2 s = +1/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "n = 4 l = 2 me = 2 s = [illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "n = 4 l = 1 me = 0 s = +1/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "n = 4 l = 0 me = 0 s = [illegible in source scan]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iv",
+   "group": "Paper",
+   "q_en": "The molecular orbital with highest energy among the following:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π2Py",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π*2Py",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "δ*2Py",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "δ2Py",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "v",
+   "group": "Paper",
+   "q_en": "The volume of given mass of a gas become double when temperature is changed from 50C⁰ to_______ at constant pressure.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "100C⁰",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "371C⁰",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "373C⁰",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "100K",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vi",
+   "group": "Paper",
+   "q_en": "The properties of liquid crystal similar to crystalline solids is_______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Optical properties",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Some degree of order",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Surface tension",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Both A and B",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vii",
+   "group": "Paper",
+   "q_en": "In body central cubic lattices each lattice point inside the unit cell is shared by_______ unit cell.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "One",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Two",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Three",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Eight",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "viii",
+   "group": "Paper",
+   "q_en": "Weakest force of attraction is found in_______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Covalent solid",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Metallic solid",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ionic solid",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Molecular solid",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ix",
+   "group": "Paper",
+   "q_en": "The reaction in which KP < Kc:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "H₂(g) + I₂(g) ⇌ 2HI(g)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "PCl₅(g) ⇌ PCl₃(g) + PCl₂(g)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "N₂(g) + 3H₂(g) ⇌ 2NH₃(g)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "N₂(g) + O₂(g) ⇌ 2NO(g)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "x",
+   "group": "Paper",
+   "q_en": "Weakest London force are found in_______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Kr",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ar",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ne",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "He",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xi",
+   "group": "Paper",
+   "q_en": "The conjugate base of HCO₃⁻ is _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CO",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CO₃⁻²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "H₂CO₃⁻",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CO₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xii",
+   "group": "Paper",
+   "q_en": "The solution having highest PH is _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.01MHCl",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.0001MHNO₃",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.01MNaOH",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.001MNaOH",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiii",
+   "group": "Paper",
+   "q_en": "The reaction given below is an example of: 3O₂(g) —NO(g)→ 2O₃(g)",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Homogeneous catalysis",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Heterogeneous catalysis",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Enzyme catalysis",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Uncatalysed reaction",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiv",
+   "group": "Paper",
+   "q_en": "The solution having highest boiling point is _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.01 M glucose",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.05M sucrose",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.1 M urea",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All have same b.p",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xv",
+   "group": "Paper",
+   "q_en": "Heat of solution is the amount of heat released or absorbed when one mole of solute is dissolved in _______ solvent",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "100g",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "100ml",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1dm³",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "excess",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xvi",
+   "group": "Paper",
+   "q_en": "The process for which enthalpy change may be positive or negative?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Combustion",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Formation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Neutraliatioin",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ionization potential",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xvii",
+   "group": "Paper",
+   "q_en": "Oxidation states of S in SO₂, H₂ H₂SO₄ are___respectively.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "+4,+2,+6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "+4,−2,+6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−4,+2,−6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "+4,−2,−6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xviii",
+   "group": "Paper",
+   "q_en": "Galvanizing is deposition of_______on other metals.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ni",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cr",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Zn",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Sn",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

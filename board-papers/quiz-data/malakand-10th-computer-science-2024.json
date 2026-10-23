@@ -1,0 +1,318 @@
+{
+ "board": "BISE Malakand",
+ "board_slug": "malakand",
+ "class": "10th",
+ "subject": "Computer Science",
+ "year": 2024,
+ "slug": "malakand-10th-computer-science-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group",
+   "q_en": "Programmer is person who:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Calculates data",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Develops instructions",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Indicates syntax error",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Displays output",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group",
+   "q_en": "C++ and java are the examples of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "System software",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Computer language",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Software packages",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "System drivers",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group",
+   "q_en": "A computer software that translates C language program into machine code:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Debugger",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Editor",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Compiler",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Linker",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group",
+   "q_en": "C language uses output function that is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "getch()",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "printf()",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "scanf()",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "gets()",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group",
+   "q_en": "C language uses assignment operator that is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "+",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "=",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "%",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "÷",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group",
+   "q_en": "Basic object of any structured programming language is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "control panel",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "assembler",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "control structure",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "compiler",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group",
+   "q_en": "A type of control that repeats a statement on the basis of condition is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "control panel",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "looping",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "control structure",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "loop structure",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group",
+   "q_en": "Break statement is used with:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "switch",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "if",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "while",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "else",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group",
+   "q_en": "Function of logical gates is based on:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "flow of electric current",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "flow of electromagnetic",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "flow of magnetic field",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "flow of electric data",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group",
+   "q_en": "W3 web was first introduced on August:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4, 1990",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4, 1991",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4, 1992",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4, 1993",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group",
+   "q_en": "News website saves old news and articles in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "record section",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "archive section",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "hard form",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "soft form",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

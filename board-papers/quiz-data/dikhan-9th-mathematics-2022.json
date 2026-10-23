@@ -1,0 +1,430 @@
+{
+ "board": "BISE DI Khan",
+ "board_slug": "dikhan",
+ "class": "9th",
+ "subject": "Mathematics",
+ "year": 2022,
+ "slug": "dikhan-9th-mathematics-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Paper",
+   "q_en": "If a square matrix A = Aᵗ then A is called a _______ matrix:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Skew symmetric",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Symmetric",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Rectangular",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Null",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Paper",
+   "q_en": "When [x−1 4; y+3 −7] = [0 4; −2 −7], then x = ?, y = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "x = 1, y = −5",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "x = 1, y = −2/3",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "x = 1, y = 1",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "x = 0, y = −2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Paper",
+   "q_en": "√−1 x √−1 =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "i",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Paper",
+   "q_en": "If log_√3 5 + log_√3 8 − log_√3 2, then a = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "13",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "30",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "20",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Paper",
+   "q_en": "Product of (x−1/x)(x²+1/x²) = _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "x³ − 1/x³",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "(x − 1/x)³",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "x² + 1/x³",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "(x + 1/x)³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Paper",
+   "q_en": "Zero of polynomial p(x) = x² − 4x + 3 is _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Paper",
+   "q_en": "A number of the form ⁿ√a, where a is appositive rational number is called_______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Rational",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Irrational",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Surd",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Paper",
+   "q_en": "L.C.M = _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "H / AxB",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "AxB / H",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "A / HxB",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "B / HxA",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Paper",
+   "q_en": "Simplified form of b/(25a²−b²) − 1/(5a−b) is _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "5 / 25a²−b²",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "+5a / 5a−b",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "−5a / 5a+b",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "−5a / 25a²−b²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Paper",
+   "q_en": "Solution set of √(2x) + 5 = 9 is_______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Paper",
+   "q_en": "Let (a,b) be an order of pair in rectangular plane then x-coordinate is called_______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Image",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Abscissa",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ordinate",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Range",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Paper",
+   "q_en": "The line x = a, where a is a real number in parallel to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "y-axis",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x-axis",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Both A and B",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Neither x-axis nor y-axis",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Paper",
+   "q_en": "In △ABC, if ∠A ≅ ∠B then bisector of _______ divides the △ABC into two congruent triangles.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "∠A",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "∠B",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "∠C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Any one if its angles",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Paper",
+   "q_en": "How many equilateral triangles can be made by joining the mid points of the sides of an equilateral triangle?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cannot be determined",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Paper",
+   "q_en": "Which of the following are the sides of a right angle triangle?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2,3,4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3,4,5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4,5,6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5,6,7",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

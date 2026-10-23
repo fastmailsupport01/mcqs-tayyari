@@ -1,0 +1,430 @@
+{
+ "board": "BISE DI Khan",
+ "board_slug": "dikhan",
+ "class": "11th",
+ "subject": "Computer Science",
+ "year": 2022,
+ "slug": "dikhan-11th-computer-science-2022",
+ "questions": [
+  {
+   "n": "i",
+   "group": "Paper",
+   "q_en": "Which of the following is not input device?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mouse",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Compiler",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Digital camera",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Speaker",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ii",
+   "group": "Paper",
+   "q_en": "Thenu of pixels (dots) per square inch area of a monitor is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Size",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Resolution",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Dot pitch",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Refresh Rate",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iii",
+   "group": "Paper",
+   "q_en": "The output produced by printers is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hard copy output",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Soft copy output",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Plain output",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Rough output",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iv",
+   "group": "Paper",
+   "q_en": "Which of the following is the faster memory?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "RAM",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ROM",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cash Memory",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "PROM",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "v",
+   "group": "Paper",
+   "q_en": "_______ has the highest storage capacity.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "DVD",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Blu-ray Disk",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CD",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zip Disk",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vi",
+   "group": "Paper",
+   "q_en": "_______ coordinates and controls the computer system, just like the brain controls the human body.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Bus",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cu",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Output unit",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Register",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vii",
+   "group": "Paper",
+   "q_en": "What does SIMM stands for?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "System in-line memory module",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Synchronous in-line memory module",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Single in-line memory module",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Serial in-line memory module",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "viii",
+   "group": "Paper",
+   "q_en": "_______ is the data or information that is to be communicated over the network.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Message",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Sender",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Medium",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Receiver",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ix",
+   "group": "Paper",
+   "q_en": "In _______ mode, both stations can send and receive the data simultaneously",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Simplex",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Full-duplex",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Half-duplex",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Duplex",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "x",
+   "group": "Paper",
+   "q_en": "How many layers does the OSI model consists of?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "7",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xi",
+   "group": "Paper",
+   "q_en": "The GPS System consists of _______ satellites:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "20",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "22",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "24",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "25",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xii",
+   "group": "Paper",
+   "q_en": "_______ is the first markup language standard for wireless devices:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "HTML",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "WAP",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "HTTP",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "WML",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiii",
+   "group": "Paper",
+   "q_en": "Who is the person who has central control over data and programs in a data base system?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "DBA",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Designer",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "System Analyst",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Programmer",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiv",
+   "group": "Paper",
+   "q_en": "A row in a table is also known as _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Colun",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Relation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Tuple",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Field",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xv",
+   "group": "Paper",
+   "q_en": "_______ key is a unique key field in a table.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Secondary",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Foreign",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Composite",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Primary",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

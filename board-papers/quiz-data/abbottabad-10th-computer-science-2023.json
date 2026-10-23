@@ -1,0 +1,318 @@
+{
+ "board": "BISE Abbottabad",
+ "board_slug": "abbottabad",
+ "class": "10th",
+ "subject": "Computer Science",
+ "year": 2023,
+ "slug": "abbottabad-10th-computer-science-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group",
+   "q_en": "Breaking down a problem into smaller and solvable problems is called ........",
+   "q_ur": "مسئلہ کو چھوٹے قابل حل مسائل میں تبدیل کرنے کو کیا کہا جاتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "abstraction",
+     "ur": "تجرید"
+    },
+    {
+     "k": "B",
+     "en": "analogy",
+     "ur": "تمثیل"
+    },
+    {
+     "k": "C",
+     "en": "divide and conquer",
+     "ur": "تقسیم اور فتح"
+    },
+    {
+     "k": "D",
+     "en": "both A & B",
+     "ur": "A اور B دونوں"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group",
+   "q_en": "In flowcharts parallelogram symbol is used for ........",
+   "q_ur": "فلو چارٹ میں متوازی الاضلاع کی علامت ........ کے لیے استعمال ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "processing",
+     "ur": "پروسیسنگ"
+    },
+    {
+     "k": "B",
+     "en": "input",
+     "ur": "ان پٹ"
+    },
+    {
+     "k": "C",
+     "en": "output",
+     "ur": "آؤٹ پٹ"
+    },
+    {
+     "k": "D",
+     "en": "both B & C",
+     "ur": "B اور C دونوں"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group",
+   "q_en": "C language program is translated to machine language by ........",
+   "q_ur": "C لینگویج میں لکھے گئے پروگرام کو مشین لینگویج میں کون ترجمہ کرتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "compiler",
+     "ur": "کمپائلر"
+    },
+    {
+     "k": "B",
+     "en": "interpreter",
+     "ur": "انٹرپریٹر"
+    },
+    {
+     "k": "C",
+     "en": "assembler",
+     "ur": "اسمبلر"
+    },
+    {
+     "k": "D",
+     "en": "editor",
+     "ur": "ایڈیٹر"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group",
+   "q_en": "Variable name must be started with ........",
+   "q_ur": "ویری ایبل کا نام ہمیشہ ........ سے شروع ہونا چاہیے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "letter",
+     "ur": "letter"
+    },
+    {
+     "k": "B",
+     "en": "underscore",
+     "ur": "underscore"
+    },
+    {
+     "k": "C",
+     "en": "number",
+     "ur": "number"
+    },
+    {
+     "k": "D",
+     "en": "Both A & B",
+     "ur": "A اور B دونوں"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group",
+   "q_en": "printf() and puts() are ........ functions.",
+   "q_ur": "printf() اور puts() ........ فنکشنز ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "input",
+     "ur": "input"
+    },
+    {
+     "k": "B",
+     "en": "output",
+     "ur": "output"
+    },
+    {
+     "k": "C",
+     "en": "display",
+     "ur": "display"
+    },
+    {
+     "k": "D",
+     "en": "both A & B",
+     "ur": "A اور B دونوں"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group",
+   "q_en": "?: is called ........ operator.",
+   "q_ur": "?: کو ........ کہا جاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "compound",
+     "ur": "compound"
+    },
+    {
+     "k": "B",
+     "en": "combined",
+     "ur": "combined"
+    },
+    {
+     "k": "C",
+     "en": "conditional",
+     "ur": "conditional"
+    },
+    {
+     "k": "D",
+     "en": "comparison",
+     "ur": "comparison"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group",
+   "q_en": "Header file required for cin and cout is ........",
+   "q_ur": "cin اور cout کے لیے کونسی ہیڈر فائل درکار ہوتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "stdio",
+     "ur": "stdio"
+    },
+    {
+     "k": "B",
+     "en": "conio",
+     "ur": "conio"
+    },
+    {
+     "k": "C",
+     "en": "math",
+     "ur": "math"
+    },
+    {
+     "k": "D",
+     "en": "iostream",
+     "ur": "iostream"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group",
+   "q_en": "NOT gate is used to ........ the input value.",
+   "q_ur": "NOT گیٹ ان پٹ ویلیو کو ........ کرنے کے لیے استعمال ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "erase",
+     "ur": "erase"
+    },
+    {
+     "k": "B",
+     "en": "inverse",
+     "ur": "inverse"
+    },
+    {
+     "k": "C",
+     "en": "diverse",
+     "ur": "diverse"
+    },
+    {
+     "k": "D",
+     "en": "converse",
+     "ur": "converse"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group",
+   "q_en": "........ is a computer that is used to store information for multiple users on the internet.",
+   "q_ur": "........ انٹرنیٹ پر موجود ایک کمپیوٹر ہے جو کئی یا زیادہ یوزرز کی معلومات محفوظ کرنے کے لیے استعمال کیا جاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "mobile",
+     "ur": "موبائل"
+    },
+    {
+     "k": "B",
+     "en": "client",
+     "ur": "کلائنٹ"
+    },
+    {
+     "k": "C",
+     "en": "internet",
+     "ur": "انٹرنیٹ"
+    },
+    {
+     "k": "D",
+     "en": "webserver",
+     "ur": "ویب سرور"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group",
+   "q_en": "<dt></dt> tags are used to define ........",
+   "q_ur": "<dt></dt> ٹیگ کس کے لیے استعمال کیا جاتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "definition term",
+     "ur": "definition term"
+    },
+    {
+     "k": "B",
+     "en": "order text",
+     "ur": "order text"
+    },
+    {
+     "k": "C",
+     "en": "ordered list",
+     "ur": "orderd list"
+    },
+    {
+     "k": "D",
+     "en": "definition list",
+     "ur": "definition list"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group",
+   "q_en": "Inside a table to create columns in a row following tag will be used.",
+   "q_ur": "ٹیبل کے اندر ایک قطار میں کالم بنانے کے لیے کون سا ٹیگ استعمال ہوگا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "<table>",
+     "ur": "<table>"
+    },
+    {
+     "k": "B",
+     "en": "<tr></tr>",
+     "ur": "<tr></tr>"
+    },
+    {
+     "k": "C",
+     "en": "<td></td>",
+     "ur": "<td></td>"
+    },
+    {
+     "k": "D",
+     "en": "<tc></tc>",
+     "ur": "<tc></tc>"
+    }
+   ]
+  }
+ ]
+}

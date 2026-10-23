@@ -1,0 +1,514 @@
+{
+ "board": "BISE DI Khan",
+ "board_slug": "dikhan",
+ "class": "12th",
+ "subject": "Physics",
+ "year": 2022,
+ "slug": "dikhan-12th-physics-2022",
+ "questions": [
+  {
+   "n": "i",
+   "group": "Paper",
+   "q_en": "According to special theory of relativity _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Moving clock tick slowly in comparison to stationary clock",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Moving clock tick quickly in comparison to stationary clock",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "The two clock will tick at the same speed",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ii",
+   "group": "Paper",
+   "q_en": "When the number of electrons in excited state exceeds than the number of electrons in the ground state, it is called _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Excitation",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ionization",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Population inversion",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iii",
+   "group": "Paper",
+   "q_en": "The energy of the electron in excited state n=4 in H-atom is _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−13.6eV",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−3.4eV",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−1.5eV",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−0.85eV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iv",
+   "group": "Paper",
+   "q_en": "All free particles have a color charge of _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "v",
+   "group": "Paper",
+   "q_en": "Which of the following is a boson?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Proton",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Neutron",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Photon",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Pion",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vi",
+   "group": "Paper",
+   "q_en": "If 15/16 of the radioactive atoms of an elements decay in 8 minutes, the half-life of elements is _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "8 mint",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4 mint",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2 mint",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "12 mint",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vii",
+   "group": "Paper",
+   "q_en": "The capacitance of the parallel capacitor having vacuum between the plates in, where K is coulumb constant?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ε₀/Ad",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A/(4πKd)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "dε₀/A",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "viii",
+   "group": "Paper",
+   "q_en": "A proton is about 1840 time heavier than an electron. When it is accelerated by a P.D of 1KV, its K.E will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1840 KeV",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/1840 KeV",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1 KeV",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "920 KeV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ix",
+   "group": "Paper",
+   "q_en": "10⁶ electrons are moving through a wire per second, the current developed is _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.6x10⁻¹⁹A",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10⁶A",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1A",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.6x10⁻¹³A",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "x",
+   "group": "Paper",
+   "q_en": "A current of 9.0 A flows in a circuit of three resistors connected in parallel to a P.D source if each resistor has magnitude 5Ω, then current in the 3rd resistor is _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "9A",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3A",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.5A",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.5A",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xi",
+   "group": "Paper",
+   "q_en": "One weber is equal to _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "NA²/m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Nm²/A",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Nm/A",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NA/m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xii",
+   "group": "Paper",
+   "q_en": "Set-up transformer has a transformation ratio of 3:2. What is the voltage in secondary of voltage in primary is 30V?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "45V",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "15V",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "90V",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "300V",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiii",
+   "group": "Paper",
+   "q_en": "r.m.s value of a sine die wave is 100A, its peak value is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "70.7A",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "141.4A",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "150A",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "282.2 [illegible in source scan]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiv",
+   "group": "Paper",
+   "q_en": "A capacitor is perfectly for _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Direct current",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Alternating current",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Induced emf",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Both A and B",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xv",
+   "group": "Paper",
+   "q_en": "A force of 500N is applied to one end of a cylindrical [illegible in source scan] diameter 50cm. The tensile stress in N/m² is _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "500",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2.5 x 10⁴",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2.5 x 10⁻⁴",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2.5 x [illegible in source scan]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xvi",
+   "group": "Paper",
+   "q_en": "Ratio of stress to strain is _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": ">1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Constant",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "<1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xvii",
+   "group": "Paper",
+   "q_en": "In transistor the central region base is doped _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Heavily",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Moderately",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Lightly",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xviii",
+   "group": "Paper",
+   "q_en": "Pair production cannot take place in vacuum because _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mass is not conserved",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Momentum is not conserved",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Energy is not conserved",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Charge is not conserved",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

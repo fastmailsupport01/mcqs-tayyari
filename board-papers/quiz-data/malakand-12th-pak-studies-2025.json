@@ -1,0 +1,290 @@
+{
+ "board": "BISE Malakand",
+ "board_slug": "malakand",
+ "class": "12th",
+ "subject": "Pak Studies",
+ "year": 2025,
+ "slug": "malakand-12th-pak-studies-2025",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group",
+   "q_en": "What is the minimum age for Presidential candidate?",
+   "q_ur": "صدارتی امیدوار کیلئے کم سے کم عمر کتنی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "35 Years",
+     "ur": "35 سال"
+    },
+    {
+     "k": "B",
+     "en": "40 Years",
+     "ur": "40 سال"
+    },
+    {
+     "k": "C",
+     "en": "42 Year",
+     "ur": "42 سال"
+    },
+    {
+     "k": "D",
+     "en": "45 Years",
+     "ur": "45 سال"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group",
+   "q_en": "In which city the meeting between the president Pervez Musharraf and Indian Prime Minister Atal Behari Vajpayee took place in 2001?",
+   "q_ur": "2001 میں صدر پرویز مشرف اور بھارتی وزیر اعظم اٹل بہاری واجپائی کے درمیان ملاقات کس شہر میں ہوئی تھی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Lahore",
+     "ur": "لاہور"
+    },
+    {
+     "k": "B",
+     "en": "Delhi",
+     "ur": "دلی"
+    },
+    {
+     "k": "C",
+     "en": "Islamabad",
+     "ur": "اسلام آباد"
+    },
+    {
+     "k": "D",
+     "en": "Agra",
+     "ur": "آگرہ"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group",
+   "q_en": "Who ordered the first ever census in the Islamic History?",
+   "q_ur": "اسلامی تاریخ میں سب سے پہلے مردم شماری کس نے کروائی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hazrat Abubakkar (R.A)",
+     "ur": "حضرت ابوبکرؓ"
+    },
+    {
+     "k": "B",
+     "en": "Hazrat Umar (R.A)",
+     "ur": "حضرت عمرؓ"
+    },
+    {
+     "k": "C",
+     "en": "Hazrat Usman (R.A)",
+     "ur": "حضرت عثمانؓ"
+    },
+    {
+     "k": "D",
+     "en": "Hazrat Ali (R.A)",
+     "ur": "حضرت علیؓ"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group",
+   "q_en": "What was the proportional share of Pakistan in the Assets at the time of Partition?",
+   "q_ur": "تقسیم ہند کے وقت اثاثوں میں پاکستان کا متناسب حصہ کتنا تھا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "550 million",
+     "ur": "550 ملین"
+    },
+    {
+     "k": "B",
+     "en": "650 million",
+     "ur": "650 ملین"
+    },
+    {
+     "k": "C",
+     "en": "750 million",
+     "ur": "750 ملین"
+    },
+    {
+     "k": "D",
+     "en": "850 million",
+     "ur": "850 ملین"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group",
+   "q_en": "Who was the founder of \"Slave Dynasty\"?",
+   "q_ur": "خاندان غلاماں کا بانی کون تھا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Shahab Uddin Muhammad Ghori",
+     "ur": "شہاب الدین محمد غوری"
+    },
+    {
+     "k": "B",
+     "en": "Qutab Uddin Aibak",
+     "ur": "قطب الدین ایبک"
+    },
+    {
+     "k": "C",
+     "en": "Zaheer Uddin Babar",
+     "ur": "ظہیر الدین بابر"
+    },
+    {
+     "k": "D",
+     "en": "Feroz Shah Tughlaq",
+     "ur": "فیروز شاہ تغلق"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group",
+   "q_en": "\"Wakhan Strip\" is owned by which country?",
+   "q_ur": "\"واخان کی پٹی\" کس ملک میں ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Pakistan",
+     "ur": "پاکستان"
+    },
+    {
+     "k": "B",
+     "en": "Afghanistan",
+     "ur": "افغانستان"
+    },
+    {
+     "k": "C",
+     "en": "Tajikistan",
+     "ur": "تاجکستان"
+    },
+    {
+     "k": "D",
+     "en": "Iran",
+     "ur": "ایران"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group",
+   "q_en": "Islamiyat and Pakistan Studies were made compulsory subjects during the rule of ________",
+   "q_ur": "کس کے دور حکومت میں اسلامیات اور مطالعہ پاکستان کو لازمی مضامین قرار دیا گیا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ayub Khan",
+     "ur": "ایوب خان"
+    },
+    {
+     "k": "B",
+     "en": "Yahya Khan",
+     "ur": "یحییٰ خان"
+    },
+    {
+     "k": "C",
+     "en": "Zia Ul Haq",
+     "ur": "ضیاء الحق"
+    },
+    {
+     "k": "D",
+     "en": "Zulfiqar Ali Bhutto",
+     "ur": "ذوالفقار علی بھٹو"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group",
+   "q_en": "In which pact/agreement the principle of separate electorate for Muslims was accepted by Congress?",
+   "q_ur": "کانگریس نے کس معاہدے میں مسلمانوں کیلئے جداگانہ انتخاب کا اصول تسلیم کیا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Simla Deputation",
+     "ur": "شملہ ڈیپوٹیشن"
+    },
+    {
+     "k": "B",
+     "en": "Simla Agreement",
+     "ur": "شملہ معاہدہ"
+    },
+    {
+     "k": "C",
+     "en": "Simla Conference",
+     "ur": "شملہ کانفرنس"
+    },
+    {
+     "k": "D",
+     "en": "Lucknow Pact",
+     "ur": "لکھنؤ پیکٹ"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group",
+   "q_en": "What is the popular public game of Sindh?",
+   "q_ur": "صوبہ سندھ میں کون سے کھیل کو عوامی کھیل کہا جاتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Foot Ball",
+     "ur": "فٹ بال"
+    },
+    {
+     "k": "B",
+     "en": "Wrestlest",
+     "ur": "کشتی"
+    },
+    {
+     "k": "C",
+     "en": "Mala Khra",
+     "ur": "ملاکھڑا"
+    },
+    {
+     "k": "D",
+     "en": "Horse Racing",
+     "ur": "گھوڑ دوڑ"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group",
+   "q_en": "By Whom arbitration Indus Basin Treaty concluded?",
+   "q_ur": "سندھ طاس معاہدے میں ثالثی کا کردار کس نے ادا کیا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "IMF",
+     "ur": "آئی ایم ایف"
+    },
+    {
+     "k": "B",
+     "en": "World Bank",
+     "ur": "ورلڈ بینک"
+    },
+    {
+     "k": "C",
+     "en": "General Assembly",
+     "ur": "جنرل اسمبلی"
+    },
+    {
+     "k": "D",
+     "en": "UNO",
+     "ur": "اقوام متحدہ"
+    }
+   ]
+  }
+ ]
+}

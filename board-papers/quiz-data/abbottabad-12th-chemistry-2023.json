@@ -1,0 +1,514 @@
+{
+ "board": "BISE Abbottabad",
+ "board_slug": "abbottabad",
+ "class": "12th",
+ "subject": "Chemistry",
+ "year": 2023,
+ "slug": "abbottabad-12th-chemistry-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group",
+   "q_en": "Grignard's reagent contains___ metal.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Fe",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ca",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mg",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mn",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group",
+   "q_en": "The bond angles of H-C-H and H-C-Cl bonds are___.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Less than 109.5°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Greater than 109.5°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Equal to 109.5°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Equal to 120°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group",
+   "q_en": "1,2,4,5-tetramethylbenzene is the IUPAC name of___.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Xylene",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Toluene",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Durene",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mesitylene",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group",
+   "q_en": "Opticla activity of a compound is measured by an instrument called___.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Photometer",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Refractometer",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Polarimeter",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Calorimeter",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group",
+   "q_en": "All of the given are alkanes except___.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "C3H8",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "C4H10",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "C6H12",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "C7H16",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group",
+   "q_en": "Oxa is the functional group of___.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ester",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Aldehyde",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ether",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ketone",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group",
+   "q_en": "Which of the given is not organic in nature?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "NH3°CO-NH2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NH4CNO",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CH3-OH",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CH3Cl",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group",
+   "q_en": "The most stable oxidation state of manganese in acidic or neutral solution is___.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "+2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "+4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "+6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "+7",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group",
+   "q_en": "Al2O3 is___.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Acidic oxide",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Basic oxide",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Neutral oxide",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Amhoteric oxide",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group",
+   "q_en": "Which of the given is NMR inactive nucleus?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "31P",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1H",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "15N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "16O",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group",
+   "q_en": "In combustion analysis CO2 is absorbed by___.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mg(ClO4)2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "KOH",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CuO",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CuSO4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group",
+   "q_en": "The height of the stratosphere is from___.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 to 10 km",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10 to 50 km",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "50 to 85 km",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "85 to 387 km",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group",
+   "q_en": "Total number of chlorine atoms in DDT are___.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group",
+   "q_en": "Proteins are polymers of___.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Glucose",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Disulphide bridges",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Peptide bonds",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Amino acids",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group",
+   "q_en": "All are the derivatives of carboxylic acid except___.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Acid Halides",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Nitrile",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Alkyl Halides",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ester",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group",
+   "q_en": "Gem-Diol is the product of acid/base catalyzed reaction of water with___.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Aldehyde/ketone",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Carboxylic acid",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Alcohol",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ether",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group",
+   "q_en": "In Williamson's synthesis___ pair of reactants, react with each other to form ether.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "R-OH and Na",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "R-OH and R-Mg-X",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "R-OH and R-O Na+",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "R-OH and R-OH",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group",
+   "q_en": "Lucas reagent is___.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "R-OH and HCl",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "HCl and ZnCl2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "R-OH and ZnCl2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

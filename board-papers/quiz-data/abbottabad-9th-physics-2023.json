@@ -1,0 +1,346 @@
+{
+ "board": "BISE Abbottabad",
+ "board_slug": "abbottabad",
+ "class": "9th",
+ "subject": "Physics",
+ "year": 2023,
+ "slug": "abbottabad-9th-physics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group",
+   "q_en": "The value of gravitational field strength is maximum at:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Equator",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Pole",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Surface of Earth",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Center of Earth",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group",
+   "q_en": "A truck covers a distance of 20 km with a constant force of 400 N, its work done is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "20 kJ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2000 kJ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4000 kJ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8000 kJ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group",
+   "q_en": "Capacity of a body to do work is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Force",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Power",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Energy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Momentum",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group",
+   "q_en": "Fluids exert pressure in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Upward direction only",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Downward direction only",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Two directions",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All directions",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group",
+   "q_en": "The quantity of heat required to raise the temperature of a substance by 1°C or 1 K is known as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Specific Heat",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Latent Heat",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Heat Capacity",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Internal Energy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group",
+   "q_en": "Conduction occurs best in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Solids",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Liquids",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Gases",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Plasma",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group",
+   "q_en": "Which of the following is base quantity?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Force",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Electric Current",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Density",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Energy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group",
+   "q_en": "Displacement becomes equal to distance, when the path followed by moving body is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Circular",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Zigzag",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Straight",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Curved",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group",
+   "q_en": "An agent which moves or tends to move a body is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Momentum",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Inertia",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Force",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Impulse",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group",
+   "q_en": "The magnitude of centripetal force acting on a stone of mass 1 kg, moving in a circle of radius 3 m with speed 3 m/s is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3N",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group",
+   "q_en": "Ali is pushing a block with a force of 40 N at 60° with floor, horizontal component of force is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "20 N",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "30 N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "35 N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "40 N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group",
+   "q_en": "Turning effect on a door can be increased by increasing:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mass",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Moment Arm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Momentum",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Inertia",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

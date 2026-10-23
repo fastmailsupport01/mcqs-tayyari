@@ -1,0 +1,514 @@
+{
+ "board": "BISE DI Khan",
+ "board_slug": "dikhan",
+ "class": "11th",
+ "subject": "Physics",
+ "year": 2022,
+ "slug": "dikhan-11th-physics-2022",
+ "questions": [
+  {
+   "n": "i",
+   "group": "Paper",
+   "q_en": "Which of the following is dimension less variable?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Decay constant",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Plank's constant",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π Pi",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Refractive index",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ii",
+   "group": "Paper",
+   "q_en": "The percentage uncertainty in the volume of a cube is 3%. The percentage uncertainty in one side of the cube is_______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3%",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/3%",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1%",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.5%",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iii",
+   "group": "Paper",
+   "q_en": "If Δ = −3i + 3j ,the vector is lying in which quadrant?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "I",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "II",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "III",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "IV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iv",
+   "group": "Paper",
+   "q_en": "Which one is correct for a body to be in complete equilibrium?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ΣFX = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Στ = 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ΣFy = 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ΣF = 0 Σr = 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "v",
+   "group": "Paper",
+   "q_en": "The quantities which are constant in elastic collision are ___",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "K.E",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Momentum",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "K.E and Momentum",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Angular Momentum",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vi",
+   "group": "Paper",
+   "q_en": "The range and maximum height of projectile are equal for angle of projection of _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "30°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "76°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "90°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vii",
+   "group": "Paper",
+   "q_en": "The efficiency of diesel engine is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "25-30%",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "35-40%",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "45-50%",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "55-60%",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "viii",
+   "group": "Paper",
+   "q_en": "The atmosphere is held to earth by _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Wind",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Gravitty",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Clouds",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Rotation of earth",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ix",
+   "group": "Paper",
+   "q_en": "The rate of change of angular momentum is_______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Force",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Impulse",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Work",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Torque",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "x",
+   "group": "Paper",
+   "q_en": "1 Pascal second = _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10 poise",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "100 poise",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10³ poise",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10⁶ poise",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xi",
+   "group": "Paper",
+   "q_en": "According to equation of continuity AV = constant, this constant is equal to _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mass",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Volume flow rate",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Energy density",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Viscosity",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xii",
+   "group": "Paper",
+   "q_en": "Tuning of radio set on example of _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mechanical resonance",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Musical resonance",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Electrical resonance",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Free vibration",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiii",
+   "group": "Paper",
+   "q_en": "Two springs of constants K₁ K₂ are joined in series. The effective spring constant of the combination is given by_______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(K₁+K₂)/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "K₁ + K₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(K₁K₂)/(K₁+K₂)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "K₁K₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiv",
+   "group": "Paper",
+   "q_en": "The equation for the speed of longitudinal waves is _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "√(δ/E)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "√(Tx1/m)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√(E/δ)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xv",
+   "group": "Paper",
+   "q_en": "The principal of young's double slit experiment is based on the _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Amplitude",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Frequency",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Velocity",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Wavelength",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xvi",
+   "group": "Paper",
+   "q_en": "The tip of needle does not give a sharp, it is due to _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Polarization",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Refraction",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Diffraction",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Interference",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xvii",
+   "group": "Paper",
+   "q_en": "The S.I unit of entropy is _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "J.K",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "JK⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "J.mol",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "J.mol.K⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xviii",
+   "group": "Paper",
+   "q_en": "The difference between Newton's calculated value of speed of sound in air and in experimental value was _______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "16%",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "60%",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10%",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5%",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

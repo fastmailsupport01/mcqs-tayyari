@@ -1,0 +1,430 @@
+{
+ "board": "BISE Abbottabad",
+ "board_slug": "abbottabad",
+ "class": "9th",
+ "subject": "Mathematics",
+ "year": 2023,
+ "slug": "abbottabad-9th-mathematics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group",
+   "q_en": "If A and B are two polynomials and their HCF and LCM are respectively H and L then A is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "H×L/B",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "B/H×L",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "B/L",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "B/H",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group",
+   "q_en": "If A={1,2} and B={3,4} then which of the following is ordered pair of A×B?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "{(3,2)}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{(1,2)}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{(2,3)}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{(4,2)}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group",
+   "q_en": "The solution of linear equation 2x + 3 = 1 − 7x is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−4/5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−2/9",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4/5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2/9",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group",
+   "q_en": "Which of the following elements represent one of the rows of the matrix [1 2 3; 6 −1 3; 2 4 9]?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1, 6, 2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6, −1, 3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1, −1, 9",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4, 3, 9",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group",
+   "q_en": "Which of the following is the base of natural logarithm?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "e",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group",
+   "q_en": "Which of the following is a rational expression?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(√(5x²+3x−2))/(10−x) (where 10−x≠0)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(√(8x³+8x+2))/(x+5) (where x+5≠0)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(√(7x²+4x+7))/(x+7) (where x+7≠0)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(√(3x²+2x−5))/(7−x) (where 7−x≠0)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group",
+   "q_en": "(2x+y)³ is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "8x³+y³+6xy(2x+y)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8x³−y³−6xy(2x−y)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8x³+y³−6xy(2x−y)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8x³−y³−6xy(2x+y)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group",
+   "q_en": "The factorization of x²+xy+8x+8y is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(x+y)(x+8)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(2x+y)(x+8)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(x+2y)(x+8)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(x+y)(2x+8)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group",
+   "q_en": "Which of these two matrices are equal? F=[1 3; 4 2] G=[7−3 3; 6 2] H=[4−3 3; 2+2 2] J=[4−3 6; 3+3 7]",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "F and H",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "F and G",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "G and H",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "G and J",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group",
+   "q_en": "If z=5+7i then conjugate of z is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−5−7i",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−5+7i",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5−7i",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−7i",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group",
+   "q_en": "Which of the following is a row matrix?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[8 9 −4 5]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[8; 9; −4; 5]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[8 9; −4 5]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[8; 9; −5]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group",
+   "q_en": "⁸√y³ can be expressed in exponential form as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "y³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8y³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "y⁸⁄³",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "y³⁄⁸",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group",
+   "q_en": "0.000327 can be written in scientific notation as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3.27×10⁻⁴",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3.27×10⁴",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.0327×10⁻⁴",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "32.7×10²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group",
+   "q_en": "If P=[−7 5; 4 −3] and Q=[2 −3; 3 4] then P+Q is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[9 8; 7 7]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[−5 2; 7 1]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[5 −2; 7 −1]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[−9 −2; 7 −7]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group",
+   "q_en": "The irrational number √11 can be expressed as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3.3166...",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "33.166...",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "331.66",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.3316",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

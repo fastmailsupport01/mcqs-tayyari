@@ -1,0 +1,514 @@
+{
+ "board": "BISE Abbottabad",
+ "board_slug": "abbottabad",
+ "class": "11th",
+ "subject": "Chemistry",
+ "year": 2023,
+ "slug": "abbottabad-11th-chemistry-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group",
+   "q_en": "The coordination number of each ion in NaCl crystal lattice is .........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group",
+   "q_en": "The geometry of a molecule with two bond-pairs and one lone-pair of electrons around the central atom is .........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "linear",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "angular",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "pyramidal",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "tetrahedral",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group",
+   "q_en": "Number of orbitals in M-shell (n=3) of an atom is .........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "16",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "9",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group",
+   "q_en": "When moles of reactants and products are equal then equilibrium constant has units .........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "no unit",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "mol.L-1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "L.mol-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "L2.mol-2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group",
+   "q_en": "Above -273°C, evaporation can take place at .........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0°C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "low temperature",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "high temperature",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "all temperatures",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group",
+   "q_en": "Mass of a sample of MgCl2 that contains 6.02×1023 Mg++ ions is .........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "24g",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "35.5g",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "71g",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "95g",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group",
+   "q_en": "When energy of radiation A>C>B, then decreasing order of their wavelengths is .........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A>B>C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "C>B>A",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "B>C>A",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A>C>B",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group",
+   "q_en": "The number of orientations for an energy level n=2, l=1 is .........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "one",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "three",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "five",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "seven",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group",
+   "q_en": "Deviation of gases from ideal behaviour depends upon .........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "temperature",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "pressure",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "nature of gas",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "all of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group",
+   "q_en": "A specie that can act as a Lewis base, is .........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "SO2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "BF3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ZnCl2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CH2=CH2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group",
+   "q_en": "Activation energy is the minimum energy required to cause ......... change.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "phase",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "chemical",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "temperature",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "volume",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group",
+   "q_en": "Potential of standard hydrogen electrode is arbitrarily fixed as .........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "unity",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "fractional",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "negative",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group",
+   "q_en": "Ionic crystals are .........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "brittle",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "soft",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "volatile",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "fusible readily",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group",
+   "q_en": "Energy required to cause a unit increase in the surface area of a liquid is .........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "vapour pressure",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "viscosity",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "surface tension",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "isotropy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group",
+   "q_en": "About 99% of universe is made up of .........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "gases",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "liquids",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "solids",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "plasma",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group",
+   "q_en": "An expression that relates the rate of a reaction to the concentrations of reactants is .........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Raoult's Law",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Henry's Law",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Rate Law",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Rate Constant",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group",
+   "q_en": "Oxidation state of chlorine in NaClO3 is .........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "+5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "+7",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group",
+   "q_en": "No work is done at constant .........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "temperature",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "pressure",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "mass",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "volume",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

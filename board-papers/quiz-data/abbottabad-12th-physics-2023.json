@@ -1,0 +1,514 @@
+{
+ "board": "BISE Abbottabad",
+ "board_slug": "abbottabad",
+ "class": "12th",
+ "subject": "Physics",
+ "year": 2023,
+ "slug": "abbottabad-12th-physics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group",
+   "q_en": "Self-inductnance (L) in terms of magnetic flux (∅), no of turns (N) and electric current (I) can be written as___.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "L=N∅/I",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "L=N∅I",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "L=I∅/N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "L=N/I∅",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group",
+   "q_en": "The ratio of power in AC circuit to that of DC circuit is equal to___.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sin∅",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cos∅",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Tan∅",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Sec∅",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group",
+   "q_en": "Pair production can't take place in vacuum because ___ is not conserved.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Momentum",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Charge",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Energy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mass",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group",
+   "q_en": "An electric charge q is placed at the centre of cube of side 'a' the electric flux on its one side will be___.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "q/4πε₀",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "q/a²ε₀",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "q/6ε₀",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "q/ε₀",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group",
+   "q_en": "ᴬZX = ᴬ⁻⁴Z₋₂Y + ? + Q The given reaction is completed by___.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Alpha (α)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Beta (β)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Gamma (γ)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Sigma (δ)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group",
+   "q_en": "By increasing applied anode voltage, wavelength (λ) of x-rays___.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Increases",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Remains unchanged",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Decreases",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Becomes infinite",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group",
+   "q_en": "The seismometer works on the principle of___.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electromagnetism",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Maxwell equations",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Electromagnetic induction",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ampere's Law",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group",
+   "q_en": "²³⁸₉₂U contains___ nuber of nucleons.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "146",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "238",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "92",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "330",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group",
+   "q_en": "For one complete cycle, the simple mean value of AC is___.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Vm/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2Vm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.707Vm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group",
+   "q_en": "\"mho\" is a unit of___.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Resistivity",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Conductivity",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Resistance",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Conductance",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group",
+   "q_en": "The function of unipolar junction transistors depends on___.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Majority carriers",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Minority carriers",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Both A&B",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group",
+   "q_en": "The super conductor has a___ resistance.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Moderate",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "High",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Infinite",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group",
+   "q_en": "How much voltage is required to make 2A flow through a resistance of 8Ω?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "16 AΩ⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "16ΩA⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "16 AΩ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "16 A⁻¹Ω⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group",
+   "q_en": "Which of the given is a boson?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Photon",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Neutino",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Proton",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Pion",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group",
+   "q_en": "The reverse process of x-rays production can be related to___.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Compton effect",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Photoelectric effect",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Pair production",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group",
+   "q_en": "Volt per meter is a non SI unit of___.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electric force",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Electric power",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Voltage",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Electric intensity",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group",
+   "q_en": "Charge to mass ratio of electron is___that of proton.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Equal to",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Greater than",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Less than",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero compare to",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group",
+   "q_en": "According to Wien's displacement law, with rise in temperature of black body, the product λmax T is___.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Increased",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Decreased",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Constant",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

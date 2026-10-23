@@ -1,0 +1,318 @@
+{
+ "board": "BISE Abbottabad",
+ "board_slug": "abbottabad",
+ "class": "10th",
+ "subject": "Computer Science",
+ "year": 2022,
+ "slug": "abbottabad-10th-computer-science-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group",
+   "q_en": "Which of the following is factor in selecting the best solution of any problem?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "reduction",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "analysis",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "cost",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "design",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group",
+   "q_en": "A set of instructions that tells a computer what to do is called ..........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "language",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "flowchart",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "linking",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "program",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group",
+   "q_en": "Which of the following is not valid variable name in C-language?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "switch",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "num",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "perform",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "roll_no",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group",
+   "q_en": "Which one of the following functions reacts single character from the keyboard without echoing (displaying) it on the screen ..........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "getche()",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "getch()",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "input",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "echo",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group",
+   "q_en": "Which operator is used to produce true result if either of the conditions is true?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "&& (AND)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "! (NOT)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "|| (OR)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "!=",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group",
+   "q_en": "Which of the following statement is used for multiple choice or selection?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "if",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "if-else",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "for",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "switch",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group",
+   "q_en": "Which loop structure is preferred to use when the programmer knows in advance how many times the body of loop will be executed?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "for",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "while",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "do-while",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "nested",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group",
+   "q_en": "A loop within another loop is called .......... loop.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "grouped",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "multiple",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "nested",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "mixed",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group",
+   "q_en": "Which gate perform logical addition?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "AND",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NOT",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NAND",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "OR",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group",
+   "q_en": "The gate whose output is \"1\" when all the inputs are either 0s or 1s is called .......... gate.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "XNOR",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NAND",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "AND",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "OR",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group",
+   "q_en": "Which of the following tag is used for superscript in HTML document?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "<super></super>",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "<sub></sub>",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "<sup></sup>",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "<script></script>",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

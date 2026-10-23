@@ -1,0 +1,430 @@
+{
+ "board": "BISE Abbottabad",
+ "board_slug": "abbottabad",
+ "class": "10th",
+ "subject": "Mathematics",
+ "year": 2022,
+ "slug": "abbottabad-10th-mathematics-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group",
+   "q_en": "If 7:9::x:27 then ........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x=21",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x=3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x=7",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x=81",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group",
+   "q_en": "Sum of the roots of 2x²−3x−4=0 is ........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2/4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2/3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−3/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group",
+   "q_en": "Sin 105° lies in ........ quadrant.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "first",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "second",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "third",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "fourth",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group",
+   "q_en": "If x²−x−1=0 then x = ........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(−1±√5)/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−1±√5/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(1±√5)/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1±√5/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group",
+   "q_en": "If a line is drawn perpendicular to a radial segment of a circle at its outer end point, it is ........ to the circle at that point.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "tangent",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "secant",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "cotangent",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "none of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group",
+   "q_en": "If two arcs of a circle are congruent then the corresponding chords are ........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "unequal",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "concurrent",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "equal",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "none of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group",
+   "q_en": "How many tangents can be drawn from a point outside the circle?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group",
+   "q_en": "In the given set of data 5,7,7,5,3,7,2,8,2 mode is ........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "9",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "7",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group",
+   "q_en": "The number of times a value appears on a set of data is called ........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "average",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "mode",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "frequency",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "median",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group",
+   "q_en": "1+tan²θ = ........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "cos²θ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "sin²θ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "cosec²θ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "sec²θ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group",
+   "q_en": "A chord 40 units long is contained in a circle of radius 25 units. The distance of the chord from the centre of the circle is ........ units.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "15",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "31.2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "47.1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "50.1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group",
+   "q_en": "If a and b are the roots of 4x²−3x+7=0 then the value of 1/a+1/b is ........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−3/7",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3/7",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−3/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4/7",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group",
+   "q_en": "If m ∝ 1/n then ........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "m=kn",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "n=km",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "m/n=k",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "mn=k",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group",
+   "q_en": "(x²+2)/(x²+2x+2) is ........ fraction.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "proper",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "improper",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "irrational",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "none of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group",
+   "q_en": "If f is a function from A to B then f is onto function if ........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Range f≠B",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Dom f=A",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Range f=B",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "none of these",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

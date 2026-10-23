@@ -1,0 +1,430 @@
+{
+ "board": "BISE Abbottabad",
+ "board_slug": "abbottabad",
+ "class": "10th",
+ "subject": "Mathematics",
+ "year": 2023,
+ "slug": "abbottabad-10th-mathematics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group",
+   "q_en": "The formula Σx/n determines ..........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "arithmetic mean",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "geometric mean",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "mode",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "median",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group",
+   "q_en": "If π/2 < θ < π then 'θ' belongs to .......... quadrant.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4th",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3rd",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2nd",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1st",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group",
+   "q_en": "Sin60° = ..........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "cos30°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "cos60°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "tan30°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "cos90°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group",
+   "q_en": "Perpendicular from the centre of a circle on a chord .......... it.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "intersects",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "trisects",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "bisects",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "divides",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group",
+   "q_en": "If two circles touch internally, the distance between their centres is the .......... of their radii.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "sum",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "difference",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "product",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "multiple",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group",
+   "q_en": "The measure of the semi-circle is ..........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "180°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "360°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "45°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group",
+   "q_en": "An angle whose vertex is on the circle and whose sides contain chords of the circle is .......... angle.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "escribed",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "right",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "inscribed",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "circumscribed",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group",
+   "q_en": "All those values of the variables for which the given equation is true are called ..........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "roots",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "factors",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "absolute values",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "square roots",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group",
+   "q_en": "If 'w' is the complex cube root of unity then w²⁴ = ..........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "w",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "w²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group",
+   "q_en": "Sum of the roots of 4x²−4x−3=0 is ..........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−3/4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3/4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−4/3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group",
+   "q_en": "Comparison of two quantities of the same kind and same unit is called ..........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "proportion",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "variation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "rate",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ratio",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group",
+   "q_en": "1/(x²−1) = ..........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A/(x−1) + B/(x+1)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(AX+B)/(x²−1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A/(x−1) + (BX+C)/(x²−1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "none of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group",
+   "q_en": "If A, B and C are any three sets then A∩(B∩C) = (A∩B)∩C is .......... property of intersection.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "associative",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "commutative",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "distributive",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "trichotomy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group",
+   "q_en": "If set 'A' has 2 elements and set B has 3 elements then the number of binary relations in A×B = ..........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2×3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2⁶",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group",
+   "q_en": ".......... divides the data in two equal parts.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "mean",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "median",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "mode",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "variance",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

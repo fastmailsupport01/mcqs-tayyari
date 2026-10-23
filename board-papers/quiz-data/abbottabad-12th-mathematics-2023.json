@@ -1,0 +1,570 @@
+{
+ "board": "BISE Abbottabad",
+ "board_slug": "abbottabad",
+ "class": "12th",
+ "subject": "Mathematics",
+ "year": 2023,
+ "slug": "abbottabad-12th-mathematics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group",
+   "q_en": "Domain of function f(x)=|x| is___.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(0,∞)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(-∞,∞)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(-∞,0)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(0,1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group",
+   "q_en": "The function f(x)=√(x-3) is continuous for all x and___.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x>3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x≤3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x<3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x≥3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group",
+   "q_en": "lim(x→0) (eˣ-1)/x = ___.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "e",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group",
+   "q_en": "d/dx(cos x) = ___.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "sin x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-sin x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "tan x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "sec x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group",
+   "q_en": "If f(x)=2x³-3x²+4 then f'(2)=___.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "12",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "14",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group",
+   "q_en": "lim(x→0) tanx/x = ___.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group",
+   "q_en": "If y=sin x then y''' = ___.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "sin x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-sin x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "cos x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-cos x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group",
+   "q_en": "The graph of a function f(x) is concave downward on (a,b) where:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "f''(x)>0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "f''(x)<0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "f''(x)=0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group",
+   "q_en": "A function f(x) is decreasing if___.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "f'(x)>0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "f'(x)<0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "f'(x)=0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "f''(x)=0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group",
+   "q_en": "∫₀¹x²dx = ___.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-1/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2/3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group",
+   "q_en": "∫cotx dx = ___.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ln|cos x|+c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ln|sin x|+c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "tan x+c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ln|tan x|+c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group",
+   "q_en": "The slope of the line y-1=0 is___.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group",
+   "q_en": "The distance between two points A(3,-2) and B(-1,-5) is___.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "11",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group",
+   "q_en": "The center of circle x²+y²+2gx+2fy+c=0 is___.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(g,f)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(-g,-f)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(g,-f)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(-g,f)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group",
+   "q_en": "The parabola y²=4px, if p<0 then it is open___.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Down",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Up",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Left",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Right",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group",
+   "q_en": "If the eccentricity e<1, the conic is called___.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ellipse",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Parabola",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Circle",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Hyperbola",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group",
+   "q_en": "y²/25 - x²/4 = 1 is an equation of___.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Circle",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Parabola",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ellipse",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Hyperbola",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group",
+   "q_en": "Order of the differential equation ((d³y/dx³)² - (d²y/dx²)⁴ + dy/dx + y - 0) is___.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group",
+   "q_en": "f(x,y) = (√x + √y)/(x+y) is a homogenous function of degree___.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-1/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group",
+   "q_en": "∫₀¹eˣ²dx has___.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "One actual solution",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "More than one actual solutions",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "No actual solution",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Both A and B",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

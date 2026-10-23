@@ -1,0 +1,430 @@
+{
+ "board": "BISE DI Khan",
+ "board_slug": "dikhan",
+ "class": "12th",
+ "subject": "Computer Science",
+ "year": 2022,
+ "slug": "dikhan-12th-computer-science-2022",
+ "questions": [
+  {
+   "n": "i",
+   "group": "Paper",
+   "q_en": "Multi programming refers to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Having several program in RAM at the same time",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Multiprocessing",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Writing programs in Multi languages",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ii",
+   "group": "Paper",
+   "q_en": "Which of the following is not an operating system?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Linux",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "MS Word",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "UNIX",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Window",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iii",
+   "group": "Paper",
+   "q_en": "Which of the following language is a subset of C language?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "C-language",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Java language",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Language [illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "C++ language",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iv",
+   "group": "Paper",
+   "q_en": "The ___ determines whether the project should go forwar [illegible in source scan]",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Feasibility",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Problem Identification",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "System evolution",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Program specification",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "v",
+   "group": "Paper",
+   "q_en": "Which of the following is not a jump statement in C [illegible in source scan]",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Break",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Goto",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Exit",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Switch [illegible in source scan]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vi",
+   "group": "Paper",
+   "q_en": "C++ language was developed in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1970",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1980",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1990",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1995",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vii",
+   "group": "Paper",
+   "q_en": "DOS stands for:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Doctor of System",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Documents of System",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Disk Operating System",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "viii",
+   "group": "Paper",
+   "q_en": "AND operator is represented by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "||",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "&&",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "!",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "+",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ix",
+   "group": "Paper",
+   "q_en": "Variables inside parenthesis of functions declarations have _______ level access.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Local",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Module",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Global",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Universal",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "x",
+   "group": "Paper",
+   "q_en": "Arguments of a functions are separated with:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Comma",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Solon(:)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Semi colon",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xi",
+   "group": "Paper",
+   "q_en": "A collection of data items of the same data types placed in contiguous memory location is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Record",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Array",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Program",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "File",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xii",
+   "group": "Paper",
+   "q_en": "eof stands for:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Errors-on-file",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "end-of-file",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "exit of file",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiii",
+   "group": "Paper",
+   "q_en": "The operator used to get value at address stored in pointer variable is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "&",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "&&",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "||",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "*",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiv",
+   "group": "Paper",
+   "q_en": "The entities having positive or negative influence in the project completion are known as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Stake Supervisor",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Stake holders",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Stake owners",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xv",
+   "group": "Paper",
+   "q_en": "Every C program must contain at least one function.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Main",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Getch",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Getche ()",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

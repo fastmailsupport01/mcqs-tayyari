@@ -1,0 +1,318 @@
+{
+ "board": "BISE Abbottabad",
+ "board_slug": "abbottabad",
+ "class": "9th",
+ "subject": "Computer Science",
+ "year": 2023,
+ "slug": "abbottabad-9th-computer-science-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group",
+   "q_en": "Basic calculation on Analytical Engine was firstly performed by:",
+   "q_ur": "اینالیٹیکل انجن پر بنیادی کیلکولیشن سب سے پہلے کس نے سرانجام دی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Charles Baggage",
+     "ur": "چارلس بیبیج"
+    },
+    {
+     "k": "B",
+     "en": "Hermen Hollerik",
+     "ur": "ہرمن ہولیرک"
+    },
+    {
+     "k": "C",
+     "en": "Henry Baggage",
+     "ur": "ہنری بیبیج"
+    },
+    {
+     "k": "D",
+     "en": "Ada Lovelace",
+     "ur": "اڈا لولیس"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group",
+   "q_en": "Software building for computers is the field of:",
+   "q_ur": "کمپیوٹرز کے لیے سافٹ ویئر بنانا کام ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Programmer",
+     "ur": "پروگرامر کا"
+    },
+    {
+     "k": "B",
+     "en": "Hardware engineer",
+     "ur": "ہارڈویئر انجینئر کا"
+    },
+    {
+     "k": "C",
+     "en": "Trouble shooter",
+     "ur": "ٹربل شوٹر کا"
+    },
+    {
+     "k": "D",
+     "en": "Network administrator",
+     "ur": "نیٹ ورک ایڈمنسٹریٹر کا"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group",
+   "q_en": "A program in execution is a:",
+   "q_ur": "پروگرام ایگزیکیوشن کا مرحلہ ایک ........... ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "icon",
+     "ur": "icon"
+    },
+    {
+     "k": "B",
+     "en": "folder",
+     "ur": "فولڈر"
+    },
+    {
+     "k": "C",
+     "en": "memory",
+     "ur": "میموری"
+    },
+    {
+     "k": "D",
+     "en": "process",
+     "ur": "پروسیس"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group",
+   "q_en": "Time Sharing is integral type of:",
+   "q_ur": "ٹائم شیئرنگ ایک لازمی قسم ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "storing",
+     "ur": "سٹورنگ کی"
+    },
+    {
+     "k": "B",
+     "en": "output",
+     "ur": "آؤٹ پٹ کی"
+    },
+    {
+     "k": "C",
+     "en": "processing",
+     "ur": "پروسیسنگ کی"
+    },
+    {
+     "k": "D",
+     "en": "input",
+     "ur": "ان پٹ کی"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group",
+   "q_en": "Short cut command for saving the file in word is:",
+   "q_ur": "مائیکروسافٹ ورڈ میں فائل محفوظ کرنے کی شارٹ کٹ کمانڈ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ctrl+C",
+     "ur": "Ctrl+C"
+    },
+    {
+     "k": "B",
+     "en": "Ctrl+S",
+     "ur": "Ctrl+S"
+    },
+    {
+     "k": "C",
+     "en": "Ctrl+A",
+     "ur": "Ctrl+A"
+    },
+    {
+     "k": "D",
+     "en": "Ctrl+B",
+     "ur": "Ctrl+B"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group",
+   "q_en": "Formula in excel starts with symbol:",
+   "q_ur": "مائیکروسافٹ ایکسل میں فارمولا کس علامت سے شروع ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "+",
+     "ur": "+"
+    },
+    {
+     "k": "B",
+     "en": "/",
+     "ur": "/"
+    },
+    {
+     "k": "C",
+     "en": "*",
+     "ur": "*"
+    },
+    {
+     "k": "D",
+     "en": "=",
+     "ur": "="
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group",
+   "q_en": "Signal timing is unimportant in:",
+   "q_ur": "سگنل ٹائمنگ غیر ضروری ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Transmission medium",
+     "ur": "مواصلاتی ذریعے کیلئے"
+    },
+    {
+     "k": "B",
+     "en": "Asynchronous Transmission",
+     "ur": "غیر ہم آہنگ ٹرانسمیشن کیلئے"
+    },
+    {
+     "k": "C",
+     "en": "Synchronous",
+     "ur": "ہم آہنگ ٹرانسمیشن کیلئے"
+    },
+    {
+     "k": "D",
+     "en": "Transmission Isochronous",
+     "ur": "isochronous کیلئے"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group",
+   "q_en": "Receiver may not be able to detect the signal due to:",
+   "q_ur": "وصول کنندہ کس وجہ سے سگنل کا پتہ نہیں لگا سکتا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Distortion",
+     "ur": "بگاڑ"
+    },
+    {
+     "k": "B",
+     "en": "Noise",
+     "ur": "شور"
+    },
+    {
+     "k": "C",
+     "en": "Attenuation",
+     "ur": "تخفیف"
+    },
+    {
+     "k": "D",
+     "en": "Cross Talk",
+     "ur": "کراس ٹاک"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group",
+   "q_en": "Fist communication device used in 1969 was:",
+   "q_ur": "کمیونیکیشن کا کونسا آلہ 1969 میں پہلی دفعہ استعمال ہوا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "IMP switch",
+     "ur": "IMP سوئچ"
+    },
+    {
+     "k": "B",
+     "en": "HUB",
+     "ur": "Hub"
+    },
+    {
+     "k": "C",
+     "en": "NIC card",
+     "ur": "NIC کارڈ"
+    },
+    {
+     "k": "D",
+     "en": "Modem",
+     "ur": "موڈیم"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group",
+   "q_en": "Internet connection without telephone line is:",
+   "q_ur": "ٹیلی فون لائن کے بغیر انٹرنیٹ کنکشن ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Dialup",
+     "ur": "Dialup"
+    },
+    {
+     "k": "B",
+     "en": "DSL",
+     "ur": "DSL"
+    },
+    {
+     "k": "C",
+     "en": "ADSL",
+     "ur": "ADSL"
+    },
+    {
+     "k": "D",
+     "en": "ISDN",
+     "ur": "ISDN"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group",
+   "q_en": "A computer malicious software enters a computer without user's permission and knowledge is:",
+   "q_ur": "کمپیوٹر کا ناپسندیدہ سافٹ ویئر جو یوزر کی اجازت یا علم کے بغیر کمپیوٹر میں داخل ہوتا ہے کیا کہلاتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "worm",
+     "ur": "ورم"
+    },
+    {
+     "k": "B",
+     "en": "virus",
+     "ur": "وائرس"
+    },
+    {
+     "k": "C",
+     "en": "adware",
+     "ur": "ایڈویئر"
+    },
+    {
+     "k": "D",
+     "en": "spyware",
+     "ur": "سپائی ویئر"
+    }
+   ]
+  }
+ ]
+}

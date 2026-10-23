@@ -1,0 +1,514 @@
+{
+ "board": "BISE Malakand",
+ "board_slug": "malakand",
+ "class": "12th",
+ "subject": "Chemistry",
+ "year": 2025,
+ "slug": "malakand-12th-chemistry-2025",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group",
+   "q_en": "A metal with completely filled or empty d-orbitals is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ferromagnetic",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Paramagnetic",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Colored",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Colorless",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group",
+   "q_en": "Down the group in periodic table the reducing property of alkali metals:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Decreases",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Increases",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Constant",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group",
+   "q_en": "Benzene gives addition product when reacts with:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cl₂ + UV",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cl₂ + FeCl₃",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "HNO₃ + H₂SO₄",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Fuming H₂SO₄",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group",
+   "q_en": "Self-linking property of carbon atoms is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Isomerization",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Aromaticity",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Catenation",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Carbonation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group",
+   "q_en": "The relatively more stable alkene is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Isobutylene",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1-butene",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Trans-2-butene",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cis-2-butene",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group",
+   "q_en": "The most reactive alkyl halide is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "R-F",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "R-Cl",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "R-Br",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "R-I",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group",
+   "q_en": "An amphoteric oxide of the following is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "MgO",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Na₂O",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "SiO₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Al₂O₃",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group",
+   "q_en": "Ozonolysis of 2-butene produces:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Acetone",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Butanone",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Formaldehyde",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Acetaldehyde",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group",
+   "q_en": "All the protons are equivalent in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CH₃OH",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CH₃NH₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "C₂H₅OH",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(CH₃)₄Si",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group",
+   "q_en": "Bimolecular elimination reaction of alkyl halides is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero order",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1st order",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2nd order",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3rd order",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group",
+   "q_en": "Delayed wound healing is caused by deficiency of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zinc",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Iron",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Calcium",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Manganese",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group",
+   "q_en": "Which compound forms red precipitate with Fehling's solution?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Acetone",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Acetaldehyde",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Butanone",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Acetophenone",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group",
+   "q_en": "Oxidation of primary alcohols produces:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Aldehydes",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Alkynes",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Alkenes",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ketones",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group",
+   "q_en": "The coldest region of atmosphere is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Troposphere",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Stratosphere",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mesosphere",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Exosphere",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group",
+   "q_en": "The rate of SN¹ reaction of alkyl halides is independent of the nature of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Substrate",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Nucleophile",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Solvent",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Leaving group",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group",
+   "q_en": "The NMR active specie of the following is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "C¹²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "N¹⁵",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "O¹⁶",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "S³²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group",
+   "q_en": "The more basic in aqueous solution is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "NH₃",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CH₃NH₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(CH₃)₂NH",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(CH₃)₃N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group",
+   "q_en": "A halogen of the highest electron affinity is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Fluorine",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Chlorine",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Bromine",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Iodine",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}
