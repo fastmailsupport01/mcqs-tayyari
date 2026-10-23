@@ -1,0 +1,570 @@
+{
+ "board": "BISE Kohat",
+ "board_slug": "kohat",
+ "class": "12th",
+ "subject": "Mathematics",
+ "year": 2021,
+ "slug": "kohat-12th-mathematics-2021",
+ "questions": [
+  {
+   "n": "i",
+   "group": "Annual",
+   "q_en": "If dy/dx = cosx, then y = …………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "–sinx+c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "–sinx",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "xcosx+c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "sinx+c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ii",
+   "group": "Annual",
+   "q_en": "Domain f(x,y) = 1/√(x – y) is……………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x>y",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x≥y",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "y≥x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "y>x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iii",
+   "group": "Annual",
+   "q_en": "The function ax²+2hxy+by² is homogeneous of degree …………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iv",
+   "group": "Annual",
+   "q_en": "∫(from 3 to 2) 5dx = …………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "–32",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "32",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "v",
+   "group": "Annual",
+   "q_en": "If g(R) = (R³ – R² +6)/(R-3) then g(3) = ……………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vi",
+   "group": "Annual",
+   "q_en": "If F(t) = t²i+j-sintk and G(t) = ti+1/j+5k then (F.G)t = …………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "t³+1-5 Sint",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "t³-5sint",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vii",
+   "group": "Annual",
+   "q_en": "∫du/9u = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "lnu+c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "lnu+c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/9 lnu+c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "viii",
+   "group": "Annual",
+   "q_en": "∫(10+a)^x dx = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(10+a)^x + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10x+c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10+a",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ix",
+   "group": "Annual",
+   "q_en": "Slope of a line perpendicular to 6x=y-3 is ……………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "–1/6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "x",
+   "group": "Annual",
+   "q_en": "y-intercept of the line y = 5x+10 is……………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-1/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xi",
+   "group": "Annual",
+   "q_en": "Equation of the circle having center (3,2) and radius r=1 is given by……………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(x-3)²+(y-2)²=1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(x+3)²+(y+2)²=1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x²+y²=1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x²+y²-3x-2y=1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xii",
+   "group": "Annual",
+   "q_en": "Length of the tangent from P(x₁,y₁) to the circle x²+y²+2gx+2fy+c=0 is……………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "√(x₁²+y₁²+c)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "√(x₁²+y₁²-2g-2f+c)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√(x₁²+y₁²+2gx₁+2fy₁+c)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiii",
+   "group": "Annual",
+   "q_en": "Equation of normal to the parabola y² = 4px at P(x₁,y₁) is……………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "y – y₁ = –y₁/2p (x – x₁)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "y – y₁ = –x₁(x – x₁)/2p",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "y-y₁=2p(x-x₁)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiv",
+   "group": "Annual",
+   "q_en": "y²/9 – x²/16 = 1 is the equation of …………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Vertical ellipse",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Circle",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Vertical hyperbola",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xv",
+   "group": "Annual",
+   "q_en": "y=e^x +e^2x is the solution of……………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "y-3y=0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "y\"-3y'+2y = 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "y\"-y'+y=0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xvi",
+   "group": "Annual",
+   "q_en": "If y = log₁₀ 9 then y = …………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "9",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/9",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xvii",
+   "group": "Annual",
+   "q_en": "lim (x→0) (1+x)^(1/x) = …………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "e",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Undefined",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xviii",
+   "group": "Annual",
+   "q_en": "If f(x) = 16x²-7x then f'(x) = …………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "32x²-7",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "32x²-7",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "32x-7",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "18x-7",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xix",
+   "group": "Annual",
+   "q_en": "d/dx sec⁻¹ x = …………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/(x√(x²-1))",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/(x√(1-x²))",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-1/(x√(x²-1))",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-1/(x√(1-x²))",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xx",
+   "group": "Annual",
+   "q_en": "If f(x) = tanx, then f'(0) = …………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "–1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Undefined",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

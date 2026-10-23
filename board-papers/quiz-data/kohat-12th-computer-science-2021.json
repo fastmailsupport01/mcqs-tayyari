@@ -1,0 +1,430 @@
+{
+ "board": "BISE Kohat",
+ "board_slug": "kohat",
+ "class": "12th",
+ "subject": "Computer Science",
+ "year": 2021,
+ "slug": "kohat-12th-computer-science-2021",
+ "questions": [
+  {
+   "n": "i",
+   "group": "Annual",
+   "q_en": "The most recently launched operating system of Microsoft is………………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Window 98",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Window 10",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Window 8",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ii",
+   "group": "Annual",
+   "q_en": "Inheritance is used to ………………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "increase the size of a program",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "make the program simpler",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "provide the faculty of code reusability",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "provide the faculty of data hiding",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iii",
+   "group": "Annual",
+   "q_en": "The name of destructor is always preceded by the symbol………………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "+",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "%",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "~",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iv",
+   "group": "Annual",
+   "q_en": "If int var1=2 then what will be the output of cout<<(\"var1=\",++var1);……………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "v",
+   "group": "Annual",
+   "q_en": "(false && true) || false………………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "true",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "false",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "both A and B",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vi",
+   "group": "Annual",
+   "q_en": "You can exit a switch statement using a(n)……………statement.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "break",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "exit",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "continue",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "default",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vii",
+   "group": "Annual",
+   "q_en": "Char A[10] defines one dimensional array of type………………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Integer",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Float",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Character",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "viii",
+   "group": "Annual",
+   "q_en": "Header file for put() is………………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "string.h",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "conio.h",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "stdio.h",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ix",
+   "group": "Annual",
+   "q_en": "The location number of an item in an array is called………………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Data",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Value",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Index",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Constant",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "x",
+   "group": "Annual",
+   "q_en": "In C++ language character are normally stored in………………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2 bytes",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3 bytes",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4 bytes",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1 bytes",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xi",
+   "group": "Annual",
+   "q_en": "Each C++ program has………………functioned from where the execution of the program starts.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "main()",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "user defined",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "math()",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "getche()",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xii",
+   "group": "Annual",
+   "q_en": "The ……………determines whether the project should go forward.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Feasibility",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Problem Identification",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "System Evaluation",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Program Specification",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiii",
+   "group": "Annual",
+   "q_en": "………………is not an operating system.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Linux",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "MS Word",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "UNIX",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Windows XP",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiv",
+   "group": "Annual",
+   "q_en": "In C++ language, a hexadecimal number is represented by writing…………symbol.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0 X",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0 Y",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0 A",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0 Z",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xv",
+   "group": "Annual",
+   "q_en": "……………… is a subset of C++ language.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "C Language",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Jawa language",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "B Language",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "C# Language",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

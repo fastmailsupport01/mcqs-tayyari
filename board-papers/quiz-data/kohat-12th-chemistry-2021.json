@@ -1,0 +1,514 @@
+{
+ "board": "BISE Kohat",
+ "board_slug": "kohat",
+ "class": "12th",
+ "subject": "Chemistry",
+ "year": 2021,
+ "slug": "kohat-12th-chemistry-2021",
+ "questions": [
+  {
+   "n": "i",
+   "group": "Annual",
+   "q_en": "The carbon of carbonyl group is , ……………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sp³ Hybridized",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Pyramidal in geometry",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Sp² Hybridized",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ii",
+   "group": "Annual",
+   "q_en": "Hemoglobin is an example of………………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Primary protein",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Secondary protein",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Tertiary protein",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Quaternary protein",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iii",
+   "group": "Annual",
+   "q_en": "Petrochemicals are used in the manufacture of………………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Polythene",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Detergents",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Fibers",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iv",
+   "group": "Annual",
+   "q_en": "1,3 butadiene show absorbance at a wave length of ………………nm.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "217",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "171",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "400",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "435",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "v",
+   "group": "Annual",
+   "q_en": "Which one of the following is meta directing substance?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "–OH",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "–NH₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "–COOH",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "–C₂H₅",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vi",
+   "group": "Annual",
+   "q_en": "At 1720cm⁻¹, an absorption peak is observed for …………… in IR spectrum.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Aldehyde/ketone",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ether",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Benzene",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vii",
+   "group": "Annual",
+   "q_en": "Which one of the following is acidic in nature?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Al₂O₃",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CO₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CO",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CaO",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "viii",
+   "group": "Annual",
+   "q_en": "The term 'en' in [CO(en)₂Cl₂] is a ligand having …………… charge.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Positive",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Negative",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "No",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Both A & B",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ix",
+   "group": "Annual",
+   "q_en": "TiCl₄, a component of Zeigler-Natta catalyst is used in …………… of ethene.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Polymerization",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Hydration",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Reduction",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cracking",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "x",
+   "group": "Annual",
+   "q_en": "All of the following fractions are obtained by destructive distillation of coal except………………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Coal tar",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Refinery gas",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Coal gas",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Coke",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xi",
+   "group": "Annual",
+   "q_en": "The final stage of conversion of decaying plants into coal is………………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Anthracite",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Lignite",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Peat",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Bituminous",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xii",
+   "group": "Annual",
+   "q_en": "Magnesium burns in steam with a white flame producing …………………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mg(OH)₂+H₂O",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "MgO+H₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mg(OH)₂+H₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "MgO+H₂O",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiii",
+   "group": "Annual",
+   "q_en": "When acetylene is treated with HBr, we get………………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Methyl bromide",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Methyl chloride",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ethyl bromide",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ethylene bromide",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiv",
+   "group": "Annual",
+   "q_en": "Which one of the following is synthetic polymer?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cellulose",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Protein",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Nucleic acid",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Polythene",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xv",
+   "group": "Annual",
+   "q_en": "Which of the following represent the formula of an aromatic carboxylic acid?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "HCOOH",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "C₆H₅OH",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "C₆H₅ COOH",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CH₃CH₂OH",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xvi",
+   "group": "Annual",
+   "q_en": "Which of the following are most reactive?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Alkane",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Alkene",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Alkyne",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Benzene",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xvii",
+   "group": "Annual",
+   "q_en": "Ketones are less reactive then aldehydes because of………………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Resonance effect",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Steric effect",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Electronic effect",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Both B & C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xviii",
+   "group": "Annual",
+   "q_en": "Esterification is the reaction between ……………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "An acid and ester",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "An acid and alcohol",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "An acid halide & ester",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "An ester & sodium hydroxide",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}
