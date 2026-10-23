@@ -1,0 +1,318 @@
+{
+ "board": "BISE Peshawar",
+ "board_slug": "peshawar",
+ "class": "9th",
+ "subject": "Computer Science",
+ "year": 2021,
+ "slug": "peshawar-9th-computer-science-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Paper",
+   "q_en": "A device that sends or transmits data to another device is called......",
+   "q_ur": "ایک آلہ جو مواصلاتی نظام میں ڈیٹا بھیجتا یا منتقل کرتا ہے۔.......کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Receiver",
+     "ur": "وصول کنندہ"
+    },
+    {
+     "k": "B",
+     "en": "Message",
+     "ur": "پیغام"
+    },
+    {
+     "k": "C",
+     "en": "Protocol",
+     "ur": "اصول"
+    },
+    {
+     "k": "D",
+     "en": "Sender",
+     "ur": "بھیجنے والا آلہ"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Paper",
+   "q_en": "Which program is capable of locating, preventing and removing malicious programs from a computer system?",
+   "q_ur": "کونسا پروگرام ہے جو ایک کمپیوٹر کے نظام سے ناپسندیدہ پروگراموں کو ڈھونڈنے، ہٹانے اور روک تھام کے قابل ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Antivirus",
+     "ur": "اینٹی وائرس"
+    },
+    {
+     "k": "B",
+     "en": "Word processor",
+     "ur": "ورڈ پروسیسر"
+    },
+    {
+     "k": "C",
+     "en": "Database",
+     "ur": "ڈیٹا بیس"
+    },
+    {
+     "k": "D",
+     "en": "Game",
+     "ur": "گیم"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Paper",
+   "q_en": "Gaining an unauthorized access to computer or telecommunication system is called........",
+   "q_ur": "کمپیوٹر یا ٹیلی کمیونیکیشن کے نظام تک بلا اجازت رسائی کو.......کہتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cracking",
+     "ur": "کریکنگ"
+    },
+    {
+     "k": "B",
+     "en": "Gaming",
+     "ur": "گیمنگ"
+    },
+    {
+     "k": "C",
+     "en": "Chatting",
+     "ur": "چیٹنگ"
+    },
+    {
+     "k": "D",
+     "en": "Hacking",
+     "ur": "ہیکنگ"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Paper",
+   "q_en": "In which transmission, data flows only in one direction from the sending device to the receiving device?",
+   "q_ur": "کس [illegible in source scan] میں ڈیٹا صرف بھیجنے والے آلے سے وصول کرنے والے آلے کی طرف جاتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Duplex",
+     "ur": "ڈوپلیکس"
+    },
+    {
+     "k": "B",
+     "en": "Simplex",
+     "ur": "سمپلیکس"
+    },
+    {
+     "k": "C",
+     "en": "Half duplex",
+     "ur": "ہاف ڈوپلیکس"
+    },
+    {
+     "k": "D",
+     "en": "Full duplex",
+     "ur": "فل ڈوپلیکس"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Paper",
+   "q_en": "In which network architecture there is one dedicated computer which is called server?",
+   "q_ur": "کس نیٹ ورک آرکیٹیکچر میں ایک مخصوص کمپیوٹر ہوتا ہے جسے سرور کہا جاتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Dedicated",
+     "ur": "ڈیڈیکیٹڈ"
+    },
+    {
+     "k": "B",
+     "en": "Point to point",
+     "ur": "پوائنٹ ٹو پوائنٹ"
+    },
+    {
+     "k": "C",
+     "en": "Peer to peer",
+     "ur": "پیئر ٹو پیئر"
+    },
+    {
+     "k": "D",
+     "en": "Client / server",
+     "ur": "کلائنٹ / سرور"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Paper",
+   "q_en": "The operating system acts as a....... between the user and the computer.",
+   "q_ur": "آپریٹنگ سسٹم یوزر اور کمپیوٹر کے درمیان......کے طور پر کام کرتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Bridge",
+     "ur": "پل"
+    },
+    {
+     "k": "B",
+     "en": "Modem",
+     "ur": "موڈم"
+    },
+    {
+     "k": "C",
+     "en": "Hardware",
+     "ur": "ہارڈ ویئر"
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": "ان میں کوئی نہیں"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Paper",
+   "q_en": "....is a collection of related information, or resource for storing information.",
+   "q_ur": "......ایک جیسی معلومات کا مجموعہ ہے یا معلومات اکٹھی رکھنے کا ایک ذریعہ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Icon",
+     "ur": "آئیکن"
+    },
+    {
+     "k": "B",
+     "en": "Button",
+     "ur": "بٹن"
+    },
+    {
+     "k": "C",
+     "en": "File",
+     "ur": "فائل"
+    },
+    {
+     "k": "D",
+     "en": "Menu",
+     "ur": "مینیو"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Paper",
+   "q_en": "Which of the given keyboard shortcut is used to open print dialog box?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ctrl+P",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ctrl+S",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ctrl+N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ctrl+O",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Paper",
+   "q_en": "Entering deleting and moving text in a document refers to text........",
+   "q_ur": "ٹیکسٹ کو ڈاکومنٹ میں درج کرنے، حذف کرنے اور منتقل کرنے کو.......کہا جاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Designing",
+     "ur": "ڈیزائننگ"
+    },
+    {
+     "k": "B",
+     "en": "Editing",
+     "ur": "ایڈیٹنگ"
+    },
+    {
+     "k": "C",
+     "en": "Layout",
+     "ur": "لے آؤٹ"
+    },
+    {
+     "k": "D",
+     "en": "Styling",
+     "ur": "اسٹائلنگ"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Paper",
+   "q_en": "Which computer is a combination of digital and analog technologies?",
+   "q_ur": "کونسا کمپیوٹر اینالاگ اور ڈیجیٹل ٹیکنالوجی کا مجموعہ ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Super",
+     "ur": "سپر"
+    },
+    {
+     "k": "B",
+     "en": "Micro",
+     "ur": "مائیکرو"
+    },
+    {
+     "k": "C",
+     "en": "Hybrid",
+     "ur": "ہائبرڈ"
+    },
+    {
+     "k": "D",
+     "en": "Mini",
+     "ur": "منی"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Paper",
+   "q_en": "Which of the given is an input device for voice recording?",
+   "q_ur": "کونسا ان پٹ ڈیوائس آواز کی ریکارڈنگ کے لیے ان پٹ کے طور پر استعمال ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Scanner",
+     "ur": "اسکینر"
+    },
+    {
+     "k": "B",
+     "en": "Mouse",
+     "ur": "ماؤس"
+    },
+    {
+     "k": "C",
+     "en": "Keyboard",
+     "ur": "کی بورڈ"
+    },
+    {
+     "k": "D",
+     "en": "Microphone",
+     "ur": "مائیکروفون"
+    }
+   ]
+  }
+ ]
+}

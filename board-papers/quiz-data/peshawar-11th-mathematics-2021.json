@@ -1,0 +1,570 @@
+{
+ "board": "BISE Peshawar",
+ "board_slug": "peshawar",
+ "class": "11th",
+ "subject": "Mathematics",
+ "year": 2021,
+ "slug": "peshawar-11th-mathematics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Paper",
+   "q_en": "tan(α − β) = ........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(tanα − tanβ)/(1 − tanα tanβ)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(tanα + tanβ)/(1 + tanα tanβ)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(tanα + tanβ)/(1 − tanα tanβ)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(tanα − tanβ)/(1 + tanα tanβ)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Paper",
+   "q_en": "cos(π/2 − θ) = ..........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−sinθ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−cosθ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "cosθ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "sinθ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Paper",
+   "q_en": "If b = 14cm, c = 12 cm and α = 82° the area of triangle is equal to........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(bc/2)cosα",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(bc/2)sinα",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(bc/2)sinβ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(bc/2)sinγ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Paper",
+   "q_en": "cosα = ...........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(b² + c² − a²)/2bc",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(a² + b² − c²)/2bc",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(a² + c² − b²)/2bc",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(b² + c² − a²)/2ac",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Paper",
+   "q_en": "The minimum value of y = 1 + 2sinθ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Paper",
+   "q_en": "sin⁻¹x + cos⁻¹x = ..........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2π",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π/3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Paper",
+   "q_en": "The next term in the 2 + 6 + 18 + ..... is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "24",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "36",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "54",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "72",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Paper",
+   "q_en": "If tn = 6n + 5, then T_{n+1} = ......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "6n",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6n + 11",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6n + 6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6n − 5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Paper",
+   "q_en": "(n − 2)!/n! is............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/(n−1)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/n",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/(n+1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/(n(n−1))",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Paper",
+   "q_en": "If A and B are mutually exclusive events, then ......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "P(A∩B) = P(A) + P(B)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "P(A∪B) = P(A) + P(B)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "P(A∪B) = P(A) − P(B)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "P(A∩B) = P(A) − P(B)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Paper",
+   "q_en": "The number of terms in the expansion of (a + b)ⁿ is............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "n",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(n − 1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(n + 1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "n(n − 1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Paper",
+   "q_en": "The middle term in the expression of (2x + 5y)⁴ is......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "600 x³y²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "120 xy²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "500 xy³",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6 x²y²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Paper",
+   "q_en": "If f(x) = x³ − 1/x³ then f(x + 1/x) = ......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Paper",
+   "q_en": "If z₁ = 2 + 4i and z₂ = 1 − 3i, then z₁ − 3z₂ = ......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−1 + 5i",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−1 + 13i",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−1 − 5i",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−1 − 13i",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Paper",
+   "q_en": "If Z is any non-zero complex number, then z + z̄ = ......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2Im(z)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2Re(Z)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2z̄",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−2z̄",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Paper",
+   "q_en": "If A = [[1,3,1],[-1,2,0],[2,0,-2]], then A₃₃ = ......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Paper",
+   "q_en": "Evaluate [[0,1,3],[-1,2,1],[2,1,1]] = ..........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−9",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−15",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "9",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "15",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Paper",
+   "q_en": "The projection of the vector 2ī + 3ĵ − 2k̄ on the vector ī + 2ĵ + 3k̄ is......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−2/√14",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/√14",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2/√14",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3/√14",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Paper",
+   "q_en": "If A(−4, 6) and B(6, 8), then vector AB =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−2i + 2j",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2i + 2j",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10i + 2j",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−10i + 2j",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Paper",
+   "q_en": "Which of the given is an A.P?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2, 4, 8, 16, ....",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3, 6, 9, 12, ....",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3, 7, 11, 15, ...",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4, 8, 12, 16, ...",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

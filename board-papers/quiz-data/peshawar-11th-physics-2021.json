@@ -1,0 +1,514 @@
+{
+ "board": "BISE Peshawar",
+ "board_slug": "peshawar",
+ "class": "11th",
+ "subject": "Physics",
+ "year": 2021,
+ "slug": "peshawar-11th-physics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Paper",
+   "q_en": "Which of the given is least sub multiple?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Micro",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Pico",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Femto",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Giga",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Paper",
+   "q_en": "One horse power is equal to ......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "764 watts",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "756 watts",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "746 watts",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "784 watts",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Paper",
+   "q_en": "The no of significant digit in the number 0.000234 is ......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Paper",
+   "q_en": "The magnitude of the Resultant of two forces is F. The magnitude of each force is also F. The angle b/w the forces must be ......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "30°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "120°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Paper",
+   "q_en": "(î × ĵ) × k̂ = ......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "î",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ĵ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "k̂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Paper",
+   "q_en": "If a.b = 1, a = 2 and b = 2 then the angle b/w the two vectors is ......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "30°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "75°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "60°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Paper",
+   "q_en": "If A.B = 0 then A and B vectors are ......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Perpendicular",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Parallel",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Normal",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Paper",
+   "q_en": "A force of 3N and 4N acts on a body at the same time. Which of the given forces cannot be the resultant?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3.5N",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.3N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Paper",
+   "q_en": "The power output of a lamp is 6 watt. How much energy does the lamp give out in 1 minute?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "360J",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "12J",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "120J",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "720J",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Paper",
+   "q_en": "When an electron revolves around the nucleus in a circular path, the centripetal force is provided by ......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Gravitational force",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Tension",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Columbic force",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Frictional force",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Paper",
+   "q_en": "The range of projectile is same for the two angles which are mutually ......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Orthogonal",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Supplementary",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Complementary",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Paper",
+   "q_en": "The work done by the body will be negative if the angle b/w force and displacement is ......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Less than 90°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Greater than 90°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "90°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Paper",
+   "q_en": "The horizontal component of velocity of a body at highest point during projectile motion will be ......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Maximum",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Minimum",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Remain constant",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Paper",
+   "q_en": "If a body is moving in a circle of radius r. Then the angle b/w radius and tangential velocity is ......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "30°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Paper",
+   "q_en": "A truck takes 80 seconds to travel the first 80m, and another 10 sec to travel a further 70m. What is the average speed?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.004 m/s",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.6 m/s",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4 m/s",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5 m/s",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Paper",
+   "q_en": "Which of the given has the same dimensions?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Inertia & torque",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Impulse & momentum",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Stress & strain",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Both A & B",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Paper",
+   "q_en": "Maximum work can be done in the process called ......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Isothermal",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Adiabatic",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Isobaric",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Isochoric",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Paper",
+   "q_en": "The triple point of water is ......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "273.16 C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "273.16 K",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "372 K",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0 C",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

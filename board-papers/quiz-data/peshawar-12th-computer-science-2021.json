@@ -1,0 +1,430 @@
+{
+ "board": "BISE Peshawar",
+ "board_slug": "peshawar",
+ "class": "12th",
+ "subject": "Computer Science",
+ "year": 2021,
+ "slug": "peshawar-12th-computer-science-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Paper",
+   "q_en": "Which of the header file must be included to use string stream?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "<iostream>",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "<string>",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "<sstring>",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "<sstream>",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Paper",
+   "q_en": "Arguments of a functions are separated with......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Comma",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Semicolon",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Colon",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Paper",
+   "q_en": "The conversion of data from one type to another is called......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Type casting",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Debugging",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Reserve words",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Constant qualifier",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Paper",
+   "q_en": "Constructors are usually used for......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Constructing",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Running classes",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Initializing objects",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Paper",
+   "q_en": "C++ programs are converted [...] machine language with the [...] of ......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Interpreter",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Operating system",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Compiler",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Paper",
+   "q_en": "The last character of a string array is ......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "\\n",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "\\t",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "\\0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Paper",
+   "q_en": "The continue statement......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Resumes the program if it is hanged",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Resumes the program if break was applied",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Skips the rest of the loop in current iteration",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Paper",
+   "q_en": "System software is also known as.........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Application program",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Operating system",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Reserve program",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Productivity software",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Paper",
+   "q_en": "A process is said to be in running state if it is under......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Testing",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Debugging",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Execution",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Paper",
+   "q_en": "The......determine whether the project should go forward.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Problem identification",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Feasibility",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "System evaluation",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Design",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Paper",
+   "q_en": "Which of the given is not an operating system?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "LINUX",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "MS-Word",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "UNIX",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Windows",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Paper",
+   "q_en": "To execute the loop at least once for some time the C++ offers the facility of........loop.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "While",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "For",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Do – While",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Paper",
+   "q_en": "Enhancements, up gradation and bugs fixation are done during the......step in the SDLC.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Maintenance & Evaluation",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Design",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Problem Identification",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Documentation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Paper",
+   "q_en": "In C++ language char ch = '3' represents......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A digit",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "An integer constant",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A character constant",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A word",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Paper",
+   "q_en": "Which of the given is not a looping statement in C++?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "For",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "While",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Do-while",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Until",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

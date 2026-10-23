@@ -1,0 +1,514 @@
+{
+ "board": "BISE Peshawar",
+ "board_slug": "peshawar",
+ "class": "12th",
+ "subject": "Physics",
+ "year": 2021,
+ "slug": "peshawar-12th-physics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Paper",
+   "q_en": "A one microfarad of a TV is subjected to 4000 V potential difference. The energy stored in capacitor is........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "8 J",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "16 J",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4×10⁻³ J",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2×10⁻³ J",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Paper",
+   "q_en": "Which one of the given are ohmic materials?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Semiconductor diode",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Tungsten filament bulb",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Thermistor",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Metals",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Paper",
+   "q_en": "A magnetic field exerts a force of 10 N on a current carrying conductor of length 0.5 m. If 5.0 A current flows in a conductor (L ⊥ B) then the strength of field is......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10 T",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5.0 T",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4.0 T",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8.0 T",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Paper",
+   "q_en": "When a wire is stretched and its radius becomes r/2, then its resistance will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "16 R",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4R",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2R",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Paper",
+   "q_en": "Which one of the given device is always connected in series to a P.D. source?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Potentiometer",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ammeter",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Voltmeter",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Both A & B",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Paper",
+   "q_en": "The peak value of sinusoidal voltage in AC circuit is 50 V. The rms value of voltage is roughly equal to......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "70 V",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "40 V",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "35 V",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "45 V",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Paper",
+   "q_en": "The angular momentum of electron in the 3rd orbit of H-atom is......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "h/2π",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2h/π",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3h/2π",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2h/3π",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Paper",
+   "q_en": "A 96 gm sample of radioactive nuclide is placed in a container. After 12 minutes only 6 gm of sample is left undecayed. What is the Half-life of radioactive nuclide.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "48 hr",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3 hr",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "48 min",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3 min",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Paper",
+   "q_en": "The energy of electron in the excited state n = 4 is.......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−13.6 eV",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−3.4 eV",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−0.85 eV",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−1.5 eV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Paper",
+   "q_en": "The device which converts A.C into D.C is called......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Diode",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Transformer",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Amplifier",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "N-type substance",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Paper",
+   "q_en": "The half-life of a radioactive material is...........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "T_{1/2} = λ/log2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "T_{1/2} = 1/λ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "T_{1/2} = log2/λ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "T_{1/2} = 3λ/log2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Paper",
+   "q_en": "If the K.E of free electron doubles, its de Broglie wavelength changes by the factor.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "√2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/√2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Paper",
+   "q_en": "The positron has charge which is in magnitude equal to the charge on.....",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electron",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Proton",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "β-particle",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Paper",
+   "q_en": "A current in a primary coil changes from 5.0 A to 6.0 A in 6.0 sec an induced emf of 10.0 V is produced in the nearby placed secondary coil. The co-efficient of mutual induction is........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "15 H",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "30 H",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "50 H",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "60 H",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Paper",
+   "q_en": "In the reaction _zX^A → _{z−1}X^A + _0Y^1 neutrino + Q Y stands for:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electron",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Positron",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Neutron",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Anti-neutrino",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Paper",
+   "q_en": "Most of the electrons in the base of NPN transistor flow:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Out of the base lead",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Into the collector",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Into the emitter",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Into the base supply",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Paper",
+   "q_en": "Which one of the following materials is weakly attracted by magnet?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ferromagnetic",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Diamagnetic",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Paramagnetic",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Paper",
+   "q_en": "Let a charge of 1 nano-coulomb lies at the centre of a surface, the number of electric field lines leaving the surface are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1000",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "250",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "155",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "113",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}
