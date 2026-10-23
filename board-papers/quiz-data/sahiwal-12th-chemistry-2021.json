@@ -1,0 +1,486 @@
+{
+ "board": "BISE Sahiwal",
+ "board_slug": "sahiwal",
+ "class": "12th",
+ "subject": "Chemistry",
+ "year": 2021,
+ "slug": "sahiwal-12th-chemistry-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Which reagent is used to reduce a carboxylic group to an alcohol?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "H₂/Ni",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "H₂/Pt",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NaBH₄",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "LiAlH₄",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Which of the given will have the highest boiling point?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Methanal",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ethanal",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Propanal",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2-Hexanone",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Elimination bimolecular reactions involve:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "first order kinetics",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "second order kinetics",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "third order kinetics",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "zero order kinetics",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Which compound will have maximum repulsion with H₂O?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "C₆H₆",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "C₂H₅OH",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CH₃CH₂CH₂OH",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CH₃-O-CH₃",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Which of the given compound will react with Tollen's reagent?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CH₃-C(=O)-H",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CH₃-C(=O)-CH₃",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CH₃-C(=O)-OH",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CH₃-C(=O)-CH₂-CH₃",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Which compound is the most reactive one?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Benzene",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ethene",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ethane",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ethyne",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The presence of a double bond in a compound is the sign of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "saturation",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "unsaturation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "substitution",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "none",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "A double bond consists of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "two sigma bonds",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "one sigma and one pi-bond",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "one sigma two pi-bonds",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "two pi-bonds",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The strength of binding energy of transition elements depends upon number of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "electron pairs",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "unpaired electrons",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "neutrons",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "protons",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Laughing gas is chemically:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "NO",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "N₂O",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NO₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "N₂O₄",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Which is the strongest acid?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "HClO",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "HClO₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "HClO₃",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "HClO₄",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Which of the given element is not present abundantly in earth's crust?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Silicon",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Aluminium",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Sodium",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Oxygen",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Chile saltpetre has the chemical formula:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "NaNO₃",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "KNO₃",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Na₂B₄O₇",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Na₂CO₃.H₂O",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "The correct statement is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Na⁺ is smaller than Na atom",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Na⁺ is larger than Na atom",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cl⁻ is smaller than Cl atom",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cl⁻ (ion) and Cl (atom) are equal in size",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "The chemical formula of Fluorospar is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ca₃(PO₄)₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CaF₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Na₃AlF₆",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "KCl.MgCl₂.6H₂O",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "Phosphorus helps the growth of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "roots",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "leaves",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "stem",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "seed",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "Acetic acid is manufactured by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Distillation",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Fermentation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ozonolysis",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Esterification",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

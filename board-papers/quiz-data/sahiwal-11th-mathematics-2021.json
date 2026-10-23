@@ -1,0 +1,570 @@
+{
+ "board": "BISE Sahiwal",
+ "board_slug": "sahiwal",
+ "class": "11th",
+ "subject": "Mathematics",
+ "year": 2021,
+ "slug": "sahiwal-11th-mathematics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "If a,b,c have their usual meanings then (c²+a²-b²)/(2ac) =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "cos α",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "cos β",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "cos γ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "sin β",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "If n is any positive integer, then 2ⁿ > 2(n+1) is true for all.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "n≤3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "n<3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "n≥3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "n>3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "What angle is quadrantal angle?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "120°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "270°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "45°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "If cos θ = 1/√2, then θ is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "30°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "90°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "sin(3π/2 - θ) =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "sin θ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "cos θ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-sin θ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-cos θ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The period of 3sin 3x is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π/3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2π/3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "ⁿPᵣ/r! is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ⁿCᵣ₋₁",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ⁿ⁺¹Cᵣ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ⁿ⁻¹Cᵣ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Radius of the inscribed circle is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "r = Δ/S",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "r = abc/(4Δ)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "r = S/Δ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "r = (S-a)/Δ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Rank of matrix [1 0 0; 0 1 0; 0 0 0] is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "(x³+1)/((x-1)(x+2)) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "proper fraction",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "improper fraction",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "identity",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "both B & C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Any real number \"a\" is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ia",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(a,b)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(b,a)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "{x|x∈E ∧ 4<x<6} equals:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "{4}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{5}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{6}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "φ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "If A is a matrix of order 3×4, then the order of AAᵗ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4×3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3×3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3×4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4×4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "Tan⁻¹(-√3) =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2π/3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-2π/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-π/6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-π/3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "An equation of the form ax²+bx+c=0 is called quadratic if:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a=0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "b=0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a≠0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "b≠0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "If one root of the equation x²-3x+a=0 is 2, then a is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "If sin x = -√3/2, then solution is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4π/6, 5π/6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4π/3, 5π/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5π/6, 7π/6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π/3, 7π/3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group I",
+   "q_en": "If aₙ₋₃ = 2n-5, its nth term is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2n+1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2n+3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2n-2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2n-8",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group I",
+   "q_en": "If a,b are in A.P, then 2A is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a-b",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(a+b)/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a+b",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "b-a",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group I",
+   "q_en": "Let A,G,H be the A.M, G.M and H.M between a and b respectively, then G² =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A+H",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "√(ab)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A/H",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "AH",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

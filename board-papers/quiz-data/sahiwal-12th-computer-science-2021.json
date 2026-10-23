@@ -1,0 +1,430 @@
+{
+ "board": "BISE Sahiwal",
+ "board_slug": "sahiwal",
+ "class": "12th",
+ "subject": "Computer Science",
+ "year": 2021,
+ "slug": "sahiwal-12th-computer-science-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Which data type can be used to define a field that contains data content such as chart, picture or graphic object?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hyperlink",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Memo",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "OLE Object",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Auto Number",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "A database consists of various components is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Tools",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Properties",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Entities",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Objects",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Which form of dependency is removed in 2NF?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Functional",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Transitive",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Associative",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Partial",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Organizing the database in computer disk storage is done in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Logical design",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Physical design",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Analysis",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Implementation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The foreign key is found in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Parent table",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Dependent table",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Pivot table",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Index table",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Which of the given may be a temporary file?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Master file",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Transaction file",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Backup file",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Data file",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The loop which never ends is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Infinite loop",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Running loop",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Continuous loop",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nested loop",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Function prototype for built-in functions are specified in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Source file",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Object file",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Image file",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Header file",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The output of compiler is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Library Code",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Source Code",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Linked Code",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Object Code",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Another term for a computer making a decision is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sequential",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Selection",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Repetition",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Iteration",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The function that is used to display output on screen is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "printf",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "scanf",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "pow",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "display",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Which escape sequence is used to erase a character left to the cursor position?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "\\b",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "\\del",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "\\n",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "\\f",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "The data type which is used to store numeric value with no decimal point?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "char",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "int",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "float",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "double",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "Which of the given operators has lowest precedence?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "=",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "==",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "!",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "+",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "C was designed to write program for:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Windows Operating System",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Solaris Operating System",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Unix Operating System",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "OS/2 Operating System",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

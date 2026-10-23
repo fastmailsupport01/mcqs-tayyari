@@ -1,0 +1,430 @@
+{
+ "board": "BISE Sahiwal",
+ "board_slug": "sahiwal",
+ "class": "11th",
+ "subject": "Computer Science",
+ "year": 2021,
+ "slug": "sahiwal-11th-computer-science-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Electronic banking is also known as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "cyber banking",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "local banking",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "remote banking",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "offline banking",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The temporary storage area within CPU is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ROM",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "RAM",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "DRAM",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Registers",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Which component is responsible for comparing the contents of two pieces of data?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Memory",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Control Unit",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Computer Clock",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ALU",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "A virus that replicates itself is called a:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Bug",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Bomb",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Vaccine",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Worm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Which of the given is the entering point in MS-Window?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Desktop",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Explorer",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "My computer",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "My document",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "All deleted files are stored in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "My Documents",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Temporary Files",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Sys-tray",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Recycle Bin",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Which of the given menu provides header and footer option?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Tools",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "View",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Edit",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Insert",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Which of the given is a spreadsheet?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "MS-Excel",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "MS-Word",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "MS-Power Point",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "MS-Access",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "In web address, www.education.com, \"education.com\" is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "User Name",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Text File",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Protocol",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Domain Name",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "How many bits are in one byte?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The scope of the problem is setted during:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "system implementation",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "system testing",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "system coding",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "preliminary investigation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Which is not LAN protocol?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ARCnet",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ethernet",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Token Ring",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Wi MAX",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Which OSI layer is responsible to provide services that directly support user application?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Application layer",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Presentation layer",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Session layer",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Transport layer",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "The amplitude is measured in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cycle",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Phase",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Volts",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Hertz",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Which communication medium requires lines of sight?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Coaxial",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Twister Pair",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Fiber Optic",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Microwave",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}
