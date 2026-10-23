@@ -1,0 +1,962 @@
+{
+ "board": "BISE Bahawalpur",
+ "board_slug": "bahawalpur",
+ "class": "11th",
+ "subject": "Physics",
+ "year": 2022,
+ "slug": "bahawalpur-11th-physics-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group Ist",
+   "q_en": "Average Translational Kinetic Energy of Gas Molecule is related by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/2 KT",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "KT",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2/3 KT",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3/2 KT",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group Ist",
+   "q_en": "The S.I. unit of product of Pressure and Volume is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Watt",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Joule",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Pascal",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Kelvin",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group Ist",
+   "q_en": "When a Beam of white light falls perpendicularly on a plane of glass, then angle of refraction will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "90 degrees",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "60 degrees",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0 degrees",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "180 degrees",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group Ist",
+   "q_en": "The phase difference of 180 degrees is equivalent to a path difference of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "lambda/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "lambda/4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2lambda",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "lambda",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group Ist",
+   "q_en": "Speed of Sound in Air is independent of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Density",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Pressure",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Temperature",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Elasticity",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group Ist",
+   "q_en": "Speed of Sound at 10 C is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "332 ms^-1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "339 ms^-1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "349 ms^-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "360 ms^-1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group Ist",
+   "q_en": "Total Energy of Particle in SHM is proportional to square of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Acceleration",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Velocity",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Time Period",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Amplitude",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group Ist",
+   "q_en": "Pressure is low where speed is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "High",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Low",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Constant",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group Ist",
+   "q_en": "The range of a projectile becomes half of the maximum range at angle of projection:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "15 degrees",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "25 degrees",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "45 degrees",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "72 degrees",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group Ist",
+   "q_en": "How many Radians are in a Semi Circle:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2pi rad",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "pi/2 rad",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "pi rad",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10pi rad",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group Ist",
+   "q_en": "Escape Velocity of an object is independent of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mass of the Object",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Mass of the Planet",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Radius of the Planet",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Type of Planet",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group Ist",
+   "q_en": "For the impulse to be zero, which of the following must be constant:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Force",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Velocity",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Acceleration",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group Ist",
+   "q_en": "The time to reach the maximum height by the Projectile is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ViSin(theta)/g",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2ViSin(theta)/g",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Vi2Sin^2(theta)/g",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Vi2Sin(theta)/g",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group Ist",
+   "q_en": "Minimum Coplanar unequal forces for producing equilibrium are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group Ist",
+   "q_en": "i.(j x k) equals:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "i",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-j",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group Ist",
+   "q_en": "The percentage uncertainties in Length and Width of a rectangle are 2% and 3%. Its area has percentage uncertainty:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1%",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5%",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6%",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2%",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group Ist",
+   "q_en": "The number 56.8546 is rounded off to three significant figures as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "57.0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "56.8",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "56.9",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "56.854",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group 2nd",
+   "q_en": "The magnitude of the vector product of two non-zero vectors A and B making an Angle theta with each other is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ABSin(theta).n",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ABCos(theta)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ABSin(theta)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "AB",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group 2nd",
+   "q_en": "Error in the measurement of Sphere is 1%. The error in the calculated value of volume is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1%",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3%",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5%",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "7%",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group 2nd",
+   "q_en": "The dimensions of the relation sqrt(Fxl/m) are equal to the dimensions of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Force",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Momentum",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Acceleration",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Velocity",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group 2nd",
+   "q_en": "If Cross Product of A x B is along y-axis, then A and B must lie in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "xy-Plane",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "yz-Plane",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "xz-Plane",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Space",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group 2nd",
+   "q_en": "Tidal Energy is due to Gravitational Pull of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sun",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Moon",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Earth",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mars",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group 2nd",
+   "q_en": "In Projectile Motion, the Vertical Component of the Velocity:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Remains Constant",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Becomes Zero",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Varies Point to Point",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Increases with time",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group 2nd",
+   "q_en": "For a typical rocket, how much mass of rocket is in the form of fuel:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "50%",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "60%",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "80%",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "100%",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group 2nd",
+   "q_en": "If Linear Velocity and Radius are both made half of a body moving in a circle, the Centripetal Force becomes:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Fc",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Fc/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Fc/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2Fc",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group 2nd",
+   "q_en": "In Mass Spring System, 1/2 Kxo^2 represents:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Total Energy",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Kinetic Energy",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Potential Energy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Velocity",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group 2nd",
+   "q_en": "The fluid is said to be incompressible if its density is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Very High",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Very Small",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Constant",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group 2nd",
+   "q_en": "The ratio of Moment of Inertia of Disc and hoop is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group 2nd",
+   "q_en": "Types of Waves used in Sonar are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Light Waves",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Heat Waves",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Sound Waves",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Water Waves",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group 2nd",
+   "q_en": "The light signal in Optical Fibre must by regenerated by a device called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Motor",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Generator",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Repeater",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Laser",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group 2nd",
+   "q_en": "What remains constant in an Adiabatic Process:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Volume",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Pressure",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Temperature",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Heat",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group 2nd",
+   "q_en": "If a Stretched String is 4 m and has 4 loops of Stationary Wave, then Wavelength is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2 m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3 m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4 m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group 2nd",
+   "q_en": "If P = Pressure, V = Volume of a Gas, then PDeltaV represents:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Work",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Density",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Power",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Temperature",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group 2nd",
+   "q_en": "Fringe Spacing increases if we use:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Red Light",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Blue Light",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Yellow Light",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Green Light",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

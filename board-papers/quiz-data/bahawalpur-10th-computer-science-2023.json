@@ -1,0 +1,570 @@
+{
+ "board": "BISE Bahawalpur",
+ "board_slug": "bahawalpur",
+ "class": "10th",
+ "subject": "Computer Science",
+ "year": 2023,
+ "slug": "bahawalpur-10th-computer-science-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group Ist",
+   "q_en": "Array elements are stored at ---- memory locations :",
+   "q_ur": "ارے کے ارکان ------ میموری لوکیشنز پر سٹور ہوتے ہیں :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Contiguous",
+     "ur": "مسلسل"
+    },
+    {
+     "k": "B",
+     "en": "Scattered",
+     "ur": "بکھری"
+    },
+    {
+     "k": "C",
+     "en": "Divided",
+     "ur": "منقسم"
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": "ان میں سے کوئی نہیں"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group Ist",
+   "q_en": "The advantages of using Functions are -------- :",
+   "q_ur": "فنکشنز کو استعمال کرنے کے فوائد ہیں :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Readability",
+     "ur": "کوڈ کی پڑھنے کی صلاحیت"
+    },
+    {
+     "k": "B",
+     "en": "Reusability",
+     "ur": "بار بار استعمال"
+    },
+    {
+     "k": "C",
+     "en": "Easy Debugging",
+     "ur": "ڈی بگنگ میں آسانی"
+    },
+    {
+     "k": "D",
+     "en": "All these",
+     "ur": "یہ تمام"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group Ist",
+   "q_en": "------ make it easier to read and write values in array :",
+   "q_ur": "------ سے ارے میں قیمتیں لکھنا اور پڑھنا آسان ہو جاتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Loops",
+     "ur": "لوپس"
+    },
+    {
+     "k": "B",
+     "en": "Conditions",
+     "ur": "شرائط"
+    },
+    {
+     "k": "C",
+     "en": "Expressions",
+     "ur": "ایکسپریشنز"
+    },
+    {
+     "k": "D",
+     "en": "Functions",
+     "ur": "فنکشنز"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group Ist",
+   "q_en": "Which Part of For Loop is Executed first :",
+   "q_ur": "For Loop کا ------ حصہ سب سے پہلے چلتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Condition",
+     "ur": "شرط"
+    },
+    {
+     "k": "B",
+     "en": "Body",
+     "ur": "باڈی"
+    },
+    {
+     "k": "C",
+     "en": "Initilization",
+     "ur": "انیشلائزیشن"
+    },
+    {
+     "k": "D",
+     "en": "Increment / Decrement",
+     "ur": "اضافہ / کمی"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group Ist",
+   "q_en": "Which of the following is the condition to check \"a\" is a factor of \"c\" :",
+   "q_ur": "درج ذیل میں سے کوئی کنڈیشن یہ بتاتی ہے کہ a, c کا فیکٹر ہے یا نہیں :",
+   "options": [
+    {
+     "k": "A",
+     "en": "a % c == 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "c % a == 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a * c == 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a / c == 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group Ist",
+   "q_en": "In If Statement, Condition is enlosed in ------ :",
+   "q_ur": "If سٹیٹمنٹ میں کنڈیشن ------ کو ------ :",
+   "options": [
+    {
+     "k": "A",
+     "en": "( )",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{ }",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[ ]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "* *",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group Ist",
+   "q_en": "Scanf is a ------- in C Programming Language :",
+   "q_ur": "C پروگرامنگ لینگویج میں Scanf ------ ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Keyword",
+     "ur": "مطلوبہ لفظ"
+    },
+    {
+     "k": "B",
+     "en": "Library",
+     "ur": "لائبریری"
+    },
+    {
+     "k": "C",
+     "en": "Function",
+     "ur": "فنکشن"
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": "کوئی بھی نہیں"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group Ist",
+   "q_en": "Which Operator has highest precedence among the followings :",
+   "q_ur": "درج ذیل میں سے کس آپریٹر کی ترجیح سب سے زیادہ ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "/",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "=",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": ">",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "!",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group Ist",
+   "q_en": "Which of the following is not a Reserve Word :",
+   "q_ur": "درج ذیل میں سے کون سا مخصوص کیا گیا لفظ نہ ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Auto",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Break",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "If",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Small",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group Ist",
+   "q_en": "A Software that facilitates programmer in writing Computer Program is known as ------ :",
+   "q_ur": "ایک سافٹ ویئر جو پروگرامر کو کمپیوٹر پروگرام لکھنے میں مدد دیتا ہے کہلاتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Compiler",
+     "ur": "کمپائلر"
+    },
+    {
+     "k": "B",
+     "en": "An Editor",
+     "ur": "ایڈیٹر"
+    },
+    {
+     "k": "C",
+     "en": "An IDE",
+     "ur": "آئی ڈی ای"
+    },
+    {
+     "k": "D",
+     "en": "A Debugger",
+     "ur": "ڈی بگر"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group 2nd",
+   "q_en": "getch ( ) is used to take ------ as Input from user :",
+   "q_ur": "getch ( ) یوزر سے ------ بطور ان پٹ لینے کے لئے استعمال ہوتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "int",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "float",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "char",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All these",
+     "ur": "یہ تمام"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group 2nd",
+   "q_en": "------ can be thought as a container to store Constants :",
+   "q_ur": "------ کو کانسٹینٹس کو سٹور کرنے کا مرتبان سمجھا جا سکتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Box",
+     "ur": "باکس"
+    },
+    {
+     "k": "B",
+     "en": "Jar",
+     "ur": "جار"
+    },
+    {
+     "k": "C",
+     "en": "Variable",
+     "ur": "متغیر"
+    },
+    {
+     "k": "D",
+     "en": "Collection",
+     "ur": "کلیکشن"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group 2nd",
+   "q_en": "Symbol used for Single Line Comment is ------ :",
+   "q_ur": "سنگل لائن کمنٹ کے لئے علامت استعمال ہوتی ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "//",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "/* */",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-/",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "** **",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group 2nd",
+   "q_en": "Which of the following is True about C-Language :",
+   "q_ur": "مندرجہ ذیل میں سے کون سی بات C لینگویج کے متعلق درست ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "C is not a Case Sensitive Language",
+     "ur": "C ایک کیس سینسیٹیو لینگویج نہیں ہے"
+    },
+    {
+     "k": "B",
+     "en": "Keywords can be used as variable names",
+     "ur": "ذخیرہ الفاظ کو متغیرات کے نام کے طور پر استعمال کیا جا سکتا ہے"
+    },
+    {
+     "k": "C",
+     "en": "All Logical Operators are Binary Operators",
+     "ur": "تمام لاجیکل آپریٹرز بائنری آپریٹرز ہوتے ہیں"
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": "ان میں سے کوئی نہیں"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group 2nd",
+   "q_en": "Array Elements are stored at ------ Memory Locations :",
+   "q_ur": "ارے کے ارکان ------ میموری لوکیشنز پر سٹور ہوتے ہیں :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Contiguous",
+     "ur": "مسلسل"
+    },
+    {
+     "k": "B",
+     "en": "Scattered",
+     "ur": "بکھری ہوئی"
+    },
+    {
+     "k": "C",
+     "en": "Divided",
+     "ur": "منقسم"
+    },
+    {
+     "k": "D",
+     "en": "None",
+     "ur": "کوئی نہیں"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group 2nd",
+   "q_en": "In for (i = 1; i < 10; i++), the Initialization part is :",
+   "q_ur": "for (i = 1; i < 10; i++) میں انیشلائزیشن ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "i = 1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "i < 10",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "i++",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "for",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group 2nd",
+   "q_en": "In If Statement, Condition is enclosed in ------ :",
+   "q_ur": "If سٹیٹمنٹ میں کنڈیشن ------ کے اندر لکھا جاتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "( )",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{ }",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[ ]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "* *",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group 2nd",
+   "q_en": "Nested Loop is using a ------ inside a loop :",
+   "q_ur": "ایک ------ کے اندر ایک لوپ استعمال کرنے کو نیسٹڈ لوپ کہتے ہیں :",
+   "options": [
+    {
+     "k": "A",
+     "en": "if",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "if-else",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Loop",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Condition",
+     "ur": "کنڈیشن"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group 2nd",
+   "q_en": "Which of the followings is the condition to check if n is a factor of m :",
+   "q_ur": "درج ذیل میں سے کون سی کنڈیشن بتاتی ہے کہ m, n کا جزو ضربی (فیکٹر) ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "n % m == 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "m % n == 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "m * n == 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "m + n == 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group 2nd",
+   "q_en": "------ part of For Loop is executed first :",
+   "q_ur": "For Loop میں ------ حصہ سب سے پہلے عمل درآمد ہوتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Initialization",
+     "ur": "انیشلائزیشن"
+    },
+    {
+     "k": "B",
+     "en": "Condition",
+     "ur": "کنڈیشن"
+    },
+    {
+     "k": "C",
+     "en": "Body",
+     "ur": "باڈی"
+    },
+    {
+     "k": "D",
+     "en": "Increment / Decrement",
+     "ur": "انکریمنٹ / ڈیکریمنٹ"
+    }
+   ]
+  }
+ ]
+}

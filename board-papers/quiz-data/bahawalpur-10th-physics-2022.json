@@ -1,0 +1,682 @@
+{
+ "board": "BISE Bahawalpur",
+ "board_slug": "bahawalpur",
+ "class": "10th",
+ "subject": "Physics",
+ "year": 2022,
+ "slug": "bahawalpur-10th-physics-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Refractive Index is equal to :",
+   "q_ur": "ریفریکٹیو انڈیکس برابر ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "n = Sinr / Sini",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "n = cv",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "n = v / c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "n = c / v",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The Loudness of Sound is most closely related to its :",
+   "q_ur": "ساؤنڈ کی لاؤڈنیس کا زیادہ تر انحصار کس پر ہوتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Amplitude",
+     "ur": "ایمپلیٹیوڈ"
+    },
+    {
+     "k": "B",
+     "en": "Period",
+     "ur": "پیریڈ"
+    },
+    {
+     "k": "C",
+     "en": "Wavelength",
+     "ur": "ویولینتھ"
+    },
+    {
+     "k": "D",
+     "en": "Frequency",
+     "ur": "فریکوئنسی"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The relation between Velocity, Frequency and Wavelength of Wave is :",
+   "q_ur": "ایک ویو کی ولاسٹی ، فریکوئنسی اور ویولینتھ کے درمیان تعلق ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "λ = vf",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "v = fλ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "f = vλ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "v = λ / f",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "In Parallel Combination of Capacitors each Capacitor will have same :",
+   "q_ur": "اگر کیپیسٹر کو پیرالل میں جوڑا جائے تو ہر کیپیسٹر کے لئے برابر ہو گا :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Charge",
+     "ur": "چارج"
+    },
+    {
+     "k": "B",
+     "en": "Capacitance",
+     "ur": "کپیسٹینس"
+    },
+    {
+     "k": "C",
+     "en": "Voltage",
+     "ur": "وولٹیج"
+    },
+    {
+     "k": "D",
+     "en": "Charge and Voltage",
+     "ur": "چارج اور وولٹیج"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "For an Ideal Transformer :",
+   "q_ur": "ایک آئیڈیل ٹرانسفارمر کے لئے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Vs / Vp = Is / Ip",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Vp / Vs = Ip / Is",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Vs / Vp = Ip / Is",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Vs / Is = Vp / Ip",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Which of the following is not same as Watt :",
+   "q_ur": "درج ذیل میں کون سا واٹ جیسا نہیں :",
+   "options": [
+    {
+     "k": "A",
+     "en": "J / S",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "AV",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A²Ω",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A / V",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The formula of Electric Field Intensity is :",
+   "q_ur": "الیکٹرک فیلڈ انٹینسٹی کا فارمولا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "E = F / qo",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "E = qoF",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "E = 2 Fqo",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "E = F / K",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Boolean Expression for OR gate is :",
+   "q_ur": "OR گیٹ کی بولین علامت ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "X = A.B",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "X = A + B",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "X = overline(A.B)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "X = overline(A+B)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "What happens to Atomic Mass of an Element which emits One Alpha Particle :",
+   "q_ur": "جب ایک ایلیمنٹ ایک الفا پارٹیکل خارج کرتا ہے تو اس کے اٹامک ماس پر کیا اثر پڑتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Decreases by 4",
+     "ur": "4 کا کم ہو جائے گا"
+    },
+    {
+     "k": "B",
+     "en": "Decreases by 2",
+     "ur": "2 کا کم ہو جائے گا"
+    },
+    {
+     "k": "C",
+     "en": "Decreases by 1",
+     "ur": "1 کا کم ہو جائے گا"
+    },
+    {
+     "k": "D",
+     "en": "Increases by 1",
+     "ur": "1 بڑھ جائے گا"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Isotopes are Atoms of same element with different ----- :",
+   "q_ur": "آئسوٹوپس ایک ہی ایلیمنٹ کے ایسے ایٹم ہوتے ہیں جن کا ----- مختلف ہوتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Atomic Number",
+     "ur": "اٹامک نمبر"
+    },
+    {
+     "k": "B",
+     "en": "Atomic Mass",
+     "ur": "اٹامک ماس"
+    },
+    {
+     "k": "C",
+     "en": "Number of Protons",
+     "ur": "پروٹانز کی تعداد"
+    },
+    {
+     "k": "D",
+     "en": "Number of Electron",
+     "ur": "الیکٹرون کی تعداد"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The Particles emitted from a Hot Cathode Surface are called :",
+   "q_ur": "ایسے پارٹیکلز جو گرم کیتھوڈ کی سطح سے خارج ہوں کہلاتے ہیں :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Positive Ions",
+     "ur": "پوزیٹو آئنز"
+    },
+    {
+     "k": "B",
+     "en": "Negative Ions",
+     "ur": "نیگیٹو آئنز"
+    },
+    {
+     "k": "C",
+     "en": "Protons",
+     "ur": "پروٹانز"
+    },
+    {
+     "k": "D",
+     "en": "Electrons",
+     "ur": "الیکٹرونز"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The S.I. Unit of Amplitude is :",
+   "q_ur": "ایمپلیٹیوڈ کا S.I. یونٹ ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sec",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Hz",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Joule",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "In a Vacuum, all Electromagnetic Waves have the same :",
+   "q_ur": "ویکیوم میں تمام الیکٹرومگنیٹک ویوز ایک جیسی رکھتی ہیں :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Speed",
+     "ur": "سپیڈ"
+    },
+    {
+     "k": "B",
+     "en": "Frequency",
+     "ur": "فریکوئنسی"
+    },
+    {
+     "k": "C",
+     "en": "Amplitude",
+     "ur": "ایمپلیٹیوڈ"
+    },
+    {
+     "k": "D",
+     "en": "Wavelength",
+     "ur": "ویولینتھ"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Which of these Waves consist of Compression and Rarefaction :",
+   "q_ur": "ان میں سے کون سی ویوز کمپریشن اور ریئرفیکشن پر مشتمل ہوتی ہیں :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Radio Waves",
+     "ur": "ریڈیو ویوز"
+    },
+    {
+     "k": "B",
+     "en": "Sound Waves",
+     "ur": "ساؤنڈ ویوز"
+    },
+    {
+     "k": "C",
+     "en": "Television Waves",
+     "ur": "ٹیلیویژن ویوز"
+    },
+    {
+     "k": "D",
+     "en": "X-rays",
+     "ur": "ایکس ریز"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Radius of Curvature is of the Focal Length :",
+   "q_ur": "ریڈیس آف کرویچر فوکل لینتھ سے ہوتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Half",
+     "ur": "نصف"
+    },
+    {
+     "k": "B",
+     "en": "Double",
+     "ur": "دوگنا"
+    },
+    {
+     "k": "C",
+     "en": "Equal",
+     "ur": "برابر"
+    },
+    {
+     "k": "D",
+     "en": "Three Times",
+     "ur": "تین گنا"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Two Small Charged Spheres are separated by 2 mm. Which of the following would produce the greatest attractive force :",
+   "q_ur": "دو چھوٹے چارجڈ سفیرز کو 2mm کے فاصلے پر رکھا گیا ہے۔ مندرجہ ذیل میں سے کس انتخاب کے لئے سب سے زیادہ کشش کی فورس ہوگی :",
+   "options": [
+    {
+     "k": "A",
+     "en": "+1 q and +4 q",
+     "ur": "+4 q اور +1 q"
+    },
+    {
+     "k": "B",
+     "en": "-1q and -4q",
+     "ur": "-4 q اور -1 q"
+    },
+    {
+     "k": "C",
+     "en": "+2 q and +2 q",
+     "ur": "+2 q اور +2 q"
+    },
+    {
+     "k": "D",
+     "en": "+2 q and -2q",
+     "ur": "-2 q اور +2 q"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "In Parallel Combination of Capacitors, each Capacitor will have same :",
+   "q_ur": "اگر کیپیسٹرز کو پیرالل میں جوڑا جائے تو ہر کیپیسٹر کے لئے برابر ہو گا :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Voltage",
+     "ur": "وولٹیج"
+    },
+    {
+     "k": "B",
+     "en": "Charge",
+     "ur": "چارج"
+    },
+    {
+     "k": "C",
+     "en": "Capacitance",
+     "ur": "کپیسٹینس"
+    },
+    {
+     "k": "D",
+     "en": "Charge and Capacitance",
+     "ur": "چارج اور کپیسٹینس"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "What happens to the Intensity or the Brightness of the Lamps connected in Series as more and more lamps are added :",
+   "q_ur": "سیریز طریقے سے جوڑے گئے بلبوں کی تعداد میں اضافہ کرنے سے ان کی روشنی کی شدت پر کیا فرق پڑتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Increases",
+     "ur": "اضافہ ہوتا ہے"
+    },
+    {
+     "k": "B",
+     "en": "Decreases",
+     "ur": "کم ہوتی ہے"
+    },
+    {
+     "k": "C",
+     "en": "Remains the Same",
+     "ur": "کوئی فرق نہیں ہوتا"
+    },
+    {
+     "k": "D",
+     "en": "Can not be Predicted",
+     "ur": "بتایا نہیں جا سکتا"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "The Direction of Induced emf in a Circuit is in accordance with Conservation of :",
+   "q_ur": "سرکٹ میں انڈیوسڈ ای ایم ایف کی سمت کنزرویشن کے قانون کے مطابق ہوتی ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mass",
+     "ur": "ماس"
+    },
+    {
+     "k": "B",
+     "en": "Charge",
+     "ur": "چارج"
+    },
+    {
+     "k": "C",
+     "en": "Momentum",
+     "ur": "مومنٹم"
+    },
+    {
+     "k": "D",
+     "en": "Energy",
+     "ur": "انرجی"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "The Logical Operation performed by this Gate is : [Inputs A, B into AND gate with NOT circle at output, output x]",
+   "q_ur": "اس گیٹ سے کون سا لاجک آپریشن حاصل ہوتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "AND",
+     "ur": "اینڈ"
+    },
+    {
+     "k": "B",
+     "en": "NAND",
+     "ur": "نینڈ"
+    },
+    {
+     "k": "C",
+     "en": "OR",
+     "ur": "آر"
+    },
+    {
+     "k": "D",
+     "en": "NOR",
+     "ur": "نار"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "The brightness of the Spot on CRO Flourescent Screen is controlled by :",
+   "q_ur": "CRO میں فلوریسینٹ سکرین کی چمک کو کنٹرول کرتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Anode",
+     "ur": "اینوڈ"
+    },
+    {
+     "k": "B",
+     "en": "Negative Potential of Grid",
+     "ur": "گرڈ کا منفی پوٹینشل"
+    },
+    {
+     "k": "C",
+     "en": "Plates",
+     "ur": "پلیٹس"
+    },
+    {
+     "k": "D",
+     "en": "Cathode",
+     "ur": "کیتھوڈ"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Which of these is not a Web Browser :",
+   "q_ur": "ان میں سے کون سا ویب براؤزر نہیں ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Chrome",
+     "ur": "کروم"
+    },
+    {
+     "k": "B",
+     "en": "You Tube",
+     "ur": "یوٹیوب"
+    },
+    {
+     "k": "C",
+     "en": "Mozilla Fire Fox",
+     "ur": "موزیلا فائر فاکس"
+    },
+    {
+     "k": "D",
+     "en": "Safari",
+     "ur": "سفاری"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "In Beta Decay, Nuclean Number changes by :",
+   "q_ur": "بیٹا ڈی کے کے دوران نیوکلیان نمبر میں تبدیلی ہوتی ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Decreases by 4",
+     "ur": "4 کم ہو جاتا ہے"
+    },
+    {
+     "k": "B",
+     "en": "Increases by 4",
+     "ur": "4 بڑھ جاتا ہے"
+    },
+    {
+     "k": "C",
+     "en": "Remains Unchanged",
+     "ur": "تبدیل نہیں ہوتا"
+    },
+    {
+     "k": "D",
+     "en": "Decreases by 2",
+     "ur": "2 کم ہو جاتا ہے"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "The Half Life of Radium - 226 is :",
+   "q_ur": "ریڈیم - 226 کی ہاف لائف ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "1620 (Years)",
+     "ur": "سال"
+    },
+    {
+     "k": "B",
+     "en": "1630 (Years)",
+     "ur": "سال"
+    },
+    {
+     "k": "C",
+     "en": "1640 (Years)",
+     "ur": "سال"
+    },
+    {
+     "k": "D",
+     "en": "1650 (Years)",
+     "ur": "سال"
+    }
+   ]
+  }
+ ]
+}

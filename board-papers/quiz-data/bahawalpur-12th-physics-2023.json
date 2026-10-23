@@ -1,0 +1,962 @@
+{
+ "board": "BISE Bahawalpur",
+ "board_slug": "bahawalpur",
+ "class": "12th",
+ "subject": "Physics",
+ "year": 2023,
+ "slug": "bahawalpur-12th-physics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group Ist",
+   "q_en": "Half Life of Uranium - 239 is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "26.5 Minutes",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "23.5 Minutes",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "24.5 Minutes",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "25.5 Minutes",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group Ist",
+   "q_en": "The Number of Neutrons in 238/92 U is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "92",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "238",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "146",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "330",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group Ist",
+   "q_en": "For Paschen Series, the value of 'n' starts from :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group Ist",
+   "q_en": "1 Kg Mass will be equivalent to energy :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "9 x 10^8 J",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "9 x 10^16 J",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "9 x 10^12 J",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9 x 10^19 J",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group Ist",
+   "q_en": "Mathematical Treatment for Electromagnetic Waves was given by :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Faraday",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Maxwell",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Hertz",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Coulom",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group Ist",
+   "q_en": "In forward biasing a p-n junction ideal, offers :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "High Resistance",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Infinite Resistance",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Low Resistance",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Medium Resistance",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group Ist",
+   "q_en": "Which One is not a Donor Impurity here :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Antimony",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Phosphorus",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Aluminium",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Arsenic",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group Ist",
+   "q_en": "Which One is not Crystalline Solid :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zinc",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Copper",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Nylon",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zirconia",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group Ist",
+   "q_en": "The graph between time and A.C. Voltage is known as :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Parabola",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Tangent Curve",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Sine Curve",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Straight Line",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group Ist",
+   "q_en": "The Peak Value of A.C. Source is 20 A, then its rms value will be :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "20 A",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10 A",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "14.1 A",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "28.2 A",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group Ist",
+   "q_en": "Inductance is measured in :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ohm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Volts",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Henry",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Weber",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group Ist",
+   "q_en": "The Mutual Inductance of Coils depends on :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Stiffness",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Density",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Nature of Material",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Geometry",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group Ist",
+   "q_en": "The relation between Tesla and smaller unit Gauss of Magnetic Induction is given by :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1T = 10^3 G",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1T = 10^6 G",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1T = 10^2 G",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1T = 10^4 G",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group Ist",
+   "q_en": "The most suitable material for making magnet is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Soft Iron",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Copper",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Gold",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Silver",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group Ist",
+   "q_en": "One Coulom per second is equal to :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "One Volt",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "One Ampere",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "One Watt",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "One Ohm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group Ist",
+   "q_en": "If the distance between two point charges is halved, the Electric Intensity becomes :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Half",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/4 Times",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4 Times",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Double",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group Ist",
+   "q_en": "Relative Permitivity for air is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.06",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.006",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.0006",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group 2nd",
+   "q_en": "The substance having negative temperature co-efficient is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Carbon",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Gold",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Iron",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Tungsten",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group 2nd",
+   "q_en": "Electric Intensity due to the oppositely charged parallel plate is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/epsilon0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "sigma/2epsilon0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "sigma/epsilon0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group 2nd",
+   "q_en": "The Negative of Potential Gradient is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electric Field Intensity",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Electromotive Force",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Electrostatic Force",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Potential Difference",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group 2nd",
+   "q_en": "Current Passing through the coil of Galvanometer is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "c/(BAN) theta",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NAB/c theta",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "AN/BC theta",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CN/BA theta",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group 2nd",
+   "q_en": "The current flowing through the coil due to induced emf depends upon :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Magnetic Flux",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Area of Coil",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Shape of Coil",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Resistance of Coil",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group 2nd",
+   "q_en": "If we want to make Magnetic Field stronger the value of induced current is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Decreased",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Vanish",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Increased",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Constant",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group 2nd",
+   "q_en": "An Ammeter is always connected in :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Parallel",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Perpendicular",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Series",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Oblique",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group 2nd",
+   "q_en": "The device which only allows the A.C. is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Capacitor",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Inductor",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Generator",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Transformer",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group 2nd",
+   "q_en": "The Output Voltage of a Rectifier is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Perfectly Direct",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Smooth",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Pulsating",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Alternating",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group 2nd",
+   "q_en": "The Potential Barrier in Diode stops movement of :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electron",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Holes",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Photon",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Both A and B",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group 2nd",
+   "q_en": "Which of the following does not go Plastic Deformation :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Copper",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Wrought Iron",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Head",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Glass",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group 2nd",
+   "q_en": "Which One is Low Energy Photon :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "X-Ray",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Infrared Light",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Visible Light",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ultraviolet Light",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group 2nd",
+   "q_en": "Nuclear Fission Chain Reaction is controlled by :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Steel Rod",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Graphite Rod",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cadmium Rod",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Platinum Rod",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group 2nd",
+   "q_en": "A.C Through Resistor, Voltage and Current have the phase :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Out of Phase",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Perpendicular",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "In Phase",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Antiparallel",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group 2nd",
+   "q_en": "The Unit of Work Function is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Watt",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "eV",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Farad",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Photocell",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group 2nd",
+   "q_en": "A pair of Quark and Anti Quark makes :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Baryons",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Meson",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Photon",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Proton",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group 2nd",
+   "q_en": "Balmer Series lies in the :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ultraviolet Region",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Visible Region",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Far Infrared Region",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Infrared Region",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

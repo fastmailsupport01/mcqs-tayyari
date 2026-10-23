@@ -1,0 +1,962 @@
+{
+ "board": "BISE Bahawalpur",
+ "board_slug": "bahawalpur",
+ "class": "11th",
+ "subject": "Chemistry",
+ "year": 2022,
+ "slug": "bahawalpur-11th-chemistry-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group Ist",
+   "q_en": "The mass of one mole of electron is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.008 mg",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.55 mg",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.184 mg",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.67 mg",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group Ist",
+   "q_en": "Solvent Extraction is an equilibrium process and it is controlled by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Law of Mass Action",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Amount of Solvent used",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Distribution Law",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "The amount of Solute",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group Ist",
+   "q_en": "During the process of Crystallization, the hot saturated solution:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Is Cooled very slowly to get large sized crystals",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Is Cooled at a moderate rate to get medium sized crystals",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Is Evaporated to get the crystals of the product",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Is mixed with an immiscible liquid to get the pure crystals of product.",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group Ist",
+   "q_en": "The number of moles of CO2 which contains 8.0 g of Oxygen:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.25",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.50",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.50",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group Ist",
+   "q_en": "Which of the following will have the same number of Molecules:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "280 cm^3 of CO2 and 280 cm^3 of N2O",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "11.2 dm^3 of CO2 and 32 g of O2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "44 g of CO2 and 11.2 dm^3 of CO",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "28 g of N2 and 5.6 dm^3 of Oxygen",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group Ist",
+   "q_en": "When water freezes at 0 C, its density decreases due to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cubic Structure of Ice",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Empty Spaces present in the structure of Ice",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Change of Bond Length",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Change of Bond Angles",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group Ist",
+   "q_en": "The molecule of CO2 in Dry Ice form the:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ionic Crystals",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Covalent Crystals",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Molecular Crystals",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group Ist",
+   "q_en": "Equal Masses of Methane and Oxygen are mixed in an empty container at 25 C. The fraction of total pressure exerted by Oxygen is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8/9",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/9",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "16/17",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group Ist",
+   "q_en": "The nature of the positive rays depends on:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "The nature of the electrode",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "The nature of the discharge tube",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "The nature of the residual gas",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group Ist",
+   "q_en": "The Paramagnetic Property of O2 is well explained on the basis of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "VSEPR",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "VBT (Valence Bond Theory)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "MOT (Molecular Orbital Theory)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group Ist",
+   "q_en": "The number of Bonds in Nitrogen Molecule is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "One sigma and one pi",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "One sigma and two pi",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Three Sigma Only",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Two sigma and one pi",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group Ist",
+   "q_en": "The wave number of the light emitted by a source is 2 x 10^6 m^-1. The Wavelength of this light will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "500 nm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "500 m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "200 nm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5 x 10^7 m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group Ist",
+   "q_en": "Calorie is equivalent to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.4184 J",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "41.84 J",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4.184 J",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "418.4 J",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group Ist",
+   "q_en": "The Cathodic Reaction in the Electrolysis of dil. H2SO4 with Pt Electrode is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Reduction",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Oxidation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Both Oxidation and Reduction",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group Ist",
+   "q_en": "The molal boiling point constant is the ratio of the elevation in boiling point to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Molarity",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Molality",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mole Fraction of Solvent",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mole Fraction of Solute",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group Ist",
+   "q_en": "The pH of 10^-3 mol dm^-3 of an aqueous solution of H2SO4 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3.0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2.7",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2.0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group Ist",
+   "q_en": "The rate of Reaction:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Increase as reaction proceed",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Decrease as reaction proceed",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Remain the same as the reaction proceed",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group 2nd",
+   "q_en": "The bond order for He2 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group 2nd",
+   "q_en": "Orbitals having same energy are called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hybrid Orbitals",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Valence Orbitals",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Degenerate Orbitals",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "d-Orbitals",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group 2nd",
+   "q_en": "At Murree Hills, water boils at:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "98 C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "100 C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0 C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "50 C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group 2nd",
+   "q_en": "Number of Molecules in one dm^3 of water is close to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "6.02/22.4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "12.04/22.4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "18/22.4 x 10^23",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "55.6 x 6.02 x 10^23",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group 2nd",
+   "q_en": "Drying Agent used in Desiccator is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "NH4Cl",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "AgCl",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NaCl",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CaCl2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group 2nd",
+   "q_en": "The largest number of Molecules are present in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3.6 g of H2O",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4.8 g of C2H5OH",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2.8 g of CO",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5.4 g of N2O5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group 2nd",
+   "q_en": "The rate of Reaction:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Increases as the reaction proceeds",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Remain the same as the reaction proceeds",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Decreases as the reaction proceeds",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "May decrease or increase as the reaction proceeds",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group 2nd",
+   "q_en": "Stronger the Oxidizing Agent, greater is the:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Oxidation Potential",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Reduction Potential",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Redox Potential",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "EMF of Cell",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group 2nd",
+   "q_en": "The Molal Boiling Point Constant is the ratio of the Elevation in Boiling Point to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Molarity",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Molality",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mole Fraction of Solvent",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mole Fraction of Solute",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group 2nd",
+   "q_en": "The pH of 10^-3 mol dm^-3 of an aqueous solution of H2SO4 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3.0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2.7",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2.0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group 2nd",
+   "q_en": "Calorie is equivalent to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.4184 J",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "41.84 J",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4.184 J",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "418.4 J",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group 2nd",
+   "q_en": "Which of the Hydrogen Halides has the highest percentage of Ionic Character:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "HCl",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "HBr",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "HF",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "HI",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group 2nd",
+   "q_en": "Quantum Number Values for 2p Orbitals are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "n = 2, l = 1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "n = 1, l = 2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "n = 1, l = 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "n = 2, l = 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group 2nd",
+   "q_en": "Which of the given is a Pseudo Solid:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CaF2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Glass",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NaCl",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group 2nd",
+   "q_en": "The molar volume of CO2 is maximum at:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "STP",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "127 C and 1 atm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0 C and 2 atm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "273 C and 2 atm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group 2nd",
+   "q_en": "Solvent Extraction is an equilibrium process and is controlled by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Law of Mass Action",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "The Amount of Solvent used",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Distribution Law",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "The amount of Solute",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group 2nd",
+   "q_en": "The mass of one mole of electrons is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.008 mg",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.55 mg",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.184 mg",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.673 mg",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

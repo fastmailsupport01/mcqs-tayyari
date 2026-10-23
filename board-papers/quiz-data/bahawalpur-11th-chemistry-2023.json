@@ -1,0 +1,962 @@
+{
+ "board": "BISE Bahawalpur",
+ "board_slug": "bahawalpur",
+ "class": "11th",
+ "subject": "Chemistry",
+ "year": 2023,
+ "slug": "bahawalpur-11th-chemistry-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group Ist",
+   "q_en": "Phenomenon of Isotopy was first discovered by :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Millikan",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "J. Perin",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Soddy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "J.J Thomson",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group Ist",
+   "q_en": "The largest number of Molecules are present in ;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4.8 g of C2H5OH",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3.6 g of H2O",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2.8 g of CO",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5.4 g of N2O5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group Ist",
+   "q_en": "A Filtration Process could be very time consuming if it were not aided by a gentle suction which is developed :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "If the paper covers upto its circumference of funnel",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "If the Paper has got small sized pores in it",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "If Stem of the funnel is so large that it dips into the filtrate",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "If the paper fits tightly",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group Ist",
+   "q_en": "Temperature and quantity of a gas remains constant in :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Charles's Law",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Avogadro's Law",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Boyle's Law",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Dalton's Law",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group Ist",
+   "q_en": "S.I. Unit of Pressure is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Torr",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "mm of Hg",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Pound inch^-2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nm^-2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group Ist",
+   "q_en": "Acetone and Chloroform are soluble in each other due to :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Instantaneous Dipole",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ion Dipole Interaction",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Intermolecular Hydrogen Bonding",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "London Dispersion Forces",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group Ist",
+   "q_en": "In Order to raise the boiling point of water upto 110 deg C, the external pressure should be :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Between 760 Torr and 200 Torr",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Between 760 Torr and 1200 Torr",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "765 Torr",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Any Value of Pressure",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group Ist",
+   "q_en": "The nature of the positive rays depend on :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nature of Anode",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Nature of Cathode",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Nature of the Residual Gas",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nature of Discharge Tube",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group Ist",
+   "q_en": "Which of the given do not obey Octet Rule :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CH4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NH3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "BCl3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "H2O",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group Ist",
+   "q_en": "For the reaction NaOH + HCl -> NaCl + H2O the change in Enthalpy called :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Heat of Reaction",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Heat of Neutralization",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Heat of Combustion",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Heat of Formation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group Ist",
+   "q_en": "The term which is not a State Function :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Volume",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Enthalpy",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Work",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Internal Energy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group Ist",
+   "q_en": "The reaction for synthesis of NH3, the value of delta n is : N2 + 3H2 <=> 2NH3",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "+2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "+1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "+4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group Ist",
+   "q_en": "An excess of Aqueous Silver Nitrate is added to aqueous Barium Chloride and precipitate is removed by filtration. What are main irons in Filtrate :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ag+ and NO3-",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ag+, Ba2+ and NO3-",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ba2+ and NO3-",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ba2+, NO3- and Cl-",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group Ist",
+   "q_en": "A solution of 10 % w/v of Glucose, the volume in which its 1 gram mole is dissolved will be :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 dm3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.8 dm3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "200 cm3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "900 cm3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group Ist",
+   "q_en": "The Oxidation Number of Sulphur in SO4^2- is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group Ist",
+   "q_en": "If Salt Bridge is not used between two Half Cells then Voltage :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Decrease Rapidly",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Decrease Slowly",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Drops to Zero",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Does not change",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group Ist",
+   "q_en": "With Increase of 10 deg Celsius temperature rate of reaction double, this increase of rate is due to :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Decrease in Activation Energy",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Decrease in the Number of Collision between Reactants Molecules",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Increase in the number of effective collisions",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Increase in Energy of Activation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group 2nd",
+   "q_en": "The largest number of Molecules are present in",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3.6 g of H2O",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4.8 g of C2H5OH",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2.8 g of CO",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5.4 g of N2O5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group 2nd",
+   "q_en": "Isotopes differ in :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Properties which depends upon mass",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Arrangement of Electrons in Orbitals",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Chemical Properties",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "The extent to which they may be affected in electromagnetic field",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group 2nd",
+   "q_en": "The colour of iodine in CCl4 solution is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Brown",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Purple",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Grey",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Black",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group 2nd",
+   "q_en": "The deviation of Gas from Ideal Behaviour is maximum at :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-10 deg C and 5.0 atm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-10 deg C and 2.0 atm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "100 deg C and 2.0 atm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0 deg C and 2.0 atm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group 2nd",
+   "q_en": "Graph between Pressure and Volume at constant temperature is called :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Isobar",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Isochor",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Isotherm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Spectrograph",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group 2nd",
+   "q_en": "Diamond is bad conductor because :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "It has tight structure",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "It has high density",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Is Transparent to Light",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "There are no free electrons present in crystal of diamond to conduct electricity",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group 2nd",
+   "q_en": "Which of the following Solid is an example of Covalent Solid with layered structure :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Diamond",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Silicon Carbide",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Aluminium Nitride",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Graphite",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group 2nd",
+   "q_en": "Quantum Number value for 2p Orbital is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "n = 2, l = 1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "n = 1, l = 2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "n = 1, l = 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "n = 2, l = 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group 2nd",
+   "q_en": "Which of following Hydrogen Halide has highest percentage of Ionic Character :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "HCl",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "HBr",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "HF",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "HI",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group 2nd",
+   "q_en": "For a given process, heat changes at constant pressure (qp) and heat changes at constant volume (qv) are related to each other :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "qp = qv",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "qp > qv",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "qp < qv",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "qp = qv/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group 2nd",
+   "q_en": "Which of the given is not a State function :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Heat",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Volume",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Pressure",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Enthalpy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group 2nd",
+   "q_en": "For an Exothermic Reversible reaction, Increase in temperature will favour which :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Forward Direction",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Reverse Direction",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Equilibrium will not disturbed",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Initially in forward direction, then in reverse direction",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group 2nd",
+   "q_en": "An excess of AgNO3 is added to Aqueous Barium Chloride and precipitate is removed by filtration. What are the main ions in Filtrate :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ag+ and NO3- only",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ag+ and Ba2+ and NO3-",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ba2+ and NO3- only",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ba2+ and NO3- and Cl-",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group 2nd",
+   "q_en": "A solution of glucose is 10 % w/v, the volume in which 1 g mole of it is dissolved will be :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 dm3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.8 dm3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "200 cm3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "900 cm3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group 2nd",
+   "q_en": "If a Salt Bridge is not used between two Half Cells then Voltage :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Decreases Rapidly",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Decreases Slowly",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Does not change",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Drops to Zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group 2nd",
+   "q_en": "Which of the following product is obtained at Cathode during electrolysis of aqueous solution of Sodium Chloride :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Na",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cl2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "H2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "O2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group 2nd",
+   "q_en": "With the Increase of 10 deg C temperature, the rate of reaction doubles. This increase in rate of reaction is due to :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Decrease in Activation Energy of reaction",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Decrease in the Number of Effective Collisions between Reactant Molecules",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Increase in activation energy of reactants",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Increase in number of effective collisions",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

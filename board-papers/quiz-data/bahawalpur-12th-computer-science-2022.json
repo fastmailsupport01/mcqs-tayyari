@@ -1,0 +1,682 @@
+{
+ "board": "BISE Bahawalpur",
+ "board_slug": "bahawalpur",
+ "class": "12th",
+ "subject": "Computer Science",
+ "year": 2022,
+ "slug": "bahawalpur-12th-computer-science-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "In a Relational Database, a single piece of information is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Record",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Row",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Field",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Entity",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Which of the following object is used to retrieve data from database and present in a formatted way:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Report",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Form",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Table",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Query",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Two Different names are used for same information is known as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mutually Exclusive",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Redundant",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Synonyms",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Homonyms",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "In an ER diagram, a Rectangle represents:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Entity",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Optional One",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Relationship",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Attribute",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "A Table must have:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Composite Key",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Primary Key",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Secondary Key",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Sort Key",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Storing and Retrieval of Data is related to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Data Capturing",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Data Manipulation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Data Sorting",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Managing the Output Results",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The fopen() function uses:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "01 Parameter",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "02 Parameters",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "03 Parameters",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "04 Parameters",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The process of sending an argument to a function is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Filtering",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Delivering",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Throwing",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Passing",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "How many types of Loop Structure are available in C-Language:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "9",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "12",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "In C-Language, (p >= q) is equivalent to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "p < q",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "!(p < q)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "p == q",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "p != q",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The general form of Format Specifier for Floating Point Value is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "%m.nf",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "m.n%f",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "m%n.f",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "m%nf",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Single Line Comments start with:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "#",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "*/",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "/*",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "//",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "In C-Language, the symbol \"=\" represents:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Assignment",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Address",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Comparison",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Decision",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "The Semi Colon is used in C-Program to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Terminate a C Statement",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Compile a C-Statement",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Start a C-Statement",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Execute a C-Statement",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "C-Language is a:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Low Level Language",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Assembly Language",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "High Level Language",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Machine Language",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Which Form Property will put text in the title bar of the Form:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Title",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Caption",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Border Text",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Header",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The naming prefix for a label control is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "lab",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "lbe",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "bel",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "lbl",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The keyword that marks the end of For---Next structure is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Next",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Do",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Until",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "End",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "In if statement, false is represented by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The Rectangle Symbol in a Flowchart indicates:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Process",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Condition",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Input",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Output",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Visual Basic is a product of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sun System",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "IBM",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Hewlett",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Microsoft",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "In V.B., Textbox is a:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Control",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Project",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Label",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Form",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "Which one is not a High Level Language:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Machine",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Java",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cobol",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "C++",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Which shortcut key is used to save a Form:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ctrl+O",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ctrl+F5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ctrl+S",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ctrl+F2",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

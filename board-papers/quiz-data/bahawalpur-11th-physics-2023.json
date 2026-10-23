@@ -1,0 +1,962 @@
+{
+ "board": "BISE Bahawalpur",
+ "board_slug": "bahawalpur",
+ "class": "11th",
+ "subject": "Physics",
+ "year": 2023,
+ "slug": "bahawalpur-11th-physics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group Ist",
+   "q_en": "Physical Quantities are divided into --------- Categories :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "= 1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "= 2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "= 3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "= 4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group Ist",
+   "q_en": "Dimension of Force is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ML^-2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "MLT^-2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ML^-1 T",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "MLT^2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group Ist",
+   "q_en": "A + (-A) = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2A",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "- 1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group Ist",
+   "q_en": "i^.i^ = j^.j^ = k^.k^ = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "- 1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group Ist",
+   "q_en": "Acceleration \"a\" of the Rocket is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mv/m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "mv/m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "mv/M",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mm/v",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group Ist",
+   "q_en": "Height of Projectile is h = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Vi Sin^2 theta / 2g",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Vi2 Sin theta / g",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Vi Sin theta / g",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Vi2 Sin^2 theta / 2g",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group Ist",
+   "q_en": "No work is done when theta = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0 deg",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "180 deg",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "90 deg",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "360 deg",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group Ist",
+   "q_en": "1 rad = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2pi/360 deg",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "360 deg/2pi",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2pi/3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "57 deg pi",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group Ist",
+   "q_en": "When the lift is moving upward with an Acceleration \"a\" then tension in string is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "w + ma",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "w + ma^2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ma - w",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "w - ma",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group Ist",
+   "q_en": "The Mass of Droplet is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "rho/v",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "v/rho",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "rho V",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2 rho V",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group Ist",
+   "q_en": "Time Period of Pendulum is T = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2pi sqrt(l/g)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2pi sqrt(m/g)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2pi sqrt(g/rho)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2g sqrt(pi/rho)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group Ist",
+   "q_en": "Laplace Expression for the speed of sound in Gas is v = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "sqrt(v gamma / p)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "sqrt(gamma P / rho)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "rho sqrt(gamma / p)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "gamma sqrt(rho / p)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group Ist",
+   "q_en": "In the Fundamental Note, the distance between Anode and Antinode is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "l = lambda1/4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "l = 4 lambda1/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "l = lambda1/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "l = 2 lambda",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group Ist",
+   "q_en": "The distance between two adjacent dark fringes can be proved to be : :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "lambda L / d",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "lambda d / L",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "L d / lambda",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "lambda L / d",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group Ist",
+   "q_en": "Angular Magnification is defined as M = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "alpha / beta",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "beta / alpha",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "alpha beta",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "alpha^2 beta^2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group Ist",
+   "q_en": "In Charles's Law, the constant is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Pressure",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Temperature",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Volume",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Density",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group Ist",
+   "q_en": "Entropy of the Universe is always :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Remain Constant",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Increases",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Decreases",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Always Zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group 2nd",
+   "q_en": "The percentage uncertainty in radius of a circle is 3 %. The total percentage uncertainty in the area of a circle is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4 %",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3 %",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6 %",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9 %",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group 2nd",
+   "q_en": "If A vector x B vector points along negative z-axis, the vector A vector and B vector must lie in :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "y-z Plane",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "y-x Plane",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x-y Plane",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "z-x Plane",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group 2nd",
+   "q_en": "A Force of 10 N makes an angle of 60 deg with y-axis, its y-component is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5 sqrt(3) N",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8.66 N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10 N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5 N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group 2nd",
+   "q_en": "The Dimensions of 1/2 rho v^2 are :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[ML^-1 T^-2]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[M^0 L^2 T^-2]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[ML^-3]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[ML^2 T^-2]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group 2nd",
+   "q_en": "Inertia may expressed in S.I. :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Kg",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Newton",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Watt",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Joule",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group 2nd",
+   "q_en": "The escape Velocity of a 30 Kg object from the Earth's Surface is about :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "22 Kms^-1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "11 Kms^-1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "330 Kms^-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "30 Kms^-1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group 2nd",
+   "q_en": "In the absence of External Force, the impulse of a body is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Constant",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Maximum",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Minimum",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group 2nd",
+   "q_en": "Which theory is better about Gravitation :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Newton",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Plank's",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Huygen's",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Einstein's",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group 2nd",
+   "q_en": "Angular Displacement covered by Earth around the sun in one year is about :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "pi Radian",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "pi/2 Radian",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "pi/4 Radian",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2pi Radian",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group 2nd",
+   "q_en": "According to Laplace Equation the speed of Sound in Polyatomic Gas at S.T.P is about :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "362 ms^-1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "318 ms^-1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "333 ms^-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "340 ms^-1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group 2nd",
+   "q_en": "A Swing is a good example of :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mechanical Resonance",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Chemical Resonance",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Electrical Resonance",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Doppler Effect",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group 2nd",
+   "q_en": "The terminal velocity of fog droplet in air is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Large",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Very Small",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Medium",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group 2nd",
+   "q_en": "In Michelson's Interferometer one fringe is count when mirror M1 is displaced by :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "lambda",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "lambda/4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "lambda/8",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "lambda/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group 2nd",
+   "q_en": "In Thermodynamics, Internal Energy of a Gas Molecules is independent of :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Initial State",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Final State",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Path Followed",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group 2nd",
+   "q_en": "The sound of Frequency lower than 20 Hz is called :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Infra Sonic",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Super Sonic",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Sonic",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ultra Sonic",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group 2nd",
+   "q_en": "The resolving power of a compound Microscope increases when we use :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "White Light",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Red Light",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Blue Light",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Yellow Light",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group 2nd",
+   "q_en": "The efficiency of a Carnot Engine when the temperature of the Sink is 0 K :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "100 %",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "80 %",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Highest Efficiency",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "50 %",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

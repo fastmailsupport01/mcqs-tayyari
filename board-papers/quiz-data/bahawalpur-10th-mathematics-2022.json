@@ -1,0 +1,850 @@
+{
+ "board": "BISE Bahawalpur",
+ "board_slug": "bahawalpur",
+ "class": "10th",
+ "subject": "Mathematics",
+ "year": 2022,
+ "slug": "bahawalpur-10th-mathematics-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The Solution Set of Equation 4x² - 16 = 0 is:",
+   "q_ur": "مساوات 4x²-16=0 کا حل سیٹ ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "{±4}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{4}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{±2}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "±2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "If α, β are the roots of the equation 3x² + 5x - 2 = 0, then α + β is:",
+   "q_ur": "اگر α، β مساوات 3x²+5x-2=0 کے روٹس ہوں تو α+β برابر ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "-2/3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3/5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-5/3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "If b² - 4ac < 0, then roots of equation ax² + bx + c = 0 are:",
+   "q_ur": "اگر b²-4ac<0 تو مساوات ax²+bx+c=0 کے روٹس ہوتے ہیں :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Irrational",
+     "ur": "غیر ناطق"
+    },
+    {
+     "k": "B",
+     "en": "Rational",
+     "ur": "ناطق"
+    },
+    {
+     "k": "C",
+     "en": "Imaginary",
+     "ur": "مخیلقی"
+    },
+    {
+     "k": "D",
+     "en": "Real",
+     "ur": "حقیقی"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "If U ∝ V², then:",
+   "q_ur": "اگر U ∝ V² تو :",
+   "options": [
+    {
+     "k": "A",
+     "en": "U = KV²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "U ∝ [illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "UV² = K",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "UV² = 1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "In a ratio a : b 'a' is called:",
+   "q_ur": "نسبت a:b میں 'a' کہلاتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Relation",
+     "ur": "تعلق"
+    },
+    {
+     "k": "B",
+     "en": "Antecedent",
+     "ur": "پہلی نسبت"
+    },
+    {
+     "k": "C",
+     "en": "Consequent",
+     "ur": "دوسری نسبت"
+    },
+    {
+     "k": "D",
+     "en": "Proportion",
+     "ur": "تناسب"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Partial Fractions of (x + 2) / ((x + 1)(x² + 2)) are of the form:",
+   "q_ur": "[illegible in source scan]",
+   "options": [
+    {
+     "k": "A",
+     "en": "A/(x + 1) + B/(x² + 2)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A/(x + 1) + Bx/(x² + 2)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(Ax + B)/(x + 1) + C/(x² + 2)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A/(x + 1) + (Bx + C)/(x² + 2)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "If A ⊆ B then A ∪ B is equal to:",
+   "q_ur": "اگر A ⊆ B تو A ∪ B برابر ہوتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "B",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "φ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{φ}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "A Collection of Well Defined Objects is called:",
+   "q_ur": "واضح اشیاء کا مجموعہ کہلاتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Subset",
+     "ur": "تحتی سیٹ"
+    },
+    {
+     "k": "B",
+     "en": "Power Set",
+     "ur": "پاور سیٹ"
+    },
+    {
+     "k": "C",
+     "en": "Null Set",
+     "ur": "خالی سیٹ"
+    },
+    {
+     "k": "D",
+     "en": "Set",
+     "ur": "سیٹ"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "A Grouped Frequency Table is called:",
+   "q_ur": "گروہی تعددی جدول کہلاتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Data",
+     "ur": "مواد"
+    },
+    {
+     "k": "B",
+     "en": "Frequency Distribution",
+     "ur": "تعددی تقسیم"
+    },
+    {
+     "k": "C",
+     "en": "Frequency Polygon",
+     "ur": "تعددی اضلاع"
+    },
+    {
+     "k": "D",
+     "en": "Histogram",
+     "ur": "کالمی نقشہ"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The spread or scatterness of observations in data set is called:",
+   "q_ur": "[illegible in source scan]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Average",
+     "ur": "اوسط"
+    },
+    {
+     "k": "B",
+     "en": "Dispersion",
+     "ur": "انتشار"
+    },
+    {
+     "k": "C",
+     "en": "Central Tendency",
+     "ur": "مرکزی رجحان"
+    },
+    {
+     "k": "D",
+     "en": "Mode",
+     "ur": "عادہ"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "SecΘCotΘ = ?",
+   "q_ur": "SecΘCotΘ = ?",
+   "options": [
+    {
+     "k": "A",
+     "en": "SinΘ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/CosΘ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/SinΘ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "SinΘ/CosΘ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The circular region bounded by two Radii and the corresponding arc is called:",
+   "q_ur": "دائرے کا وہ رقبہ جو دو رداسوں اور ان کے متعلقہ قوس سے گھرا ہو کہلاتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Circumference of Circle",
+     "ur": "دائرے کا محیط"
+    },
+    {
+     "k": "B",
+     "en": "Sector of a Circle",
+     "ur": "دائرے کا سیکٹر"
+    },
+    {
+     "k": "C",
+     "en": "Diameter of a Circle",
+     "ur": "دائرے کا قطر"
+    },
+    {
+     "k": "D",
+     "en": "Segment of a Circle",
+     "ur": "تقطع دائرہ"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "A Circle has only one --------:",
+   "q_ur": "ایک دائرے کا صرف ایک ہی ---- ہوتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Secant",
+     "ur": "قاطع"
+    },
+    {
+     "k": "B",
+     "en": "Chord",
+     "ur": "وتر"
+    },
+    {
+     "k": "C",
+     "en": "Diameter",
+     "ur": "قطر"
+    },
+    {
+     "k": "D",
+     "en": "Centre",
+     "ur": "مرکز"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "The Chord length of a Circle subtending a central angle of 180⁰ is always:",
+   "q_ur": "اگر دائرے کا وتر مرکزی زاویہ 180⁰ بنائے تو وتر کی لمبائی ---- ہوگی :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Less than Radial Segment",
+     "ur": "رداس سے کم"
+    },
+    {
+     "k": "B",
+     "en": "Equal to Radial Segment",
+     "ur": "رداس کے برابر"
+    },
+    {
+     "k": "C",
+     "en": "Double of the Radial Segment",
+     "ur": "رداس کا دگنا"
+    },
+    {
+     "k": "D",
+     "en": "Greater than Radial Segment",
+     "ur": "رداس سے بڑا"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Angle inscribed in a Semi Circle is:",
+   "q_ur": "نصف دائرے میں محصور زاویہ ہوتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "π/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π/6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Two Linear Factors of x² - 15x + 56 are:",
+   "q_ur": "x²-15x+56 کے دو لکیری جزوی ضربی ہیں :",
+   "options": [
+    {
+     "k": "A",
+     "en": "(x - 7), (x + 8)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(x + 7), (x - 8)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(x - 7), (x - 8)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(x + 7), (x + 8)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Sum of the Cube Roots of Unity is:",
+   "q_ur": "اکائی کے جذرالمکعب کا مجموعہ ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "If α, β are the roots of the equation x² - x - 1 = 0, then product of the roots 2α and 2β is:",
+   "q_ur": "اگر α، β مساوات x²-x-1=0 کے روٹس ہوں تو 2α اور 2β کا حاصل ضرب ہوتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "-2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "If u/v = v/w = k, then:",
+   "q_ur": "اگر u/v = v/w = k تو :",
+   "options": [
+    {
+     "k": "A",
+     "en": "u = wk²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "u = vk²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "u = w²k",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "u = v²k",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "If a : b = x : y, then Invertendo Property is:",
+   "q_ur": "اگر a:b = x:y تو انورسنٹو نسبت ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "a/x = b/y",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a/(a - b) = x/(x - y)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(a + b)/b = (x + y)/y",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "b/a = y/x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "(x³ + 1)/((x - 1)(x + 2)) is --------:",
+   "q_ur": "(x³+1)/((x-1)(x+2)) ایک ---- ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "A Proper Fraction",
+     "ur": "واجب کسر"
+    },
+    {
+     "k": "B",
+     "en": "An Improper Fraction",
+     "ur": "غیر واجب کسر"
+    },
+    {
+     "k": "C",
+     "en": "An Identity",
+     "ur": "کاثبت"
+    },
+    {
+     "k": "D",
+     "en": "A Constant Term",
+     "ur": "مستقل رقم"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "A Set with no element is called:",
+   "q_ur": "سیٹ جس میں کوئی رکن نہ ہو کہلاتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Subset",
+     "ur": "تحتی سیٹ"
+    },
+    {
+     "k": "B",
+     "en": "Empty Set",
+     "ur": "خالی سیٹ"
+    },
+    {
+     "k": "C",
+     "en": "Singleton Set",
+     "ur": "یکنیٹ"
+    },
+    {
+     "k": "D",
+     "en": "Super Set",
+     "ur": "سپر سیٹ"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "The Range of R = {(1,3),(2,2),(3,1),(4,4)} is:",
+   "q_ur": "اگر R = {(1,3),(2,2),(3,1),(4,4)} تو Range R ہوتی ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "{1,2,4}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{3,2,4}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{1,2,3,4}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{1,3,4}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "A Histogram is a set of Adjacent --------:",
+   "q_ur": "کالمی نقشہ مجموعہ ہے متصل ---- کا :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Squares",
+     "ur": "مربعوں کا"
+    },
+    {
+     "k": "B",
+     "en": "Rectangles",
+     "ur": "مستطیلوں کا"
+    },
+    {
+     "k": "C",
+     "en": "Circles",
+     "ur": "دائروں کا"
+    },
+    {
+     "k": "D",
+     "en": "None",
+     "ur": "کوئی نہیں"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "The observation that divide a Data Set into four equal parts is called:",
+   "q_ur": "ایسا پیمانہ جو مواد کو چار مساوی حصوں میں تقسیم کرے کہلاتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Deciles",
+     "ur": "عشری حصے"
+    },
+    {
+     "k": "B",
+     "en": "Quartiles",
+     "ur": "چہارمی حصے"
+    },
+    {
+     "k": "C",
+     "en": "Percentiles",
+     "ur": "فیصدی حصے"
+    },
+    {
+     "k": "D",
+     "en": "Median",
+     "ur": "وسطانیہ"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Sec²Θ = :",
+   "q_ur": "Sec²Θ = :",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 - Sin²Θ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1 + tan²Θ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1 + Cos²Θ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1 - tan²Θ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "The Distance of any point of the Circle to its Centre is called:",
+   "q_ur": "دائرے کے کسی نقطہ کا اس کے مرکز تک کا فاصلہ کہلاتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Radius",
+     "ur": "رداس"
+    },
+    {
+     "k": "B",
+     "en": "Diameter",
+     "ur": "قطر"
+    },
+    {
+     "k": "C",
+     "en": "A Chord",
+     "ur": "ایک وتر"
+    },
+    {
+     "k": "D",
+     "en": "An Arc",
+     "ur": "ایک قوس"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "Tangents drawn at the ends of Diameter of a Circle are ---- to each other:",
+   "q_ur": "دائرے کے قطر کے سروں پر کھینچے گئے مماس آپس میں ---- ہوتے ہیں :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Parallel",
+     "ur": "متوازی"
+    },
+    {
+     "k": "B",
+     "en": "Non-Parallel",
+     "ur": "غیر متوازی"
+    },
+    {
+     "k": "C",
+     "en": "Collinear",
+     "ur": "مربوط"
+    },
+    {
+     "k": "D",
+     "en": "Perpendicular",
+     "ur": "عمود"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "The Arcs opposite to incongruent central angles of a circle are always --------:",
+   "q_ur": "ایک دائرے میں دو غیرمتماثل مرکزی زاویوں کے سامنے والی قوسیں ---- ہوتی ہیں :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Congruent",
+     "ur": "متماثل"
+    },
+    {
+     "k": "B",
+     "en": "Incongruent",
+     "ur": "غیرمتماثل"
+    },
+    {
+     "k": "C",
+     "en": "Parallel",
+     "ur": "متوازی"
+    },
+    {
+     "k": "D",
+     "en": "Perpendicular",
+     "ur": "عمود"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "The portion of a circle between two Radii and An Arc is called:",
+   "q_ur": "دائرے کا حصہ جو ایک قوس اور دو رداسوں کے درمیان ہو کہلاتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sector",
+     "ur": "سیکٹر"
+    },
+    {
+     "k": "B",
+     "en": "Segment",
+     "ur": "قطعہ"
+    },
+    {
+     "k": "C",
+     "en": "Chord",
+     "ur": "وتر"
+    },
+    {
+     "k": "D",
+     "en": "Diameter",
+     "ur": "قطر"
+    }
+   ]
+  }
+ ]
+}

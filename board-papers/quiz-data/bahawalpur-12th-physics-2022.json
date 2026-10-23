@@ -1,0 +1,962 @@
+{
+ "board": "BISE Bahawalpur",
+ "board_slug": "bahawalpur",
+ "class": "12th",
+ "subject": "Physics",
+ "year": 2022,
+ "slug": "bahawalpur-12th-physics-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group Ist",
+   "q_en": "The heat produced by the passage of current through a resistor is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "I^2Rt",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "IR^2t",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "I^2R",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "IRt^2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group Ist",
+   "q_en": "A particle having a charge of 2e falls through a potential difference of 3.0 Volts. The change in its K.E. is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "6.0 eV",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5.0 eV",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4.0 eV",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8.0 eV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group Ist",
+   "q_en": "Photocopier and Inkjet Printers are the applications of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electricity",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Magnetism",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Electrostatics",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Electromagnetism",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group Ist",
+   "q_en": "A Voltmeter is always connected in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Series",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Parallel",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Place of Battery",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group Ist",
+   "q_en": "A device which converts Electrical Energy into Mechanical Energy is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Transformer",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "D.C. Motor",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A.C. Generator",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "D.C. Generator",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group Ist",
+   "q_en": "If Magnetic Field is doubled, then the Magnetic Energy density becomes:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Two Times",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Three Times",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Half Time",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Four Times",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group Ist",
+   "q_en": "In Cathode Ray Oscilloscope, grid controls:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Temperature of Filament",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Charge of Electrons",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Number of Electrons",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Energy of Electrons",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group Ist",
+   "q_en": "Root Mean Square Value of Alternating Voltage with V0 = 100 V, is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.7 V",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "7 V",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "700 V",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "70 V",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group Ist",
+   "q_en": "In case of Silicon, the value of Potential Barrier is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.6 V",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.7 V",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.1 V",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.3 V",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group Ist",
+   "q_en": "Example of a Ductile Material is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Glass",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Wood",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Lead",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Diamond",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group Ist",
+   "q_en": "In RLC Series Circuit, the condition for resonance is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "XL = XC",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "XL > XC",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "XL < XC",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "XL = XC + R",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group Ist",
+   "q_en": "In Full Wave Rectification, number of Diodes required are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group Ist",
+   "q_en": "Photons emitted in the inner Shell Transition are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Continuous X-rays",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Gamma Rays",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Characteristic X-rays",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Energetic X-rays",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group Ist",
+   "q_en": "Absorbed Dose is defined as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "M x E",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "M/E",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "E/M",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "E/C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group Ist",
+   "q_en": "0.1 Kg mass will be equivalent to the energy",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5 x 10^8 Joules",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6 x 10^19 Joules",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "9 x 10^15 Joules",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9 x 10^19 Joules",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group Ist",
+   "q_en": "Slow Neutrons can cause Fission in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Uranium-235",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Uranium-238",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Plutonium-239",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Thorium-234",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group Ist",
+   "q_en": "The Velocity at which relativistic length of a body reduces to half of its original length is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/2 C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "sqrt(3)/2 C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3/4 C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/sqrt(2) C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group 2nd",
+   "q_en": "The absolute potential at a point distant 20 cm from a charge of 2 microC is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "9 x 10^2 V",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "9 x 10^3 V",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "9 x 10^4 V",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9 x 10^5 V",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group 2nd",
+   "q_en": "v/m is unit of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Magnetic Field Intensity",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Electric Field Intensity",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Electric Force",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Gravitational Force",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group 2nd",
+   "q_en": "Three Resistors of Resistance 2 Ohm, 3 Ohm and 6 Ohm are connected in series. Their Equivalent Resistance is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10 Ohm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "11 Ohm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/10 Ohm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/11 Ohm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group 2nd",
+   "q_en": "Which of the following Apparatus is used to measure Current, Voltage and Resistance:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ammeter",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Voltmeter",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Avometer",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Galvanometer",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group 2nd",
+   "q_en": "To convert a Galvanometer into a Voltmeter, a high resistance connected in series with Galvanometer is given by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Rh = V/Rg - Ig",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "V/Rg + Ig = Rh",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Rh = V/Ig - Rg",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "V/Ig + Rg = Rh",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group 2nd",
+   "q_en": "The direction of the Induced Current is always so as to oppose the change which causes the current:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Faraday's Law",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Lenz's Law",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ohm's Law",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Kirchhoff's Ist Rule",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group 2nd",
+   "q_en": "In D.C. Generator, Split Rings act as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Capacitor",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Commutator",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Inductor",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Resistor",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group 2nd",
+   "q_en": "The basic circuit element in a D.C. Circuit which controlled the current and voltage is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Transformer",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Resistor",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Inductor",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Transistor",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group 2nd",
+   "q_en": "The device which allows only the flow of D.C. is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Generator",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Transformer",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Inductor",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Capacitor",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group 2nd",
+   "q_en": "A Semi Conductor will behave as an Insulator at temperature:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0 K",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0 C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10 K",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10 C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group 2nd",
+   "q_en": "Which Diode works at Reverse Biasing:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "LED",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Photo-Voltaic Cell",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Photodiode",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Silicon Diode",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group 2nd",
+   "q_en": "The Voltage Gain of an Amplifier having r_ie = 1 Ohm, beta = 100, Re = 20 Ohm is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1000",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2000",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "500",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5000",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group 2nd",
+   "q_en": "The Materialization of Energy take place in the process of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Photoelectric Effect",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Compton Effect",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Pair Production",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Annihilation of Matter",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group 2nd",
+   "q_en": "The factor h/moc has the unit of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Kilogram",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Second",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Meter",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Joule",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group 2nd",
+   "q_en": "The equation of Rydberg's Constant is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "RH = hc/mo",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "RH = Eo/hc",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "RH = Eo/lambda",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "RH = 1/hc",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group 2nd",
+   "q_en": "Binding Energy for deuteron nucleus is given by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2.8 MeV",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2.23 MeV",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2.28 MeV",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2.25 MeV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group 2nd",
+   "q_en": "Electrons are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hadrons",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Leptons",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Quarks",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Baryons",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

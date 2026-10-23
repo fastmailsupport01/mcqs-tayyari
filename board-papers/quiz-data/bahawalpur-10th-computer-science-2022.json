@@ -1,0 +1,570 @@
+{
+ "board": "BISE Bahawalpur",
+ "board_slug": "bahawalpur",
+ "class": "10th",
+ "subject": "Computer Science",
+ "year": 2022,
+ "slug": "bahawalpur-10th-computer-science-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "A function that does not return anything has Return Type:",
+   "q_ur": "جو فنکشن کچھ واپس نہ کرے اس کی ریٹرن ٹائپ ہوتی ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "int",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "float",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "void",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "char",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Scanf( ) function is:",
+   "q_ur": "Scanf( ) فنکشن ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "User Defined Function",
+     "ur": "یوزر ڈیفائنڈ فنکشن"
+    },
+    {
+     "k": "B",
+     "en": "Built in Function",
+     "ur": "بلٹ ان فنکشن"
+    },
+    {
+     "k": "C",
+     "en": "Arithmetic Function",
+     "ur": "حسابائی فنکشن"
+    },
+    {
+     "k": "D",
+     "en": "Custom Function",
+     "ur": "کسٹم فنکشن"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Functions could be Built - In or ---------:",
+   "q_ur": "فنکشنز بلٹ ان یا ----- ہو سکتے ہیں :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Admin Defined",
+     "ur": "ایڈمن ڈیفائنڈ"
+    },
+    {
+     "k": "B",
+     "en": "Server Defined",
+     "ur": "سرور ڈیفائنڈ"
+    },
+    {
+     "k": "C",
+     "en": "User Defined",
+     "ur": "یوزر ڈیفائنڈ"
+    },
+    {
+     "k": "D",
+     "en": "Client Defined",
+     "ur": "کلائنٹ ڈیفائنڈ"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "for ( a = 0 ; a < = 4 ; a + + ) { Print f ( \" Punjab \" ) ; } How many times \" Punjab \" will print by using the above statement:",
+   "q_ur": "اوپر دی گئی سٹیٹمنٹ کے ذریعے \"Punjab\" کتنی دفعہ پرنٹ ہوگا :",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Array is a --------- structure:",
+   "q_ur": "ارے ایک ---- سٹرکچر ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Loop",
+     "ur": "لوپ"
+    },
+    {
+     "k": "B",
+     "en": "Control",
+     "ur": "کنٹرول"
+    },
+    {
+     "k": "C",
+     "en": "Data",
+     "ur": "ڈیٹا"
+    },
+    {
+     "k": "D",
+     "en": "Conditional",
+     "ur": "کنڈیشنل"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "In \" If Statement \", what happens if Condition is False:",
+   "q_ur": "\"If Statement\" میں اگر کنڈیشن پوری نہ ہو تو کیا ہوتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Program Crashes",
+     "ur": "پروگرام رک جاتا ہے"
+    },
+    {
+     "k": "B",
+     "en": "Further Code Executes",
+     "ur": "باقی کوڈ چلنے لگتا ہے"
+    },
+    {
+     "k": "C",
+     "en": "Index Out of Bound Error",
+     "ur": "انڈیکس آؤٹ آف باؤنڈ ایرر آتا ہے"
+    },
+    {
+     "k": "D",
+     "en": "Compiler asks to change condition",
+     "ur": "کمپائلر کنڈیشن بدلنے کا مطالبہ کرتا ہے"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Which Programming Structure Executes Program Statements in order:",
+   "q_ur": "کونسا پروگرامنگ ڈھانچہ پروگرام سٹیٹمنٹس کو ترتیب سے چلاتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Relation",
+     "ur": "ریلیشن"
+    },
+    {
+     "k": "B",
+     "en": "Repetition",
+     "ur": "ریپیٹیشن"
+    },
+    {
+     "k": "C",
+     "en": "Decision",
+     "ur": "ڈیسیژن"
+    },
+    {
+     "k": "D",
+     "en": "Sequential",
+     "ur": "سیکوئنٹل"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Which of the following is a valid character in C - Language:",
+   "q_ur": "درج ذیل میں سے کونسا کریکٹر C - Language میں درست ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "'here'",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "\" a \"",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "'9'",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "\"there\"",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Which Operator is used to get the Remainder of an Integer after Division:",
+   "q_ur": "کونسا آپریٹر تقسیم کے بعد بقیہ عدد حاصل کرنے کے لئے استعمال ہوتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "%",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "++",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "\\",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "*",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "---------are the values that do not change during the Execution of Program:",
+   "q_ur": "------- وہ قیمتیں ہیں جو پروگرام کے چلتے ہوئے تبدیل نہیں ہوتیں :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Variables",
+     "ur": "متغیرات"
+    },
+    {
+     "k": "B",
+     "en": "Constants",
+     "ur": "کانسٹنٹس"
+    },
+    {
+     "k": "C",
+     "en": "Strings",
+     "ur": "سٹرنگز"
+    },
+    {
+     "k": "D",
+     "en": "Comments",
+     "ur": "کمنٹس"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "------ can be thought of as a Container to store Constants:",
+   "q_ur": "------- کو کانسٹینٹس محفوظ کرنے کے لئے ایک مرتبان سمجھا جا سکتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Box",
+     "ur": "باکس"
+    },
+    {
+     "k": "B",
+     "en": "Jar",
+     "ur": "جار"
+    },
+    {
+     "k": "C",
+     "en": "Variable",
+     "ur": "متغیر"
+    },
+    {
+     "k": "D",
+     "en": "Collection",
+     "ur": "مجموعہ"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Which Control Structure in C - Language executes the Statements in order:",
+   "q_ur": "C - Language میں کونسا کنٹرول سٹرکچر سٹیٹمنٹس کو ترتیب میں چلاتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sequential",
+     "ur": "سیکوئنٹل"
+    },
+    {
+     "k": "B",
+     "en": "Repetition",
+     "ur": "ریپیٹیشن"
+    },
+    {
+     "k": "C",
+     "en": "Selection",
+     "ur": "سلیکشن"
+    },
+    {
+     "k": "D",
+     "en": "Relation",
+     "ur": "ریلیشن"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "The Operator that Operates on three Operands is called:",
+   "q_ur": "ایسا آپریٹر جو تین آپرینڈز پر کام کرتا ہے کہلاتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Unary Operator",
+     "ur": "یونری آپریٹر"
+    },
+    {
+     "k": "B",
+     "en": "Binary Operator",
+     "ur": "بائنری آپریٹر"
+    },
+    {
+     "k": "C",
+     "en": "Ternary Operator",
+     "ur": "ٹرنری آپریٹر"
+    },
+    {
+     "k": "D",
+     "en": "Tetra Operator",
+     "ur": "ٹیٹرا آپریٹر"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Which of the following function is used to Display Output on the Screen:",
+   "q_ur": "درج ذیل میں سے کونسا فنکشن آؤٹ پٹ کو سکرین پر دکھانے کے لئے استعمال کیا جاتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Printf( )",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Scanf( )",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Show( )",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Display( )",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Which of the following is the condition to check 'a' is a factor of 'c':",
+   "q_ur": "ان میں سے کونسی کنڈیشن یہ بتاتی ہے کہ 'a' ، 'c' کا فیکٹر ہے یا نہیں :",
+   "options": [
+    {
+     "k": "A",
+     "en": "a % c == 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "c % a == 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a * c == 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a + c == 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "If there are four Return Statements in the function body, ------ of them will be executed:",
+   "q_ur": "اگر فنکشن باڈی میں چار ریٹرن سٹیٹمنٹس ہوں تو ان میں سے ----- چلے گی :",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "A function that does not return anything has Return Type:",
+   "q_ur": "جو فنکشن کچھ واپس نہ کرے اس کی ریٹرن ٹائپ ہوتی ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "int",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "float",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "void",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "char",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "------- part of For Loop is executed first:",
+   "q_ur": "For Loop کا ------- حصہ سب سے پہلے چلتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Initialization",
+     "ur": "انیشلائزیشن"
+    },
+    {
+     "k": "B",
+     "en": "Condition",
+     "ur": "شرط"
+    },
+    {
+     "k": "C",
+     "en": "Body",
+     "ur": "باڈی"
+    },
+    {
+     "k": "D",
+     "en": "Increment / Decrement",
+     "ur": "اضافہ / کمی"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Scanf( ) function is:",
+   "q_ur": "Scanf( ) فنکشن ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "User Defined Function",
+     "ur": "یوزر ڈیفائنڈ فنکشن"
+    },
+    {
+     "k": "B",
+     "en": "Built in Function",
+     "ur": "بلٹ ان فنکشن"
+    },
+    {
+     "k": "C",
+     "en": "Arithmetic Function",
+     "ur": "حسابائی فنکشن"
+    },
+    {
+     "k": "D",
+     "en": "Custom Function",
+     "ur": "کسٹم فنکشن"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "If the size of an array is 50, the range of Indexes will be ----:",
+   "q_ur": "اگر ارے کا سائز 50 ہے تو انڈیکسز کی رینج ----- ہوگی :",
+   "options": [
+    {
+     "k": "A",
+     "en": "0 to 50",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0 to 49",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1 to 49",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1 to 50",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

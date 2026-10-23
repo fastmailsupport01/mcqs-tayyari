@@ -1,0 +1,570 @@
+{
+ "board": "BISE Bahawalpur",
+ "board_slug": "bahawalpur",
+ "class": "12th",
+ "subject": "Mathematics",
+ "year": 2023,
+ "slug": "bahawalpur-12th-mathematics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "A function f : x -> y defined by f(x) = a is called :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Linear Function",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Constant Function",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Identity Function",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Implicit Function",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Lim(x->inf) (x + e)/(x - e) = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "infinity",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The derivative of (x^2 - 4)/(x + 2) is equal to :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "d/dx(e^x - e^-x) = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sinhx",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Coshx",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2 Sinhx",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2 Coshx",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "sqrt(1 - x^2) d/dx(Cos^-1 x + Sin^-1 x) =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/sqrt(1 - x^2)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "+2/sqrt(1 - x^2)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "If f(x) = Sinx then f'(pi/2) =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "infinity",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Integral dx/(x lnx) =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "lnx + C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/x + C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ln(lnx) + C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(lnx)^2/2 + C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Integral from -pi to pi of Sinx dx = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Integral e^-x(Cosx - Sinx) dx =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "e^-x Sinx + C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "e^-x Cosx + C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-e^-x Sinx + C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-e^-x Cosx + C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The solution of differential equation xdy + ydx = 0 :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "y = lnx + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "y = ln(cx)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "y = ce^x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "xy = a",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The equation of line x/(PSec alpha) + y/(PCosec alpha) = 1 is called :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Symmetric Form",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Intercept Form",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Normal Form",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Slope Intercept Form",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Slope of line with inclination 45 deg is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/sqrt(2)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/sqrt(3)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Equation of Horizontal Line through (a, b) is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x = a",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x = b",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "y = a",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "y = b",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "(0, 0) is not a solution of the inequality :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x - y < 1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2x + y < 1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-2x + y + 1 > 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-2x + y < -1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Length of Tangent from (1, 1) to circle x^2 + y^2 - 2x + 3y + 6 = 0 :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "Focus of the Parabola x^2 = -16y is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(0, 4)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(0, -4)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(4, 0)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(-4, 0)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "Co-Vertices of Ellipse x^2/b^2 + y^2/a^2 = 1; (a > b) are :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(0, +-a)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(+-a, 0)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(0, +-b)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(+-b, 0)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group I",
+   "q_en": "The vertices of Hyperbola x^2/4 - y^2/9 = 1 is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(0, +-3)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(+-3, 0)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(0, +-2)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(+-2, 0)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group I",
+   "q_en": "|Cos alpha i + Sin alpha j + 0 K| = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group I",
+   "q_en": "Length of Vector 2i - j - 2k is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "sqrt(5)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-sqrt(5)",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

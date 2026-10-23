@@ -1,0 +1,682 @@
+{
+ "board": "BISE Bahawalpur",
+ "board_slug": "bahawalpur",
+ "class": "9th",
+ "subject": "Physics",
+ "year": 2022,
+ "slug": "bahawalpur-9th-physics-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Identify the Base Quantity:",
+   "q_ur": "بنیادی مقدار کی پہچان کیجئے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Speed",
+     "ur": "سپیڈ"
+    },
+    {
+     "k": "B",
+     "en": "Area",
+     "ur": "ایریا"
+    },
+    {
+     "k": "C",
+     "en": "Force",
+     "ur": "فورس"
+    },
+    {
+     "k": "D",
+     "en": "Distance",
+     "ur": "فاصلہ"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "States of Equilibrium are:",
+   "q_ur": "ایکوئی لبریم کی حالتیں ہوتی ہیں :",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Inertia depends upon:",
+   "q_ur": "انرشیا کا انحصار کس پر ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mass",
+     "ur": "ماس"
+    },
+    {
+     "k": "B",
+     "en": "Force",
+     "ur": "فورس"
+    },
+    {
+     "k": "C",
+     "en": "Velocity",
+     "ur": "ولاسٹی"
+    },
+    {
+     "k": "D",
+     "en": "Acceleration",
+     "ur": "ایکسلیریشن"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Which of the following is a Vector Quantity:",
+   "q_ur": "مندرجہ ذیل میں سے کونسی ویکٹر مقدار ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Speed",
+     "ur": "سپیڈ"
+    },
+    {
+     "k": "B",
+     "en": "Distance",
+     "ur": "فاصلہ"
+    },
+    {
+     "k": "C",
+     "en": "Displacement",
+     "ur": "ڈسپلیسمنٹ"
+    },
+    {
+     "k": "D",
+     "en": "Power",
+     "ur": "پاور"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Centripetal Force is Directly Proportional to:",
+   "q_ur": "سینٹری پیٹل فورس ڈائریکٹلی پروپورشنل ہوتی ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "m²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "v²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "v",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "r",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "In Gases, heat is mainly transferred by:",
+   "q_ur": "گیسز میں زیادہ تر انتقال حرارت کا سبب ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Molecular Collision",
+     "ur": "مالیکیولز کا ٹکراؤ"
+    },
+    {
+     "k": "B",
+     "en": "Conduction",
+     "ur": "کنڈکشن"
+    },
+    {
+     "k": "C",
+     "en": "Convection",
+     "ur": "کنویکشن"
+    },
+    {
+     "k": "D",
+     "en": "Radiation",
+     "ur": "ریڈی ایشن"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Normal Human body temperature is:",
+   "q_ur": "نارمل یا صحت مند انسانی جسم کا ٹمپریچر ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "15⁰C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "37⁰F",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "37⁰C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "98.6⁰C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "In S.I. Unit of Pressure is Pascal which is equal to:",
+   "q_ur": "سسٹم انٹرنیشنل میں پریشر کا یونٹ پاسکل ہے جو کہ برابر ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nm⁻²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Nm⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Nm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nm⁻³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Earth's Gravitational Force vanishes at:",
+   "q_ur": "زمین کی گریویٹیشنل فورس غائب ہو جاتی ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "6400.Km",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "42300 Km",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1000 Km",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Infinity",
+     "ur": "لامحدود فاصلے پر"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Latent Heat of Fusion is represented by:",
+   "q_ur": "پگھلاؤ کی خفی حرارت کو ظاہر کیا جاتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hᵥ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Hₘ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Hᵢ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Hₗ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The least count of Vernier Calliper is:",
+   "q_ur": "ورنیئر کیلیپر کا لیسٹ کاؤنٹ ہوتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.01 mm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.01 cm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1 mm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1 cm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "An example of Neutral Equilibrium is:",
+   "q_ur": "نیوٹرل ایکوئی لبریم کی مثال ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Football",
+     "ur": "فٹ بال"
+    },
+    {
+     "k": "B",
+     "en": "Block",
+     "ur": "بلاک"
+    },
+    {
+     "k": "C",
+     "en": "Pencil at its tip",
+     "ur": "پنسل اپنی نوک پر"
+    },
+    {
+     "k": "D",
+     "en": "Book on Table",
+     "ur": "میز پر کتاب"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "The Least Count of Digital Vernier Callipers is:",
+   "q_ur": "ڈیجیٹل ورنیئر کیلیپرز کا لیسٹ کاؤنٹ ہوتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.01 mm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.1 mm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.1 cm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.01 cm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Newton's First Law of Motion is valid only in the absence of:",
+   "q_ur": "مندرجہ ذیل میں سے کس کی غیر موجودگی میں نیوٹن کے پہلے قانون کا اطلاق ہوتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Force",
+     "ur": "فورس"
+    },
+    {
+     "k": "B",
+     "en": "Net Force",
+     "ur": "نیٹ فورس"
+    },
+    {
+     "k": "C",
+     "en": "Torque",
+     "ur": "ٹارک"
+    },
+    {
+     "k": "D",
+     "en": "Momentum",
+     "ur": "مومنٹم"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Conversion of 72 Kmh⁻¹ to ms⁻¹ is equal to -------:",
+   "q_ur": "72 Kmh⁻¹ کی ms⁻¹ میں تبدیلی ------ کے برابر ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "10 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "20 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "25 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "30 ms⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Which one of the following unit is not a Derived Unit:",
+   "q_ur": "ان میں سے کون سا یونٹ ماخوذ یونٹ نہیں ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Pascal",
+     "ur": "پاسکل"
+    },
+    {
+     "k": "B",
+     "en": "Kilogram",
+     "ur": "کلو گرام"
+    },
+    {
+     "k": "C",
+     "en": "Newton",
+     "ur": "نیوٹن"
+    },
+    {
+     "k": "D",
+     "en": "Watt",
+     "ur": "واٹ"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The number of Perpendicular Components of a Force is:",
+   "q_ur": "کسی ویکٹر کے عمودی کمپوننٹس کی تعداد ہوتی ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "The Kinetic Energy of a Body of Mass 2 Kg is 25 J. Its speed is:",
+   "q_ur": "2 کلو گرام کے ایک جسم کی کائی نیٹک انرجی 25 J ہے۔ اس کی سپیڈ ہوگی :",
+   "options": [
+    {
+     "k": "A",
+     "en": "5 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "12.5 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "25 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "50 ms⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "The Orbital Speed of a Low Orbit Satellite is:",
+   "q_ur": "نچلے آربٹ کے سیٹلائٹ کی گردش کرنے کی سپیڈ ہوتی ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "800 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8000 ms⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "The value of 'g' on the surface of Sun is:",
+   "q_ur": "سورج کی سطح پر 'g' کی قیمت ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.62 ms⁻²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3.7 ms⁻²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "274.2 ms⁻²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8.87 ms⁻²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "What should be the approximate length of a Glass Tube to construct a Water Barometer:",
+   "q_ur": "پانی کا بیرو میٹر بنانے کے لئے شیشے کی نلی کی لمبائی اندازا کتنی ہونی چاہیے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.5 m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1 m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2.5 m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "11 m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Thermal Conductivity of Wood in Wm⁻¹K⁻¹ is:",
+   "q_ur": "لکڑی کی تھرمل کنڈکٹیویٹی Wm⁻¹K⁻¹ میں ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.8",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.08",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "What will be the value of β for a Solid for which α has a value of 2 x 10⁻⁵ K⁻¹:",
+   "q_ur": "ایک ٹھوس شئے کے طولی حرارتی پھیلاؤ کے کوایفیشئنٹ کی قیمت 2 x 10⁻⁵ K⁻¹ ہے۔ اس کے والیوم میں پھیلاؤ کے کوایفیشئنٹ کی قیمت ہوگی :",
+   "options": [
+    {
+     "k": "A",
+     "en": "2 x 10⁻⁵ K⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6 x 10⁻⁵ K⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8 x 10⁻¹⁵ K⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8 x 10⁻⁵ K⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "5 Litre is equal to:",
+   "q_ur": "5 لٹر برابر ہوتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "5 x 10⁻³ m³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5 x 10³ m³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5 x 10² m³",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5 x 10⁻² m³",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

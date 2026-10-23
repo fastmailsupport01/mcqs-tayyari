@@ -1,0 +1,570 @@
+{
+ "board": "BISE Bahawalpur",
+ "board_slug": "bahawalpur",
+ "class": "12th",
+ "subject": "Mathematics",
+ "year": 2022,
+ "slug": "bahawalpur-12th-mathematics-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Lim n -> infinity (1 - 1/n)^n = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "e^2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "e",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "e^-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-1/e",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "If f(x) = 1/(x-1) then f(2) = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "d/dx (y^n) = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ny^(n-1)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ny^(n+1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ny^(n-1) dy/dx",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ny^(n-1) dx/dy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Lim x -> 0 ((e^x - 1)/x) = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "e",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "infinity",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "d/dx Cotax = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cosec^2 ax",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "aCosec^2 ax",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-aCosec^2 ax",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-aCosec ax",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Integral of 3^(lambdax) dx = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3^(lambdax)/ln3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3^(lambdax) ln3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/lambda 3^(lambdax)/ln3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3^(lambdax)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Integral of dx/(a^2 + x^2) = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/a Tan^-1 x/a + C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/(2a) ln (x-a)/(x+a)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/(2a) ln (x+a)/(x-a)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/a ln (a^2 + x^2)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "d/dx (3^x) = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3^x ln3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3^x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x3^(x-1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3^(x+1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Integral of e^x(Cos x + Sin x)dx = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-e^x Sin x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "e^x Cos x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-e^x Cos x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "e^x Sin x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Slope of the line ax + by + c = 0 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a/b",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-b/a",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-a/b",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a/c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Distance of the point (2, 3) from y-axis is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Integral from -pi to pi of Sinx dx = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "9",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Equation of Horizontal Line through (7, -9) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "y = -9",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "y = 7",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x = -9",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x = 7",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "A Circle is called a point circle if:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "r = 1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "r = 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "r = 2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "r = 3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "If m1 and m2 are the slopes of two lines, then lines are perpendicular if:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "m1m2 = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "m1m2 + 1 = 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "m1m2 + 2 = 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "m1 = m2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "The point (-1, 2) satisfied the inequality:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x - y > 4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x - y >= 4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x + y < 4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x + y > 5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "The length of Diameter of circle x^2 + y^2 = 9 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "sqrt(3)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group I",
+   "q_en": "The non-zero vectors a and b are parallel if a x b = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group I",
+   "q_en": "j x k = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "i",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-i",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "k",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group I",
+   "q_en": "Eccentricity of an Ellipse is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "e = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "e > 1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0 < e < 1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "e = 1",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

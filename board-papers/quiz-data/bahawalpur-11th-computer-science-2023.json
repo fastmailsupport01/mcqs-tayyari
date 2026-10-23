@@ -1,0 +1,430 @@
+{
+ "board": "BISE Bahawalpur",
+ "board_slug": "bahawalpur",
+ "class": "11th",
+ "subject": "Computer Science",
+ "year": 2023,
+ "slug": "bahawalpur-11th-computer-science-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group Ist",
+   "q_en": "Which of the following Keys is used to cancel an Operation :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Pause",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Del",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Enter",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Esc",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group Ist",
+   "q_en": "Testing of a Program Component is called :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Pilot Testing",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Unit Testing",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "System Testing",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Isolation Testing",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group Ist",
+   "q_en": "Dejure means :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "By Law",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "By Fact",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "By Default",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "By Nature",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group Ist",
+   "q_en": "OSI Model has :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3 Layers",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5 Layers",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7 Layers",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8 Layers",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group Ist",
+   "q_en": "How many characters ASCII 7-Bit Code can represent :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "64",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "128",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "256",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "512",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group Ist",
+   "q_en": "Transmission from a Satellite to its Earth Based Station is called :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Geo Link",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Base Link",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Up Link",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Down Link",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group Ist",
+   "q_en": "Which Scanner takes X-rays around the body :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "MICR",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "OMR",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CAT",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "OCR",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group Ist",
+   "q_en": "The step that obtains the next instruction from Memory is called :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Fetch",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Read",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Get",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Obtain",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group Ist",
+   "q_en": "CPU places address of Memory location is to be read, in :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "MBR",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "IR",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "MAR",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "PC",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group Ist",
+   "q_en": "Which bus allows the processor to communicate with peripheral devices :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "System Bus",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Memory Bus",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Peripheral Bus",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Expansion Bus",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group Ist",
+   "q_en": "Format C is an example of :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Chernobal",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Trojan Horse",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Boot Sector",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Logic Bomb",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group Ist",
+   "q_en": "Which of the following is NOT a Graphical User Interface :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "DOS",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Linux",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Windows",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "MacOS",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group Ist",
+   "q_en": "Which of the following is not a type of Page Margin :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Left",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Right",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Center",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Top",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group Ist",
+   "q_en": "The intersection of a Row and a Column is called :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Field",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Intersection",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Address",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cell",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group Ist",
+   "q_en": "A Collection of Related Web Pages is called :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Web Link",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Website",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Internet",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Link",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

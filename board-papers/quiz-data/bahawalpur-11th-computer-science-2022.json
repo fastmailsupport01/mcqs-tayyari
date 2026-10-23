@@ -1,0 +1,430 @@
+{
+ "board": "BISE Bahawalpur",
+ "board_slug": "bahawalpur",
+ "class": "11th",
+ "subject": "Computer Science",
+ "year": 2022,
+ "slug": "bahawalpur-11th-computer-science-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "An Input Device which is used for playing Computer Games",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Light Pen",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Mouse",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Joystick",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Scanner",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Which of the following is the first phase of SDLC :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Coding",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Design",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Analysis",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Preliminary Investigation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Which layer of OSI Model does Data Compression :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Network",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Presentation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Data Link",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Physical",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Which of the following Network Topology uses Terminators :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Star",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Mesh",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Bus",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ring",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The process of converting Digital Signals into Analog Signals is called :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Demodulation",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Modulation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Conversion",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Merging",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "How many Characters ASCII 8 - bit code can represent :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "128",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "256",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "512",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "300",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The process of producing multiple copies of a document is called :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Reprographics",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Word Processing",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Spreadsheet",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Image Processing",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Data and Programs not currently being used by computer are stored in :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Secondary Storage",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cache",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Primary Memory",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Register",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Which of the following is not considered to be a peripheral device :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Disk Drive",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Keyboard",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Monitor",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CPU",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The Program that contains instructions to operate a device is called :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Device Driver",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Device Linker",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Device Operator",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Debugger",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "A Virus which activates on certain Date and Time is called :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Logic Bomb",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Trojan Horse",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Redlof",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Boot Sector",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The ability of operating system to run multiple programs at the same time is called :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Multi Processing",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Multi Tasking",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Multi Paging",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Segmentation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Which function key is used for checking Spelling and Grammer in MS - Word :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "F1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "F2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "F7",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "F10",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "Which of the following is a Spreadsheet Software :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "MS - Word",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "MS - Excell",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Power Point",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "MS - Access",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Which Software is used to search and view Web Pages :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "HTML",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Web Server",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Web Browser",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Windows Explorer",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

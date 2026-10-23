@@ -1,0 +1,682 @@
+{
+ "board": "BISE Bahawalpur",
+ "board_slug": "bahawalpur",
+ "class": "12th",
+ "subject": "Computer Science",
+ "year": 2023,
+ "slug": "bahawalpur-12th-computer-science-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "In 2NF, which form of dependency is removed:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Partial Functional",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Non-Functional",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Associative",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Transitive",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Which file is used to store information that remains constant for a long time:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Data File",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Master File",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Transaction File",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Backup File",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Which of the following is used to associate entities with one another:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Entity",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Attribute",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Relationship",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Relation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The output of a Query is in the form of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Form",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Query",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Table",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Macros",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "To find all names start with F, from Table, criteria is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Like \"F?\"",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Like \"F-\"",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Like \"F#\"",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Like \"F*\"",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "An Attribute is also known as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Record",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Row",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Field",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Relation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Which of the given is a Valid Character Constant:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "P",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "'@'",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "\"C\"",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "=",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "What is the variable that is used by a function to receive an argument:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Expression",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Parameter",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Constant",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Function",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "In which loop, initialization is the part of its syntax:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "for",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "do-while",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "while loop",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "for each",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The number of digits after a decimal point is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Significance",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Range",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Precision",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Scope",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The escape sequence begins with:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "{",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "#",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "*",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "\\",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Conditional Operator is an alternate of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "If",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "If-else",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Nested If",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "If-Else-If",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Which Programming structure executes Program Statements in an order:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sequence",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Relation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Decision",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Repetition",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "In C-Language int is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Special Word",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Keyword",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cut Word",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "First Word",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "The number of Bytes used by int data type in C is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "12",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "16",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "A string literal must be enclosed in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "{ }",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "\" \"",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "( )",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "' '",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "What is the variable that is used by a function to receive an argument:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Expression",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Parameter",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Constant",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Function",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Which of the following loop is also known as Counter Loop:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "For Next",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "While",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Do-While",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Do-Loop",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "A Project File is saved with the given extension:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": ".frm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": ".bmp",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": ".vbp",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": ".frx",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Which Events occurred after a form has closed:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Shut Down",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "End Close",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Form Opening",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Form Closed",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Which of the given is not a Visual Basic Data Type:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Byte",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Register",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Long",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Integer",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Which of the following reverse the Boolean Value of a Relational Expression:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "NOT",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "AND",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "OR",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "BUT",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "Which method is used to delete an item from the list box:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Add Item",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Remove Item",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Clear Item",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Erase Item",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "The number of bytes used by integer data type in V.B. is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "12",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "16",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}
