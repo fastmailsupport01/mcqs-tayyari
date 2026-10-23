@@ -1,0 +1,962 @@
+{
+ "board": "BISE Faisalabad",
+ "board_slug": "faisalabad",
+ "class": "12th",
+ "subject": "Chemistry",
+ "year": 2022,
+ "slug": "faisalabad-12th-chemistry-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "During nitration of benzene, the active nitrating agent is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "NO₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "HNO₃",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NO",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NO₂⁺",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "For which Mechanism, the first step involved is the same?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "E1 and E2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "E2 and Sɴ2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Sɴ1 and E2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "E1 and Sɴ1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Which enzyme is not involved in fermentation of starch?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Diastase",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Zymase",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Urease",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Invertase",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Cannizzaro's reaction is not given by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Acetaldehyde",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Formaldehyde",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Benzaldehyde",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Trimethyl acetaldehyde",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Acetic acid was first isolated from:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Milk",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Vinegar",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Butter",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Red ant",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Which is an addition polymer?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nylon 6-6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Terylene",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Polystyrene",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Epoxy resin",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Phosphorus helps the growth of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Root",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Leave",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Stem",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Seed",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The pH range of the acid rain is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "7 – 6.5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6.5 – 6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6 – 5.6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Less than 5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Half of the atmospheric mass is concentrated in the lower:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5.6 km",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10.6 km",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "15.6 km",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "20.6 km",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Among alkali metal ions, minimum hydration energy is shown by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Li⁺",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Na⁺",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Rb⁺",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "K⁺",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The oxide of beryllium is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Acidic",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Basic",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Neutral",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Amphoteric",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Which element is not present abundantly in earth's crust?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Si",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Al",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Na",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "O",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Which catalyst is used to contact process?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "V₂O₅",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Fe₂O₃",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "SO₃",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ag₂O",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "Chlorine heptaoxide (Cl₂O₇) reacts with water to form:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hypochlorous acid",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Chloric acid",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Perchloric acid",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Chlorine and oxygen",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Coordination number of Pt in [Pt Cl(NO₂)(NH₃)₄] is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "02",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "04",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "01",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "06",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "Which set of hybrid orbitals has planar triangular shape?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "sp²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "sp³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "sp",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "dsp²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "Vinyl acetylene combines with HCl to form:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Poly acetylene",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Chloroprene",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Benzene",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Divinyl acetylene",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Keeping in view the size of atoms, which order is the correct?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mg > Sr",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ba > Mg",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Lu > Ce",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cl > I",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Which does not belong to alkaline earth metals?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Be",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ra",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ba",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Rn",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Which metal is used in the thermite process because of its activity?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Iron",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Copper",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Aluminium",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zinc",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Laughing gas is chemically:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "NO",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "N₂O",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NO₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "N₂O₄",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The anhydride of HClO₄ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ClO₃",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ClO₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cl₂O₅",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cl₂O₇",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Coordination number of Pt in [Pt Cl(NO₂)(NH₃)₄] is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "A double bond consists of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Two sigma bonds",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "One sigma and one pi bond",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "One sigma and two pi bonds",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Two pi bonds",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Vinyl acetylene combines with HCl to form:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Poly acetylene",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Benzene",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Chloroprene",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Divinyl acetylene",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Benzene cannot undergo:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Substitution reaction",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Addition reaction",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Oxidation reaction",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Elimination reaction",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Sɴ2 reactions can be best carried out with:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Primary alkyl halides",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Secondary alkyl halides",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Tertiary alkyl halides",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Which enzyme is not involved in fermentation of starch?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Diastase",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Zymase",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Urease",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Invertase",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Cannizzaro's reaction is not given by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Formaldehyde",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Acetaldehyde",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Benzaldehyde",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Trimethyl acetaldehyde",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "Which reagent is used to reduce a carboxylic group to an alcohol?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "H₂/Ni",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "H₂/Pt",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NaBH₄",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "LiAlH₄",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "A polymeric substance that is formed in the liquid state and then hardened to a rigid solid is called a:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Fiber",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Plastic",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Varnish",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Polyamide resin",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "Phosphorous helps the growth of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Root",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Leave",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Stem",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Seed",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "Fungicides are the pesticides which:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Control the growth of fungus",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Kill insects",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Kill plants",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Kill herbs",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "In purification of potable water the coagulant used is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nickle sulphate",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Copper sulphate",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Barium sulphate",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Alum",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,290 @@
+{
+ "board": "BISE Faisalabad",
+ "board_slug": "faisalabad",
+ "class": "10th",
+ "subject": "Computer Science",
+ "year": 2021,
+ "slug": "faisalabad-10th-computer-science-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Algorithm is a:",
+   "q_ur": "الگورتھم ایک ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Requirement document",
+     "ur": "[illegible in source scan]"
+    },
+    {
+     "k": "B",
+     "en": "Design document",
+     "ur": "ڈیزائن ڈاکومنٹ"
+    },
+    {
+     "k": "C",
+     "en": "Test document",
+     "ur": "ٹیسٹ ڈاکومنٹ"
+    },
+    {
+     "k": "D",
+     "en": "User guide",
+     "ur": "یوزر گائیڈ"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Which is a type declaration character for integer?",
+   "q_ur": "انٹیجر ویری ایبل کی ٹائپ ڈیکلریشن کے لیے کون سا کریکٹر استعمال ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "!",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "%",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "#",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "$",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "In BASIC the maximum number of characters in a line can be:",
+   "q_ur": "بیسک میں ایک لائن میں زیادہ سے زیادہ حروف کی تعداد ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "255",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "270",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "355",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "380",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Which control structure is used to repeat a statement or group of statements?",
+   "q_ur": "کون سا کنٹرول اسٹرکچر ایک یا زیادہ بیانات کو دہرانے کے لیے استعمال ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Selection",
+     "ur": "سلیکشن"
+    },
+    {
+     "k": "B",
+     "en": "Loop",
+     "ur": "لوپ"
+    },
+    {
+     "k": "C",
+     "en": "Sequence",
+     "ur": "ترتیب"
+    },
+    {
+     "k": "D",
+     "en": "IF",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "A loop within loop is called:",
+   "q_ur": "لوپ کے اندر لوپ کہلاتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Complex loop",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Infinite loop",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Inner loop",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nested loop",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "The index of each element in array is:",
+   "q_ur": "ارے کے ہر ایلیمنٹ کا انڈیکس ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Similar",
+     "ur": "[illegible in source scan]"
+    },
+    {
+     "k": "B",
+     "en": "Unique",
+     "ur": "[illegible in source scan]"
+    },
+    {
+     "k": "C",
+     "en": "Odd",
+     "ur": "طاق"
+    },
+    {
+     "k": "D",
+     "en": "Even",
+     "ur": "جفت"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "In the statement list[4], the value 4 indicates:",
+   "q_ur": "اسٹیٹمنٹ list[4] میں 4 ظاہر کرتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Size of array",
+     "ur": "ارے کا سائز"
+    },
+    {
+     "k": "B",
+     "en": "Array element",
+     "ur": "ارے کا ایلیمنٹ"
+    },
+    {
+     "k": "C",
+     "en": "Index",
+     "ur": "انڈیکس"
+    },
+    {
+     "k": "D",
+     "en": "Variable",
+     "ur": "متغیر"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Which function is used for INTEGER value?",
+   "q_ur": "انٹیجر ویلیو کے لیے کون سا فنکشن استعمال ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "INTIGER",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "INTG",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "INT",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "INTGR",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "All are built-in functions in BASIC except:",
+   "q_ur": "تمام بیسک کے بلٹ ان فنکشنز ہیں سوائے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "INT",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ABS",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "RND",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "SQRT",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "The CIRCLE statement can also be used to draw a/an:",
+   "q_ur": "CIRCLE اسٹیٹمنٹ کی مدد سے مزید یہ بھی بنائے جا سکتے ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "LINE",
+     "ur": "[illegible in source scan]"
+    },
+    {
+     "k": "B",
+     "en": "BOX",
+     "ur": "باکس"
+    },
+    {
+     "k": "C",
+     "en": "Ellipse",
+     "ur": "[illegible in source scan]"
+    },
+    {
+     "k": "D",
+     "en": "Pset",
+     "ur": "[illegible in source scan]"
+    }
+   ]
+  }
+ ]
+}

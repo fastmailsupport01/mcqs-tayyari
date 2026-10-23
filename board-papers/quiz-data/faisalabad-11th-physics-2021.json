@@ -1,0 +1,962 @@
+{
+ "board": "BISE Faisalabad",
+ "board_slug": "faisalabad",
+ "class": "11th",
+ "subject": "Physics",
+ "year": 2021,
+ "slug": "faisalabad-11th-physics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The moment of inertia of a ring is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/12 mr²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "mr²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/2 mr²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2/5 mr²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "1kWh = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3.6μJ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3.6mJ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3.6kJ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3.6MJ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The rate of change of momentum of a body equals to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Work done",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Applied power",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Applied force",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Impulse",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The range of projectile is maximum when projectile is thrown at an angle of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "30°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "90°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "If A⃗ = 2î – ĵ + 2k̂ then A = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The area of the parallelogram formed with A⃗ and B⃗ as two adjacent sides is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "AB sin θ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "AB cos θ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "AB tan θ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "AB",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The units of gravitational constant have units:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nm²kg⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Nmkg⁻²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Nm²kg²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nm²kg⁻²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Work have same dimensions as that of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Momentum",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Power",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Torque",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Impulse",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Carnot engine consists of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Two steps",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Three steps",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Four steps",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Five steps",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "For adiabatic process, the first law of thermodynamics gives:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Q = W",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "W = –ΔU",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Q = ΔU",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Q = ΔU + W",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "If N is the number of rulings on the grating, then the resolving power in the mth order diffraction is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "R = N/m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "R = m/N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "R = mN",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "R = 1/mN",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The light from the Sun reaches the Earth with:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Circular wave fronts",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Plane wave fronts",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Spherical wave fronts",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Elliptical wave fronts",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "The distance between a node and the next antinode is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4λ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2λ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "λ/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "λ/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "The increase in the speed of sound for one degree Celsius rise in temperature by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.61cms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.61ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.16cms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.16ms⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "If the length of a simple pendulum is doubled, its period:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Will not change",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Will also be doubled",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Will be halved",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Will increase by 1.4 times",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "A chimney works best when it is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Tall",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Wide",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Short",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Narrow",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "The SI unit of angular displacement is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Meter",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Degree",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Radian",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Revolution",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "If A⃗ · B⃗ = |A⃗ × B⃗| then angle between A⃗ and B⃗ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Dimensions of ratio of angular momentum to linear momentum is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[M°LT°]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[M¹L¹T¹]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[M¹L²T¹]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[M⁻¹L⁻¹T¹]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Dimensions of √(Fℓ/m) are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[M°LT⁻¹]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[ML⁻¹T]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[ML²T⁻³]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[ML⁻¹T⁻¹]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Magnifying power of telescope is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "fₑ/fₒ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "fₒ/fₑ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "fₑfₒ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/(fₒfₑ)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "In Michelson interferometer a fring is shifted each time the mirror is displaced through:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "λ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "λ/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "λ/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "If pendulum vibrate with frequency 0.5Hz, then its length will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10cm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "50cm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "80cm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "99cm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Bernoulli's equation is based upon law of conservation of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Momentum",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Energy",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mass",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Charge",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "If speed of moving body is doubled its K.E. is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Doubled",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Halved",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Unchanged",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4 times",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "SI unit of molar specific heat is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Jmol⁻¹K⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "J mol K⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "J mol K",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "J mol⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Highest efficiency of heat engine whose lower temperature is 17°C and higher temperature is 200°C is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "70%",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "100%",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "35%",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "38%",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "The stretched string of length 2m vibrates in 2 segments. The distance between two consecutive nodes is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.5m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Tuning fork is source of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Heat",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Light",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Sound",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Electromagnetic waves",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "Rotational kinetic energy of the hoop moving down on inclined plane is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/2 mv²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "mv²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/4 mv²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3/4 mv²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "Pull of the Earth on 20kg body on surface of Earth is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "20N",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "196N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "19.6N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1960N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "Rate of change of momentum is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Force",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Pressure",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Tension",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Impulse",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "Mass of fuel consumed by a typical rocket to overcome earth's gravity is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1000kg/s",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "100kg/s",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10000kg/s",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10kg/s",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "î · î = ĵ · ĵ = k̂ · k̂ is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "–1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

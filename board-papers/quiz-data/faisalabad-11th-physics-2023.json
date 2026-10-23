@@ -1,0 +1,486 @@
+{
+ "board": "BISE Faisalabad",
+ "board_slug": "faisalabad",
+ "class": "11th",
+ "subject": "Physics",
+ "year": 2023,
+ "slug": "faisalabad-11th-physics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "How many number of zeros in 7.4000 and 8000 kg are significant, if the later quantity has 1 kg least count?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "None and none",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Three and three",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Three and two",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Two and one",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "What choice would you have to pick for the percentage uncertainty in measuring 2.3cm with meter rod and 2.45cm with vernier caliper?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4.3% and 0.4%",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4.0% and 0.1%",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.1% and 0.01%",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3.9% and 0.52%",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The distance of point P of position vector r = 3i + 3j + 3k from the origin is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3.0 unit",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6.4 unit",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5.2 unit",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2.5 unit",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Two vectors to be combined have magnitudes 60N and 35N with different directions. Pick the correct answer:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "95 N",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "25 N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Both A & B",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Can be any value between option A & B",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "What is the distance travelled by a body in the following velocity time graph?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "100 m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "20 m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10 m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5 m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Water flows out from a pipe at 3Kgs-1 and its velocity changes from 5ms-1 to zero on striking the ball, then force is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10 N",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "15 N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "20 N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "25 N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Solar energy at normal incidence outside the Earth's atmosphere is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.0 Wm-2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.4 Wm-2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.0k Wm-2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.4k Wm-2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "For one radian, arc length 'S' and radius 'r' of circle has the relation:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "S > r",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "r > S",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "S = r",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "S = 2r",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Centripetal force performs:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Positive work",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "No work",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Negative work",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Maximum work",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Which one is correct?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 torr=13.33 Nm-2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2 torr=26.66 Nm-2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5 torr=65.65 Nm-2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10 torr=1333 Nm-2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Which other quantity has the same unit as spring constant has Nm-1?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Torque",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Momentum",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Surface tension",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Rotational K.E",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "If a wave is travelling in a rarer medium and incident on a denser medium then the phase change is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "360 degrees",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "180 degrees",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "90 degrees",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0 degrees",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "When air column is closed from one end then the fundamental frequency becomes:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.0(v/l)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.5(v/l)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.75(v/l)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.25(v/l)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "When fringe spacing in Young's double slit experiment is increased by increasing wavelength then number of fringes will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Decreased",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Increased",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Constant",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Disappear",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "For incident angles equal to or greater than the critical angle, the glass-air boundary will act as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Lens (Biconvex)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Mirror (Plane)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Lens (Concave)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Lens (Plano convex)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "When the work is done at the cost of internal energy, then the equation becomes:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "W = Delta U",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "W = Q",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "W = -Delta U",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "W = Delta V",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "Pick the correct condition for the relation Cp - Cv = R:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Internal energy is kept constant for both processes",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Pressure is kept constant for both processes",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Temperature is kept constant for both processes",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Volume is kept constant for both processes",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

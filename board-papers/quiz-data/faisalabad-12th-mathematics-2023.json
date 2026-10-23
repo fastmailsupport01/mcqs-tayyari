@@ -1,0 +1,570 @@
+{
+ "board": "BISE Faisalabad",
+ "board_slug": "faisalabad",
+ "class": "12th",
+ "subject": "Mathematics",
+ "year": 2023,
+ "slug": "faisalabad-12th-mathematics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Slope of a line ax + by + c = 0 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-a/b",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a/b",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-b/a",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "b/a",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Inclination of a line x = 6 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The point of intersection of lines y = 2 and x = -1 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(2,-1)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(2,1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(2,0)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(-1,2)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "x - y < 2 is satisfied by the point:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(3,1)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(-1,1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(1,-1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(0,-2)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Center of a circle (x+1)² + y² = 25 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(0,0)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(1,0)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(-1,0)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(0,2)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Major axis of x²/a² + y²/b² = 1",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x = a",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x = ±[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "y = ±a/b",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "y = 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Length of minor axis of x² + 4y² = 16 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "16",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "20",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "16",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Center of (x-1)²/4 - (y+1)²/16 = 1 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(0,0)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(1,-1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(-1,-1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(-1,1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The direction cosines of y-axis are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0,0,0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1,0,0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0,1,0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0,0,1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "i.k × j = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Lim(x→0) x/sin2x = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-1/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The function f(x) = x/(x² - 4) is discontinuous at:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "±2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "±1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Lim(h→0) (f(a+h) - f(a))/h = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "f(a)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "f'(a+h)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "f'(a)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "f'(x)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "dy/dx = -1/x² if:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "y = -1/x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "y = -x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "y = lnx",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "y = 1/x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "If f(x) = cos x, then f'(π/2) = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "d/dx(e^(1/x)) = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "e^(1/x)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-1/x² e^(1/x)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/x² e^(1/x)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/x² e^(x^(-1/2))",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "Differential of √y is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "√y dx",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "√y dy",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/(2√y) dy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/(2√y) dx",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group I",
+   "q_en": "∫sec ax tan ax dx = ? is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "tan ax/a + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "sec ax/a + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "sec ax tan ax/a + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "cot ax/a + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group I",
+   "q_en": "∫1/(x² + 3) dx = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "tan⁻¹(x/3) + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/3 tan⁻¹(x/3) + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/√3 tan⁻¹(x/√3) + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "cot⁻¹(3x) + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group I",
+   "q_en": "∫ from -π/2 to π/2 cos(x/2) dx = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "√2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2√2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4√2",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,570 @@
+{
+ "board": "BISE Faisalabad",
+ "board_slug": "faisalabad",
+ "class": "9th",
+ "subject": "Computer Science",
+ "year": 2022,
+ "slug": "faisalabad-9th-computer-science-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Which strategy divides a complex problem into smaller problems?",
+   "q_ur": "کونسی حکمت عملی پیچیدہ مسئلے کو چھوٹے مسئلوں میں تقسیم کرتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Guess",
+     "ur": "اندازہ"
+    },
+    {
+     "k": "B",
+     "en": "Prototype",
+     "ur": "نمونہ"
+    },
+    {
+     "k": "C",
+     "en": "Divide and conquer",
+     "ur": "تقسیم اور فتح کرو"
+    },
+    {
+     "k": "D",
+     "en": "Act it out",
+     "ur": "ایکٹ اٹ آؤٹ"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Before problem solving, we need to first ______ problem.",
+   "q_ur": "کسی مسئلے کو حل کرنے سے پہلے اس کا ______ کرنا چاہیے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Analysis",
+     "ur": "تجزیہ"
+    },
+    {
+     "k": "B",
+     "en": "Determine",
+     "ur": "تعین"
+    },
+    {
+     "k": "C",
+     "en": "Un-understanding",
+     "ur": "سمجھنا"
+    },
+    {
+     "k": "D",
+     "en": "Planning",
+     "ur": "پلاننگ"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The decimal number system consists of digits:",
+   "q_ur": "اعشاری عددی نظام ان اعداد پر مشتمل ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "0 - 9",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1 - 16",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2 - 8",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0 - 7",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The binary equivalent of decimal number (3)₁₀ is:",
+   "q_ur": "(3)₁₀ کی ثنائی قدر برابر ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "(10)₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(11)₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(111)₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(1000)₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "In AND operator dot (·) means that P and Q may also be written as:",
+   "q_ur": "AND آپریٹر میں P and Q کو ______ بھی لکھتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "P/Q",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "P + Q",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "P Q",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "P·Q",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The receiver must be capable of accepting the:",
+   "q_ur": "موصول کنندہ ______ قبول کرنے کے قابل ہونا چاہیے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Protocol",
+     "ur": "پروٹوکول"
+    },
+    {
+     "k": "B",
+     "en": "Message",
+     "ur": "پیغام"
+    },
+    {
+     "k": "C",
+     "en": "Address",
+     "ur": "ایڈریس"
+    },
+    {
+     "k": "D",
+     "en": "Information",
+     "ur": "معلومات"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "______ is a way to protect an idea.",
+   "q_ur": "کسی آئیڈیا کی حفاظت کا طریقہ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Copyright",
+     "ur": "کاپی رائٹ"
+    },
+    {
+     "k": "B",
+     "en": "Piracy",
+     "ur": "پائریسی"
+    },
+    {
+     "k": "C",
+     "en": "Patent",
+     "ur": "پیٹنٹ"
+    },
+    {
+     "k": "D",
+     "en": "Trade secret",
+     "ur": "تجارتی راز"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Which tag is singular tag?",
+   "q_ur": "کونزا سنگل ٹیگ ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "< br >",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "< title >",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "< head >",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "< body >",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The ______ element is container for meta data.",
+   "q_ur": "اپنے اندر میٹا ڈیٹا رکھتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "< body >",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "< head >",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "< title >",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "< html >",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The encrypted data is called:",
+   "q_ur": "انکرپٹ کیا گیا ڈیٹا کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Password",
+     "ur": "پاس ورڈ"
+    },
+    {
+     "k": "B",
+     "en": "Secret text",
+     "ur": "سیکرٹ ٹیکسٹ"
+    },
+    {
+     "k": "C",
+     "en": "Plain text",
+     "ur": "پلین ٹیکسٹ"
+    },
+    {
+     "k": "D",
+     "en": "Cipher text",
+     "ur": "سائفر ٹیکسٹ"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "If P = \"Today is holiday\" then P̅:",
+   "q_ur": "اگر \"آج چھٹی ہے\" = P ہو تو P̅:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Today is not holiday",
+     "ur": "آج چھٹی نہیں ہے"
+    },
+    {
+     "k": "B",
+     "en": "Today is Sunday",
+     "ur": "آج اتوار ہے"
+    },
+    {
+     "k": "C",
+     "en": "Today is holiday",
+     "ur": "آج چھٹی ہے"
+    },
+    {
+     "k": "D",
+     "en": "Today is not Sunday",
+     "ur": "آج اتوار نہیں ہے"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Hard disk is an example of:",
+   "q_ur": "ہارڈ ڈسک مثال ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Primary memory",
+     "ur": "پرائمری میموری"
+    },
+    {
+     "k": "B",
+     "en": "Secondary memory",
+     "ur": "سیکنڈری میموری"
+    },
+    {
+     "k": "C",
+     "en": "RAM",
+     "ur": "ریم"
+    },
+    {
+     "k": "D",
+     "en": "ROM",
+     "ur": "روم"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "The base of hexadecimal number system is:",
+   "q_ur": "ہیکسا ڈیسیمل عددی نظام کی بیس ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "16",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "______ means making illegal copies.",
+   "q_ur": "سے مراد غیر قانونی کاپیاں بنانے کا عمل ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Piracy",
+     "ur": "پائریسی"
+    },
+    {
+     "k": "B",
+     "en": "Right",
+     "ur": "رائٹ"
+    },
+    {
+     "k": "C",
+     "en": "Browsing",
+     "ur": "براؤزنگ"
+    },
+    {
+     "k": "D",
+     "en": "Privacy",
+     "ur": "پرائیویسی"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The ◇ symbol in a flowchart indicates:",
+   "q_ur": "علامت ◇ فلو چارٹ میں ظاہر کرتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Decision",
+     "ur": "فیصلہ"
+    },
+    {
+     "k": "B",
+     "en": "Input",
+     "ur": "ان پٹ"
+    },
+    {
+     "k": "C",
+     "en": "Output",
+     "ur": "آؤٹ پٹ"
+    },
+    {
+     "k": "D",
+     "en": "Progress",
+     "ur": "پروگریس"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "On webpage to give the numbers before fruit's name which tag will be used?",
+   "q_ur": "ویب پیج پر پھلوں کے نام کے ساتھ نمبر لگانے کے لیے کونزا ٹیگ استعمال کریں گے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "< dl >",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "< ol >",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "< ul >",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "table",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "To save the webpage we use ______ as file extension.",
+   "q_ur": "ایک ویب پیج کو محفوظ کرنے کے لیے ہم ______ ایکسٹینشن استعمال کرتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": ".html",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": ".xhtml",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": ".doc",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": ".xlsx",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "[illegible in source scan]",
+   "q_ur": "سینئر مینجر کو بھول بھلیوں میں ہو تو یہ سائبر کرائمز کی کونسی قسم ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hacking",
+     "ur": "ہیکنگ"
+    },
+    {
+     "k": "B",
+     "en": "Advance fee fraud",
+     "ur": "ایڈوانس فیس فراڈ"
+    },
+    {
+     "k": "C",
+     "en": "Identity theft",
+     "ur": "شناخت کی چوری"
+    },
+    {
+     "k": "D",
+     "en": "Piracy",
+     "ur": "پائریسی"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "______ is a way to protect an idea.",
+   "q_ur": "کسی آئیڈیا کی حفاظت کا طریقہ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Copyright",
+     "ur": "کاپی رائٹ"
+    },
+    {
+     "k": "B",
+     "en": "Piracy",
+     "ur": "پائریسی"
+    },
+    {
+     "k": "C",
+     "en": "Patent",
+     "ur": "پیٹنٹ"
+    },
+    {
+     "k": "D",
+     "en": "Trade secret",
+     "ur": "تجارتی راز"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "The receiver must be capable of accepting the:",
+   "q_ur": "موصول کنندہ ______ قبول کرنے کے قابل ہونا چاہیے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Protocol",
+     "ur": "پروٹوکول"
+    },
+    {
+     "k": "B",
+     "en": "Message",
+     "ur": "پیغام"
+    },
+    {
+     "k": "C",
+     "en": "Address",
+     "ur": "ایڈریس"
+    },
+    {
+     "k": "D",
+     "en": "Information",
+     "ur": "معلومات"
+    }
+   ]
+  }
+ ]
+}

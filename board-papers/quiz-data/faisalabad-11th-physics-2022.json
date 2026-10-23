@@ -1,0 +1,962 @@
+{
+ "board": "BISE Faisalabad",
+ "board_slug": "faisalabad",
+ "class": "11th",
+ "subject": "Physics",
+ "year": 2022,
+ "slug": "faisalabad-11th-physics-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Magnification of convex lens is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1+d/f",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1-d/f",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1+f/d",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1-f/d",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "According to Charles Law which relation is correct:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "v ∝ T",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "v ∝ 1/T",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "p ∝ 1/n",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "p ∝ 1/v",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Which force is non-conservative?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electric force",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Magnetic force",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Nuclear force",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Gravitational force",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Significant figures in 0.00567:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Pressure of gas is given as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2/3 ρ<v²>",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/3 ρ<v²>",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3/2 ρ<v²>",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ρ<v²>",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The self cross product of vector B is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "AB",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The distance covered by free falling in 4S is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "19.6m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "39.2m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "78.4m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4.9m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The angle 2π rad is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "180°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "360°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The angle θ = wt specify:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Critical angle",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Solid angle",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Phase angle",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Plane angle",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "One giga is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10⁹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10⁶",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10⁻⁷",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Magnitude of unit vector î×ĵ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "k̂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-ĵ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The value of 'g' at the center of earth is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Infinite",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2g",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3g",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Pull of the earth on 20kg body on surface of earth is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "20N",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "196N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "19.6N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1960N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "The unit of viscosity in S.I: is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Kg⁻¹ms⁻²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Kgm⁻¹s⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Kg⁻¹m⁻²s",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Kgms⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Energy stored in spring is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Elastic P.E.",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Gravitational P.E.",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "K.E.",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Chemical P.E.",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "Sound travel faster in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CO₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "H₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "O₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "He",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "The wavelength of x-ray is of the order:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10⁻¹⁰m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10⁻²m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10cm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Dimensions of angular velocity are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[LT⁻¹]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[T⁻¹]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[L⁻¹T⁻¹]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[MLT⁻¹]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Bernoulli's equation gives the dimensions of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Pressure",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Energy",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Flow rate",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Velocity",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "If the initial phase is π/2 rad, the instantaneous displacement in SHM will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "X₀sinωt",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "X₀cosωt",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-X₀sinωt",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Human ear can recognize beats having maximum frequency equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "40Hz",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "30Hz",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5Hz",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10Hz",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "If 10 waves occupy 15cm, what is the wavelength?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.6m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6cm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.5cm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "15m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "When a red light is replaced with blue light in Young's experiment, fringe spacing:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Increases",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Decreases",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Remains same",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Becomes infinite",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "If the focal lengths of objective and eye-piece are doubled, the length of telescope becomes:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Double",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Half",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Three times",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Four times",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "When ice melts, entropy ____.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Increases",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Decreases",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Remains unchanged",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Becomes more negative",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "The relation -W = +ΔU, represents the process:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Isothermal expansion",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Adiabatic expansion",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Isothermal expansion",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Adiabatic compression",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Which is a base quantity?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Area",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Charge",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Electric current",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Force",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "A measurement of a needle diameter, D = 4.5 ± 0.01 mm has percentage uncertainty:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "45 %",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.4 %",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.5 %",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.2 %",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "|î + ĵ + k̂| is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3√2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2√3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "For what angle between velocity and magnetic field, the force on a charge particle will be maximum?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "180°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "The dragless ballistic trajectory for spherical earth should be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Parabolic",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Elliptical",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Hyperbolic",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "spherical",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "Horizontal acceleration of projectile motion is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "G",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "g",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0ms⁻²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "12ms⁻²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "With increasing attitude, the absolute gravitational potential energy of an object:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Increases",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Decreases",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Becomes more negative",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Remains constant",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "For uniform circular motion, tangential acceleration equals:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Centripetal acceleration",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Centrifugal acceleration",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Angular acceleration",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

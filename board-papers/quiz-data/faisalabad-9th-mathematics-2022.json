@@ -1,0 +1,850 @@
+{
+ "board": "BISE Faisalabad",
+ "board_slug": "faisalabad",
+ "class": "9th",
+ "subject": "Mathematics",
+ "year": 2022,
+ "slug": "faisalabad-9th-mathematics-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Distance between the points (1, 0) and (0, 1) is:",
+   "q_ur": "نقاط (1, 0) اور (0, 1) کا درمیانی فاصلہ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The symbol of congruent is:",
+   "q_ur": "متماثل کی علامت ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "~",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "≡",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "↔",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "≈",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "In figure x° = ____",
+   "q_ur": "شکل میں x° = ____",
+   "options": [
+    {
+     "k": "A",
+     "en": "75°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "105°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "115°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "A ____ is called a bisector of an angle if it divides the angle into two equal parts.",
+   "q_ur": "ایک ____ زاویہ کا ناصف کہلاتی ہے اگر یہ زاویہ کو دو برابر حصوں میں تقسیم کرتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Line",
+     "ur": "خط"
+    },
+    {
+     "k": "B",
+     "en": "Ray",
+     "ur": "شعاع"
+    },
+    {
+     "k": "C",
+     "en": "Line segment",
+     "ur": "قطعہ خط"
+    },
+    {
+     "k": "D",
+     "en": "Point",
+     "ur": "نقطہ"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Equality of two ratios is called:",
+   "q_ur": "دو نسبتوں میں برابری کے تعلق کو کہتے ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Proportion",
+     "ur": "تناسب"
+    },
+    {
+     "k": "B",
+     "en": "Ratio",
+     "ur": "نسبت"
+    },
+    {
+     "k": "C",
+     "en": "Average",
+     "ur": "اوسط"
+    },
+    {
+     "k": "D",
+     "en": "Range",
+     "ur": "سعت"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "A rectangular region is the ____ of rectangle and its interior.",
+   "q_ur": "کسی مستطیل اور اس کے اندرونہ کے ____ کو مستطیلی علاقہ کہتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Intersection",
+     "ur": "تقاطع"
+    },
+    {
+     "k": "B",
+     "en": "Complement",
+     "ur": "کمپلیمنٹ"
+    },
+    {
+     "k": "C",
+     "en": "Union",
+     "ur": "یونین"
+    },
+    {
+     "k": "D",
+     "en": "Difference",
+     "ur": "فرق"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "If three altitudes of a triangle are congruent, then the triangle is:",
+   "q_ur": "اگر ایک مثلث کے تینوں عمود متماثل ہوں تو وہ مثلث ہوگی:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Isosceles",
+     "ur": "مساوی الساقین"
+    },
+    {
+     "k": "B",
+     "en": "Equilateral",
+     "ur": "مساوی الاضلاع"
+    },
+    {
+     "k": "C",
+     "en": "Right angled",
+     "ur": "قائمہ الزاویہ"
+    },
+    {
+     "k": "D",
+     "en": "Acute angled",
+     "ur": "حادہ زاویہ"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "[[√2, 0], [0, √2]] is called ____ matrix.",
+   "q_ur": "[[√2, 0], [0, √2]] کو ____ قالب کہا جاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": "صفری"
+    },
+    {
+     "k": "B",
+     "en": "Unit",
+     "ur": "وحدانی"
+    },
+    {
+     "k": "C",
+     "en": "Scalar",
+     "ur": "سکیلر"
+    },
+    {
+     "k": "D",
+     "en": "Singular",
+     "ur": "نادر"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Write 4 2/3 with radical sign:",
+   "q_ur": "4 2/3 کو ریڈیکل فارم میں لکھیے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "³√4²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "√4³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2√4³",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√4⁶",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "log p - log q = ____",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "log(q/p)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "log(p-q)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "logp/logq",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "log(p/q)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The degree of polynomial 4x⁴ + 2x²y is:",
+   "q_ur": "کثیر رقمی 4x⁴ + 2x²y کا درجہ ____ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Factors of 3x² - x - 2 are:",
+   "q_ur": "3x² - x - 2 کے اجزائے ضربی ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "(x + 1),(3x - 2)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(x + 1),(3x + 2)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(x - 1),(3x - 2)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(x - 1),(3x + 2)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "H.C.F of a² - b² and a³ - b³ is:",
+   "q_ur": "a² - b² اور a³ - b³ کا عادِ اعظم ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "a - b",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a + b",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a² + ab + b²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a² - ab + b²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "x = 0 is a solution of inequality:",
+   "q_ur": "x = 0 ، غیر مساوات ____ کے حل میں کارکن ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "x > 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3x + 5 < 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x + 2 < 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x - 2 < 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Point (-3, -3) lies in quadrant:",
+   "q_ur": "نقطہ (-3, -3) مستوی کے ربع میں ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "I",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "II",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "III",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "IV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "The medians of a triangle cut each other in the ratio:",
+   "q_ur": "مثلث کے وسطانیے ایک دوسرے کو ____ کی نسبت میں قطع کرتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "2 : 2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1 : 1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2 : 1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3 : 1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "____ of parallelogram = base × altitude.",
+   "q_ur": "متوازی الاضلاع کا ____ = قاعدہ × لمبائی × ارتفاع۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Length",
+     "ur": "لمبائی"
+    },
+    {
+     "k": "B",
+     "en": "Weight",
+     "ur": "وزن"
+    },
+    {
+     "k": "C",
+     "en": "Mass",
+     "ur": "ماس"
+    },
+    {
+     "k": "D",
+     "en": "Area",
+     "ur": "رقبہ"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Number of lines, that can be drawn through two points is:",
+   "q_ur": "دو نقاط میں سے کھینچے جانے والے خطوط کی تعداد ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Right bisection of a line segment means ____ to draw a perpendicular at ____ of line segment.",
+   "q_ur": "کسی قطعہ خط کی عمودی تنصیف سے مراد یہ ہے کہ اس قطعہ خط پر ایسا عمود کھینچا جو اس کے ____ میں سے گزرے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mid-point",
+     "ur": "وسطی نقطہ"
+    },
+    {
+     "k": "B",
+     "en": "Any point",
+     "ur": "کوئی سا نقطہ"
+    },
+    {
+     "k": "C",
+     "en": "First end",
+     "ur": "پہلا سرا"
+    },
+    {
+     "k": "D",
+     "en": "Second end",
+     "ur": "دوسرا سرا"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Diagonals of a rectangle are:",
+   "q_ur": "مستطیل کے وتر ہوتے ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Collinear",
+     "ur": "ہم خط"
+    },
+    {
+     "k": "B",
+     "en": "Non-congruent",
+     "ur": "غیر متماثل"
+    },
+    {
+     "k": "C",
+     "en": "Non-concurrent",
+     "ur": "غیر ہم نقطہ"
+    },
+    {
+     "k": "D",
+     "en": "Congruent",
+     "ur": "متماثل"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Two non-parallel lines can intersect at ____ point(s).",
+   "q_ur": "دو غیر متوازی خطوط ____ نقطہ/نقاط پر قطع کرتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Mid-point of points (-3, 0) and (3, 0) is:",
+   "q_ur": "نقاط (-3, 0) اور (3, 0) کا درمیانی نقطہ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "(0, 3)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(-3, 0)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(-3, 3)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(0, 0)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "If (x - 1, y + 1) = (0, 0) then (x, y) is:",
+   "q_ur": "اگر (x - 1, y + 1) = (0, 0) ہو تو (x, y) برابر ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "(1, 1)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(1, -1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(1, -1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(-1, 1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Solution set of |x - 4| = -4 is:",
+   "q_ur": "|x - 4| = -4 کا حل سیٹ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "φ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{4}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{0}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{0, 3}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "(a³ - b³)/(a⁴ - b⁴) ÷ (a² + ab + b²)/(a² + b²) = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/(a - b)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/(a + b)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/(b - a)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/(a² + b²)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "The factors of x² - 5x + 6 are:",
+   "q_ur": "x² - 5x + 6 کے اجزائے ضربی ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "(x + 1),(x + 6)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(x + 6),(x - 1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(x - 2),(x - 3)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(x + 2),(x + 3)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "1/(a - b) - 1/(a + b) = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/(a - b) · 1/(a + b)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(a - b)/(a + b)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2a/(a² - b²)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2b/(a² - b²)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "The logarithm of unity to any base is:",
+   "q_ur": "کسی اساس پر '1' کا لوگارتھم ____ کے برابر ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "Real part of 2ab(i + i²) is:",
+   "q_ur": "کمپلیکس نمبر 2ab(i + i²) کا حقیقی حصہ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "-2ab",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2ab",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(-2ab)²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(2ab)²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "If [[a, b], [c, d]][[x], [y]] = [[m], [n]], then:",
+   "q_ur": "اگر [[a, b], [c, d]][[x], [y]] = [[m], [n]] ہو تو:",
+   "options": [
+    {
+     "k": "A",
+     "en": "y = (an + cm)/(ad - bc)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "y = (an + cm)/(ad + bc)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "y = (an - cm)/(ad + bc)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "y = (an - cm)/(ad - bc)",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

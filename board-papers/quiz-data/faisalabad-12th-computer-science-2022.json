@@ -1,0 +1,682 @@
+{
+ "board": "BISE Faisalabad",
+ "board_slug": "faisalabad",
+ "class": "12th",
+ "subject": "Computer Science",
+ "year": 2022,
+ "slug": "faisalabad-12th-computer-science-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Single Set",
+   "q_en": "Arithmetic manipulation of data is known as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Summarizing",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Classifying",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Calculation",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Sorting",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Single Set",
+   "q_en": "In admission table, student Rollno is used as a:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sort key",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Foreign key",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Primary key",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Secondary key",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Single Set",
+   "q_en": "The relationship between teacher and student is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "One to one",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "One to many",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Many to one",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Many to many",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Single Set",
+   "q_en": "In 3NF, a non-key attribute must not depend on a:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Non-key attribute",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Key attribute",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Composite key",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Sort key",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Single Set",
+   "q_en": "Microsoft Access saves the database with the extension:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": ".mdb",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": ".msdb",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": ".madb",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": ".sdbm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Single Set",
+   "q_en": "How many table views are available in MS-Access?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Single Set",
+   "q_en": "The name of header file is written between:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "{ }",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "( )",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "< >",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "<< >>",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Single Set",
+   "q_en": "The lowest level of programming language is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Java",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Assembly",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Pascal",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "C ++",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Single Set",
+   "q_en": "The expression 14 % 3 has a value equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4.66",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "11",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Single Set",
+   "q_en": "M + = N is equivalent to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "N + = M",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "M = + N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "N = N + M",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "M = M + N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Single Set",
+   "q_en": "Format specifier is started with the symbol:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "?",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "%",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "\\",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "•",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Single Set",
+   "q_en": "Another term for a conditional operator is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ternary",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Binary",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Byte",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Unary",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Single Set",
+   "q_en": "One execution of a loop is known as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cycle",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Duration",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Test",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Iteration",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Single Set",
+   "q_en": "The scope of a variable refers to its:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Length",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Name",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Accessibility",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Data type",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Single Set",
+   "q_en": "On successfully closing a file, the fclose() returns:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Null",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0 (zero)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "File pointer",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1 (one)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "group": "Single Set",
+   "q_en": "Visual Basic is a product of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "IBM",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Sun System",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Microsoft",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Hewlett",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "group": "Single Set",
+   "q_en": "The lowest level of programming language is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Java",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Assembly",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Pascal",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "C ++",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "group": "Single Set",
+   "q_en": "The expression 14 MOD 3 has a value equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4.66",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "11",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "group": "Single Set",
+   "q_en": "Methods characterize an object's :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Appearance",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Value",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Style",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Behaviour",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "group": "Single Set",
+   "q_en": "Back colour, enabled and fore colour are examples of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Objects",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Properties",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Parameters",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Methods",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "group": "Single Set",
+   "q_en": "Which programming structure makes a comparison?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Decision",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Option",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Sequence",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Repetition",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "group": "Single Set",
+   "q_en": "The keyword that marks the end of a Do structure is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "End While",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "End Do",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Exit Do",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Loop",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "group": "Single Set",
+   "q_en": "Which one is a valid VB data type?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Int",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Array",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Boolean",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Char",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "group": "Single Set",
+   "q_en": "You can enter data in a control only when it has:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mask",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Focus",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Tab order",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Control",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,290 @@
+{
+ "board": "BISE Faisalabad",
+ "board_slug": "faisalabad",
+ "class": "10th",
+ "subject": "Computer Science",
+ "year": 2023,
+ "slug": "faisalabad-10th-computer-science-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Which control structure execute the program statements in order? Ch. # 3",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Relational",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Repetitional",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Conditional",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Sequential",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "How many times Pak will print by using this statement? Ch. # 4\nfor (int a = 0 ; a < 3 ; a + +)\nprintf (\"PAK\");",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The index of first element of an array is: Ch. # 4",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Which part of for loop is executed first? Ch. # 4",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Initialization",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Condition",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Body",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Increment / Decrement",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "______ means to transfer the control to another function. Ch. # 5",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Defining",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Calling",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Re-writing",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Including",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Include statements are written in ______ section. Ch. # 1",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Header",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Main",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Comments",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Print",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "______ can be thoughts as a container to store constants. Ch. # 2",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Box",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Jar",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Variable",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Collection",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The operator % is used to calculate. Ch. # 2",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Percentage",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Remainder",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Factorial",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Square",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Which is not a type of operator? Ch. # 2",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Arithmetic operator",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Relational Operator",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Check Operator",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Logical Operator",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "In If Else statement keyword if is followed by a condition inside. Ch. # 3",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "< >",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "( )",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{ }",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[ ]",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

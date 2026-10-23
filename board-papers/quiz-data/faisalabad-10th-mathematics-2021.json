@@ -1,0 +1,850 @@
+{
+ "board": "BISE Faisalabad",
+ "board_slug": "faisalabad",
+ "class": "10th",
+ "subject": "Mathematics",
+ "year": 2021,
+ "slug": "faisalabad-10th-mathematics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The quadratic formula is:",
+   "q_ur": "درج ذیل فارمولا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "x = (–b ± √(b² – 4ac))/2a",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x = (b ± √(b² – 4ac))/2a",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x = (–b ± √(b² + 4ac))/2a",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x = (b ± √(b² + 4ac))/2a",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "If α, β are roots of equation 7x² – x + 4 = 0 then αβ is:",
+   "q_ur": "اگر α, β مساوات 7x² – x + 4 = 0 کے روٹس ہوں تو αβ برابر ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "–1/7",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4/7",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "–4/7",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Sum of cube roots of unity is:",
+   "q_ur": "اکائی کے جذر المکعب کا مجموعہ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "–1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "In a ratio a : b, a is called:",
+   "q_ur": "نسبت a : b میں a کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Relation",
+     "ur": "[illegible in source scan]"
+    },
+    {
+     "k": "B",
+     "en": "Antecedent",
+     "ur": "[illegible in source scan]"
+    },
+    {
+     "k": "C",
+     "en": "Consequent",
+     "ur": "[illegible in source scan]"
+    },
+    {
+     "k": "D",
+     "en": "Ratio",
+     "ur": "نسبت"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Find x in proportion 4 : x :: 5 : 15 :",
+   "q_ur": "تناسب 4 : x :: 5 : 15 میں x معلوم کیجیے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "75/4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "12",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Partial fractions of (x² + 1)/((x + 1)(x – 1)) are of the form:",
+   "q_ur": "(x² + 1)/((x + 1)(x – 1)) کی جزوی کسریں اس شکل کی ہوتی ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 + A/(x+1) + (Bx+C)/(x–1)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A/(x+1) + B/(x–1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(Ax+B)/(x+1) + C/(x–1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1 + A/(x+1) + B/(x–1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "A collection of well defined objects is called:",
+   "q_ur": "اچھی طرح سے متعین اشیاء کا مجموعہ کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sub set",
+     "ur": "سب سیٹ"
+    },
+    {
+     "k": "B",
+     "en": "Power set",
+     "ur": "پاور سیٹ"
+    },
+    {
+     "k": "C",
+     "en": "Set",
+     "ur": "سیٹ"
+    },
+    {
+     "k": "D",
+     "en": "Empty set",
+     "ur": "خالی سیٹ"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "If A ⊆ B then A ∩ B is equal to:",
+   "q_ur": "اگر A ⊆ B ہو تو A ∩ B برابر ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "A",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "B",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "φ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "U",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "A grouped frequency table is called:",
+   "q_ur": "گروپڈ فریکوئنسی ٹیبل کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Data",
+     "ur": "ڈیٹا"
+    },
+    {
+     "k": "B",
+     "en": "Frequency distribution",
+     "ur": "فریکوئنسی ڈسٹری بیوشن"
+    },
+    {
+     "k": "C",
+     "en": "Frequency polygon",
+     "ur": "فریکوئنسی پولی گان"
+    },
+    {
+     "k": "D",
+     "en": "Histogram",
+     "ur": "ہسٹوگرام"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Mean is affected by change in: ______",
+   "q_ur": "حسابی اوسط ______ تبدیل کرنے سے متاثر ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Value",
+     "ur": "قیمت"
+    },
+    {
+     "k": "B",
+     "en": "Ratio",
+     "ur": "نسبت"
+    },
+    {
+     "k": "C",
+     "en": "Origin",
+     "ur": "مبدا"
+    },
+    {
+     "k": "D",
+     "en": "Proportion",
+     "ur": "تناسب"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "sec² θ = ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 – sin² θ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1 + tan² θ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1 + cos² θ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1 – tan² θ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Radii of a circle are:",
+   "q_ur": "ایک ہی دائرے کے رداس ہوتے ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "All equal",
+     "ur": "تمام برابر"
+    },
+    {
+     "k": "B",
+     "en": "Double of the diameter",
+     "ur": "قطر سے دوگنا"
+    },
+    {
+     "k": "C",
+     "en": "All unequal",
+     "ur": "تمام غیر برابر"
+    },
+    {
+     "k": "D",
+     "en": "Half of any chord",
+     "ur": "کسی بھی وتر سے آدھے"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "A circle has only one: ______",
+   "q_ur": "ایک دائرے کا صرف ایک ہی ______ ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Secant",
+     "ur": "قاطع"
+    },
+    {
+     "k": "B",
+     "en": "Chord",
+     "ur": "وتر"
+    },
+    {
+     "k": "C",
+     "en": "Diameter",
+     "ur": "قطر"
+    },
+    {
+     "k": "D",
+     "en": "Center",
+     "ur": "مرکز"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "A 4cm long chord subtends a central angle of 60° the radial segment of this circle is: ______",
+   "q_ur": "ایک 4cm لمبی وتر مرکزی زاویہ 60° کا زاویہ بناتا ہے اس دائرے کا رداسی قطعہ ______ ہوگا۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "The circumference of circle is called:",
+   "q_ur": "دائرے کے محیط کو کہا جاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Chord",
+     "ur": "وتر"
+    },
+    {
+     "k": "B",
+     "en": "Segment",
+     "ur": "قطعہ"
+    },
+    {
+     "k": "C",
+     "en": "Boundary",
+     "ur": "حد"
+    },
+    {
+     "k": "D",
+     "en": "Radius",
+     "ur": "رداس"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "A portion of a circle between two radii and an arc is called:",
+   "q_ur": "دو رداسوں اور قوس کے درمیان دائرے کا حصہ کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sector",
+     "ur": "سیکٹر"
+    },
+    {
+     "k": "B",
+     "en": "Segment",
+     "ur": "قطعہ"
+    },
+    {
+     "k": "C",
+     "en": "Chord",
+     "ur": "وتر"
+    },
+    {
+     "k": "D",
+     "en": "Boundary",
+     "ur": "حد"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "An arc subtends a central angle of 40°, then corresponding chord will subtend a central angle of:",
+   "q_ur": "ایک قوس مرکزی زاویہ 40° بناتی ہے تو اس کے متعلقہ وتر مرکزی زاویہ بنائے گا:",
+   "options": [
+    {
+     "k": "A",
+     "en": "20°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "40°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "80°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "A circle has only one:",
+   "q_ur": "ایک دائرے کا صرف ایک ہی ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Secant",
+     "ur": "قاطع"
+    },
+    {
+     "k": "B",
+     "en": "Chord",
+     "ur": "وتر"
+    },
+    {
+     "k": "C",
+     "en": "Diameter",
+     "ur": "قطر"
+    },
+    {
+     "k": "D",
+     "en": "Center",
+     "ur": "مرکز"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "A chord passing through the center of a circle is called:",
+   "q_ur": "دائرے کے مرکز سے گزرنے والا وتر کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Radius",
+     "ur": "رداس"
+    },
+    {
+     "k": "B",
+     "en": "Circumference",
+     "ur": "محیط"
+    },
+    {
+     "k": "C",
+     "en": "Line segment",
+     "ur": "خطی قطعہ"
+    },
+    {
+     "k": "D",
+     "en": "Diameter",
+     "ur": "قطر"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "sec² θ = ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 – sin² θ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1 + tan² θ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1 + cos² θ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1 – tan² θ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "A data in the form of a frequency distribution is called:",
+   "q_ur": "تعدد کی شکل میں ڈیٹا کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Grouped data",
+     "ur": "گروپڈ ڈیٹا"
+    },
+    {
+     "k": "B",
+     "en": "Ungrouped data",
+     "ur": "ان گروپڈ ڈیٹا"
+    },
+    {
+     "k": "C",
+     "en": "Histogram",
+     "ur": "ہسٹوگرام"
+    },
+    {
+     "k": "D",
+     "en": "Ratio",
+     "ur": "نسبت"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "A measure which determines the middle most observation in a data set is called:",
+   "q_ur": "ایسا پیمانہ جو ڈیٹا سیٹ میں درمیانی مشاہدے کا تعین کرتا ہے کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mean",
+     "ur": "[illegible in source scan]"
+    },
+    {
+     "k": "B",
+     "en": "Mode",
+     "ur": "موڈ"
+    },
+    {
+     "k": "C",
+     "en": "Harmonic mean",
+     "ur": "ہارمونک اوسط"
+    },
+    {
+     "k": "D",
+     "en": "Median",
+     "ur": "میڈین"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Power set of an empty set is:",
+   "q_ur": "خالی سیٹ کا پاور سیٹ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "{φ}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{a}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{φ, a}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{φ, {φ}}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Point (–1, 4) lies in the quadrant:",
+   "q_ur": "نقطہ (–1, 4) ربع میں ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "I",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "II",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "III",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "IV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "(x + 3)² = x² + 6x + 9 is: ______",
+   "q_ur": "(x + 3)² = x² + 6x + 9 ایک ______ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "A linear equation",
+     "ur": "ایک خطی مساوات"
+    },
+    {
+     "k": "B",
+     "en": "An equation",
+     "ur": "ایک مساوات"
+    },
+    {
+     "k": "C",
+     "en": "An identity",
+     "ur": "ایک شناخت"
+    },
+    {
+     "k": "D",
+     "en": "Fraction",
+     "ur": "کسر"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Find the value of x in proportion 4 : x :: 5 : 15",
+   "q_ur": "تناسب 4 : x :: 5 : 15 میں x کی قیمت معلوم کیجیے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "75/4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "12",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "In a ratio x : y, y is called:",
+   "q_ur": "نسبت x : y میں y کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Relation",
+     "ur": "تعلق"
+    },
+    {
+     "k": "B",
+     "en": "Antecedent",
+     "ur": "مقدم"
+    },
+    {
+     "k": "C",
+     "en": "Consequent",
+     "ur": "موخر"
+    },
+    {
+     "k": "D",
+     "en": "Means",
+     "ur": "وسطین"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "If α, β are the roots of x² – x – 1 = 0 then product of the roots of 2α and 2β is:",
+   "q_ur": "اگر α, β مساوات x² – x – 1 = 0 کے روٹس ہوں تو 2α اور 2β کے روٹس کا حاصل ضرب ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "–2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "–4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "If b² – 4ac < 0, then the roots of the equation ax² + bx + c = 0 are:",
+   "q_ur": "اگر b² – 4ac < 0 ہو تو مساوات ax² + bx + c = 0 کے روٹس ہوتے ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Rational",
+     "ur": "ناطق"
+    },
+    {
+     "k": "B",
+     "en": "Irrational",
+     "ur": "غیر ناطق"
+    },
+    {
+     "k": "C",
+     "en": "Real",
+     "ur": "حقیقی"
+    },
+    {
+     "k": "D",
+     "en": "Imaginary",
+     "ur": "تخیلی"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "The number of methods to solve a quadratic equation is:",
+   "q_ur": "دو درجی مساوات کو حل کرنے کے طریقے ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

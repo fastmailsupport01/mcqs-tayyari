@@ -1,0 +1,962 @@
+{
+ "board": "BISE Faisalabad",
+ "board_slug": "faisalabad",
+ "class": "12th",
+ "subject": "Physics",
+ "year": 2021,
+ "slug": "faisalabad-12th-physics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Electrical field intensity between two oppositely charged parallel plates is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2σ/ε₀",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "σ/ε₀",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "σ/2ε₀",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ε₀/σ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "When a dielectric material is inserted between the plates of a capacitor, the potential difference between the plates:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Does not change",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Increases",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Decreases",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Increases then decreases",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Kirchhoff's first rule is based on law of conservation of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mass",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Momentum",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Energy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Charge",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Magnetic field strength is measured in terms of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Wbm⁻²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Wb",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NmA⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Js",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "In CRO the output waveform of time base generator is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A ripple",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Square wave",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Sinusoidal",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Saw tooth",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Mutual inductance of two coils does not depend on:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Number of turns of the coils",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Area of cross-section of coils",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Density of material of coils",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nature of the core material",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "If the magnetic field intensity is doubled then magnetic energy density becomes:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Four times",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Double",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Half",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Eight times",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Direct current cannot flow through:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Resistor",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Capacitor",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Inductor",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ammeter",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "In RLC series circuit, the condition for resonance is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Xc > XL",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Xc = XL",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Xc < XL",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "XL = Z",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Dimensions of strain are same as that of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Stress",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Pressure",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Young's modulus",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Relative permittivity",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Forward resistance of the p-n junction is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Very large",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Of the order of kΩ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A few Ohms",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "In mega Ohms",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "In a transistor greater concentration of impurity is added in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Emitter",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Collector",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Both emitter and collector",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Base",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Value of Plank's constant is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "6.34×10⁻⁴³Js",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6.43×10⁻³⁴Js",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6.64×10⁻¹⁹Js",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6.63×10⁻³⁴Js",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "A gamma radiation has an energy of the order of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 MeV",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1 keV",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "100 eV",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1 eV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Rydberg constant is given in units of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "kg⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "m⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "s⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Js",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "In a nuclear transmutation, radium changes into radon, the emitted particle is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A neutron",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A proton",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "An alpha particle",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A beta particle",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "The average number of neutrons produced per fission of uranium-235 atom is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2.5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "A particle of mass m and charge q is released from rest in a uniform electric field E. The K.E. attained by the particle after moving a distance 'd' is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ed/q",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "qE²d",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "qEd",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "qE/d²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "The energy stored in the capacitor is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "K.E.",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "P.E.",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Electrical K.E.",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Electical P.E.",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "On increasing the length of wire specific resistance of the wire:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Increases",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Decreases",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Remains unchanged",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "First increase then decrease",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "An electron is moving in a circle of radius 'r' in a uniform magnetic field, suddenly the field is reduced to B/2, the radius of circle now becomes:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "r/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "r/4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2 r",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4 r",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Force on current carrying conductor per unit length is given by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ILB sin θ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ILB",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "IB",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "IB sin θ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "The current flowing through a coil due to induced emf in it depends upon:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Shape of the coil",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Resistance of the coil",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Area of the coil",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Magnetic flux",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "The induced emf primarily produced at the cost of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Internal energy",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Chemical energy",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Electrical energy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mechanical energy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "At low frequency the current through a capacitor of A.C. circuit will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Large",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Small",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Infinite",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "The inductance and capacitance behave a function of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Voltage",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Frequency",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Time",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Current",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Impurity atoms are doped in semi-conductor to increase:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Free electrons",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Holes",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Conductivity",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Resistivity",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "The specially designed semi-conductor diode used as indicator lamp in electronic circuit are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "The switch",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Solar cells",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Photodiodes",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Light emitting diode",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Which diode is used for detection of light?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Light emitting diode",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Photo diode",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Photo voltaic cell",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "Rest mass of photon is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Infinity",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "hf/e",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "hc/λ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "Threshold wavelength for metal having work function φ₀ is λ₀. What is threshold wavelength for metal having work function 2 φ₀ is?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "λ/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4 λ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2λ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "λ/4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "Production of X-rays can be regarded as inverse of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Compton effect",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Photoelectric effect",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Annihilation of matter",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Pair production",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "The energy released per unit mass is greater in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Fission reaction",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Fusion reaction",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Chemical reaction",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nuclear reaction",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "Energy needed to create an electron-hole pair in a solid state detector is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2 - 3 eV",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3 - 4 eV",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4 - 5 eV",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5 - 6 eV",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

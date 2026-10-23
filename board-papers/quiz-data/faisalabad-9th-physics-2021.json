@@ -1,0 +1,682 @@
+{
+ "board": "BISE Faisalabad",
+ "board_slug": "faisalabad",
+ "class": "9th",
+ "subject": "Physics",
+ "year": 2021,
+ "slug": "faisalabad-9th-physics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Rate of flow of heat is:",
+   "q_ur": "حرارت کے بہاؤ کی شرح ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Q/t²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Q²/t",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Q × t",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Q/t",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "In solids heat is transferred by:",
+   "q_ur": "ٹھوس اجسام میں انتقال حرارت کا طریقہ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Convection",
+     "ur": "کنویکشن"
+    },
+    {
+     "k": "B",
+     "en": "Radiation",
+     "ur": "ریڈی ایشن"
+    },
+    {
+     "k": "C",
+     "en": "Conduction",
+     "ur": "کنڈکشن"
+    },
+    {
+     "k": "D",
+     "en": "Absorption",
+     "ur": "ابزورپشن"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Linear thermal expansion in solids (L) = :",
+   "q_ur": "ٹھوس اجسام میں طولی پھیلاؤ (L):",
+   "options": [
+    {
+     "k": "A",
+     "en": "T₀(1 + αΔL)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "L₀(1 + αΔT)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "T₀(αΔL)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "L₀(1 – αΔT)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Liquid pressure at depth h = :",
+   "q_ur": "h گہرائی پر مائع کا پریشر = :",
+   "options": [
+    {
+     "k": "A",
+     "en": "ρgh",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ρgv",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ρgv²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "mgh",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Potential energy (P.E.) = :",
+   "q_ur": "پوٹینشل انرجی (P.E.):",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/2 mv²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "mv²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "m²gh",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "mgh",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "1 horse power is equal to:",
+   "q_ur": "ایک ہارس پاور برابر ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "674 W",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "647 W",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "746 W",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "764 W",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Formula to find the orbital speed of a low orbit satellite is:",
+   "q_ur": "نچلے آربٹ میں گردش کرنے والے سیٹلائٹ کی آربٹل سپیڈ معلوم کرنے کا فارمولا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "v₀ = √gR",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "v₀ = gR",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "v₀ = √gR²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "v₀ = gR²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Conditions of equilibrium are:",
+   "q_ur": "ایکوی لبریم کی شرائط ہوتی ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Coefficient of friction (μ) is equal to:",
+   "q_ur": "فرکشن کا کوایفیشینٹ (μ) برابر ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "R/Fₛ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "FₛR",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Fₛ/R",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "FₛR²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "SI unit of momentum is:",
+   "q_ur": "مومنٹم کا SI یونٹ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "kgms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "kgm⁻¹s⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "kgms⁻²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "kgms²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The product of velocity and time is equal to:",
+   "q_ur": "ولاسٹی اور وقت کا حاصل ضرب برابر ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mass",
+     "ur": "ماس"
+    },
+    {
+     "k": "B",
+     "en": "Displacement",
+     "ur": "ڈسپلیسمنٹ"
+    },
+    {
+     "k": "C",
+     "en": "Acceleration",
+     "ur": "ایکسلریشن"
+    },
+    {
+     "k": "D",
+     "en": "Force",
+     "ur": "فورس"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Amount of substance is measured in:",
+   "q_ur": "مادے کی مقدار کی پیمائش کی جاتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Gram",
+     "ur": "گرام"
+    },
+    {
+     "k": "B",
+     "en": "Kilogram",
+     "ur": "کلوگرام"
+    },
+    {
+     "k": "C",
+     "en": "Newton",
+     "ur": "نیوٹن"
+    },
+    {
+     "k": "D",
+     "en": "Mole",
+     "ur": "مول"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "The amount of a substance in terms of numbers is measured:",
+   "q_ur": "کسی شے میں مادے کی مقدار معلوم کرنے کا یونٹ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Gram",
+     "ur": "گرام"
+    },
+    {
+     "k": "B",
+     "en": "Kilogram",
+     "ur": "کلوگرام"
+    },
+    {
+     "k": "C",
+     "en": "Newton",
+     "ur": "نیوٹن"
+    },
+    {
+     "k": "D",
+     "en": "Mole",
+     "ur": "مول"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "A train is moving at a speed of 36kmh⁻¹. Its speed expressed in ms⁻¹:",
+   "q_ur": "ایک ٹرین 36kmh⁻¹ کی سپیڈ سے حرکت کر رہی ہے۔ ms⁻¹ میں اس کی سپیڈ ہوگی:",
+   "options": [
+    {
+     "k": "A",
+     "en": "10ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "20ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "25ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "30ms⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "The unit of momentum is:",
+   "q_ur": "مومنٹم کا یونٹ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "kgms⁻²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ns",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ns⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "A force of 10N is making an angle of 30° with x-axis. Its horizontal component will be:",
+   "q_ur": "10 نیوٹن کی ایک فورس x-ایکسز کے ساتھ 30° کا زاویہ بناتی ہے۔ اس کا افقی کمپوننٹ ہوگا:",
+   "options": [
+    {
+     "k": "A",
+     "en": "4N",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8.7N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The value of g on moon's surface is 1.6ms⁻². What will be the weight of a 100kg body on the surface of moon?",
+   "q_ur": "چاند کی سطح پر g کی قیمت 1.6ms⁻² ہے۔ چاند پر 100kg کے ایک جسم کا وزن ہوگا:",
+   "options": [
+    {
+     "k": "A",
+     "en": "100N",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "160N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1000N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1600N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "The K.E. of a body of mass 2kg is 25J. Its speed is:",
+   "q_ur": "2kg کے ایک جسم کی K.E. 25 جول ہے۔ اس کی سپیڈ ہوگی:",
+   "options": [
+    {
+     "k": "A",
+     "en": "5ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "12.5ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "25ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "50ms⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "SI unit of pressure is Pascal which is equal to:",
+   "q_ur": "پریشر کا SI یونٹ پاسکل ہے اور ایک پاسکل برابر ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "10⁴Nm⁻²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1Nm⁻²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10²Nm⁻²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10³Nm⁻²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Which affects evaporation?",
+   "q_ur": "کون سا ایواپوریشن کو متاثر کرتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Temperature",
+     "ur": "درجہ حرارت"
+    },
+    {
+     "k": "B",
+     "en": "Surface area of liquid",
+     "ur": "مائع کی سطح کا رقبہ"
+    },
+    {
+     "k": "C",
+     "en": "Wind",
+     "ur": "ہوا"
+    },
+    {
+     "k": "D",
+     "en": "All these",
+     "ur": "یہ تمام"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "The thermal conductivity of copper in Wm⁻¹K⁻¹:",
+   "q_ur": "کاپر کی Wm⁻¹K⁻¹ میں تھرمل کنڈکٹیویٹی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "200",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "300",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "400",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "430",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "The value of coefficient of friction between tyre and dry road is: ______",
+   "q_ur": "ٹائر اور خشک سڑک کے درمیان کوایفیشینٹ آف فرکشن کی قیمت ہے: ______",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.8",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "The derived unit is:",
+   "q_ur": "ماخوذ یونٹ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ampere",
+     "ur": "ایمپیئر"
+    },
+    {
+     "k": "B",
+     "en": "Pascal",
+     "ur": "پاسکل"
+    },
+    {
+     "k": "C",
+     "en": "Candela",
+     "ur": "کینڈیلا"
+    },
+    {
+     "k": "D",
+     "en": "Kelvin",
+     "ur": "کیلون"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "The specific heat of sand is:",
+   "q_ur": "ریت کی حرارت مخصوصہ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "835Jkg⁻¹K⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2100Jkg⁻¹K⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4200Jkg⁻¹K⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "900Jkg⁻¹K⁻¹",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

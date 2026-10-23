@@ -1,0 +1,290 @@
+{
+ "board": "BISE Faisalabad",
+ "board_slug": "faisalabad",
+ "class": "9th",
+ "subject": "Computer Science",
+ "year": 2021,
+ "slug": "faisalabad-9th-computer-science-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The IPV4 address is made up of ______ binary bits.",
+   "q_ur": "IPV4 ایڈریس ______ بائنری بٹس سے بنتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "31",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "29",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "32",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "30",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Primarily there are ______ types of memory.",
+   "q_ur": "بنیادی طور پر میموری کی اقسام ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Number \"17\" is equal to ______ in binary system.",
+   "q_ur": "بائنری سسٹم میں نمبر \"17\" ______ کے برابر ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "10000",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10110",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10001",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10100",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "It is used to determine the flow of steps in a flow chart:",
+   "q_ur": "یہ کسی فلو چارٹ میں مرحلے کے بہاؤ کا تعین کرنے کے لیے استعمال کیا جاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Connector",
+     "ur": "کنیکٹر"
+    },
+    {
+     "k": "B",
+     "en": "Flow line",
+     "ur": "فلو لائن"
+    },
+    {
+     "k": "C",
+     "en": "Process",
+     "ur": "عمل"
+    },
+    {
+     "k": "D",
+     "en": "Decision",
+     "ur": "فیصلہ سازی"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "It is used to display values:",
+   "q_ur": "الگورتھم میں یہ علامت اقدار دکھانے کے لیے استعمال ہوتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "If-else",
+     "ur": "اف ایلس"
+    },
+    {
+     "k": "B",
+     "en": "Output",
+     "ur": "آؤٹ پٹ"
+    },
+    {
+     "k": "C",
+     "en": "Stop",
+     "ur": "سٹاپ"
+    },
+    {
+     "k": "D",
+     "en": "Input",
+     "ur": "ان پٹ"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "To save the HTML page, you can use ______ as file extension.",
+   "q_ur": "ایک HTML پیج کو محفوظ کرنے کے لیے ______ ایکسٹینشن استعمال کرتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "HTMT",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "HTML",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "XATML",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": ".DOCX",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "______ tag is used for inserting line break.",
+   "q_ur": "لائن کو بریک کرنے کے لیے ______ ٹیگ استعمال کیا جاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "<dr>",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "<br>",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "<cr>",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "<gr>",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Caeser used this method of ______ for sending messages to his soldiers and generals.",
+   "q_ur": "سیزر نے اپنے فوجیوں اور جنرلز کو پیغامات بھیجنے کے لیے ______ کا طریقہ استعمال کیا:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Encryption",
+     "ur": "خفیہ کاری"
+    },
+    {
+     "k": "B",
+     "en": "Confidentiality",
+     "ur": "رازداری"
+    },
+    {
+     "k": "C",
+     "en": "Client server over use",
+     "ur": "کلائنٹ سرور اوور یوز"
+    },
+    {
+     "k": "D",
+     "en": "Patent",
+     "ur": "پیٹنٹ"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "______ are used for authentication to enter a system.",
+   "q_ur": "کوئی ایک سسٹم تک رسائی حاصل کرنے کے لیے تصدیق کے طور پر استعمال کیا جاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Passwords",
+     "ur": "پاس ورڈز"
+    },
+    {
+     "k": "B",
+     "en": "Web page",
+     "ur": "ویب پیج"
+    },
+    {
+     "k": "C",
+     "en": "Keyboard",
+     "ur": "کی بورڈ"
+    },
+    {
+     "k": "D",
+     "en": "Network",
+     "ur": "نیٹ ورک"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "It is a standard protocol to transmit emails from one place to another:",
+   "q_ur": "ای میل کو ایک جگہ سے دوسری جگہ منتقل کرنے کے لیے استعمال ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Simple Mail Transfer Protocol",
+     "ur": "سمپل میل ٹرانسفر پروٹوکول"
+    },
+    {
+     "k": "B",
+     "en": "Hyper Text Transfer Protocol",
+     "ur": "ہائپر ٹیکسٹ ٹرانسفر پروٹوکول"
+    },
+    {
+     "k": "C",
+     "en": "Message",
+     "ur": "پیغام"
+    },
+    {
+     "k": "D",
+     "en": "Protocol",
+     "ur": "پروٹوکول"
+    }
+   ]
+  }
+ ]
+}

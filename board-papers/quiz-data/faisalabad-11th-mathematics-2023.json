@@ -1,0 +1,1130 @@
+{
+ "board": "BISE Faisalabad",
+ "board_slug": "faisalabad",
+ "class": "11th",
+ "subject": "Mathematics",
+ "year": 2023,
+ "slug": "faisalabad-11th-mathematics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "If ⁿC₈ = ⁿC₁₂, then 'n' equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "20",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "12",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The inequality 4ⁿ > 3ⁿ + 4 is true for:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "n = 1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "n ≥ 2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "n = 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "n < 2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Middle term of (a + b)¹¹ is / are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "6th",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5th & 6th",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6th & 7th",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5th",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "cot²θ - cosec²θ equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "tan(π - α) is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "tan α",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-tan α",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "cot α",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-cot α",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The period of 3cos(x/5) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/10",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10π",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π/5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "If ΔABC is right triangle such that m∠α = 90°, then with usual notations, the true statement is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a² = b² + c²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "b² = a² + c²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "c² = a² + b²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a² = b² = c²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "a/sinα = b/sinβ = c/sinγ is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Law of cosine",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Law of sine",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Law of tangents",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Law of fundamental trigonometry",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "2tan⁻¹A equals:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "tan⁻¹(2A/(1-A²))",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "tan⁻¹(A/(1-A²))",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "tan⁻¹(A/(1+A²))",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "tan⁻¹(2A/(1+A²))",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "If sinx = cosx, then x = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "30°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "60°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The multiplicative inverse of complex number (0, -1) is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(1, 0)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(0, 1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(-1, 0)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(0, 0)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The domain of f = {(a, 1), (b, 1), (c, 1)} is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "{a, b, c}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{a}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{1}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{b, c}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "The inverse of a square matrix exists if A is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Singular",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Non-singular",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Symmetric",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Rectangular",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "The matrix [a b c d] is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Square",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Unit",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Null",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Row matrix",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "The number of roots of polynomial equation 8x⁶ - 19x³ - 27 = 0 are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "If ω is the cube root of unity, then (1 + ω - ω²)⁸ = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "256",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-256",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-256ω",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "256ω",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "Types of rational fractions are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group I",
+   "q_en": "Reciprocal terms of an arithmetic progression form:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A.P.",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "H.P.",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "G.P.",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Sequence",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group I",
+   "q_en": "If A, G, H have their usual meanings and 'a' and 'b' are positive distinct real numbers and G > 0, then:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A > G > H",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A < G < H",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "H > G > A",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "G > H > A",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group I",
+   "q_en": "If ⁿP₂ = 30, then n = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "If n = 1, then value of n(n-1)! is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "(n³ + 2n)/3 represents an / a:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Real number",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Rational number",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Irrational number",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Integer",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "In the expansion of (a + b)⁷, the 2nd term is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a⁷",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "7ab⁶",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7a⁶b⁶",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "7a⁶b",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "1° = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "180/π radian",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/180 radian",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/(180π) radian",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "180π radian",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "sin3x = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4cos³x - 3cosx",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3cos³x - 4cosx",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3sinx - 4sin³x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4sinx - 3sin³x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Range of sin x is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[-1, 1]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(-1, 1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[-1, 1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(-1, 1]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "If ABC be any triangle and γ = 90°, then:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a² - c² = b²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a² + b² + c² = 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a² + c² = b²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a² + b² = c²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "With usual notation area of triangle ABC is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "√(s-a)(s-b)(s-c)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "b/(a sin β)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ab sin γ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(ac sin β)/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "tan(tan⁻¹(-1)) = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π/4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-π/4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "If sin x = 1/2, then x = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-π/6, 5π/6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-π/6, 5π/6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/6, 5π/6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π/3, 2π/3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "The set, S = {1} is closed under:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Multiplication",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Addition",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Subtraction",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Division",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "p ∧ ~q is a / an:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Absurdity",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Tautology",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Inverse",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Converse",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "If A = [[x, 1], [1, 1]] and |A| = 1, then x = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "The matrix [a b c d] is a ______ matrix.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Square",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Row",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Unit",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Null",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "For what value of K will equation x² - Kx + 4 = 0 have sum of roots equal to product of roots?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "Which is a factor of xⁿ + aⁿ, n ∈ O?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x + a",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x - a",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x = 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x - 2a",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "p(x)/(x² + 1) will be proper fraction if degree of p(x) = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group II",
+   "q_en": "No, term of the geometric sequence is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group II",
+   "q_en": "If two numbers are 3√5 and 5√5, then arithmetic mean will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "8√5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4√5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2√5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6√5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group II",
+   "q_en": "⁶P₄ = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3450",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "361",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "360",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "363",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

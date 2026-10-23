@@ -1,0 +1,570 @@
+{
+ "board": "BISE Faisalabad",
+ "board_slug": "faisalabad",
+ "class": "12th",
+ "subject": "Mathematics",
+ "year": 2022,
+ "slug": "faisalabad-12th-mathematics-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "If α is the inclination of the line ℓ, then its slope is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "sin α",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "cos α",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "tan α",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "cot α",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The lines represented by ax² + 2hxy + by² = 0 are imaginary if:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "h² – ab = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "h² – ab < 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "h² – ab > 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "h² – ab ≠ 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Two lines a₁x + b₁y + c₁ = 0 and a₂x + b₂y + c₂ = 0 are parallel if:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a₁a₂ + b₁b₂ = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a₁a₂ – b₁b₂ = 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a₁b₂ – a₂b₁ = 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a₁b₂ + a₂b₁ = 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Equation of vertical line through (7, –9) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x = 7",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x = –9",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "y = 7",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "y = –9",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "(1, 0) is the solution of the inequality:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "7x + 2y < 8",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3x + y > 6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x – 3y < 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "–3x + y > 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Length of tangent drawn from (0, 1) to the circle x² + y² + 6x – 3y + 3 = 0, is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Vertex of the parabola (y – 3)² = 8(x + 2) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(0, 0)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(3, –2)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(–3, 2)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(–2, 3)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "For hyperbola x²/a² – y²/b² = 1:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "b² = a² – c²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "b² = c² – a²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "b² = a² + c²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a² + b² + c² = 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "If F⃗ = 4i + 3j + 5k and d⃗ = –i + 3j + 8k, then work done is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "30 units",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "45 units",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "53 units",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "47 units",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "If U, V and W are coterminous edges of a tetrahedron, then its volume is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[UVW]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "¹/₃[UVW]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "¹/₆[UVW]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "¹/₉[UVW]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "x = a cos θ, y = b sin θ are parametric equations of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Circle",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Parabola",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ellipse",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Hyperbola",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Domain of f(x) = √(x+1) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[ –1, +∞)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(−∞, +∞)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(0, +∞)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[0, +∞)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "If y = tanh⁻¹x, then dy/dx = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/(1+x²)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/(1–x²)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "–1/(1+x²)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "–1/(1–x²)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "d/dx (a^λx) = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a^λx",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a^λx·ℓna",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "λa^λx·ℓna",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a^λx/(λℓna)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "d/dx (sin√x) = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "cos√x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "cos√x·1/√x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√x cos√x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "cos√x·1/(2√x)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "d/dx (ℓn(e^x)) = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/e^x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "e^x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "e^(2x)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "∫ 1/cos²x dx = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/sin²x + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "tan x + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "sec²x + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "cosec²x + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group I",
+   "q_en": "Suitable substitution to evaluate ∫ 1/√(x² – a²) dx is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x = a sin θ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x = a tan θ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x = a sec θ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x = a cos θ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group I",
+   "q_en": "∫(sec²θ – tan²θ) dθ = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "θ + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "sin θ + cos θ + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2secθ – 2tanθ + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "tanθ – cotθ + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group I",
+   "q_en": "∫[–π/₄ to π/₄] sec²θ dθ = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,430 @@
+{
+ "board": "BISE Faisalabad",
+ "board_slug": "faisalabad",
+ "class": "11th",
+ "subject": "Computer Science",
+ "year": 2022,
+ "slug": "faisalabad-11th-computer-science-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Single set",
+   "q_en": "A webpage is written in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "HTML",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "IP",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "FTP",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "TCP",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Single set",
+   "q_en": "A formula in Excel always begins with:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": ">",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "<",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "=",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": ">=",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Single set",
+   "q_en": "Which is word processor?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Adobe acrobat",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Photo express",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "MS Excel",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "MS Word",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Single set",
+   "q_en": "All files deleted from computer are stored in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "My documents",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Desktop",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Recycle bin",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Dust bin",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Single set",
+   "q_en": "Special software used to detect and remove computer virus is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Bacteria",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Trojan Horse",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Worm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Anti-virus",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Single set",
+   "q_en": "Which register holds the address of next instruction to be executed?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Instruction register",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Program counter",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "MAR",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "MBR",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Single set",
+   "q_en": "Which RAM type needs electric current to maintain its electrical state?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "SRAM",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ROM",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "MRAM",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "DRAM",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Single set",
+   "q_en": "The idea of storing a program into memory was suggested by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Dr. Abdul Qadeer",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Van Neumann",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Pascal",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Dr. Codd",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Single set",
+   "q_en": "Electronic banking is also known as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cyber banking",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Off banking",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Global banking",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Free banking",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Single set",
+   "q_en": "Radio and TV are examples of which type of communication mode?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Simplex",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Half duplex",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Full duplex",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Duplex",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Single set",
+   "q_en": "The electromagnetic or light waves representing data are called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Data",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "File",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Signal",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Satellite",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Single set",
+   "q_en": "Which layer of OSI model does data conversion, compression and encryption?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Application layer",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Session layer",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Transport layer",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Presentation layer",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Single set",
+   "q_en": "The process of transferring file from remote computer to local computer is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Downloading",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Uploading",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Collecting",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Processing",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Single set",
+   "q_en": "BIT stands for:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Binary digit",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Binary interval",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Binary data",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Binary integer",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Single set",
+   "q_en": "Processed form of data is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Data",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Information",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Processing",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Procedure",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

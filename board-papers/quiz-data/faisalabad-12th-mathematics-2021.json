@@ -1,0 +1,1130 @@
+{
+ "board": "BISE Faisalabad",
+ "board_slug": "faisalabad",
+ "class": "12th",
+ "subject": "Mathematics",
+ "year": 2021,
+ "slug": "faisalabad-12th-mathematics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The lines represented by ax² + 2hxy + by² = 0 are parallel if:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "h² – ab = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "h² – ab > 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "h² – ab < 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "h² = a + b",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The slope intercept form of equation of line is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 = x/a + y/b",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "y = mx + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "y = x/m + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "y – y₁ = m(x – x₁)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Two lines ℓ₁ and ℓ₂ with slope m₁ and m₂ are parallel if:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "m₁ = –m₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "m₁ = m₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "m₁m₂ = –1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "m₁ = 1/m₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "x = 5 is not solution of inequality:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x + 4 > 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2x + 3 < 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x – 4 > 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x + y > 4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The parametric equations x = a cos θ, y = a sin θ represent equation of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Circle",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ellipse",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Hyperbola",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Parabola",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The length of tangent from ( 0 , 1 ) to circle x² + y² + 6x – 3y + 3 = 0 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "–2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "For parabola value of eccentricity e is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "e = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "e < 1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "e > 1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "e = 1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "î · ( ĵ × ĵ ) = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "i",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "If u is non-zero vector then u · u = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "–1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "u²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "A vector perpendicular to both vectors a and b is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a · b",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a × b",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(a · b)/|a|",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "b · a",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Lim n→∞ (1 – 1/n)ⁿ = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "e⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "e",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "e²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/e²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Domain of f(x) = 2 + √(x – 1), ∀x ∈ R is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(–1, ∞)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(1, ∞)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(2, ∞)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(–2, ∞)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "If f(x) = cos x then f'(sin⁻¹x) = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "–sin x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "–x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "If y = e²ˣ then y₄ = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "16 e²ˣ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8 e²ˣ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4 e²ˣ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "–16 e²ˣ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "1/x d/dx (sin x²) = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2x cos x²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2 cos x²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2x sin x²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "sin x²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "If y = 5e³ˣ⁻⁴ then dy/dx = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5 e³ˣ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "e³ˣ⁻⁴",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "15 e³ˣ⁻⁴",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5 (3x – 4)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "∫ a/x dx = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ax + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a ℓn|x| + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "–a/x² + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/a ℓnx + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group I",
+   "q_en": "∫ eˣ(sin x + cos x) dx = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "eˣ cos x + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "eˣ sin x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "eˣ sin x + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "eˣ cos x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group I",
+   "q_en": "∫ sin 5x dx = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "–1/a cos x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "–1/5 cos 5x + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/5 sin x + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/5 cos 5x + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group I",
+   "q_en": "Solution of different equation dy/dx = –y is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "y = ceˣ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "y = ce⁻ˣ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "eˣ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/c e⁻ˣ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "The altitudes of a triangle are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Concurrent",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Parallel",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Perpendicular",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Imaginary",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "The line y = 3x passes through:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Origin",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(4, 3)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(3, 1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(0, 3)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "A quadrilateral having two parallel and two non-parallel sides is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Parallelogram",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Rhombus",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Trapezium",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Triangle",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "The maximum or minimum values of objective function occur at corner points of the feasible region, is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "The theorem of linear programming",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Feasible theorem",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Optional theorem",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Convex",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The focus of y² = –4ax is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(0, 0)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(a, 0)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(–a, 0)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(a, a)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "The eccentricity of parabola is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Less than one",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Not defined",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "The center of x²/a² – y²/b² = 1 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(0, 0)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(a, 0)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(0, b)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(a, b)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "If u, v and w are coplaner vectors than the volume of the parallelopiped so formed is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "|u × v × w|",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√(u² + v² + w²)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "The magnitude of u = i + j is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2√(i² + j²)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(î + ĵ)/√2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "The unit vector in the direction of 2î – ĵ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "√5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(2i – j)/5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(2i – j)/√5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "A function C : R → R defined by C(x) = 2 for all x ∈ R is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Domain",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Range",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Constant function",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Objective function",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "For the function f(x) = xⁿ, lim x→a (xⁿ – aⁿ)/(x – a) = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "nxⁿ⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "naⁿ⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "∞",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "If f(x) = |x| then f'(0) = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "–1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Does not exist",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "The sum of two integers is 9. If one integer is x, then other will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "9x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "9 – x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x – 9",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x + 9",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "The derivative of arc cos x is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "–1/√(1 – x²)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/√(1 + x²)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/√(x² – 1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "–1/√(x² – 1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "The first term of Taylor Series Expansion of ℓn(1 + x) at x = 2 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ℓn 3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ℓn 2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ℓn 1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ℓn 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "∫tan x dx = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "sec²x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "sec x tan x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ℓn sec x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ℓn cos x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group II",
+   "q_en": "The suitable substitution to integrate √(x² – a²) :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x = a sin θ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x = a cos θ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x = a sec θ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x = a tan θ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group II",
+   "q_en": "∫eᵃˣ[af(x) + f'(x)] dx = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "eᵃˣf(x)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "eᵃˣ · a · f'(x)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "eᵃˣf'(x)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a f'(x)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group II",
+   "q_en": "∫ 2/(x + 2) dx = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ℓn|x + 2|",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ℓn|x + 2|²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/(ℓn|x + 2|)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,962 @@
+{
+ "board": "BISE Faisalabad",
+ "board_slug": "faisalabad",
+ "class": "12th",
+ "subject": "Physics",
+ "year": 2023,
+ "slug": "faisalabad-12th-physics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "If V = 630cos(100πt + 60°)V; the frequency of rotation of generator coil is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "100Hz",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "314Hz",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "50Hz",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "200Hz",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Unit of self induction is not equivalent to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "VsA⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "WbA⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "JA⁻²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Vs⁻¹A",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "When flux through a coil remains unchanged, induced emf is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Positive",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Negative",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Infinite",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "In a galvanometer, radial magnetic field ensures that iron cylinder and field lines are always:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Parallel",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Perpendicular",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Anti-parallel",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Oblique",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Magnetic field due to a long conductor carrying current I at distance r is proportional to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "r/I",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/r",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/r²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "I²/r",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Which is a unipolar medium?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Extrinsic semi-conductor",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ionized gases",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Electrolyte",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Metals",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "When plates of an isolated charged capacitor are moved apart, energy stored:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Increases",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Decreases",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Remains same",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Reduces to zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "If a +ve point charge q is moved away from a point, the absolute potential at that point:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Increases",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Remains same",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Decreases",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Becomes infinite",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The ratio of decayed fraction to undecayed fraction after 3 half-lives is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/8",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "7/8",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7/1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "One twelfth of mass of ₆C¹² isotope is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.0055u",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1u",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.008665u",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3.016u",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The energy of ______ electrons is specific.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Free",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Orbital",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Oscillating",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Accelerated",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Positron was first discovered in ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cosmic rays",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Magnetosphere",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Gamma ray bursts",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Earth's crust",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "A black body is a perfect absorber and ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Reflector",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Radiator",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Anti-reflector",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Transmitter",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "Due to high open loop gain, a small potential difference at input ______ output voltage of operational amplifier.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Diminishes",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Fluctuates",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Saturates",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Oscillates",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Pulsating DC generated by rectifier can be made smooth by using:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Generator",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Motor",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Filter",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Transistor",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "A moving hole is equivalent to a moving:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Proton",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Positive ion",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Positron",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Electron",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "In a series RC circuit, if R = 1/(ωC), the power factor is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "√3/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/√2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "The reactance of an inductor at 50Hz is 10Ω its reactance at 100Hz becomes:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "20Ω",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5Ω",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2.5Ω",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3Ω",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "The winding of the electromagnetic in motor are usually called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Magnetic coils",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Field coils",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Electric coils",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Transformer is a device which step up or step down the input:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Current",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Voltage",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Energy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Power",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "The unit of Ē is NC⁻¹ and that of B̅ is NA⁻¹m⁻¹ then the unit of E/B is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ms⁻²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "m⁻¹s⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ms",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ms⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The value of high resistance which can be used to convert galvanometer in voltmeter:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "R_h = I_g/V - R_g",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "R_h = R_g - V/I_g",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "R_h = V/I_g - R_g",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Energy consumed by 60 watts bulb in 2 minutes is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "720 Joule",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "7.2 kilo Joule",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "120 Joule",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "7600 Joule",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Unit of relative permittivity is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "No unit",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NC²m⁻²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Nm²C⁻²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "N⁻¹C⁻²m⁻²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Force experienced per unit positive test charge at a point in an electric field is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electric potential",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Electric potential energy",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Electric field strength",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Electric field",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "The dead time for Geiger-Muller counter is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10⁻⁴s",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10 s",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10⁻²s",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10⁻³s",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Cobalt-60 is the source for:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "α-rays",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "γ-rays",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "β-rays",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Neutron",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Helium-Neon laser discharge tube contains Helium:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10%",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "15%",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "25%",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "85%",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Using relativistic effects, the location of an air craft after an hour flight can be predicted about:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "20m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "760m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "50m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "780m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "Mathematical form of Stephen-Boltzmann law is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "E = σT²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "E = σT³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "E = σT⁴",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "E = σT⁶",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "In photo voltaic cell current is directly proportional to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Wavelength of light",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Energy",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Frequency of light",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Intensity of light",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "A diode can be used as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Amplifier",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Rectifier",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Oscillator",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Transistor",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "When silicon crystal doped with a pentavalent impurity, the doped semi-conductor is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "n-type",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "p-type",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Both A & B",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "Ohm is not a unit for:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Reactance",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Resistance",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Inductance",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Impedance",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

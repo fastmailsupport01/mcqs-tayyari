@@ -1,0 +1,430 @@
+{
+ "board": "BISE Faisalabad",
+ "board_slug": "faisalabad",
+ "class": "11th",
+ "subject": "Computer Science",
+ "year": 2023,
+ "slug": "faisalabad-11th-computer-science-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Memory consists of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Set of wires",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ports",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cells",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Control-units",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Which technology is used to read data on cheques?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "OMR",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "OCR",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CAT",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "MICR",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Transmission from earth to satellite is called.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Unlink",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Downlink",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Low link",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "High link",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "How many characters ASCII 8-bit code cant represent?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "128",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "256",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "364",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "512",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Internal network of an organization that uses Internet and web techniques is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Downloading",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Loading",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Intranet",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Extranet",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "In OSI model, which layer is responsible for encryption and decryption of data?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Presentation",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Application",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Transport",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Session",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The modular testing of a program is also called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Pilot testing",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "System testing",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Incremental testing",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Unit testing",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "XGA supports colours upto:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 million",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "16.7 million",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1 billion",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "16.7 billion",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Hypertext document is also called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Webpage",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Hyperlink",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Email server",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Website",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Which is correct formula in MS-Excel?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "+ D3&D4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "= D3&D4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "+ D3,D4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "= D3+D4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The direction of proper in printing is referred to as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Position",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Orientation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Style",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Direction",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The interface used by Windows is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Command line interface",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Graphical user interface",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Prompt interface",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Dialog interface",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "A person who gains illegal access to a computer system is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hacker",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Computer operator",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Network controller",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Administrator",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "The output of the compiler is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "The program",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Source code",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Object code",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Linker code",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Which is a signal?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Memory",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "DMA",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Bus",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Interrupt",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

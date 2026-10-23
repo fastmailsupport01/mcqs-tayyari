@@ -1,0 +1,682 @@
+{
+ "board": "BISE Faisalabad",
+ "board_slug": "faisalabad",
+ "class": "9th",
+ "subject": "Physics",
+ "year": 2022,
+ "slug": "faisalabad-9th-physics-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Mass of the Earth is:",
+   "q_ur": "زمین کا ماس ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "6×10²²kg",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6×10²⁴kg",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6×10²⁶kg",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6×10²⁸kg",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Potential energy (P.E.) = :",
+   "q_ur": "پوٹینشل انرجی (P.E.) = :",
+   "options": [
+    {
+     "k": "A",
+     "en": "wg",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "wm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "gh",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "wh",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "According to Pascal's law, F₂ = ____",
+   "q_ur": "پاسکل کے قانون کے مطابق F₂ = ____",
+   "options": [
+    {
+     "k": "A",
+     "en": "F₁×A/a",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "F₁×a/A",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a×A/F₁",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a/(A×F₁)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "50°C is equal to:",
+   "q_ur": "50°C برابر ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "100°F",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "122°F",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "133°F",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "140°F",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Normal human body temperature is:",
+   "q_ur": "نارمل انسانی جسم کا ٹمپریچر ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "25°C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "37°F",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "37°C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "98.6°C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Poor conductor of heat is:",
+   "q_ur": "حرارت کا ناقص موصل ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Water",
+     "ur": "[illegible in source scan]"
+    },
+    {
+     "k": "B",
+     "en": "Gold",
+     "ur": "[illegible in source scan]"
+    },
+    {
+     "k": "C",
+     "en": "Iron",
+     "ur": "آئرن"
+    },
+    {
+     "k": "D",
+     "en": "Copper",
+     "ur": "کاپر"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "A measuring cylinder is used to measure:",
+   "q_ur": "پیمائشی سلنڈر سے معلوم کیا جاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mass",
+     "ur": "ماس"
+    },
+    {
+     "k": "B",
+     "en": "Area",
+     "ur": "ایریا"
+    },
+    {
+     "k": "C",
+     "en": "Volume",
+     "ur": "والیوم"
+    },
+    {
+     "k": "D",
+     "en": "Level of a liquid",
+     "ur": "کسی مائع کا لیول"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Which is a derived unit?",
+   "q_ur": "کونسا اخذ شدہ یونٹ ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Newton",
+     "ur": "نیوٹن"
+    },
+    {
+     "k": "B",
+     "en": "Mole",
+     "ur": "مول"
+    },
+    {
+     "k": "C",
+     "en": "Meter",
+     "ur": "میٹر"
+    },
+    {
+     "k": "D",
+     "en": "Second",
+     "ur": "سیکنڈ"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "A ball thrown vertically upward, its velocity at the highest point is:",
+   "q_ur": "ایک گیند کو عموداً اوپر کی طرف پھینکا گیا۔ بلند ترین مقام پر اس کی سپیڈ ہوگی:",
+   "options": [
+    {
+     "k": "A",
+     "en": "1ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-10ms⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Centripetal force (Fᴄ) is equal to:",
+   "q_ur": "سینٹری پیٹل فورس (Fᴄ) برابر ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "mv²/r²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "mv/r²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "mv/r",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "mv²/r",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Value of Cos60° is:",
+   "q_ur": "cos60° کی قیمت ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.707",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.866",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The first condition of equilibrium is:",
+   "q_ur": "ایکوی لبریم کی پہلی شرط ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Στ = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Σm = 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ΣF = 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Σw = 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "The number of base units in SI is:",
+   "q_ur": "SI میں بنیادی یونٹس کی تعداد ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Which is SI unit of acceleration?",
+   "q_ur": "ایکسیلریشن کا SI یونٹ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "ms",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ms⁻²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "m²s",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "A change in position is called:",
+   "q_ur": "پوزیشن میں تبدیلی کہلاتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Speed",
+     "ur": "سپیڈ"
+    },
+    {
+     "k": "B",
+     "en": "Velocity",
+     "ur": "ولاسٹی"
+    },
+    {
+     "k": "C",
+     "en": "Displacement",
+     "ur": "ڈسپلیسمنٹ"
+    },
+    {
+     "k": "D",
+     "en": "Distance",
+     "ur": "فاصلہ"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Inertia depends upon:",
+   "q_ur": "انرشیا کا انحصار کس پر ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Force",
+     "ur": "فورس"
+    },
+    {
+     "k": "B",
+     "en": "Net force",
+     "ur": "نیٹ فورس"
+    },
+    {
+     "k": "C",
+     "en": "Mass",
+     "ur": "ماس"
+    },
+    {
+     "k": "D",
+     "en": "Velocity",
+     "ur": "ولاسٹی"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Second condition of equilibrium is:",
+   "q_ur": "ایکوی لبریم کی دوسری شرط ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "ΣF = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Στ = 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ΣN = 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ΣG = 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "The orbital speed of a low orbit satellite is:",
+   "q_ur": "نچھلے آربٹ کے سیٹلائٹ کی گردش کرنے کی سپیڈ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": "صفر"
+    },
+    {
+     "k": "B",
+     "en": "8ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "800ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8000ms⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Energy stored in the stretched bow is called:",
+   "q_ur": "تنی ہوئی کمان میں موجود انرجی کہلاتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Kinetic energy",
+     "ur": "کائی نیٹک انرجی"
+    },
+    {
+     "k": "B",
+     "en": "Potential energy",
+     "ur": "پوٹینشل انرجی"
+    },
+    {
+     "k": "C",
+     "en": "Mechanical energy",
+     "ur": "مکینیکل انرجی"
+    },
+    {
+     "k": "D",
+     "en": "Elastic potential energy",
+     "ur": "ایلاسٹک پوٹینشل انرجی"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "In Einstein's mass energy equation \"c\" is:",
+   "q_ur": "آئن سٹائن ماس انرجی مساوات میں \"c\" ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Speed of sound",
+     "ur": "ساؤنڈ کی سپیڈ"
+    },
+    {
+     "k": "B",
+     "en": "Speed of light",
+     "ur": "روشنی کی سپیڈ"
+    },
+    {
+     "k": "C",
+     "en": "Speed of electron",
+     "ur": "الیکٹرون کی سپیڈ"
+    },
+    {
+     "k": "D",
+     "en": "Speed of the Earth",
+     "ur": "زمین کی سپیڈ"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "SI unit of stress is:",
+   "q_ur": "سٹریس کا SI یونٹ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "N",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Nm⁻²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Nm²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nm⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Density of a substance can be calculated by:",
+   "q_ur": "کسی شے کی ڈینسٹی معلوم کی جاسکتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Pascal's law",
+     "ur": "پاسکل کے قانون سے"
+    },
+    {
+     "k": "B",
+     "en": "Archimedes principle",
+     "ur": "آرشمڈس کے اصول سے"
+    },
+    {
+     "k": "C",
+     "en": "Hook's law",
+     "ur": "ہک کے قانون سے"
+    },
+    {
+     "k": "D",
+     "en": "Principle of floatation",
+     "ur": "تیرنے کے اصول سے"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "The coefficients of linear and volume expansion have relation:",
+   "q_ur": "طولی پھیلاؤ اور والیوم میں پھیلاؤ کے کوایفی شنٹ کا تعلق ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "α = 3β",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "β = α/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "β = 3α",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "β = 3α/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "In solids, heat is transferred by:",
+   "q_ur": "ٹھوس اجسام میں انتقال حرارت کا طریقہ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Radiation",
+     "ur": "ریڈی ایشن"
+    },
+    {
+     "k": "B",
+     "en": "Conduction",
+     "ur": "کنڈکشن"
+    },
+    {
+     "k": "C",
+     "en": "Convection",
+     "ur": "کنویکشن"
+    },
+    {
+     "k": "D",
+     "en": "Absorption",
+     "ur": "ابزارپشن"
+    }
+   ]
+  }
+ ]
+}

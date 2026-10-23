@@ -1,0 +1,850 @@
+{
+ "board": "BISE Faisalabad",
+ "board_slug": "faisalabad",
+ "class": "9th",
+ "subject": "Mathematics",
+ "year": 2021,
+ "slug": "faisalabad-9th-mathematics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Order of transpose of [2 1; 0 1; 3 2] is:",
+   "q_ur": "قالب [2 1; 0 1; 3 2] کے ٹرانسپوز کا آرڈر ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "3-by-2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2-by-3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1-by-3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3-by-1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Product of [xy] [2; -1] is equal to:",
+   "q_ur": "ضرب حاصل [xy] [2; -1] برابر ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "[2x + y]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[x - 2y]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[2x - y]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[x + 2y]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "In ∛35 the radicand is:",
+   "q_ur": "∛35 میں ریڈی کینڈ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "35",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(35)³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Real part of 2ab(i + i²) is:",
+   "q_ur": "2ab(i + i²) کا حقیقی حصہ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "2ab",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-2ab",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2abi",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2abi",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The logarithm of unity to any base is:",
+   "q_ur": "کسی اساس پر '1' کا لوگارتھم برابر ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "e",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The value of log(p/q) is:",
+   "q_ur": "log(p/q) کی قیمت ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "log p - log q",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "log p / log q",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "log p + log q",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "log q - log p",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "4x + 3y - 2 is an algebraic:",
+   "q_ur": "4x + 3y - 2 ایک الجبریک ______ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Expression",
+     "ur": "جملہ"
+    },
+    {
+     "k": "B",
+     "en": "Sentence",
+     "ur": "فقرہ"
+    },
+    {
+     "k": "C",
+     "en": "Equation",
+     "ur": "مساوات"
+    },
+    {
+     "k": "D",
+     "en": "Inequation",
+     "ur": "غیر مساوات"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Factors of 8x³ + 27y³ are:",
+   "q_ur": "8x³ + 27y³ کے اجزائے ضربی ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "(2x + 3y)(4x² + 9y²)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(2x - 3y)(4x² - 9y²)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(2x + 3y)(4x² - 6xy + 9y²)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(2x - 3y)(4x² + 6xy + 9y²)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "H.C.F. of p³q - pq³ and p⁵q² - p²q⁵ is:",
+   "q_ur": "جملوں p³q - pq³ اور p⁵q² - p²q⁵ کا عاد اعظم ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "pq(p² - q²)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "pq(p - q)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "p²q²(p - q)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "pq(p³ - q³)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The square root of a² - 2a + 1 is:",
+   "q_ur": "a² - 2a + 1 کا جزر المربع ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "±(a + 1)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "±(a - 1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(a - 1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(a + 1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "If x is no larger than 10, then:",
+   "q_ur": "اگر x کی قیمت 10 سے زیادہ نہ ہو تو:",
+   "options": [
+    {
+     "k": "A",
+     "en": "x ≥ 8",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x ≤ 10",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x > 10",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x < 10",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "If (x, 0) = (0, y), then (x, y) is equal to:",
+   "q_ur": "اگر (x, 0) = (0, y) ہو تو (x, y) برابر ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "(0, 1)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(1, 0)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(0, 0)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(1, 1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Distance between the points (1, 0) and (0, 1) is:",
+   "q_ur": "نقاط (1, 0) اور (0, 1) کا درمیانی فاصلہ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "The ______ altitudes of an isosceles triangle are congruent.",
+   "q_ur": "متساوی الساقین مثلث کے ______ ارتفاعات متشابہ ہوتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "If two medians of a triangle are congruent then the triangle will be:",
+   "q_ur": "اگر ایک مثلث کے دو وسطے متشابہ ہوں تو وہ مثلث ______ ہوگی۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Isosceles",
+     "ur": "متساوی الساقین"
+    },
+    {
+     "k": "B",
+     "en": "Equilateral",
+     "ur": "مساوی الاضلاع"
+    },
+    {
+     "k": "C",
+     "en": "Right angled",
+     "ur": "قائمۃ الزاویہ"
+    },
+    {
+     "k": "D",
+     "en": "Acute angled",
+     "ur": "حادۃ الزاویہ"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Factors of 27x³ - 1/x³ are:",
+   "q_ur": "27x³ - 1/x³ کے اجزائے ضربی ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "(3x - 1/x)(9x² + 3 + 1/x²)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(3x + 1/x)(9x² + 3 + 1/x²)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(3x - 1/x)(9x² - 3 + 1/x²)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(3x + 1/x)(9x² - 3 + 1/x²)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Conjugate of surd a + √b is:",
+   "q_ur": "مقدار a + √b کا مزدوج جملہ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "-a + √b",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a - √b",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a + √b",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√a - √b",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "log(mⁿ) can also be written as:",
+   "q_ur": "log(mⁿ) کو ______ بھی لکھا جا سکتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "(log m)ⁿ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "m log n",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "n log m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "log emn",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "log e ______ where e ≈ 2.718 :",
+   "q_ur": "log e = ______ جبکہ e ≈ 2.718 :",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.4343",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "∞",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Real part of 2ab(i + i²) is:",
+   "q_ur": "کمپلیکس نمبر 2ab(i + i²) کا حقیقی حصہ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "2ab",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-2ab",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2abi",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-2abi",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "In ∛35 the radicand is:",
+   "q_ur": "∛35 میں ریڈی کینڈ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "35",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(35)³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "If X + [1 0; 0 -1] = [1 0; 0 1], then X is equal to:",
+   "q_ur": "اگر [1 0; 0 -1] + X = [1 0; 0 1] ہو تو X برابر ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "[2 2; 2 0]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[0 2; 2 2]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[2 0; 0 2]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[2 2; 0 2]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "[√2 0; 0 √2] is called ______ matrix.",
+   "q_ur": "[√2 0; 0 √2] کو ______ قالب کہا جاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": "صفری"
+    },
+    {
+     "k": "B",
+     "en": "Unit",
+     "ur": "وحدانی"
+    },
+    {
+     "k": "C",
+     "en": "Scalar",
+     "ur": "سکیلر"
+    },
+    {
+     "k": "D",
+     "en": "Singular",
+     "ur": "سنگولر"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "An angle on the base of an isosceles triangle is 30°. What is the measure of its vertical angle?",
+   "q_ur": "متساوی الساقین مثلث کے قاعدے پر ایک زاویہ 30° ہے۔ اس کے راسی زاویے کی مقدار کیا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "30°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "120°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "The right bisectors of the three sides of a triangle are:",
+   "q_ur": "مثلث کے تینوں اضلاع کے عمودی ناصف ہوتے ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Congruent",
+     "ur": "متشابہ"
+    },
+    {
+     "k": "B",
+     "en": "Collinear",
+     "ur": "ہم خط"
+    },
+    {
+     "k": "C",
+     "en": "Concurrent",
+     "ur": "ہم نقط"
+    },
+    {
+     "k": "D",
+     "en": "Parallel",
+     "ur": "متوازی"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Mid-point of the points (-2, 2) and (2, -2) is:",
+   "q_ur": "نقاط (2, -2) اور (-2, 2) کا درمیانی نقطہ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "(2, 2)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(-2, -2)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(0, 0)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(1, 1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Which ordered pair satisfies the equation y = 2x?",
+   "q_ur": "کون سا نقطہ مساوات y = 2x کے گراف پر واقع ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "(1, 2)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(2, 1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(2, 2)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(0, 1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "A statement involving any of the symbols <, >, ≤ or ≥ is called:",
+   "q_ur": "کوئی بیان جس میں <, >, ≤ یا ≥ میں سے کوئی ایک علامت پائی جائے کہلاتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Equation",
+     "ur": "مساوات"
+    },
+    {
+     "k": "B",
+     "en": "Identity",
+     "ur": "مماثلت"
+    },
+    {
+     "k": "C",
+     "en": "Inequality",
+     "ur": "غیر مساوات"
+    },
+    {
+     "k": "D",
+     "en": "(0, 1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "The square root of x⁴ + 1/x⁴ + 2 is:",
+   "q_ur": "x⁴ + 1/x⁴ + 2 کا جزر المربع ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "±(x + 1/x)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "±(x² + 1/x²)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "±(x - 1/x)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(x² + 1/x²)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "H.C.F. of 5x²y² and 20x³y³ is:",
+   "q_ur": "جملوں 5x²y² اور 20x³y³ کا عاد اعظم ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "5x²y²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "20x³y³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "100x⁵y⁵",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5xy",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

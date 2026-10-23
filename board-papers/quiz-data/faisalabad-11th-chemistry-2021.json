@@ -1,0 +1,962 @@
+{
+ "board": "BISE Faisalabad",
+ "board_slug": "faisalabad",
+ "class": "11th",
+ "subject": "Chemistry",
+ "year": 2021,
+ "slug": "faisalabad-11th-chemistry-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The geometry of SO₂ molecule is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Angular",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Linear",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Tetrahedral",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Trigonal pyramid",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Which one pair is isomorphic in nature:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "NaCl, KBr",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CaCl₂, CaCO₃",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NaF, MgCl₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Na₂CO₃, MgCO₃",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "When water freezes at 0°C, its density decreases due to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cubic structure of ice",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Empty spaces present in structure of ice",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Change of bond length",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Change of bond angle",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Equal masses of methane and oxygen are mixed in an empty container at 25°C. The fraction of total pressure exerted by oxygen is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8/9",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/9",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "16/17",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Pressure remaining constant at which temperature the volume of a gas will become twice of what it is at 0°C?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "546°C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "546K",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "200°C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "273K",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Solvent extraction is an equilibrium process and it is controlled by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Law of mass action",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Distribution law",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "The amount of solvent used",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "The amount of solute",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "A beaker contains 9g of water. The number of H-atoms in it is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nᴬ of atoms",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2 × Nᴬ of atoms",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/2 Nᴬ of atoms",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3 × Nᴬ of atoms",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "27g of Al will react completely with how much mass of O₂ to produce Al₂O₃?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "8g of oxygen",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "20g of oxygen",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "24g of oxygen",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "32g of oxygen",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The rate of reaction:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Increases as the reaction proceeds",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Decreases as the reaction proceeds",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Remains constant as the reaction proceeds",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "May decrease or increase as the reaction proceeds",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The properties of substances which depend solely on number of particles present is known as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Additive properties",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Constitutive properties",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Additive and constitutive properties",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Colligative properties",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Stronger the reducing agent, greater is the:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Oxidation potential",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Reduction potential",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Redox potential",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Electromotive force of cell",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "A solution with pH = 2 is more acidic than a solution with pH = 6 by a factor of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1000",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10000",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "The value of Δn for the given equilibrium N₂ + 3H₂ ⇌ 2NH₃ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "–2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "+2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "+1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "+4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "For a given process, the heat changes at constant pressure (qₚ) and at constant volume (qᵥ) are related to each other as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "qₚ = qᵥ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "qₚ > qᵥ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "qₚ < qᵥ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "qₚ = qᵥ/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "In ground state of an atom, the electron is present:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "In the nucleus",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "In the second shell",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Nearest to the nucleus",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Farthest from the nucleus",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "Which is correct?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Idea of presence of neutron in an atom was provided by Chadwick",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Neutron was discovered by using radioactive Beryllium",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Fast neutrons having energy 1.2ev",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Slow neutrons have energy above 1ev",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "The planer structure of BF₃ can be explained by the fact that BF₃ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "sp-hybridized",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "sp²-hybridized",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "sp³-hybridized",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "dsp²-hybridized",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Bohr model of atom is contradicted by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Plank's quantum theory",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Dual nature of matter",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Heisenberg's uncertainty principle",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Quantum number values for 2p orbitals are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "n = 2, ℓ = 1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "n = 1, ℓ = 2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "n = 1, ℓ = 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "n = 2, ℓ = 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Which is a pseudo solid?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CaF₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Glass",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NaCl",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Which is not an isomorphic pair?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "NaNO₃, KNO₃",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "MgO and NaF",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "K₂SO₄ and K₂Cr₂O₇",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NaF and CaCl₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Number of molecules in one dm³ of water is close to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "6.02/22.4 × 10²³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "12.04/22.4 × 10²³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "18/22.4 × 10²³",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "55.6 × 6.02 × 10²³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Equal masses of methane and oxygen are mixed in an empty container at 25°C. The fraction of total pressure exerted by oxygen is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8/9",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/9",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "16/17",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "The comparative rates at which the solutes move in paper chromatography depend on:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "The size of paper",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Rᵍ values of solutes",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Temperature of the experiment",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Size of the chromatographic tank used",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "The ratio of actual yield to theoretical yield multiplied by 100 is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Complex yield",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Experimental yield",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "%age yield",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "The calculation based on balanced chemical equation is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Complex calculation",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Stoichiometric calculation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Non-stoichiometric calculation",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "The unit of the rate constant is the same as that of the rate of reaction in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "First order reaction",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Second order reaction",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Zero order reaction",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Third order reaction",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "If the salt bridge is not used between two half cells, then voltage:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Decrease rapidly",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Decrease slowly",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Does not change",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Drops to zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "The pH of buffers can be calculated by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Henderson equation",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Nerst equation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Kinetic equation",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Arrhenius equation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "Less soluble KClO₃ is precipitated from its solution by common ion effect on adding:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "HCl",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "KCl",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "H₂S",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NaCl",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "For which system does the equilibrium constant, Kᴄ has units of (concentration)⁻¹:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "N₂ + 3H₂ ⇌ 2NH₃",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "H₂ + I₂ ⇌ 2HI",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2NO₂ ⇌ N₂O₄",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2HF ⇌ H₂ + F₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "If an endothermic reaction is allowed to take place very rapidly in the air, the temperature of the surrounding air:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Remains constant",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Increases",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Decreases",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Remains unchanged",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "Octet rule is not followed in the formation of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "NF₃",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CF₄",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CCl₄",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "PCl₅",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "Which species has unpaired electrons in antibonding molecular orbitals?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "O₂²⁺",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "N₂²⁻",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "B₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "F₂",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

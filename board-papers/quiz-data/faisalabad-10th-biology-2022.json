@@ -1,0 +1,682 @@
+{
+ "board": "BISE Faisalabad",
+ "board_slug": "faisalabad",
+ "class": "10th",
+ "subject": "Biology",
+ "year": 2022,
+ "slug": "faisalabad-10th-biology-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Number of chromosomes in human body cells is:",
+   "q_ur": "انسان کے جسمانی سیلز میں پائے جانے والے کروموسومز کی تعداد ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "16",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "23",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "32",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "46",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "How many hydrogen bonds are present between adenine and thymine?",
+   "q_ur": "ایڈینین اور تھائمین کے درمیان کتنے ہائیڈروجن بانڈز ہوتے ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Which is the abiotic component of the ecosystem?",
+   "q_ur": "ایکو سسٹم کا اے بائیوٹک جزو کونسا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Producers",
+     "ur": "پروڈیوسرز"
+    },
+    {
+     "k": "B",
+     "en": "Herbivores",
+     "ur": "ہربی وورز"
+    },
+    {
+     "k": "C",
+     "en": "Air",
+     "ur": "ہوا"
+    },
+    {
+     "k": "D",
+     "en": "Carnivores",
+     "ur": "کارنی وورز"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Rabbit is:",
+   "q_ur": "خرگوش ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Producer",
+     "ur": "پروڈیوسر"
+    },
+    {
+     "k": "B",
+     "en": "Secondary consumer",
+     "ur": "سیکنڈری کنزیومر"
+    },
+    {
+     "k": "C",
+     "en": "Herbivore",
+     "ur": "ہربی وور"
+    },
+    {
+     "k": "D",
+     "en": "Carnivore",
+     "ur": "کارنی وور"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "When the work on genetic engineering was started?",
+   "q_ur": "جینیٹک انجینئرنگ پر کام کا آغاز کب ہوا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "1941",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1978",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1990",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1987",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "A substance that when absorbed into the body of a living organism and alter normal body function is called:",
+   "q_ur": "ایسا مادہ جو جاندار کے جسم میں جذب ہو جانے کے بعد جسم کے نارمل افعال میں تبدیلی پیدا کرے کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Antitoxin",
+     "ur": "اینٹی ٹاکسن"
+    },
+    {
+     "k": "B",
+     "en": "Antiseptic",
+     "ur": "اینٹی سیپٹک"
+    },
+    {
+     "k": "C",
+     "en": "Vaccine",
+     "ur": "ویکسین"
+    },
+    {
+     "k": "D",
+     "en": "Drug",
+     "ur": "ڈرگ"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Length of trachea is:",
+   "q_ur": "ٹریکیا کی لمبائی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "10cm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "12cm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "14cm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "16cm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Length of human's kidney is:",
+   "q_ur": "انسانی گردے کی لمبائی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "4cm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5cm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10cm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "20cm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "How many layers are of meninges?",
+   "q_ur": "میننجیز کی کتنی تہیں ہوتی ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Number of hard bones in an adult's skeleton:",
+   "q_ur": "ایک بالغ شخص میں سخت ہڈیوں کی تعداد کتنی ہوتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "200",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "206",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "300",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "306",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Number of chromosomes in endosperm nucleus is:",
+   "q_ur": "اینڈوسپرم نیوکلیس میں کروموسومز کی تعداد ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "1N",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Name of individual unit of gynoecium is:",
+   "q_ur": "گائنوشیم کی اکائی کا نام ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sepal",
+     "ur": "سیپل"
+    },
+    {
+     "k": "B",
+     "en": "Petal",
+     "ur": "پیٹل"
+    },
+    {
+     "k": "C",
+     "en": "Carpel",
+     "ur": "کارپل"
+    },
+    {
+     "k": "D",
+     "en": "Stamen",
+     "ur": "سٹیمن"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Growing of an entire new plant from part of original plant is called:",
+   "q_ur": "پودے کے کسی حصے سے مکمل نیا پودا بنانا کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Budding",
+     "ur": "بڈنگ"
+    },
+    {
+     "k": "B",
+     "en": "Regeneration",
+     "ur": "ری جنریشن"
+    },
+    {
+     "k": "C",
+     "en": "Fragmentation",
+     "ur": "فریگمنٹیشن"
+    },
+    {
+     "k": "D",
+     "en": "Vegetative propagation",
+     "ur": "ویجیٹیٹو پروپیگیشن"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Transfer of pollen grain from anther to stigma is called:",
+   "q_ur": "اینٹھر سے پولن گرین کی سٹگما تک منتقلی کہلاتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Reproduction",
+     "ur": "ری پروڈکشن"
+    },
+    {
+     "k": "B",
+     "en": "Pollination",
+     "ur": "پولینیشن"
+    },
+    {
+     "k": "C",
+     "en": "Fertilization",
+     "ur": "فرٹیلائزیشن"
+    },
+    {
+     "k": "D",
+     "en": "Respiration",
+     "ur": "ریسپائریشن"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Human arm has bones:",
+   "q_ur": "انسانی بازو میں ہڈیاں ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "14",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "22",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Which is not a layer of eye?",
+   "q_ur": "ان میں سے کونسی آنکھ کی تہہ نہیں ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Pupil",
+     "ur": "پیوپل"
+    },
+    {
+     "k": "B",
+     "en": "Sclera",
+     "ur": "سکلیرا"
+    },
+    {
+     "k": "C",
+     "en": "Choroid",
+     "ur": "کورائیڈ"
+    },
+    {
+     "k": "D",
+     "en": "Retina",
+     "ur": "ریٹینا"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Normal human temperature is:",
+   "q_ur": "انسان کا نارمل درجہ حرارت ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "37°C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "98°C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "100°C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0°C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "The length of trachea is:",
+   "q_ur": "ٹریکیا کی لمبائی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "10cm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "12cm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "14cm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "16cm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Which drug is obtained from plants?",
+   "q_ur": "کونسی دوا پودوں سے حاصل ہوتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Aspirin",
+     "ur": "ایسپرین"
+    },
+    {
+     "k": "B",
+     "en": "Opium",
+     "ur": "افیون"
+    },
+    {
+     "k": "C",
+     "en": "Cephalosporin",
+     "ur": "سیفالوسپورن"
+    },
+    {
+     "k": "D",
+     "en": "Insulin",
+     "ur": "انسولین"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "In which process there is incomplete oxidation-reduction of glucose?",
+   "q_ur": "کس عمل کے دوران گلوکوز کی نامکمل آکسیڈیشن ریڈکشن ہوتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Genetic engineering",
+     "ur": "جینیٹک انجینئرنگ"
+    },
+    {
+     "k": "B",
+     "en": "Photosynthesis",
+     "ur": "فوٹوسنتھیسز"
+    },
+    {
+     "k": "C",
+     "en": "Fermentation",
+     "ur": "فرمنٹیشن"
+    },
+    {
+     "k": "D",
+     "en": "Biotechnology",
+     "ur": "بائیوٹیکنالوجی"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Enrichment of water with inorganic nutrients is called:",
+   "q_ur": "پانی میں ان آرگینک غذائی مادوں کا اضافہ کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Eutrophication",
+     "ur": "یوٹروفیکیشن"
+    },
+    {
+     "k": "B",
+     "en": "Contamination",
+     "ur": "آلودگی"
+    },
+    {
+     "k": "C",
+     "en": "Fertilization",
+     "ur": "فرٹیلائزیشن"
+    },
+    {
+     "k": "D",
+     "en": "Respiration",
+     "ur": "ریسپائریشن"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Base of food chain is:",
+   "q_ur": "فوڈ چین کی بنیاد ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Producer",
+     "ur": "پروڈیوسر"
+    },
+    {
+     "k": "B",
+     "en": "Consumer",
+     "ur": "کنزیومر"
+    },
+    {
+     "k": "C",
+     "en": "Decomposer",
+     "ur": "ڈی کمپوزر"
+    },
+    {
+     "k": "D",
+     "en": "Virus",
+     "ur": "وائرس"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "How many contrasting traits Mendel studied in pea plant?",
+   "q_ur": "مینڈل نے مٹر کے پودے کی کتنی متضاد خصوصیات کا مطالعہ کیا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "17",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "DNA wraps around histone protein and form:",
+   "q_ur": "DNA ہسٹون پروٹین کے گرد لپٹ کر بناتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Chromosome",
+     "ur": "کروموسوم"
+    },
+    {
+     "k": "B",
+     "en": "Spindle",
+     "ur": "سپنڈل"
+    },
+    {
+     "k": "C",
+     "en": "Nucleosome",
+     "ur": "نیوکلیوسوم"
+    },
+    {
+     "k": "D",
+     "en": "Allele",
+     "ur": "ایلیل"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,682 @@
+{
+ "board": "BISE Faisalabad",
+ "board_slug": "faisalabad",
+ "class": "10th",
+ "subject": "Biology",
+ "year": 2021,
+ "slug": "faisalabad-10th-biology-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Which animal reproduces by means of budding?",
+   "q_ur": "کون سا جاندار بڈنگ کے ذریعے ریپروڈکشن کرتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Rhizopus",
+     "ur": "رائزوپس"
+    },
+    {
+     "k": "B",
+     "en": "Hydra",
+     "ur": "ہائیڈرا"
+    },
+    {
+     "k": "C",
+     "en": "Amoeba",
+     "ur": "امیبا"
+    },
+    {
+     "k": "D",
+     "en": "Planarian",
+     "ur": "پلینیرین"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The adult human skeleton has bones:",
+   "q_ur": "ایک بالغ انسان کے سکیلیٹن میں ہڈیاں ہوتی ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "300",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "306",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "200",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "206",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Insulin and glucagon are produced in: ______",
+   "q_ur": "انسولین اور گلوکاگون ______ میں بنتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Adrenal gland",
+     "ur": "ایڈرینل گلینڈ"
+    },
+    {
+     "k": "B",
+     "en": "Gonads",
+     "ur": "گونڈز"
+    },
+    {
+     "k": "C",
+     "en": "Pancreas",
+     "ur": "پینکریاز"
+    },
+    {
+     "k": "D",
+     "en": "Liver",
+     "ur": "جگر"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "______ pairs of spinal nerves arise from spinal cord.",
+   "q_ur": "سپائنل کارڈ سے ______ جوڑے سپائنل نروز نکلتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "12",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "16",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "30",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "31",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Human kidney is ______ centimeter long.",
+   "q_ur": "انسانی گردہ ______ سینٹی میٹر لمبا ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Tobacco smoke contains over ______ different chemicals.",
+   "q_ur": "تمباکو کے دھوئیں میں ______ سے زائد مختلف کیمیکلز ہوتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "3000",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4000",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5000",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6000",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The drug obtained from animals is:",
+   "q_ur": "جانوروں سے حاصل ہونے والی دوا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Aspirin",
+     "ur": "اسپرین"
+    },
+    {
+     "k": "B",
+     "en": "Psilocin",
+     "ur": "سائیلوسن"
+    },
+    {
+     "k": "C",
+     "en": "Mescaline",
+     "ur": "میسکیلین"
+    },
+    {
+     "k": "D",
+     "en": "Musk",
+     "ur": "مشک"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The complete map of human genome was published in:",
+   "q_ur": "انسانی جینوم کا مکمل نقشہ شائع ہوا:",
+   "options": [
+    {
+     "k": "A",
+     "en": "2001",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2002",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2003",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2004",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Organisms which break down dead complex organic compounds into simple compounds are:",
+   "q_ur": "آرگنزمز جو مردہ پیچیدہ نامیاتی مرکبات کو سادہ مرکبات میں توڑتے ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Producers",
+     "ur": "پروڈیوسرز"
+    },
+    {
+     "k": "B",
+     "en": "Consumers",
+     "ur": "کنزیومرز"
+    },
+    {
+     "k": "C",
+     "en": "Decomposers",
+     "ur": "ڈی کمپوزرز"
+    },
+    {
+     "k": "D",
+     "en": "Competitors",
+     "ur": "کمپیٹیٹرز"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Which animal is herbivore?",
+   "q_ur": "کون سا جانور ہربی وور ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Fox",
+     "ur": "لومڑی"
+    },
+    {
+     "k": "B",
+     "en": "Frog",
+     "ur": "مینڈک"
+    },
+    {
+     "k": "C",
+     "en": "Grasshopper",
+     "ur": "ٹڈا"
+    },
+    {
+     "k": "D",
+     "en": "Snake",
+     "ur": "سانپ"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The branch of biology in which we study inheritance is called:",
+   "q_ur": "بائیولوجی کی وہ شاخ جس میں ہم وراثت کا مطالعہ کرتے ہیں کہلاتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ecology",
+     "ur": "ایکالوجی"
+    },
+    {
+     "k": "B",
+     "en": "Genetics",
+     "ur": "جینیٹکس"
+    },
+    {
+     "k": "C",
+     "en": "Pharmacology",
+     "ur": "فارماکولوجی"
+    },
+    {
+     "k": "D",
+     "en": "Embryology",
+     "ur": "ایمبریالوجی"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The phenotypic ratio in Mendel's Law of Independent Assortment was:",
+   "q_ur": "مینڈل کے لا آف انڈیپینڈنٹ اسارٹمنٹ میں فینوٹائپک تناسب تھا:",
+   "options": [
+    {
+     "k": "A",
+     "en": "3:1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1:3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "9:3:3:1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9:2:2:1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "There are ______ types of pollination",
+   "q_ur": "پولینیشن کی ______ اقسام ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "The longest bone of our body is:",
+   "q_ur": "ہمارے جسم کی سب سے لمبی ہڈی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Malleus",
+     "ur": "میلیس"
+    },
+    {
+     "k": "B",
+     "en": "Incus",
+     "ur": "انکس"
+    },
+    {
+     "k": "C",
+     "en": "Stapes",
+     "ur": "سٹیپس"
+    },
+    {
+     "k": "D",
+     "en": "Thigh",
+     "ur": "ران"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Thyroid gland produces ______ hormone.",
+   "q_ur": "تھائی رائیڈ گلینڈ ______ ہارمون پیدا کرتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Thyroxin",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Insulin",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Glucagon",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Estrogen",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Coordinated action has components:",
+   "q_ur": "کوآرڈینیٹڈ ایکشن کے اجزاء ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Which is a by-product of photosynthesis?",
+   "q_ur": "کون سی فوٹوسنتھیسز کی بائی پروڈکٹ ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "O₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CO₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "N₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "H₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Nasal cavity opens into: ______",
+   "q_ur": "نیزل کیویٹی ______ میں کھلتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Pharynx",
+     "ur": "فرینکس"
+    },
+    {
+     "k": "B",
+     "en": "Oesophagus",
+     "ur": "ایسوفیگس"
+    },
+    {
+     "k": "C",
+     "en": "Trachea",
+     "ur": "ٹریکیا"
+    },
+    {
+     "k": "D",
+     "en": "Lungs",
+     "ur": "پھیپھڑے"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Drugs used to reduce pain are known as:",
+   "q_ur": "درد کم کرنے والی ادویات کہلاتی ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Narcotics",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Antiseptics",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Antibiotics",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Sedatives",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Human insulin was prepared in:",
+   "q_ur": "انسانی انسولین ______ میں تیار کی گئی۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1968",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1978",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1988",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1998",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "The term R4 means:",
+   "q_ur": "اصطلاح R4 کا مطلب ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Reduce",
+     "ur": "کم استعمال"
+    },
+    {
+     "k": "B",
+     "en": "Reuse",
+     "ur": "بار بار استعمال"
+    },
+    {
+     "k": "C",
+     "en": "Recycle",
+     "ur": "ری سائیکلنگ"
+    },
+    {
+     "k": "D",
+     "en": "Reforest",
+     "ur": "دوبارہ جنگل لگانا"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "There are ______ types of dengue virus.",
+   "q_ur": "ڈینگی وائرس کی ______ اقسام ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "When was Watson-Crick DNA model presented?",
+   "q_ur": "واٹسن کرک کا ڈی این اے ماڈل کب پیش کیا گیا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "1943",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1953",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1963",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1973",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "A human cell has chromosomes:",
+   "q_ur": "ایک انسانی سیل میں کروموسومز کی تعداد ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "13",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "26",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "46",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,570 @@
+{
+ "board": "BISE Faisalabad",
+ "board_slug": "faisalabad",
+ "class": "10th",
+ "subject": "Computer Science",
+ "year": 2022,
+ "slug": "faisalabad-10th-computer-science-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "A selection statement within another selection statement is called ____ selection structure.",
+   "q_ur": "ایک سیلیکشن سٹیٹمنٹ کے اندر دوسری سیلیکشن سٹیٹمنٹ ____ سیلیکشن سٹرکچر کہلاتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nested",
+     "ur": "نیسٹڈ"
+    },
+    {
+     "k": "B",
+     "en": "Dual",
+     "ur": "ڈوئل"
+    },
+    {
+     "k": "C",
+     "en": "Infinite",
+     "ur": "انفائنیٹ"
+    },
+    {
+     "k": "D",
+     "en": "Complex",
+     "ur": "کمپلیکس"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Which is a control statement?",
+   "q_ur": "کونسی کنٹرول سٹیٹمنٹ ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Relation",
+     "ur": "ریلیشن"
+    },
+    {
+     "k": "B",
+     "en": "Function",
+     "ur": "فنکشن"
+    },
+    {
+     "k": "C",
+     "en": "Selection",
+     "ur": "سیلیکشن"
+    },
+    {
+     "k": "D",
+     "en": "Array",
+     "ur": "ارے"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "In C-Language ____ is used as statement terminator.",
+   "q_ur": "C لینگویج میں ____ بطور سٹیٹمنٹ ٹرمینیٹر استعمال ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": ";",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "\" \"",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "()",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "<=",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Which operator is used as assignment operator?",
+   "q_ur": "کونسا آپریٹر بطور اسائنمنٹ آپریٹر استعمال ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "<=",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": ">=",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "=",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "==",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "A software that facilitates programmer in writing computer programs is known as:",
+   "q_ur": "ایک سافٹ ویئر جو پروگرامر کو کمپیوٹر پروگرام لکھنے میں سہولت دیتا ہے کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "A compiler",
+     "ur": "کمپائلر"
+    },
+    {
+     "k": "B",
+     "en": "An editor",
+     "ur": "ایڈیٹر"
+    },
+    {
+     "k": "C",
+     "en": "IDE",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A debugger",
+     "ur": "ڈی بگر"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "What will be the output of this code?\nint add (int a, int b)\n{\nreturn a + b;\n}\nvoid main()\n{\nprintf(\"%d\", add (3, 2));\n}",
+   "q_ur": "اس کوڈ کی آؤٹ پٹ کیا ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "A function cannot return more than ____ values.",
+   "q_ur": "ایک فنکشن ____ سے زیادہ ویلیو ریٹرن نہیں کر سکتا۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The functions which are available in C standard library are called:",
+   "q_ur": "C سٹینڈرڈ لائبریری میں موجود فنکشنز ____ کہلاتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "User-defined",
+     "ur": "یوزر ڈیفائنڈ"
+    },
+    {
+     "k": "B",
+     "en": "Built-in",
+     "ur": "بلٹ ان"
+    },
+    {
+     "k": "C",
+     "en": "Recursive",
+     "ur": "ریکرسو"
+    },
+    {
+     "k": "D",
+     "en": "Repetitive",
+     "ur": "ریپیٹیٹو"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Using loops inside loops is called ____ loops.",
+   "q_ur": "لوپس کے اندر لوپس کا استعمال ____ لوپس کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "For",
+     "ur": "فار"
+    },
+    {
+     "k": "B",
+     "en": "While",
+     "ur": "وائل"
+    },
+    {
+     "k": "C",
+     "en": "Do-While",
+     "ur": "ڈو وائل"
+    },
+    {
+     "k": "D",
+     "en": "Nested",
+     "ur": "نیسٹڈ"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "If size of an array is 10, the range of indexes will be:",
+   "q_ur": "اگر ارے کے سائز 10 ہے تو انڈیکسز کی رینج ہوگی:",
+   "options": [
+    {
+     "k": "A",
+     "en": "0 - 10",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0 - 9",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1 - 10",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2 - 10",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Include statements are written in ____ section.",
+   "q_ur": "Include سٹیٹمنٹس ____ سیکشن میں لکھی جاتی ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Header",
+     "ur": "ہیڈر"
+    },
+    {
+     "k": "B",
+     "en": "Main",
+     "ur": "مین"
+    },
+    {
+     "k": "C",
+     "en": "Comments",
+     "ur": "کمنٹس"
+    },
+    {
+     "k": "D",
+     "en": "Print",
+     "ur": "پرنٹ"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "getch() is used to take ____ as input from user.",
+   "q_ur": "getch() ____ ان پٹ لینے کے لیے استعمال ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "int",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "float",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "char",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "unsigned int",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "It is a very common mistake to forget ____ operator in the scanf function.",
+   "q_ur": "scanf فنکشن میں ____ آپریٹر بھول جانا بہت عام غلطی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "&",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "%",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": ".",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "$",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "A condition can be any ____ expression.",
+   "q_ur": "ایک کنڈیشن کوئی بھی ____ ایکسپریشن ہو سکتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Arithmetic",
+     "ur": "ارتھ میٹک"
+    },
+    {
+     "k": "B",
+     "en": "Relational",
+     "ur": "ریلیشنل"
+    },
+    {
+     "k": "C",
+     "en": "Logical",
+     "ur": "لوجیکل"
+    },
+    {
+     "k": "D",
+     "en": "Arithmetic, relational or logical",
+     "ur": "ارتھ میٹک، ریلیشنل یا لوجیکل"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "In C-Language which is the default control structure?",
+   "q_ur": "C لینگویج میں پہلے سے طے شدہ کنٹرول سٹرکچر کونسا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sequential",
+     "ur": "سیکوینشل"
+    },
+    {
+     "k": "B",
+     "en": "Repetition",
+     "ur": "ریپیٹیشن"
+    },
+    {
+     "k": "C",
+     "en": "Conditional",
+     "ur": "کنڈیشنل"
+    },
+    {
+     "k": "D",
+     "en": "Relation",
+     "ur": "ریلیشن"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "If size of an array is 100, the range of indexes will be:",
+   "q_ur": "اگر ارے کا سائز 100 ہے تو انڈیکس کی رینج ہوگی:",
+   "options": [
+    {
+     "k": "A",
+     "en": "0 - 100",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0 - 99",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1 - 100",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2 - 102",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "____ is the unique identifier used to refer the array.",
+   "q_ur": "____ ایک مخصوص شناخت ہے جو ارے کا حوالہ دیتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Data type",
+     "ur": "ڈیٹا ٹائپ"
+    },
+    {
+     "k": "B",
+     "en": "Array name",
+     "ur": "ارے کا نام"
+    },
+    {
+     "k": "C",
+     "en": "Array size",
+     "ur": "ارے کا سائز"
+    },
+    {
+     "k": "D",
+     "en": "Array index",
+     "ur": "ارے کا انڈیکس"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "In function char is:\nchar cd ()\n{\nreturn 'a';\n}",
+   "q_ur": "فنکشن میں char ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Body",
+     "ur": "باڈی"
+    },
+    {
+     "k": "B",
+     "en": "Return type",
+     "ur": "ریٹرن ٹائپ"
+    },
+    {
+     "k": "C",
+     "en": "Array",
+     "ur": "ارے"
+    },
+    {
+     "k": "D",
+     "en": "Argument",
+     "ur": "آرگومنٹ"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "What will be the output of code?\nvoid abc()\nprintf(\"1/n\");",
+   "q_ur": "اس کوڈ کی آؤٹ پٹ کیا ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "\"1\"",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "\"2\"",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "A block of statements that performs a particular task is called:",
+   "q_ur": "ہدایات کا ایک بلاک جو کوئی خاص کام سر انجام دیتا ہے کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Variable",
+     "ur": "ویری ایبل"
+    },
+    {
+     "k": "B",
+     "en": "Constant",
+     "ur": "کونسٹنٹ"
+    },
+    {
+     "k": "C",
+     "en": "Function",
+     "ur": "فنکشن"
+    },
+    {
+     "k": "D",
+     "en": "Loop",
+     "ur": "لوپ"
+    }
+   ]
+  }
+ ]
+}

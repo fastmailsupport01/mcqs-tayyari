@@ -1,0 +1,850 @@
+{
+ "board": "BISE Faisalabad",
+ "board_slug": "faisalabad",
+ "class": "10th",
+ "subject": "Mathematics",
+ "year": 2022,
+ "slug": "faisalabad-10th-mathematics-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "How many common tangents can be drawn for two touching circles?",
+   "q_ur": "دو مس کرت ہوئے دائروں کے کتنے مشترک مماس بنائے جا سکتے ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The length of a chord and the radial segment of a circle are congruent, the central angle made by the chord will be:",
+   "q_ur": "ایک دائرے میں وتر اور اس کی لمبائییں مماثل ہیں تو وتر سے بننے والا مرکزی زاویہ ہوگا:",
+   "options": [
+    {
+     "k": "A",
+     "en": "30°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "75°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "A circle has only one:",
+   "q_ur": "ایک دائرے کا صرف ایک ______ ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Secant",
+     "ur": "خط قاطع"
+    },
+    {
+     "k": "B",
+     "en": "Chord",
+     "ur": "وتر"
+    },
+    {
+     "k": "C",
+     "en": "Diameter",
+     "ur": "قطر"
+    },
+    {
+     "k": "D",
+     "en": "Center",
+     "ur": "مرکز"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Locus of a point in a plane equidistant from a fixed point is called:",
+   "q_ur": "مستوی کے تمام نقاط کا سیٹ جو معین نقطے سے برابر فاصلے پر ہوں کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Circle",
+     "ur": "دائرہ"
+    },
+    {
+     "k": "B",
+     "en": "Radius",
+     "ur": "رداس"
+    },
+    {
+     "k": "C",
+     "en": "Diameter",
+     "ur": "قطر"
+    },
+    {
+     "k": "D",
+     "en": "Circumference",
+     "ur": "محیط"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "sec θ cot θ = ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "sin θ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/cos θ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "sin θ/cos θ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/sin θ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Mean is affected by change in:",
+   "q_ur": "حسابی اوسط ______ تبدیل کرنے سے اثر انداز ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Place",
+     "ur": "جگہ"
+    },
+    {
+     "k": "B",
+     "en": "Scale",
+     "ur": "پیمانہ"
+    },
+    {
+     "k": "C",
+     "en": "Rate",
+     "ur": "مقدار/شرح"
+    },
+    {
+     "k": "D",
+     "en": "Number",
+     "ur": "نمبر"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "A histogram is a set of adjacent:",
+   "q_ur": "ہسٹوگرام ملحقہ ______ کا مجموعہ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Squares",
+     "ur": "مربعوں کا"
+    },
+    {
+     "k": "B",
+     "en": "Rectangles",
+     "ur": "مستطیلوں کا"
+    },
+    {
+     "k": "C",
+     "en": "Circles",
+     "ur": "دائروں کا"
+    },
+    {
+     "k": "D",
+     "en": "Rows",
+     "ur": "قطاروں کا"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The range of R = {(1, 3), (2, 2), (3, 1), (4, 4)} is:",
+   "q_ur": "اگر R = {(1, 3), (2, 2), (3, 1), (4, 4)} ہو تو range R ہوتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "{1, 2, 4}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{3, 2, 4}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{1, 2, 3, 4}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{1, 3, 4}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "A set with no element is called:",
+   "q_ur": "ایسا سیٹ جس میں کوئی رکن نہ ہو کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sub set",
+     "ur": "تحتی سیٹ"
+    },
+    {
+     "k": "B",
+     "en": "Empty set",
+     "ur": "خالی سیٹ"
+    },
+    {
+     "k": "C",
+     "en": "Singleton set",
+     "ur": "یک رکنی سیٹ"
+    },
+    {
+     "k": "D",
+     "en": "Super set",
+     "ur": "سپر سیٹ"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "A fraction in which the degree of numerator is less than the degree of the denominator is called:",
+   "q_ur": "کسر جس میں شمار کنندہ کی ڈگری مخرج کی ڈگری سے کم ہو کہلاتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "An equation",
+     "ur": "مساوات"
+    },
+    {
+     "k": "B",
+     "en": "An improper fraction",
+     "ur": "غیر واجب کسر"
+    },
+    {
+     "k": "C",
+     "en": "An identity",
+     "ur": "مماثلت"
+    },
+    {
+     "k": "D",
+     "en": "A proper fraction",
+     "ur": "واجب کسر"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "If a : b = x : y, then invertendo property is:",
+   "q_ur": "اگر a : b = x : y ہو تو معکوس نسبت ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "a/x = b/y",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a/b = x/(x-y)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(a+b)/b = (x+y)/y",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "b/a = y/x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "If y² ∝ 1/x³, then:",
+   "q_ur": "اگر y² ∝ 1/x³ ہو تو:",
+   "options": [
+    {
+     "k": "A",
+     "en": "y² = k/x³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "y² = 1/x²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "y² = x²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "y² = kx³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Sum of cube roots of unity is:",
+   "q_ur": "اکائی کے جزر المکعب کا مجموعہ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "If α, β are the roots of px² + qx + r = 0, then sum of the roots 2α and 2β is:",
+   "q_ur": "اگر α, β مساوات px² + qx + r = 0 کے روٹس ہوں تو 2α اور 2β کا مجموعہ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "q/p",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "r/p",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-2q/p",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-q/2p",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "The number of methods to solve a quadratic equation is:",
+   "q_ur": "دو درجی مساوات کو حل کرنے کے کتنے طریقے ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "A set with no element is called:",
+   "q_ur": "ایسا سیٹ جس میں کوئی رکن نہ ہو کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sub set",
+     "ur": "تحتی سیٹ"
+    },
+    {
+     "k": "B",
+     "en": "Empty set",
+     "ur": "خالی سیٹ"
+    },
+    {
+     "k": "C",
+     "en": "Singleton set",
+     "ur": "یک رکنی سیٹ"
+    },
+    {
+     "k": "D",
+     "en": "Super set",
+     "ur": "سپر سیٹ"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "The different number of ways to describe a set is:",
+   "q_ur": "سیٹ کو بیان کرنے کے مختلف طریقوں کی تعداد ہوتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "A fraction in which the degree of numerator is less than the degree of the denominator is called:",
+   "q_ur": "کسر جس میں شمار کنندہ کی ڈگری مخرج کی ڈگری سے کم ہو کہلاتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "An equation",
+     "ur": "مساوات"
+    },
+    {
+     "k": "B",
+     "en": "An improper fraction",
+     "ur": "غیر واجب کسر"
+    },
+    {
+     "k": "C",
+     "en": "An identity",
+     "ur": "مماثلت"
+    },
+    {
+     "k": "D",
+     "en": "A proper fraction",
+     "ur": "واجب کسر"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "If a/b = c/d, then componendo property is:",
+   "q_ur": "اگر a/b = c/d ہو تو ترکیب نسبت ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "a/b = c/(c-d)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a/(a+b) = c/(c+d)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(a-b)/b = (c-d)/d",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ad/bc",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The third proportional of x² and y² is:",
+   "q_ur": "x² اور y² کا تیسرا تناسب ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "y²/x²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x²y²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "y²/x⁴",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "y⁴/x²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Product of cube roots of unit is:",
+   "q_ur": "اکائی کے جزر المکعب کا حاصل ضرب ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "The solution set of equation 4x² - 16 = 0 is:",
+   "q_ur": "مساوات 4x² - 16 = 0 کا حل سیٹ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "{±4}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{±2}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{4}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "±2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "The number of methods to solve a quadratic equation is:",
+   "q_ur": "دو درجی مساوات کو حل کرنے کے کتنے طریقے ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "The circumference of a circle is called:",
+   "q_ur": "دائرے کا محیط کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Chord",
+     "ur": "وتر"
+    },
+    {
+     "k": "B",
+     "en": "Segment",
+     "ur": "قطعہ"
+    },
+    {
+     "k": "C",
+     "en": "Line segment",
+     "ur": "خط قطعہ"
+    },
+    {
+     "k": "D",
+     "en": "Boundary",
+     "ur": "سرحد"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "The arcs opposite to incongruent central angles of a circle are always:",
+   "q_ur": "ایک دائرے میں غیر مماثل مرکزی زاویوں کے سامنے والے قوسین ہوتی ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Congruent",
+     "ur": "مماثل"
+    },
+    {
+     "k": "B",
+     "en": "Incongruent",
+     "ur": "غیر مماثل"
+    },
+    {
+     "k": "C",
+     "en": "Parallel",
+     "ur": "متوازی"
+    },
+    {
+     "k": "D",
+     "en": "Perpendicular",
+     "ur": "عمودی"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Two tangents drawn to a circle from a point outside it are ______ in length.",
+   "q_ur": "ایک دائرے کے بیرونی نقطے سے کھینچے گئے مماس لمبائی کے لحاظ سے ہوتے ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Half",
+     "ur": "نصف"
+    },
+    {
+     "k": "B",
+     "en": "Equal",
+     "ur": "برابر"
+    },
+    {
+     "k": "C",
+     "en": "Double",
+     "ur": "دوگنا"
+    },
+    {
+     "k": "D",
+     "en": "Triple",
+     "ur": "تین گنا"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "A complete circle is divided into:",
+   "q_ur": "مکمل دائرہ تقسیم کیا جاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "180°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "120°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "360°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "20° = ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "360'",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "630'",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1200'",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3600'",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "Mean is affected by change in:",
+   "q_ur": "حسابی اوسط ______ تبدیل کرنے سے اثر انداز ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Scale",
+     "ur": "پیمانہ"
+    },
+    {
+     "k": "B",
+     "en": "Ratio",
+     "ur": "نسبت"
+    },
+    {
+     "k": "C",
+     "en": "Rate",
+     "ur": "شرح"
+    },
+    {
+     "k": "D",
+     "en": "Place",
+     "ur": "جگہ"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "A grouped frequency table is called:",
+   "q_ur": "گروہی تعددی جدول کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Data",
+     "ur": "مواد"
+    },
+    {
+     "k": "B",
+     "en": "Frequency",
+     "ur": "تعددی"
+    },
+    {
+     "k": "C",
+     "en": "Frequency polygon",
+     "ur": "تعددی کثیر الاضلاع"
+    },
+    {
+     "k": "D",
+     "en": "Frequency distribution",
+     "ur": "تعددی تقسیم"
+    }
+   ]
+  }
+ ]
+}

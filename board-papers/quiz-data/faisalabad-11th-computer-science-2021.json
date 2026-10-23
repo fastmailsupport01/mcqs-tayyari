@@ -1,0 +1,430 @@
+{
+ "board": "BISE Faisalabad",
+ "board_slug": "faisalabad",
+ "class": "11th",
+ "subject": "Computer Science",
+ "year": 2021,
+ "slug": "faisalabad-11th-computer-science-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Which is not an example of system software?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Operating system",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Utility program",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Device driver",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "MS-Word",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The smallest unit of information in the computer is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Bit",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Byte",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Character",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Word",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Which is not LAN protocol?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Token ring",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ethernet",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "TCP/IP",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ARCnet",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "OSI reference model has:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 layer",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3 layers",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6 layers",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "7 layers",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Transmission from earth to satellite is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Downlink",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Uplink",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Low link",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "High link",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Data is transmitted block by block in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Isochronous transmission",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Analog transmission",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Synchronous transmission",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Asynchronous transmission",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The process of performing automatic office task using computer is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Office support",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Office automation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Data management",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Reprographics",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The temporary storage area within CPU is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "RAM",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ROM",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Registers",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Hard disk",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "ALU has ______ units",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The secret word or number used for data protection is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Biometric data",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Private word",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Password",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Backup",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Which is a web browser?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Windows explorer",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Internet explorer",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Web search",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "System explorer",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Add new hardware option is available in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Main menu",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Status bar",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Taskbar",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Control panel",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "The key that is used to delete a character to the right of cursor is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Backspace",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Del",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Home",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "End",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "The columns in spreadsheet are label by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Letters",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Numbers",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cell reference",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Digits",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Which software is used to search and view web pages?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "HTML",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Web server",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Web browser",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Window explorer",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

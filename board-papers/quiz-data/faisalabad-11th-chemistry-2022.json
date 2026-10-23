@@ -1,0 +1,962 @@
+{
+ "board": "BISE Faisalabad",
+ "board_slug": "faisalabad",
+ "class": "11th",
+ "subject": "Chemistry",
+ "year": 2022,
+ "slug": "faisalabad-11th-chemistry-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "If rate equation of reaction 2A + B → Product, is rate = K[A]²[B] and A is present in large excess, then order of reaction is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The oxidation state of 'Mn' in KMnO₄ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "+ 7",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "+ 6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "+ 2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "+ 5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "18g glucose dissolved in 90gm of H₂O has relative lowering of vapour pressure equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "18/90",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10/51",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/51",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "pH of human blood is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "7.35",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6.35",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5.35",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4.35",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "For a given process, the heat changes at constant pressure (qₚ) and at constant volume (qᵥ) are related to each other as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "qₚ = qᵥ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "qₚ < qᵥ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "qₚ > qᵥ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "qₚ = qᵥ/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Which of the hydrogen halides has the highest percentage ionic character?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "HCl",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "HBr",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "HF",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "HI",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Ionization energy for Mg → Mg⁺ + 1e has ΔH = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "738 KJ mol⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "238 KJ mol⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "448 KJ mol⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "138 KJ mol⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Splitting of spectral lines when atoms are subjected to strong electrical field is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zeeman effect",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Stark effect",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Photoelectric effect",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Compton effect",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "De-Brogli equation is represented as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "h = λ/mv",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "m = h/λv",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "m = h/λ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "λ = h/mv",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The molecules of CO₂ in dry ice form the:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ionic crystals",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Covalent crystals",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Molecular crystals",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Metallic crystals",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Density of ice is minimum at 4°C due to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Empty spaces in structure of ice",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Tetrahedral shape of crystal of ice",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Large bond lengths",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Large bond angles",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The temperature of a natural plasma is about:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "20000°C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1000°C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5000°C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10000°C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "The deviation of a gas from ideal behaviour is maximum at:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0°C and 2.0 atm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-10°C and 5 atm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "100°C and 2 atm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-10°C and 2 atm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "The technique of chromatography is useful in organic synthesis for:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Separation",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Isolation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Purification",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Separating funnel is used in the technique of analysis:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Crystallization",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Filtration",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Solvent extraction",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Sublimation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "Nickel has number of isotopes:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "The number of moles of CO₂, which contain 8.0g of oxygen:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.25",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.50",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.50",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Ionic solids are characterized by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Low melting point",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Good conductors in solid state",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "High vapour pressure",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Solubility in polar solvents",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "London dispersion forces are present among the:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Molecules of liquid water",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Molecule of hydrogen chloride gas",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Molecule of solid iodine",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Value of R at STP:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "8.21 dm³ atm k⁻¹ mol⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.0821 dm³ atm k⁻¹ mol⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.00821 dm³ atm k⁻¹ mol⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.000821 dm³ atm k⁻¹ mol⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Gases deviate from ideal behaviour at high pressure because:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "At high pressure, the gas molecule move in one direction only",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "At high pressure, the gas molecules move in all direction",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "At high pressure, there are significant attractive forces",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Coloured impurities appear during crystallization are removed by boiling the substance in the solvent with:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Silica gel",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Benzoic acid",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Powdered animal charcoal",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CaCl₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "A technique in which a solute distribute itself in stationary phase and mobile phase is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sublimation",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Solvent extraction",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Chromatography",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Many elements have fractional atomic masses. This is because:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mass of the atom is itself fractional",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Atomic mass are average masses of isobars",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Atomic masses are average masses of isotopes",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Atomic masses are average masses of isotopes proportional to their relative abundance",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "The volume occupied by 1.4g of N₂ at S.T.P. is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2.24 dm³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "22.4 dm³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.12 dm³",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "112 cm³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "The catalytic activity of enzyme is greatly enhanced by the presence of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Inhibitors",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Coenzymes",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Activators",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Coenzymes & activators",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Oxidation number of 'Mn' in KMnO₄ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "18gram glucose is dissolved in 90gram of water. The relative lowering of vapour pressure equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5.1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/51",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "pH of 10⁻⁴ mol dm⁻³ of HCl is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "For the reaction NaOH + HCl → NaCl + H₂O the change in enthalpy is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Heat of reaction",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Heat of formation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Heat of neutralization",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Heat of combustion",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "Bond order for He₂ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "Ethyne molecule have:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Three π bonds between carbon atom",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Three σ bonds between carbon atom",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "One σ and two π bonds between carbon atom",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "One π and two σ bonds between carbon atom",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "Quantum number value for 2p orbitals are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "n = 2, ℓ = 1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "n = 1, ℓ = 2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "n = 1, ℓ = 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "n = 2, ℓ = 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "In the ground state of an atom, the electron is present:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "In the nucleus",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "In the second shell",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Nearest to the nucleus",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Farthest from the nucleus",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

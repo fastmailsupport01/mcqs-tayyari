@@ -1,0 +1,682 @@
+{
+ "board": "BISE Faisalabad",
+ "board_slug": "faisalabad",
+ "class": "10th",
+ "subject": "Physics",
+ "year": 2022,
+ "slug": "faisalabad-10th-physics-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "If the mass of spring mass system is doubled, then its time period becomes:",
+   "q_ur": "اگر سپرنگ ماس سسٹم کے ماس کو دوگنا کر دیا جائے تو اس کا ٹائم پیریڈ ہوگا:",
+   "options": [
+    {
+     "k": "A",
+     "en": "√2 T",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "T/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√T/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "T/√2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The unit of intensity of sound is:",
+   "q_ur": "آواز کی انٹینسٹی کا یونٹ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Wm⁻²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Wm⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Wm²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Wm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Snell's Law is:",
+   "q_ur": "سنیل کا قانون ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "n = sin r̂ / sin î",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "n = sin î / sin r̂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "sin î = sin r̂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "n = C/V",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The value of k in Coulomb's Law is:",
+   "q_ur": "کولمب کے قانون میں k کی قیمت ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "9×10⁹Nm²C⁻²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "9×10⁹Nm⁻²C²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "9×10⁹Nm²C⁻²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9×10⁹Nm²C⁻²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Boolean expression of NOR gate is:",
+   "q_ur": "نار گیٹ کی بولین علامت ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "X = A + B",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "X = A · B",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "X = A·B̅",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "X = A+B̅",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The turn ratio of a transformer is 10. It means:",
+   "q_ur": "ٹر انسفارمر کے ٹرنوں کی نسبت 10 ہو تو:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nₛ = Nₚ/10",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Iₛ = 10 Iₚ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Vₛ = Vₚ/10",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nₛ = 10 Nₚ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Mobile phone sends and receives the message in the form of: ______",
+   "q_ur": "سیل فون پیغام کو ______ کی صورت میں بھیجتا اور وصول کرتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sound waves",
+     "ur": "آواز کی لہروں"
+    },
+    {
+     "k": "B",
+     "en": "Longitudinal waves",
+     "ur": "لانگیٹیوڈنل لہروں"
+    },
+    {
+     "k": "C",
+     "en": "Radio waves",
+     "ur": "ریڈیو لہروں"
+    },
+    {
+     "k": "D",
+     "en": "Mechanical waves",
+     "ur": "مکینیکل لہروں"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The symbol to denote diode is:",
+   "q_ur": "ڈائیوڈ کو ظاہر کرنے کی علامت ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "[triangle pointing to bar - diode symbol]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[NOT gate symbol]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[AND gate with bubble]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[triangle with vertical line]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Generally an atom is represented by the symbol:",
+   "q_ur": "عام طور پر ایٹم کو علامت سے ظاہر کیا جاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "A above X, Z below X [exact arrangement [illegible in source scan]]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[arrangement [illegible in source scan]]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[arrangement [illegible in source scan]]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[arrangement [illegible in source scan]]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Equivalent resistance of the circuit is: [R₁=2Ω, R₂=3Ω, R₃=6Ω in parallel, V=6V]",
+   "q_ur": "سرکٹ کی مساوی مزاحمت ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "11Ω",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "36Ω",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6Ω",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1Ω",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The shock absorbers damp the vibrations and convert their energy into ______ of the oil.",
+   "q_ur": "شاک ابزاربرز وائبریشن کو جذب کر دیتے ہیں اور ان کی انرجی کو ______ میں تبدیل کر دیتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Kinetic energy",
+     "ur": "کائی نیٹک انرجی"
+    },
+    {
+     "k": "B",
+     "en": "Potential energy",
+     "ur": "پوٹینشل انرجی"
+    },
+    {
+     "k": "C",
+     "en": "Heat energy",
+     "ur": "ہیٹ انرجی"
+    },
+    {
+     "k": "D",
+     "en": "Sound energy",
+     "ur": "ساؤنڈ انرجی"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Complete the following nuclear reaction: ²₁H + ³₁H → …… + ¹₀n + Energy",
+   "q_ur": "درج ذیل نیوکلیئر ری ایکشن کو مکمل کیجیے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "³₁H",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "²₁H",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "⁴₂He",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "⁵₂He",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Electric potential and emf:",
+   "q_ur": "الیکٹرک پوٹینشل اور ای ایم ایف:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Are the same terms",
+     "ur": "ایک جیسی مقداریں ہیں"
+    },
+    {
+     "k": "B",
+     "en": "Are the different terms",
+     "ur": "مختلف مقداریں ہیں"
+    },
+    {
+     "k": "C",
+     "en": "Have different units",
+     "ur": "ان کے یونٹ مختلف ہیں"
+    },
+    {
+     "k": "D",
+     "en": "Both B and C",
+     "ur": "B اور C دونوں"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Transformer is used to change the value of:",
+   "q_ur": "ٹرانسفارمر استعمال کیا جاتا ہے قیمت بدلنے کے لیے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Power",
+     "ur": "پاور"
+    },
+    {
+     "k": "B",
+     "en": "Charge",
+     "ur": "چارج"
+    },
+    {
+     "k": "C",
+     "en": "Voltage",
+     "ur": "وولٹیج"
+    },
+    {
+     "k": "D",
+     "en": "Energy",
+     "ur": "انرجی"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "The application used to view web pages is called:",
+   "q_ur": "ایسا سافٹ ویئر جو ویب پیجز کو دیکھنے میں مدد فراہم کرتا ہے کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Email",
+     "ur": "ای میل"
+    },
+    {
+     "k": "B",
+     "en": "Gmail",
+     "ur": "جی میل"
+    },
+    {
+     "k": "C",
+     "en": "Browser",
+     "ur": "براؤزر"
+    },
+    {
+     "k": "D",
+     "en": "MS Office",
+     "ur": "ایم ایس آفس"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Boolean expression of NAND gate is:",
+   "q_ur": "نینڈ گیٹ کی بولین علامت ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "X = A + B",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "X = A · B",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "X = A·B̅",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "X = A+B̅",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The half-life of a certain isotope is one day. What is the quantity of the isotope after two days?",
+   "q_ur": "ایک مخصوص آئسوٹوپ کی ہاف لائف ایک دن ہے۔ دو دن گزرنے کے بعد آئسوٹوپ کی مقدار کتنی ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "One half",
+     "ur": "آدھی رہ جائے گی"
+    },
+    {
+     "k": "B",
+     "en": "One quarter",
+     "ur": "ایک چوتھائی"
+    },
+    {
+     "k": "C",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": "ان میں سے کوئی نہیں"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Which is not a radio active element?",
+   "q_ur": "ریڈیو ایکٹیو عنصر نہیں ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Uranium",
+     "ur": "یورینیم"
+    },
+    {
+     "k": "B",
+     "en": "Polonium",
+     "ur": "پولونیم"
+    },
+    {
+     "k": "C",
+     "en": "Thorium",
+     "ur": "تھوریم"
+    },
+    {
+     "k": "D",
+     "en": "Sodium",
+     "ur": "سوڈیم"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "The example of longitudinal waves is:",
+   "q_ur": "لانگیٹیوڈنل ویوز کی مثال ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sound waves",
+     "ur": "ساؤنڈ ویوز"
+    },
+    {
+     "k": "B",
+     "en": "Radio waves",
+     "ur": "ریڈیو ویوز"
+    },
+    {
+     "k": "C",
+     "en": "Light waves",
+     "ur": "لائٹ ویوز"
+    },
+    {
+     "k": "D",
+     "en": "Water waves",
+     "ur": "واٹر ویوز"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "The pitch of sound mostly depends upon:",
+   "q_ur": "آواز کی پچ کا زیادہ تر انحصار ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Frequency",
+     "ur": "فریکوئنسی پر"
+    },
+    {
+     "k": "B",
+     "en": "Period",
+     "ur": "پیریڈ پر"
+    },
+    {
+     "k": "C",
+     "en": "Wave length",
+     "ur": "ویو لینتھ پر"
+    },
+    {
+     "k": "D",
+     "en": "Amplitude",
+     "ur": "ایمپلیٹیوڈ پر"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "The critical angle of glass is:",
+   "q_ur": "شیشے کا کریٹیکل اینگل ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "42°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "The pole of spherical mirror is also called:",
+   "q_ur": "سفیریکل مرر کا پول بھی کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Principal axis",
+     "ur": "پرنسپل ایکسز"
+    },
+    {
+     "k": "B",
+     "en": "Focus",
+     "ur": "فوکس"
+    },
+    {
+     "k": "C",
+     "en": "Focal length",
+     "ur": "فوکل لینتھ"
+    },
+    {
+     "k": "D",
+     "en": "Vertex",
+     "ur": "ورٹیکس"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "According to Coulomb's Law, what happens to the attraction of two oppositely charged objects as their distance of separation increases?",
+   "q_ur": "کولمب کے قانون کے مطابق اگر دو مخالف چارجز کے درمیان فاصلہ بڑھا دیا جائے تو ان کے درمیان کشش پر کیا اثر پڑے گا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Increases",
+     "ur": "بڑھ جاتی ہے"
+    },
+    {
+     "k": "B",
+     "en": "Decreases",
+     "ur": "کم ہو جاتی ہے"
+    },
+    {
+     "k": "C",
+     "en": "Remains unchanged",
+     "ur": "کوئی تبدیلی نہیں آتی"
+    },
+    {
+     "k": "D",
+     "en": "Cannot be determined",
+     "ur": "معلوم نہیں کیا جا سکتی"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "How will be the electric lines of force where electric field is strong?",
+   "q_ur": "الیکٹرک لائنز آف فورس کیسی ہوں گی جہاں الیکٹرک فیلڈ کی شدت زیادہ ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Apart",
+     "ur": "دور دور"
+    },
+    {
+     "k": "B",
+     "en": "From positive to negative",
+     "ur": "مثبت سے منفی"
+    },
+    {
+     "k": "C",
+     "en": "From negative to positive",
+     "ur": "منفی سے مثبت"
+    },
+    {
+     "k": "D",
+     "en": "Closer",
+     "ur": "قریب قریب"
+    }
+   ]
+  }
+ ]
+}
