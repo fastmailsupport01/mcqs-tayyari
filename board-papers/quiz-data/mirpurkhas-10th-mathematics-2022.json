@@ -1,0 +1,486 @@
+{
+ "board": "BISE Mirpurkhas",
+ "board_slug": "mirpurkhas",
+ "class": "10th",
+ "subject": "Mathematics",
+ "year": 2022,
+ "slug": "mirpurkhas-10th-mathematics-2022",
+ "questions": [
+  {
+   "n": "i",
+   "group": "Annual",
+   "q_en": "(Aᶜ)ᶜ = ____________",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "(A')'",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "A'",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "A",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "B",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ii",
+   "group": "Annual",
+   "q_en": "Which operation is not commutative",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Symmetric difference",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Union",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Difference",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Intersection",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iii",
+   "group": "Annual",
+   "q_en": "A function is called into if range co-domain",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Q",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "-",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "=",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "none of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iv",
+   "group": "Annual",
+   "q_en": "A function is called surjection if range ______ co-domain.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "⊇",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "⊂",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "=",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "alll of them",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "v",
+   "group": "Annual",
+   "q_en": "Which operation is not commutative",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Symmetric difference",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Union",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Difference",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Intersection",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vi",
+   "group": "Annual",
+   "q_en": "If (x, 6) = (2, y - 6) then x+ y -",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "12",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "14",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vii",
+   "group": "Annual",
+   "q_en": "If a: b = c : d then according to alternando property:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "a/b = c/d",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "(a+b)/b = (c+d)/d",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "a/c = b/d",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "viii",
+   "group": "Annual",
+   "q_en": "If O(A×B) = 100 and O(B) = 5 then O(A) -",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "15",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "20",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "25",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ix",
+   "group": "Annual",
+   "q_en": "A function is called surjective if range ______ co-domain",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Q",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "-",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "=",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "all of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "x",
+   "group": "Annual",
+   "q_en": "If A = 1, 2, 3, 41 and B ={2,4,6} then AΔB ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "{1,2}",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "{6}",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "{1,3}",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "{1,3,6}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xi",
+   "group": "Annual",
+   "q_en": "The conclusion of the enunciation \"If two chords of a circle are congruent, then they are equidistant from the centre.\" is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "two chords of the circle are equidistant from the centre.",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "two chords of a circle are congruent.",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "a circle has two chords.",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "the centre of circle is equidistant from chords.",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xii",
+   "group": "Annual",
+   "q_en": "In the adjacent figure, the point of tangency is .",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "A",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "B",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "C",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "D",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiii",
+   "group": "Annual",
+   "q_en": "Tangents drawn at end points of a diameter of a circle are __ to each other",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "parallel",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "perpendicular",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "intersecting",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "both (b) and (c)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiv",
+   "group": "Annual",
+   "q_en": "The maximum number of common tangents between two circles touching internally is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xv",
+   "group": "Annual",
+   "q_en": "The maximum number of common tangents between two circles touching externally is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xvi",
+   "group": "Annual",
+   "q_en": "If the sum of the roots of ( p +1)x²+ (2p + 3) x + (3 p +4) = 0 is -1, then product of the root is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xvii",
+   "group": "Annual",
+   "q_en": "(x² + 1) / ((x - 1)(x + 2)) is,",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Proper fraction",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "An improper fraction",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "An identity",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "A constant term",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

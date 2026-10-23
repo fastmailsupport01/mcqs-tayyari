@@ -1,0 +1,682 @@
+{
+ "board": "BISE Mirpurkhas",
+ "board_slug": "mirpurkhas",
+ "class": "10th",
+ "subject": "Computer Science",
+ "year": 2022,
+ "slug": "mirpurkhas-10th-computer-science-2022",
+ "questions": [
+  {
+   "n": "1",
+   "group": "Annual",
+   "q_en": "Elements of --------- data structures are not connected sequentially.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Array",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Graph",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Queue",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Stack",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "group": "Annual",
+   "q_en": "In binary tree, each child can have maximum:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "One node",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Two node",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Three node",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Four node",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "group": "Annual",
+   "q_en": "--------- Symbol is used for input output in flowchart.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Triangle",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Square",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Parallelogram",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Oval",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "group": "Annual",
+   "q_en": "A computer program is a collection of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Tasks",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Instructions",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Computers",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Programmers",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "group": "Annual",
+   "q_en": "All errors, detected by users are typically:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Syntax errors",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Semantic errors",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Run Time errors",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Logical errors",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "group": "Annual",
+   "q_en": "A hool data can store following type of value:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Fractional numbers",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Strings",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Numbers",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "True of false",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "group": "Annual",
+   "q_en": "Which data type occupies the most space in memory?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Double floating point",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Integer",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Floating point",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Character",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "group": "Annual",
+   "q_en": "Which operator is used for input stream?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": ">",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "<<",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": ">>",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "<",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "group": "Annual",
+   "q_en": "Get stands for ---------.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Get stream",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Get string",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Get sir",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Get std",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "group": "Annual",
+   "q_en": "Which operator is used for logical AND operation?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "&",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "&&",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "11",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "group": "Annual",
+   "q_en": "Which of the following operator is correct to compare two values of variables?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "=",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "<=",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "==",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Both b and c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "group": "Annual",
+   "q_en": "Loop within a loop is called --------- loop.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Inner",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Outer",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Enclosed",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Nested",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "group": "Annual",
+   "q_en": "To send value to the calling function we use --------- statement.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Throw",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Return",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Send",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Back",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "group": "Annual",
+   "q_en": "In C++ int main ( ) returns which data type value by default?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Float",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Int",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Char",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Double",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "group": "Annual",
+   "q_en": "The word \"prototype\" means:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Declaration",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Calling",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Definition",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Both a & b",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "group": "Annual",
+   "q_en": "Which are not the built-in-function?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "sqrt ( )",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "time ( )",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "exp ( )",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "sin ( )",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "17",
+   "group": "Annual",
+   "q_en": "All variables declared in function definition are called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Local variable",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Instance variable",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Global variable",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Static variable",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "18",
+   "group": "Annual",
+   "q_en": "The --------- is Inverter:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "AND",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "AND Gate",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "OR Gate",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "19",
+   "group": "Annual",
+   "q_en": "The universal gate is ---------.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "NAND gate",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "AND Gate",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "OR Gate",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "20",
+   "group": "Annual",
+   "q_en": "With the combination of three variables, how many outputs are expected altogether?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Three",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Six",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Eight",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Nine",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "21",
+   "group": "Annual",
+   "q_en": "In scratch, the character which moves on the stage is called a ---------.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Sprite",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Command",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Script",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Event",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "22",
+   "group": "Annual",
+   "q_en": "A Scratch Program is at least made up with ---------.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "One sprite & backdrop",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Many sprites",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "One sprite",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "One sprite & code",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "23",
+   "group": "Annual",
+   "q_en": "--------- stores data in hierarchal manner.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Stack",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Queue",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Array",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Tree",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "24",
+   "group": "Annual",
+   "q_en": "t = operator belongs to which type of operator.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Relational",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Logical",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Arithmetic",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

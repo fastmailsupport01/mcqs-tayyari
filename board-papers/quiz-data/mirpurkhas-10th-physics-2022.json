@@ -1,0 +1,430 @@
+{
+ "board": "BISE Mirpurkhas",
+ "board_slug": "mirpurkhas",
+ "class": "10th",
+ "subject": "Physics",
+ "year": 2022,
+ "slug": "mirpurkhas-10th-physics-2022",
+ "questions": [
+  {
+   "n": "i",
+   "group": "Annual",
+   "q_en": "Which form of energy is sound?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "electrical",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "mechanical",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "thermal",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "chemical",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ii",
+   "group": "Annual",
+   "q_en": "Which of the following quantity is not changed during refraction of light?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "its direction",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "its speed",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "its frequency",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "its wavelength",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iii",
+   "group": "Annual",
+   "q_en": "A converging mirror with a radius of 20 cm creates a real image 30 cm from the mirror. What is the object distance?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "-5.0 cm",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "-7.5 cm",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "-15 cm",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "-20 cm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iv",
+   "group": "Annual",
+   "q_en": "An object is placed at the centre of curvature of a concave mirror. The image produced by the mirror is located",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "out beyond the centre of curvature.",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "at the centre of curvature",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "between the centre of curvature and the focal point",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "at the focal point",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "v",
+   "group": "Annual",
+   "q_en": "The presence of a magnetic field can be detected by a",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "small mass",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "stationary positive charge",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "stationary negative charge",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "magnetic compass",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vi",
+   "group": "Annual",
+   "q_en": "If the current in a wire which is placed perpendicular to a magnetic field increases, the force on the wire",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "increases",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "decreases",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "remains the same",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "will be zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vii",
+   "group": "Annual",
+   "q_en": "The process by which electrons are emitted by a hot metal surface is known as",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "boiling",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "evaporation",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "conduction",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "thermionic emission",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "viii",
+   "group": "Annual",
+   "q_en": "When you rub a plastic rod against your hair several times and put it near some bits of paper, the pieces of papers are attracted towards it. What does this observation indicate?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "the rod and the paper are oppositely charged",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "the rod acquires a positive charge",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "the rod and the paper have the same charges",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "the rod acquires a negative charge",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ix",
+   "group": "Annual",
+   "q_en": "According to Coulomb's law, what happens to the attraction of two oppositely charged objects as their distance of separation increases?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "increases",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "decreases",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "remains unchanged",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "cannot be determined",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "x",
+   "group": "Annual",
+   "q_en": "Electric potential and e.m.f",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "are the same terms",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "are the different terms",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "have different units",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "both (b) and (c)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xi",
+   "group": "Annual",
+   "q_en": "Which of the following characteristics of a wave is independent of the others?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "speed",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "frequency",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "amplitude",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "wavelength",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xii",
+   "group": "Annual",
+   "q_en": "The relation between v, f and λ of a wave is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "vf = λ",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "fλ = v",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "vλ = f",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "v = λ/",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiii",
+   "group": "Annual",
+   "q_en": "Image formed by a camera is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "real, inverted, and diminished",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "virtual, upright and diminished",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "virtual, upright and magnified",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "real, inverted and magnified",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiv",
+   "group": "Annual",
+   "q_en": "If a ray of light in glass is incident on an air surface at an angle greater than the critical angle, the ray will",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "refract only",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "reflect only",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "partially refract and partially reflect",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "diffract only",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xv",
+   "group": "Annual",
+   "q_en": "A positive and a negative charge are initially 4 cm apart. When they are moved closer together so that they are now only 1 cm apart, the force between them is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "4 times smaller than before",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "4 times larger than before",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "8 times larger than before",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "16 times larger than before",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

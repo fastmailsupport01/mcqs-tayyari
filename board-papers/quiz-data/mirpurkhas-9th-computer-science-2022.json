@@ -1,0 +1,682 @@
+{
+ "board": "BISE Mirpurkhas",
+ "board_slug": "mirpurkhas",
+ "class": "9th",
+ "subject": "Computer Science",
+ "year": 2022,
+ "slug": "mirpurkhas-9th-computer-science-2022",
+ "questions": [
+  {
+   "n": "i",
+   "group": "Annual",
+   "q_en": "____________ is a special type of websiet that is baed on sotries, article and posts.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Forum",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Blog",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Social",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Personal",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ii",
+   "group": "Annual",
+   "q_en": "The tag used to automatically add line space before and after the containing text is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "<br>",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "<hr>",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "<p>",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "<pre>",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iii",
+   "group": "Annual",
+   "q_en": "The volatile memory:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "is permanent",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "loses contents as the power is disconnected",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "possesses large storage",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "manages hardware resources",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iv",
+   "group": "Annual",
+   "q_en": "A program that enables user to interact with computer is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "my document",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "start menu",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "desktop",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "interface",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "v",
+   "group": "Annual",
+   "q_en": "The topology in which all computers are connected to a central device called hub is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Bus",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Star",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Ring",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Tree",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vi",
+   "group": "Annual",
+   "q_en": "The process of checking computer, starting operating system and aking it ready to work is referred to as;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "resources management",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "booting",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "error checking",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "file management",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vii",
+   "group": "Annual",
+   "q_en": "Charts ar basically used to ____________ purpose.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Show the quantities and their relationship graphically",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Design table",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Organised data table",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Sort data in different columns",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "viii",
+   "group": "Annual",
+   "q_en": "A collection of wires connecting the CPU with main memory that is used to identify particular locations is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "control bus",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "data bus",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "address bus",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "memory bus",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ix",
+   "group": "Annual",
+   "q_en": "____________ is a legal instrument that proivides legal rights for program designer or auther.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Patent",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Copy Rights",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Trade mark",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "stamp paper",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "x",
+   "group": "Annual",
+   "q_en": "The software which performs all basic tasks is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "antivirus",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "start menu",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "operating system",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "office automation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xi",
+   "group": "Annual",
+   "q_en": "The number of user(s) that can access t he resources simultaneously on a Multiuser OS is / are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "one",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "two",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "many",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "only administrators",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xii",
+   "group": "Annual",
+   "q_en": "The group of programs that helps office workers to do a number routine tasks easily and efficiently is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "operating system",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "e-mail",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "anti-virus",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "office automation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiii",
+   "group": "Annual",
+   "q_en": "The topology in which all computers are connected to a central device called hub is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Bus",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Star",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Ring",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Tree",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiv",
+   "group": "Annual",
+   "q_en": "Which of the following Microsoft Offiee packages is a DBMS?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "MS-Word",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "MS-Excel",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "MS-Power point",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "MS-Access",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xv",
+   "group": "Annual",
+   "q_en": "The basic limilation of a flat file database is that:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "It is complicated",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "It stores data in a single file",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "It is very heavy",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "It is not supported on internet",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xvi",
+   "group": "Annual",
+   "q_en": "GUI (Graphical User Inerface) was introduced in ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "1st",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "4th",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "2nd",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "5th",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xvii",
+   "group": "Annual",
+   "q_en": "____________ is the brain of computer.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Clock",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "ALU",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Regiser",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Microproceessor",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xviii",
+   "group": "Annual",
+   "q_en": "DOS is an example of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Real Time Processing OS",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Multi Processing OS",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Single User OS",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Multi User OS",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xix",
+   "group": "Annual",
+   "q_en": "The function which is used to re-arrange data according to specific criteria is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Filtering",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Sorting",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Organizing",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Grouping",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xx",
+   "group": "Annual",
+   "q_en": "Communication system is made up of",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "three comenents",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "four components",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "five components",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "six components",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxi",
+   "group": "Annual",
+   "q_en": "Router determine data path to transfer data packets which is the:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "shortest",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "longest",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "cheapest",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "optimal",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxii",
+   "group": "Annual",
+   "q_en": "Software are mostly protected under:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Patents",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Copyrights",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Trademarks",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Logos",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxiii",
+   "group": "Annual",
+   "q_en": "____________ is perform as a translator between the operating syste and hardware devices.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Language Translator",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Storage Device",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Device Drivers",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Buses",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiv",
+   "group": "Annual",
+   "q_en": "Media pplaer are the part of ____________",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Business Software",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Producitivity Software",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Educationa Software",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Enertainment software",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}
