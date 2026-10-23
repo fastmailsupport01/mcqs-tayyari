@@ -1,0 +1,850 @@
+{
+ "board": "BISE Sahiwal",
+ "board_slug": "sahiwal",
+ "class": "10th",
+ "subject": "Mathematics",
+ "year": 2022,
+ "slug": "sahiwal-10th-mathematics-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "If u/v = v/w = k then:",
+   "q_ur": "اگر u/v = v/w = k ہو تو:",
+   "options": [
+    {
+     "k": "A",
+     "en": "u = wk²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "u = vk²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "u = w²k",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "u = v²k",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Partial fraction of (x+2)/((x+1)(x²+2)) are of the form:",
+   "q_ur": "(x+2)/((x+1)(x²+2)) کے جزوی کسروں کی شکل کیا ہو گی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "A/(x+1) + B/(x²+2)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A/(x+1) + (Bx+C)/(x²+2)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(Ax+B)/(x+1) + C/(x²+2)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A/(x+1) + Bx/(x²+2)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Power set of an empty set is:",
+   "q_ur": "خالی سیٹ کے پاور سیٹ ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "φ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{a}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{φ,a}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{φ}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "If A ⊆ B then A ∩ B is equal to:",
+   "q_ur": "اگر A ⊆ B ہو تو A ∩ B برابر ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "A",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "B",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "φ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "AB",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The most frequent occurring observation in a data set is called:",
+   "q_ur": "کسی ڈیٹا میں سب سے زیادہ بار آنے والے مشاہدے کو کہتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mean",
+     "ur": "حسابی اوسط"
+    },
+    {
+     "k": "B",
+     "en": "Harmonic mean",
+     "ur": "ہم آہنگ اوسط"
+    },
+    {
+     "k": "C",
+     "en": "Median",
+     "ur": "وسطانیہ"
+    },
+    {
+     "k": "D",
+     "en": "Mode",
+     "ur": "مادہ"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The symbol for a triangle is denoted by:",
+   "q_ur": "مثلث کو ظاہر کرنے کی علامت ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "∠",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Δ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "⊥",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "⊙",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "If tan θ = √3 then θ is equal to:",
+   "q_ur": "اگر tan θ = √3 ہو تو θ برابر ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "30°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The spread or scatterness of observations in a data set is called:",
+   "q_ur": "کسی ڈیٹا میں مشاہدات کی پھیلاؤ کو کہتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Average",
+     "ur": "اوسط"
+    },
+    {
+     "k": "B",
+     "en": "Dispersion",
+     "ur": "انتشار"
+    },
+    {
+     "k": "C",
+     "en": "Central tendency",
+     "ur": "مرکزی رجحان"
+    },
+    {
+     "k": "D",
+     "en": "Mode",
+     "ur": "مادہ"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "A line intersecting a circle is called:",
+   "q_ur": "دائرے کو قطع کرنے والی لائن کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Secant",
+     "ur": "قاطع"
+    },
+    {
+     "k": "B",
+     "en": "Tangent",
+     "ur": "مماس"
+    },
+    {
+     "k": "C",
+     "en": "Chord",
+     "ur": "وتر"
+    },
+    {
+     "k": "D",
+     "en": "Diameter",
+     "ur": "قطر"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "An arc subtends a central angle of 40° then the corresponding chord will subtend a central angle of:",
+   "q_ur": "ایک قوس دائرے کے مرکز پر 40° کا زاویہ بناتی ہے تو اس کے متعلقہ وتر مرکز پر زاویہ بنائے گا۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "20°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "40°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "80°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "A circle has only one:",
+   "q_ur": "ایک دائرے کا صرف ایک ہی ______ ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Secant",
+     "ur": "قاطع"
+    },
+    {
+     "k": "B",
+     "en": "Chord",
+     "ur": "وتر"
+    },
+    {
+     "k": "C",
+     "en": "Diameter",
+     "ur": "قطر"
+    },
+    {
+     "k": "D",
+     "en": "Centre",
+     "ur": "مرکز"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The number of terms in a standard quadratic equation ax² + bx + c = 0 is:",
+   "q_ur": "دو درجی مساوات ax² + bx + c = 0 میں رکنوں کی تعداد ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Sum of the cube roots of unity is:",
+   "q_ur": "اکائی کے مکعب جذور کا مجموعہ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "If α, β are the roots of x² - x - 1 = 0 then product of the roots 2α and 2β is:",
+   "q_ur": "اگر α, β مساوات x² - x - 1 = 0 کے روٹس ہوں تو 2α اور 2β کا حاصل ضرب ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "-2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "In a proportion a:b::c:d, 'b' and 'c' are called:",
+   "q_ur": "تناسب a:b::c:d میں \"b\" اور \"c\" کہلاتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Means",
+     "ur": "وسطین"
+    },
+    {
+     "k": "B",
+     "en": "Extremes",
+     "ur": "طرفین"
+    },
+    {
+     "k": "C",
+     "en": "Fourth proportion",
+     "ur": "چوتھا متناسب"
+    },
+    {
+     "k": "D",
+     "en": "Third proportion",
+     "ur": "تیسرا متناسب"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "The observation that divide a data set into four equal parts is called:",
+   "q_ur": "وہ مشاہدہ جو ڈیٹا کو چار برابر حصوں میں تقسیم کرے کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Quartile",
+     "ur": "چارٹائل"
+    },
+    {
+     "k": "B",
+     "en": "Decile",
+     "ur": "ڈیسائل"
+    },
+    {
+     "k": "C",
+     "en": "Percentile",
+     "ur": "پرسینٹائل"
+    },
+    {
+     "k": "D",
+     "en": "Median",
+     "ur": "وسطانیہ"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "sec θ cot θ = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "sinθ/cosθ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/sinθ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Radii of a circle are:",
+   "q_ur": "ایک دائرے کے رداس ہوتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Double of the diameter",
+     "ur": "قطر سے دگنے"
+    },
+    {
+     "k": "B",
+     "en": "All unequal",
+     "ur": "تمام غیر مساوی"
+    },
+    {
+     "k": "C",
+     "en": "Half of any chord",
+     "ur": "کسی بھی وتر کے نصف"
+    },
+    {
+     "k": "D",
+     "en": "All equal",
+     "ur": "تمام برابر"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "A circle has only one:",
+   "q_ur": "ایک دائرے کا صرف ایک ہی ______ ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Secant",
+     "ur": "قاطع"
+    },
+    {
+     "k": "B",
+     "en": "Chord",
+     "ur": "وتر"
+    },
+    {
+     "k": "C",
+     "en": "Centre",
+     "ur": "مرکز"
+    },
+    {
+     "k": "D",
+     "en": "Diameter",
+     "ur": "قطر"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "(x+3)² = x² + 6x + 9 is:",
+   "q_ur": "(x+3)² = x² + 6x + 9 ایک ______ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "a linear equation",
+     "ur": "ایک خطی مساوات"
+    },
+    {
+     "k": "B",
+     "en": "an equation",
+     "ur": "ایک مساوات"
+    },
+    {
+     "k": "C",
+     "en": "an identity",
+     "ur": "ایک مماثلت"
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": "ان میں سے کوئی نہیں"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "The circumference of a circle is called:",
+   "q_ur": "دائرے کے محیط کو کہتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Chord",
+     "ur": "وتر"
+    },
+    {
+     "k": "B",
+     "en": "Segment",
+     "ur": "قطعہ"
+    },
+    {
+     "k": "C",
+     "en": "Boundary",
+     "ur": "باؤنڈری"
+    },
+    {
+     "k": "D",
+     "en": "Area",
+     "ur": "رقبہ"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "An equation, which remains unchanged when x is replaced by 1/x is called a/an:",
+   "q_ur": "وہ مساوات جس میں x کی جگہ 1/x رکھنے سے مساوات تبدیل نہ ہو، کہلاتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Exponential equation",
+     "ur": "قوت نما مساوات"
+    },
+    {
+     "k": "B",
+     "en": "Radical equation",
+     "ur": "جذری مساوات"
+    },
+    {
+     "k": "C",
+     "en": "Reciprocal equation",
+     "ur": "مقلوب مساوات"
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": "ان میں سے کوئی نہیں"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Product of the cube roots of unity is:",
+   "q_ur": "اکائی کے مکعب جذور کا حاصل ضرب ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "If α, β are the roots of px² + qx + r = 0, then sum of the roots 2α and 2β is:",
+   "q_ur": "اگر α, β مساوات px² + qx + r = 0 کے روٹس ہوں، تو 2α اور 2β کا مجموعہ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "-q/p",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "r/p",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-2q/p",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-r/p",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "In a ratio a:b, 'a' is called:",
+   "q_ur": "نسبت a:b میں \"a\" کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Relation",
+     "ur": "تعلق"
+    },
+    {
+     "k": "B",
+     "en": "Antecedent",
+     "ur": "مقدم"
+    },
+    {
+     "k": "C",
+     "en": "Consequent",
+     "ur": "تالی"
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": "ان میں سے کوئی نہیں"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "The set having only one element is called:",
+   "q_ur": "وہ سیٹ جس میں صرف ایک رکن ہو، کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Power set",
+     "ur": "پاور سیٹ"
+    },
+    {
+     "k": "B",
+     "en": "Null set",
+     "ur": "نل سیٹ"
+    },
+    {
+     "k": "C",
+     "en": "Sub set",
+     "ur": "ذیلی سیٹ"
+    },
+    {
+     "k": "D",
+     "en": "Singleton set",
+     "ur": "سنگلٹن سیٹ"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "(A ∪ B) ∪ C is equal to:",
+   "q_ur": "(A ∪ B) ∪ C برابر ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "A ∪ (B ∪ C)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A ∩ (B ∪ C)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(A ∪ B) ∩ C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A ∪ (B ∩ C)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "The semi circumference and the diameter of a circle both subtend a central angle of:",
+   "q_ur": "دائرے کے نیم محیط اور قطر دونوں ______ کا زاویہ بناتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "180°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "270°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "360°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "The most frequent occurring observation in a data set is called:",
+   "q_ur": "کسی ڈیٹا میں سب سے زیادہ بار آنے والا مشاہدہ کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Median",
+     "ur": "وسطانیہ"
+    },
+    {
+     "k": "B",
+     "en": "Mode",
+     "ur": "مادہ"
+    },
+    {
+     "k": "C",
+     "en": "Mean",
+     "ur": "حسابی اوسط"
+    },
+    {
+     "k": "D",
+     "en": "Harmonic mean",
+     "ur": "ہم آہنگ اوسط"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "The third proportional of x² and y² is:",
+   "q_ur": "x² اور y² کا تیسرا متناسب ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "x²/y²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x²y²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "y⁴/x²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

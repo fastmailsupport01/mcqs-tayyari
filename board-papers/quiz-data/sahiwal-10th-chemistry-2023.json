@@ -1,0 +1,682 @@
+{
+ "board": "BISE Sahiwal",
+ "board_slug": "sahiwal",
+ "class": "10th",
+ "subject": "Chemistry",
+ "year": 2023,
+ "slug": "sahiwal-10th-chemistry-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Which of the given is a disaccharide?",
+   "q_ur": "دیے گئے میں سے کونسا ڈائی سیکرائیڈ ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Glucose",
+     "ur": "گلوکوز"
+    },
+    {
+     "k": "B",
+     "en": "Fructose",
+     "ur": "فرکٹوز"
+    },
+    {
+     "k": "C",
+     "en": "Sucrose",
+     "ur": "سکروز"
+    },
+    {
+     "k": "D",
+     "en": "Starch",
+     "ur": "سٹارچ"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Water dissolves non-ionic compound by:",
+   "q_ur": "پانی نان آئیونک کمپاؤنڈ کو کس وجہ سے حل کر سکتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ion-ion forces",
+     "ur": "آئن_آئن فورسز"
+    },
+    {
+     "k": "B",
+     "en": "Ion-dipole forces",
+     "ur": "آئن_ڈائی پول فورسز"
+    },
+    {
+     "k": "C",
+     "en": "Dipole-dipole forces",
+     "ur": "ڈائی پول_ڈائی پول فورسز"
+    },
+    {
+     "k": "D",
+     "en": "Hydrogen bonding",
+     "ur": "ہائیڈروجن بانڈنگ"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Carbon monoxide is harmful to us because:",
+   "q_ur": "کاربن مونو آکسائیڈ ہمارے لیے نقصان دہ ہے کیونکہ",
+   "options": [
+    {
+     "k": "A",
+     "en": "It paralyses the lungs",
+     "ur": "یہ پھیپھڑوں کو مفلوج کر دیتی ہے"
+    },
+    {
+     "k": "B",
+     "en": "It damages lungs tissues",
+     "ur": "یہ پھیپھڑوں کے ٹشوز کو خراب کرتی ہے"
+    },
+    {
+     "k": "C",
+     "en": "It reduces oxygen carrying ability of haemoglobin",
+     "ur": "یہ ہیموگلوبن کی آکسیجن لے جانے کی صلاحیت کو کم کر دیتی ہے"
+    },
+    {
+     "k": "D",
+     "en": "It makes the blood coagulate",
+     "ur": "یہ خون کو لوتھڑے بناتی ہے"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Which one of the given organic compounds is found in gasoline?",
+   "q_ur": "ان میں سے کونسا آرگینک کمپاؤنڈ گیسولین میں پایا جاتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "C₂H₄",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "C₃H₈",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "C₈H₁₈",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "C₁₂H₂₆",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Specific heat capacity of water is:",
+   "q_ur": "پانی کی مخصوص ہیٹ کیپیسٹی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "4.2 KJg⁻¹K⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4.2 Jg⁻¹K⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2.4 KJg⁻¹K⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2.4 Jg⁻¹K⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "When NaHCO₃ is heated it forms:",
+   "q_ur": "جب NaHCO₃ کو گرم کیا جاتا ہے تو یہ بن جاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "CO₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ca(OH)₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CaCO₃",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CaO",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The characteristics of reversible reactions are many, except one of the given:",
+   "q_ur": "ریورسیبل ری ایکشنز کی خصوصیات میں سے کوئی ایک نہیں ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Products never recombine to form reactants",
+     "ur": "پروڈکٹس دوبارہ ری ایکٹنٹس نہیں بناتے"
+    },
+    {
+     "k": "B",
+     "en": "They never complete",
+     "ur": "یہ کبھی مکمل نہیں پہنچتے"
+    },
+    {
+     "k": "C",
+     "en": "They proceed in both ways",
+     "ur": "یہ دونوں اطراف میں واقع ہوتے ہیں"
+    },
+    {
+     "k": "D",
+     "en": "They have a double arrow between reactants and products",
+     "ur": "ان میں ری ایکٹنٹس اور پروڈکٹس کے درمیان ڈبل ایرو ہوتے ہیں"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The pOH of a 0.02M Ca(OH)₂ is:",
+   "q_ur": "0.02 M کے Ca(OH)₂ سلوشن کی pOH ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.698",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.397",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "12.31",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "12.61",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The water of crystallization is responsible for the:",
+   "q_ur": "واٹر آف کرسٹلائزیشن ذمہ دار ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Melting points of crystals",
+     "ur": "کرسٹلز کے میلٹنگ پوائنٹس کا"
+    },
+    {
+     "k": "B",
+     "en": "Boiling points of crystals",
+     "ur": "کرسٹلز کے بوائلنگ پوائنٹس کا"
+    },
+    {
+     "k": "C",
+     "en": "Shapes of crystals",
+     "ur": "کرسٹلز کی اشکال کا"
+    },
+    {
+     "k": "D",
+     "en": "Transition point of crystals",
+     "ur": "کرسٹلز کے ٹرانزیشن پوائنٹ کا"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "About 99% atmosphere's mass lies within:",
+   "q_ur": "ایٹموسفیئر ماس کا تقریباً 99 فیصد کس میں موجود ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "30 Kilo metres",
+     "ur": "30 کلومیٹر"
+    },
+    {
+     "k": "B",
+     "en": "35 Kilo metres",
+     "ur": "35 کلومیٹر"
+    },
+    {
+     "k": "C",
+     "en": "15 Kilo metres",
+     "ur": "15 کلومیٹر"
+    },
+    {
+     "k": "D",
+     "en": "11 Kilo metres",
+     "ur": "11 کلومیٹر"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "One of the given is a substitution reaction:",
+   "q_ur": "ان میں سے ایک متبادلہ (Substitution) کا ری ایکشن ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Halogenation of alkynes",
+     "ur": "الکائنز کی ہیلوجینیشن"
+    },
+    {
+     "k": "B",
+     "en": "Halogenation of alkenes",
+     "ur": "الکینز کی ہیلوجینیشن"
+    },
+    {
+     "k": "C",
+     "en": "Halogenation of alkanes",
+     "ur": "الکینز کی ہیلوجینیشن"
+    },
+    {
+     "k": "D",
+     "en": "Bromination of alkenes",
+     "ur": "الکینز کی برومینیشن"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Coal having 90% carbon content is called:",
+   "q_ur": "جس کوئلے میں 90 فی صد کاربن کے اجزاء موجود ہوتے ہیں، وہ کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Peat",
+     "ur": "پیٹ"
+    },
+    {
+     "k": "B",
+     "en": "Lignite",
+     "ur": "لگنائٹ"
+    },
+    {
+     "k": "C",
+     "en": "Anthracite",
+     "ur": "اینتھرائٹ"
+    },
+    {
+     "k": "D",
+     "en": "Bituminous",
+     "ur": "بٹیومینس"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Which one acid is found in apples:",
+   "q_ur": "دیے گئے میں سے کونسا ایسڈ سیب میں پایا جاتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Uric acid",
+     "ur": "یورک ایسڈ"
+    },
+    {
+     "k": "B",
+     "en": "Formic acid",
+     "ur": "فارمک ایسڈ"
+    },
+    {
+     "k": "C",
+     "en": "Malic acid",
+     "ur": "مالک ایسڈ"
+    },
+    {
+     "k": "D",
+     "en": "Stearic acid",
+     "ur": "سٹیئرک ایسڈ"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "In Solvay's process slaked lime is used to:",
+   "q_ur": "سالوے پراسیس میں سلےکڈ لائم کے استعمال کیا جاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Prepare CO₂",
+     "ur": "CO₂ تیار کرنے کے لیے"
+    },
+    {
+     "k": "B",
+     "en": "Prepare quick lime",
+     "ur": "کوئیک لائم تیار کرنے کے لیے"
+    },
+    {
+     "k": "C",
+     "en": "Recover ammonia",
+     "ur": "امونیا حاصل کرنے کے لیے"
+    },
+    {
+     "k": "D",
+     "en": "Form Na₂CO₃",
+     "ur": "Na₂CO₃ بنانے کے لیے"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Which one of the given gases is used to destroy harmful bacteria in water?",
+   "q_ur": "پانی میں موجود نقصان دہ بیکٹیریا کو ختم کرنے کے لیے کونسی گیس استعمال ہوتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Iodine",
+     "ur": "آئیوڈین"
+    },
+    {
+     "k": "B",
+     "en": "Chlorine",
+     "ur": "کلورین"
+    },
+    {
+     "k": "C",
+     "en": "Fluorine",
+     "ur": "فلورین"
+    },
+    {
+     "k": "D",
+     "en": "Bromine",
+     "ur": "برومین"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Which one of the given fractions is used as Jet fuel?",
+   "q_ur": "ان میں سے کونسی فرکشن جیٹ فیول کے طور پر استعمال ہوتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Kerosene oil",
+     "ur": "کیروسین آئل"
+    },
+    {
+     "k": "B",
+     "en": "Lubricating oil",
+     "ur": "لبریکیٹنگ آئل"
+    },
+    {
+     "k": "C",
+     "en": "Fuel oil",
+     "ur": "فیول آئل"
+    },
+    {
+     "k": "D",
+     "en": "Petroleum oil",
+     "ur": "پیٹرولیم آئل"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Just above the Earth's surface is:",
+   "q_ur": "زمین کی سطح کے بالکل اوپر کونسا خطہ ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mesosphere",
+     "ur": "میزوسفیئر"
+    },
+    {
+     "k": "B",
+     "en": "Stratosphere",
+     "ur": "سٹریٹوسفیئر"
+    },
+    {
+     "k": "C",
+     "en": "Thermosphere",
+     "ur": "تھرموسفیئر"
+    },
+    {
+     "k": "D",
+     "en": "Troposphere",
+     "ur": "ٹروپوسفیئر"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Which one of these pollutants is not found in car exhaust fumes?",
+   "q_ur": "ان میں سے کونسا پلوٹنٹ کاری ایگزاسٹ فومز میں نہیں پایا جاتا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "CO",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "O₃",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NO₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "SO₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Permanent hardness is removed by adding:",
+   "q_ur": "پرماننٹ ہارڈنیس کو کس کے استعمال سے ختم کیا جاتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sodium zeolite",
+     "ur": "سوڈیم زیولائٹ"
+    },
+    {
+     "k": "B",
+     "en": "Soda lime",
+     "ur": "سوڈا لائم"
+    },
+    {
+     "k": "C",
+     "en": "Lime water",
+     "ur": "لائم واٹر"
+    },
+    {
+     "k": "D",
+     "en": "Quick lime",
+     "ur": "کوئیک لائم"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "With which dehydration of alcohols can be carried out?",
+   "q_ur": "الکوحل کی ڈی ہائیڈریشن کس کے ساتھ کی جا سکتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "NaOH",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "KOH",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "H₂SO₄",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "HCl",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Which one of the given compounds is an aldehyde?",
+   "q_ur": "ان کمپاؤنڈز میں سے کونسا الڈیہائیڈ ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "CH₃−CH₂−OH",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CH₃−COOH",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CH₃CHO",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CH₃COCH₃",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Deficiency of which vitamin is cause of night blindness?",
+   "q_ur": "کس وٹامن کی کمی سے رات کا اندھا پن ہوتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Vitamin A",
+     "ur": "وٹامن A"
+    },
+    {
+     "k": "B",
+     "en": "Vitamin E",
+     "ur": "وٹامن E"
+    },
+    {
+     "k": "C",
+     "en": "Vitamin C",
+     "ur": "وٹامن C"
+    },
+    {
+     "k": "D",
+     "en": "Vitamin D",
+     "ur": "وٹامن D"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Which one is not mineral acid?",
+   "q_ur": "دیے گئے میں سے کونسا منرل ایسڈ نہیں ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "HCl",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "H₂SO₄",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "HNO₃",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "H₂CO₃",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "For the given reaction 2A₍g₎ + B₍g₎ ⇌ 3C₍g₎, which expression for the equilibrium constant is correct:",
+   "q_ur": "دیے گئے ری ایکشن کے لیے کونسی ایکوی لبریم کونسٹنٹ ایکسپریشن درست ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "[2A][B]/[3C]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[A]²[B]/[C]³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[3C]/[2A][B]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[C]³/[A]²[B]",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

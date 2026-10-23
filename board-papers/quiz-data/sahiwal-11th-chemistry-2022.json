@@ -1,0 +1,962 @@
+{
+ "board": "BISE Sahiwal",
+ "board_slug": "sahiwal",
+ "class": "11th",
+ "subject": "Chemistry",
+ "year": 2022,
+ "slug": "sahiwal-11th-chemistry-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The change in heat energy of a chemical reaction at a constant temperature and pressure is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Enthalpy change",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Bond energy",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Heat of sublimation",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Internal energy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "For which system, does the equilibrium constant Kc has units of (concentration)⁻¹?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "N2(g) + 3H2(g) ⇌ 2NH3(g)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "H2(g) + I2(g) ⇌ 2HI(g)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2NO2(g) ⇌ N2O4(g)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2HF(g) ⇌ H2(g) + F2(g)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Colligative properties are the properties of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Dilute solutions which behave as nearly ideal solutions",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Concentrated solutions which behave as nearly non-ideal solutions",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Both A and B",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Neither A nor B",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The cathodic reaction in the electrolysis of dil.H₂SO₄ with Pt electrode is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Reduction",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Oxidation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Both oxidation and reduction",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Neither oxidation nor reduction",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The molar volume of CO₂ is maximum at:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "STP",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "127°C and 1 atm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0°C and 2 atm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "273°C and 2 atm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Which of the given pair do not show isomorphism?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "NaNO₃, KNO₃",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ZnSO₄, NiSO₄",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cu, Ag",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NaCl, CuCl₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Which one of the given compounds possess ionic bonding?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CaO",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CH₄",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CH₃Cl",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "C₂H₆",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Catalyst for a catalyst is also called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Promotor",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Inhibitor",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Poisoning",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Retarder",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The mass of one mole of electrons is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.008 mg",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.55 mg",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.184 mg",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.673 mg",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Which of the given sub-atomic particle does not show ionization?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electron",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Proton",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Neutron",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Alpha ray",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The type of hybridization in molecule of ethene (CH₂ = CH₂) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "sp",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "sp³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "sp²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "dsp",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Quantum number values for 2p orbitals are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "n=2, l=1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "n=1, l=2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "n=1, l=0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "n=2, l=0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Acetone and chloroform are soluble into each other due to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Intermolecular hydrogen bonding",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ion dipole interaction",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Instantaneous dipole",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "Which of the given will have same number of molecules at STP?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "280cm³ of CO₂ and 280cm³ of N₂O",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "11.2dm³ of O₂ and 32g of O₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "44g of CO₂ and 11.2 dm³ of CO₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "28g of N₂ and 5.6 dm³ of oxygen",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "During the process of crystallization, the hot saturated solution is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cooled very slowly to get large-sized crystals",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cooled at a moderate rate to get medium sized crystals",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Evaporated to get the crystals of the product",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mixed with an immiscible liquid to get the pure crystals of the product",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "The comparative rates at which the solutes move in paper chromatography, depends on:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "The size of paper",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Rf Values of salutes",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Temperature of the experiment",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Size of the chromatographic tank used",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "27g of Al will react completely with how much mass of O₂ to produce Al₂O₃.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "8g of oxygen",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "16g of oxygen",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "32g of oxygen",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "24g of oxygen",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "When 6d orbital is complete, the entering electron goes into:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "7f",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "7s",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7p",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "7d",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Acetone and chloroform are soluble in each other due to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Intermolecular hydrogen bonding",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Instantaneous dipole",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ion dipole interaction",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Dipole-dipole forces",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "The deviation of a gas from ideal behaviour is maximum at:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-10°C and 5.0 atm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-10°C and 2.0 atm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "100°C and 2.0 atm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0°C and 2.0 atm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Equal masses of methane and oxygen are mixed in an empty container at 25°C. The fraction of total pressure exerted by oxygen is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8/9",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/9",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "16/17",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "When water freezes at 0°C, its density decreases due to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cubic structure of ice",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Empty spaces present in the structure of ice",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Change of bond lengths",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Change of bond angles",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Solvent extraction method is a particularly useful technique for separation when the product to be separated is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Non-volatile or thermally unstable",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Volatile or thermally stable",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Non-volatile or thermally stable",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Volatile or thermally unstable",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "The drying agent used in vacuum desiccator is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Silica gel",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NaCl",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "AgCl",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "I₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "The number of isotopes of Na are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "9",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "11",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "The largest number of molecules are present in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3.6g of H₂O",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4.8g of C₂H₅OH",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2.8g of CO",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5.4g of N₂O₄",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "If a strip of Cu metal is placed in a solution of FeSO₄:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cu will be deposited",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Fe is precipitated out",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cu and Fe both dissolve",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "No reaction takes place",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "The rate of reaction:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Increases as the reaction proceeds",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Decreases as the reaction proceeds",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Remains the same as the reaction proceeds",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "May decrease or increase as the reaction proceeds",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "18g glucose is dissolved in 90g of water. The relative lowering of vapour pressure is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5.1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/51",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "An excess of aqueous AgNO₃ is added to aqueous BaCl₂ and precipitate is removed by filtration. What are the main ions in the filtrate?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ag⁺ and NO₃⁻ only",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ba²⁺ and NO₃⁻ only",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ag⁺, Ba²⁺ and NO₃⁻",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ba²⁺, NO₃⁻ and Cl⁻",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "The net heat change in a chemical reaction is same, whether it is brought about in two or more different ways in one or several steps. It is known as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Henry's Law",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Hess's Law",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Joule's Principle",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Law of Conservation of Energy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "Which of the given species has unpaired electrons in anti-bonding molecular orbitals?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "N₂⁺",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "B₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "F₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "The number of bonds in nitrogen molecule is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "One σ and one π",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "One σ and two π",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Three sigma only",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Two sigma and one π",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "In the ground state of an atom, the electron is present:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "In the nucleus",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "In the second shell",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Nearest to the nucleus",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Farthest from the nucleus",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

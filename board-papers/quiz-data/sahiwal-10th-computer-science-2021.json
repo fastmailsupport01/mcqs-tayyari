@@ -1,0 +1,570 @@
+{
+ "board": "BISE Sahiwal",
+ "board_slug": "sahiwal",
+ "class": "10th",
+ "subject": "Computer Science",
+ "year": 2021,
+ "slug": "sahiwal-10th-computer-science-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The diamond symbol represents the:",
+   "q_ur": "ڈائمنڈ کی علامت ظاہر کرتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "input/output",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "decision making",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "processing",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "remarks",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "GW-BASIC was developed in the year:",
+   "q_ur": "جی ڈبلیو بیسک ایجاد ہوئی۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1963 AD",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1976 AD",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1972 AD",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1970 AD",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The maximum length of a variable name in GW-BASIC is:",
+   "q_ur": "جی ڈبلیو بیسک میں ایک متغیر کی اصل نام کی زیادہ سے زیادہ لمبائی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "31",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "32",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "40",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "45",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "There are ____ control structure/s used in GW-BASIC.",
+   "q_ur": "جی ڈبلیو بیسک میں کنٹرول سٹرکچر استعمال ہوتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "7",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "If we do not know the number of iterations, then which loop is suitable?",
+   "q_ur": "اگر ہمیں پتے کے چلنے کی تعداد کا پتہ نہ ہو تو کون سا لوپ بہتر ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "FOR....NEXT",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "FOR....WHILE",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "GOTO",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "WHILE...WEND",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Which of the given is not a valid subscript?",
+   "q_ur": "ان میں سے کون سا درست سب سکریپٹ نہیں ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "NUM (10)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A (2)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "B (4)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A (-2)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "In LIST [4], the value 4 indicates:",
+   "q_ur": "LIST [4] میں قیمت 4 ظاہر کرتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Array of elements",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Size of array",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Index",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Constant",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "A large program can be divided into smaller parts is called:",
+   "q_ur": "ایک بڑے پروگرام کو چھوٹے چھوٹے حصوں میں تقسیم کیا جا سکتا ہے کہتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Array",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Sub-program",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "File",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Syntax",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The user-defined function in GW-BASIC is called:",
+   "q_ur": "جی ڈبلیو بیسک میں یوزر ڈیفائنڈ فنکشن کو کہتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Procedure",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "File",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Array Function",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "GOSUB",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Which function changes the way of displaying output in BASIC?",
+   "q_ur": "کون سا فنکشن ٹیکسٹ میں آؤٹ پٹ دینے کے طریقے کو تبدیل کرتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "SCREEN",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "PRINT",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "LEFT $",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ABS",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "The diamond symbol represents the:",
+   "q_ur": "ڈائمنڈ کی علامت ظاہر کرتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "input/output",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "decision making",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "processing",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "remarks",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "If two or more statements are written on a line, they must be separated by a:",
+   "q_ur": "اگر ایک قطار میں دو یا دو سے زیادہ سٹیٹمنٹس لکھی جائیں تو انہیں جدا کیا جاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Colon",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Semi Colon",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Comma",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Hyphen",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "A variable name must start with:",
+   "q_ur": "ویری ایبل کا نام ____ سے شروع ہونا چاہیے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "alphabet",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "under score",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "digit",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "alphabet or under score",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "FOR-NEXT is used to implement:",
+   "q_ur": "FOR-NEXT سٹیٹمنٹ استعمال کرتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "iteration",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "selection",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "sequence",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "decision",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Logical operator is:",
+   "q_ur": "لوجیکل آپریٹر ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "NEITHER",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "AND",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "MOD",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Valid subscript is:",
+   "q_ur": "درست سب سکریپٹ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "A (-2)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "B (4)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NUM (-10)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A (-3)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "An element of an array is mentioned by its:",
+   "q_ur": "ایک ارے کے ایلیمنٹ کو ظاہر کر سکتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "subscript",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "array",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "object",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "name of element",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Library functions are divided into ____ categories.",
+   "q_ur": "لائبریری فنکشنز کو ____ حصوں میں تقسیم کیا جاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Which function returns the absolute value of expression?",
+   "q_ur": "کون سا فنکشن کسی ایکسپریشن کی مطلق قیمت دیتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "RND",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "INT",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ABS",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "LOG",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "The number of graphic modes in BASIC are:",
+   "q_ur": "بیسک میں گرافک موڈز کی تعداد ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

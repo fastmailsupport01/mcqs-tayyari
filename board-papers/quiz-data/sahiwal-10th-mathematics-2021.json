@@ -1,0 +1,850 @@
+{
+ "board": "BISE Sahiwal",
+ "board_slug": "sahiwal",
+ "class": "10th",
+ "subject": "Mathematics",
+ "year": 2021,
+ "slug": "sahiwal-10th-mathematics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "A complete circle is divided into:",
+   "q_ur": "مکمل دائرہ تقسیم ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "180°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "270°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "360°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Two tangents drawn to a circle from a point outside it are of ____ in length.",
+   "q_ur": "ایک نقطے سے دائرے کو چھونے والی دو مماسیں لمبائی میں ____ ہوتی ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "half",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "equal",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "double",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "triple",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "If an arc of a circle subtends a central angle of 60°, then the corresponding chord of the arc will make the central angle of:",
+   "q_ur": "ایک قوس جو مرکز پر 60° کا زاویہ بنائے تو اس کے متوازی قوس پر بننے والا زاویہ ہو گا۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "20°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "40°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "80° [best-effort]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Angle inscribed in a semi-circle is:",
+   "q_ur": "نصف دائرے میں محصور زاویہ برابر ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "π/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π/5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Standard form of quadratic equation is:",
+   "q_ur": "دو درجی مساوات کی معیاری شکل ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "bx+c=0, b≠0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ax²+bx+c=0, a≠0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ax²=bx, a≠0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ax²=0, a≠0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Cube roots of -1 are:",
+   "q_ur": "-1 کے مکعب جذر ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "-1,-ω,-ω²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-1,ω,-ω²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-1,-ω,ω²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1,-ω,-ω²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "1/α + 1/β is equal to:",
+   "q_ur": "1/α + 1/β برابر ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/α",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/α - 1/β",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(α-β)/αβ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(α+β)/αβ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "If u ∝ v², then:",
+   "q_ur": "اگر u ∝ v² تو:",
+   "options": [
+    {
+     "k": "A",
+     "en": "u = v²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "u = kv²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "uv² = k",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "uv² = 1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "If a:b = x:y, then alternando property is:",
+   "q_ur": "اگر a:b = x:y تو الٹرنینڈو پراپرٹی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "a/x = b/y",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a/b = x/y",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(a+b)/b = (x+y)/y",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(a-b)/x = (x-y)/y [best-effort]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Partial fractions of (x-2)/((x-1)(x+2)) are of the form:",
+   "q_ur": "(x-2)/((x-1)(x+2)) کے جزوی کسریں ____ کی صورت میں ہوتی ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "A/(x-1) + B/(x+2)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ax/(x-1) + B/(x+2)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A/(x-1) + (Bx+C)/(x+2)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(Ax+B)/(x-1) + C/(x+2)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "If A ⊆ B, then A∩B is equal to:",
+   "q_ur": "اگر A ⊆ B تو A∩B برابر ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "B",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "φ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A∪B",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "A∪(B∩C) is equal to:",
+   "q_ur": "A∪(B∩C) برابر ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "A∪(B∩C)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A∩(B∩C)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(A∩B)∪(A∩C)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(A∪B)∩(A∪C)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "A frequency polygon is many sided:",
+   "q_ur": "فریکوئنسی پولی گون ____ رخی ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "circle",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "rectangle",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "closed figure",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "triangle",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "A deviation is defined as a difference of any value of the variable from a:",
+   "q_ur": "انحراف متغیر کی کسی بھی قیمت کے فرق کو کہتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "constant",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "histogram",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "sum",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "mode",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "1/2 cosec 45° =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/(2√2)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/√2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√3/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "The different number of ways to describe a set are:",
+   "q_ur": "سیٹ کو بیان کرنے کے مختلف طریقوں کی تعداد ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "(x²+1)/((x-1)(x+2)) is a/an:",
+   "q_ur": "(x²+1)/((x-1)(x+2)) ایک ____ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "proper fraction",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "improper fraction",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "identity",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "constant term",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "If a/b = c/d, then componendo property is:",
+   "q_ur": "اگر a/b = c/d تو کمپونینڈو پراپرٹی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "a/(a+b) = c/(c+d)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a/(a-b) = c/(c-d)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ad/bc",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(a-b)/b = (c-d)/d",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Product of cube roots of unity is:",
+   "q_ur": "وحدت کے مکعب جذور کا حاصل ضرب ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "1/α + 1/β is equal to:",
+   "q_ur": "1/α + 1/β برابر ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/α",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/α - 1/β",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(α-β)/αβ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(α+β)/αβ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "The third proportional of x² and y² is:",
+   "q_ur": "x² اور y² کا تیسرا تناسب ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "y²/x²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x²y²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "y⁴/x²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "y²/x⁴",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "An equation which remains unchanged when x is replaced by 1/x is called a/an:",
+   "q_ur": "وہ مساوات جس میں x کی جگہ 1/x رکھنے سے کوئی تبدیلی نہ آئے کہلاتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "exponential equation",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "reciprocal equation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "radical equation",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "relation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "The circumference of a circle is called:",
+   "q_ur": "دائرے کے محیط کو کہتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "chord",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "segment",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "boundary",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "tangent",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "The arcs opposite to incongruent central angles of a circle are always:",
+   "q_ur": "ایک دائرے میں غیر ہم شکل مرکزی زاویوں کے سامنے والے قوس ہمیشہ ____ ہوتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "congruent",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "incongruent",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "parallel",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "perpendicular",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "A complete circle is divided into:",
+   "q_ur": "مکمل دائرہ تقسیم ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "180°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "270°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "360°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "A circle has only one:",
+   "q_ur": "ایک دائرے کا صرف ایک ____ ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "secant",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "chord",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "diameter",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "centre",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "A frequency polygon is a many sided:",
+   "q_ur": "فریکوئنسی پولی گون ____ رخی ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "closed figure",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "rectangle",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "circle",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "triangle",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "20° =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "360'",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "630'",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1200'",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3600'",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "The spread or scatteredness of observations in a data set is called:",
+   "q_ur": "ڈیٹا سیٹ میں مشاہدات کے پھیلاؤ یا بکھراؤ کو کہتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "average",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "range",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "central tendency",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "dispersion",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "If A ⊆ B, then A∩B is equal to:",
+   "q_ur": "اگر A ⊆ B تو A∩B برابر ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "A",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "B",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "φ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A∪B",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

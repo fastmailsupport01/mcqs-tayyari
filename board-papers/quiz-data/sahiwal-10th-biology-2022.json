@@ -1,0 +1,682 @@
+{
+ "board": "BISE Sahiwal",
+ "board_slug": "sahiwal",
+ "class": "10th",
+ "subject": "Biology",
+ "year": 2022,
+ "slug": "sahiwal-10th-biology-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "How many hydrogen bonds are present between cytosine and guanine?",
+   "q_ur": "سائٹوسین اور گوانین کے درمیان کتنے ہائیڈروجن بانڈز ہوتے ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "How many spermatids are produced from each primary spermatocyte?",
+   "q_ur": "ایک پرائمری اسپرمیٹوسائٹ سے کتنے اسپرمیٹڈز پیدا ہوتے ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "After fertilization, ovule becomes:",
+   "q_ur": "فرٹیلائزیشن کے بعد اوویول بنتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Seed",
+     "ur": "بیج"
+    },
+    {
+     "k": "B",
+     "en": "Fruit",
+     "ur": "پھل"
+    },
+    {
+     "k": "C",
+     "en": "Flower",
+     "ur": "پھول"
+    },
+    {
+     "k": "D",
+     "en": "Legume",
+     "ur": "لیگیوم"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The number of pairs of homologous chromosomes in human's body cells is:",
+   "q_ur": "انسان کے جسمانی خلیوں میں ہومولوگس کروموسومز کے جوڑوں کی تعداد ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "16",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "23",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "32",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "46",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Types of neurons on the basis of their functions are:",
+   "q_ur": "افعال کی بنیاد پر نیورونز کی اقسام ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The number of soft bones in newly born baby is:",
+   "q_ur": "ایک نوزائیدہ بچے میں نرم ہڈیوں کی کل تعداد ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "200",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "206",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "300",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "306",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Number of nephrons in human kidney is:",
+   "q_ur": "انسانی گردے میں نیفرونز کی تعداد ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Two lac",
+     "ur": "دو لاکھ"
+    },
+    {
+     "k": "B",
+     "en": "Ten lac",
+     "ur": "دس لاکھ"
+    },
+    {
+     "k": "C",
+     "en": "Ten thousand",
+     "ur": "دس ہزار"
+    },
+    {
+     "k": "D",
+     "en": "Two thousand",
+     "ur": "دو ہزار"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "How many pairs of ribs are present in chest wall?",
+   "q_ur": "چھاتی کی دیوار میں پسلیوں کے کتنے جوڑے ہوتے ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "12",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "24",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "30",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "36",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "When Human Genome Project was launched?",
+   "q_ur": "ہیومن جینوم پراجیکٹ کب شروع کیا گیا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "1944",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1970",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1978",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1990",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Sir Alexander Fleming discovered:",
+   "q_ur": "سر الیگزینڈر فلیمنگ نے دریافت کیا۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Streptomycin",
+     "ur": "اسٹریپٹومائسین"
+    },
+    {
+     "k": "B",
+     "en": "Teramycin",
+     "ur": "ٹیرامائسین"
+    },
+    {
+     "k": "C",
+     "en": "Diazepam",
+     "ur": "ڈائیازیپام"
+    },
+    {
+     "k": "D",
+     "en": "Penicillin",
+     "ur": "پینسلین"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "All ecosystems of the world together form:",
+   "q_ur": "دنیا کے تمام ایکو سسٹم مل کر بناتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Biosphere",
+     "ur": "بائیوسفیئر"
+    },
+    {
+     "k": "B",
+     "en": "Community",
+     "ur": "کمیونٹی"
+    },
+    {
+     "k": "C",
+     "en": "Ecosystem",
+     "ur": "ایکو سسٹم"
+    },
+    {
+     "k": "D",
+     "en": "Habitat",
+     "ur": "ہیبیٹیٹ"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "______ forms the basis of any ecosystem.",
+   "q_ur": "______ کسی بھی ایکو سسٹم کی بنیاد بناتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Producers",
+     "ur": "پروڈیوسرز"
+    },
+    {
+     "k": "B",
+     "en": "Animals",
+     "ur": "جانور"
+    },
+    {
+     "k": "C",
+     "en": "Sun",
+     "ur": "سورج"
+    },
+    {
+     "k": "D",
+     "en": "Water",
+     "ur": "پانی"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "How many bronchi are there in the air passageway?",
+   "q_ur": "ہوا کے راستے میں کتنے برونکائی ہوتے ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "The filtrate present in renal tubules is called:",
+   "q_ur": "رینل ٹیوبیولز میں موجود فلٹریٹ کو کہتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Blood",
+     "ur": "خون"
+    },
+    {
+     "k": "B",
+     "en": "Filtrate",
+     "ur": "فلٹریٹ"
+    },
+    {
+     "k": "C",
+     "en": "Urea",
+     "ur": "یوریا"
+    },
+    {
+     "k": "D",
+     "en": "Urine",
+     "ur": "یورین"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "In which part of neuron cell nucleus is present?",
+   "q_ur": "نیورون سیل کے کس حصے میں نیوکلیئس ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Dendrites",
+     "ur": "ڈینڈرائٹس"
+    },
+    {
+     "k": "B",
+     "en": "Axons",
+     "ur": "ایگزونز"
+    },
+    {
+     "k": "C",
+     "en": "Cell body",
+     "ur": "سیل باڈی"
+    },
+    {
+     "k": "D",
+     "en": "Schwann cells",
+     "ur": "شوان سیلز"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "How many bones make our skull?",
+   "q_ur": "کتنی ہڈیاں ہماری کھوپڑی بناتی ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "14",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "22",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "24",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "26",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The male reproductive part of flower is:",
+   "q_ur": "پھول کا نر تولیدی حصہ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Calyx",
+     "ur": "کیلکس"
+    },
+    {
+     "k": "B",
+     "en": "Corolla",
+     "ur": "کرولا"
+    },
+    {
+     "k": "C",
+     "en": "Androecium",
+     "ur": "اینڈرویشیم"
+    },
+    {
+     "k": "D",
+     "en": "Gynoecium",
+     "ur": "گائینوئیشیم"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "In which vegetative propagation occurs by leaves?",
+   "q_ur": "کس میں ویجیٹیٹیو پروپیگیشن پتوں کے ذریعے ہوتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Bryophyllum",
+     "ur": "برائیوفائلم"
+    },
+    {
+     "k": "B",
+     "en": "Potatoes",
+     "ur": "آلو"
+    },
+    {
+     "k": "C",
+     "en": "Onions",
+     "ur": "پیاز"
+    },
+    {
+     "k": "D",
+     "en": "Mint",
+     "ur": "پودینہ"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Alternative forms of a gene are called:",
+   "q_ur": "ایک ہی جین کی متبادل شکلوں کو کہتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Loci",
+     "ur": "لوکائی"
+    },
+    {
+     "k": "B",
+     "en": "Genotype",
+     "ur": "جینوٹائپ"
+    },
+    {
+     "k": "C",
+     "en": "Alleles",
+     "ur": "ایلیلز"
+    },
+    {
+     "k": "D",
+     "en": "Traits",
+     "ur": "ٹریٹس"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Locations of genes on chromosomes are known as:",
+   "q_ur": "کروموسومز کے اوپر جینز کے مقامات کو کہتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Loci",
+     "ur": "لوکائی"
+    },
+    {
+     "k": "B",
+     "en": "Alleles",
+     "ur": "ایلیلز"
+    },
+    {
+     "k": "C",
+     "en": "Genotype",
+     "ur": "جینوٹائپ"
+    },
+    {
+     "k": "D",
+     "en": "Phenotype",
+     "ur": "فینوٹائپ"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "One of the given is the biotic component of ecosystem.",
+   "q_ur": "ان میں سے ایک ایکو سسٹم کا بائیوٹک جزو ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Producers",
+     "ur": "پروڈیوسرز"
+    },
+    {
+     "k": "B",
+     "en": "Light",
+     "ur": "روشنی"
+    },
+    {
+     "k": "C",
+     "en": "Air",
+     "ur": "ہوا"
+    },
+    {
+     "k": "D",
+     "en": "Water",
+     "ur": "پانی"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "pH of acid rain is:",
+   "q_ur": "تیزابی بارش کی pH ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1-3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3-6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6-9",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10-13",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Scientists prepared insulin in:",
+   "q_ur": "سائنسدانوں نے انسولین تیار کی۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1972",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1974",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1976",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1978",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "The drugs used to reduce pain are known as:",
+   "q_ur": "درد کم کرنے والی ادویات کہلاتی ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Analgesics",
+     "ur": "اینلجیسکس"
+    },
+    {
+     "k": "B",
+     "en": "Antiseptics",
+     "ur": "اینٹی سیپٹکس"
+    },
+    {
+     "k": "C",
+     "en": "Antibiotics",
+     "ur": "اینٹی بائیوٹکس"
+    },
+    {
+     "k": "D",
+     "en": "sedatives",
+     "ur": "سیڈیٹیوز"
+    }
+   ]
+  }
+ ]
+}

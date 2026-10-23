@@ -1,0 +1,682 @@
+{
+ "board": "BISE Sahiwal",
+ "board_slug": "sahiwal",
+ "class": "12th",
+ "subject": "Computer Science",
+ "year": 2023,
+ "slug": "sahiwal-12th-computer-science-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Different attributes in two different tables having same name are called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Synonym",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Homonym",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Acronym",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mutually exclusive",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Customers, cars and parts are examples of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Entities",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Attributes",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cardinale",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Relationships",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Which of the given is also known as control key?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sort key",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Composite key",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Candidate key",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Primary key",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "A collection of related fields is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Character",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Record",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Database",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "File",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Which of the given is used to retrieve data from database and represent it to user in a formatted way?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Report",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Form",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Query",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Table",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Which wild card replaces one character only?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "*",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "?",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": ":",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "!",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The value of C expression 9/5*2 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3.6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.9",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "How many bytes are occupied by the statement : float a,b;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "16",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Logical NOT operator, denoted by ! is a:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ternary operator",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Bitwise operator",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Binary operator",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Unary operator",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The .exe file is produced by?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Linker",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Loader",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Compiler",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Interpreter",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Which of the given is the native language of computer?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "C-Language",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Pascal",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Machine language",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "DOS",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The process of sending an argument to a function is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "sending",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "filtering",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "delivering",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "passing",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Which of the given loop is not available in C language?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "while wend",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "while",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "do while",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "for",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "The case block ends with:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "End select",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "End case",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "break",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Case Else",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "The functions used for input and output is stored in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "stdio.h",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "conio.h",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "math.h",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "inout.h",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "For A=4 and B=4, which of the given one evaluates to true?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A<>B",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A<B",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A>B",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A>=B",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Which of the given is valid assignment statement?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "100=a",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "c+d=a+b",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a=100",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4=6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Which operators are used to compare operands?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Arithmetic",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Logical",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Syntax",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Relational",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The expression 3 mod 5 has a value equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Which operator is only used for string concatenation?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Plus sign (+)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Underscore (_)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ampersand (&)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "\"and\"",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The loop that never ends is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Continuous loop",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Running loop",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Nested loop",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Infinite loop",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "One execution of loop is known as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Iteration",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "cycle",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Duration",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Test",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "Which statement is used in For-Next loop for early termination of loop?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Exit",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Exit Do",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Exit For",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "break",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Which of the given is used for making two way decision?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "If-else",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "If",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Nested if",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "switch",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

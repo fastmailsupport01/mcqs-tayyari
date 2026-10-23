@@ -1,0 +1,962 @@
+{
+ "board": "BISE Sahiwal",
+ "board_slug": "sahiwal",
+ "class": "11th",
+ "subject": "Physics",
+ "year": 2023,
+ "slug": "sahiwal-11th-physics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The refractive index of water is 1.33 the speed of light in water is: (c = 3x10⁸m/sec)",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3x10⁸m/sec",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.8x10⁸m/sec",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2.3x10⁸m/sec",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.3x10⁸m/sec",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "In Michelson interferometer, to switch the fringes from bright to dark, the mirror should be displaced by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "λ/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "λ/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "λ/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "λ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Speed of sound at 0°C is 332 ms⁻¹. The speed of sound at 30°C will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "332 m/sec",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "350 m/sec",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "340 m/sec",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "335 m/sec",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "A block weighing 4.0 kg extends a spring by 0.16m from its unstretched position, stretching force is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "20.3 N",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "16.3 N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "39.2 N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "14.2 N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "A simple harmonic oscillator has a period of 0.01s and an amplitude of 0.2m. The magnitude of velocity at the centre of oscillation is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "20π",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "40π",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "60π",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "80π",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The dimensions of ½ρv² is same as that of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "K.E",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "P.E",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Pressure",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Work",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Which electromagnetic wave is used for the satellite communication system?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Radio waves",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Infrared waves",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ultraviolet waves",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Microwaves",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "2° is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.035 rad.",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.300 rad.",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.350 rad.",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.0035 rad.",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "An electric motor produces a tension of 4500N in a load lifting cable and rolls it at the rate of 2ms⁻¹. The power of the motor is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4kW",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2kW",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "15kW",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9kW",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Acceleration of rocket is given by relation:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a = M/mv",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a = m/Mv",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a = mv/m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a = mv/M",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Speed of the earth around the sun in ms⁻¹ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "35500",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "20000",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "29600",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "50000",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Two forces of magnitudes 10N and 20N act on a body in directions making angles of 30° each with x-axis. The x-component of the resultant force will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "25.98 N",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "30.98 N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "20.98 N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "17.98 N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "If |a⃗ + b⃗| = |a⃗ − b⃗| then angle between a⃗ and b⃗ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "180°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "Which pair of physical quantities have same dimensions?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Work and power",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Momentum and impulse",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Force and torque",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Momentum and force",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Velocity of an object has 1% uncertainty and mass has 2% uncertainty then total uncertainty in K.E will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3%",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2%",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4%",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1%",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "The change in internal energy is defined as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Q − T",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Q + P",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Q − P",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Q − W",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "Absolute zero corresponds to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−459°F",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−360°F",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0°F",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "460°F",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Angular momentum has the same unit as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Impulse x Distance",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Power x Time",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Linear momentum",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Work x Frequency",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "If a gymnast sitting on a stool with his arm stretched, lowers his arms:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ω decreases",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ω increases",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "I increases",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ω remains same",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "The working of carburetor of car uses:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Equation of continuity",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Gravitational law",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Stoke's law",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Bernoulli's theorem",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Which expression is correct for time period of simple pendulum?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "T ∝ l",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "T ∝ √l",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "T ∝ m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "T ∝ g",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "With the increase of temperature, speed of sound:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Remains same",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Becomes zero",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Decreases",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Increases",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Beats can be heard when difference of frequency is not more than:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4 Hz",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6 Hz",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8 Hz",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10 Hz",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Newton's rings are formed due to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Diffraction",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Refraction",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Reflection",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Interference",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Information carrying capacity of an optical fibre is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Capacity",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Band width",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Immunity",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ability",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "No entropy change takes place in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Isobaric process",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Isothermal process",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Adiabatic process",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Isochoric process",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "If heat is added to a system, then its entropy will:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Increase and positive",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Decrease and positive",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Increase but negative",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Decrease but negative",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "The earth receives larger amount of energy from:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Wind",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Water",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Sun",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Moon",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "At what speed, the momentum and kinetic energy of a body have the same value:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8ms⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "Which of the given variable is present in all equations of motion:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Distance",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Acceleration",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Time",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Torque",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "Product î x (ĵ x k̂) is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0̂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ĵ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "î",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "Projection of A⃗ on B⃗ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A cos θ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "B sin θ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "B tan θ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A sin θ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "Absolute uncertainty in a measuring instrument is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Least count",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Accuracy",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Fractional uncertainty",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Percentage uncertainty",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "The dimensional formula for the quantity light year is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[T]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[L]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[LT⁻¹]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[M°LT]",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

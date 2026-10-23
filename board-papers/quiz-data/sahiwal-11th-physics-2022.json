@@ -1,0 +1,962 @@
+{
+ "board": "BISE Sahiwal",
+ "board_slug": "sahiwal",
+ "class": "11th",
+ "subject": "Physics",
+ "year": 2022,
+ "slug": "sahiwal-11th-physics-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "When velocity time graph is parallel to time axis, then acceleration of moving body is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Negative",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Positive",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Maximum",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The range of projectile is same for angles:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "15°, 55°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "30°, 50°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "35°, 55°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "40°, 60°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The dimension of kinetic energy is similar to that of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Power",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Torque",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Momentum",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Pressure",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "√(m/k) and √(l/g) has same:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Units",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Time period",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Numerical value",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Damping",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "If 20 waves pass through a medium in 1 Sec. with speed of 20 m/s then the wavelength is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "20 m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "40 m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "400 m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The velocity of sound in vacuum at 0°C is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "280 m/s",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "332 m/s",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "335 m/s",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The wavelength of x-rays is of the order of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10 cm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10 m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10^10 m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10^-10 m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The detector in photo-diode is made of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Germanium",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Selenium",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cadmium",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Silicon",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "If the temperature of sink is absolute zero, then efficiency of heat engine will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "50 %",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "100 %",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Infinity",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "No entropy change takes place in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Isothermal process",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Isochoric process",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Isobaric process",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Adiabatic process",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The time taken by light from moon to earth is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 min 10 sec",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1 min 20 sec",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1 min 30 sec",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1 min 40 sec",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "If r = 2.25 ± 0.01 cm then %age uncertainty in 'r' is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.2%",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.3%",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.4%",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.5%",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Magnitude of resultant vector of 6N and 8N which is perpendicular to each other is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2 N",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "14 N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "48 N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10 N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "The dimensions of torque are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[MLT⁻²]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[ML²T⁻²]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[ML⁻¹T⁻¹]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Centripetal force performs:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Minimum work",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Maximum work",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Negative work",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "No work",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "30° is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π/2 radian",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/4 radian",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/6 radian",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π/8 radian",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "As the water falls from a tap, its cross-sectional area should decrease according to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Bernoulli's equation",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Continuity equation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Venturi relation",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Torricelli's theorem",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "10 N centripetal force is revolving along a circular path of radius 1m, the work done by this force is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10 Joules",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "20 Joules",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "40 Joules",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero Joule",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Terminal velocity Vt is related with radius 'r' of a spherical object as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Vt ∝ r²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Vt ∝ r",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Vt ∝ 1/r",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Vt ∝ 1/r²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "When a particle is moving in a circular path, its projection along diameter executes?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Linear motion",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Simple harmonic motion",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Circular motion",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Perpetual motion",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Phase angle of 180° is equal to a path difference of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "λ/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "λ/4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2λ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "λ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "According to first law of thermodynamics, the quantity which is conserved:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Force",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Momentum",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Power",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Energy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "For an ideal gas system, the internal energy is directly proportional to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Pressure",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Volume",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mass",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Temperature",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Motion of a body along y-axis is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "One dimensional",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Two dimensional",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Three dimensional",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Four dimensional",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "If the mass of the body is doubled, then acceleration will become:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Double",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Half",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "One fourth",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Constant",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Kilowatt-hour is unit of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Power",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Energy",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Impulse",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Momentum",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Centripetal force is directed along:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Tangent to circle",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Radius",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Axis of rotation",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "z-axis",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Absolute uncertainty in a measuring instrument is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Least Count",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Accuracy",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Fractional uncertainty",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Percentage uncertainty",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "The numerical values of constants in any formula cannot be determined by dimensional analysis, however it can be found by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Addition",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Physical quantities",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Experiments",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Uncertainty",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "Torque acting on a body determines its:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Linear acceleration",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Impulse",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Angular acceleration",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Linear momentum",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "The vector product (A×A) is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "Longitudinal waves do not exhibit:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Reflection",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Refraction",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Diffraction",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Polarization",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "Young's double slit experiment is used to study the interference of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Light waves",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Micro waves",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Sound waves",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Radio waves",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "The image formed by eyepiece of compound microscope is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Real and magnified",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Real and diminished",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Virtual and enlarged",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Virtual and diminished",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

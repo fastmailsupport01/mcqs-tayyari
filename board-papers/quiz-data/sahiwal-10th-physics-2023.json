@@ -1,0 +1,682 @@
+{
+ "board": "BISE Sahiwal",
+ "board_slug": "sahiwal",
+ "class": "10th",
+ "subject": "Physics",
+ "year": 2023,
+ "slug": "sahiwal-10th-physics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Electric field lines:",
+   "q_ur": "الیکٹرک فیلڈ لائنز:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Always cross each other",
+     "ur": "ہمیشہ ایک دوسرے کو قطع کرتی ہیں"
+    },
+    {
+     "k": "B",
+     "en": "Never cross each other",
+     "ur": "ایک دوسرے کو کبھی قطع نہیں کرتیں"
+    },
+    {
+     "k": "C",
+     "en": "Cross each other in a region of strong field",
+     "ur": "مضبوط فیلڈ میں قطع کرتی ہیں"
+    },
+    {
+     "k": "D",
+     "en": "Cross each other in a region of weak field",
+     "ur": "کمزور فیلڈ میں قطع کرتی ہیں"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The relation between v, f and λ of a wave is:",
+   "q_ur": "ویو کی v، f اور λ کے درمیان تعلق ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "vf=λ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "fλ=v",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "vλ=f",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "v=λ/f",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "For a normal person, audible frequency range for sound wave lies between:",
+   "q_ur": "ایک عام آدمی کیلئے آڈیبل فریکوئنسی رینج ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "10Hz to 10kHz",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "30Hz to 30kHz",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "25Hz to 25kHz",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "20Hz to 20kHz",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The loudness of sound is most closely related to its:",
+   "q_ur": "ساؤنڈ کی لاؤڈنیس کا زیادہ تر تعلق ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Frequency",
+     "ur": "فریکوئنسی"
+    },
+    {
+     "k": "B",
+     "en": "Period",
+     "ur": "پیریڈ"
+    },
+    {
+     "k": "C",
+     "en": "Wavelength",
+     "ur": "ویولینتھ"
+    },
+    {
+     "k": "D",
+     "en": "Amplitude",
+     "ur": "ایمپلیٹیوڈ"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Which of the given devices can be used to produce both transverse and longitudinal waves?",
+   "q_ur": "ان میں سے کونسا آلہ ٹرانسورس اور لانگیٹیوڈنل ویوز دونوں کو پیدا کرنے کیلئے استعمال ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "A string",
+     "ur": "ڈوری"
+    },
+    {
+     "k": "B",
+     "en": "A ripple tank",
+     "ur": "ریپل ٹینک"
+    },
+    {
+     "k": "C",
+     "en": "A helical spring (Slinky)",
+     "ur": "سلنکی"
+    },
+    {
+     "k": "D",
+     "en": "A tuning fork",
+     "ur": "ٹیوننگ فورک"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The index of refraction depends upon:",
+   "q_ur": "انڈیکس آف ریفریکشن کا انحصار ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Focal length",
+     "ur": "فوکل لینتھ"
+    },
+    {
+     "k": "B",
+     "en": "Speed of light",
+     "ur": "سپیڈ آف لائٹ"
+    },
+    {
+     "k": "C",
+     "en": "Image distance",
+     "ur": "امیج کا فاصلہ"
+    },
+    {
+     "k": "D",
+     "en": "Object distance",
+     "ur": "جسم کا فاصلہ"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Half-life of Uranium ²³⁵₉₂U is:",
+   "q_ur": "یورینیم ²³⁵₉₂U کی ہاف لائف ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "5×10⁸ years",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6×10⁸ years",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7×10⁸ years",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8×10⁸ years",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Floppy is made of:",
+   "q_ur": "فلوپی بنی ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Metal",
+     "ur": "میٹل"
+    },
+    {
+     "k": "B",
+     "en": "Glass",
+     "ur": "گلاس"
+    },
+    {
+     "k": "C",
+     "en": "Soft elastic material",
+     "ur": "سوفٹ ایلاسٹک میٹیریل"
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": "ان میں سے کوئی نہیں"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The quantities whose values vary in discrete steps are called:",
+   "q_ur": "وہ مقداریں جن کی قیمتیں مسلسل قدموں کے انداز سے تبدیل ہوں، کہلاتی ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Analogue",
+     "ur": "اینالاگ"
+    },
+    {
+     "k": "B",
+     "en": "Digital",
+     "ur": "ڈیجیٹل"
+    },
+    {
+     "k": "C",
+     "en": "Both A and B",
+     "ur": "A اور B دونوں"
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": "ان میں سے کوئی نہیں"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The critical angle for the beam of light passing from water into air is 48.8°. This means that all light rays with an angle of incidence greater than this angle will be:",
+   "q_ur": "روشنی کی رے جب پانی سے ہوا میں داخل ہوتی ہے تو اس کا کرٹیکل اینگل 48.8° ہے۔ اس کا مطلب ہے کہ روشنی کی رے جس کا اینگل آف انسیڈنس اس اینگل سے زیادہ ہو گا وہ:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Absorbed",
+     "ur": "جذب ہو جائے گی"
+    },
+    {
+     "k": "B",
+     "en": "Totally reflected",
+     "ur": "مکمل طور پر ریفلیکٹ ہو گی"
+    },
+    {
+     "k": "C",
+     "en": "Partially reflected and partially transmitted",
+     "ur": "کچھ حصہ ریفلیکٹ اور کچھ حصہ ٹرانسمٹ ہو گا"
+    },
+    {
+     "k": "D",
+     "en": "Totally transmitted",
+     "ur": "مکمل طور پر ٹرانسمٹ ہو گی"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The combined resistance of two identical resistors, connected in series is 8Ω. Their combined resistance in a parallel arrangement will be:",
+   "q_ur": "دو ایک جیسے رزسٹرز کی مجموعی رزسٹنس 8Ω ہے۔ ان کی رزسٹنس پیرالل سرکٹ میں کتنی ہو گی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "2Ω",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4Ω",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8Ω",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "12Ω",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The practical application of mutual induction is:",
+   "q_ur": "میوچل انڈکشن کا عملی اطلاق ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Resistor",
+     "ur": "رزسٹر"
+    },
+    {
+     "k": "B",
+     "en": "Transformer",
+     "ur": "ٹرانسفارمر"
+    },
+    {
+     "k": "C",
+     "en": "Inductor",
+     "ur": "انڈکٹر"
+    },
+    {
+     "k": "D",
+     "en": "Both A and B",
+     "ur": "A اور B دونوں"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "An electric current in conductors is due to the flow of:",
+   "q_ur": "کنڈکٹرز میں الیکٹرک کرنٹ کے بہاؤ کی وجہ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Positive ions",
+     "ur": "پوزیٹیو آئنز"
+    },
+    {
+     "k": "B",
+     "en": "Nogative ions",
+     "ur": "نیگیٹیو آئنز"
+    },
+    {
+     "k": "C",
+     "en": "Positive charges",
+     "ur": "پوزیٹیو چارجز"
+    },
+    {
+     "k": "D",
+     "en": "Free electrons",
+     "ur": "آزاد الیکٹرونز"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Which is the most suitable means of reliable continuous communication between an orbiting satellite and earth?",
+   "q_ur": "سیٹلائٹ اور زمین کے درمیان مسلسل اور زیادہ تر کی کمیونیکیشن کا ذریعہ کونسا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Micro waves",
+     "ur": "مائیکرو ویوز"
+    },
+    {
+     "k": "B",
+     "en": "Radlo waves",
+     "ur": "ریڈیو ویوز"
+    },
+    {
+     "k": "C",
+     "en": "Sound waves",
+     "ur": "ساؤنڈ ویوز"
+    },
+    {
+     "k": "D",
+     "en": "Any light wave",
+     "ur": "کوئی بھی لائٹ ویو"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "The number of isotopes of hydrogen is:",
+   "q_ur": "ہائیڈروجن کے آئی سوٹوپس کی تعداد ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Step-up transformer:",
+   "q_ur": "سٹیپ اپ ٹرانسفارمر:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Increases the input current",
+     "ur": "ان پٹ کرنٹ کو بڑھاتا ہے"
+    },
+    {
+     "k": "B",
+     "en": "Increases the input voltage",
+     "ur": "ان پٹ وولٹیج کو بڑھاتا ہے"
+    },
+    {
+     "k": "C",
+     "en": "Has more turns in the primary coil",
+     "ur": "پرائمری کوائل میں زیادہ ٹرنز ہوتے ہیں"
+    },
+    {
+     "k": "D",
+     "en": "Has less turns in the secondary coil",
+     "ur": "سیکنڈری کوائل میں کم ٹرنز ہوتے ہیں"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "In a vacuum, all electromagnetic waves have the same:",
+   "q_ur": "ویکیوم میں تمام الیکٹرومگنیٹک ویوز ایک جیسی رکھتی ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Speed",
+     "ur": "سپیڈ"
+    },
+    {
+     "k": "B",
+     "en": "Frequency",
+     "ur": "فریکوئنسی"
+    },
+    {
+     "k": "C",
+     "en": "Amplitude",
+     "ur": "ایمپلیٹیوڈ"
+    },
+    {
+     "k": "D",
+     "en": "Wavelength",
+     "ur": "ویولینتھ"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "The index of refraction of a diamond is:",
+   "q_ur": "ہیرے کا انڈیکس آف ریفریکشن ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.33",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.52",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2.21",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2.42",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Sound level in dB can be stated as:",
+   "q_ur": "ساؤنڈ لیول کو dB میں بیان کیا جا سکتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "10 log(I/I₀) dB",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "log(I/I₀) dB",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10 log(I₀/I) dB",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "log(I₀/I) dB",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "An example of longitudinal waves is:",
+   "q_ur": "لانگیٹیوڈنل ویوز کی مثال ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sound waves",
+     "ur": "ساؤنڈ ویوز"
+    },
+    {
+     "k": "B",
+     "en": "Light waves",
+     "ur": "لائٹ ویوز"
+    },
+    {
+     "k": "C",
+     "en": "Radio waves",
+     "ur": "ریڈیو ویوز"
+    },
+    {
+     "k": "D",
+     "en": "Water waves",
+     "ur": "واٹر ویوز"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Which type of an image is formed by a convex lens on a screen?",
+   "q_ur": "کنویکس لینز سکرین پر کس قسم کی امیج بناتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Inverted and real",
+     "ur": "الٹی اور ریل"
+    },
+    {
+     "k": "B",
+     "en": "Inverted and virtual",
+     "ur": "الٹی اور ورچوئل"
+    },
+    {
+     "k": "C",
+     "en": "Upright and real",
+     "ur": "سیدھی اور ریل"
+    },
+    {
+     "k": "D",
+     "en": "Upright and virtual",
+     "ur": "سیدھی اور ورچوئل"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Five joules of work is needed to shift 10 C of charge from one place to another. The potential difference between the place is:",
+   "q_ur": "ایک 10 C کے چارج کو ایک جگہ سے دوسری جگہ لے جانے کیلئے پانچ جول ورک کرنا پڑتا ہے۔ ان دونوں مقامات کے درمیان پوٹینشل ڈفرنس ہو گا۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.5 V",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2 V",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5 V",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10 V",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "The particles emitted from a hot cathode surface are called:",
+   "q_ur": "ایسے پارٹیکلز جو گرم کیتھوڈ کی سطح سے خارج ہوں، کہلاتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Positive ions",
+     "ur": "پوزیٹیو آئنز"
+    },
+    {
+     "k": "B",
+     "en": "Negative ions",
+     "ur": "نیگیٹیو آئنز"
+    },
+    {
+     "k": "C",
+     "en": "Protons",
+     "ur": "پروٹونز"
+    },
+    {
+     "k": "D",
+     "en": "Electrons",
+     "ur": "الیکٹرونز"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Formula for the time period of simple pendulum is:",
+   "q_ur": "سادہ پینڈولم کے ٹائم پیریڈ کا فارمولا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "T = 2π√(m/g)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "T = 2π√(m/k)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "T = 2π√(l/g)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "T = 2π√(g/l)",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

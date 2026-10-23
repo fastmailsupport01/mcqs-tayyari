@@ -1,0 +1,682 @@
+{
+ "board": "BISE Sahiwal",
+ "board_slug": "sahiwal",
+ "class": "12th",
+ "subject": "Computer Science",
+ "year": 2022,
+ "slug": "sahiwal-12th-computer-science-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "How many table views are available in Microsoft Access?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "A record is a complete set of ________ field.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Distinct",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Related",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Designed",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Natural",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Different attributes in two different tables having same name are referred to as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Synonym",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Homonym",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Acronym",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mutually exclusive",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "An entity related to itself in an ERD model refers to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Recursive relationship",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "One-to-Many relationship",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Many-to-Many relationship",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "One-to-One relationship",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The foreign key is found in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Parent table",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Dependent table",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Pivot table",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Index table",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Which of the given may be a temporary file?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Master file",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Transaction file",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Backup file",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Random file",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Memory is allocated to a local variable at the time of its:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "declaration",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "destruction",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "definition",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "first reference",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Which of the given function is used to write a string to a file?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "puts",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "puts()",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "fputs()",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "fgets()",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Turbo C++ can compile:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "C++ Programs only",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "C and C++ Programs",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Turbo C Programs only",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Turbo C++ Programs only",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "In which loop the condition comes after the body of the loop?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "While",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Do-while",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "While wend",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "For",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Which of the given is valid case statement in a switch?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Case 1:",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Case x+y:",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Case 'ab'",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Case 2.5:",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Escape sequence \\\\ is used to print:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "New line",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Backslash",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Space",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Tab",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "The logical not operator denoted by !, is a:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ternary operator",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Uninary operator",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Binary operator",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Bitwise operator",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "a+ = b is equivalent to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "b+ = a",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a = +b",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a = a + b",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "b = b + a",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Void occupy how many bytes in memory?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "One",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Two",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Four",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Memory is allocated to a local variable at the time of its:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Declaration",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Destruction",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Definition",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "First reference",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Which of the method will close a file?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Close all",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Append",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Close",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Exit",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Visual Basic can compile:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "C++ Programs",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Visual Basic Programs",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "C Programs",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Java Programs",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "In which loop the condition comes after the body of the loop?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "While...wend",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Do...Loop while",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "While",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "For...next",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "A project file is saved with the given extension:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": ".vbp",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": ".frm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": ".vb",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": ".frvb",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Which control is used to display text or to accept user input?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Label",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Text box",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Button",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Connector",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "To exit Visual Basic:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Press Alt+Q",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Press Alt+F4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Alt+F6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ctrl+F4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "Lists of commands such as Open, Print and Exit can be found on:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Toolbar",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Tool box",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Menu bar",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Explorer",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Visual-Basic is a:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Front-end",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Back-end",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Reformer",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Designer",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

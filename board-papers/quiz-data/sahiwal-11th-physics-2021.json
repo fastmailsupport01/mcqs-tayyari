@@ -1,0 +1,486 @@
+{
+ "board": "BISE Sahiwal",
+ "board_slug": "sahiwal",
+ "class": "11th",
+ "subject": "Physics",
+ "year": 2021,
+ "slug": "sahiwal-11th-physics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The term \"ρgh\" in Bernoulli's equation has the same units as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "work",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "energy",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "pressure",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "flow rate",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "An ideal gas performs 10J of work while expanding adiabatically. The change in its internal energy is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10J",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-10J",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "100J",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-200J",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Average translational K.E. of a gas molecule is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(3/2)KT",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(1/2)KT",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(2/3)KT",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "KT",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The K.E of an object of mass \"m\" is \"E\", its momentum will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2Em",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "√(2E/m)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√(1/2Em) [best-effort]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√(2mE) [best-effort]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The frequency of waves produced in microwave oven is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1435 MHz",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2850 MHz",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2450 MHz",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4250 MHz",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The increase in velocity of sound in air for 1°C rise in temperature is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "61 cm/s",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.61 cm/s",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "61 m/s",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.61 m/s",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The ratio of velocity of disc to velocity of hoop is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2/√3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4/√3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2/3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4/3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The wave length of nth mode of stationary waves in closed pipe is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2l/n",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4l/(2n-1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4l/n",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4l/(2n+1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "1 rev/min is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π/6 rad/s",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/30 rad/s",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/15 rad/s",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2π rad/s",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "If initial velocity of projectile becomes doubled. The time of flight will become:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4 times",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Half",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2 times",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8 times",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Height of projectile is maximum at an angle of projection of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "30°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "90°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "î.(k̂×î) =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ĵ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "î",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "If two non-zero vectors A & B are parallel to each other then:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A̅.B̅=0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "|A̅×B̅|=AB",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A̅.B̅=AB",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A̅.B̅=1 [best-effort]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "The uncertainty in the time period of a vibrating body is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "least count × No. of vibrations",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "least count ÷ No. of vibrations",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "least count + No. of vibrations",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "least count - No. of vibrations",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Which pair of physical quantities have same dimensions?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "work and power",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "momentum and impulse",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "force and torque",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "momentum and force",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "Refractive index of water is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.33",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "The fringe spacing is the greatest for:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Blue light",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Yellow light",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Green light",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Red light",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

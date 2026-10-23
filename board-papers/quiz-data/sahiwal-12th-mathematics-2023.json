@@ -1,0 +1,570 @@
+{
+ "board": "BISE Sahiwal",
+ "board_slug": "sahiwal",
+ "class": "12th",
+ "subject": "Mathematics",
+ "year": 2023,
+ "slug": "sahiwal-12th-mathematics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Lim (θ→0) (1−cosθ)/θ = ........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "∞",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Lim (n→∞) (1−1/n)ⁿ = ........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "e⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "e",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "e²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/e²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "If x = at², y = 2at, then dy/dx = ........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2/y",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2a/y",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2ay",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2a",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "If f(x) = e^(√x−1), then f'(x) = ........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/(2√x) e^(√x−1)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "e^(√x−1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/2x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "e^(√x−1)/√x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "If f(x) = cos x, then f'(sin⁻¹ x) = ........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−sin x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/√(1−x²)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "If y = e^(2x), then y₄ = ........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "16e^(2x)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8e^(2x)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4e^(2x)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−16e^(2x)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "∫ (x+2)/(x+2) dx = ........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1+c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x+c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−x+c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The order of differential equation y (dy/dx)² + 2x = 0 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "∫_{π/6}^{[illegible in source scan]} cosθ dθ = ........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(√3−1)/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "√3/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1+1/√3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2/√3 − 1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "∫ ln x dx = ........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(ln x)²+c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x ln x + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x ln x − x + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−x ln x + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Equation of horizontal line through (a,b) is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "y = a",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x = a",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x = b",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "y = b",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Two lines l₁ and l₂ with slope m₁ and m₂ are perpendicular if:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "m₁ = m₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "m₁m₂ = 1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "m₁m₂+1 = 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "m₁ = 2/m₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "The lines represented by ax²+2hxy+by² = 0 are parallel if:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "h² − ab = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "h² − ab > 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "h² − ab < 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "h² = a + b",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "A solution of x + 2y < 6 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(8,0)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(0,8)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(5,1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(1,2)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "The line y = mx + c intersect the circle x²+y² = a² at most ______ point/s",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "One",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Two",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "three",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Infinite",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "Equation of point circle is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x²+y² = 1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x²+y² = −1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x²+y² = 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x²−y² = 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "Focus of parabola x² = 4ay is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(a,0)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(0,a)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(−0,0)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(0,−a)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group I",
+   "q_en": "For hyperbola value of eccentricity is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "e = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "e < 1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "e = 1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "e > 1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group I",
+   "q_en": "(i × k) = ........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "i",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−j",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group I",
+   "q_en": "The projection of a = i − j along b = j + k is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/√2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−1/√2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−2",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

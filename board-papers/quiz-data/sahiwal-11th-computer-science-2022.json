@@ -1,0 +1,430 @@
+{
+ "board": "BISE Sahiwal",
+ "board_slug": "sahiwal",
+ "class": "11th",
+ "subject": "Computer Science",
+ "year": 2022,
+ "slug": "sahiwal-11th-computer-science-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The program that contains instructions to operate a device is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Device operator",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Device system",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Device driver",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Operating system",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The cell range from B7 to B9 will be written as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "B7 - B9",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "B7 . B9",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "B7 : B9",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "B7 ; B9",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Windows Explorer acts as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Word Editor",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Directory Browser",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Graphic Designer",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Image Viewer",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Shortcut key to change the case is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Shift + F3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ctrl + F3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Alt + F3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ctrl + Shift + F3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Another name for antivirus is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Vaccine",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Worm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Trojan horse",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "DES",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The length of IP address is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2 Bytes",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4 Bytes",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8 Bytes",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10 Bytes",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The modular testing of a program is also called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Pilot testing",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Unit testing",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "System testing",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Incremental testing",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "1 MB of memory in bytes is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2¹⁰",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2²⁰",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2³⁰",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2⁴⁰",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Similar networks can be connected by a:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Router",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Gateway",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Bridge",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Network interface card",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "High fault tolerance is the property of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "BUS Topology Networks",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Star Topology Networks",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ring Topology Networks",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mesh Topology Networks",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Parallel transmission is used by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Printer",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Joystick",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Monitor",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Keyboard",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "EBCDIC is a:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4-bit code",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "7-bit code",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8-bit code",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "16-bit code",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "The benefit of computer that provides same result repeatedly is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Speed",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Precision",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Reliability",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Consistency",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "To hold the base location of all executable code, CPU uses:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Code segment register",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Extra segment register",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Stack segment register",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Special segment register",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "The memory used to increase the performance of computer is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ROM",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "RAM",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Flash",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cache",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

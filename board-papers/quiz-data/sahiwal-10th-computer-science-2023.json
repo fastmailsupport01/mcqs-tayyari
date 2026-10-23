@@ -1,0 +1,570 @@
+{
+ "board": "BISE Sahiwal",
+ "board_slug": "sahiwal",
+ "class": "10th",
+ "subject": "Computer Science",
+ "year": 2023,
+ "slug": "sahiwal-10th-computer-science-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "A software that facilitates programmers in writing computer programs is known as ______.",
+   "q_ur": "ایک سافٹ ویئر جو پروگرامر کو کمپیوٹر پروگرام لکھنے میں مدد دیتا ہے، ______ کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "An editor",
+     "ur": "ایڈیٹر"
+    },
+    {
+     "k": "B",
+     "en": "A compiler",
+     "ur": "کمپائلر"
+    },
+    {
+     "k": "C",
+     "en": "An IDE",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A debugger",
+     "ur": "ڈی بگر"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "A software that is responsible for the conversion of program files to machine understandable and executable code is:",
+   "q_ur": "ایسا سافٹ ویئر جو پروگرام فائلز کو مشین کے قابل فہم اور قابل عمل کوڈ میں تبدیل کرتا ہے، ______ کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "A complier",
+     "ur": "کمپائلر"
+    },
+    {
+     "k": "B",
+     "en": "An IDE",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A debugger",
+     "ur": "ڈی بگر"
+    },
+    {
+     "k": "D",
+     "en": "An Editor",
+     "ur": "ایڈیٹر"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Scanf is a ______ in C-programming language.",
+   "q_ur": "C، Scanf پروگرامنگ لینگویج میں ______ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Keyword",
+     "ur": "کی ورڈ"
+    },
+    {
+     "k": "B",
+     "en": "Library",
+     "ur": "لائبریری"
+    },
+    {
+     "k": "C",
+     "en": "Function",
+     "ur": "فنکشن"
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": "کوئی بھی نہیں"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Let the following part of code, what will be the value of variable a after execution. int a = 4; float b = 2.2; a = a * b;",
+   "q_ur": "درج ذیل کوڈ کے حصے کو مدنظر رکھتے ہوئے بتائیں کہ عمل درآمد کے بعد 'a' کی قیمت کیا ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "8.8",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8.0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8.2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Conditional logic helps in ______.",
+   "q_ur": "کنڈیشنل لاجک ______ میں مدد دیتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Decisions",
+     "ur": "فیصلوں"
+    },
+    {
+     "k": "B",
+     "en": "Iterations",
+     "ur": "تکراروں"
+    },
+    {
+     "k": "C",
+     "en": "Traversing",
+     "ur": "ٹریورسنگ"
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": "یہ تمام"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "______ statements describe the sequence in which statements of the program should be executed.",
+   "q_ur": "______ سٹیٹمنٹس بتاتی ہیں کہ پروگرام کی سٹیٹمنٹس کس ترتیب سے ایگزیکیوٹ ہوں گی۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Loop",
+     "ur": "لوپ"
+    },
+    {
+     "k": "B",
+     "en": "Conditional",
+     "ur": "کنڈیشنل"
+    },
+    {
+     "k": "C",
+     "en": "Sequential",
+     "ur": "ترتیب"
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": "یہ تمام"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "If the size of an array is 100, the range of indexes will be.",
+   "q_ur": "اگر ارے کا سائز 100 ہے تو انڈیکس کی رینج ہوگی۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "0-99",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0-100",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1-100",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2-102",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "______ structure allows repetition of a set of instructions.",
+   "q_ur": "______ سٹرکچر ہدایات کے مجموعے کو بار بار دہرانے کے لیے استعمال ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Loop",
+     "ur": "لوپ"
+    },
+    {
+     "k": "B",
+     "en": "Conditional",
+     "ur": "کنڈیشنل"
+    },
+    {
+     "k": "C",
+     "en": "Control",
+     "ur": "کنٹرول"
+    },
+    {
+     "k": "D",
+     "en": "Data",
+     "ur": "ڈیٹا"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The values passed to a function are called:",
+   "q_ur": "فنکشن کو پاس کی گئی قدریں کہلاتی ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Bodies",
+     "ur": "باڈیز"
+    },
+    {
+     "k": "B",
+     "en": "Return Types",
+     "ur": "ریٹرن ٹائپس"
+    },
+    {
+     "k": "C",
+     "en": "Arrays",
+     "ur": "ارے"
+    },
+    {
+     "k": "D",
+     "en": "Arguments",
+     "ur": "آرگیومنٹس"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "char cd() {return 'a'}. In this function 'char' is:",
+   "q_ur": "char cd() {return 'a'}۔ اس فنکشن میں 'char' ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Arguments",
+     "ur": "آرگیومنٹس"
+    },
+    {
+     "k": "B",
+     "en": "Return Type",
+     "ur": "ریٹرن ٹائپ"
+    },
+    {
+     "k": "C",
+     "en": "Array",
+     "ur": "ارے"
+    },
+    {
+     "k": "D",
+     "en": "Body",
+     "ur": "باڈی"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "______ can be thought of as a container to store constants.",
+   "q_ur": "کو کانسٹنٹس محفوظ کرنے کے لیے ایک برتن سمجھا جا سکتا ہے۔ ______",
+   "options": [
+    {
+     "k": "A",
+     "en": "Box",
+     "ur": "باکس"
+    },
+    {
+     "k": "B",
+     "en": "Jar",
+     "ur": "جار"
+    },
+    {
+     "k": "C",
+     "en": "Variable",
+     "ur": "ویری ایبل"
+    },
+    {
+     "k": "D",
+     "en": "Collection",
+     "ur": "مجموعہ"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "For initialization of a variable, we use ______ operator.",
+   "q_ur": "ایک متغیر کو انیشلائز کرنے کے لیے ہم ______ آپریٹر استعمال کرتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "→",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "=",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "@",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "?",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "printf is used to print ______ type.",
+   "q_ur": "______ قسم کا ڈیٹا پرنٹ کرنے کے لیے استعمال ہوتا ہے۔ printf",
+   "options": [
+    {
+     "k": "A",
+     "en": "int",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "float",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "char",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": "یہ تمام"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Scanf is a ______ in C programming language.",
+   "q_ur": "C پروگرامنگ لینگویج میں Scanf ______ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Keyword",
+     "ur": "کی ورڈ"
+    },
+    {
+     "k": "B",
+     "en": "Library",
+     "ur": "لائبریری"
+    },
+    {
+     "k": "C",
+     "en": "Function",
+     "ur": "فنکشن"
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": "ان میں سے کوئی نہیں"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "An if statement inside another if statement is called ______ structure.",
+   "q_ur": "اگر if سٹیٹمنٹ کے اندر ایک اور if سٹیٹمنٹ ہو تو یہ سٹرکچر ______ کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nested",
+     "ur": "نیسٹڈ"
+    },
+    {
+     "k": "B",
+     "en": "Boxed",
+     "ur": "باکسڈ"
+    },
+    {
+     "k": "C",
+     "en": "Repeated",
+     "ur": "ریپیٹڈ"
+    },
+    {
+     "k": "D",
+     "en": "Decomposed",
+     "ur": "ڈی کمپوزڈ"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "A set of multiple instructions enclosed in braces is called a:",
+   "q_ur": "قوسین میں بند ایک سے زیادہ ہدایات کا سیٹ ______ کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Box",
+     "ur": "باکس"
+    },
+    {
+     "k": "B",
+     "en": "List",
+     "ur": "لسٹ"
+    },
+    {
+     "k": "C",
+     "en": "Block",
+     "ur": "بلاک"
+    },
+    {
+     "k": "D",
+     "en": "Job",
+     "ur": "جاب"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "If the size of an array is 100, the range of indexes will be ______",
+   "q_ur": "اگر ارے کا سائز 100 ہے تو انڈیکس کی رینج ______ ہوگی۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "0-99",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0-100",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1-100",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2-102",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "______ structure allows repetition of a set of instructions.",
+   "q_ur": "______ سٹرکچر ہدایات کے مجموعے کو بار بار دہرانے کے لیے استعمال ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Loop",
+     "ur": "لوپ"
+    },
+    {
+     "k": "B",
+     "en": "Conditional",
+     "ur": "کنڈیشنل"
+    },
+    {
+     "k": "C",
+     "en": "Control",
+     "ur": "کنٹرول"
+    },
+    {
+     "k": "D",
+     "en": "Data",
+     "ur": "ڈیٹا"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "The advantages of using functions are ______.",
+   "q_ur": "فنکشنز کو استعمال کرنے کے فوائد ______ ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Readability",
+     "ur": "پڑھنے کی صلاحیت"
+    },
+    {
+     "k": "B",
+     "en": "Reusability",
+     "ur": "بار بار استعمال"
+    },
+    {
+     "k": "C",
+     "en": "Easy debugging",
+     "ur": "ڈی بگنگ میں آسانی"
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": "یہ تمام"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "If there are three return statements in the function body, ______ of them will be executed.",
+   "q_ur": "اگر فنکشن باڈی میں تین ریٹرن سٹیٹمنٹس ہوں تو ان میں سے ______ چلے گی۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "One",
+     "ur": "ایک"
+    },
+    {
+     "k": "B",
+     "en": "Two",
+     "ur": "دو"
+    },
+    {
+     "k": "C",
+     "en": "Three",
+     "ur": "تین"
+    },
+    {
+     "k": "D",
+     "en": "First & last",
+     "ur": "پہلی اور آخری"
+    }
+   ]
+  }
+ ]
+}

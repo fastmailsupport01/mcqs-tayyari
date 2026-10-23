@@ -1,0 +1,682 @@
+{
+ "board": "BISE Sahiwal",
+ "board_slug": "sahiwal",
+ "class": "10th",
+ "subject": "Physics",
+ "year": 2022,
+ "slug": "sahiwal-10th-physics-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "If CD is made of metal then it is called:",
+   "q_ur": "اگر سی ڈی میٹل کی بنی ہو تو کہلاتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hard disc",
+     "ur": "ہارڈ ڈسک"
+    },
+    {
+     "k": "B",
+     "en": "Floppy disc",
+     "ur": "فلاپی ڈسک"
+    },
+    {
+     "k": "C",
+     "en": "Compound disc",
+     "ur": "کمپاؤنڈ ڈسک"
+    },
+    {
+     "k": "D",
+     "en": "Metallic disc",
+     "ur": "میٹالک ڈسک"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "In parallel combination of resistors each resistor will have same:",
+   "q_ur": "اگر مزاحمت کاروں کو متوازی جوڑا جائے تو ہر مزاحمت کار کے گرد برابر ہو گا۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Voltage",
+     "ur": "وولٹیج"
+    },
+    {
+     "k": "B",
+     "en": "Current",
+     "ur": "کرنٹ"
+    },
+    {
+     "k": "C",
+     "en": "Resistance",
+     "ur": "مزاحمت"
+    },
+    {
+     "k": "D",
+     "en": "Both A and B",
+     "ur": "A اور B دونوں"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Lens's law is a manifestation of the law of:",
+   "q_ur": "لینز کا قانون ______ کے قانون کے مظہر ملتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Conservation of mass",
+     "ur": "ماس کے تحفظ"
+    },
+    {
+     "k": "B",
+     "en": "Conservation of energy",
+     "ur": "انرجی کے تحفظ"
+    },
+    {
+     "k": "C",
+     "en": "Conservation of charge",
+     "ur": "چارج کے تحفظ"
+    },
+    {
+     "k": "D",
+     "en": "Conservation of momentum",
+     "ur": "مومینٹم کے تحفظ"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The output of a two-input NOR gate is 1 when:",
+   "q_ur": "دو ان پٹ والے NOR گیٹ کی آؤٹ پٹ 1 ہوتی ہے جب:",
+   "options": [
+    {
+     "k": "A",
+     "en": "A=0, B=0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A=1, B=1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A=0, B=1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A=1, B=0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "To get virtual image from the convex lens the object is kept:",
+   "q_ur": "محدب عدسے سے مجازی امیج حاصل کرنے کے لیے جسم رکھا جاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "On F",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Between F and 2F",
+     "ur": "2F اور F کے درمیان"
+    },
+    {
+     "k": "C",
+     "en": "Between O and F",
+     "ur": "O اور F کے درمیان"
+    },
+    {
+     "k": "D",
+     "en": "Beyond 2F",
+     "ur": "2F سے پرے"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Two capacitors of capacitance 12µF and 6µF are connected in parallel with a 12V battery. The equivalent capacitance is:",
+   "q_ur": "دو کیپیسٹر جن کی کیپیسٹنس 12µF اور 6µF ہے، 12V کی بیٹری سے متوازی جوڑے گئے ہیں۔ ان کی مساوی کیپیسٹنس ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "6µF",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "12µF",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "16µF",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "18µF",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Speed of sound in Nickel at 25°C is:",
+   "q_ur": "25°C پر نکل میں ساؤنڈ کی رفتار ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "6020 ms-1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6030 ms-1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6040 ms-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6050 ms-1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Time period of simple pendulum of 1m length is:",
+   "q_ur": "ایک میٹر لمبائی کے سادہ پینڈولم کا ٹائم پیریڈ ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.99s",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.89s",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.79s",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.69s",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "In step up transformer:",
+   "q_ur": "سٹیپ اپ ٹرانسفارمر میں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Vs > Ns",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Vp > Vs",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Vs > Vp",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Vs > Np",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Radium-226 has a half-life of:",
+   "q_ur": "ریڈیم-226 کی ہاف لائف ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1820 years",
+     "ur": "1820 سال"
+    },
+    {
+     "k": "B",
+     "en": "1920 years",
+     "ur": "1920 سال"
+    },
+    {
+     "k": "C",
+     "en": "1620 years",
+     "ur": "1620 سال"
+    },
+    {
+     "k": "D",
+     "en": "1720 years",
+     "ur": "1720 سال"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "During the burning of 1 ton of coal, amount of energy released:",
+   "q_ur": "ایک ٹن کوئلے کے جلنے کے دوران انرجی خارج ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "3.6×10^10 J",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4.6×10^10 J",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5.6×10^10 J",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6.6×10^10 J",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Symbol of fixed resistor is:",
+   "q_ur": "فکسڈ رزسٹر کی علامت ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "(symbol A)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(symbol B)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(symbol C)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(symbol D)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "If we double both the current and the voltage in a circuit while keeping its resistance constant, the power:",
+   "q_ur": "اگر ہم ایک سرکٹ میں کرنٹ اور وولٹیج دونوں کو دگنا کر دیں جبکہ مزاحمت کو مستقل رکھیں تو پاور:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Remains unchanged",
+     "ur": "کوئی تبدیلی نہیں آئے گی"
+    },
+    {
+     "k": "B",
+     "en": "Become half",
+     "ur": "نصف ہو جائے گی"
+    },
+    {
+     "k": "C",
+     "en": "Become double",
+     "ur": "دگنی ہو جائے گی"
+    },
+    {
+     "k": "D",
+     "en": "Become quadruples",
+     "ur": "چار گنا ہو جائے گی"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "The screen of cathode ray tube consists of a material called:",
+   "q_ur": "کیتھوڈ رے ٹیوب کی سکرین کس مٹیریل کی بنی ہوتی ہے اسے کہتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zinc",
+     "ur": "زنک"
+    },
+    {
+     "k": "B",
+     "en": "Iron",
+     "ur": "آئرن"
+    },
+    {
+     "k": "C",
+     "en": "Phosphor",
+     "ur": "فاسفور"
+    },
+    {
+     "k": "D",
+     "en": "Glass",
+     "ur": "شیشہ"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "The equation of NOT operation is:",
+   "q_ur": "ناٹ آپریشن کی مساوات ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "X = A.B",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "X = A+B",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "X = A-bar",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "X = A.B-bar",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "The number of neutrons in Hydrogen isotope 2-1H is:",
+   "q_ur": "ہائیڈروجن کے آئسوٹوپ 2-1H میں نیوٹرونز کی تعداد ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The relation between velocity, frequency and wavelength of a wave is:",
+   "q_ur": "ویو کی رفتار، فریکوئنسی اور ویو لینتھ کے درمیان تعلق ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Vf = λ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "fλ = V",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Vλ = f",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "V = λ/f",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "The index of refraction of diamond is:",
+   "q_ur": "ہیرے کا انعطافی انڈیکس ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.33",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.52",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2.21",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2.42",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "CD stands for:",
+   "q_ur": "CD سے مراد ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Computer Disc",
+     "ur": "کمپیوٹر ڈسک"
+    },
+    {
+     "k": "B",
+     "en": "Chemical Disc",
+     "ur": "کیمیکل ڈسک"
+    },
+    {
+     "k": "C",
+     "en": "Compact Disc",
+     "ur": "کمپیکٹ ڈسک"
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": "ان میں سے کوئی نہیں"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "The loudness of a sound is most closely related to its:",
+   "q_ur": "آواز کی بلندی کا سب سے زیادہ گہرا تعلق ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Frequency",
+     "ur": "فریکوئنسی"
+    },
+    {
+     "k": "B",
+     "en": "Period",
+     "ur": "پییریڈ"
+    },
+    {
+     "k": "C",
+     "en": "Wavelength",
+     "ur": "ویو لینتھ"
+    },
+    {
+     "k": "D",
+     "en": "Amplitude",
+     "ur": "ایمپلیٹیوڈ"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "An object is 14cm in front of a convex mirror. The image is 5.8cm behind the mirror. What is the focal length of the mirror?",
+   "q_ur": "ایک جسم محدب آئینے کے سامنے 14cm پر ہے۔ امیج آئینے کے پیچھے 5.8cm پر بنتا ہے۔ آئینے کی فوکل لینتھ کیا ہو گی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "-4.1cm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-8.2cm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-9.9cm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-20cm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "The Coulomb's Law is valid for the charges which are:",
+   "q_ur": "کولمب کا قانون ان چارجز کے لیے درست ہے جو:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Moving and point charges",
+     "ur": "متحرک اور نقطہ چارجز"
+    },
+    {
+     "k": "B",
+     "en": "Moving and non-point charges",
+     "ur": "متحرک اور غیر نقطہ چارجز"
+    },
+    {
+     "k": "C",
+     "en": "Stationary and point charges",
+     "ur": "ساکن اور نقطہ چارجز"
+    },
+    {
+     "k": "D",
+     "en": "Stationary and large size charges",
+     "ur": "ساکن اور بڑے سائز کے چارجز"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Michael Faraday belonged to:",
+   "q_ur": "مائیکل فیروڈے کا تعلق تھا۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Britain",
+     "ur": "برطانیہ"
+    },
+    {
+     "k": "B",
+     "en": "USA",
+     "ur": "امریکہ"
+    },
+    {
+     "k": "C",
+     "en": "KSA",
+     "ur": "سعودی عرب"
+    },
+    {
+     "k": "D",
+     "en": "Russia",
+     "ur": "روس"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Radio waves are:",
+   "q_ur": "ریڈیو ویوز ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Stationary",
+     "ur": "ساکن"
+    },
+    {
+     "k": "B",
+     "en": "Electromagnetic",
+     "ur": "الیکٹرومیگنیٹک"
+    },
+    {
+     "k": "C",
+     "en": "Particles",
+     "ur": "ذرے"
+    },
+    {
+     "k": "D",
+     "en": "Mechanical",
+     "ur": "مکینیکل"
+    }
+   ]
+  }
+ ]
+}

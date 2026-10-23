@@ -1,0 +1,850 @@
+{
+ "board": "BISE Sahiwal",
+ "board_slug": "sahiwal",
+ "class": "10th",
+ "subject": "Mathematics",
+ "year": 2023,
+ "slug": "sahiwal-10th-mathematics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The number of terms in a standard quadratic equation ax² + bx + c = 0 is:",
+   "q_ur": "دو درجی مساوات ax² + bx + c = 0 میں ٹرمز کی تعداد ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Cube roots of -1 are:",
+   "q_ur": "-1 کے جزر مکعب ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1. - ω, - ω²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-1, ω, - ω²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-1, - ω, ω²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1, - ω, - ω²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Sum of the cube roots of unity is:",
+   "q_ur": "ایکائی کے جزر مکعب کا مجموعہ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "In the ratio a:b, a is called:",
+   "q_ur": "نسبت a:b میں a کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Relation",
+     "ur": "تعلق"
+    },
+    {
+     "k": "B",
+     "en": "Antecedent",
+     "ur": "مقدم"
+    },
+    {
+     "k": "C",
+     "en": "Consequent",
+     "ur": "تالی"
+    },
+    {
+     "k": "D",
+     "en": "Proportion",
+     "ur": "تناسب"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The fourth proportional of x:y::v:w is:",
+   "q_ur": "x:y::v:w میں چوتھا متناسب ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "xy/v",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "(2x+1)/((x+1)(x-1)) is:",
+   "q_ur": "ایک ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "An improper fraction",
+     "ur": "غیر مناسب کسر"
+    },
+    {
+     "k": "B",
+     "en": "An equation",
+     "ur": "مساوات"
+    },
+    {
+     "k": "C",
+     "en": "A proper fraction",
+     "ur": "مناسب کسر"
+    },
+    {
+     "k": "D",
+     "en": "An identity",
+     "ur": "مماثلت"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "A set with no element is called:",
+   "q_ur": "جس سیٹ میں کوئی رکن نہ ہو، کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Empty set",
+     "ur": "خالی سیٹ"
+    },
+    {
+     "k": "B",
+     "en": "Sub set",
+     "ur": "ذیلی سیٹ"
+    },
+    {
+     "k": "C",
+     "en": "Singleton set",
+     "ur": "یک رکنی سیٹ"
+    },
+    {
+     "k": "D",
+     "en": "Super set",
+     "ur": "سپر سیٹ"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Power set of an empty set is:",
+   "q_ur": "خالی سیٹ کا پاور سیٹ ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "φ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{a}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{φ,{a}}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{φ}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Mean is affected by change in: ______",
+   "q_ur": "مائن ایسلا ______ تبدیل کرنے سے اثر انداز ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Place",
+     "ur": "جگہ"
+    },
+    {
+     "k": "B",
+     "en": "Scale",
+     "ur": "پیمانہ پیمائش"
+    },
+    {
+     "k": "C",
+     "en": "Rate",
+     "ur": "مقدار/نرخ"
+    },
+    {
+     "k": "D",
+     "en": "value",
+     "ur": "قدر"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Sum of the deviations of the variable \"X\" from its mean is always:",
+   "q_ur": "کسی متغیر \"X\" کا اس کے حسابی اوسط سے انحرافات کا مجموعہ ہمیشہ ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": "صفر"
+    },
+    {
+     "k": "B",
+     "en": "One",
+     "ur": "ایک"
+    },
+    {
+     "k": "C",
+     "en": "Same",
+     "ur": "ایک جیسا"
+    },
+    {
+     "k": "D",
+     "en": "Different",
+     "ur": "مختلف"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "sec² θ =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 - sin² θ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1 + cos² θ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1 + tan² θ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1 - tan² θ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "A complete circle is divided into:",
+   "q_ur": "مکمل دائرے کو تقسیم کیا جاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "180°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "270°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "360°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Two tangents drawn to a circle from a point outside it are of ______ in length.",
+   "q_ur": "ایک دائرے کے بیرونی نقطے سے دو کھینچے گئے مماس لمبائی کے لحاظ سے ______ ہوتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Half",
+     "ur": "نصف"
+    },
+    {
+     "k": "B",
+     "en": "Equal",
+     "ur": "برابر"
+    },
+    {
+     "k": "C",
+     "en": "Double",
+     "ur": "دوگنا"
+    },
+    {
+     "k": "D",
+     "en": "Triple",
+     "ur": "تین گنا"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "The arcs opposite to the congruent central angles of a circle are always:",
+   "q_ur": "دائرے کے ہم اندازہ مرکزی زاویوں کے مقابل قوسین ہمیشہ ______ ہوتی ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Congruent",
+     "ur": "ہم شکل"
+    },
+    {
+     "k": "B",
+     "en": "Perpendicular",
+     "ur": "عمود"
+    },
+    {
+     "k": "C",
+     "en": "Incongruent",
+     "ur": "غیر ہم شکل"
+    },
+    {
+     "k": "D",
+     "en": "Parallel",
+     "ur": "متوازی"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "How many tangents can be drawn from a point outside the circle?",
+   "q_ur": "دائرے کے بیرونی نقطے سے کتنے مماس کھینچے جا سکتے ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "A grouped frequency table is called:",
+   "q_ur": "گروہی تعددی جدول کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Data",
+     "ur": "مواد"
+    },
+    {
+     "k": "B",
+     "en": "Frequency distribution",
+     "ur": "تعددی تقسیم"
+    },
+    {
+     "k": "C",
+     "en": "Frequency polygon",
+     "ur": "تعددی کثیر الاضلاع"
+    },
+    {
+     "k": "D",
+     "en": "Cumulative frequency distribution",
+     "ur": "مجموعی تعددی تقسیم"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "An arc subtends a central angle of 40°, then the corresponding chord will subtend a central angle of:",
+   "q_ur": "ایک قوس 40° کا مرکزی زاویہ بنائے تو اس کے مقابل وتر مرکزی زاویہ بنائے گا۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "80°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "40°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "20°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "A line which has two points in common with a circle is called:",
+   "q_ur": "ایک خط جو دائرے کے ساتھ دو مشترکہ نقطے رکھتا ہو، کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "sine of a circle",
+     "ur": "دائرے کا سائن"
+    },
+    {
+     "k": "B",
+     "en": "cosine of a circle",
+     "ur": "دائرے کا کوسائن"
+    },
+    {
+     "k": "C",
+     "en": "tangent of a circle",
+     "ur": "دائرے کا مماس"
+    },
+    {
+     "k": "D",
+     "en": "secant of a circle",
+     "ur": "دائرے کا قاطع"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "(x³ + 1)/((x − 1)(x + 2)) is: ______",
+   "q_ur": "______ ایک ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "A Proper fraction",
+     "ur": "مناسب کسر"
+    },
+    {
+     "k": "B",
+     "en": "An Improper fraction",
+     "ur": "غیر مناسب کسر"
+    },
+    {
+     "k": "C",
+     "en": "An Identity",
+     "ur": "مماثلت"
+    },
+    {
+     "k": "D",
+     "en": "A Constant term",
+     "ur": "مستقل رقم"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "If α, β are the roots of px² + qx + r = 0, then sum of the roots 2α and 2β is:",
+   "q_ur": "اگر α, β مساوات px² + qx + r = 0 کے جزر ہوں تو 2α اور 2β کا مجموعہ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "−q/p",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "r/p",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−2q/p",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−q/2p",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "A frequency polygon is a many sided:",
+   "q_ur": "تعددی کثیر الاضلاع ایک ______ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Closed figure",
+     "ur": "بند شکل"
+    },
+    {
+     "k": "B",
+     "en": "Rectangle",
+     "ur": "مستطیل"
+    },
+    {
+     "k": "C",
+     "en": "Square",
+     "ur": "مربع"
+    },
+    {
+     "k": "D",
+     "en": "Triangle",
+     "ur": "مثلث"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "In a ratio x:y, y is called:",
+   "q_ur": "نسبت x:y میں y کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Relation",
+     "ur": "تعلق"
+    },
+    {
+     "k": "B",
+     "en": "Antecedent",
+     "ur": "مقدم"
+    },
+    {
+     "k": "C",
+     "en": "Consequent",
+     "ur": "تالی"
+    },
+    {
+     "k": "D",
+     "en": "Proportion",
+     "ur": "تناسب"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "The number of elements in power set {1,2,3} is:",
+   "q_ur": "{1,2,3} کے پاور سیٹ کے ارکان کی تعداد ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "The set {x | x ∈ W ∧ x ≤ 101} is called:",
+   "q_ur": "سیٹ {x | x ∈ W ∧ x ≤ 101} کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Infinite set",
+     "ur": "لامتناہی سیٹ"
+    },
+    {
+     "k": "B",
+     "en": "Sub set",
+     "ur": "ذیلی سیٹ"
+    },
+    {
+     "k": "C",
+     "en": "Null set",
+     "ur": "خالی سیٹ"
+    },
+    {
+     "k": "D",
+     "en": "Finite set",
+     "ur": "متناہی سیٹ"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "cosec² θ − cot² θ = ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "tan θ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "The measure of the external angle of a regular hexagon is:",
+   "q_ur": "ایک مسدس کے خارجی زاویے کی پیمائش ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "π/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π/3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "If u/v = v/w = k then:",
+   "q_ur": "اگر u/v = v/w = k ہو تو:",
+   "options": [
+    {
+     "k": "A",
+     "en": "u = wk²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "u = vk²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "u = w²k",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "u = v³k",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "The symbol for a triangle is denoted by:",
+   "q_ur": "مثلث کو ظاہر کرنے کی علامت ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "∠",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Δ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "⊥",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "⊙",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "Two square roots of unity are:",
+   "q_ur": "ایکائی کے دو جزر مربع ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1, ω",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1, −1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1, −ω",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ω, ω²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "An equation of the type 3ˣ + 3²⁻ˣ + 6 = 0 is a/an:",
+   "q_ur": "مساوات 3ˣ + 3²⁻ˣ + 6 = 0 ایک ______ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Exponential equation",
+     "ur": "قوت نمائی مساوات"
+    },
+    {
+     "k": "B",
+     "en": "Radical equation",
+     "ur": "جذری مساوات"
+    },
+    {
+     "k": "C",
+     "en": "Reciprocal equation",
+     "ur": "معکوس مساوات"
+    },
+    {
+     "k": "D",
+     "en": "Quadratic equation",
+     "ur": "دو درجی مساوات"
+    }
+   ]
+  }
+ ]
+}

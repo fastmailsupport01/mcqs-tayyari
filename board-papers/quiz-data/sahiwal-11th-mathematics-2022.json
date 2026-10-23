@@ -1,0 +1,570 @@
+{
+ "board": "BISE Sahiwal",
+ "board_slug": "sahiwal",
+ "class": "11th",
+ "subject": "Mathematics",
+ "year": 2022,
+ "slug": "sahiwal-11th-mathematics-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "If α,β are roots of x² - 4x + 5 = 0 then αβ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The value of polynomial 5x² - 6x +1 at x = -1 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-12",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "12",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Partial fraction of 1/(x³ +1) is of the form:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A/(x+1) + B/(x²-x+1)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(Ax+B)/((x+1)(x²+x+3))",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A/(x+1) + (Bx+c)/(x²-x+1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(Ax+B)/(x²+1) + C/(x+1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The multiplicative identity in complex number is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(1,0)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(0,1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(0,0)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(1,1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "If p is a logical statement then p ∧ ~ p is always:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Absurdity",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Contingency",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Tautology",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Conditional",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "If order of matrix A is m x n and order of matrix B is n x p, then order of AB is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "m x n",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "m x p",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "p x n",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "n x p",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The inverse of a square matrix A does not exist if A is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Singular",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Non-Singular",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Unit",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Diagonal",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "If S is sample space, E is event of S, then P(E) is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "n(E)/n(S)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "n(S)/n(E)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "n(E).n(S)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "n(E)-n(S)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Expansion of (1 - 2x)^(1/2) is valid if:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "|x|<1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "|x|<1/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "|x|<2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "|x|<1/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "In the expansion of (a + b)⁷, the second term is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a⁷",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "7a⁶b",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7ab⁶",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "7b",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Which of the given is not quadrantal angle?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4π/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "9π/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "13π",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "A.M between 1/a and 1/b is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(a+b)/ab",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(a+b)/2ab",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2ab/(a+b)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ab/(a+b)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "G.M between 1 and -16 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "±4i",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "The number of ways of arranging 5 keys in a circular ring is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "24",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "12",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Radius of e-circle opposite to vertex C is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Δ/(s-a)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Δ/(s-b)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Δ/(s-c)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Δ/s",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "sin⁻¹ A - sin⁻¹ B =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "sin⁻¹[A√(1-B²)-B√(1-A²)]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "sin⁻¹[A√(1-B²)+B√(1-A²)]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "sin⁻¹[AB-(1-A²)(1-B²)]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "cos⁻¹[A√(1-B²)+B√(1-A²)]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "Solution of equation cosecθ = 2 in interval [0,2π] is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π/6, 7π/6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/6, 5π/6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/3, 5π/6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π/3, π/6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group I",
+   "q_en": "sin3θ - sin5θ =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2sin4θcos2θ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2cos4θsin2θ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2sin4θcosθ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-2cos4θsinθ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group I",
+   "q_en": "Range of y = cos x is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-1≤x≤1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-∞<x<∞",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-1≤y≤1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-∞<y<∞",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group I",
+   "q_en": "In any triangle ABC, (c² + a² - b²)/2ac =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "cosβ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "cosα",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "cosγ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "cos(β/2)",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

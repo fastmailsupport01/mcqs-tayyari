@@ -1,0 +1,570 @@
+{
+ "board": "BISE Sahiwal",
+ "board_slug": "sahiwal",
+ "class": "10th",
+ "subject": "Computer Science",
+ "year": 2022,
+ "slug": "sahiwal-10th-computer-science-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Which is a selection statement?",
+   "q_ur": "کون سی سلیکشن سٹیٹمنٹ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Float",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "if-else",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Array",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Loop",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "If the size of an array is 100, the range of indexes will be ______",
+   "q_ur": "اگر ارے کا سائز 100 ہے تو انڈیکس کی رینج ______ ہو گی۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "0-99",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0-100",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1-100",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2-102",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "______ part of the for loop is executed first.",
+   "q_ur": "for لوپ کا ______ حصہ سب سے پہلے چلتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Condition",
+     "ur": "شرط"
+    },
+    {
+     "k": "B",
+     "en": "Body",
+     "ur": "باڈی"
+    },
+    {
+     "k": "C",
+     "en": "Initialization",
+     "ur": "انیشلائزیشن"
+    },
+    {
+     "k": "D",
+     "en": "Increment/decrement",
+     "ur": "انکریمنٹ/ڈیکریمنٹ"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The values passed to a function are called ______",
+   "q_ur": "فنکشن کو پاس کی گئی قیمتیں ______ کہلاتی ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Bodies",
+     "ur": "باڈیز"
+    },
+    {
+     "k": "B",
+     "en": "Return types",
+     "ur": "ریٹرن ٹائپس"
+    },
+    {
+     "k": "C",
+     "en": "Array",
+     "ur": "ارے"
+    },
+    {
+     "k": "D",
+     "en": "Arguments",
+     "ur": "آرگیومنٹس"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The printf and scanf are ______ functions.",
+   "q_ur": "Printf اور scanf ______ فنکشن ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Built-in",
+     "ur": "بلٹ ان"
+    },
+    {
+     "k": "B",
+     "en": "Arithmetic",
+     "ur": "ارتھمیٹک"
+    },
+    {
+     "k": "C",
+     "en": "User-defined",
+     "ur": "یوزر ڈیفائنڈ"
+    },
+    {
+     "k": "D",
+     "en": "Custom",
+     "ur": "کسٹم"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "What will be the output of this code? int add (int a, int b) { return a + b; } void main() { printf (\"%d\", add (9,5)); }",
+   "q_ur": "اس کوڈ کا آؤٹ پٹ کیا ہو گا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "9",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "14",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "18",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "In which section 'Include' statements are written?",
+   "q_ur": "کس حصے میں \"Include\" سٹیٹمنٹس لکھی جاتی ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Header",
+     "ur": "ہیڈر"
+    },
+    {
+     "k": "B",
+     "en": "Main",
+     "ur": "مین"
+    },
+    {
+     "k": "C",
+     "en": "Comments",
+     "ur": "کمنٹس"
+    },
+    {
+     "k": "D",
+     "en": "Print",
+     "ur": "پرنٹ"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "\"Printf\" is a function:",
+   "q_ur": "\"Printf\" ایک فنکشن ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Input",
+     "ur": "ان پٹ"
+    },
+    {
+     "k": "B",
+     "en": "Output",
+     "ur": "آؤٹ پٹ"
+    },
+    {
+     "k": "C",
+     "en": "Input & Output",
+     "ur": "ان پٹ اور آؤٹ پٹ"
+    },
+    {
+     "k": "D",
+     "en": "Mathematical",
+     "ur": "ریاضیاتی"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Which of the given is a valid statement?",
+   "q_ur": "کون سی سٹیٹمنٹ صحیح ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "int=20;",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "grad='A';",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "grade='B';",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "A set of multiple statements enclosed in braces is called:",
+   "q_ur": "بریسز میں بند سٹیٹمنٹس کے سیٹ کو ______ کہتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Box",
+     "ur": "باکس"
+    },
+    {
+     "k": "B",
+     "en": "List",
+     "ur": "لسٹ"
+    },
+    {
+     "k": "C",
+     "en": "Block",
+     "ur": "بلاک"
+    },
+    {
+     "k": "D",
+     "en": "Job",
+     "ur": "جاب"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "If there are three return statements in the function body, ______ of them will be executed.",
+   "q_ur": "اگر فنکشن باڈی میں تین ریٹرن سٹیٹمنٹس ہوں تو ان میں سے ______ چلیں گی۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "The values passed to the function are called ______.",
+   "q_ur": "جو قیمتیں فنکشن کو پاس کی جاتی ہیں وہ ______ کہلاتی ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Statements",
+     "ur": "سٹیٹمنٹس"
+    },
+    {
+     "k": "B",
+     "en": "Arguments",
+     "ur": "آرگیومنٹس"
+    },
+    {
+     "k": "C",
+     "en": "Indexes",
+     "ur": "انڈیکسز"
+    },
+    {
+     "k": "D",
+     "en": "Variables",
+     "ur": "متغیرات"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "In above function \"char\" is ______. char cd() { return 'a'; }",
+   "q_ur": "دیے گئے فنکشن میں \"char\" ______ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Body",
+     "ur": "باڈی"
+    },
+    {
+     "k": "B",
+     "en": "Return type",
+     "ur": "ریٹرن ٹائپ"
+    },
+    {
+     "k": "C",
+     "en": "Array",
+     "ur": "ارے"
+    },
+    {
+     "k": "D",
+     "en": "Argument",
+     "ur": "آرگیومنٹ"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "An \"if\" statement inside another \"if\" statement is called ______ structure.",
+   "q_ur": "ایک \"if\" سٹیٹمنٹ کے اندر دوسری \"if\" سٹیٹمنٹ کو ______ سٹرکچر کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nested",
+     "ur": "نیسٹڈ"
+    },
+    {
+     "k": "B",
+     "en": "Boxed",
+     "ur": "باکسڈ"
+    },
+    {
+     "k": "C",
+     "en": "Repeated",
+     "ur": "ریپیٹڈ"
+    },
+    {
+     "k": "D",
+     "en": "Decomposed",
+     "ur": "ڈی کمپوزڈ"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The index of first element of an array is always:",
+   "q_ur": "ارے کے پہلے ایلیمنٹ کا انڈیکس ہمیشہ ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "What is the final value of i after executing the above code? for (int i = 1; i <= 4; i++)",
+   "q_ur": "درج ذیل کوڈ چلنے کے بعد متغیر i کی قیمت کیا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Include Statements are written in ______.",
+   "q_ur": "Include سٹیٹمنٹس ______ سیکشن میں لکھی جاتی ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Header",
+     "ur": "ہیڈر"
+    },
+    {
+     "k": "B",
+     "en": "Main",
+     "ur": "مین"
+    },
+    {
+     "k": "C",
+     "en": "Comments",
+     "ur": "کمنٹس"
+    },
+    {
+     "k": "D",
+     "en": "Print",
+     "ur": "پرنٹ"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Which operator has the highest precedence among the given?",
+   "q_ur": "ان میں سے کس آپریٹر کی ترجیح زیادہ ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "/",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "!",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "The operator \"%\" is used to calculate ______.",
+   "q_ur": "آپریٹر \"%\" ______ کیلکولیٹ کرنے کے لیے استعمال ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Percentage",
+     "ur": "پرسینٹیج"
+    },
+    {
+     "k": "B",
+     "en": "Remainder",
+     "ur": "ریمائنڈر"
+    },
+    {
+     "k": "C",
+     "en": "Factorial",
+     "ur": "فیکٹوریل"
+    },
+    {
+     "k": "D",
+     "en": "Square",
+     "ur": "اسکوائر"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Conditional logic helps in ______.",
+   "q_ur": "کنڈیشنل لاجک ______ میں مدد دیتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Traversing",
+     "ur": "ٹریورسنگ"
+    },
+    {
+     "k": "B",
+     "en": "Relation",
+     "ur": "ریلیشن"
+    },
+    {
+     "k": "C",
+     "en": "Decisions",
+     "ur": "ڈیسیژنز"
+    },
+    {
+     "k": "D",
+     "en": "Iterations",
+     "ur": "اٹریشنز"
+    }
+   ]
+  }
+ ]
+}

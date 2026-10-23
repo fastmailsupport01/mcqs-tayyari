@@ -1,0 +1,962 @@
+{
+ "board": "BISE Sahiwal",
+ "board_slug": "sahiwal",
+ "class": "11th",
+ "subject": "Chemistry",
+ "year": 2023,
+ "slug": "sahiwal-11th-chemistry-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Which of the given molecules has zero dipole moment?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "BF₃",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "H₂O",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CHCl₃",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NH₃",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Splitting of spectral lines when atoms are subjected to strong electric field is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zeeman effect",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Photoelectric effect",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Stark effect",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Compton effect",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Which of the given hydrocarbons has the highest value of heat of vaporizaton?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CH₄",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "C₂H₆",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "C₃H₈",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "C₆H₁₄",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Ionic solids are characterized by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Low melting points",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Good conductivity in solid state",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "High vapour pressures",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Solubility in polar solvents",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The comparative rates at which the solutes move in paper chromatography depend on:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "The size of paper",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Rf values of solutes",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Temperature of the experiment",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Size of the chromatographic tank used",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Pressure remaining constant, at which temperature, the volume of a gas will become twice of what it is at 0°C:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "546°C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "200°C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "273°C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "100°C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The density of an ideal gas at a given temperature and pressure can be calculated by employing the formula:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "d = PM/RT",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "d = P/RT",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "d = nP/RT",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "d = PM/V",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "One dm³ of N₂ at S.T.P contains about:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5.37x10²² atoms",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3.01x10²³ atoms",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6.02x10²³ atoms",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2.68x10¹⁹ atoms",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The number of moles of CO₂ which contains 16g of Oxygen:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.25",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.50",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.50",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "During a redox reaction, an oxidizing agent:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Gains electrons",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Is oxidized",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Loses electrons",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Is hydrolyzed",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "If the rate equation of a reaction 2A+B → Product Rate=[A]²[B], and A is present in large excess, then the order of reaction is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2.5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "If a strip of Cu metal is placed in a solution of FeSO₄:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cu will be deposited",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Fe is precipitated out",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cu and Fe both dissolve",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "No reaction takes place",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Which one of the given salts will not hydrolyse in water?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "NaCl",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "AlCl₃",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Na₂CO₃",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CH₃COONa",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "The solution having zero pH will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "acidic",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Highly acidic",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "neutral",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "basic",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "For which system does the equilibrium constant, Kc has the units of (concentration)⁻¹?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "N₂ + 3H₂ ⇌ 2NH₃",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "H₂ + I₂ ⇌ 2HI",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2HF ⇌ H₂ + F₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2NO₂ ⇌ N₂O₄",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "The enthalpy of solution of sodium carbonate is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−16.2 KJmol⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "+16.2 KJmol⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−25.0 KJmol⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−285.8 KJmol⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "For a given process, the heat changes at constant pressure (qₚ) and at constant volume (qᵥ) are related to each other as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "qₚ = qᵥ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "qₚ > qᵥ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "qₚ < qᵥ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "qₚ = qᵥ/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Angle in water molecule is.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "104.5°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "107.5°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "109.5°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "120°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "(n+l) value for 5s orbital will be.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "The transition temperature of KNO₃ is.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "13.2°C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "95.6°C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "128°C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "32.05°C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Hydrogen bonding is maximum in.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "H₂O",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "HCl",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "HBr",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "HI",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The comparative rates at which solute moves in paper chromatography depend upon.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "The size of paper",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Rf value of solute",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Temperature of experiment",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Size of chromatographic tank used",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "A real gas obeying van der Waals equation will resemble ideal gas if",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Both (a) and (b) are large",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Both (a) and (b) are small",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(a) is small and (b) is large",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(a) is large and (b) is small",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Critical temperature of water vapours is.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "217.0 atm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "111.5 atm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "39.6 atm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "73.0 atm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "The largest number of molecules are present in.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3.6g of H₂O",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4.8g of C₂H₆OH",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2.8g of CO",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5.4g of N₂O₅",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Isotopes differ in.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Properties which depend upon mass",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Arrangements of electrons in orbitals",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Chemical properties",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "The extent to which they may be affected in electromagnetic field",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Which of the given statements is not correct about galvanic cell.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Anode is negatively charged",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Reduction occurs at anode",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cathode is positively charged",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Reduction occurs at cathode",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "All radioactive disintegration nuclear reactions are of.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "First order",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Second order",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Third order",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero order",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Oxidation number of 'Cl' in Ca(ClO₃)₂ is.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "+1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "+5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "The molal boiling point constant is the ratio of the elevation in boiling point to.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Molarity",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Molality",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mole fraction of solvent",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mole fraction of solute",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "The ionization constant of pure water at 25°C is.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.8x10⁻¹⁶ moles dm⁻³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.6x10⁻¹⁶ moles dm⁻³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.0x10⁻¹⁴ moles² dm⁻⁶",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.8x10⁻¹⁴ moles² dm⁻⁶",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "Which aqueous solution has highest pH.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.1M H₂SO₄",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.1M NaOH",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.1M HCl",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.2M HNO₃",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "Which one is not state function?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Work",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Internal energy",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Enthalpy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Volume",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "At constant volume qᵥ is equal to.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ΔH",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ΔE",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ΔP",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ΔV",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

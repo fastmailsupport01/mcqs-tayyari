@@ -1,0 +1,962 @@
+{
+ "board": "BISE Sahiwal",
+ "board_slug": "sahiwal",
+ "class": "12th",
+ "subject": "Chemistry",
+ "year": 2023,
+ "slug": "sahiwal-12th-chemistry-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Vinylacetylene combines with HCl to form:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Polyacetylene",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Benzene",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Chloroprene",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Divinylacetylene",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The electrophile in aromatic sulphonation is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "H₂SO₄",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "HSO₄⁻",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "SO₃",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "SO₃⁺",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "S_N2 reactions can be best carried out with:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Primary alkyl halides",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Secondary alkyl halides",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Tertiary alkyl halides",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Tertiary and primary alkyl halides",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Which compound is called universal solvent?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "H₂O",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CH₃OH",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "C₂H₅OH",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CH₃OCH₃",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Which compound will have the maximum repulsion with H₂O?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "C₆H₆",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "C₂H₅OH",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CH₃CH₂CH₂OH",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CH₃OCH₃",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Which of the given compound will give iodoform test on treatment with I₂/NaOH?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Formaldehyde",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Benzaldehyde",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2-butanone",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3-pentanone",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Which compound is used as coagulant for latex in rubber industry?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Formic acid",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Acetic acid",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Benzoic acid",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Butanoic acid",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Which of these polymers is a natural polymer?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "DNA",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Polyester",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "PVC",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Rayon fibre",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Phosphorous helps the growth of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Root",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Stem",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Leaves",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Seed",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The normal amount of overhead ozone in the atmosphere is about:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "35 DU",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "53 DU",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "350 DU",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "51 DU",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Ethers show the phenomenon of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Position Isomerism",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cis-trans isomerism",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Metamerism",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Functional group isomerism",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The total number of transition elements is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "14",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "40",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "68",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Chlorine heptaoxide (Cl₂O₇) reacts with water to form:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hypochlorous acid",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Chloric acid",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Perchloric acid",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Chlorine and oxygen",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "Laughing gas is chemically:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "NO",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "N₂O",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NO₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "N₂O₄",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Aluminium oxide is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Acidic oxide",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Basic oxide",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Amphoteric oxide",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Non-metallic oxide",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "The element cesium bears resemblance with:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ca",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cr",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cl",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "Which is the correct statement ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "All lanthanides are present in the same group",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "All halogens are present in the same period",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "All the alkali metals are present in the same group",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All the noble gases are present in same period",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Vinyl acetylene combines with HCl to form:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Polyacetaldehyde",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Benzene",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Chloroprene",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Divinyl acetylene",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Which compound is the most reactive one?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Benzene",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ethene",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ethane",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ethyne",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Grignard reagent is reactive due to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "The presence of halogen atom",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "The presence of Mg atom",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "The polarity of C–Mg bond",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Which compound will have the maximum repulsion with H₂O?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "C₆H₆",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "C₂H₅OH",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CH₃CH₂CH₂OH",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CH₃-O-CH₃",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Williamson's synthesis is used to prepare:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Alcohols",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Aldehydes",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Esters",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ethers",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "The oxidation of aldehydes always gives:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ketones",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Carboxylic acids",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Esters",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Alkanes",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Select the one which is neutral amino acid in nature:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Alanine",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Histidine",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Aspartic acid",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Lysine",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Based on thermal properties, plastics are divided into:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Three main classes",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Four main classes",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Five main classes",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Two main classes",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Select the percentage of nitrogen in urea:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "82%",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "46%",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "35%",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "100%",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "The normal amount of overhead ozone is about:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "250 DU",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "350 DU",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "300 DU",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "400 DU",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "A double bond consists of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Two sigma bonds",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "One sigma and one Pi bond",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "One sigma and two Pi bonds",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Two Pi bonds",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Which of the given is a typical transition metal?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sc",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Y",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ra",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Co",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "Chlorine heptaoxide (Cl₂O₇) reacts with water to form:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hypochlorous acid",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Chloric acid",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Perchloric acid",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Chlorine and oxygen",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "Which catalyst is used in contact process?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Fe₂O₃",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "V₂O₅",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "SO₃",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ag₂O",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "Which of the given element is not present abundantly in earth's crust?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Silicon",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Aluminium",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Sodium",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Oxygen",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "The mineral (CaSO₄.2H₂O) has the general name:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Gypsum",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Dolomite",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Calcite",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Epsom salt",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "Which is the correct statement?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Na⁺ ion is smaller than Na atom",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Na⁺ ion is larger than Na atom",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cl⁻ ion is smaller than Cl atom",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cl⁻ ion and Cl atom are equal in size",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

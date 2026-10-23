@@ -1,0 +1,430 @@
+{
+ "board": "BISE Sahiwal",
+ "board_slug": "sahiwal",
+ "class": "11th",
+ "subject": "Computer Science",
+ "year": 2023,
+ "slug": "sahiwal-11th-computer-science-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The idea of storing a program in memory was given by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Dr. Qadir",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Dr. Abdul Salam",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "John Von Newman",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Pascal",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Clipboard stores:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Entered text",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Deleted text",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Copied text",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Repeated text",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The external devices connected to a computer system are known as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Expansion cards",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Buses",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Slots",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Peripherals",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The length of IPV4 address is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "8-bit",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "16-bit",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "24-bit",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "32-bit",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "A list of documents waiting to be printed on printer is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Print queue",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Print list",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Print stack",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Print line",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Memory consists of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ports",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cells",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Set of wires",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Set of circuits",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "A workbook is a group of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Many rows",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Worksheets",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cells",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Many columns",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Which of the given is biometric technique for person identification?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Access cards",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Finger print",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "PIN",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Passwords",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Data processing is also known as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Knowledge",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Computing",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Procedure",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Merging",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Testing a program component is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Pilot testing",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "System testing",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Isolation testing",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Unit testing",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "De-jure means",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "By nature",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "By fact",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "By law",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "By luck",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "OSI model was created by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ISO",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ANSI",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "IBM",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NESPAK",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Frequency is measured in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Seconds",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Bps",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Hertz",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Amps",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "Most data transmitted over telephone lines use:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Serial transmission",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Parallel transmission",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Direct transmission",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Sequential transmission",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Many banks provide the facility of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CAD",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CAM",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CBT",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ATM",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

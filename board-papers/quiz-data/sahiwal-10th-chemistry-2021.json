@@ -1,0 +1,682 @@
+{
+ "board": "BISE Sahiwal",
+ "board_slug": "sahiwal",
+ "class": "10th",
+ "subject": "Chemistry",
+ "year": 2021,
+ "slug": "sahiwal-10th-chemistry-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Which one of the given is not a Greenhouse effect?",
+   "q_ur": "ان میں سے کون سا گرین ہاؤس ایفیکٹ نہیں ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "increasing atmospheric temperature",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "increasing food chains",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "increasing flood risks",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "increasing sea level",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Buildings are being damaged by acid rain because it attacks:",
+   "q_ur": "ایسڈ رین کی وجہ سے عمارتوں کو نقصان پہنچتا ہے کیونکہ یہ حملہ کرتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "calcium sulphate",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "calcium nitrate",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "calcium carbonate",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "calcium oxalate",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Which one of the given disease causes liver inflammation?",
+   "q_ur": "ان میں سے کون سی بیماری جگر کی سوزش کا سبب بنتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "typhoid",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "jaundice",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "cholera",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "hepatitis",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "In the bessemerization process:",
+   "q_ur": "بیسیمرائزیشن کے عمل میں ____۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "roasted ore is heated",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "molten matte is removed",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "molten matte is heated",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "molten matte is added",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Concentration of the copper ore is carried out by:",
+   "q_ur": "کاپر کے ایسک کی کنسنٹریشن ____ کے ذریعے کی جاتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "calcination",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "roasting",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "froth flotation",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "distillation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "For a reaction between H₂ and I₂ to form 2HI the units of K_c are:",
+   "q_ur": "H₂ اور I₂ سے 2HI بنانے کے لیے K_c کے یونٹس ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "mol dm⁻³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "mol⁻¹dm⁻³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "mol⁻¹dm³",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "No unit",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Which one of the given statement is not correct about active mass?",
+   "q_ur": "ایکٹیو ماس کے متعلق ان میں سے کون سا بیان درست نہیں ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "rate of reaction is directly proportional to active mass",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "active mass is taken in molar concentration",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "active mass is represented by square brackets",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "active mass means total mass of substances",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "A reaction between an acid and a base produces:",
+   "q_ur": "ایسڈ اور بیس کے درمیان ری ایکشن سے بنتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "salt and water",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "salt and gas",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "salt and acid",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "salt and base",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Which one of the given compound is an aldehyde?",
+   "q_ur": "ان میں سے کون سا کمپاؤنڈ الڈیہائیڈ ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "CH₃-CH₂-OH",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CH₃-COOH",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CH₃CHO",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CH₃COCH₃",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The end product of oxidation of acetylene is:",
+   "q_ur": "ایسیٹیلین کے آکسیڈیشن کا آخری پروڈکٹ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Oxalic acid",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Glycol",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Glyoxal",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Acetic acid",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Halogenation of methane does not produce:",
+   "q_ur": "میتھین کی ہیلوجینیشن سے ____ نہیں بنتا۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "carbon tetrachloride",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "chloroform",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "carbon black",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "chloromethane",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Which one of the given is a reducing sugar?",
+   "q_ur": "ان میں سے کون سی ریڈیوسنگ شوگر ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "glucose",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "maltose",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "sucrose",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "starch",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Temporary hardness is because of:",
+   "q_ur": "عارضی سختی کس کی وجہ سے ہوتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ca(HCO₃)₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CaCO₃",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "MgCO₃",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "MgSO₄",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "The chemical formula of copper pyrite is:",
+   "q_ur": "کاپر پائرائٹ کا کیمیکل فارمولا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cu₂S",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CuFeS₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CuS",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "FeS",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "When CO₂ is passed through the ammonical brine, the only salt that precipitate is ____.",
+   "q_ur": "جب امونیکل برائن سے CO₂ گزاری جائے تو کون سا نمک رسوب پذیر ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "NaHCO₃",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NH₄HCO₃",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Na₂CO₃",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(NH₄)₂CO₃",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "For a reaction between PCl₃ and Cl₂ to form PCl₅, the units of K_c are:",
+   "q_ur": "PCl₃ سے Cl₂ اور PCl₅ بنانے کے ری ایکشن کے لیے K_c کے یونٹس ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "mol dm⁻³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "mol⁻¹dm⁻³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "mol⁻¹dm³",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "mol dm³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "For the reaction 2A(g) + B(g) ⇌ 3C(g) The expression for the equilibrium constant is:",
+   "q_ur": "2A(g) + B(g) ⇌ 3C(g) ری ایکشن کے لیے ایکوی لیبریم کانسٹنٹ کا ایکسپریشن ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "[2A][B]/[3C]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[A]²[B]/[C]³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[3C]/[2A][B]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[C]³/[A]²[B]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Which one of the given species is not amphoteric?",
+   "q_ur": "ان میں سے کون سا ایمفوٹیرک نہیں ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "H₂O",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NH₃",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "HCO₃⁻",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "SO₄⁻²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "The formula of pentane is:",
+   "q_ur": "پینٹین کا فارمولا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "C₅H₁₀",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "C₅H₁₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "C₅H₁₄",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "C₅H₁₆",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Which one of the given compound is a saturated hydrocarbon?",
+   "q_ur": "ان مرکبات میں سے کون سا سیچوریٹڈ ہائیڈروکاربن ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Methane",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ethyne",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Propane",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Propyne",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Halogenation of Methane does not produce:",
+   "q_ur": "میتھین کی ہیلوجینیشن سے ____ نہیں بنتا۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "carbon tetra chloride",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "chloroform",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "carbon black",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "chloromethane",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Which one of given is a triglyceride?",
+   "q_ur": "ان میں سے کون سا ٹرائی گلیسرائیڈ ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "carbohydrates",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "protein",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "lipids",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "vitamins",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Which is secondary pollutant?",
+   "q_ur": "ان میں سے کون سا سیکنڈری پلوٹنٹ ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "H₂SO₄",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CO₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CO",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "SO₃",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Acid rain affects the aquatic life by clogging fish gills because of ____ metal.",
+   "q_ur": "ایسڈ رین ____ دھات کی وجہ سے مچھلی کے گلوں کو بند کر کے آبی حیات کو متاثر کرتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Lead",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Chromium",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mercury",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Aluminium",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}
