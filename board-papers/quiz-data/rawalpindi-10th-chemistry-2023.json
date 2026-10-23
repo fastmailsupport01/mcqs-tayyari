@@ -1,0 +1,682 @@
+{
+ "board": "BISE Rawalpindi",
+ "board_slug": "rawalpindi",
+ "class": "10th",
+ "subject": "chemistry",
+ "year": 2023,
+ "slug": "rawalpindi-10th-chemistry-2023",
+ "questions": [
+  {
+   "n": "1.1",
+   "group": "Group I",
+   "q_en": "For a certain reaction between PCl₃ and Cl₂ to form PCl₅. The unit of Kc are:",
+   "q_ur": "PCl₃ اور Cl₂ سے PCl₅ بنانے کے لئے ری ایکشن میں Kc کے یونٹس ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "mol dm⁻³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "mol⁻¹ dm⁻³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "mol⁻¹ dm³",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "mol dm³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Acetic acid is used for:",
+   "q_ur": "ایسیٹک ایسڈ استعمال ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Flavouring of food",
+     "ur": "خوراک کو خوش ذائقہ بنانے کے لیے"
+    },
+    {
+     "k": "B",
+     "en": "Making explosive",
+     "ur": "دھماکہ خیز اشیاء بنانے کے لئے"
+    },
+    {
+     "k": "C",
+     "en": "Etching design",
+     "ur": "نقش و نگار بنانے کے لئے"
+    },
+    {
+     "k": "D",
+     "en": "Cleaning metals",
+     "ur": "دھاتوں کی صفائی کے لئے"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The POH of 0.02 M Ca(OH)₂ is:",
+   "q_ur": "0.02M سلوشن کی Ca(OH)₂ کی POH ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.698",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.397",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "12.31",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "12.61",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Petroleum is refined by:",
+   "q_ur": "پٹرولیم کو _____ طریقے سے ریفائن کیا جاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Destructive distillation",
+     "ur": "ڈسٹرکٹو ڈسٹیلیشن"
+    },
+    {
+     "k": "B",
+     "en": "Fractional distillation",
+     "ur": "فریکشنل ڈسٹیلیشن"
+    },
+    {
+     "k": "C",
+     "en": "Simple distillation",
+     "ur": "سمپل ڈسٹیلیشن"
+    },
+    {
+     "k": "D",
+     "en": "Dry distillation",
+     "ur": "ڈرائی ڈسٹیلیشن"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Which one of these is a saturated hydrocarbon:",
+   "q_ur": "سبجیکٹ ہائیڈروکاربن کون ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "C₂H₄",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "C₃H₆",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "C₄H₈ [best read]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "C₅H₁₂ [best read]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "One of the following vitamins is water soluble:",
+   "q_ur": "مندرجہ ذیل وٹامنز میں سے کون سی وٹامن پانی میں حل ہوتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Vitamin A",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Vitamin C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Vitamin D",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Vitamin E",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Infrared radiation emitted by earth are absorbed by:",
+   "q_ur": "زمین سے خارج ہونے والی انفراریڈ ریڈی ایشنز میں جذب ہوتی ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "CO₂ & H₂O",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "N₂ & O₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CO₂ & N₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "O₂ & CO₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "One is a secondary pollutant:",
+   "q_ur": "ان میں سے ایک سیکنڈری پولیٹنٹ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "CH₄",
+     "ur": "میتھین"
+    },
+    {
+     "k": "B",
+     "en": "SO₃ [best read]",
+     "ur": "سلفروائی آکسائیڈ [best read]"
+    },
+    {
+     "k": "C",
+     "en": "SO₂",
+     "ur": "سلفروئی آکسائیڈ"
+    },
+    {
+     "k": "D",
+     "en": "HNO₃",
+     "ur": "نائٹرک ایسڈ"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Temporary hardness in water is because of:",
+   "q_ur": "پانی کی لمپیئر ہارڈنیس کی وجہ ہوتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ca(HCO₃)₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CaCO₃",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "MgCO₃",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "MgSO₄",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Disease caused by Protozoa is:",
+   "q_ur": "پروٹوزوا سے پھیلنے والی بیماری ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Dysentery",
+     "ur": "پیچش"
+    },
+    {
+     "k": "B",
+     "en": "Cholera",
+     "ur": "ہیضہ"
+    },
+    {
+     "k": "C",
+     "en": "Cryptosporidium",
+     "ur": "کرپٹو سپورڈیم"
+    },
+    {
+     "k": "D",
+     "en": "Hepatitis",
+     "ur": "ہیپاٹائٹس"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The formula of urea is:",
+   "q_ur": "یوریا کا کیمیائی فارمولا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "NH₂COONH₄",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NH₂CONH₄",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NH₂COONH₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NH₂CONH₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The nitrogen present in urea is used by plants to synthesize:",
+   "q_ur": "پودے یوریا میں موجود نائٹروجن کس کی تیاری میں استعمال کرتے ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sugar",
+     "ur": "شوگر"
+    },
+    {
+     "k": "B",
+     "en": "Proteins",
+     "ur": "پروٹینز"
+    },
+    {
+     "k": "C",
+     "en": "Fats",
+     "ur": "فیٹس"
+    },
+    {
+     "k": "D",
+     "en": "DNA",
+     "ur": "ڈی۔این۔اے"
+    }
+   ]
+  },
+  {
+   "n": "1.1",
+   "group": "Group II",
+   "q_en": "Gas protects the earth's surface from ultraviolet radiation:",
+   "q_ur": "گیس زمین کی سطح کو الٹرا وائلٹ ریڈی ایشن سے محفوظ رکھتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "CO₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CO",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "N₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "O₃",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Acid rain affects the aquatic life by clogging fish gills because of:",
+   "q_ur": "ایسڈ رین میں موجود دھاتی مچھلیوں کے گلپھڑے بند کر کے آبی زندگی کو متاثر کرتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Lead metal",
+     "ur": "لیڈ میٹل"
+    },
+    {
+     "k": "B",
+     "en": "Chromium metal",
+     "ur": "کرومیم میٹل"
+    },
+    {
+     "k": "C",
+     "en": "Mercury metal",
+     "ur": "مرکری میٹل"
+    },
+    {
+     "k": "D",
+     "en": "Aluminium metal",
+     "ur": "ایلومینیم میٹل"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Permanent hardness is removed by:",
+   "q_ur": "پرمانینٹ ہارڈنیس کو ختم کیا جا سکتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Na₂ Zeolite",
+     "ur": "سوڈیم زیولائٹ"
+    },
+    {
+     "k": "B",
+     "en": "Soda lime",
+     "ur": "سوڈا لائم"
+    },
+    {
+     "k": "C",
+     "en": "Lime water",
+     "ur": "لائم واٹر"
+    },
+    {
+     "k": "D",
+     "en": "Quick lime",
+     "ur": "ان بجھا چونا"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Water molecule is composed of:",
+   "q_ur": "پانی کا مالیکیول بنا ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Oxygen & Helium",
+     "ur": "آکسیجن اور ہیلیم"
+    },
+    {
+     "k": "B",
+     "en": "Oxygen & Hydrogen",
+     "ur": "آکسیجن اور ہائیڈروجن"
+    },
+    {
+     "k": "C",
+     "en": "Hydrogen & Helium",
+     "ur": "ہائیڈروجن اور ہیلیم"
+    },
+    {
+     "k": "D",
+     "en": "Oxygen & Nitrogen",
+     "ur": "آکسیجن اور نائٹروجن"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "When CO₂ is passed through the ammonical brine, the only salt that precipitate is:",
+   "q_ur": "جب امونیکل برائن سے CO₂ گزارا جاتا ہے تو کون سا نمک بنتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "NH₄HCO₃",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NaHCO₃ [best read]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Na₂CO₃ [best read]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(NH₄)₂ CO₃",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "One of the following is used as jet fuel:",
+   "q_ur": "ذیل میں سے ایک بطور جیٹ فیول استعمال ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Kerosene oil",
+     "ur": "مٹی کا تیل [best read]"
+    },
+    {
+     "k": "B",
+     "en": "Lubricating oil",
+     "ur": "لبریکیٹنگ آئل"
+    },
+    {
+     "k": "C",
+     "en": "Fuel oil",
+     "ur": "فیول آئل"
+    },
+    {
+     "k": "D",
+     "en": "Petroleum coke",
+     "ur": "پٹرولیم کوک"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "KC is equal to:",
+   "q_ur": "Kc برابر ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Rf/Rr",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Rr/Rf",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Kf/Kr",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Kr/Kf",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Arrhenius concept is applicable in: [best read]",
+   "q_ur": "ارھینیس نظریہ موزوں ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Non-aqueous medium",
+     "ur": "نان ایکوئس میڈیم"
+    },
+    {
+     "k": "B",
+     "en": "Aqueous medium",
+     "ur": "ایکوئس میڈیم"
+    },
+    {
+     "k": "C",
+     "en": "Alcoholic medium",
+     "ur": "الکوحلک میڈیم"
+    },
+    {
+     "k": "D",
+     "en": "Basic medium",
+     "ur": "بیسک میڈیم"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Acetic acid is used for:",
+   "q_ur": "ایسیٹک ایسڈ استعمال ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Flavoring of food",
+     "ur": "خوراک کو خوش ذائقہ بنانے کے لئے"
+    },
+    {
+     "k": "B",
+     "en": "Making explosives",
+     "ur": "دھماکہ خیز اشیاء بنانے کے لئے"
+    },
+    {
+     "k": "C",
+     "en": "Etching designs",
+     "ur": "نقش و نگار بنانے کے لئے"
+    },
+    {
+     "k": "D",
+     "en": "Cleaning metals",
+     "ur": "دھاتوں کی صفائی کے لئے"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Main component of natural gas is:",
+   "q_ur": "قدرتی گیس کا اہم جزو ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Propane",
+     "ur": "پروپین"
+    },
+    {
+     "k": "B",
+     "en": "Butane",
+     "ur": "بیوٹین"
+    },
+    {
+     "k": "C",
+     "en": "Propyne",
+     "ur": "پروپائن"
+    },
+    {
+     "k": "D",
+     "en": "Methane",
+     "ur": "میتھین"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Formula of chloroform is:",
+   "q_ur": "کلوروفارم کا فارمولا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "CH₄",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CHCl₃",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CCl₄",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CH₃Cl",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "When glucose and fructose combine, they produce:",
+   "q_ur": "گلوکوز اور فرکٹوز کے ملنے سے بنتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Starch",
+     "ur": "سٹارچ"
+    },
+    {
+     "k": "B",
+     "en": "Cellulose",
+     "ur": "سیلولوز"
+    },
+    {
+     "k": "C",
+     "en": "Sucrose",
+     "ur": "سکروز"
+    },
+    {
+     "k": "D",
+     "en": "Protein",
+     "ur": "پروٹین"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,850 @@
+{
+ "board": "BISE Rawalpindi",
+ "board_slug": "rawalpindi",
+ "class": "9th",
+ "subject": "mathematics",
+ "year": 2021,
+ "slug": "rawalpindi-9th-mathematics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "H.C.F of x-2 and x²+x-6 is________.",
+   "q_ur": "H.C.F of x-2 اور x²+x-6 ______ ہے۔ [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "x²+x-6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x+3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x+2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x-2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The square root of a²-2a+1 is________.",
+   "q_ur": "a²-2a+1 کا جذر المربع ______ ہے۔ [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "±(a+1)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a+1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "±(a-1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "x=0 is a solution of the inequality________.",
+   "q_ur": "x=0 غیر مساوات ______ کا حل ہے۔ [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "x>0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3x+5<0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x+2<0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x-2<0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Point (-3,-3) lies in quadrant________.",
+   "q_ur": "نقطہ (-3,-3) ______ ربع میں واقع ہے۔ [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "I",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "III",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "II",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "IV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Mid-point of the points (2,-2) and (-2,2) is________.",
+   "q_ur": "نقطہ (2,-2) اور (-2,2) کا درمیانی نقطہ ______ ہے۔ [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "(2,2)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(0,0)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(-2,2)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(1,1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The right bisectors of the three sides of a triangle are________.",
+   "q_ur": "مثلث کے تینوں اضلاع کے عمودی ناصف ______ ہوتے ہیں۔ [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "congruent",
+     "ur": "ہم مثل"
+    },
+    {
+     "k": "B",
+     "en": "collinear",
+     "ur": "ہم خط"
+    },
+    {
+     "k": "C",
+     "en": "concurrent",
+     "ur": "ہم نقطہ"
+    },
+    {
+     "k": "D",
+     "en": "parallel",
+     "ur": "متوازی"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The medians of triangle cut each other in the ratio________.",
+   "q_ur": "مثلث کے میڈینز ایک دوسرے کو ______ کی نسبت میں تقسیم کرتے ہیں۔ [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "2:1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3:1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4:1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1:1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Which is order of a square matrix?",
+   "q_ur": "مربع میٹرکس کا آرڈر کون سا ہے؟ [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "2-by-2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1-by-2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2-by-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3-by-2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Product of [x y][2; -1] is:",
+   "q_ur": "[x y][2; -1] کا حاصل ضرب ______ ہے۔ [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "[2x+y]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[x-2y]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[2x-y]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[x+2y]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Write 4^(3/2) in exponential form.",
+   "q_ur": "4^(3/2) کو ایکسپونینشل فارم میں لکھیے۔ [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "³√4²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "√4³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "³√4³",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√4⁶",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The value of i⁹ is:",
+   "q_ur": "i⁹ کی قیمت ہے۔ [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-i",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "+i",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "If aˣ = n, than________.",
+   "q_ur": "اگر aˣ = n ہو تو ______: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "a = logₓn",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x = logₙa",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x = logₐn",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a = logₙx",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "log(mⁿ) can be written as:",
+   "q_ur": "log(mⁿ) کو ______ بھی لکھا جا سکتا ہے۔ [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "(log m)ⁿ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "m log n",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "n log m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "log(mn)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "Conjugate of Surd a+√b is ________.",
+   "q_ur": "مقدارِ اصم a+√b کا زوج ______ ہے۔ [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "-a+√b",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a-√b",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√a+√b",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√a-√b",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "What will be added to complete the square of 9a²-12ab?",
+   "q_ur": "9a²-12ab کے مربع کو مکمل کرنے کے لیے کیا جمع کریں گے؟ [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "-16b²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "16b²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-4b²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4b²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Order of transpose of [2 1; 0 1; 3 2] is:",
+   "q_ur": "[2 1; 0 1; 3 2] کے ٹرانسپوز کا آرڈر ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "3-by-2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2-by-3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1-by-3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3-by-1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "[√2 0; 0 √2] is called ________ matrix.",
+   "q_ur": "[√2 0; 0 √2] کو ________ میٹرکس کہا جاتا ہے۔ [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "zero",
+     "ur": "صفری"
+    },
+    {
+     "k": "B",
+     "en": "unit",
+     "ur": "وحدانی"
+    },
+    {
+     "k": "C",
+     "en": "scalar",
+     "ur": "سکیلر"
+    },
+    {
+     "k": "D",
+     "en": "singular",
+     "ur": "سنگولر"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Write ⁷√x in an exponential form.",
+   "q_ur": "⁷√x کو ایکسپونینشل فارم میں لکھیے۔ [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x⁷",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x^(1/7)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x^(7/2)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Which set have the closure property w.r.t addition?",
+   "q_ur": "کون سا سیٹ جمع کے لحاظ سے کلوزر خاصیت کا حامل ہے؟ [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "{0}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{0,-1}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{0,1}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{1, √2, 1/2}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "log e = ..........., where e ≈ 2.718.",
+   "q_ur": "log e = _______ جبکہ e ≈ 2.718 [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.4343",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "∞",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "log_y x will be equal to ________.",
+   "q_ur": "log_y x ______ کے برابر ہوگا۔ [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "log_z x / log_y z",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "log_x z / log_y z",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "log_z x / log_z y",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "log_z y / log_z x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "(√a+√b)(√a-√b) is equal to:",
+   "q_ur": "(√a+√b)(√a-√b) ______ کے برابر ہے۔ [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "a-b",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a²+b²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a²-b²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a+b",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Factors of a⁴-4b⁴ are ________.",
+   "q_ur": "a⁴-4b⁴ کے اجزائے ضربی ______ ہیں۔ [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "(a-b), (a+b), (a²+4b²)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(a-2b), (a²+2b²)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(a-b), (a+b), (a²-4b²)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(a²-2b²), (a²+2b²)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "H.C.F of a²-b² and a³-b³ is ________.",
+   "q_ur": "a²-b² اور a³-b³ کا عادِ اعظم ______ ہے۔ [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "a-b",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a+b",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a²+ab+b²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a²-ab+b²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "L.C.M of 15x², 45xy and 30xyz is ________.",
+   "q_ur": "15x²، 45xy اور 30xyz کا ذواضعاف اقل ______ ہے۔ [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "90xyz",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "90x²yz",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "15xyz",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "15x²yz",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "If x is no larger than 10, then ________.",
+   "q_ur": "اگر x کی قیمت 10 سے بڑی نہ ہو تو ______ [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "x ≥ 8",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x ≤ 10",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x < 10",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x > 10",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "If (x-1, y+1) = (0,0), then (x,y) is:",
+   "q_ur": "اگر (x-1, y+1) = (0,0) ہو تو (x,y) ______ ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "(1,-1)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(-1,1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(1,1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(-1,-1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "Distance between the points (1,0) and (0,1) is ________.",
+   "q_ur": "نقطوں (1,0) اور (0,1) کا درمیانی فاصلہ ______ ہے۔ [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "The right bisectors of the three sides of a triangle are ________.",
+   "q_ur": "مثلث کے تینوں اضلاع کے عمودی ناصف ______ ہوتے ہیں۔ [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "congruent",
+     "ur": "ہم مثل"
+    },
+    {
+     "k": "B",
+     "en": "collinear",
+     "ur": "ہم خط"
+    },
+    {
+     "k": "C",
+     "en": "concurrent",
+     "ur": "ہم نقطہ"
+    },
+    {
+     "k": "D",
+     "en": "parallel",
+     "ur": "متوازی"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "If two medians of a triangle are congruent then the triangle will be:",
+   "q_ur": "اگر ایک مثلث کے دو میڈین ہم مثل ہوں تو وہ مثلث ______ ہوگی: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "isosceles",
+     "ur": "متساوی الساقین"
+    },
+    {
+     "k": "B",
+     "en": "equilateral",
+     "ur": "متساوی الاضلاع"
+    },
+    {
+     "k": "C",
+     "en": "right angled",
+     "ur": "قائمۃ الزاویہ"
+    },
+    {
+     "k": "D",
+     "en": "acute angled",
+     "ur": "حادۃ الزاویہ"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,570 @@
+{
+ "board": "BISE Rawalpindi",
+ "board_slug": "rawalpindi",
+ "class": "10th",
+ "subject": "computer-science",
+ "year": 2021,
+ "slug": "rawalpindi-10th-computer-science-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Which of the following is not a valid subscript?",
+   "q_ur": "درج ذیل میں کون سا درست سب اسکرپٹ نہیں ہے؟ [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "NUM(10)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A(-2)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A(2)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "B(4)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The INT is:",
+   "q_ur": "INT ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Built-in function",
+     "ur": "بلٹ ان فنکشن"
+    },
+    {
+     "k": "B",
+     "en": "User defined function",
+     "ur": "یوزر ڈیفائنڈ فنکشن"
+    },
+    {
+     "k": "C",
+     "en": "Local function",
+     "ur": "لوکل فنکشن"
+    },
+    {
+     "k": "D",
+     "en": "Function",
+     "ur": "فنکشن"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "A value given to a function is known as:",
+   "q_ur": "کسی فنکشن کو دی گئی قیمت کہلاتی ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Arguments",
+     "ur": "آرگومنٹس"
+    },
+    {
+     "k": "B",
+     "en": "Parameters",
+     "ur": "پیرامیٹرز"
+    },
+    {
+     "k": "C",
+     "en": "Input",
+     "ur": "ان پٹ"
+    },
+    {
+     "k": "D",
+     "en": "Output",
+     "ur": "آؤٹ پٹ"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Normally the computer monitor screen is in:",
+   "q_ur": "عام طور پر کمپیوٹر مانیٹر اسکرین ہوتی ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Graphic mode",
+     "ur": "گرافک موڈ میں"
+    },
+    {
+     "k": "B",
+     "en": "Text mode",
+     "ur": "ٹیکسٹ موڈ میں"
+    },
+    {
+     "k": "C",
+     "en": "SCREEN Statement",
+     "ur": "اسکرین اسٹیٹمنٹ"
+    },
+    {
+     "k": "D",
+     "en": "COLOR Statement",
+     "ur": "کلر اسٹیٹمنٹ"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Division by zero is:",
+   "q_ur": "صفر سے تقسیم ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Syntax error",
+     "ur": "سینٹیکس ایرر"
+    },
+    {
+     "k": "B",
+     "en": "Logical error",
+     "ur": "لوجیکل ایرر"
+    },
+    {
+     "k": "C",
+     "en": "Runtime error",
+     "ur": "رن ٹائم ایرر"
+    },
+    {
+     "k": "D",
+     "en": "Not an error",
+     "ur": "کوئی ایرر نہیں"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "GW-BASIC can operate in:",
+   "q_ur": "جی ڈبلیو بیسک آپریٹ کر سکتی ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "one mode",
+     "ur": "ایک موڈ میں"
+    },
+    {
+     "k": "B",
+     "en": "two modes",
+     "ur": "دو موڈز میں"
+    },
+    {
+     "k": "C",
+     "en": "three modes",
+     "ur": "تین موڈز میں"
+    },
+    {
+     "k": "D",
+     "en": "several modes",
+     "ur": "کئی موڈز میں"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The extension of GW-BASIC program is:",
+   "q_ur": "جی ڈبلیو بیسک پروگرام کی ایکسٹینشن ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": ".bas",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": ".bs",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": ".doc",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": ".txt",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Which control structure is used for decision making in GW-BASIC?",
+   "q_ur": "جی ڈبلیو بیسک میں ڈیسیژن میکنگ کے لیے کون سا کنٹرول اسٹرکچر استعمال ہوتا ہے؟ [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Loop",
+     "ur": "لوپ"
+    },
+    {
+     "k": "B",
+     "en": "Condition",
+     "ur": "کنڈیشن"
+    },
+    {
+     "k": "C",
+     "en": "Selection",
+     "ur": "سلیکشن"
+    },
+    {
+     "k": "D",
+     "en": "Sequence",
+     "ur": "ترتیب"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "A loop within another loop is called:",
+   "q_ur": "لوپ کے اندر لوپ کہلاتا ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nested Loop",
+     "ur": "نیسٹڈ لوپ"
+    },
+    {
+     "k": "B",
+     "en": "FOR....NEXT loop",
+     "ur": "FOR....NEXT لوپ"
+    },
+    {
+     "k": "C",
+     "en": "WHILE....WEND loop",
+     "ur": "WHILE....WEND لوپ"
+    },
+    {
+     "k": "D",
+     "en": "Selection Structure",
+     "ur": "سلیکشن اسٹرکچر"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The index of each element in the array is:",
+   "q_ur": "ارے کے ہر ایلیمنٹ کا انڈیکس ہوتا ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Unique",
+     "ur": "منفرد"
+    },
+    {
+     "k": "B",
+     "en": "Similar",
+     "ur": "یکساں"
+    },
+    {
+     "k": "C",
+     "en": "Odd",
+     "ur": "طاق"
+    },
+    {
+     "k": "D",
+     "en": "Even",
+     "ur": "جفت"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Output of print VAL(\"78,city Lahore\") is:",
+   "q_ur": "Print VAL(\"78,city Lahore\") کی آؤٹ پٹ ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "city Lahore",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "78 city",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "78",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "78 Lahore",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Which function changes the way of displaying output in BASIC?",
+   "q_ur": "بیسک میں آؤٹ پٹ ظاہر کرنے کا طریقہ کون سا فنکشن تبدیل کرتا ہے؟ [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "SCREEN",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "PRINT",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "LEFT$",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ABS",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "The diamond symbol represents the:",
+   "q_ur": "ڈائمنڈ علامت ظاہر کرتی ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Input/output",
+     "ur": "ان پٹ/آؤٹ پٹ"
+    },
+    {
+     "k": "B",
+     "en": "Decision making",
+     "ur": "فیصلہ سازی"
+    },
+    {
+     "k": "C",
+     "en": "Processing",
+     "ur": "پراسیسنگ"
+    },
+    {
+     "k": "D",
+     "en": "Remarks",
+     "ur": "ریمارکس"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "MOD is a:",
+   "q_ur": "MOD ہے ایک: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Logical Operator",
+     "ur": "لوجیکل آپریٹر"
+    },
+    {
+     "k": "B",
+     "en": "Arithmetic operator",
+     "ur": "ارتھ میٹک آپریٹر"
+    },
+    {
+     "k": "C",
+     "en": "concatenation operator [sic]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Assignment operator",
+     "ur": "اسائنمنٹ آپریٹر"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Which of the following key is used to load a file in BASIC?",
+   "q_ur": "بیسک میں فائل کو لوڈ کرنے کے لیے درج ذیل میں سے کون سی کی استعمال کی جاتی ہے؟ [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "F3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "F4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "F2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "F1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Sequence control structure is used to execute _____:",
+   "q_ur": "ترتیب کنٹرول اسٹرکچر ______ چلانے کے لیے استعمال ہوتا ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Loop",
+     "ur": "لوپ"
+    },
+    {
+     "k": "B",
+     "en": "Instructions in order",
+     "ur": "ہدایات کو ترتیب سے"
+    },
+    {
+     "k": "C",
+     "en": "IF...THEN",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Logical Instruction",
+     "ur": "لوجیکل ہدایات"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "IF...THEN statement is a ______ statement:",
+   "q_ur": "IF...THEN اسٹیٹمنٹ ایک ______ اسٹیٹمنٹ ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "decision making",
+     "ur": "فیصلہ کرنے والی"
+    },
+    {
+     "k": "B",
+     "en": "sequential",
+     "ur": "ترتیب والی"
+    },
+    {
+     "k": "C",
+     "en": "loop",
+     "ur": "لوپ"
+    },
+    {
+     "k": "D",
+     "en": "logical",
+     "ur": "لوجیکل"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Maximum number of elements per dimension is:",
+   "q_ur": "ایک ڈائمینشن کے ارکان کی زیادہ سے زیادہ تعداد ہوتی ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "255",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "32767",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "none of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Linear array is also called a ______:",
+   "q_ur": "لینیر ارے کو ایک ______ بھی کہا جاتا ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Vector array",
+     "ur": "ویکٹر ارے"
+    },
+    {
+     "k": "B",
+     "en": "Two-dimensional array",
+     "ur": "دو جہتی ارے"
+    },
+    {
+     "k": "C",
+     "en": "3-dimensional array",
+     "ur": "تین جہتی ارے"
+    },
+    {
+     "k": "D",
+     "en": "Filling array",
+     "ur": "فلنگ ارے"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "The output of print \"ABS(-15)\" is:",
+   "q_ur": "Print \"ABS(-15)\" کی آؤٹ پٹ ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "15",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-15",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "15.5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-15.5",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

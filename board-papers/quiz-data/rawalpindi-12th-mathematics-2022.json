@@ -1,0 +1,570 @@
+{
+ "board": "BISE Rawalpindi",
+ "board_slug": "rawalpindi",
+ "class": "12th",
+ "subject": "mathematics",
+ "year": 2022,
+ "slug": "rawalpindi-12th-mathematics-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Single Group",
+   "q_en": "∫sec x dx = ______ [numbered \"1.1.\" as printed]",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ln|sec x - tan x| + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ln|sec x + cot x| + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ln|sec x + cosec x| + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ln|sec x + tan x| + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Single Group",
+   "q_en": "∫₀¹|x|dx = ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Single Group",
+   "q_en": "Solve (1/y)dy = (1/x)dx",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "y = xc",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "y = -xc",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "y = x² + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "xy = c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Single Group",
+   "q_en": "Distance between A(-1, 2) and C(2, -6) is ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "√73",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "√70",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Single Group",
+   "q_en": "If m₁ = m₂ then lines are ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "perpendicular",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "not parallel",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "parallel",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "neither parallel nor perpendicular",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Single Group",
+   "q_en": "Slope of 12x + 35y - 7 = 0 is ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "12/35",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-12/35",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/35",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "12",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Single Group",
+   "q_en": "Normal form of x + y = 1 is ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x cos π/3 + y sin π/3 = 1/√2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x cos π/2 + y sin π/2 = 1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x cos π/4 + y sin π/4 = 1/√2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x + y = 2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Single Group",
+   "q_en": "If P(x,y) = 40x + 50y then P(1, -1) = ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "40",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "50",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-10",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Single Group",
+   "q_en": "Centre of 5x² + 5y² + 24x + 36y + 10 = 0 is ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(-12, -18)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(-12/5, -18/5)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(12, 18)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(-12, 18)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Single Group",
+   "q_en": "Axis of y² = -4ax is ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "y = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "y = a",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x = 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x = a",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Single Group",
+   "q_en": "Vertices of x²/a² + y²/b² = 1 is ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(±b, 0)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(a, b)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(±a, 0)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(-a, -b)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Single Group",
+   "q_en": "Scalar triple product of coplanar vectors is ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Single Group",
+   "q_en": "2i x 2j . 2k = ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "16",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Single Group",
+   "q_en": "Which one is even function",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "sin x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "cos x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "tan x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x¹⁰¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Single Group",
+   "q_en": "If f(x) = √(x²-9); then range of f(x) is ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(0, -∞)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(-∞, ∞)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(-5, 5)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(0, +∞)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Single Group",
+   "q_en": "d/dx 2ˣ = ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2ˣ ln 2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2ˣ ln e",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2ˣ ln 4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x 2ˣ⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Single Group",
+   "q_en": "Leibniz used ______ notation for derivative.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "D f(x)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "f'(x)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "D f(x)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "dy/dx",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Single Group",
+   "q_en": "d/dx (cosec 7x) = ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "cosec 7x cot 7x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-cosec x cot x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-7cosec 7x cot 7x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "cosec 7x tan 7x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Single Group",
+   "q_en": "Which one is decreasing function",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2 - 4x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4x - 2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4x + 5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Single Group",
+   "q_en": "d(xy) = ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "xdx + ydy",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(x + y)dx",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "xdy + ydx",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "xdy - ydx",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

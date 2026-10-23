@@ -1,0 +1,486 @@
+{
+ "board": "BISE Rawalpindi",
+ "board_slug": "rawalpindi",
+ "class": "12th",
+ "subject": "physics",
+ "year": 2023,
+ "slug": "rawalpindi-12th-physics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The basic circuit element in a D.C circuit is: [numbered 1.1 as printed]",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Capacitor",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Inductor",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Battery",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Resistor",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The critical temperature of mercury is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4.2 k",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.18 k",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3.72 k",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "7.2 k",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The open loop gain of op-amplifier is of the order of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10⁵",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10⁴",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "X = A + B is the mathematical notation for:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "AND gate",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "OR gate",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NOR gate",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NAND gate",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The momentum of a moving photon is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "P = h/λ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "P = λ/h",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "P = hf",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "P = mc²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Pair production can take place by using:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "X-rays",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "α-rays",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "β-rays",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "γ-rays",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The value of Ryd berg's [sic] constant is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.0974 × 10⁷ m⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.0974 × 10⁻⁷ m⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.0974 × 10⁻⁷ m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.0974 × 10⁷ m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Half life of uranium -238 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4.5 × 10¹² years",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4.5 × 10¹¹ years",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4.5 × 10¹⁰ years",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4.5 × 10⁹ years",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The potential difference between anode and cathode in a neon bromine filled G.M counter is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "200 v",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "300 v",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "400 v",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "220 v",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The number of electron in one coulomb charge is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "6.2 × 10¹⁸",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.6 × 10⁻¹⁹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6.2 × 10²¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.6 × 10⁻²⁷",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The S-I [sic] unit of electric flux is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nmc⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Nm²c⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Nm²c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nm⁻²c⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "A rheostat can be used as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Transformer",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Amplifier",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Oscillator",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Potential divider",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Lorentz force is known as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "F⃗ = I(L⃗ × B⃗)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "F⃗ = q(v⃗ × B⃗)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "F⃗ = qE⃗ + q(v⃗ × B⃗)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "F⃗ = qE⃗",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "DMM stands for:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Digital millimeter",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Digital multimeter",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Digital measuring meter",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Digital ammeter",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "When the back emf in a circuit is zero it draws:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero current",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Steady average current",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Minimum current",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Maximum current",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "The principle of AC generator is based on:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mutual induction",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Self induction",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Electromagnetic induction",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "The graph between A.C voltage with time is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cosine curve",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Tangent curve",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Sine curve",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cot curve",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

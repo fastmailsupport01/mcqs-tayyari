@@ -1,0 +1,682 @@
+{
+ "board": "BISE Rawalpindi",
+ "board_slug": "rawalpindi",
+ "class": "9th",
+ "subject": "chemistry",
+ "year": 2023,
+ "slug": "rawalpindi-9th-chemistry-2023",
+ "questions": [
+  {
+   "n": "1.1",
+   "group": "Group I",
+   "q_en": "The symbol of Avogadro's number is :",
+   "q_ur": "ایوگاڈرو نمبر کی علامت ---- ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "n₀",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Nₐ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "nₐ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "N₀",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The components of one of the following can be separated by physical means:",
+   "q_ur": "درج ذیل میں سے کس ایک کے اجزاء کو طبعی طریقوں سے الگ کیا جا سکتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mixture",
+     "ur": "مکسچر"
+    },
+    {
+     "k": "B",
+     "en": "Element",
+     "ur": "ایلیمنٹ"
+    },
+    {
+     "k": "C",
+     "en": "Compound",
+     "ur": "کمپاؤنڈ"
+    },
+    {
+     "k": "D",
+     "en": "Radical",
+     "ur": "ریڈیکل"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Proton are discovered by :",
+   "q_ur": "پروٹان کو ---- نے دریافت کیا۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Gold Stein",
+     "ur": "گولڈ سٹائن"
+    },
+    {
+     "k": "B",
+     "en": "J. J. Thomson",
+     "ur": "جے جے تھامسن"
+    },
+    {
+     "k": "C",
+     "en": "Neil Bohr",
+     "ur": "نیل بوہر"
+    },
+    {
+     "k": "D",
+     "en": "Rutherford",
+     "ur": "ردرفورڈ"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Sixth (6th) Period contains ____ elements.",
+   "q_ur": "چھٹے (6th) پیریڈ میں ایلیمنٹس کی تعداد ---- ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "18",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "32",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Triple covalent bond formation involves ____ electrons.",
+   "q_ur": "ٹرپل کوویلنٹ بانڈ بنانے میں ---- الیکٹرانز حصہ لیتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Identify the compound which is not soluble in water.",
+   "q_ur": "اس کمپاؤنڈ کی نشاندہی کریں جو پانی میں حل پذیر نہیں ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "C₆H₆",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NaCl",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "KBr",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "MgCl₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Point out non amorphous compound of the following:",
+   "q_ur": "درج ذیل میں سے نان ایمورفس ٹھوس کی نشاندہی کیجئے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Rubber",
+     "ur": "ربڑ"
+    },
+    {
+     "k": "B",
+     "en": "Plastic",
+     "ur": "پلاسٹک"
+    },
+    {
+     "k": "C",
+     "en": "Glass",
+     "ur": "گلاس"
+    },
+    {
+     "k": "D",
+     "en": "Glucose",
+     "ur": "گلوکوز"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Mist is an example of solution:",
+   "q_ur": "مسٹ ---- سلوشن کی مثال ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Liquid in gas",
+     "ur": "گیس میں مائع"
+    },
+    {
+     "k": "B",
+     "en": "Gas in liquid",
+     "ur": "مائع میں گیس"
+    },
+    {
+     "k": "C",
+     "en": "Solid in gas",
+     "ur": "گیس میں ٹھوس"
+    },
+    {
+     "k": "D",
+     "en": "Gas in solid",
+     "ur": "ٹھوس میں گیس"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Indicate a solution having more water.",
+   "q_ur": "اس سلوشن کی شناخت کریں جس میں پانی زیادہ ہو۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "2M",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1M",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.5M",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.25M",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The oxidation number of Chlorine in HCl is :",
+   "q_ur": "HCl میں کلورین کا آکسیڈیشن نمبر ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "+1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "+2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Which one of the following is not an electrolyte?",
+   "q_ur": "درج ذیل میں سے ایک الیکٹرولائٹ نہیں ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sugar Solution",
+     "ur": "شوگر سلوشن"
+    },
+    {
+     "k": "B",
+     "en": "Sulphuric Acid Solution",
+     "ur": "سلفیورک ایسڈ سلوشن"
+    },
+    {
+     "k": "C",
+     "en": "Lime Solution",
+     "ur": "لائم سلوشن"
+    },
+    {
+     "k": "D",
+     "en": "Sodium Chloride Solution",
+     "ur": "سوڈیم کلورائیڈ سلوشن"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "[Ne] 3S¹ is an electronic configuration of:",
+   "q_ur": "[Ne] 3S¹ ---- کی ایک الیکٹرانک کنفیگریشن ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Li",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Na",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "K",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cs",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "1.1",
+   "group": "Group II",
+   "q_en": "Formula mass of potassium sulphate (K₂SO₄) is:",
+   "q_ur": "پوٹاشیم سلفیٹ (K₂SO₄) کا فارمولا ماس ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "110 amu",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "174 amu",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "130 amu",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "200 amu",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "One of the given can be separated by physical means into its components:",
+   "q_ur": "دیے گئے میں سے ---- کے اجزاء کو طبعی طریقوں سے الگ کیا جا سکتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mixtures",
+     "ur": "مکسچر"
+    },
+    {
+     "k": "B",
+     "en": "Elements",
+     "ur": "ایلیمنٹس"
+    },
+    {
+     "k": "C",
+     "en": "Compounds",
+     "ur": "کمپاؤنڈز"
+    },
+    {
+     "k": "D",
+     "en": "Radical",
+     "ur": "ریڈیکل"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Deuterium is an isotope of element :",
+   "q_ur": "ڈیوٹیریم ---- ایلیمنٹ کا آئسوٹوپ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Carbon",
+     "ur": "کاربن"
+    },
+    {
+     "k": "B",
+     "en": "Hydrogen",
+     "ur": "ہائیڈروجن"
+    },
+    {
+     "k": "C",
+     "en": "Chlorine",
+     "ur": "کلورین"
+    },
+    {
+     "k": "D",
+     "en": "Iodine",
+     "ur": "آئیوڈین"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Transition elements are :-",
+   "q_ur": "ٹرانزیشن ایلیمنٹس ہوتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "All gases",
+     "ur": "تمام گیسیں"
+    },
+    {
+     "k": "B",
+     "en": "All non metals",
+     "ur": "تمام نان میٹلز"
+    },
+    {
+     "k": "C",
+     "en": "All metals",
+     "ur": "تمام میٹلز"
+    },
+    {
+     "k": "D",
+     "en": "All metalloids",
+     "ur": "تمام میٹلائیڈز"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Hydrogen bonding is represented by ____ line.",
+   "q_ur": "ہائیڈروجن بانڈنگ کو ---- لائن سے ظاہر کیا جاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Dotted",
+     "ur": "نقطہ دار"
+    },
+    {
+     "k": "B",
+     "en": "Single",
+     "ur": "سنگل"
+    },
+    {
+     "k": "C",
+     "en": "Double",
+     "ur": "ڈبل"
+    },
+    {
+     "k": "D",
+     "en": "Triple",
+     "ur": "ٹرپل"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "One is a polar molecule ;",
+   "q_ur": "ان میں سے ---- پولر مالیکیول ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "O₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cl₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "HCl",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "H₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "The instrument used to measure pressure in laboratory is :",
+   "q_ur": "لیبارٹری میں پریشر ماپنے کے لیے ---- استعمال کیا جاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Manometer",
+     "ur": "مینومیٹر"
+    },
+    {
+     "k": "B",
+     "en": "Barometer",
+     "ur": "بیرومیٹر"
+    },
+    {
+     "k": "C",
+     "en": "Altimeter",
+     "ur": "الٹی میٹر"
+    },
+    {
+     "k": "D",
+     "en": "Galvanometer",
+     "ur": "گیلوانومیٹر"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "One is a universal solvent :",
+   "q_ur": "---- ایک یونیورسل سالونٹ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ether",
+     "ur": "ایتھر"
+    },
+    {
+     "k": "B",
+     "en": "Water",
+     "ur": "پانی"
+    },
+    {
+     "k": "C",
+     "en": "Sodium carbonate",
+     "ur": "سوڈیم کاربونیٹ"
+    },
+    {
+     "k": "D",
+     "en": "Sulphur",
+     "ur": "سلفر"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Solubility of ____ salt increases with increase in temperature:",
+   "q_ur": "---- سالٹ کی سالوبیلٹی ٹمپریچر کے بڑھنے سے بڑھتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "NaCl",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ce(SO₄)₃",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Li₂SO₄",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NaNO₃",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "The oxidation number of sulphur in H₂SO₄ is :",
+   "q_ur": "H₂SO₄ میں سلفر کا آکسیڈیشن نمبر ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "+4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "+2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "+7",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "+6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "How many types of electro chemical cells are?",
+   "q_ur": "الیکٹرو کیمیکل سیل کی ---- اقسام ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "One of the following metals is heaviest :",
+   "q_ur": "ان دھاتوں میں سب سے بھاری دھات ---- ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Osmium",
+     "ur": "اوسمیم"
+    },
+    {
+     "k": "B",
+     "en": "Platinum",
+     "ur": "پلاٹینم"
+    },
+    {
+     "k": "C",
+     "en": "Uranium",
+     "ur": "یورینیم"
+    },
+    {
+     "k": "D",
+     "en": "Cesium",
+     "ur": "سیزیم"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,430 @@
+{
+ "board": "BISE Rawalpindi",
+ "board_slug": "rawalpindi",
+ "class": "11th",
+ "subject": "computer-science",
+ "year": 2021,
+ "slug": "rawalpindi-11th-computer-science-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Combined (all sessions)",
+   "q_en": "Product, promotion, place and price relates to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Marketing",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Banks",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Stock Exchange",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Departmental store",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Combined (all sessions)",
+   "q_en": "How many types of language processors are there?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Combined (all sessions)",
+   "q_en": "CPU's communication with peripheral devices are handled by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Main Memory",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Input output unit",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Read only memory",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Control Unit",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Combined (all sessions)",
+   "q_en": "Making illegal copies of software is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Software legacy",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Software threat",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Software piracy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Software privacy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Combined (all sessions)",
+   "q_en": "A feature of operating system that automatically detect new hardware device is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Multitasking",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Windows explorer",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Networking",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Plug and play",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Combined (all sessions)",
+   "q_en": "A storage area maintain [sic] by windows on hard disk for storing deleted items is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Recycle Bin",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Internet Explorer",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Desktop",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "My Documents",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Combined (all sessions)",
+   "q_en": "Which of the following features of MS-Word is used to duplicate a section of text?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Replace",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Copy",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cut",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Paste",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Combined (all sessions)",
+   "q_en": "Which of the following is an absolute address of a cell in MS-Excel?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "B1$",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "B$1$",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "$B$1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "$B1$",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Combined (all sessions)",
+   "q_en": "The length of an IP address is composed of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "8 bits",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "16 bits",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "24 bits",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "32 bits",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Combined (all sessions)",
+   "q_en": "Which of the following is an example of System Software?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "MS-Word",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "MS-Excel",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Operating System",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Text Editor",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Combined (all sessions)",
+   "q_en": "Which of the following is the largest data unit?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Gigabyte",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Megabyte",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Kilobyte",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Terabyte",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Combined (all sessions)",
+   "q_en": "Which layer of OSI Model does data compression?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Presentation layer",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Network layer",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Session layer",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Transport layer",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Combined (all sessions)",
+   "q_en": "One or more Computers connected to a hub computer is a:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ring Network",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Star Network",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mesh Network",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Information Utility",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Combined (all sessions)",
+   "q_en": "Data is transmitted block by block in the:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Serial transmission",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Parallel transmission",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Asynchronous transmission",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Synchronous transmission",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Combined (all sessions)",
+   "q_en": "The electromagnetic or light waves that represent data are called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Waves",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Pulse",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Signals",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Information",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

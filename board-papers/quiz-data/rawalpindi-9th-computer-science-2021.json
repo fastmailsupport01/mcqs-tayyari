@@ -1,0 +1,570 @@
+{
+ "board": "BISE Rawalpindi",
+ "board_slug": "rawalpindi",
+ "class": "9th",
+ "subject": "computer-science",
+ "year": 2021,
+ "slug": "rawalpindi-9th-computer-science-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The IPV4 [sic] address is made up of ________ binary bits:",
+   "q_ur": "IPV4 ایڈریس ________ بائنری بٹس سے بنتا ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "31",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "29",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "32",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "30",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "E-mail stands for ________.",
+   "q_ur": "ای میل کا مخفف ________ ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electrical mail",
+     "ur": "الیکٹریکل میل"
+    },
+    {
+     "k": "B",
+     "en": "Electronic mail",
+     "ur": "الیکٹرانک میل"
+    },
+    {
+     "k": "C",
+     "en": "Electronic medium",
+     "ur": "الیکٹرانک میڈیم"
+    },
+    {
+     "k": "D",
+     "en": "Electronic message",
+     "ur": "الیکٹرانک میسج"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Making illegal copies of software is called ________.",
+   "q_ur": "سافٹ ویئر کی غیر قانونی نقل بنانا ________ کہلاتا ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hacking",
+     "ur": "ہیکنگ"
+    },
+    {
+     "k": "B",
+     "en": "Piracy",
+     "ur": "پائریسی"
+    },
+    {
+     "k": "C",
+     "en": "Counterfeiting",
+     "ur": "جعل سازی"
+    },
+    {
+     "k": "D",
+     "en": "Sabotage",
+     "ur": "سبوتاج"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "________ is used for authentication to enter a system:",
+   "q_ur": "سسٹم میں داخلے کی تصدیق کے لیے ________ استعمال ہوتا ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Key",
+     "ur": "کی"
+    },
+    {
+     "k": "B",
+     "en": "Piracy",
+     "ur": "پائریسی"
+    },
+    {
+     "k": "C",
+     "en": "Patent",
+     "ur": "پیٹنٹ"
+    },
+    {
+     "k": "D",
+     "en": "Password",
+     "ur": "پاس ورڈ"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The ________ element is a container for meta data:",
+   "q_ur": "________ ایلیمنٹ میٹا ڈیٹا کا کنٹینر ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "<body>",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "<head>",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "<title>",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "<html>",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "________ tag is used for inserting a line break.",
+   "q_ur": "لائن بریک کے لیے ________ ٹیگ استعمال کیا جاتا ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "<br>",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "<hr>",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "<u>",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "<b>",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "________ is a graphical representation of an algorithm:",
+   "q_ur": "الگورتھم کی تصویری نمائندگی ________ ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Matrix",
+     "ur": "میٹرکس"
+    },
+    {
+     "k": "B",
+     "en": "Graph",
+     "ur": "گراف"
+    },
+    {
+     "k": "C",
+     "en": "Flowchart",
+     "ur": "فلو چارٹ"
+    },
+    {
+     "k": "D",
+     "en": "Solution",
+     "ur": "حل"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Which word refers to something spontaneous and unplanned?",
+   "q_ur": "کون سا لفظ غیر منصوبہ بند چیز کا حوالہ دیتا ہے؟ [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Act it out",
+     "ur": "ایکٹ اٹ آؤٹ"
+    },
+    {
+     "k": "B",
+     "en": "Candid solution",
+     "ur": "کینڈڈ سلوشن"
+    },
+    {
+     "k": "C",
+     "en": "Prototype",
+     "ur": "پروٹو ٹائپ"
+    },
+    {
+     "k": "D",
+     "en": "To Guess",
+     "ur": "اندازہ لگانا"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Number \"17\" is equal to ________ in binary system:",
+   "q_ur": "بائنری سسٹم میں نمبر \"17\" ________ کے برابر ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "10000",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10110",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10001",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "101000",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "________ is used to assemble more than one proposition into one proposition:",
+   "q_ur": "ایک سے زائد پروپوزیشن کو ایک پروپوزیشن میں ________ جوڑا جاتا ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Simple proposition",
+     "ur": "سمپل پروپوزیشن"
+    },
+    {
+     "k": "B",
+     "en": "Mixed proposition",
+     "ur": "مکسڈ پروپوزیشن"
+    },
+    {
+     "k": "C",
+     "en": "Compound proposition",
+     "ur": "کمپاؤنڈ پروپوزیشن"
+    },
+    {
+     "k": "D",
+     "en": "Full proposition",
+     "ur": "فل پروپوزیشن"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "________ Tag makes the enclosed text bold:",
+   "q_ur": "ٹیکسٹ کو بولڈ بنانے کے لیے ________ ٹیگ استعمال ہوتا ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "<bold>",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "<bd>",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "<br>",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "<b>",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "________ Tag makes the enclosed text underline:",
+   "q_ur": "ٹیکسٹ کے نیچے لائن کے لیے ________ ٹیگ استعمال ہوتا ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "<p>",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "<b>",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "<u>",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "<i>",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Which solutions are not reached through proper algorithms or work planning?",
+   "q_ur": "کون سا حل مناسب الگورتھم یا پلاننگ (Planning) کے بغیر حاصل کیا جاتا ہے؟ [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Prepared solution",
+     "ur": "تیار شدہ حل"
+    },
+    {
+     "k": "B",
+     "en": "Candid solution",
+     "ur": "کینڈڈ حل"
+    },
+    {
+     "k": "C",
+     "en": "Strategized solution",
+     "ur": "حکمت عملی حل"
+    },
+    {
+     "k": "D",
+     "en": "Best solution",
+     "ur": "بہترین حل"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "________ is a set of steps to solve a problem:",
+   "q_ur": "مسئلے کے حل کے لیے اقدامات کا سیٹ ________ کہلاتا ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Flowchart",
+     "ur": "فلو چارٹ"
+    },
+    {
+     "k": "B",
+     "en": "Alogrithm [sic]",
+     "ur": "الگورتھم"
+    },
+    {
+     "k": "C",
+     "en": "Guess",
+     "ur": "اندازہ"
+    },
+    {
+     "k": "D",
+     "en": "Prototype",
+     "ur": "پروٹو ٹائپ"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Number \"17\" is equal to ________ in binary system:",
+   "q_ur": "بائنری سسٹم میں نمبر \"17\" ________ کے برابر ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "10000",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10110",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10001",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10100",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "1Kb = ________ Byte:",
+   "q_ur": "1 کلو بائٹ = ________ بائٹ: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "1000",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1024",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "The receiver must be capable of accepting the ________.",
+   "q_ur": "پیغام وصول کنندہ ________ قبول کرنے کے قابل ہونا چاہیے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Protocol",
+     "ur": "پروٹوکول"
+    },
+    {
+     "k": "B",
+     "en": "message",
+     "ur": "پیغام"
+    },
+    {
+     "k": "C",
+     "en": "Adress [sic]",
+     "ur": "ایڈریس"
+    },
+    {
+     "k": "D",
+     "en": "Information",
+     "ur": "معلومات"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Routing is process of taking data from one device and seding [sic] it to another device in different ________.",
+   "q_ur": "راؤٹنگ ایک آلے سے ڈیٹا لے کر دوسرے آلے تک ________ پہنچانے کا عمل ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Channel",
+     "ur": "چینل"
+    },
+    {
+     "k": "B",
+     "en": "Network",
+     "ur": "نیٹ ورک"
+    },
+    {
+     "k": "C",
+     "en": "Path",
+     "ur": "پاتھ"
+    },
+    {
+     "k": "D",
+     "en": "Area",
+     "ur": "ایریا"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "________ is a way to protection [sic] idea.",
+   "q_ur": "کسی آئیڈیا کی حفاظت کا طریقہ ________ ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Patent",
+     "ur": "پیٹنٹ"
+    },
+    {
+     "k": "B",
+     "en": "Copyright Law",
+     "ur": "کاپی رائٹ قانون"
+    },
+    {
+     "k": "C",
+     "en": "Trade secrets",
+     "ur": "تجارتی راز"
+    },
+    {
+     "k": "D",
+     "en": "Fraud",
+     "ur": "دھوکہ"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Encoding of data is an example of ________.",
+   "q_ur": "ڈیٹا کی انکوڈنگ ________ کی مثال ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "patent",
+     "ur": "پیٹنٹ"
+    },
+    {
+     "k": "B",
+     "en": "Confidentiality",
+     "ur": "رازداری"
+    },
+    {
+     "k": "C",
+     "en": "Copyright",
+     "ur": "کاپی رائٹ"
+    },
+    {
+     "k": "D",
+     "en": "Encryption",
+     "ur": "انکرپشن"
+    }
+   ]
+  }
+ ]
+}

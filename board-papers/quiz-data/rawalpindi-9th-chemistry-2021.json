@@ -1,0 +1,682 @@
+{
+ "board": "BISE Rawalpindi",
+ "board_slug": "rawalpindi",
+ "class": "9th",
+ "subject": "chemistry",
+ "year": 2021,
+ "slug": "rawalpindi-9th-chemistry-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The atomic radius of carbon atom is:",
+   "q_ur": "کاربن ایٹم کا ایٹمی رداس ہوتا ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "70 pm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "75 pm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "77 pm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "80 pm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The transfer of electrons between atoms results:",
+   "q_ur": "ایٹموں کے درمیان الیکٹرونز کی منتقلی کا نتیجہ ہوتا ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Covalent bonding",
+     "ur": "کوویلنٹ بانڈنگ"
+    },
+    {
+     "k": "B",
+     "en": "Ionic bonding",
+     "ur": "آئیونک بانڈنگ"
+    },
+    {
+     "k": "C",
+     "en": "metallic bonding",
+     "ur": "میٹالک بانڈنگ"
+    },
+    {
+     "k": "D",
+     "en": "Coordinate covalent bonding",
+     "ur": "کوآرڈینیٹ کوویلنٹ بانڈنگ"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "How many covalent bonds does N₂ molecule have?",
+   "q_ur": "N₂ مالیکیول میں کتنے کوویلنٹ بانڈ ہوتے ہیں؟ [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Absolute zero is equal to:",
+   "q_ur": "مطلق صفر (Absolute) برابر ہوتا ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "-273⁰C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-373⁰C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "273K [partially obscured in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "373K",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Which one of the following solution contains more water?",
+   "q_ur": "درج ذیل میں سے کس سلوشن میں پانی زیادہ ہے؟ [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "2M",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1M",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.5M",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.25M",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "If 10 g of sugar is dissolved to prepare 100cm³ of solution, it is called:",
+   "q_ur": "اگر 10 گرام شوگر کو حل کر کے 100cm³ سلوشن بنایا جائے تو کہلاتا ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "% m/m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "% V/V",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "% V/m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "% m/V",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Which one of the following is not an electrolyte?",
+   "q_ur": "درج ذیل میں سے کون سا الیکٹرولائٹ نہیں ہے؟ [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sugar solution",
+     "ur": "شوگر سلوشن"
+    },
+    {
+     "k": "B",
+     "en": "Sulphuric acid solution",
+     "ur": "سلفیورک ایسڈ سلوشن"
+    },
+    {
+     "k": "C",
+     "en": "Lime solution",
+     "ur": "چونے کا سلوشن"
+    },
+    {
+     "k": "D",
+     "en": "Sodium Chloride solution",
+     "ur": "سوڈیم کلورائیڈ سلوشن"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "In the redox reaction between Zn and HCl, the reducing agent is:",
+   "q_ur": "زنک اور ہائیڈروکلورک ایسڈ کے درمیان ریڈاکس (redox) ری ایکشن میں ریڈیوسنگ ایجنٹ ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zn",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "H⁺",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cl⁻",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "H₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Which one of the following metal burns with brick red flame?",
+   "q_ur": "درج ذیل میں سے کون سی دھات اینٹ نما سرخ شعلے کے ساتھ جلتی ہے؟ [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sodium",
+     "ur": "سوڈیم"
+    },
+    {
+     "k": "B",
+     "en": "Magnesium",
+     "ur": "میگنیشیم"
+    },
+    {
+     "k": "C",
+     "en": "Iron",
+     "ur": "آئرن"
+    },
+    {
+     "k": "D",
+     "en": "Calcium",
+     "ur": "کیلشیم"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The mass of one molecule of water is:",
+   "q_ur": "پانی کے ایک مالیکیول کا ماس ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "18 g",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "18 Kg",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "18 amu",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "18 mg",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The concept of orbit was used by:",
+   "q_ur": "آربٹ کا خیال متعارف کرایا: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Rutherford",
+     "ur": "ردرفورڈ"
+    },
+    {
+     "k": "B",
+     "en": "J.J Thomson",
+     "ur": "جے جے تھامسن"
+    },
+    {
+     "k": "C",
+     "en": "Bohr",
+     "ur": "بوہر"
+    },
+    {
+     "k": "D",
+     "en": "Plank",
+     "ur": "پلانک"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Long form of periodic table is based upon:",
+   "q_ur": "لانگ فارم پیریاڈک ٹیبل کی بنیاد ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mass number",
+     "ur": "ماس نمبر"
+    },
+    {
+     "k": "B",
+     "en": "Atomic number",
+     "ur": "ایٹمی نمبر"
+    },
+    {
+     "k": "C",
+     "en": "Atomic mass",
+     "ur": "ایٹمی ماس"
+    },
+    {
+     "k": "D",
+     "en": "Mendeleev postulate",
+     "ur": "مینڈیلیف کا اصول"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "In redox reaction between Zn and HCl the oxidizing agent is:",
+   "q_ur": "زنک (Zn) اور HCl کے درمیان ریڈاکس ری ایکشن میں آکسیڈائزنگ ایجنٹ ہوتا ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zn",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "H⁺",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cl⁻",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "H₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Which is non electrolyte?",
+   "q_ur": "کون سا نان الیکٹرولائٹ ہے؟ [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "C₆H₆ [sic]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NaCl",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Na₂SO₄",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NaOH",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Which one of the following will not react with dilute HCl?",
+   "q_ur": "درج ذیل میں سے کون سا ہلکے HCl کے ساتھ ری ایکٹ نہیں کرتا؟ [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sodium",
+     "ur": "سوڈیم"
+    },
+    {
+     "k": "B",
+     "en": "Phosphorous [sic]",
+     "ur": "فاسفورس"
+    },
+    {
+     "k": "C",
+     "en": "Calcium",
+     "ur": "کیلشیم"
+    },
+    {
+     "k": "D",
+     "en": "Carbon",
+     "ur": "کاربن"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "A molecule consists of two atoms is called______molecule:",
+   "q_ur": "ایک مالیکیول جو دو ایٹموں پر مشتمل ہو ______ مالیکیول کہلاتا ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Monoatomic",
+     "ur": "مونو ایٹمک"
+    },
+    {
+     "k": "B",
+     "en": "Diatomic",
+     "ur": "ڈائی ایٹمک"
+    },
+    {
+     "k": "C",
+     "en": "Triatomic",
+     "ur": "ٹرائی ایٹمک"
+    },
+    {
+     "k": "D",
+     "en": "Tetra atomic",
+     "ur": "ٹیٹرا ایٹمک"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Neil [sic] Bohr presented atomic model in:",
+   "q_ur": "نیل بوہر نے ایٹمی ماڈل پیش کیا: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "1913",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1923",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1933",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1943",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "First period consists of mg [sic] elements:",
+   "q_ur": "پہلا پیریڈ مشتمل ہے عناصر پر: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Which one of the following helogens [sic] has lowest electronegativity?",
+   "q_ur": "درج ذیل ہیلوجنز میں سے کس کی الیکٹرونیگیٹیویٹی سب سے کم ہے؟ [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Fluorine",
+     "ur": "فلورین"
+    },
+    {
+     "k": "B",
+     "en": "Chlorine",
+     "ur": "کلورین"
+    },
+    {
+     "k": "C",
+     "en": "Bromine",
+     "ur": "برومین"
+    },
+    {
+     "k": "D",
+     "en": "Iodine",
+     "ur": "آئیوڈین"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Covalent bond involves the:",
+   "q_ur": "کوویلنٹ بانڈ میں ہوتا ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "donation of electrons",
+     "ur": "الیکٹرونز کا عطیہ"
+    },
+    {
+     "k": "B",
+     "en": "acceptance of electrons",
+     "ur": "الیکٹرونز کا قبول کرنا"
+    },
+    {
+     "k": "C",
+     "en": "Sharing of electrons",
+     "ur": "الیکٹرونز کی شراکت"
+    },
+    {
+     "k": "D",
+     "en": "Repulsion of electrons",
+     "ur": "الیکٹرونز کا دھکیلنا"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Chlorine has electrons in its valance [sic] shell:",
+   "q_ur": "کلورین کے ویلنس شیل میں الیکٹرونز ہوتے ہیں: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "9",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "The vapour pressure of liquid increases with the increase of______:",
+   "q_ur": "مائع کا ویپر پریشر ______ میں اضافے سے بڑھتا ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "polarity of molecules",
+     "ur": "مالیکیولز کی پولیرٹی"
+    },
+    {
+     "k": "B",
+     "en": "intermolecular forces",
+     "ur": "انٹرمالیکیولر فورسز"
+    },
+    {
+     "k": "C",
+     "en": "pressure",
+     "ur": "پریشر"
+    },
+    {
+     "k": "D",
+     "en": "temperature",
+     "ur": "ٹمپریچر"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Brass is a solid solution of:",
+   "q_ur": "پیتل ٹھوس سلوشن ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mg+Cu",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Fe+Cu",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Zn+Cu",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Na+Cu",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Universal solvent is:",
+   "q_ur": "یونیورسل سالونٹ ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Water",
+     "ur": "پانی"
+    },
+    {
+     "k": "B",
+     "en": "Alcohol",
+     "ur": "الکحل"
+    },
+    {
+     "k": "C",
+     "en": "Ether",
+     "ur": "ایتھر"
+    },
+    {
+     "k": "D",
+     "en": "Heavy water",
+     "ur": "بھاری پانی"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,430 @@
+{
+ "board": "BISE Rawalpindi",
+ "board_slug": "rawalpindi",
+ "class": "11th",
+ "subject": "computer-science",
+ "year": 2023,
+ "slug": "rawalpindi-11th-computer-science-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The order of stack is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "FIFO",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "GIGO",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "FIGO",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "LIFO",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "A virus that replicates itself is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Worm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Bug",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Bomb",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Vaccine",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The maximum number of primary partitions that can be created on a disk are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Two",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Three",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Four",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Five",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Clipboard stores ____________.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Copied text",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Deleted text",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Entered text",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Repeated text",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "A built-in formula is known as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Update",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Procedure",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Calculate",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Function",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The format of an email address is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "User name # DNS Address",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "User name @ DNS Address",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "User name $ DNS Address",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "User name ! DNS Address",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The name for screen clarity",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Discrete",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Pixel",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Resolution",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "LCD",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "1GB of memory in bytes is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2³⁰",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2²⁰",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2⁴⁰",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2¹⁰",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The protocol used over the Internet is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "SNA",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "TCP/IP",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Token-Ring",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ethernet",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Which layer of OS model does data compression?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Application layer",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Physical layer",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Session layer",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Presentation layer",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The physical path over which a message travels is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Protocol",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Signal",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Node",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Medium",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Concurrent flow of bits is done in transmission.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Parallel",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Serial",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Asynchronous",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Synchronous",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Which technology is used to read data on cheques:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "OMR",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "MICR",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "OCR",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CAT",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "CPU is an example of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Software",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A program",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Hardware",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "An output unit",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Cache memory works between:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "RAM and ROM",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "MMU and Hard disk",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CPU and RAM",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CPU and Hard disk",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

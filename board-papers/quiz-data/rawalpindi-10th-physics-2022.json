@@ -1,0 +1,682 @@
+{
+ "board": "BISE Rawalpindi",
+ "board_slug": "rawalpindi",
+ "class": "10th",
+ "subject": "physics",
+ "year": 2022,
+ "slug": "rawalpindi-10th-physics-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "In a vaccum [sic] all electromagnetic waves have the same:",
+   "q_ur": "ویکیوم میں تمام الیکٹرو میگنیٹک ویوز کی ایک ہی ہوتی ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Speed",
+     "ur": "سپیڈ"
+    },
+    {
+     "k": "B",
+     "en": "Frequency",
+     "ur": "فریکوئنسی"
+    },
+    {
+     "k": "C",
+     "en": "Amplitude",
+     "ur": "ایمپلیٹیوڈ"
+    },
+    {
+     "k": "D",
+     "en": "Wavelength",
+     "ur": "ویولینتھ"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The speed of sound in liquid as compared to gases is:",
+   "q_ur": "مائع میں آواز کی رفتار گیسوں کی نسبت کتنی ہوتی ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Five times",
+     "ur": "پانچ گنا"
+    },
+    {
+     "k": "B",
+     "en": "Fifteen times",
+     "ur": "پندرہ گنا"
+    },
+    {
+     "k": "C",
+     "en": "Two times",
+     "ur": "دو گنا"
+    },
+    {
+     "k": "D",
+     "en": "Eight times",
+     "ur": "آٹھ گنا"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The refractive index of crown glass is:",
+   "q_ur": "کراؤن گلاس کا ریفریکٹیو انڈیکس ہوتا ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "2.42",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2.21",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.66",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.52",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Five joules of work is needed to shift 10C of charge from one place to another. The potential difference between the places is:",
+   "q_ur": "ایک جگہ سے دوسری جگہ 10C چارج منتقل کرنے کے لیے پانچ جول ورک کرنا پڑتا ہے — ان دونوں مقامات کے درمیان پوٹینشل ڈفرنس ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.5V",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2V",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5V",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10V",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "SI unit of electric intensity is:",
+   "q_ur": "الیکٹرک انٹینسٹی کا S.I یونٹ ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nm^{-1}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NC^{-1}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Nm^{-2}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Electric potential and e.m.f:",
+   "q_ur": "الیکٹرک پوٹینشل اور ای — ایم — ایف میں: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "are the same terms",
+     "ur": "ایک ہی جسمی مقداریں ہیں"
+    },
+    {
+     "k": "B",
+     "en": "are the different terms",
+     "ur": "دو مختلف مقداریں ہیں"
+    },
+    {
+     "k": "C",
+     "en": "Have the different units",
+     "ur": "ان کے یونٹس مختلف ہیں"
+    },
+    {
+     "k": "D",
+     "en": "are both B and C",
+     "ur": "دونوں (B) اور (C)"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "1KWh is equal to:",
+   "q_ur": "ایک کلو واٹ آور برابر ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.6MJ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2.6MJ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3.6MJ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4.6MJ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The direction of induced emf in a circuit is in accordance with conservation of:",
+   "q_ur": "کسی سرکٹ میں انڈیوسڈ e.m.f کی سمت کس قانون کے مطابق ہوتی ہے؟ [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mass",
+     "ur": "ماس"
+    },
+    {
+     "k": "B",
+     "en": "Charge",
+     "ur": "چارج"
+    },
+    {
+     "k": "C",
+     "en": "Momentum",
+     "ur": "مومنٹم"
+    },
+    {
+     "k": "D",
+     "en": "Energy",
+     "ur": "انرجی"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "A device which is used to increase or decrease the AC voltage is called:",
+   "q_ur": "ایک ایسا آلہ جو AC وولٹیج کو کم یا زیادہ کرنے کے لیے استعمال ہوتا ہے، کہلاتا ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Transformer",
+     "ur": "ٹرانسفارمر"
+    },
+    {
+     "k": "B",
+     "en": "Motor",
+     "ur": "موٹر"
+    },
+    {
+     "k": "C",
+     "en": "Generator",
+     "ur": "جنریٹر"
+    },
+    {
+     "k": "D",
+     "en": "Voltmeter",
+     "ur": "وولٹ میٹر"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The particles emitted from a hot cathode surface are called:",
+   "q_ur": "ایسے پارٹیکلز جو گرم کیتھوڈ کی سطح سے خارج ہوں کہلاتے ہیں: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Negative ions",
+     "ur": "نیگیٹو آئنز"
+    },
+    {
+     "k": "B",
+     "en": "Positive ions",
+     "ur": "پازیٹو آئنز"
+    },
+    {
+     "k": "C",
+     "en": "Electrons",
+     "ur": "الیکٹرونز"
+    },
+    {
+     "k": "D",
+     "en": "Protons",
+     "ur": "پروٹونز"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The brain of any computer system is:",
+   "q_ur": "کسی بھی کمپیوٹر سسٹم کا دماغ ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Monitor",
+     "ur": "مونیٹر"
+    },
+    {
+     "k": "B",
+     "en": "Memory",
+     "ur": "میموری"
+    },
+    {
+     "k": "C",
+     "en": "C.P.U",
+     "ur": "سی پی یو"
+    },
+    {
+     "k": "D",
+     "en": "Control unit",
+     "ur": "کنٹرول یونٹ"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Isotopes are atoms of same element with different:",
+   "q_ur": "آئسوٹوپس ایک ہی ایلیمنٹ کے ایسے ایٹمز ہوتے ہیں جن میں مختلف ہوتا ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Atomic mass",
+     "ur": "اٹامک ماس"
+    },
+    {
+     "k": "B",
+     "en": "Atomic number",
+     "ur": "اٹامک نمبر"
+    },
+    {
+     "k": "C",
+     "en": "Number of protons",
+     "ur": "پروٹونز کی تعداد"
+    },
+    {
+     "k": "D",
+     "en": "Number of electrons",
+     "ur": "الیکٹرونز کی تعداد"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Waves transfer:",
+   "q_ur": "ویوز منتقل کرتی ہیں: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Velocity",
+     "ur": "ویلاسٹی"
+    },
+    {
+     "k": "B",
+     "en": "Energy",
+     "ur": "انرجی"
+    },
+    {
+     "k": "C",
+     "en": "Wavelength",
+     "ur": "ویولینتھ"
+    },
+    {
+     "k": "D",
+     "en": "Frequency",
+     "ur": "فریکوئنسی"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "The unit of intensity of sound is:",
+   "q_ur": "آواز کی انٹینسٹی کا یونٹ ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Wm^{-2}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Wm^{2}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Wm^{-1}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Wm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Snell's law is:",
+   "q_ur": "سنیل کا قانون ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "n = sinγ/sini",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "n = sinγ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "n = sini/sinγ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "n = sinγ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "The S.I unit of electric field intensity is:",
+   "q_ur": "الیکٹرک فیلڈ انٹینسٹی کا S.I یونٹ ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "NC^{-2}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NC^{-1}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NC",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Capacitance of any capacitor is equal to:",
+   "q_ur": "کسی کپیسیٹر کی کپیسیٹنس برابر ہوتی ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "C = Q/V",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "C = V/Q",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "QV",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/QV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Formula of e.m.f is:",
+   "q_ur": "ای — ایم — ایف کا کلیہ ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "E = Q/W",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "E = Q/I",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "E = W/I",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "E = W/Q",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "The unit of electric power is:",
+   "q_ur": "الیکٹرک پاور کا یونٹ ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ohm",
+     "ur": "اوہم"
+    },
+    {
+     "k": "B",
+     "en": "Watt",
+     "ur": "واٹ"
+    },
+    {
+     "k": "C",
+     "en": "Farad",
+     "ur": "فیرڈ"
+    },
+    {
+     "k": "D",
+     "en": "Joule",
+     "ur": "جول"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "For an ideal transformer:",
+   "q_ur": "ایک آئیڈیل ٹرانسفارمر کے لیے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Pp<Ps",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Pp>Ps",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Pp=Ps",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Pp≠Ps",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Which logic operation is formed by this gate? [OR gate → inverter → X]",
+   "q_ur": "اس گیٹ سے کونسا لاجک آپریشن حاصل ہوتا ہے؟ [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "AND",
+     "ur": "اینڈ"
+    },
+    {
+     "k": "B",
+     "en": "NAND",
+     "ur": "نینڈ"
+    },
+    {
+     "k": "C",
+     "en": "OR",
+     "ur": "آر"
+    },
+    {
+     "k": "D",
+     "en": "NOR",
+     "ur": "نار"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Boolean expression of NOR gate is:",
+   "q_ur": "نار گیٹ کی بولین مساوات ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "X=A.B",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "X=A+B",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "X = (A+B) overbar",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "X = A.B overbar",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Number of components of computer based information system is:",
+   "q_ur": "کمپیوٹر بیسڈ انفارمیشن سسٹم کے اجزاء کی تعداد ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "What happens to the mass number of an element which emits one alpha particle?",
+   "q_ur": "جب ایک ایلیمنٹ ایک الفا پارٹیکل خارج کرتا ہے تو اس کے اٹامک ماس پر کیا اثر پڑے گا؟ [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Decreases by 2",
+     "ur": "2 کم ہو جائے گا"
+    },
+    {
+     "k": "B",
+     "en": "Decreases by 4",
+     "ur": "4 کم ہو جائے گا"
+    },
+    {
+     "k": "C",
+     "en": "Increases by 2",
+     "ur": "2 بڑھ جائے گا"
+    },
+    {
+     "k": "D",
+     "en": "Increases by 4",
+     "ur": "4 بڑھ جائے گا"
+    }
+   ]
+  }
+ ]
+}

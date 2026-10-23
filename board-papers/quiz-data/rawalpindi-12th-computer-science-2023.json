@@ -1,0 +1,682 @@
+{
+ "board": "BISE Rawalpindi",
+ "board_slug": "rawalpindi",
+ "class": "12th",
+ "subject": "computer-science",
+ "year": 2023,
+ "slug": "rawalpindi-12th-computer-science-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "In ERD model, the relationship between the two entities is represented by a: [numbered 1.1 as printed]",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Diamond symbol",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Rectangular box",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Oval symbol",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Line",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "In 3NF, a non-key attribute must not depend on a (n):",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Non-key attribute",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Key attribute",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Composite key",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Sort key",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The data in table is entered in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Design view",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Normal view",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Data sheet view",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Layout view",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "How many are the layout of Form? [best read — partially covered]",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Which of the following represents a collection of concepts that are used to describe the structure of a database?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Data warehouse",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Data model",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Data structure",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Data type",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Insert command is used to insert:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A new table",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A new record",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A view",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Dependencies",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The function getche() is defined in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Stdio.h",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "String.h",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Math.h",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Conio.h",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Which of the following is NOT selection statement?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "If",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Switch",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "While",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "If-else",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "When condition never becomes false the loop becomes:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Infinite loop",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Continuous loop",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Finite loop",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Tested loop",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Function prototypes for built-in functions are specified in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Source files",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Header files",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Object files",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Image files",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "C language was developed in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1969",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1972",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1974",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1977",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "To compile a C language program use:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "F2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Alt+F5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Alt+F9",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "F3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Which of the following operator has the lowest procedure? [sic]",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "=",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "!",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "==",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "+",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "The symbol \"==\" represents:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Arithmetic operator",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Relational operator",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Assignment operator",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Logical operator",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "a /= b is equivalent to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "b /= a",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a = / b [sic]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a = a / b",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "b = b / a",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The statement that will immediately terminate a For...next loop is: [VB set numbered 7-15 as printed]",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "End for",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Exit loop",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "End loop",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Exit for",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The upper bound of array with 10 values is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "01 [sic]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "9",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Which method causes the control to be re-drawn?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Refrcsh [sic]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Set focus",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Visible",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Move",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The prefix for naming a menu item is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "M",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "mnu",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "mne",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mn",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The diamond symbol in a flow chart indicates:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Input",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Condition",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Process",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Output",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "To exit visual basic:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ctrl+Q",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Alt+T",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Alt+Q",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ctrl+Z",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "One can enter data in a control only when it has:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Focus",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Control",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Tab order",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mask",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "The expression 3 mod 5 has a value equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "The entire select case construct is terminated with:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Case else",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "End if",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "End select",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Stop select",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

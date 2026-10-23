@@ -1,0 +1,570 @@
+{
+ "board": "BISE Rawalpindi",
+ "board_slug": "rawalpindi",
+ "class": "11th",
+ "subject": "mathematics",
+ "year": 2021,
+ "slug": "rawalpindi-11th-mathematics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Combined (all sessions)",
+   "q_en": "Multiplicative identity of complex number is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(0,0)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(0,1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(1,0)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(1,1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Combined (all sessions)",
+   "q_en": "The contrapositive of ~p → ~q is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "p → q",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "q → p",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "~q → ~p",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "~q → p",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Combined (all sessions)",
+   "q_en": "If A and B are any two non singular matrices then (AB)⁻¹ =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A⁻¹B⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "B⁻¹A⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "BA",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "AB",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Combined (all sessions)",
+   "q_en": "For a non-singular matrix A if XA=B then X =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A⁻¹B",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "BA⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(AB)⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(BA)⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Combined (all sessions)",
+   "q_en": "If f(x) = 3x⁴ + 4x³ + x - 5 is divided by x+1, then remainder is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-7",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Combined (all sessions)",
+   "q_en": "If w is cue [sic] root of unity, then w¹⁵ =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "w",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-w",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Combined (all sessions)",
+   "q_en": "Partial fraction of (3x-11)/((x²+1)(x+3)) will be of the form.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(Ax+B)/(x²+1) + C/(x+3)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A/(x²+1) + (Bx+C)/(x+3)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(Ax+B)/(x+3) + C/(x²+1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A/(x²+1) + B/(x+3)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Combined (all sessions)",
+   "q_en": "If aₙ = (-1)ⁿ⁺¹, then 26ᵗʰ term is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "26",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-26",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Combined (all sessions)",
+   "q_en": "(n+1)ᵗʰ term of G.P is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a₁rⁿ⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a₁rⁿ⁺¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a₁rⁿ⁺²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a₁rⁿ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Combined (all sessions)",
+   "q_en": "nᵗʰ term of A.P is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a₁(n-1)d",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a₁+(n+1)d",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2a₁+(n-1)d",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a₁+(2n-1)d",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Combined (all sessions)",
+   "q_en": "With usual notation ⁿCᵣ + ⁿCᵣ₋₁ =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ⁿCᵣ₊₁",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ⁿ⁺¹Cᵣ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ⁿ⁻¹Cᵣ₋₁",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ⁿ⁺¹Cᵣ₋₁",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Combined (all sessions)",
+   "q_en": "In the expansion of (a+b)⁷, the second term is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a⁷",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "7a⁶b",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7ab⁶",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Combined (all sessions)",
+   "q_en": "In one hour, the hour hand of a clock turns through an angle.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π/8",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Combined (all sessions)",
+   "q_en": "3π/4 radian is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "110⁰",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "135⁰",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "150⁰",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "130⁰",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Combined (all sessions)",
+   "q_en": "sin(-300⁰) =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-√3/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "√3/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Combined (all sessions)",
+   "q_en": "Period of sin x is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2π",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3π",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-π",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Combined (all sessions)",
+   "q_en": "Radius of escribed circle opposite to vertex C is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Δ/(s-a)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Δ/(s-b)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Δ/(s-c)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Δ/s",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Combined (all sessions)",
+   "q_en": "With usual notation a+b-c =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2S",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2S-2C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2S-2b",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2S-c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Combined (all sessions)",
+   "q_en": "2tan⁻¹A =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "tan⁻¹ 2A/(1-A²)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "tan⁻¹ 2A/(1+A²)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "tan⁻¹ A/(1-A²)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "tan⁻¹ A/(1+A²)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Combined (all sessions)",
+   "q_en": "Solution of cot θ = 1/√3 in quadrant III is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5π/3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "7π/6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4π/3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "7π/3",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,682 @@
+{
+ "board": "BISE Rawalpindi",
+ "board_slug": "rawalpindi",
+ "class": "10th",
+ "subject": "biology",
+ "year": 2023,
+ "slug": "rawalpindi-10th-biology-2023",
+ "questions": [
+  {
+   "n": "1.1",
+   "group": "Group I",
+   "q_en": "How many traits Mendel studied in pea plant?",
+   "q_ur": "مینڈل نے مٹر کے پودے میں کتنی خصوصیات کا مطالعہ کیا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Source of variations is?",
+   "q_ur": "تغیرات کا ذریعہ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mutations",
+     "ur": "میوٹیشنز"
+    },
+    {
+     "k": "B",
+     "en": "Transcription",
+     "ur": "ٹرانسکرپشن"
+    },
+    {
+     "k": "C",
+     "en": "Translation",
+     "ur": "ٹرانسلیشن"
+    },
+    {
+     "k": "D",
+     "en": "Fragmentation",
+     "ur": "فرگمینٹیشن"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Example of primary consumer is :",
+   "q_ur": "پرائمری کنزیومر کی مثال ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Deer",
+     "ur": "ہرن"
+    },
+    {
+     "k": "B",
+     "en": "Snake",
+     "ur": "سانپ"
+    },
+    {
+     "k": "C",
+     "en": "Lion",
+     "ur": "شیر"
+    },
+    {
+     "k": "D",
+     "en": "Hawk",
+     "ur": "شاہین"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Carnivorous plants are:",
+   "q_ur": "کارنیورس پودے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Predators",
+     "ur": "پریڈیٹرز"
+    },
+    {
+     "k": "B",
+     "en": "Parasites",
+     "ur": "پیراسائٹس"
+    },
+    {
+     "k": "C",
+     "en": "Herbivores",
+     "ur": "ہربی وورز"
+    },
+    {
+     "k": "D",
+     "en": "Decomposers",
+     "ur": "ڈی کمپوزرز"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The enzyme used to dissolve blood clot is?",
+   "q_ur": "کونسا انزائم خون کے لوتھڑے کو حل کرنے کیلئے استعمال ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Urokinase",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Interferons",
+     "ur": "انٹرفیرونز"
+    },
+    {
+     "k": "C",
+     "en": "Thymosin",
+     "ur": "تھائموسن"
+    },
+    {
+     "k": "D",
+     "en": "Beta-endorphin",
+     "ur": "بیٹا اینڈورفن"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The drug used to reduce pain is?",
+   "q_ur": "درد کو کم کرنے والی دوا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Antiseptics",
+     "ur": "اینٹی سیپٹکس"
+    },
+    {
+     "k": "B",
+     "en": "Sedatives",
+     "ur": "سیڈیٹوز"
+    },
+    {
+     "k": "C",
+     "en": "Analgesics",
+     "ur": "اینل جیسکس"
+    },
+    {
+     "k": "D",
+     "en": "Antibiotics",
+     "ur": "اینٹی بائیوٹکس"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Energy produced in cellular respiration is transformed into?",
+   "q_ur": "سیلولر ریسپیریشن میں نکلنے والی انرجی کس میں تبدیل ہوتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ADP",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ATP",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NADP",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Halophytes live in _____.",
+   "q_ur": "ہیلوفائٹس _____ میں رہتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "sea",
+     "ur": "سمندر"
+    },
+    {
+     "k": "B",
+     "en": "river",
+     "ur": "دریا"
+    },
+    {
+     "k": "C",
+     "en": "pond",
+     "ur": "تالاب"
+    },
+    {
+     "k": "D",
+     "en": "canal",
+     "ur": "نہر"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Which organ maintains balance of body?",
+   "q_ur": "کونسا آرگن جسم کا توازن برقرار رکھتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Stomach",
+     "ur": "معدہ [best read]"
+    },
+    {
+     "k": "B",
+     "en": "Ear",
+     "ur": "کان"
+    },
+    {
+     "k": "C",
+     "en": "Liver",
+     "ur": "جگر"
+    },
+    {
+     "k": "D",
+     "en": "Heart",
+     "ur": "دل"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Which bones enclose the brain?",
+   "q_ur": "کونسی ہڈیاں دماغ کو ڈھانپتی ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Pelvic girdle",
+     "ur": "پیلوک گرڈل"
+    },
+    {
+     "k": "B",
+     "en": "Pectoral girdle",
+     "ur": "پیکٹورل گرڈل"
+    },
+    {
+     "k": "C",
+     "en": "Ribs",
+     "ur": "پسلیاں"
+    },
+    {
+     "k": "D",
+     "en": "Cranial bones",
+     "ur": "کرینیل بونز"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Cyst is formed in?",
+   "q_ur": "سسٹ کس میں بنتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Amoeba",
+     "ur": "امیبا"
+    },
+    {
+     "k": "B",
+     "en": "Yeast",
+     "ur": "یسٹ"
+    },
+    {
+     "k": "C",
+     "en": "Planaria",
+     "ur": "پلانیریا"
+    },
+    {
+     "k": "D",
+     "en": "Hydra",
+     "ur": "ہائیڈرا"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "External fertilization occurs in?",
+   "q_ur": "ایکسٹرنل فرٹیلائزیشن کس میں ہوتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mammals",
+     "ur": "میملز"
+    },
+    {
+     "k": "B",
+     "en": "Reptiles",
+     "ur": "ریپٹائلز"
+    },
+    {
+     "k": "C",
+     "en": "Birds",
+     "ur": "پرندوں"
+    },
+    {
+     "k": "D",
+     "en": "Fishes",
+     "ur": "مچھلیوں"
+    }
+   ]
+  },
+  {
+   "n": "1.1",
+   "group": "Group II",
+   "q_en": "The United Nations established Intergovernmental Panel on climate change in:",
+   "q_ur": "اقوام متحدہ نے موسمی تبدیلیوں پر پینل بنایا:",
+   "options": [
+    {
+     "k": "A",
+     "en": "2010",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2020",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2021",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2022",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Ian Wilmut was belonged to:",
+   "q_ur": "آیان ولمٹ کا تعلق تھا۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "India",
+     "ur": "انڈیا"
+    },
+    {
+     "k": "B",
+     "en": "Scot Land",
+     "ur": "اسکاٹ لینڈ"
+    },
+    {
+     "k": "C",
+     "en": "Sri Lanka",
+     "ur": "سری لنکا"
+    },
+    {
+     "k": "D",
+     "en": "America",
+     "ur": "امریکہ"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Penicillin was discovered by scientist:",
+   "q_ur": "پینسلین دریافت کرنے والے سائنسدان کا نام تھا:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Alexander Flemming",
+     "ur": "الیگزینڈر فلیمنگ"
+    },
+    {
+     "k": "B",
+     "en": "Ed Ward Jenner",
+     "ur": "ایڈورڈ جینر"
+    },
+    {
+     "k": "C",
+     "en": "Ian Wilmut",
+     "ur": "آیان ولمٹ"
+    },
+    {
+     "k": "D",
+     "en": "Francis Crick",
+     "ur": "فرانسس کرک"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Mesophyll cell are found in:",
+   "q_ur": "میزوفل سیلز پائے جاتے ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Plants",
+     "ur": "پودوں"
+    },
+    {
+     "k": "B",
+     "en": "Animals",
+     "ur": "جانوروں"
+    },
+    {
+     "k": "C",
+     "en": "Birds",
+     "ur": "پرندوں"
+    },
+    {
+     "k": "D",
+     "en": "Fishes",
+     "ur": "مچھلیوں"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Example of hydrophyte is:",
+   "q_ur": "ہائیڈروفائٹ کی مثال ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Water lily",
+     "ur": "واٹر للی"
+    },
+    {
+     "k": "B",
+     "en": "Grass",
+     "ur": "گھاس"
+    },
+    {
+     "k": "C",
+     "en": "Cactus",
+     "ur": "کیکٹس"
+    },
+    {
+     "k": "D",
+     "en": "Rose",
+     "ur": "گلاب"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "The middle layer of human eye is called:",
+   "q_ur": "انسانی آنکھ کی درمیانی تہہ کہلاتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Retina",
+     "ur": "ریٹینا"
+    },
+    {
+     "k": "B",
+     "en": "Sclera [best read]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Choroid",
+     "ur": "کورائیڈ"
+    },
+    {
+     "k": "D",
+     "en": "Optic disc",
+     "ur": "آپٹک ڈسک"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Osteoporosis disease is found in:",
+   "q_ur": "آسٹیوپوروسس بیماری پائی جاتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Brain",
+     "ur": "دماغ"
+    },
+    {
+     "k": "B",
+     "en": "Bones",
+     "ur": "ہڈیاں"
+    },
+    {
+     "k": "C",
+     "en": "Lungs",
+     "ur": "پھیپھڑوں"
+    },
+    {
+     "k": "D",
+     "en": "Kidneys",
+     "ur": "گردوں"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Types of reproduction found in planaria is:",
+   "q_ur": "پلینیریا میں ریپروڈکشن کی قسم پائی جاتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Budding",
+     "ur": "بڈنگ"
+    },
+    {
+     "k": "B",
+     "en": "Binary fission",
+     "ur": "بائنری فشن"
+    },
+    {
+     "k": "C",
+     "en": "Fragmentation",
+     "ur": "فرگمینٹیشن"
+    },
+    {
+     "k": "D",
+     "en": "Spore formation",
+     "ur": "سپور فارمیشن"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "In sweet potato, method of artificial vegetative propagation is:",
+   "q_ur": "شکرقندی میں مصنوعی ویجیٹیٹیو پروپیگیشن کا طریقہ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Grafting",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Tissue culture",
+     "ur": "ٹشو کلچر"
+    },
+    {
+     "k": "C",
+     "en": "Suckers",
+     "ur": "سکرز"
+    },
+    {
+     "k": "D",
+     "en": "Cutting",
+     "ur": "کٹنگ"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Number of chromosomes found in human body cells are:",
+   "q_ur": "انسانی جسم کے سیلز میں کروموسومز کی تعداد ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "46",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "48",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "54",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "62",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Model of DNA was presented by scientist:",
+   "q_ur": "DNA کا ماڈل پیش کرنے والے سائنسدان کا نام تھا:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Gregor Mendel",
+     "ur": "گریگر مینڈل"
+    },
+    {
+     "k": "B",
+     "en": "Joseph Lister",
+     "ur": "جوزف لسٹر"
+    },
+    {
+     "k": "C",
+     "en": "Alexander Flemming",
+     "ur": "الیگزینڈر فلیمنگ"
+    },
+    {
+     "k": "D",
+     "en": "James Watson and Crick",
+     "ur": "جیمز واٹسن اور کرک"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Example of ecto parasite is:",
+   "q_ur": "ایکٹو پیراسائٹ کی مثال ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Plasmodium",
+     "ur": "پلازموڈیم"
+    },
+    {
+     "k": "B",
+     "en": "Ascaris",
+     "ur": "ایسکیرس"
+    },
+    {
+     "k": "C",
+     "en": "Mosquito",
+     "ur": "مچھر"
+    },
+    {
+     "k": "D",
+     "en": "Ent amoeba",
+     "ur": "اینٹ امیبا"
+    }
+   ]
+  }
+ ]
+}

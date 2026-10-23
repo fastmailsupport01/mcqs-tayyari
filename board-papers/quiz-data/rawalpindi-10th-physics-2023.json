@@ -1,0 +1,682 @@
+{
+ "board": "BISE Rawalpindi",
+ "board_slug": "rawalpindi",
+ "class": "10th",
+ "subject": "physics",
+ "year": 2023,
+ "slug": "rawalpindi-10th-physics-2023",
+ "questions": [
+  {
+   "n": "1.1",
+   "group": "Group I",
+   "q_en": "The unit of spring constant is:",
+   "q_ur": "سپرنگ کانسٹنٹ کا یونٹ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Nm⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Nm⁻²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Waves transfer:",
+   "q_ur": "ویوز منتقل کرتی ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Energy",
+     "ur": "انرجی"
+    },
+    {
+     "k": "B",
+     "en": "Frequency",
+     "ur": "فریکوئنسی"
+    },
+    {
+     "k": "C",
+     "en": "Wave length",
+     "ur": "ویو لینتھ"
+    },
+    {
+     "k": "D",
+     "en": "Velocity",
+     "ur": "ولاسٹی"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The unit of intensity of sound is:",
+   "q_ur": "انٹینسٹی آف ساؤنڈ کا یونٹ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Wm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Wm⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Wm⁻² [best read]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Wm⁻²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "At 25°C speed of sound in wood is:",
+   "q_ur": "25°C پر لکڑی میں سپیڈ آف ساؤنڈ ہوتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "2500 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2000 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3000 ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4000 ms⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The radius of curvature of a converging mirror is 20cm; Its focal length will be:",
+   "q_ur": "ایک کنورجنگ مرر کا ریڈیس آف کرویچر 20cm ہے۔ اس کی فوکل لینتھ [ہو گی]:",
+   "options": [
+    {
+     "k": "A",
+     "en": "10 cm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-10cm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "20cm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-20cm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The electric field lines are:",
+   "q_ur": "الیکٹرک فیلڈ لائنز [؟]:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Always cross each other",
+     "ur": "ایک دوسرے کو عبور کرتی ہیں"
+    },
+    {
+     "k": "B",
+     "en": "Never cross each other",
+     "ur": "ایک دوسرے کو عبور نہیں کرتیں"
+    },
+    {
+     "k": "C",
+     "en": "Cross each other in the region of strong field",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cross each other in the region of weak field",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The leafs of electroscope are made of:",
+   "q_ur": "الیکٹروسکوپ کے پتے بنے ہوتے ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Silver",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Iron",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Gold",
+     "ur": "گولڈ"
+    },
+    {
+     "k": "D",
+     "en": "Aluminium",
+     "ur": "ایلومینیم"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The unit of specific resistance is:",
+   "q_ur": "سپیسیفک ریزسٹنس کا یونٹ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ω.m²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ω.m⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ω m⁻²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ω.m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The turn ratio of a transformer is 10 it means:",
+   "q_ur": "اگر ٹرانسفارمر کے چکر کا نسبت 10 ہو تو:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Is = 10 Ip",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ns = Np/10",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ns = 10Np",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Vs = Vp/10",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The out put of Nand gate is \"0\" when:",
+   "q_ur": "نینڈ گیٹ کی آؤٹ پٹ \"0\" ہو گی اگر:",
+   "options": [
+    {
+     "k": "A",
+     "en": "A = 0 & B = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A = 1 & B = 1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A = 0 or B = 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A = 1 or B = 1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Which of the following is not processing:",
+   "q_ur": "کون سا عمل پروسیسنگ نہیں ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Arranging",
+     "ur": "ترتیب دینا"
+    },
+    {
+     "k": "B",
+     "en": "Manipulating",
+     "ur": "جوڑ توڑ کرنا"
+    },
+    {
+     "k": "C",
+     "en": "Calculating",
+     "ur": "حساب کتاب کرنا"
+    },
+    {
+     "k": "D",
+     "en": "Gathering",
+     "ur": "اکٹھا کرنا"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The safe limit of radiation absorbs in a year is:",
+   "q_ur": "ایک سال میں ریڈی ایشن کی محفوظ حد ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 rem",
+     "ur": "ریم 1"
+    },
+    {
+     "k": "B",
+     "en": "2 rem",
+     "ur": "ریم 2"
+    },
+    {
+     "k": "C",
+     "en": "3 rem",
+     "ur": "ریم 3"
+    },
+    {
+     "k": "D",
+     "en": "5 rem",
+     "ur": "ریم 5"
+    }
+   ]
+  },
+  {
+   "n": "1.1",
+   "group": "Group II",
+   "q_en": "The index of refraction depends on:",
+   "q_ur": "انڈیکس آف ریفریکشن کا انحصار کس پر ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "The focal length",
+     "ur": "فوکل لینتھ"
+    },
+    {
+     "k": "B",
+     "en": "The speed of light",
+     "ur": "روشنی کی سپیڈ پر"
+    },
+    {
+     "k": "C",
+     "en": "The image distance",
+     "ur": "امیج کے فاصلے پر"
+    },
+    {
+     "k": "D",
+     "en": "The object distance",
+     "ur": "جسم کے فاصلے پر [best read]"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "The working principle of photograph enlarger is the same as:",
+   "q_ur": "فوٹو گراف انلارجر کا اصول ایسے ہی ہوتا ہے جیسے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Slide projector",
+     "ur": "سلائیڈ پروجیکٹر"
+    },
+    {
+     "k": "B",
+     "en": "Camera",
+     "ur": "کیمرہ"
+    },
+    {
+     "k": "C",
+     "en": "Telescope",
+     "ur": "ٹیلیسکوپ"
+    },
+    {
+     "k": "D",
+     "en": "Endoscope",
+     "ur": "اینڈوسکوپ"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Two small charged sphere are separated by 2mm, which of the following would produce the greatest attractive force?",
+   "q_ur": "دو چھوٹے چارجڈ سفیر ایک دوسرے سے 2mm کے فاصلے پر ہیں۔ مندرجہ ذیل میں سے کس انتخاب کیلئے سب سے زیادہ اٹریکشن کی فورس ہو گی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "+1q and +4q",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-1q and -4q",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "+2q and +2q",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "+2q and -2q",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "The unit of e.m.f which is equal to volt in S-I system is:",
+   "q_ur": "e.m.f کا وہ یونٹ جو S-I سسٹم میں وولٹ کے برابر ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Jc⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Jm⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Js⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "J",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "When we double the voltage in a simple electric circuit, we double the:",
+   "q_ur": "جب ہم ایک سادہ سرکٹ میں وولٹیج کو دوگنا کر دیں تو کون سی مقدار دوگنی ہو جائے گی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Current",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Power",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Resistance",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Both A and B",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "The direction of induced e.m.f in a circuit is in accordance with conservation of:",
+   "q_ur": "انڈیوسڈ ای۔ایم۔ایف کی سمت سرکٹ میں کس قانون کے مطابق ہوتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mass",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Charge",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Momentum",
+     "ur": "مومنٹم"
+    },
+    {
+     "k": "D",
+     "en": "Energy",
+     "ur": "انرجی"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "AND Gate can be formed by using two:",
+   "q_ur": "کون سے دو گیٹس استعمال کر کے اینڈ گیٹ سمجھی آؤٹ پٹ حاصل ہوتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "NOT gates",
+     "ur": "ناٹ گیٹس"
+    },
+    {
+     "k": "B",
+     "en": "OR gates",
+     "ur": "آر گیٹس"
+    },
+    {
+     "k": "C",
+     "en": "NOR gates",
+     "ur": "نار گیٹس"
+    },
+    {
+     "k": "D",
+     "en": "NAND gates",
+     "ur": "نینڈ گیٹس"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Which of the following is not processing?",
+   "q_ur": "کون سا عمل پروسیسنگ نہیں ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Arranging",
+     "ur": "ترتیب دینا"
+    },
+    {
+     "k": "B",
+     "en": "Manipulating",
+     "ur": "جوڑ توڑ کرنا"
+    },
+    {
+     "k": "C",
+     "en": "Calculating",
+     "ur": "حساب کتاب کرنا"
+    },
+    {
+     "k": "D",
+     "en": "Gathering",
+     "ur": "اکٹھا کرنا"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "The half life of a certain isotope is 1 day. What is the quantity of isotope after 2 days?",
+   "q_ur": "ایک مخصوص آئسوٹوپ کی ہاف لائف ایک دن ہے۔ دو دن گزرنے کے بعد اس آئسوٹوپ کی مقدار کتنی ہو گی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "One half",
+     "ur": "آدھی ہو جائے گی"
+    },
+    {
+     "k": "B",
+     "en": "One quarter",
+     "ur": "ایک چوتھائی رہ جائے گی"
+    },
+    {
+     "k": "C",
+     "en": "One-eight",
+     "ur": "1/8 ہو جائے گی"
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": "ان میں سے کوئی نہیں"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Which of the following characteristics of a wave is independent of the others?",
+   "q_ur": "مندرجہ ذیل میں سے ویوز کی کون سی خصوصیت دوسری خصوصیات پر منحصر نہیں ہوتی:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Speed",
+     "ur": "سپیڈ"
+    },
+    {
+     "k": "B",
+     "en": "Frequency",
+     "ur": "فریکوئنسی"
+    },
+    {
+     "k": "C",
+     "en": "Amplitude",
+     "ur": "ایمپلیٹیوڈ"
+    },
+    {
+     "k": "D",
+     "en": "Wave length",
+     "ur": "ویو لینتھ"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "The number of vibrations of a vibrating body in one second is called:",
+   "q_ur": "ایک وائبریٹنگ باڈی کی ایک سیکنڈ میں وائبریشن کی تعداد کو کہتے ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Frequency",
+     "ur": "فریکوئنسی"
+    },
+    {
+     "k": "B",
+     "en": "Amplitude",
+     "ur": "ایمپلیٹیوڈ"
+    },
+    {
+     "k": "C",
+     "en": "Vibration",
+     "ur": "وائبریشن"
+    },
+    {
+     "k": "D",
+     "en": "Displacement",
+     "ur": "ڈسپلیسمنٹ"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "For a normal person, audible frequency range for second wave lies between:",
+   "q_ur": "ایک عام آدمی کے لئے قابل سماعت ساؤنڈ فریکوئنسی کی حدود ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "10Hz-10KHz",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "20Hz-20KHz",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "25Hz-25KHz",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "30Hz-30KHz",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,486 @@
+{
+ "board": "BISE Rawalpindi",
+ "board_slug": "rawalpindi",
+ "class": "11th",
+ "subject": "chemistry",
+ "year": 2021,
+ "slug": "rawalpindi-11th-chemistry-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Combined (all sessions)",
+   "q_en": "When water Freezes at 0°C, its density decreases due to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cubic structure of ice",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Empty spaces present in the structure of ice",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Change of bond lengths",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Change of bond angle",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Combined (all sessions)",
+   "q_en": "Which one of the following is an example of cubic system?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Diamond",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Borax",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Iodine",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Graphite",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Combined (all sessions)",
+   "q_en": "Brackett series lie in the region:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "U.V",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "I.R",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Visible",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "X-Ray",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Combined (all sessions)",
+   "q_en": "Bohr model of atom is contradicted by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Plank's quantum theory",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "dual nature of matter",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Heisenberg's uncertainity [sic] principle",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Newton theory",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Combined (all sessions)",
+   "q_en": "The number of bonds in nitrogen molecule is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "one σ and one π",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "one σ and two π",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "three σ (sigma) only",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "two σ and one π",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Combined (all sessions)",
+   "q_en": "The covalent radius of Cl-atom is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "99.4 pm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "80 pm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "70 pm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "66.4 pm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Combined (all sessions)",
+   "q_en": "One calorie is equivalent to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.4184J",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4.184J",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "41.84J",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "418.4J",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Combined (all sessions)",
+   "q_en": "pH value of vinegar is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2.0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2.8",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3.5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Combined (all sessions)",
+   "q_en": "For which system does the equilibrium constant, Kc has units of (concentration)⁻¹?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "N₂ + 3H₂ ⇌ 2NH₃",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "H₂ + I₂ ⇌ 2HI",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2NO₂ ⇌ N₂O₄",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2HF ⇌ H₂ + F₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Combined (all sessions)",
+   "q_en": "18g of glucose is dissolved in 90g of water. The relative lowering of vapour pressure is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5.1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/51",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6.0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Combined (all sessions)",
+   "q_en": "Stronger the oxidizing agent, greater is the:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Odixation [sic] potential",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Reduction potential",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Redox potential",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "E.M.F of cell",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Combined (all sessions)",
+   "q_en": "If the rate equation of a reaction: 2A+B ⟶ Products is, rate=K[A]²[B], and A is present in large excess, then order of reaction is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Combined (all sessions)",
+   "q_en": "Isotopes differ in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "properties which depend upon mass",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "arrangement of electrons in orbitals",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "chemical properties",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "their behaviour in electromagnetic field",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Combined (all sessions)",
+   "q_en": "Number of isotopes of Tin is/are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "one",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "eleven",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "fifteen",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "eighteen",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Combined (all sessions)",
+   "q_en": "Solvent extraction method is a particularly useful technique for separation when the product to be separated is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "non-volatile or thermally unstable",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "volatile or thermally stable",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "non-volatile or thermally stable",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "volatile or thermally unstable",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Combined (all sessions)",
+   "q_en": "Pressure remaining constant, at which temperature the volume of a gas will become twice of what it is at 0°C.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "546 °C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "200 °C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "546 K",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "273 K",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Combined (all sessions)",
+   "q_en": "The partial pressure of oxygen in the lungs is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "100 torr",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "116 torr",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "150 torr",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "159 torr",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

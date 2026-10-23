@@ -1,0 +1,682 @@
+{
+ "board": "BISE Rawalpindi",
+ "board_slug": "rawalpindi",
+ "class": "10th",
+ "subject": "physics",
+ "year": 2021,
+ "slug": "rawalpindi-10th-physics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The output of NAND gate is '0' when.",
+   "q_ur": "نینڈ گیٹ کی آؤٹ پٹ '0' ہوگی اگر: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "A=0 and B=0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A=1 and B=1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A=0 or B=0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A=1 or B=1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "In computer terminology information means:",
+   "q_ur": "کمپیوٹر ٹرمینالوجی میں انفارمیشن کا مطلب ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Any data",
+     "ur": "کوئی بھی ڈیٹا"
+    },
+    {
+     "k": "B",
+     "en": "Raw data",
+     "ur": "خام ڈیٹا"
+    },
+    {
+     "k": "C",
+     "en": "Processed data",
+     "ur": "پراسیسڈ ڈیٹا"
+    },
+    {
+     "k": "D",
+     "en": "Large data",
+     "ur": "زیادہ ڈیٹا"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "One of the isotopes of Uranium is ²³⁸U₉₂, the neutrons in this isotope is:",
+   "q_ur": "یورینیم کے ایک آئسوٹوپ ²³⁸U₉₂ میں نیوٹرونز کی تعداد ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "92",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "146",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "238",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "330",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "When Uranium (92 protons) ejects beta particle, how many protons will be in remaining nucleus?",
+   "q_ur": "جب یورینیم (92 پروٹون) بیٹا پارٹیکل خارج کرتا ہے تو باقی نیوکلیس میں کتنے پروٹون ہوں گے؟ [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "93",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "91",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "90",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "89",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "From which of the following you can get information almost about everything?",
+   "q_ur": "مندرجہ ذیل میں سے کس سے آپ ہر طرح کی انفارمیشن حاصل کر سکتے ہیں؟ [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Book",
+     "ur": "کتاب"
+    },
+    {
+     "k": "B",
+     "en": "Teacher",
+     "ur": "استاد"
+    },
+    {
+     "k": "C",
+     "en": "Computer",
+     "ur": "کمپیوٹر"
+    },
+    {
+     "k": "D",
+     "en": "Internet",
+     "ur": "انٹرنیٹ"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "If the turn ratio of a transformer is '10' It means:",
+   "q_ur": "اگر ٹرانسفارمر کے پھیروں کی نسبت 10 ہو تو اس کا مطلب ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "N_s = 10N_p",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "I_s = 10I_p",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "N_s = N_p/10",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "V_s = V_p/10",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "One meter long simple pendulum time period is:",
+   "q_ur": "ایک میٹر لمبائی کے سمپل پینڈولم کا ٹائم پیریڈ ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.99 S",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2.11 S",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.89 S",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.88 S",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Speed of sound in air at 0⁰C is:",
+   "q_ur": "0⁰C پر ہوا میں آواز کی رفتار ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "376 mS⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "386 mS⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "231 mS⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "331 mS⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Pitch of sound more depends upon:",
+   "q_ur": "آواز کی پچ کا انحصار زیادہ تر ہوتا ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Frequency",
+     "ur": "فریکوئنسی"
+    },
+    {
+     "k": "B",
+     "en": "Time period",
+     "ur": "ٹائم پیریڈ"
+    },
+    {
+     "k": "C",
+     "en": "Wavelength",
+     "ur": "ویو لینتھ"
+    },
+    {
+     "k": "D",
+     "en": "Amplitude",
+     "ur": "ایمپلی ٹیوڈ"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Capacitance is defined as:",
+   "q_ur": "کیپیسٹنس کی تعریف ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "CV",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Q/V",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "QV",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "V/Q",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The unit of electric current is:",
+   "q_ur": "الیکٹرک کرنٹ کا یونٹ ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Coulomb",
+     "ur": "کولمب"
+    },
+    {
+     "k": "B",
+     "en": "Joule",
+     "ur": "جول"
+    },
+    {
+     "k": "C",
+     "en": "Ampere",
+     "ur": "ایمپئر"
+    },
+    {
+     "k": "D",
+     "en": "Watt",
+     "ur": "واٹ"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The presence of magnetic field can be detected by a:",
+   "q_ur": "مقناطیسی میدان کی موجودگی کو کس کے ذریعے پہچانا جا سکتا ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Small mass",
+     "ur": "چھوٹا ماس"
+    },
+    {
+     "k": "B",
+     "en": "Stationary positive charge",
+     "ur": "ساکن مثبت چارج"
+    },
+    {
+     "k": "C",
+     "en": "Stationary negative charge",
+     "ur": "ساکن منفی چارج"
+    },
+    {
+     "k": "D",
+     "en": "Magnetic compass",
+     "ur": "مقناطیسی کمپاس"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "SI unit for refractive index is:",
+   "q_ur": "ریفریکٹیو انڈیکس کا SI یونٹ ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "m",
+     "ur": "میٹر"
+    },
+    {
+     "k": "B",
+     "en": "No unit",
+     "ur": "کوئی یونٹ نہیں"
+    },
+    {
+     "k": "C",
+     "en": "N.m",
+     "ur": "نیوٹن میٹر"
+    },
+    {
+     "k": "D",
+     "en": "JC⁻¹",
+     "ur": "جول کولمب⁻¹"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Electric field lines:",
+   "q_ur": "الیکٹرک فیلڈ لائنز: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "always cross each other",
+     "ur": "ہمیشہ ایک دوسرے کو کاٹتی ہیں"
+    },
+    {
+     "k": "B",
+     "en": "never cross each other",
+     "ur": "کبھی ایک دوسرے کو نہیں کاٹتیں"
+    },
+    {
+     "k": "C",
+     "en": "Cross each other in the region of strong field",
+     "ur": "مضبوط فیلڈ کے علاقے میں ایک دوسرے کو کاٹتی ہیں"
+    },
+    {
+     "k": "D",
+     "en": "Cross each other in the region of weak field",
+     "ur": "کمزور فیلڈ کے علاقے میں ایک دوسرے کو کاٹتی ہیں"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "If 0.5 C of charge passes through a wire in 10 sec then current in wire will be:",
+   "q_ur": "اگر ایک تار میں 10 سیکنڈ میں 0.5C چارج گزرے تو تار میں کرنٹ ہوگا: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "50 mA",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.5 A",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10 mA",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "100 mA",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "An electric current in conductors is due to the flow of:",
+   "q_ur": "کنڈکٹرز میں الیکٹرک کرنٹ کے بہاؤ کی وجہ ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Positive ions",
+     "ur": "مثبت آئنز"
+    },
+    {
+     "k": "B",
+     "en": "Negative ions",
+     "ur": "منفی آئنز"
+    },
+    {
+     "k": "C",
+     "en": "Free electrons",
+     "ur": "آزاد الیکٹرونز"
+    },
+    {
+     "k": "D",
+     "en": "Positive charges",
+     "ur": "مثبت چارجز"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Direction of magnetic field lines inside a bar magnet is:",
+   "q_ur": "بار میگنیٹ کے اندر مقناطیسی فیلڈ لائنز کی سمت ہوتی ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "From side to side",
+     "ur": "ایک طرف سے دوسری طرف"
+    },
+    {
+     "k": "B",
+     "en": "From north pole to south pole",
+     "ur": "نارتھ پول سے ساؤتھ پول کی طرف"
+    },
+    {
+     "k": "C",
+     "en": "From south pole to north pole",
+     "ur": "ساؤتھ پول سے نارتھ پول کی طرف"
+    },
+    {
+     "k": "D",
+     "en": "There are no magnetic field lines",
+     "ur": "مقناطیسی فیلڈ لائنز نہیں ہوتیں"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "If X = A+B [overline] then 'x' is '1' when:",
+   "q_ur": "اگر X = A+B بار ہو تو 'x' '1' ہوگا جب: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "A=1, B=1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A=0, B=0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A=0, B=1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A=1, B=0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Number of components for computer based information system (CBIS) are:",
+   "q_ur": "کمپیوٹر بیسڈ انفارمیشن سسٹم (CBIS) کے اجزاء کی تعداد ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "9",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "For sending information, optical fibre is used as:",
+   "q_ur": "انفارمیشن بھیجنے کے لیے آپٹیکل فائبر بطور استعمال ہوتا ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Transmission channel",
+     "ur": "ٹرانسمیشن چینل"
+    },
+    {
+     "k": "B",
+     "en": "Reciever [sic]",
+     "ur": "ریسیور"
+    },
+    {
+     "k": "C",
+     "en": "Decoder",
+     "ur": "ڈیکوڈر"
+    },
+    {
+     "k": "D",
+     "en": "Transmitter",
+     "ur": "ٹرانسمیٹر"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Isotopes are atoms of same element with different:",
+   "q_ur": "آئسوٹوپس ایک ہی عنصر کے ایسے ایٹم ہوتے ہیں جن کا مختلف ہوتا ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "number of protons",
+     "ur": "پروٹونز کی تعداد"
+    },
+    {
+     "k": "B",
+     "en": "number of electrons",
+     "ur": "الیکٹرونز کی تعداد"
+    },
+    {
+     "k": "C",
+     "en": "atomic mass",
+     "ur": "ایٹمک ماس"
+    },
+    {
+     "k": "D",
+     "en": "atomic number",
+     "ur": "ایٹمک نمبر"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "In a vacuum all electromagnetic waves have the same:",
+   "q_ur": "ویکیوم میں تمام الیکٹرومیگنیٹک لہریں ایک جیسی رکھتی ہیں: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Frequency",
+     "ur": "فریکوئنسی"
+    },
+    {
+     "k": "B",
+     "en": "Amplitude",
+     "ur": "ایمپلی ٹیوڈ"
+    },
+    {
+     "k": "C",
+     "en": "Speed",
+     "ur": "رفتار"
+    },
+    {
+     "k": "D",
+     "en": "Wavelength",
+     "ur": "ویو لینتھ"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Speed of sound in air at one atmosphere of pressure and 21⁰C temperature is:",
+   "q_ur": "ایک ایٹموسفیئر دباؤ اور 21⁰C درجہ حرارت پر ہوا میں آواز کی رفتار ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "343 ms⁻²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "353 ms⁻²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "386 ms⁻²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "972 ms⁻²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Object distance for real objects is always taken:",
+   "q_ur": "حقیقی اشیاء کے لیے آبجیکٹ ڈسٹنس ہمیشہ لیا جاتا ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "zero",
+     "ur": "صفر"
+    },
+    {
+     "k": "B",
+     "en": "-2",
+     "ur": "منفی"
+    },
+    {
+     "k": "C",
+     "en": "negative",
+     "ur": "منفی"
+    },
+    {
+     "k": "D",
+     "en": "positive",
+     "ur": "مثبت"
+    }
+   ]
+  }
+ ]
+}

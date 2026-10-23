@@ -1,0 +1,850 @@
+{
+ "board": "BISE Rawalpindi",
+ "board_slug": "rawalpindi",
+ "class": "9th",
+ "subject": "mathematics",
+ "year": 2023,
+ "slug": "rawalpindi-9th-mathematics-2023",
+ "questions": [
+  {
+   "n": "1.1",
+   "group": "Group I",
+   "q_en": "Symbol used for similarity is _____.",
+   "q_ur": "تشابہ کے لیے علامت _____ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "↔",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "≅",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "~",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "≠",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "A rectangular region is the _____ of rectangle and its interior.",
+   "q_ur": "کسی مستطیل اور اس کے اندرونی حصے کے _____ کو مستطیلی علاقہ کہتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Intersection",
+     "ur": "تقاطع"
+    },
+    {
+     "k": "B",
+     "en": "Compliment [sic]",
+     "ur": "کمپلیمنٹ"
+    },
+    {
+     "k": "C",
+     "en": "Union",
+     "ur": "یونین"
+    },
+    {
+     "k": "D",
+     "en": "Difference",
+     "ur": "فرق"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The medians of a triangle cut each other in the ratio:",
+   "q_ur": "مثلث کے وسطانیے ایک دوسرے کو _____ میں قطع کرتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "4:1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3:1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1:1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "[√2 0; 0 √2] is called _____ matrix.",
+   "q_ur": "[√2 0; 0 √2] _____ کہلاتا ہے۔ [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": "صفری"
+    },
+    {
+     "k": "B",
+     "en": "Unit",
+     "ur": "وحدانی"
+    },
+    {
+     "k": "C",
+     "en": "Scalar",
+     "ur": "سکیلر"
+    },
+    {
+     "k": "D",
+     "en": "Singular",
+     "ur": "سنگولر"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The value of i⁹ is _____.",
+   "q_ur": "i⁹ کی _____ ہے۔ [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The logarithm of any number to its base is _____.",
+   "q_ur": "اس کی عدد کے لاگرتھم کا اس کی اساس پر جواب _____ ہوتا ہے۔ [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "(√a + √b)(√a − √b) equal to _____.",
+   "q_ur": "(√a + √b)(√a − √b) کا جواب _____ ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a - b",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a² + b²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a² - b²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Factors of 3x² - x - 2 are:",
+   "q_ur": "3x² - x - 2 کے اجزائے ضربی _____ ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "(x + 1), (3x - 2) [best read]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(x + 1), (3x + 2) [best read]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(x - 1), (3x - 2)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(x - 1), (3x + 2)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "H.C.F of a² - b² and a³ - b³ is _____.",
+   "q_ur": "a² - b² اور a³ - b³ کا عادِ اعظم _____ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a + b",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a² + ab + b²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a² - ab + b²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "If x is no larger than 10, then _____.",
+   "q_ur": "اگر x کی قیمت 10 سے بڑی نہ ہو تو:",
+   "options": [
+    {
+     "k": "A",
+     "en": "x ≥ 8",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x ≤ 10",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x < 10",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x > 10",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "If (x - 1, y + 1) = (0, 0), then (x, y) is:",
+   "q_ur": "اگر (x - 1, y + 1) = (0, 0) تو (x, y) برابر ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "(1, -1)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(-1, 1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(1, 1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(-1, -1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Distance between points (0, 0) and (1, 1) is:",
+   "q_ur": "نقطہ (0, 0) اور (1, 1) کے درمیان فاصلہ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "The symbol used for correspondence is:",
+   "q_ur": "مطابقت کے لیے علامت استعمال ہوتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "→",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "↔",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "≈",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "≅",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "In a parallelogram opposite angles are _____.",
+   "q_ur": "متوازی الاضلاع کے مخالف زاویے _____ ہوتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Unequal",
+     "ur": "غیر برابر"
+    },
+    {
+     "k": "B",
+     "en": "Equal",
+     "ur": "برابر"
+    },
+    {
+     "k": "C",
+     "en": "Concurrent",
+     "ur": "ہم نقطہ"
+    },
+    {
+     "k": "D",
+     "en": "Non-concurrent",
+     "ur": "غیر ہم نقطہ"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "The right bisectors of the sides of a triangle are:",
+   "q_ur": "کسی مثلث کے اضلاع کے عمودی ناصف _____ ہوتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Congruent",
+     "ur": "متماثل"
+    },
+    {
+     "k": "B",
+     "en": "Equal",
+     "ur": "برابر"
+    },
+    {
+     "k": "C",
+     "en": "Concurrent",
+     "ur": "ہم نقطہ"
+    },
+    {
+     "k": "D",
+     "en": "Parallel",
+     "ur": "متوازی"
+    }
+   ]
+  },
+  {
+   "n": "1.1",
+   "group": "Group II",
+   "q_en": "The distance between points (0, 0) and (1, 1) is:",
+   "q_ur": "نقطہ (0, 0) اور (1, 1) کے درمیان فاصلہ _____ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "The symbol used for parallel is:",
+   "q_ur": "متوازی کے لیے علامت استعمال ہوتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "~",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "||",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "↔",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "⊥",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "The lines can intersect only at _____ point.",
+   "q_ur": "دو خطوط صرف _____ نقطہ پر قطع کر سکتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "The unit of ratio is _____.",
+   "q_ur": "نسبت کی اکائی _____ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Kg",
+     "ur": "کلو گرام"
+    },
+    {
+     "k": "B",
+     "en": "M",
+     "ur": "میٹر"
+    },
+    {
+     "k": "C",
+     "en": "Cm",
+     "ur": "سینٹی میٹر"
+    },
+    {
+     "k": "D",
+     "en": "No one",
+     "ur": "کوئی نہیں"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The area of given figure is _____. [figure: composite rectangle, labels 9cm, 6cm — partially obscured]",
+   "q_ur": "دی گئی شکل کا رقبہ _____ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "9cm²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "12cm²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "18cm²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "14cm²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "A quadrilateral having each angle equal to 90° is called:",
+   "q_ur": "ایک چوکور جس کا ہر زاویہ 90° ہو _____ کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Parallelogram",
+     "ur": "متوازی الاضلاع"
+    },
+    {
+     "k": "B",
+     "en": "Rectangle",
+     "ur": "مستطیل"
+    },
+    {
+     "k": "C",
+     "en": "Trapezium",
+     "ur": "ٹریپیزیم"
+    },
+    {
+     "k": "D",
+     "en": "Rohmbus [sic]",
+     "ur": "معین"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "[√2 0; 0 √2] is called _____ matrix.",
+   "q_ur": "[√2 0; 0 √2] _____ کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Scalar",
+     "ur": "سکیلر"
+    },
+    {
+     "k": "B",
+     "en": "Zero",
+     "ur": "صفری"
+    },
+    {
+     "k": "C",
+     "en": "Unit",
+     "ur": "یونٹ"
+    },
+    {
+     "k": "D",
+     "en": "Singular",
+     "ur": "سنگولر"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "(4)²⁄³ with radical sign:",
+   "q_ur": "(4)²⁄³ کو ریڈیکل علامت میں لکھیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "⁴√4⁶ [best read]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "³√4³ [best read]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√4³",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "³√4²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "log mⁿ = _____.",
+   "q_ur": "log mⁿ = _____.",
+   "options": [
+    {
+     "k": "A",
+     "en": "(log m)ⁿ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "m log n",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "n log m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "log (m n)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "4x + 3y - 2 is an algebraic _____.",
+   "q_ur": "4x + 3y - 2 ایک الجبرائی _____ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Expression",
+     "ur": "عبارت"
+    },
+    {
+     "k": "B",
+     "en": "Sentence",
+     "ur": "فقرہ"
+    },
+    {
+     "k": "C",
+     "en": "Equation",
+     "ur": "مساوات"
+    },
+    {
+     "k": "D",
+     "en": "Inequality",
+     "ur": "غیر مساوات"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "The factors of x² - 5x + 6 are:",
+   "q_ur": "x² - 5x + 6 کے اجزائے ضربی ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "(x + 1), (x - 6)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(x - 2), (x - 3)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(x + 6), (x - 1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(x + 2), (x + 3)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "HCF of (x² - 5x + 6) and (x² - x - 6) is:",
+   "q_ur": "(x² - 5x + 6) اور (x² - x - 6) کا عادِ اعظم ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "(x - 2)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x² - 4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x + 2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x - 3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "x = _____ is a solution of inequality -2 < x < 3/2.",
+   "q_ur": "x = _____ غیر مساوات -2 < x < 3/2 کا حل ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "-5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "Point (-3, -3) lies in quadrant.",
+   "q_ur": "نقطہ (-3, -3) کس ربع میں واقع ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "I",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "II",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "III",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "IV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "A ray has _____ end point/s.",
+   "q_ur": "ایک شعاع کے سروں کی تعداد _____ ہوتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

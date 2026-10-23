@@ -1,0 +1,542 @@
+{
+ "board": "BISE Rawalpindi",
+ "board_slug": "rawalpindi",
+ "class": "9th",
+ "subject": "english",
+ "year": 2022,
+ "slug": "rawalpindi-9th-english-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The earth ______ around the sun.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "revolve",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "revolves",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "is revolving",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "has revolved",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The baby ______ for milk now.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "cry",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "cries",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "is crying",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "has cried",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "He ______ to me since march.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "does not speak",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "is not speaking",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "have not spoken",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "has not been speaking",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "It ______ to rain an hour ago.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "begins",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "began",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "is begining [sic]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "has begun",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "I ______ own this assignment for a month.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "work",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "works",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "is working",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "had been working",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Correct spelling is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "commandable",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "commendable",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "commindable",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "commendible",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Correct spelling is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "vinture",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "vanture",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "venture",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "vinnture",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Correct spelling is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Jocund",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Jocuend [best read]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Jocevd",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Jocond",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Correct spelling is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "taboo",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "tabo",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "taboo [as printed]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "teeboo",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "It was so delicate a situation.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "difficult",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "easy",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "sensitive",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "frugal",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "'Vindictive' means:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "eradicate",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "revengeful",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "experiment",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "text",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Keep up your morale:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "wealth",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "fortitude",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "section",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "voice",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "The little birds are piping yet. The underlined word is a synonym of ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "twittering",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "crying",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "weeping",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "She simply posed a counter question that infuriated Abu Jehl: [sic]",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "pleased",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "helped",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "enraged",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "annoyingiy [sic]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "'Valour' is a/an ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Material Noun",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Countable Noun",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Abstract Noun",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Unaccoutable [sic] Noun",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "The boy laughs loudly. The underline word is a/an ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Intransitive Verb",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Finite Verbs",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Transitive Verb",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Irregular Verb",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "Wait ______ i return.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "before",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "unless",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "if",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "till",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group I",
+   "q_en": "He is fond of Cooking. The underlined is a/an ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Gerund",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Past Participle",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Infinitive",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Present Participle",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group I",
+   "q_en": "Beside the ungathered rice he lay. The underlined phrase is a/an ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Adjective Phrase",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Noun Phrase",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Preposition [sic] Phrase",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Averb [sic] Clause",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

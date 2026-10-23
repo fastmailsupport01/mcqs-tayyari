@@ -1,0 +1,962 @@
+{
+ "board": "BISE Rawalpindi",
+ "board_slug": "rawalpindi",
+ "class": "11th",
+ "subject": "chemistry",
+ "year": 2022,
+ "slug": "rawalpindi-11th-chemistry-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Amorphous solids: [numbered \"1.1.\" as printed]",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Have shape melting point [sic]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Under go clean cleavage when cut with knife [sic]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Have perfect arrangement of atoms",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Have small region of orderly arrangement of atom [sic]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The value of charge on electron is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2.602x10⁻¹⁹ Coulombs [sic]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.602x10⁻¹⁹ Coulombs",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.6023x10⁻¹⁹ Coulombs",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.602x10⁻¹⁹ Kg",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Quantum number value for 2S orbitals are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "n = 2, l = 1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "n = 1, l = 2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "n = 1, l = 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "n = 2, l = 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Which of the following species has unpaired electrons in the antibonding bonding molecular orbitals? [sic]",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "O₂⁻²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "N₂¹⁻",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "B₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "F₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Geometry of H₂O on the basis of VSEPR theory.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Linear",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Trigonal planer [sic]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Tetrahedral",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Bent",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The net heat change in a chemical reaction is same, whether it is brought about in two or different ways in one or several steps. It is known as.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Henry law",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Joul's law [sic]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Hess's law",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Law of conservation of energy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "For which system, does the equilibrium constant Kc has no units.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "N₂ + 3H₂ ⇌ 2NH₃",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "H₂ + I₂ ⇌ 2HI",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2NO₂ ⇌ N₂O₄",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Colligative properties are the properties of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Dil solution which behave as nearly ideal solutions",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Concentrated solution which behave as nearly non-ideal solution",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Both (A) and (B)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "If the salt bridge is not used between half cells, then the voltage.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Decrease rapidly",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Decrease slowly",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Does not change",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Drops to Zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "If the equation of reaction 2A + B → Product, rate = K[A]²[B], A is present in large excess, then order of reaction is.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "One mole of SO₂ contain:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "6.02x10²³ atoms of oxygen",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.81x10²³ molecule of SO₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6.02x10²³ atoms of Sulphur",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4 gram atoms of SO₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "A limiting reactant is one which is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Taken in small amount in gram as compared to other reactant",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Taken in lesser amount in volume as compared to other reactant.",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Give the maximum amount of product",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Give minimum amount of product",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "A filtration process could be very time consuming if it were not aided by suction which is developed:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "If the paper covers the funnel up to the circumference",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "If the paper has got small sized pores in it",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "If the stem of the funnel in large so that it dips into the filtrate",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "If the paper fits tightly",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "Solvent extraction is an equilibrium process and is controlled by.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Law of Mass action",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Amount of solvent used",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Partition law",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Amount of solute",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Pressure remain constant, at which temperature the volume of gas will become twice of what it is at 0°C:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "546°C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "200°C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "546 K",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "273 K",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "The order of rate of diffusion of gases NH₃, SO₂, Cl₂ and CO₂ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "NH₃ > SO₂ > Cl₂ > CO₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NH₃ > CO₂ > SO₂ > Cl₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cl₂ > SO₂ > CO₂ > NH₃",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NH₃ > CO₂ > Cl₂ > SO₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "In order to raise the building point [sic — \"building\" as printed] at H₂O up to 110°C, the external pressure should be.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Between 760 torr and 1200 torr",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Between 200 torr and 760 torr",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "576 torr",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "At any pressure",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "The volume occupied by 16g of O₂ at S.T.P is: [numbered \"1.1.\" as printed]",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "22.4 dm³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2.24 dm³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "11.2 dm³",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.12 dm³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "According to VSEPR theory, the shape of SO₃ molecule is.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Trigonal pyramidal",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Bent or angular",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Triangular planer [sic]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Tetrahedral",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "A filtration process could be very time consuming if it were not aided by a gentle suction which is developed",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "If the paper covers the funnel up to the circumference",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "If the paper has got small sized pores in it",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "If the stem of the funnel is large so that it dips into the filtrate",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "If the paper fits tightly",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "When 6d orbital is complete, the entering electron goes into",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "7s",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "7p",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7f",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "7d",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Which one of the following hydrocarbons has shortest C-C bond length?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ethyne",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ethene",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ethane",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Benzene",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "NH₃ shows a maximum boiling point among the hydrides of Vth group elements due to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Enhanced electronegative character of nitrogen",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Pyramidal structure of NH₃",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Lone-pairs of electrons present on nitrogen",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Very small size of nitrogen",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "If the absolute temperature of a gas is doubled and the pressure is reduced to one half, the volume of the gas will.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Remains unchanged",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Reduced to 1/4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Increases four times",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Be doubled",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Splitting of spectral lines when atoms are subjected to strong magnetic field is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zeeman effect",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Stark effect",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Photoelectric effect",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Compton effect",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Gases deviate from ideal behaviour at high pressure. Which of the following is correct for non-ideality?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "At high pressure, the gas molecules move in one direction only",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "At high pressure, the intermolecular attractions becomes significant",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "At high pressure, the collisions between the gas molecules are much increased",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "At high pressure, the volume of the gas becomes insignificant",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Dipole-dipole forces are present among the.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Atoms of helium gas",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Molecules of CCl₄",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Molecules of solid I₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Molecules of HCl",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Which of the following statements is not correct about galvanic cell?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Reduction occurs at cathode",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Anode is negatively charged",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cathode is positively charged",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Reduction occurs at anode",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Oxidation of nitric oxide with ozone has been shown to be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "First order reaction",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Pseudo first order reaction",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Second order reaction",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Third order reaction",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "A solution of glucose is 10% W/v. The volume in which 1g mole of it is dissolved will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "900Cm³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "200Cm³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.8dm³",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1dm³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "The aqueous solution of BiCl₃ is cloudy. The cloudiness of BiCl₃ solution can be vanished by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Addition of BiCl₃",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Addition of H₂O",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Addition of HCl",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Addition of both BiCl₃ and H₂O",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "22g of CO₂ sample has:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/2 mole of O atoms",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1 mole of O atoms",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.5 moles of O atoms",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6.02x10²³ molecules of CO₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "Which one of the following maybe employed as drying agent in a desiccator?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "P₂O₅",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Animal charcoal",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "KMnO₄",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NH₄Cl",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "In endothermic reactions, the heat contents of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Products is more than that of reactants",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Reactants is more than that of products",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Both (A) and (B)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Reactants and products are equal",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

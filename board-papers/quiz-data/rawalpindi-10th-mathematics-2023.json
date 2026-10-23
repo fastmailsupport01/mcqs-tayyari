@@ -1,0 +1,430 @@
+{
+ "board": "BISE Rawalpindi",
+ "board_slug": "rawalpindi",
+ "class": "10th",
+ "subject": "mathematics",
+ "year": 2023,
+ "slug": "rawalpindi-10th-mathematics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "If A ⊆ B, then A - B is equal to:",
+   "q_ur": "اگر A ⊆ B تو A - B برابر ہوتا ہے:",
+   "options": [
+    {
+     "k": "a",
+     "en": "A ∪ B",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "A",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "B",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "φ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "If number of element in set A is 3 and in set B is 2, then number of binary relations in Ax B is:",
+   "q_ur": "اگر سیٹ A میں ارکان کی تعداد 3 اور سیٹ B میں 2 ہو تو AxB میں بائنری ریلیشنز کی تعداد ہوتی ہے:",
+   "options": [
+    {
+     "k": "a",
+     "en": "2⁶",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "2⁸",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "2³",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "2²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The spread of observations in a data set is called:",
+   "q_ur": "کسی مواد میں مدات کا پھیلاؤ کہلاتا ہے:",
+   "options": [
+    {
+     "k": "a",
+     "en": "Quartile",
+     "ur": "چاراری حصہ [sic]"
+    },
+    {
+     "k": "b",
+     "en": "Range",
+     "ur": "وسط"
+    },
+    {
+     "k": "c",
+     "en": "Dispersion",
+     "ur": "انتشار"
+    },
+    {
+     "k": "d",
+     "en": "Average",
+     "ur": "اوسط"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Sum of the deviations of the variable X from its mean is always:",
+   "q_ur": "کسی متغیر x کا اس کے حسابی اوسط سے انحراف کا مجموعہ ہمیشہ _____ ہوتا ہے۔",
+   "options": [
+    {
+     "k": "a",
+     "en": "One",
+     "ur": "ایک"
+    },
+    {
+     "k": "b",
+     "en": "Zero",
+     "ur": "صفر"
+    },
+    {
+     "k": "c",
+     "en": "Two",
+     "ur": "دو"
+    },
+    {
+     "k": "d",
+     "en": "Three",
+     "ur": "تین"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "½ Cosec 45° =",
+   "q_ur": "½ Cosec 45° =",
+   "options": [
+    {
+     "k": "a",
+     "en": "1/(2√2)",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "√3",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "√2",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "1/√2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Through how many non collinear points can a circle pass?",
+   "q_ur": "دائرہ کتنے غیر خطی نقاط سے گزرتا ہے؟",
+   "options": [
+    {
+     "k": "a",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "A circle has only one:",
+   "q_ur": "ایک دائرے کا صرف ایک ہی _____ ہوتا ہے۔",
+   "options": [
+    {
+     "k": "a",
+     "en": "Secant",
+     "ur": "خط قاطع"
+    },
+    {
+     "k": "b",
+     "en": "Centre",
+     "ur": "مرکز"
+    },
+    {
+     "k": "c",
+     "en": "Tangent",
+     "ur": "مماس"
+    },
+    {
+     "k": "d",
+     "en": "Chord",
+     "ur": "وتر"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The length of a chord and the radial segment of a circle are congruent, the central angle made by the chord will be:",
+   "q_ur": "ایک دائرے میں وتر اور رداس کی لمبائیاں برابر ہیں۔ وتر سے بننے والا مرکزی زاویہ _____ ہوگا۔",
+   "options": [
+    {
+     "k": "a",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "70°",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "90°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Angle inscribed in a semi circle is:",
+   "q_ur": "نصف دائرے میں محصور زاویہ ہوتا ہے:",
+   "options": [
+    {
+     "k": "a",
+     "en": "π/2",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "π/3",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "π/4",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "π/6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The number of methods to solve a quadratic equation is:",
+   "q_ur": "دو درجی مساوات کو حل کرنے کے کتنے طریقے ہیں؟",
+   "options": [
+    {
+     "k": "a",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Roots of the equation 4x² - 5x + 2 = 0 are:",
+   "q_ur": "مساوات 4x² - 5x + 2 = 0 کے روٹس ہیں:",
+   "options": [
+    {
+     "k": "a",
+     "en": "Imaginary",
+     "ur": "غیر حقیقی"
+    },
+    {
+     "k": "b",
+     "en": "Rational",
+     "ur": "ناطق"
+    },
+    {
+     "k": "c",
+     "en": "Irrational",
+     "ur": "غیر ناطق"
+    },
+    {
+     "k": "d",
+     "en": "Equal",
+     "ur": "برابر"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "If α, β are the roots of px² + qx + r = 0 then sum of the roots 2α and 2β is:",
+   "q_ur": "اگر α, β مساوات px² + qx + r = 0 کے روٹس ہوں تو 2α اور 2β کا مجموعہ ہے:",
+   "options": [
+    {
+     "k": "a",
+     "en": "q/(2p)",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "2q/p",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "-q/(2p)",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "-2q/p",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "If y² ∝ 1/x³ then",
+   "q_ur": "اگر y² ∝ 1/x³ تو:",
+   "options": [
+    {
+     "k": "a",
+     "en": "y² = 1/x³",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "y² = k/x³",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "y² = x²",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "y² = kx³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "The third proportional of x² and y² is:",
+   "q_ur": "x² اور y² کا تیسرا تناسب ہے:",
+   "options": [
+    {
+     "k": "a",
+     "en": "y²/x²",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "x²y²",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "y⁴/x²",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "x²/y⁴",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "A fraction in which the degree of the numerator is less than the degree of the denominator is called:",
+   "q_ur": "کسر جس میں شمار کنندہ کا درجہ مخرج کے درجے سے کم ہو کہلاتی ہے:",
+   "options": [
+    {
+     "k": "a",
+     "en": "A proper fraction",
+     "ur": "واجب کسر"
+    },
+    {
+     "k": "b",
+     "en": "An improper fraction",
+     "ur": "غیر واجب کسر"
+    },
+    {
+     "k": "c",
+     "en": "An equation",
+     "ur": "مساوات [best read]"
+    },
+    {
+     "k": "d",
+     "en": "Inequality",
+     "ur": "غیر مساوات"
+    }
+   ]
+  }
+ ]
+}

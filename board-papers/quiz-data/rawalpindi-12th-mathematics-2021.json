@@ -1,0 +1,570 @@
+{
+ "board": "BISE Rawalpindi",
+ "board_slug": "rawalpindi",
+ "class": "12th",
+ "subject": "mathematics",
+ "year": 2021,
+ "slug": "rawalpindi-12th-mathematics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Combined (all sessions)",
+   "q_en": "If g(x) = 1/x², x≠0 then gog(x) equals.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x⁴",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Combined (all sessions)",
+   "q_en": "lim(θ→0) (1-cosθ)/θ equals.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Combined (all sessions)",
+   "q_en": "The derivative of √x at x = 1 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-1/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Combined (all sessions)",
+   "q_en": "d/dx[1/g(x)] equals.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/g²(x)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-g'(x)/(g(x))²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-g(x)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/g(x)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Combined (all sessions)",
+   "q_en": "If y = 5eˣ then y₃ equals.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "25eˣ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "75eˣ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "15eˣ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5eˣ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Combined (all sessions)",
+   "q_en": "If f(x+h) = cos(x+h) then f'(x) equals.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "cos x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-cos x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-sin x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "sin x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Combined (all sessions)",
+   "q_en": "Inverse of ∫........dx is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "d/dy",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "d/dx",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "dy/dx",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "dx/dy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Combined (all sessions)",
+   "q_en": "∫ₐᵇ f(x) dx equals:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-∫ᵦₐ f(x) dx",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "∫₋ᵦₐ f(x) dx",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "∫ᵦ⁻ᵃ f(x) dx",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "∫ₐ⁻ᵦ f(x) dx",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Combined (all sessions)",
+   "q_en": "The general solution of dy/dx = -y/x is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "xy = c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x²y² = c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x/y = c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "y/x = c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Combined (all sessions)",
+   "q_en": "∫e⁻ˣ(cos x - sin x)dx equals:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-e⁻ˣ sin x + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "e⁻ˣ cos x + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "e⁻ˣ + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "e⁻ˣ sin x + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Combined (all sessions)",
+   "q_en": "The distance of point (3,7) from x-axis is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-7",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Combined (all sessions)",
+   "q_en": "Slope of Y-axis is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "undefined",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Combined (all sessions)",
+   "q_en": "Equation of horizontal line through (7,-9) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "y = -9",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "y = 7",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x = -9",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x = 7",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Combined (all sessions)",
+   "q_en": "(0,2) is solution of inequality.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3x+5y > 7",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3x+5y < 7",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x < 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x > 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Combined (all sessions)",
+   "q_en": "Centre of circle x² + y² + 2gx + 2fy + c = 0 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(g,f)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(-g,f)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(0,0)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(-g,-f)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Combined (all sessions)",
+   "q_en": "Equation of Latus rectum of parabola x² = 4ay is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "y = -a",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "y = a",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x = -a",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x = a",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Combined (all sessions)",
+   "q_en": "Vertices of x²/16 - y²/25 = 1 are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(0,±4)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(0,±5)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(±4,0)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(±5,0)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Combined (all sessions)",
+   "q_en": "The non zero vectors a̲ and b̲ are parallel if a̲×b̲ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Combined (all sessions)",
+   "q_en": "cosθ equals:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a̲.b̲",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a̲×b̲",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "|a̲×b̲|",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "â.b̂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Combined (all sessions)",
+   "q_en": "If any two vectors of scalar triple product are equal then its value is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "zero",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

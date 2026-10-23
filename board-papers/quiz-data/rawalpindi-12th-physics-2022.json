@@ -1,0 +1,962 @@
+{
+ "board": "BISE Rawalpindi",
+ "board_slug": "rawalpindi",
+ "class": "12th",
+ "subject": "physics",
+ "year": 2022,
+ "slug": "rawalpindi-12th-physics-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "An A.C voltmeter has rms value 220 V, its peak value is ______ . [numbered \"1. 1.\" as printed]",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "300 V",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "210 V",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "zero",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "311.12 V",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "For higher frequency, the inductive reactance will be ______ .",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "high",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "low",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "zero",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "infinite",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "At 0 K, semiconductor is ______ .",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "conductor",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "insulator",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "perfect insulator",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "perfect diamagnetic and paramagnetic [sic]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "A PN junction cannot be used as ______ .",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "amplifier",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "capacitor",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "rectifier",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "light emitting diod [sic]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The portion of the transistor with greater concentration is ______ .",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "base",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "collector",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "emitter",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "insulator",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The maximum energy of photo-electron depends upon ______ .",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "frequency",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "intensity",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "power",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "illumination",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Compton shift in wavelength is zero when scattering angle of photon is ______ .",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "30°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "90°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "In population inversion, atoms can reside in metastable state for ______ .",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10⁻¹⁰ sec",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10⁻³ sec",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10⁻⁸ sec",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10⁻¹² sec",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The percentage of original quantity of radioactive material left after five half-lives is nearly ______ .",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "6%",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5%",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10%",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3%",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Which of the following is used as moderator is [sic] nuclear reactor?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "heavy water",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "boron",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "cadmium",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "aluminum",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "If the distance between charges is halved and each charge is also doubled, then the force between two changes [sic] becomes ______ times.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "two",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "sixteen",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "eight",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "four",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The force between two charges is 36 N and if the dielectric constant 3.6 value is inserted, then force reduces to ______ .",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "72 N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "25 N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10 N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "A thermistor with positive temperature of co-efficient [sic] is heated then its resistance will ______ .",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "decrease",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "increase",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "not be affected",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "become half",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "The magnetic force on a neutron in the magnetic field of 10 T is ______ .",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.6 x 10⁻¹⁸ N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "100 N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.6 x 10⁻¹⁹ N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "A charge particle cannot be accelerated in ______ field.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "electric",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "gravitational",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "magnetic",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "scalar",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "The energy stored in the inductor becomes four times if ______ .",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "self-inductance is doubled",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "current is doubled",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "both inductance and current are doubled",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "current is halved",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "Which type of energy is stored in inductor?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "electric energy",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "magnetic energy",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "potential energy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "gravitational energy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Which one is not a ductile material? [numbered \"1. 1.\" as printed]",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "lead",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "copper",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "steel",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "iron",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Open loop gain of operational amplifier is of the order of ______ .",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10⁶",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10⁷",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10⁵",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Gain of inverting amplifier with external resistance R₁ = 10 k Ω and R₂ = 100 k Ω, is given as ______ .",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-10",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-100",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "100",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "All motions are ______ .",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "absolute",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "uniform",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "relative",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "variable",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "If an object moves with the speed of light, its mass will be ______ .",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "maximun [sic]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "infinity",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "minimum",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Which of the following has the largest de Broglie wavelength at same speed?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "proton",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "α-particles",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "carbon atom",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "electron",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "The dead time of G.M tube is ______ .",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10⁻³ sec",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10⁻⁶ sec",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10⁻⁴ sec",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10⁻⁸ sec",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Slow neutrons can cause fission in ______ .",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "uranium-238",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "uranium-235",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "neptunium",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "lithium",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "SI unit of electric flux is ______ .",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "N m² C⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "N m² C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "N m⁻¹ C⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "N C⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "A proton is moved from low potential to high potential between two points having potential difference of 1 volt energy gained by proton is ______ .",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 ev",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2 ev",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.6 x 10⁻¹⁹ ev",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.6 ev",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "A rheostat can be used as ______ .",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "potential divider",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "variable resistance",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "amplifier",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "both (A) & (B)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Magnetic field due to current carrying straight varies as ______ .",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/r²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "r²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/r",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "r",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "Charge to mass ratio of neutron is ______ .",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "9.53 x 10⁹ C kg⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.758 x 10⁴ C kg⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.775 x 10⁻¹¹ C kg⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "The motional emf depends upon ______ .",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "length of conductor",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "magnetic field",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "speed",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "all of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "Lenz's law is the manifestation of conservation of ______ .",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "current",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "voltage",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "energy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "all of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "The reactance of an inductor is given as ______ .",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ωL",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/ωL",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ω/L",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "L/ω",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "The reactance of an inductor increases with increase in ______ .",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "frequency",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "voltage",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "resistance",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "capacitance",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

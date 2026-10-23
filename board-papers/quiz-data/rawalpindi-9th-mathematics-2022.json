@@ -1,0 +1,850 @@
+{
+ "board": "BISE Rawalpindi",
+ "board_slug": "rawalpindi",
+ "class": "9th",
+ "subject": "mathematics",
+ "year": 2022,
+ "slug": "rawalpindi-9th-mathematics-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The degree of Polynomial 4x^4+2x^2y is __:",
+   "q_ur": "[best read — 4x^4+2x^2y کی ڈگری ہے:]",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Factors of 8x^3+27y^3 are:",
+   "q_ur": "[best read — 8x^3+27y^3 کے اجزائے ضربی ہیں:]",
+   "options": [
+    {
+     "k": "A",
+     "en": "(2x+3y)(4x^2+9y^2)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(2x-3y)(4x^2-9y^2)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(2+3y)(4x^2-6xy+9y^2)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(2x-3y)(4x^2+6xy+9y^2)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The square root of a^2-2a+1 is ______:",
+   "q_ur": "[best read — a^2-2a+1 کا جزر المربع ہے:]",
+   "options": [
+    {
+     "k": "A",
+     "en": "±(a+1)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a-1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "±(a-1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a+1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "A Statement involving any of the symbol <, >, <= or >= is called ______:",
+   "q_ur": "[best read — کوئی ایسا بیان جس میں <، >، ≤ یا ≥ کی علامتیں ہوں کہلاتا ہے:]",
+   "options": [
+    {
+     "k": "A",
+     "en": "inequality",
+     "ur": "غیر مساوات"
+    },
+    {
+     "k": "B",
+     "en": "equation",
+     "ur": "مساوات"
+    },
+    {
+     "k": "C",
+     "en": "identity",
+     "ur": "ایسی مساوات جو متغیر کی ہر قیمت کے لیے درست ہو"
+    },
+    {
+     "k": "D",
+     "en": "linear equation",
+     "ur": "ایک درجی مساوات"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "If (x-1,y+1) = (0,0) then (x,y) is ______:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(-1,-1)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(1,1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(-1,1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(1,-1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Mid Point of the Points (2,-2) and (-2,2) is:",
+   "q_ur": "[best read — نقاط (2,-2) اور (-2,2) کا درمیانی نقطہ ہے:]",
+   "options": [
+    {
+     "k": "A",
+     "en": "(2,2)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(-2,-2)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(0,0)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(1,1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The Symbol used for correspondence is ______:",
+   "q_ur": "[best read — مطابقت کے لیے استعمال ہونے والی علامت ہے:]",
+   "options": [
+    {
+     "k": "A",
+     "en": "→",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "↔",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "≈",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "≌",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Diagnols [sic] of a Parallelogram divides the Parallelogram into ______ Congruent triangles:",
+   "q_ur": "[best read — متوازی الاضلاع کے قطری اسے ______ ہم مثلثوں میں تقسیم کرتے ہیں:]",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The right bisector of the sides of an obtuse triangle intersect each other ______ the triangle:",
+   "q_ur": "[best read — منفرج زاویہ مثلث کے اضلاع کے عمودی نصاف ایک دوسرے کو مثلث کے ______ میں کاٹتے ہیں:]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Inside",
+     "ur": "اندر"
+    },
+    {
+     "k": "B",
+     "en": "Base",
+     "ur": "قاعدہ"
+    },
+    {
+     "k": "C",
+     "en": "Hypotenuse",
+     "ur": "وتر"
+    },
+    {
+     "k": "D",
+     "en": "Outside",
+     "ur": "باہر"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "If two triangles are similar then the measure of their crossponding [sic] sides are ______:",
+   "q_ur": "[best read — اگر دو مثلثیں متشابہ ہوں تو ان کے متناظر اضلاع کی پیمائش ______ ہوتی ہے:]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Equal",
+     "ur": "برابر"
+    },
+    {
+     "k": "B",
+     "en": "Different",
+     "ur": "مختلف"
+    },
+    {
+     "k": "C",
+     "en": "Proportional",
+     "ur": "متناسب"
+    },
+    {
+     "k": "D",
+     "en": "Large",
+     "ur": "بڑے"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Area of given figure is ______: [parallelogram, base 8cm, height 4cm]",
+   "q_ur": "[best read — دی گئی شکل کا رقبہ ہے:]",
+   "options": [
+    {
+     "k": "A",
+     "en": "18cm^2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "32cm^2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "16cm^2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "36cm^2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "If three altitude of triangle are congruent, then the triangle is ______:",
+   "q_ur": "[best read — اگر ایک مثلث کے تینوں عمودی خطوط ہم مثل ہوں تو مثلث ______ ہوگی:]",
+   "options": [
+    {
+     "k": "A",
+     "en": "equilateral",
+     "ur": "مساوی الاضلاع"
+    },
+    {
+     "k": "B",
+     "en": "right angled",
+     "ur": "قائمہ زاویہ"
+    },
+    {
+     "k": "C",
+     "en": "isosceles",
+     "ur": "مساوی الساقین"
+    },
+    {
+     "k": "D",
+     "en": "acute angled",
+     "ur": "حادہ زاویہ"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "[√2 0; 0 √2] is called ______ Matrix:",
+   "q_ur": "[best read — میٹرکس ______ کہلاتی ہے:]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": "صفری"
+    },
+    {
+     "k": "B",
+     "en": "Scalar",
+     "ur": "اسکیلر"
+    },
+    {
+     "k": "C",
+     "en": "Unit",
+     "ur": "وحدانی"
+    },
+    {
+     "k": "D",
+     "en": "Singular",
+     "ur": "منفرد"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "(25/16)^(-1/2) = ______:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5/4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4/5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-5/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-4/5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "The logarithm of any number to itself as base is ______:",
+   "q_ur": "[best read — اگر کسی عدد کو خود کو اساس بنا کر لوگارتھم لیا جائے تو:]",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "(√a+√b)(√a-√b) is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a^2+b^2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a^2-b^2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a-b",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a+b",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "The factors of x^2-5x+6 are:",
+   "q_ur": "[best read — x^2-5x+6 کے اجزائے ضربی ہیں۔]",
+   "options": [
+    {
+     "k": "A",
+     "en": "x+1, x-6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x-2, x-3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x+6, x-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x+2, x+3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "H.C.F of x^2-5x+6 and x^2-x-6 is:",
+   "q_ur": "[best read — x^2-5x+6 اور x^2-x-6 کا عاد اعظم ہے]",
+   "options": [
+    {
+     "k": "A",
+     "en": "x-3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x+2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x^2-4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x-2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "A statement involving any of the symbols <, >, ≤ or ≥ is called:",
+   "q_ur": "[best read — کوئی ایسا بیان جس میں <، >، ≤ یا ≥ کی علامتیں ہوں کہلاتا ہے۔]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Equation",
+     "ur": "مساوات"
+    },
+    {
+     "k": "B",
+     "en": "Identity",
+     "ur": "ایسی مساوات جو متغیر کی ہر قیمت کے لیے درست ہو"
+    },
+    {
+     "k": "C",
+     "en": "Inequality",
+     "ur": "غیر مساوات"
+    },
+    {
+     "k": "D",
+     "en": "Linear equation",
+     "ur": "ایک درجی مساوات"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "If (x-1, y+1) = (0,0), then (x, y) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(1,-1)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(-1,1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(1,1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(-1,-1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Distance between points (0, 0) and (1, 1) is:",
+   "q_ur": "[best read — نقاط (0,0) اور (1,1) کے درمیان فاصلہ ہے۔]",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "A ray has ______ end points.",
+   "q_ur": "[best read — ایک شعاع کے ______ سرے ہوتے ہیں۔]",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Each diagonal of a parallelogram bisects it into ______ congruent triangles.",
+   "q_ur": "[best read — متوازی الاضلاع کا ہر قطر اسے ______ ہم مثلثوں میں تقسیم کرتا ہے۔]",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Corresponding angles of similar triangles are:",
+   "q_ur": "[best read — متشابہ مثلثوں کے متناظر زاویے ہوتے ہیں۔]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Equal",
+     "ur": "متساوی"
+    },
+    {
+     "k": "B",
+     "en": "Unequal",
+     "ur": "غیر متساوی"
+    },
+    {
+     "k": "C",
+     "en": "Collinear",
+     "ur": "ہم خط"
+    },
+    {
+     "k": "D",
+     "en": "Parallel",
+     "ur": "متوازی"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "The right bisectors of sides of a triangle are:",
+   "q_ur": "[best read — کسی مثلث کے اضلاع کے عمودی ناصف ہوتے ہیں۔]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Proportional",
+     "ur": "متناسب"
+    },
+    {
+     "k": "B",
+     "en": "Perpendicular",
+     "ur": "عمود"
+    },
+    {
+     "k": "C",
+     "en": "Concurrent",
+     "ur": "ہم نقط"
+    },
+    {
+     "k": "D",
+     "en": "Collinear",
+     "ur": "ہم خط"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "The region enclosed by the bounding lines of a closed figure is called ______ of the figure.",
+   "q_ur": "[best read — کسی بند شکل کی حد بندی کرنے والے تعلقات جس علاقے کا احاطہ کرتے ہیں، وہ شکل کا ______ کہلاتا ہے۔]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Perimeter",
+     "ur": "احاطہ"
+    },
+    {
+     "k": "B",
+     "en": "Area",
+     "ur": "رقبہ"
+    },
+    {
+     "k": "C",
+     "en": "Union",
+     "ur": "یونین"
+    },
+    {
+     "k": "D",
+     "en": "Altitude",
+     "ur": "ارتفاع"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "One angle on the base of an isosceles triangle is 30°. What is the measure of its vertical angle?",
+   "q_ur": "[best read — مساوی الساقین مثلث کے قاعدے پر ایک زاویہ 30° ہے — اس کے راسی زاویے کی مقدار کیا ہے؟]",
+   "options": [
+    {
+     "k": "A",
+     "en": "30°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "120°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "The order of matrix [2 1] is:",
+   "q_ur": "[best read — میٹرکس کا آرڈر ہے۔]",
+   "options": [
+    {
+     "k": "A",
+     "en": "2-by-1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1-by-2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1-by-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2-by-2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "(27x^{-1})^{-2/3} = ..........:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "∛x^2/9",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "√x^3/9",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "∛x^2/8",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√x^3/8",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "The logarithm of unity to any base is:",
+   "q_ur": "[best read — کسی بھی اساس پر \"1\" کا لوگارتھم ______ کے برابر ہوتا ہے]",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "e",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

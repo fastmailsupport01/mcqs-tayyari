@@ -1,0 +1,486 @@
+{
+ "board": "BISE Rawalpindi",
+ "board_slug": "rawalpindi",
+ "class": "11th",
+ "subject": "physics",
+ "year": 2021,
+ "slug": "rawalpindi-11th-physics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Combined (all sessions)",
+   "q_en": "Which one of the following is correct?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "m=E/C²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "m=C²/E",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "m=C²E",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "m=CE",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Combined (all sessions)",
+   "q_en": "Which of the following is perpendicular to 4î - 3ĵ:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4î + 3ĵ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6î",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7k̂ + î",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3î + 4ĵ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Combined (all sessions)",
+   "q_en": "Torque is rotational analogous of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Momentum",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Force",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Weight",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Axis of rotation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Combined (all sessions)",
+   "q_en": "A ball is dropped from a height of 4.2 meters. To what height it will rise if there is no loss after rebounding?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4.2 m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8.4 m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "12.6 m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2.4 m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Combined (all sessions)",
+   "q_en": "Total time for which the projectile remains in air is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Time of projectile",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Time period",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Time of flight",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Time constant",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Combined (all sessions)",
+   "q_en": "Dimensions of angular acceleration are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[T⁻¹]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[T⁻²]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[T⁻³]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[LT⁻²]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Combined (all sessions)",
+   "q_en": "When a body moves in a circular path it's linear velocity:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "remains constant",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "becomes zero",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "changes",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "increases",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Combined (all sessions)",
+   "q_en": "If 20 waves pass through medium in one second with speed of 20 ms⁻¹, the wavelength is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "20 m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2 m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "400 m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1 m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Combined (all sessions)",
+   "q_en": "Distance between two consecutive nodes is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "λ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2λ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "λ/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "λ/4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Combined (all sessions)",
+   "q_en": "For mono atomic gas Cv = 3R/2 therefore γ for this gas is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3/5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4/15",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "15/4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Combined (all sessions)",
+   "q_en": "Average velocity of molecules in gas is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "positive",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "negative",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "infinity",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Combined (all sessions)",
+   "q_en": "Gravity performs zero work when body moves:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Vertically",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Horizontally",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "at 60⁰ with vertical",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "at 60⁰ with horizontal",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Combined (all sessions)",
+   "q_en": "The SI unit of rate of flow of fluid is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "m/s",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "m³/s",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "m/s²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Kg m/s",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Combined (all sessions)",
+   "q_en": "Energy of particle executing SHM of amplitude X₀ is proportional to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "X₀²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "X₀⁻²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "X₀",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "X₀²/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Combined (all sessions)",
+   "q_en": "Formula for Fringe spacing is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "λd/L",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "λL/d",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ld/λ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "mλL/d",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Combined (all sessions)",
+   "q_en": "Length of astronomical telescope for normal adjustment is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "f₀+fₑ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "f₀-fₑ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/f₀ - 1/fₑ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/f₀ + 1/fₑ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Combined (all sessions)",
+   "q_en": "Least count of meter rod is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.01 cm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.001 cm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.1 cm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1 cm",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,290 @@
+{
+ "board": "BISE Rawalpindi",
+ "board_slug": "rawalpindi",
+ "class": "10th",
+ "subject": "computer-science",
+ "year": 2023,
+ "slug": "rawalpindi-10th-computer-science-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "In \"If\" statement what happens if condition is false? Ch. #3",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Program crashes",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Index out of bound error",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Further code executes",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Compiler asks to change conditions",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Which of the following statements will execute. Ch. #3\nInt a = 5;\nIf (a < 10)\na ++;\nelse\nif (a > 4)\na - -;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a ++;",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a - -;",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "both a and b",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "_____ is the unique identifier, used to refer to the array; Ch. #4",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Data type",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Array name",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Array size",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Array can be initialized _____ declaration. Ch. #4",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "At the time of",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "After",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Before",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Both a and b",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The advantage of using functions are _____. Ch. #5",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Readability",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Reusability",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Easy debugging",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "If there are three return statements in the function body _____ of them will be executed. Ch. #5",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "One",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Two",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Three",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "First and last",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Every programming language has some primitive building blocks and follows some grammar rules known as its _____. Ch. #1",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Programming rules",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Syntax",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Building blocks",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Semantic rules",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "A list of words that are predefined and must not be used by the programmer to name his own variables are known as _____. Ch. #1",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Auto words",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Reserved words",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Restricted words",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "predefined words",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Which of the following is a valid line of code: Ch. #2",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "int = 20;",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "grade = 'A';",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Line = This is a line",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of them",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Which operator has highest precedence among the following; Ch. #2",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "/",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "=",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": ">",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "!",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

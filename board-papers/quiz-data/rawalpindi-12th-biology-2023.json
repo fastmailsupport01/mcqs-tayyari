@@ -1,0 +1,486 @@
+{
+ "board": "BISE Rawalpindi",
+ "board_slug": "rawalpindi",
+ "class": "12th",
+ "subject": "biology",
+ "year": 2023,
+ "slug": "rawalpindi-12th-biology-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The only excretory structures in animal kingdom that are associated with digestive tract are called: [numbered 1.1 as printed]",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Kidneys",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Flame cells",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Malpighian Tubules",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Metnephridia [sic]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The number of lumbes [sic] vertebrae in human is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Five",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Nine",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Two",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Seven",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Bone forming cells are called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Osteocytes",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Osteoclasts",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Chondroblasts",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Osteoblasts",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Sensation of pain is produced by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Photoreceptors",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Nociceptors",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Thermo receptors",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Chemo receptors",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Which of the following do not help in coordination:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Receptors",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Effectors",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Neuroglia",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Neurons",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Pasthenocarpy [sic] is the development of fruit without:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Fertilization",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Pollination",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Germination",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Hormones",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The loss of memory and white hairs comes under:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Merontology [sic]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Teratology",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Regeneration",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Gerontology",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Which of the following is not non-sense codon:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "UGA",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "AUG",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "UAG",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "UAA",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Centeal [sic] dogma is used for ____ in all organisms.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Behavioral expression",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Gene depression",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Necrosis",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Gene expression",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Short stature, webbed neck and without ovaries are related to: ____",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "44 autosomes + X",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2n+1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "44 autosomes + XXY",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "23+XY [sic]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Which of the following is not hereditary disease:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Diabetes mellitus",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Hemophilia",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Malaria",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Color blindness",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "In tissue culture enzymes are used to digest the:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Chloroplast",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cell wall",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Vacuole",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cell membrane",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "For the entry of DNA, high voltage electric pulses are applied for making pores in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Plasma membrane",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "DNA",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cytoplasm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cell wall",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "In certain areas, such as Ecuador, forests coverage has reduced by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "100%",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "50%",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "30%",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "95%",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Which is not abiotic component:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Water",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Plant",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Light",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Air",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "The zone in lake where light is insufficient to support photosynthesis is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Profundal",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Littoral",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Limnetic",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Shallow",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "Stone monuments like \"Taj Mahal\" are being eroded due to stone cancer by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Eutrophication",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Radiation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Acid rain",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Air",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

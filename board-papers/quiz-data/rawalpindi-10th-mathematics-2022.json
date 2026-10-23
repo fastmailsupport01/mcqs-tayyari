@@ -1,0 +1,850 @@
+{
+ "board": "BISE Rawalpindi",
+ "board_slug": "rawalpindi",
+ "class": "10th",
+ "subject": "mathematics",
+ "year": 2022,
+ "slug": "rawalpindi-10th-mathematics-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "An equation of the form 2x^4-3x^3+7x^2-3x+2=0 is called:",
+   "q_ur": "مساوات 2x^4-3x^3+7x^2-3x+2=0 کہلاتی ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Reciprocal equation",
+     "ur": "معکوس مساوات"
+    },
+    {
+     "k": "B",
+     "en": "Radical equation",
+     "ur": "جذری مساوات"
+    },
+    {
+     "k": "C",
+     "en": "Exponential equation",
+     "ur": "قوت نمائی مساوات"
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": "ان میں سے کوئی نہیں"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "If α, β are the roots of 7x^2-x+4=0 then αβ is:",
+   "q_ur": "اگر α، β مساوات 7x^2-x+4=0 کے روٹس ہوں تو αβ برابر ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "-1/7",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4/7",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-5/3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-4/7",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The nature of roots of equation ax^2+bx+c=0 is determined by:",
+   "q_ur": "مساوات ax^2+bx+c=0 کے روٹس کی اقسام کا تعین کیا جاتا ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sum of roots",
+     "ur": "روٹس کا مجموعہ"
+    },
+    {
+     "k": "B",
+     "en": "Product of roots",
+     "ur": "روٹس کا حاصل ضرب"
+    },
+    {
+     "k": "C",
+     "en": "Synthetic division",
+     "ur": "ترکیبی تقسیم"
+    },
+    {
+     "k": "D",
+     "en": "Discriminant",
+     "ur": "فرق کنندہ"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "In proportion a:b::c:d, a and d are called:",
+   "q_ur": "تناسب a:b::c:d میں a اور d کہلاتے ہیں: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Means",
+     "ur": "وسطین"
+    },
+    {
+     "k": "B",
+     "en": "Extremes",
+     "ur": "طرفین"
+    },
+    {
+     "k": "C",
+     "en": "Third proportional",
+     "ur": "تیسرا متناسب"
+    },
+    {
+     "k": "D",
+     "en": "None",
+     "ur": "کوئی نہیں"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The fourth proportional w, of x:y::v:w is:",
+   "q_ur": "x:y::v:w کا چوتھا متناسب w ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "xy/v",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "vy/x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "xyv",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x/vy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The identity (5x+4)^2 = 25x^2+40x+16 is true for:",
+   "q_ur": "مماثلت (5x+4)^2 = 25x^2+40x+16 ______ کے لیے درست ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "One value of x",
+     "ur": "x کی ایک قیمت کے لیے"
+    },
+    {
+     "k": "B",
+     "en": "two values of x",
+     "ur": "x کی دو قیمتوں کے لیے"
+    },
+    {
+     "k": "C",
+     "en": "three values of x",
+     "ur": "x کی تین قیمتوں کے لیے"
+    },
+    {
+     "k": "D",
+     "en": "all values of x",
+     "ur": "x کی تمام قیمتوں کے لیے"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "A collection of well defined objects is called:",
+   "q_ur": "واضح اشیاء کا مجموعہ کہلاتا ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "sub set",
+     "ur": "تحتی سیٹ"
+    },
+    {
+     "k": "B",
+     "en": "power set",
+     "ur": "پاور سیٹ"
+    },
+    {
+     "k": "C",
+     "en": "set",
+     "ur": "سیٹ"
+    },
+    {
+     "k": "D",
+     "en": "super set",
+     "ur": "سپر سیٹ"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "If A⊆B, then A∪B is equal to:",
+   "q_ur": "اگر A⊆B ہو تو A∪B برابر ہوتا ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "A",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "φ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "B",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None",
+     "ur": "کوئی نہیں"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "A histogram is a set of adjacent:",
+   "q_ur": "کالمی نقشہ متصل ______ کا مجموعہ ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Rectangles",
+     "ur": "مستطیلوں کا"
+    },
+    {
+     "k": "B",
+     "en": "Squares",
+     "ur": "مربعوں کا"
+    },
+    {
+     "k": "C",
+     "en": "Triangles",
+     "ur": "مثلثوں کا"
+    },
+    {
+     "k": "D",
+     "en": "Circles",
+     "ur": "دائروں کا"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Mean is affected by change in:",
+   "q_ur": "حسابی اوسط ______ تبدیل کرنے سے اثر انداز ہوتا ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "origin",
+     "ur": "ماخذ"
+    },
+    {
+     "k": "B",
+     "en": "value",
+     "ur": "قیمت"
+    },
+    {
+     "k": "C",
+     "en": "ratio",
+     "ur": "نسبت"
+    },
+    {
+     "k": "D",
+     "en": "proportion",
+     "ur": "تناسب"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "secθcotθ = ..........:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "sinθ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/cosθ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/sinθ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "sinθ/cosθ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "A chord passing through the centre of circle is called:",
+   "q_ur": "دائرے کے مرکز سے گزرنے والا وتر کہلاتا ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Radius",
+     "ur": "رداس"
+    },
+    {
+     "k": "B",
+     "en": "Diameter",
+     "ur": "قطر"
+    },
+    {
+     "k": "C",
+     "en": "Circumference",
+     "ur": "محیط"
+    },
+    {
+     "k": "D",
+     "en": "Secant",
+     "ur": "قطع خط"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "In the adjacent figure. Find semi circular area if π≃3.1416 and mOA=20cm. [semicircle with centre O, radius OA, diameter AB]",
+   "q_ur": "دی ہوئی شکل میں نصف دائرے کا رقبہ ہوگا اگر π≃3.1416 اور mOA=20cm [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "62.83 sq cm",
+     "ur": "مربع سم"
+    },
+    {
+     "k": "B",
+     "en": "314.16 sq cm",
+     "ur": "مربع سم"
+    },
+    {
+     "k": "C",
+     "en": "436.20 sq cm",
+     "ur": "مربع سم"
+    },
+    {
+     "k": "D",
+     "en": "628.32 sq cm",
+     "ur": "مربع سم"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "The semi circumference and the diameter of a circle both subtend a central angle of:",
+   "q_ur": "دائرے کے نصف محیط اور قطر دونوں کا مرکزی زاویہ ______ ہوتا ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "360°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "270°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "180°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "90°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "How many common tangents can be drawn for two disjoint circles?",
+   "q_ur": "دو غیر متقاطع دائروں کے کتنے مشترکہ مماس کھینچے جا سکتے ہیں؟ [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "The solution set of the equation 4x^2-16=0.",
+   "q_ur": "مساوات 4x^2-16=0 کا حل سیٹ ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "{±4}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{4}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{±2}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "±2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Sum of cube roots of unity is:",
+   "q_ur": "اکائی کے جذر المکعب کا مجموعہ ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "If α, β are the roots of x^2-x-1=0, then product of roots 2α and 2β is",
+   "q_ur": "اگر α، β مساوات x^2-x-1=0 کے روٹس ہوں تو 2α اور 2β کے روٹس کا حاصل ضرب ہوتا ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "-2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "In a proportion a:b::c:d, b and c are called:",
+   "q_ur": "تناسب a:b::c:d میں b اور c کہلاتے ہیں: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "means",
+     "ur": "وسطین"
+    },
+    {
+     "k": "B",
+     "en": "extremes",
+     "ur": "طرفین"
+    },
+    {
+     "k": "C",
+     "en": "fourth proportional",
+     "ur": "چوتھا متناسب"
+    },
+    {
+     "k": "D",
+     "en": "None",
+     "ur": "کوئی نہیں"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The third proportion of x^2 and y^2 is:",
+   "q_ur": "x^2 اور y^2 کا تیسرا متناسب ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "y^2/x^2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x^2y^2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "y^4/x^2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "y^2/x^4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Partial fraction of (x+2)/((x+1)(x^2+2)) are of the form.",
+   "q_ur": "(x+2)/((x+1)(x^2+2)) کی جزوی کسر ______ کی صورت میں ہوتی ہیں: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "A/(x+1) + B/(x^2+2)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A/(x+1) + (Bx+C)/(x^2+2)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(Ax+B)/(x+1) + C/(x^2+2)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A/(x+1) + Bx/(x^2+2)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "A collection of well-defined objects is called:",
+   "q_ur": "واضح اشیاء کا مجموعہ کہلاتا ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Subset",
+     "ur": "تحتی سیٹ"
+    },
+    {
+     "k": "B",
+     "en": "Power set",
+     "ur": "پاور سیٹ"
+    },
+    {
+     "k": "C",
+     "en": "Set",
+     "ur": "سیٹ"
+    },
+    {
+     "k": "D",
+     "en": "Super set",
+     "ur": "سپر سیٹ"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "(A∪B)∪C is equal to:",
+   "q_ur": "(A∪B)∪C برابر ہوتا ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "A∩(B∪C)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(A∪B)∩C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A∪(B∪C)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A∩(B∩C)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Mean is affected by change in:",
+   "q_ur": "حسابی اوسط ______ تبدیل کرنے سے اثر انداز ہوتا ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "value",
+     "ur": "قیمت"
+    },
+    {
+     "k": "B",
+     "en": "ratio",
+     "ur": "نسبت"
+    },
+    {
+     "k": "C",
+     "en": "origin",
+     "ur": "ماخذ"
+    },
+    {
+     "k": "D",
+     "en": "rate",
+     "ur": "شرح"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "The most frequent occuring [sic] observation in a data set is called:",
+   "q_ur": "کسی مواد میں سب سے زیادہ مرتبہ آنے والی قدر کہلاتی ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mode",
+     "ur": "عادہ"
+    },
+    {
+     "k": "B",
+     "en": "Median",
+     "ur": "وسطانیہ"
+    },
+    {
+     "k": "C",
+     "en": "Harmonic mean",
+     "ur": "ہم آہنگ اوسط"
+    },
+    {
+     "k": "D",
+     "en": "arithmatic mean [sic]",
+     "ur": "حسابی اوسط"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "1/(1+sinθ) + 1/(1-sinθ) = __________",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2sec^2θ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2cos^2θ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "sec^2θ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "cosθ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "A complete circle is divided into:",
+   "q_ur": "مکمل دائرے کو تقسیم کیا جاتا ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "180°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "270°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "360°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "A line which has two points in common with a circle is called:",
+   "q_ur": "ایک خط جس کے دائرے کے ساتھ دو نقاط مشترک ہوں، کہلاتا ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sine of a circle",
+     "ur": "دائرے کے Sine"
+    },
+    {
+     "k": "B",
+     "en": "Cosine of a circle",
+     "ur": "دائرے کے Cosine"
+    },
+    {
+     "k": "C",
+     "en": "Tangent of a circle",
+     "ur": "دائرے کے Tangent"
+    },
+    {
+     "k": "D",
+     "en": "Secant of a circle",
+     "ur": "دائرے کے Secant"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "The length of a chord and the radial segment of a circle are congruent, the centeral [sic] angle made by the chord will be:",
+   "q_ur": "ایک دائرے میں وتر اور رداس کی لمبائیاں برابر ہیں، وتر سے بننے والا مرکزی زاویہ ______ ہوگا: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "30°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "75°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "The tangent and the radius of a circle at the point of contact are:",
+   "q_ur": "دائرے کا مماس اور رداس ایک دوسرے ______ ہیں: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "parallel",
+     "ur": "کے متوازی"
+    },
+    {
+     "k": "B",
+     "en": "not perpendicular",
+     "ur": "غیر عمودی"
+    },
+    {
+     "k": "C",
+     "en": "perpendicular",
+     "ur": "عمودی"
+    },
+    {
+     "k": "D",
+     "en": "not parallel",
+     "ur": "کے متوازی نہیں"
+    }
+   ]
+  }
+ ]
+}

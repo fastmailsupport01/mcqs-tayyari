@@ -1,0 +1,430 @@
+{
+ "board": "BISE Rawalpindi",
+ "board_slug": "rawalpindi",
+ "class": "12th",
+ "subject": "computer-science",
+ "year": 2021,
+ "slug": "rawalpindi-12th-computer-science-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Combined (all sessions)",
+   "q_en": "Arithmetic manipulation of data is known as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Summarizing",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Classifying",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Sorting",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Calculations",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Combined (all sessions)",
+   "q_en": "An attribute is also known as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Field",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Table",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Row",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Relation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Combined (all sessions)",
+   "q_en": "In ERD Model, the relationship between two entities is represented by a:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "rectangular box",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "oval symbol",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "diamond symbol",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "line",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Combined (all sessions)",
+   "q_en": "Every relation must have a:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "candidate key",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "primary key",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "secondary key",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "alternate key",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Combined (all sessions)",
+   "q_en": "Which of the following object of database is used to retrieve data from database?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Queries",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Forms",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Reports",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Tables",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Combined (all sessions)",
+   "q_en": "A referential integrity constraint is a rule that maintains consistency among the:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "columns of two tables",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "two columns of same table",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "rows of two table",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "attribute of two tables",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Combined (all sessions)",
+   "q_en": "Every statement in a C program terminates with:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Colon",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Semicolon",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Delimiters",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "comma",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Combined (all sessions)",
+   "q_en": "Preprocessor directives are commands for:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Microprocessor",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Language processor",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Loader",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "C preprocessor",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Combined (all sessions)",
+   "q_en": "Which of the following operators has lowest precedence:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "=",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "!",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "= =",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "+",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Combined (all sessions)",
+   "q_en": "The logical not operator, denoted by !, is a:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Uniary operator",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ternary operator",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Binary operator",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Bitwise operator",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Combined (all sessions)",
+   "q_en": "The escape sequence for Tab is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "\\f",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "\\n",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "\\r",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "\\t",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Combined (all sessions)",
+   "q_en": "The format specifier %f is used for:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Character",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Integer",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Double",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Float",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Combined (all sessions)",
+   "q_en": "A compound statement refers to a group of statements enclosed in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "( )",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{ }",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[ ]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "\" \"",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Combined (all sessions)",
+   "q_en": "A loop inside the body of another loop is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "For loop",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "while loop",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "nested loop",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "infinite loop",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Combined (all sessions)",
+   "q_en": "Function prototypes for built-in functions are specified in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "source files",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "header files",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "object files",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "image files",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

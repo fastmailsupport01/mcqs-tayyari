@@ -1,0 +1,570 @@
+{
+ "board": "BISE Rawalpindi",
+ "board_slug": "rawalpindi",
+ "class": "9th",
+ "subject": "computer-science",
+ "year": 2023,
+ "slug": "rawalpindi-9th-computer-science-2023",
+ "questions": [
+  {
+   "n": "1.1",
+   "group": "Group I",
+   "q_en": "In a _____ error the solution is working but not giving required result.",
+   "q_ur": "_____ قسم کی غلطی کی وجہ سے الگورتھم حل تو ہوتا ہے مگر درست جواب نہیں دے رہا ہوتا۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Random Error",
+     "ur": "رینڈم ایرر"
+    },
+    {
+     "k": "B",
+     "en": "Logical error",
+     "ur": "لوجیکل ایرر"
+    },
+    {
+     "k": "C",
+     "en": "Syntax error",
+     "ur": "سینٹیکس ایرر"
+    },
+    {
+     "k": "D",
+     "en": "Runtime error",
+     "ur": "رن ٹائم ایرر"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Which type is not the type of test data:",
+   "q_ur": "ان میں سے کون سی ٹیسٹ ڈیٹا کی قسم نہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Valid test data",
+     "ur": "درست ٹیسٹ ڈیٹا"
+    },
+    {
+     "k": "B",
+     "en": "Invalid test data",
+     "ur": "نادرست ٹیسٹ ڈیٹا"
+    },
+    {
+     "k": "C",
+     "en": "Absent test data",
+     "ur": "موخر شدہ ٹیسٹ ڈیٹا"
+    },
+    {
+     "k": "D",
+     "en": "User data",
+     "ur": "یوزر ڈیٹا"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "It is \"sunshine\" outside is a _____.",
+   "q_ur": "باہر \"دھوپ\" ہے ایک _____:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Boolean proposition",
+     "ur": "بولین پروپوزیشن"
+    },
+    {
+     "k": "B",
+     "en": "Categorical proposition",
+     "ur": "وصفاتی پروپوزیشن"
+    },
+    {
+     "k": "C",
+     "en": "Moral proposition",
+     "ur": "موصل پروپوزیشن"
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": "ان میں سے کوئی نہیں"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Hexa decimal system has total _____ numbers.",
+   "q_ur": "ہیکسا ڈیسیمل سسٹم میں کل نمبرز ہوتے ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "17",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "16",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "15",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "18",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Communications protocols cover _____.",
+   "q_ur": "کمیونیکیشن پروٹوکول _____ کا احاطہ کرتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Authentication",
+     "ur": "شناخت کی تصدیق"
+    },
+    {
+     "k": "B",
+     "en": "Error detection",
+     "ur": "غلطی معلوم کرنا"
+    },
+    {
+     "k": "C",
+     "en": "Correction",
+     "ur": "تصحیح کرنا"
+    },
+    {
+     "k": "D",
+     "en": "All",
+     "ur": "تمام"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "URL stands for:",
+   "q_ur": "URL _____ کا مخفف ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Uniform resource locator",
+     "ur": "یونیفارم ریسورس لوکیٹر"
+    },
+    {
+     "k": "B",
+     "en": "Uniform residence locator",
+     "ur": "یونیفارم ریزیڈنس لوکیٹر"
+    },
+    {
+     "k": "C",
+     "en": "Unbalance resource location",
+     "ur": "ان بیلنس ریسورس لوکیشن"
+    },
+    {
+     "k": "D",
+     "en": "Unethical resource locator",
+     "ur": "ان ایتھیکل ریسورس لوکیٹر"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Piracy means to make:",
+   "q_ur": "پائریسی کا مطلب _____ تیار کرنا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Trade secrets",
+     "ur": "تجارتی راز"
+    },
+    {
+     "k": "B",
+     "en": "Illegal copy",
+     "ur": "غیر قانونی کاپی"
+    },
+    {
+     "k": "C",
+     "en": "Legal copy",
+     "ur": "قانونی کاپی"
+    },
+    {
+     "k": "D",
+     "en": "Patent",
+     "ur": "پیٹنٹ"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Which of the following is not the characteristics of phishing email:",
+   "q_ur": "درج ذیل میں سے کون فشنگ ای میل کی خصوصیات نہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Official data breach notification",
+     "ur": "سرکاری ڈیٹا کی خلاف ورزی کی اطلاع"
+    },
+    {
+     "k": "B",
+     "en": "Email account update",
+     "ur": "ای میل اکاؤنٹ اپ ڈیٹ"
+    },
+    {
+     "k": "C",
+     "en": "IT reminder",
+     "ur": "آئی ٹی یاد دہانی"
+    },
+    {
+     "k": "D",
+     "en": "Similar domain of actual website",
+     "ur": "اصل ویب سائٹ جیسی ڈومین"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The _____ elements is a container for metadata.",
+   "q_ur": "_____ اپنے اندر میٹا ڈیٹا رکھتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "<body>",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "<head>",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "<title>",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "<html>",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "On webpage to give number before start of fruits name which tag will be used?",
+   "q_ur": "ویب پیج پر پھلوں کے نام کے ساتھ نمبرنگ کے لیے ہم کون سا ٹیگ استعمال کریں گے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "<dt>",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "<ol>",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "<ul>",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "<table>",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "1.1",
+   "group": "Group II",
+   "q_en": "Which strategy divides a complex problem into smaller problems?",
+   "q_ur": "کونسی حکمت عملی پیچیدہ مسئلہ کو چھوٹے مسئلوں میں تقسیم کرتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Guess",
+     "ur": "اندازہ"
+    },
+    {
+     "k": "B",
+     "en": "Prototype",
+     "ur": "نمونہ"
+    },
+    {
+     "k": "C",
+     "en": "Divide & conquer",
+     "ur": "تقسیم اور فتح"
+    },
+    {
+     "k": "D",
+     "en": "Act it out",
+     "ur": "ایکٹ اس آؤٹ"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Before problem solving, we need to first _____ problem.",
+   "q_ur": "کسی مسئلہ کو حل کرنے سے پہلے اس کا _____ کرنا چاہیے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Analysis",
+     "ur": "تجزیہ"
+    },
+    {
+     "k": "B",
+     "en": "Determine",
+     "ur": "تعین"
+    },
+    {
+     "k": "C",
+     "en": "Un-understanding",
+     "ur": "نہ سمجھنا"
+    },
+    {
+     "k": "D",
+     "en": "Planning",
+     "ur": "پلاننگ"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "The decimal number system consists of digits:",
+   "q_ur": "اعشاری عددی نظام _____ اعداد پر مشتمل ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "0 to 9",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1 to 16",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2 to 8",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0 to 7",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "The binary equivalent of decimal number (3)₁₀ is:",
+   "q_ur": "(3)₁₀ کی ثنائی قدر ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "(10)₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(11)₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(111)₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(1000)₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Formal agreement between two computers to send and receive information is called:",
+   "q_ur": "دو کمپیوٹروں کے درمیان پیغامات بھیجنے اور وصول کرنے کے لئے رسمی معاہدہ کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Protocol",
+     "ur": "پروٹوکول"
+    },
+    {
+     "k": "B",
+     "en": "Transmission medium",
+     "ur": "ٹرانسمیشن میڈیم"
+    },
+    {
+     "k": "C",
+     "en": "Sender",
+     "ur": "ترسیل کنندہ"
+    },
+    {
+     "k": "D",
+     "en": "Receiver",
+     "ur": "وصول کنندہ"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Layer that sends a message to the server connected with sender is _____ layer.",
+   "q_ur": "_____ لیئر میڈیا کو ارسال کنندہ کے ساتھ منسلک سرور پر بھیج دیتی ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Application",
+     "ur": "ایپلیکیشن"
+    },
+    {
+     "k": "B",
+     "en": "Transport",
+     "ur": "ٹرانسپورٹ"
+    },
+    {
+     "k": "C",
+     "en": "Network",
+     "ur": "نیٹ ورک"
+    },
+    {
+     "k": "D",
+     "en": "Data link",
+     "ur": "ڈیٹا لنک"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "The _____ is an amazing tool for communication.",
+   "q_ur": "_____ مواصلات کے لئے حیرت انگیز ذریعہ ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Software",
+     "ur": "سافٹ ویئر"
+    },
+    {
+     "k": "B",
+     "en": "Hacking",
+     "ur": "ہیکنگ"
+    },
+    {
+     "k": "C",
+     "en": "Internet",
+     "ur": "انٹرنیٹ"
+    },
+    {
+     "k": "D",
+     "en": "Phishing",
+     "ur": "فشنگ"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "_____ is a cyber attack to make machine or network resources unavailable for a user.",
+   "q_ur": "_____ ایسا سائبر اٹیک ہے جو کسی مشین یا نیٹ ورک وسائل کو صارف کیلئے ناقابل استعمال بنا دیتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "DOS",
+     "ur": "ڈاس"
+    },
+    {
+     "k": "B",
+     "en": "Phishing",
+     "ur": "فشنگ"
+    },
+    {
+     "k": "C",
+     "en": "Hacking",
+     "ur": "ہیکنگ"
+    },
+    {
+     "k": "D",
+     "en": "Piracy",
+     "ur": "پائریسی"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Which attribute specifies the URL of the image?",
+   "q_ur": "کون سی ایٹریبیوٹ تصویر کا URL بتاتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "<01>",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "<dl>",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "src",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "</br>",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Each table row is defined with the _____ tag.",
+   "q_ur": "ٹیبل میں ہر قطار _____ کی مدد سے بنایا جاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "<01>",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "<dl>",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "<hr>",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "<tr>",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

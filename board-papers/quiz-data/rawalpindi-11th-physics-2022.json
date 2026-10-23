@@ -1,0 +1,962 @@
+{
+ "board": "BISE Rawalpindi",
+ "board_slug": "rawalpindi",
+ "class": "11th",
+ "subject": "physics",
+ "year": 2022,
+ "slug": "rawalpindi-11th-physics-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The fractional uncertainty in the measurement of radius r = 2.25 ± 0.01cm is: [numbered \"1. 1.\" as printed]",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.04",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.004",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.0004",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The dimensions of pressure are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[ML⁻¹T⁻²]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[MLT⁻²]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[ML²T⁻²]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[ML⁻¹T⁻¹]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The projection of A in the direction of B is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "BCosθ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ABCosθ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ACosθ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ASinθ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Dot product of two antiparallel vectors A and B is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ABcosθ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "AB",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-AB",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The two masses m₁ and m₂ will interchange their velocities after collision if:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "m₁>>m₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "m₁ = m₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "m₂>>m₁",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "m₂ is at rest",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Kg ms⁻¹ is the SI unit of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Force",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Momentum",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Energy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Power",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The work done is said to be negative if:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Work is always positive",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "θ < 90°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "θ > 90°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "θ = 90°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "When a body attains its terminal velocity, the acceleration of body becomes.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "equal to g",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "maximum",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "equal to -g",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Moment of intertia [sic] of sphere is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "mr²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/2 mr²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2/3 mr²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2/5 mr²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The low flying earth satellites have acceleration:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "9.8 m/s²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4.9 m/s²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10 m/s²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "7.9 m/s²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "When a quarter of the cycle is completed, the phase of vibration is.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2π rad",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/2 rad",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3π/2 rad",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π rad",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "For each degree rise in temperature of air, the speed of sound through it rises by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.60 cm/s",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.61 m/s",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.61 cm/s",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.60 m/s",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "If organ pipe is open at both ends, then the frequency of fundamental note is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "v/2l",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "v/l",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "v/4l",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4v/l",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "If blue light is used instead of red light, the fringe spacing:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Increases",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Disappears",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Remains same",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Decreases",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "If magnifications of objective lens and eye-piece are 4 ad [sic] 5 respectively, then the magnification of compound microscope will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "9",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "20",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "Average kinetic energy of molecules of a gas gives.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Heat energy",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Work done",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Internal energy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Entropy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "If temperature of sink is decreased, the efficiency of Carnot engine",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Decreases",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Increases",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Remains same",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "May increase or decrease",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Venturi meter is a device used to measure: [numbered \"1. 1.\" as printed]",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Pressure of fluid",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "speed of fluid",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Density of fluid",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Viscosity of fluid",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "1 radian is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "57.3°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "73.3°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "If moment of inertia of a body becomes double, then angular momentum becomes:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "One half",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Doubled",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Three times",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Four times",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "The product of frequency (f) and time period (T) is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2.5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "If organ pipe is open at both ends, the frequency of fundamental harmonic is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "v/2l",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2v/l",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "v/4l",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4v/l",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "The speed of sound in air is 332 m/s at 0c°. [sic] Its speed at 2C° is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "331.22 m/s",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "332.22 m/s",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "333.22 m/s",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "332 m/s",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Colourful pattern produced by a thin soap film is due to ______ of light:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "dispersion",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "polarization",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "diffraction",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "interference",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Magnification of simple microscope can be expressed as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 + D/d",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1 - f/d",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1 + d/f",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1 - D/d",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "For an adiabatic process, first law of thermodynamics takes the form:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Q = ΔU + W",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Q = W",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Q = ΔU",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "W = -ΔU",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "If the temperature of sources is two times the temperature of sink, the efficiency of heat engine will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "[M⁰LT⁻²] are the dimensions of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Force",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Velocity",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Pressure",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Acceleration",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "The number 0.00320 can be expressed in scientific notation as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3.20 x 10⁻²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3.20 x 10⁻⁴",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3.20 x 10⁻³",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3.20 x 10³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "(i × j) . k is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "i",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "K",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "Cross product of two antiparallel vectors A and B is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ABcosθ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "AB",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-AB",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "The quantity impulse has the same units as that of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Force",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Momentum",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Power",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Work done",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "The speed of the gases ejected by a typical rocket is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3900 m/s",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4100 m/s",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4000 m/s",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4200 m/s",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "Which force is non - conservative force?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Gravitational",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Frictional",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Electric",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Magnetic",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

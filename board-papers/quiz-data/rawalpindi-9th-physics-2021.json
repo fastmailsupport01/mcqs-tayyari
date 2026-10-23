@@ -1,0 +1,682 @@
+{
+ "board": "BISE Rawalpindi",
+ "board_slug": "rawalpindi",
+ "class": "9th",
+ "subject": "physics",
+ "year": 2021,
+ "slug": "rawalpindi-9th-physics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Density has formula:",
+   "q_ur": "کثافت کا فارمولا ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "mass x volume",
+     "ur": "ماس x والیوم"
+    },
+    {
+     "k": "B",
+     "en": "volume/mass",
+     "ur": "والیوم/ماس"
+    },
+    {
+     "k": "C",
+     "en": "area/mass",
+     "ur": "ایریا/ماس"
+    },
+    {
+     "k": "D",
+     "en": "mass/volume",
+     "ur": "ماس/والیوم"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Which of the following materials has large value of temperature coefficient of linear expansion?",
+   "q_ur": "درج ذیل میں سے کس میٹریل کے حرارت کی لمبی پھیلاؤ کا عددی سر بڑا ہوتا ہے؟ [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Aluminium",
+     "ur": "ایلومینیم"
+    },
+    {
+     "k": "B",
+     "en": "Steel",
+     "ur": "اسٹیل"
+    },
+    {
+     "k": "C",
+     "en": "Gold",
+     "ur": "گولڈ"
+    },
+    {
+     "k": "D",
+     "en": "Brass",
+     "ur": "پیتل"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "What happens to the thermal conductivity of a wall is its thickness is doubled?",
+   "q_ur": "کسی دیوار کی حرارتی موصلیت اگر اس کی موٹائی دگنی کر دی جائے تو: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "becomes double",
+     "ur": "دگنی ہو جائے گی"
+    },
+    {
+     "k": "B",
+     "en": "remains the same",
+     "ur": "وہی رہے گی"
+    },
+    {
+     "k": "C",
+     "en": "becomes half",
+     "ur": "آدھی ہو جائے گی"
+    },
+    {
+     "k": "D",
+     "en": "becomes one fourth",
+     "ur": "ایک چوتھائی ہو جائے گی"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "An interval of 200 μs is equivalent to:",
+   "q_ur": "200 مائیکرو سیکنڈ کا وقفہ برابر ہوتا ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.2 S",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.02 S",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2x10⁻⁴S",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2x10⁻⁹S",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "By dividing displacement of a moving body with time, we obtain:",
+   "q_ur": "کسی متحرک جسم کے ہٹاؤ کو وقت پر تقسیم کرنے سے حاصل ہوتا ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Speed",
+     "ur": "سپیڈ"
+    },
+    {
+     "k": "B",
+     "en": "acceleration",
+     "ur": "ایکسلریشن"
+    },
+    {
+     "k": "C",
+     "en": "Velocity",
+     "ur": "ولاسٹی"
+    },
+    {
+     "k": "D",
+     "en": "Deceleration",
+     "ur": "ڈی ایکسلریشن"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Newton's first law of motion is valid only in the absence of:",
+   "q_ur": "کس کی غیر موجودگی میں نیوٹن کے پہلے قانون کا اطلاق ہوتا ہے؟ [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Velocity",
+     "ur": "ولاسٹی"
+    },
+    {
+     "k": "B",
+     "en": "Net force",
+     "ur": "نیٹ فورس"
+    },
+    {
+     "k": "C",
+     "en": "Torque",
+     "ur": "ٹارک"
+    },
+    {
+     "k": "D",
+     "en": "Momentum",
+     "ur": "مومنٹم"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "SI unit of acceleration is:",
+   "q_ur": "ایکسلریشن کا SI یونٹ ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "mS⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "mS⁻²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "m²S",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "mS²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "A force of 10N is making an angle of 30⁰ with the horizontal. Its horizontal component will be:",
+   "q_ur": "10 نیوٹن کی فورس افقی کے ساتھ 30⁰ کا زاویہ بناتی ہے۔ اس کا افقی جزو ہوگا: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "4N",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8.7N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Torque τ is equal to:",
+   "q_ur": "ٹارک τ برابر ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Fxm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "FxR²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Fxτ [sic]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "FxL",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The value of g on moon's surface is 1.6mS⁻². What will be the weight of a 100Kg body on the surface of the moon?",
+   "q_ur": "چاند کی سطح پر g کی قیمت 1.6mS⁻² ہے۔ چاند پر 100Kg کے جسم کا وزن ہوگا: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "100N",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "160N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1000N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1600N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "If the velocity of a body becomes double, then its kinetic energy:",
+   "q_ur": "اگر کسی جسم کی ولاسٹی دو گنا ہو جائے تو اس کی کائنیٹک انرجی: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "remains the same",
+     "ur": "کوئی تبدیلی نہیں آتی"
+    },
+    {
+     "k": "B",
+     "en": "becomes double",
+     "ur": "دو گنا ہو جائے گی"
+    },
+    {
+     "k": "C",
+     "en": "becomes four times",
+     "ur": "چار گنا ہو جائے گی"
+    },
+    {
+     "k": "D",
+     "en": "becomes half",
+     "ur": "نصف ہو جائے گی"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The energy of a moving body during motion is called:",
+   "q_ur": "حرکت کے دوران کسی متحرک جسم کی انرجی کہلاتی ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nuclear Energy",
+     "ur": "نیوکلیئر انرجی"
+    },
+    {
+     "k": "B",
+     "en": "Chemical energy",
+     "ur": "کیمیکل انرجی"
+    },
+    {
+     "k": "C",
+     "en": "Kinetic energy",
+     "ur": "کائنیٹک انرجی"
+    },
+    {
+     "k": "D",
+     "en": "Potential energy",
+     "ur": "پوٹینشل انرجی"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "The value of latent heat of vaporization is:",
+   "q_ur": "بخارات کی لیٹنٹ ہیٹ کی قیمت ہوتی ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "2.26x10⁵JKg⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2.26x10⁶JKg⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2.26x10⁶Nm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2.26x10⁶J",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "In solids, heat is transferred by:",
+   "q_ur": "ٹھوسوں میں حرارت منتقل ہوتی ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Conduction",
+     "ur": "کنڈکشن"
+    },
+    {
+     "k": "B",
+     "en": "Radiation",
+     "ur": "ریڈی ایشن"
+    },
+    {
+     "k": "C",
+     "en": "Convection",
+     "ur": "کنویکشن"
+    },
+    {
+     "k": "D",
+     "en": "Absorption",
+     "ur": "ابزورپشن"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Heat from fireplace reaches us by:",
+   "q_ur": "آتش دان سے حرارت ہم تک پہنچتی ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Conduction",
+     "ur": "کنڈکشن"
+    },
+    {
+     "k": "B",
+     "en": "Radiation",
+     "ur": "ریڈی ایشن"
+    },
+    {
+     "k": "C",
+     "en": "Convection",
+     "ur": "کنویکشن"
+    },
+    {
+     "k": "D",
+     "en": "Absorption",
+     "ur": "ابزورپشن"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "The interval of 200 μs is equivalent to:",
+   "q_ur": "200 مائیکرو سیکنڈ کا وقفہ برابر ہوتا ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.2S",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.02S",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2x10⁻⁴S",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2x10⁻⁶S",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Amount of a substance in terms of numbers is measured in:",
+   "q_ur": "کسی شے میں مادے کی مقدار معلوم کرنے کا یونٹ ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "gram",
+     "ur": "گرام"
+    },
+    {
+     "k": "B",
+     "en": "Kilogram",
+     "ur": "کلوگرام"
+    },
+    {
+     "k": "C",
+     "en": "Newton",
+     "ur": "نیوٹن"
+    },
+    {
+     "k": "D",
+     "en": "Mole",
+     "ur": "مول"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "By dividing displacement of a moving body with time, we obtain:",
+   "q_ur": "کسی متحرک جسم کے ہٹاؤ کو وقت پر تقسیم کرنے سے حاصل ہوتا ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Speed",
+     "ur": "سپیڈ"
+    },
+    {
+     "k": "B",
+     "en": "acceleration",
+     "ur": "ایکسلریشن"
+    },
+    {
+     "k": "C",
+     "en": "Velocity",
+     "ur": "ولاسٹی"
+    },
+    {
+     "k": "D",
+     "en": "Deceleration",
+     "ur": "ڈی ایکسلریشن"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "A change in position is called:",
+   "q_ur": "پوزیشن میں تبدیلی کہلاتی ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Speed",
+     "ur": "سپیڈ"
+    },
+    {
+     "k": "B",
+     "en": "Velocity",
+     "ur": "ولاسٹی"
+    },
+    {
+     "k": "C",
+     "en": "Displacement",
+     "ur": "ڈسپلیسمنٹ"
+    },
+    {
+     "k": "D",
+     "en": "Distance",
+     "ur": "فاصلہ"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Which of the following is the unit of momentum?",
+   "q_ur": "مندرجہ ذیل میں سے کون سا مومنٹم کا یونٹ ہے؟ [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "KgmS⁻²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NS",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NS⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "A body satisfies second condition of equilibrium if:",
+   "q_ur": "ایک جسم ایکویلیبریم کی دوسری شرط پوری کرتا ہے اگر: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "∑Fx = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "∑Fy = 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "∑F = 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "∑τ = 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "The value of gravitational constant is:",
+   "q_ur": "گریویٹیشنل کانسٹینٹ کی قیمت ہوتی ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "6.673x10¹¹Nm²Kg⁻²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6.6x10⁻¹¹Nm²Kg⁻²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "9.1x10³¹Nm²Kg⁻²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.6x10⁻¹⁹Nm²Kg⁻²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "The unit of energy is:",
+   "q_ur": "انرجی کا یونٹ ہوتا ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Watt",
+     "ur": "واٹ"
+    },
+    {
+     "k": "B",
+     "en": "Joule",
+     "ur": "جول"
+    },
+    {
+     "k": "C",
+     "en": "Newton",
+     "ur": "نیوٹن"
+    },
+    {
+     "k": "D",
+     "en": "Mole",
+     "ur": "مول"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "One pascal is equal to:",
+   "q_ur": "ایک پاسکل برابر ہوتا ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "1Nm⁻²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10⁴Nm⁻²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10²Nm⁻²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10³Nm⁻²",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

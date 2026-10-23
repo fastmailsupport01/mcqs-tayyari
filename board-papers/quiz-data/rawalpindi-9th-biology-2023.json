@@ -1,0 +1,682 @@
+{
+ "board": "BISE Rawalpindi",
+ "board_slug": "rawalpindi",
+ "class": "9th",
+ "subject": "biology",
+ "year": 2023,
+ "slug": "rawalpindi-9th-biology-2023",
+ "questions": [
+  {
+   "n": "1.1",
+   "group": "Group I",
+   "q_en": "The study of genes and their role in inheritance is called:",
+   "q_ur": "جینز کا مطالعہ اور وراثت میں ان کے کردار کو کہتے ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Anatomy",
+     "ur": "اناٹمی"
+    },
+    {
+     "k": "B",
+     "en": "Genetics",
+     "ur": "جینیٹکس"
+    },
+    {
+     "k": "C",
+     "en": "Taxonomy",
+     "ur": "ٹیکسانومی"
+    },
+    {
+     "k": "D",
+     "en": "Histology",
+     "ur": "ہسٹالوجی"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The number of Bio-elements in nature is:",
+   "q_ur": "فطرت میں بائیو ایلیمنٹس کی تعداد ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "16",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "14",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "12",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "French army physician who worked on Malaria in 1878 was:",
+   "q_ur": "فرانسیسی آرمی کے ڈاکٹر جنہوں نے 1878 میں ملیریا پر کام کیا:",
+   "options": [
+    {
+     "k": "A",
+     "en": "A.F.A King",
+     "ur": "اے ایف اے کنگ"
+    },
+    {
+     "k": "B",
+     "en": "Ronald Ross",
+     "ur": "رونالڈ راس"
+    },
+    {
+     "k": "C",
+     "en": "Laveran",
+     "ur": "لیورین"
+    },
+    {
+     "k": "D",
+     "en": "Mendel",
+     "ur": "مینڈل"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Mushrooms are the example of which kingdom?",
+   "q_ur": "کھمبیاں کس کنگڈم کی مثال ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Fungi",
+     "ur": "فنجائی"
+    },
+    {
+     "k": "B",
+     "en": "Animalia",
+     "ur": "اینیمیلیا"
+    },
+    {
+     "k": "C",
+     "en": "Monera",
+     "ur": "مونیرا"
+    },
+    {
+     "k": "D",
+     "en": "Protista",
+     "ur": "پروٹسٹا"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The major component of plant cell wall is:",
+   "q_ur": "پودے کے سیل وال میں سب سے زیادہ پایا جانے والا جزو ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cellulose",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Peptidoglycan",
+     "ur": "پیپٹیڈوگلائیکین"
+    },
+    {
+     "k": "C",
+     "en": "Cholesterol",
+     "ur": "کولیسٹرول"
+    },
+    {
+     "k": "D",
+     "en": "Chitin",
+     "ur": "کائٹن"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Fluid of chloroplast is called:",
+   "q_ur": "کلوروپلاسٹ میں پایا جانے والا سیال کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nucleoplasm",
+     "ur": "نیوکلیوپلازم"
+    },
+    {
+     "k": "B",
+     "en": "Cytosol",
+     "ur": "سائٹوسول"
+    },
+    {
+     "k": "C",
+     "en": "Stroma",
+     "ur": "سٹروما"
+    },
+    {
+     "k": "D",
+     "en": "Cytoplasm",
+     "ur": "سائٹوپلازم"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Chiasmata is formed during which phase of Meiosis:",
+   "q_ur": "کیازماٹا (Chiasmata) کس فیز کے دوران بنتے ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Metaphase I",
+     "ur": "میٹا فیز I"
+    },
+    {
+     "k": "B",
+     "en": "Prophase I",
+     "ur": "پروفیز I"
+    },
+    {
+     "k": "C",
+     "en": "Telophase I",
+     "ur": "ٹیلوفیز I"
+    },
+    {
+     "k": "D",
+     "en": "Anaphase I",
+     "ur": "اینا فیز I"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Bite of which of the following organisms can cause necrosis:",
+   "q_ur": "ان میں سے کس کے کاٹنے سے نیکروسس ہو سکتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Snake",
+     "ur": "سانپ"
+    },
+    {
+     "k": "B",
+     "en": "Mosquito",
+     "ur": "مچھر"
+    },
+    {
+     "k": "C",
+     "en": "Spider",
+     "ur": "مکڑی"
+    },
+    {
+     "k": "D",
+     "en": "Dog",
+     "ur": "کتا"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "To which category of molecules, enzymes belong:",
+   "q_ur": "انزائمز تعلق رکھنے والے مالیکیولز کی کیٹیگری ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Carbohydrates",
+     "ur": "کاربوہائیڈریٹس"
+    },
+    {
+     "k": "B",
+     "en": "Proteins",
+     "ur": "پروٹینز"
+    },
+    {
+     "k": "C",
+     "en": "Nucleic Acid",
+     "ur": "نیوکلیک ایسڈ"
+    },
+    {
+     "k": "D",
+     "en": "Lipids",
+     "ur": "لپڈز"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The example of 3-carbon molecule is:",
+   "q_ur": "3-کاربن والے مالیکیول کی مثال ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Starch",
+     "ur": "سٹارچ"
+    },
+    {
+     "k": "B",
+     "en": "Ribose",
+     "ur": "رائبوز"
+    },
+    {
+     "k": "C",
+     "en": "Glucose",
+     "ur": "گلوکوز"
+    },
+    {
+     "k": "D",
+     "en": "Pyruvic acid",
+     "ur": "پائرووک ایسڈ"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Liver converts Ammonia to which less toxic form:",
+   "q_ur": "جگر امونیا کو کس کم زہریلی شکل میں بدلتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Uric acid",
+     "ur": "یورک ایسڈ"
+    },
+    {
+     "k": "B",
+     "en": "Bile juice",
+     "ur": "بائل جوس"
+    },
+    {
+     "k": "C",
+     "en": "Urea",
+     "ur": "یوریا"
+    },
+    {
+     "k": "D",
+     "en": "Fibrinogen",
+     "ur": "فائبرینوجن"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Ventricular systole lasts about in:",
+   "q_ur": "وینٹریکولر سسٹول تقریباً کتنے عرصے میں مکمل ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.1 sec",
+     "ur": "0.1 سیکنڈ"
+    },
+    {
+     "k": "B",
+     "en": "0.2 sec",
+     "ur": "0.2 سیکنڈ"
+    },
+    {
+     "k": "C",
+     "en": "0.3 sec",
+     "ur": "0.3 سیکنڈ"
+    },
+    {
+     "k": "D",
+     "en": "0.4 sec",
+     "ur": "0.4 سیکنڈ"
+    }
+   ]
+  },
+  {
+   "n": "1.1",
+   "group": "Group II",
+   "q_en": "The amount of energy released from one mole of ATP is:",
+   "q_ur": "ATP کے ایک مول سے خارج ہونے والی انرجی کی مقدار ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "7.02 K. cal",
+     "ur": "7.02 کلو کیلوری"
+    },
+    {
+     "k": "B",
+     "en": "7.03 K. cal",
+     "ur": "7.03 کلو کیلوری"
+    },
+    {
+     "k": "C",
+     "en": "7.20 K. cal",
+     "ur": "7.20 کلو کیلوری"
+    },
+    {
+     "k": "D",
+     "en": "7.3 K. cal",
+     "ur": "7.3 کلو کیلوری"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "How much percentage of lipids is present in milk:",
+   "q_ur": "دودھ میں لپڈز کی فیصد مقدار ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "12 %",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10 %",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.9 %",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.4 %",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Root hairs belong to:",
+   "q_ur": "روٹ ہیئرز [؟] سے تعلق رکھتے ہیں: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Pericycle cells",
+     "ur": "پیری سائیکل سیلز"
+    },
+    {
+     "k": "B",
+     "en": "Stomatal cells [best read]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Root epidermal cells",
+     "ur": "روٹ ایپی ڈرمل سیلز"
+    },
+    {
+     "k": "D",
+     "en": "Cortical cells [best read]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "The scientific study of plants is called:",
+   "q_ur": "پودوں کا سائنسی مطالعہ کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Botany",
+     "ur": "باٹنی"
+    },
+    {
+     "k": "B",
+     "en": "Zoology",
+     "ur": "زوالوجی"
+    },
+    {
+     "k": "C",
+     "en": "Anatomy",
+     "ur": "اناٹمی"
+    },
+    {
+     "k": "D",
+     "en": "Histology",
+     "ur": "ہسٹالوجی"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The study of fossils is called:",
+   "q_ur": "فوسلز کا مطالعہ کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Taxonomy",
+     "ur": "ٹیکسانومی"
+    },
+    {
+     "k": "B",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Genetics",
+     "ur": "جینیٹکس"
+    },
+    {
+     "k": "D",
+     "en": "Palaeontology [best read]",
+     "ur": "پیلیونٹالوجی"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Tentative explanation of observations is called:",
+   "q_ur": "مشاہدات کی عارضی وضاحت کہلاتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hypothesis",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Experiment",
+     "ur": "تجربات"
+    },
+    {
+     "k": "C",
+     "en": "Deduction",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Theory",
+     "ur": "تھیوری"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "In Pakistan an endangered species is:",
+   "q_ur": "پاکستان میں ایک خطرناک نسل ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Indus dolphin [best read]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Crow [best read]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Sparrow",
+     "ur": "چڑیا"
+    },
+    {
+     "k": "D",
+     "en": "Markhor",
+     "ur": "مارخور"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Cells were [illegible in source scan]:",
+   "q_ur": "سیلز کو سب سے پہلے بیان کیا:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Aristotle",
+     "ur": "ارسطو"
+    },
+    {
+     "k": "B",
+     "en": "Robert Brown",
+     "ur": "رابرٹ براؤن"
+    },
+    {
+     "k": "C",
+     "en": "Robert Hooke [best read]",
+     "ur": "رابرٹ ہک"
+    },
+    {
+     "k": "D",
+     "en": "Schwan",
+     "ur": "شوان"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "In 1974 Nobel Prize in physiology and medicines won by:",
+   "q_ur": "1974 میں فزیالوجی اور میڈیسن کا نوبل پرائز جیتا:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Rene de Duve",
+     "ur": "رینی ڈی ڈوو"
+    },
+    {
+     "k": "B",
+     "en": "Camillo Golgi",
+     "ur": "کیمیلو گولجی"
+    },
+    {
+     "k": "C",
+     "en": "Lamark",
+     "ur": "لامارک"
+    },
+    {
+     "k": "D",
+     "en": "Aristotle",
+     "ur": "ارسطو"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "During mitosis one cell divides into number of daughter cell:",
+   "q_ur": "مائٹوسس کے دوران ایک سیل میں کتنے ڈاٹر سیل بنتی ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Duplication of chromosomes occurs in:",
+   "q_ur": "کروموسومز کی ڈپلیکیشن کس فیز میں ہوتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "S-Phase",
+     "ur": "S-فیز"
+    },
+    {
+     "k": "B",
+     "en": "M-Phase",
+     "ur": "M-فیز"
+    },
+    {
+     "k": "C",
+     "en": "GI-Phase",
+     "ur": "G1-فیز"
+    },
+    {
+     "k": "D",
+     "en": "Prophase",
+     "ur": "پروفیز"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Enzymes are made up of:",
+   "q_ur": "انزائمز بنے ہوتے ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Fatty Acid",
+     "ur": "فیٹی ایسڈ"
+    },
+    {
+     "k": "B",
+     "en": "Nucleic Acid",
+     "ur": "نیوکلیک ایسڈ"
+    },
+    {
+     "k": "C",
+     "en": "Carbohydrates",
+     "ur": "کاربوہائیڈریٹس"
+    },
+    {
+     "k": "D",
+     "en": "Amino Acids",
+     "ur": "امائنو ایسڈز"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,570 @@
+{
+ "board": "BISE Rawalpindi",
+ "board_slug": "rawalpindi",
+ "class": "9th",
+ "subject": "computer-science",
+ "year": 2022,
+ "slug": "rawalpindi-9th-computer-science-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Dividing a complex problem into smaller problems is called:",
+   "q_ur": "پیچیدہ مسئلے کو چھوٹے مسئلوں میں تقسیم کرنا کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Divide and Conquer",
+     "ur": "تقسیم کریں اور فتح کریں"
+    },
+    {
+     "k": "B",
+     "en": "Guess and improve",
+     "ur": "اندازہ لگائیں اور بہتر بنائیں"
+    },
+    {
+     "k": "C",
+     "en": "Act it out",
+     "ur": "ایکٹ اٹ آؤٹ"
+    },
+    {
+     "k": "D",
+     "en": "Prototype",
+     "ur": "نمونہ"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The symbol ← in the flowchart is called:",
+   "q_ur": "[best read — فلو چارٹ میں ← کی علامت کہلاتی ہے:]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Arrow",
+     "ur": "ایرو"
+    },
+    {
+     "k": "B",
+     "en": "Flow line",
+     "ur": "فلو لائن"
+    },
+    {
+     "k": "C",
+     "en": "Direction",
+     "ur": "سمت"
+    },
+    {
+     "k": "D",
+     "en": "Start",
+     "ur": "سٹارٹ"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The number of digits in hexadecimal number system is ______:",
+   "q_ur": "[best read — ہیکسا ڈیسیمل عددی نظام میں ہندسوں کی تعداد ______ ہوتی ہے:]",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "16",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Expression A+(B.C) is equal to ______:",
+   "q_ur": "[best read — ایکسپریشن A+(B.C) کے برابر ہوتی ہے:]",
+   "options": [
+    {
+     "k": "A",
+     "en": "A.(B.C)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A+(B+C)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(A+B).(A+C)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(A.B)+(A.C)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Number \"18\" is equal to ______ in binary System:",
+   "q_ur": "[best read — بائنری سسٹم میں نمبر \"18\" کے برابر ہوتا ہے:]",
+   "options": [
+    {
+     "k": "A",
+     "en": "101000",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10010",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10110",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10000",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Every data packet has an ______ adderess. [sic]",
+   "q_ur": "[best read — ہر ڈیٹا پیکٹ کا ایک ______ ایڈریس ہوتا ہے:]",
+   "options": [
+    {
+     "k": "A",
+     "en": "TCP",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "FTP",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "IP",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "HTTP",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Making illegal copies of software is called ______:",
+   "q_ur": "[best read — سافٹ ویئر کی غیر قانونی نقل بنانا ______ کہلاتا ہے:]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Encryption",
+     "ur": "رازداری"
+    },
+    {
+     "k": "B",
+     "en": "Piracy",
+     "ur": "پائریسی"
+    },
+    {
+     "k": "C",
+     "en": "Computation",
+     "ur": "کمپیوٹیشن"
+    },
+    {
+     "k": "D",
+     "en": "Decryption",
+     "ur": "ڈیکرپشن"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "______ is responsible for the protection of your family's data:",
+   "q_ur": "[best read — خاندان کے ڈیٹا کی حفاظت اور رازداری ______ کی ہوتی ہے:]",
+   "options": [
+    {
+     "k": "A",
+     "en": "DCO",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CPO",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NADRA",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "LRO",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The ______ element is a container for metadata:",
+   "q_ur": "[best read — ______ اپنے اندر میٹا ڈیٹا رکھتا ہے:]",
+   "options": [
+    {
+     "k": "A",
+     "en": "<body>",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "<head>",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "<title>",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "<html>",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Which tag is singular tag ______:",
+   "q_ur": "[best read — کون سا ٹیگ سنگولر ٹیگ ہے:]",
+   "options": [
+    {
+     "k": "A",
+     "en": "<body>",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "<head>",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "<br>",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "<title>",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Which solutions are written without work planning?",
+   "q_ur": "[best read — کس حل کو بغیر منصوبہ بندی کے لکھا جاتا ہے؟]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Prepared Solution",
+     "ur": "تیار شدہ حل"
+    },
+    {
+     "k": "B",
+     "en": "Candid Solution",
+     "ur": "کینڈڈ سلوشن"
+    },
+    {
+     "k": "C",
+     "en": "Strategized",
+     "ur": "حکمت عملی پر مبنی"
+    },
+    {
+     "k": "D",
+     "en": "Best Solution",
+     "ur": "بہترین حل"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "In a ______ error, the Algorithm is working but giving wrong result.",
+   "q_ur": "[best read — ______ غلطی میں الگورتھم چل رہا ہوتا ہے مگر غلط نتیجہ دے رہا ہوتا ہے:]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Random error",
+     "ur": "رینڈم ایرر"
+    },
+    {
+     "k": "B",
+     "en": "Logical error",
+     "ur": "لاجیکل ایرر"
+    },
+    {
+     "k": "C",
+     "en": "Syntax error",
+     "ur": "سینٹیکس ایرر"
+    },
+    {
+     "k": "D",
+     "en": "Runtime error",
+     "ur": "رن ٹائم ایرر"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Number (18)_10 is equal to ______ in binary system:",
+   "q_ur": "[best read — بائنری سسٹم میں نمبر (18)_10 کے برابر ہوتا ہے:]",
+   "options": [
+    {
+     "k": "A",
+     "en": "10000",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10110",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10010",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10100",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "______ is a device which holds data as long as it has power supply connected to it.",
+   "q_ur": "[best read — ______ ایک ایسا آلہ ہے جو صرف بجلی کی فراہمی تک ڈیٹا محفوظ رکھتا ہے:]",
+   "options": [
+    {
+     "k": "A",
+     "en": "ROM",
+     "ur": "روم"
+    },
+    {
+     "k": "B",
+     "en": "RAM",
+     "ur": "ریم"
+    },
+    {
+     "k": "C",
+     "en": "Hard Disk",
+     "ur": "ہارڈ ڈسک"
+    },
+    {
+     "k": "D",
+     "en": "Memory cards",
+     "ur": "میموری کارڈز"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "If both propositions are true then P.Q will be equal to: P = I live in Punjab / Q = My country is Pakistan",
+   "q_ur": "[best read — اگر دونوں پروپوزیشنز درست ہوں تو P.Q برابر ہوگا: P = میں پنجاب میں رہتا ہوں / Q = میرا ملک پاکستان ہے]",
+   "options": [
+    {
+     "k": "A",
+     "en": "False",
+     "ur": "غلط"
+    },
+    {
+     "k": "B",
+     "en": "True",
+     "ur": "درست"
+    },
+    {
+     "k": "C",
+     "en": "Negation",
+     "ur": "نفی"
+    },
+    {
+     "k": "D",
+     "en": "Indentity Law [sic]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "How many layers of TCP/IP Model.",
+   "q_ur": "[best read — TCP/IP ماڈل کی کتنی لیئرز ہیں:]",
+   "options": [
+    {
+     "k": "A",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "______ is responsible for the protection of your family data:",
+   "q_ur": "[best read — خاندان کے ڈیٹا کی حفاظت اور رازداری کی ذمہ داری ہوتی ہے:]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Army",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "FIA",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "DPO",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NADRA",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "______ is the process of encoding data:",
+   "q_ur": "[best read — ______ ڈیٹا کی خفیہ کاری کا عمل ہے:]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Encryption",
+     "ur": "رازداری"
+    },
+    {
+     "k": "B",
+     "en": "Sabotage",
+     "ur": "تخریب کاری"
+    },
+    {
+     "k": "C",
+     "en": "Piracy",
+     "ur": "پائریسی"
+    },
+    {
+     "k": "D",
+     "en": "Soft lifting",
+     "ur": "سافٹ لفٹنگ"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "What kind of list will < ol > tag create:",
+   "q_ur": "[best read — < ol > ٹیگ کس قسم کی لسٹ بناتا ہے:]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nested List",
+     "ur": "نیسٹڈ لسٹ"
+    },
+    {
+     "k": "B",
+     "en": "Ordered List",
+     "ur": "آرڈرڈ لسٹ"
+    },
+    {
+     "k": "C",
+     "en": "Blank List",
+     "ur": "خالی لسٹ"
+    },
+    {
+     "k": "D",
+     "en": "Inordered List [sic]",
+     "ur": "ان آرڈرڈ لسٹ"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "< A > and < /A > tags are used for:",
+   "q_ur": "[best read — < A > اور < /A > ٹیگز استعمال ہوتے ہیں:]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Adding Image",
+     "ur": "تصویر داخل کرنا"
+    },
+    {
+     "k": "B",
+     "en": "Creat a link to page [sic]",
+     "ur": "پیج کے ساتھ لنک"
+    },
+    {
+     "k": "C",
+     "en": "Allignment Text [sic]",
+     "ur": "ٹیکسٹ الائنمنٹ کرنا"
+    },
+    {
+     "k": "D",
+     "en": "Formatting Text",
+     "ur": "ٹیکسٹ فارمیٹنگ کرنا"
+    }
+   ]
+  }
+ ]
+}
