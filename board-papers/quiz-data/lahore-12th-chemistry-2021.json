@@ -8,6 +8,482 @@
  "questions": [
   {
    "n": 1,
+   "group": "Group I",
+   "q_en": "During nitration of benzene, the active nitrating agent is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "NO3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NO2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NO2+",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "HNO3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Chlorine heptaoxide reacts with water to form:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "HClO",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "HClO4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "HClO3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "HClO2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Which of the following reagents will react with both aldehydes and ketones?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Tollen's reagent",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Fehling's solution",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Grignard's reagent",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Benedict solution",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Which ion will have maximum value of heat of hydration:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Na+",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cs+1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ba+2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mg+2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Which is not a calcarious material :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Lime",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Clay",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Marble",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Marine shell",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Select from the following which one is an alcohol:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CH3-O-CH3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CH3-CH2-OH",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CH3COOH",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CH3-CH2-Br",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Laughing gas is chemically",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "N2O4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "N2O2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "N2O",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NO",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Mark the correct statement:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "All lanthanides are present in the same group",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "All halogens are present in the same period",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "All the alkali metals are present in the same group",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All the noble gases are present in the same period",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Elimination bimolecular reactors [sic, print for 'reactions'] involve:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "First order kinetics",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Second order kinetics",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Third order kinetics",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero order kinetics",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Which of the following is not a fatty acid:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Propanoic acid",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Acetic acid",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Phthalic acid",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Butanoic acid",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Formula of chloroform is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CH3Cl",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CCl4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CH2Cl2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CHCl3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Which halogen will react spontaneously with Au(s) produce Au3+ :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Br2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "I2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cl2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "F2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Rectified spirit contains ethyl alcohol :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "80%",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "85%",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "90%",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "95%",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "The strength of binding energy of transition elemer [sic, print for 'element'] depends upon:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Number of electron pair",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Number of unpaired electrons",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Number of neutrons",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Number of protons",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Which element forms an ion with charge +3:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Be",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Al",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Si",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "Ethanol can be converted into ethanoic acid by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hydrogenation",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Oxidation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Hydration",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Distillation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "Ketones are prepared by the oxidation of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Primary alcohol",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Tertiary alcohol",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Secondary alcohol",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
    "group": "Group II",
    "q_en": "Hydrogen bond is the strongest between the molecules of :",
    "q_ur": "",
