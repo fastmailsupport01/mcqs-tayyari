@@ -1,0 +1,318 @@
+{
+ "board": "BISE Mardan",
+ "board_slug": "mardan",
+ "class": "10th",
+ "subject": "Computer Science",
+ "year": 2022,
+ "slug": "mardan-10th-computer-science-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Annual",
+   "q_en": "A difficulty or any situation that requires resolution is called ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Algorithm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Problem",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Complexity",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Flowchart",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Annual",
+   "q_en": "Which of the following is a compiler directive?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "int x;",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "int x[ ];",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "#include<conio.h>",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "int main()",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Annual",
+   "q_en": "Which of the following escape sequence is used to insert a new line in output?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "\\b",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "\\t",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "\\n",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "\\new",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Annual",
+   "q_en": "The case block ends with ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "{",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "break",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "default",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Annual",
+   "q_en": "Which programming statement makes a decision?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "for",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "if",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "while",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "gets ()",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Annual",
+   "q_en": "A loop within another loop is called ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Outer loop",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Complex",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Counter loop",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nested loop",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Annual",
+   "q_en": "The GATE whose output is \"1\" when all the inputs are 0's is called ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "AND",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "OR",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NOT",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NOR",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Annual",
+   "q_en": "Internet address which identifies a website is called ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Webserver",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Website",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "URL",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "URI",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Annual",
+   "q_en": "Which of the following is not a data type in C++............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "int",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "char",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "float",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "tloat",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Annual",
+   "q_en": "Which of the following is not a loop structure ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "for",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "while",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "do-while",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "goto",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Annual",
+   "q_en": "Which language is used for creating hyperlinks in websites ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "B language",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "C language",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "HTML",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "URL",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,514 @@
+{
+ "board": "BISE Mardan",
+ "board_slug": "mardan",
+ "class": "11th",
+ "subject": "Chemistry",
+ "year": 2023,
+ "slug": "mardan-11th-chemistry-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Annual",
+   "q_en": "Passage of solvent molecules from dilute into concentrated solution is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Fluidity",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Osmosis",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Diffusion",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Reverse osmosis",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Annual",
+   "q_en": "Change in concentrations of reactants and products with change in time is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Order of reaction",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Rate of reaction",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Molecularity of reaction",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Rate constant",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Annual",
+   "q_en": "Reactions which never go to completion and finally attain a state of equilibrium, are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Endothermic",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Exothermic",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Reversible",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Irreversible",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Annual",
+   "q_en": "Existence of different crystalline solids in the same crystal form/shape is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Allotropy",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Isotropy",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Polymorphism",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Isomorphism",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Annual",
+   "q_en": "Boiling point of a liquid is not affected by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "External pressure",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Altitude",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Amount liquid",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Impurities",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Annual",
+   "q_en": "Which one of the following is more temperature sensitive:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ionic crystals",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Covalent Crystals",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Metallic crystals",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Liquid crystals",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Annual",
+   "q_en": "Evaporation of a liquid is a spontaneous process that causes",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cooling",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Heating",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Constant temperature",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Constant pressure",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Annual",
+   "q_en": "One mole of NaCl contains 6.02 x 10²³:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ions",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Atoms",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Molecules",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Formula Units",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Annual",
+   "q_en": "A yield of reaction that is independent of the reaction conditions, is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Actual",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Theoretical",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Percent",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Standard",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Annual",
+   "q_en": "Principal quantum number (n) describe which property of electron-cloud:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Energy",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Shape",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Orientation",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Spinning",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Annual",
+   "q_en": "Carbon in carbon dioxide molecule is hybridized.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "sp³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "sp²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "sp",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "dsp²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Annual",
+   "q_en": "The geometrical shape of a triatomic molecule with zero dipole moment is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Linear",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Angular",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Trigonal planar",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Tetrahedral",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Annual",
+   "q_en": "The compressibility factor (Z) for an ideal gas is always.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Equal to one",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Less than one",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Greater than one",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Annual",
+   "q_en": "One molal equeous solution of which compound has the lowest freezing point:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Urea",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Glucose",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Sugar",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Sodium chloride",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Annual",
+   "q_en": "An increase in internal energy of a system may cause:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Temperature rise",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Phase Change",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Chemical change",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Annual",
+   "q_en": "Which of the following is calculated indirectly by Born Haber cycle.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Internal energy",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Kinetic energy",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Lattice energy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Activation energy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Annual",
+   "q_en": "A substance that acts as oxidizing agent in the reaction H₂+Cl₂→2HCl",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "H₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cl₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "HCl",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Annual",
+   "q_en": "The oxidation number of oxygen in super oxides is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−1/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "+2",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

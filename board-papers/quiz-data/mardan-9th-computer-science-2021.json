@@ -1,0 +1,318 @@
+{
+ "board": "BISE Mardan",
+ "board_slug": "mardan",
+ "class": "9th",
+ "subject": "Computer Science",
+ "year": 2021,
+ "slug": "mardan-9th-computer-science-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Annual",
+   "q_en": "Which computer is a combination of digital and analog technologies?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Super",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Mini",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mainframe",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Hybrid",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Annual",
+   "q_en": "Where is Columbia Super Computer located?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "NASA, China",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NASA, USA",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NASA, Italy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NASA, Russia",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Annual",
+   "q_en": "Which of the following is an updated form of UNIX operating system?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Windows",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "DOS",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "LINUX",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Netware",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Annual",
+   "q_en": "Which of the following is a collection of related information or resource for storing information?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Folder",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "File",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Document",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Drive",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Annual",
+   "q_en": "Which layout gives the view of the document as it appears in a web browser?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Page",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Web",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Print",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Outline",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Annual",
+   "q_en": "In Word document which option is used to move text from one place (source) to another place (destination)?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cut-Print",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Copy-Print",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Copy-Paste",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cut-Paste",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Annual",
+   "q_en": "Which of the following are the blank spaces around the edges of the page?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Header",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Footer",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Alignment",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Page margins",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Annual",
+   "q_en": ".............. is an electronic device that can convert the analog signal to digital and vice versa?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Infrared",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Satellite",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Modem",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Channel",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Annual",
+   "q_en": "Which communication device is used in networking environment to connect computers to the local network?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Switch",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Router",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Hub",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Modem",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Annual",
+   "q_en": "A .............. network is one of the simplest networks because it only involves two nodes.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Peer to Peer",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Half Duplex",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Point to Point",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Client and Server",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Annual",
+   "q_en": "What is gaining an unauthorized access to computers or telecommunication systems called?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hacking",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cracking",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Lacking",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Tracking",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

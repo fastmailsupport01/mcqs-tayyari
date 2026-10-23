@@ -1,0 +1,346 @@
+{
+ "board": "BISE Mardan",
+ "board_slug": "mardan",
+ "class": "9th",
+ "subject": "Chemistry",
+ "year": 2023,
+ "slug": "mardan-9th-chemistry-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Annual",
+   "q_en": "Which one of the following has sharp and fixed melting point.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Homogenous mixture",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Compound",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Heterogonous mixture",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Impure substance",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Annual",
+   "q_en": "Why oxide ion has -2 charge.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Oxygen looses two electrons",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Oxygen gains two electrons",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Oxygen becomes neutral",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Oxygen looses three electrons",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Annual",
+   "q_en": "The number of particles approximately emitted from polonium metal are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "28,000",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "24,000",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "22,000",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "20,000",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Annual",
+   "q_en": "The rarest elements in the earth crust is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Astatine",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Iodine",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Chlorine",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Bromine",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Annual",
+   "q_en": "Sodium chloride (NaCl) and Calcium Chloride (CaCl₂) are the examples of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electrovalent Bond",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Covalent Bond",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Metallic Bond",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Dative Bond",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Annual",
+   "q_en": "Which one of the following pairs of atoms is most likely to form a covalent bond:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Na and F",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "K and F",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ca and F",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "F and F",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Annual",
+   "q_en": "Which process occurs when we spray a perfume in corner of room?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Effusion",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Diffusion",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Osmosis",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ellusion",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Annual",
+   "q_en": "How many grams are required to prepare one Molar solution of NaCl?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "54gm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "56gm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "58gm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "60gm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Annual",
+   "q_en": "A mixture of starch in water is an example of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Colloids",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Solution",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Suspension",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Solvant",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Annual",
+   "q_en": "In NaCl, the element Na is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Or:idizing Agent",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Reducing Agent",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Polarizing Agent",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Decolorizing Agent",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Annual",
+   "q_en": "Which of the following compound shows minimum oxidation number of carbon?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "H₂CO³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CO₃",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CO₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CO",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Annual",
+   "q_en": "Which one of the following element is metalloid?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Lithium",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Beryllium",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Nitrogen",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Boron",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

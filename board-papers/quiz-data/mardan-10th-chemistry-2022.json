@@ -1,0 +1,346 @@
+{
+ "board": "BISE Mardan",
+ "board_slug": "mardan",
+ "class": "10th",
+ "subject": "Chemistry",
+ "year": 2022,
+ "slug": "mardan-10th-chemistry-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Annual",
+   "q_en": "Which of the following is an alcohol?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CH₃−O−CH₃",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CH₃−CH₂−OH",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CH₃COOH",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CH₃−COH",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Annual",
+   "q_en": "Substitution reaction is the characteristic of ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Alkynes",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Alkenes",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Alkanes",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Annual",
+   "q_en": "Catenation is the linkage of carbon with other ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Oxygen atoms",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Carbon atoms",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Nitrogen atoms",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Halogens",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Annual",
+   "q_en": "Triglycerides are the building blocks of ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Proteins",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Carbohydrates",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Lipids",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Vitamins",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Annual",
+   "q_en": "The substance which completely dissociate in an aqueous solution and give a higher concentration of OH⁻ ions is called ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Strong acid",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Strong base",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Weak acid",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Weak base",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Annual",
+   "q_en": "The unit of Kc for the reaction PCl₃(g) + Cl₂(g) ⇌ PCl₅(g) is ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "mol·dm⁻³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "mol⁻¹·dm⁻³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "mol⁻¹·dm³",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "mol·dm³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Annual",
+   "q_en": "The pOH of 0.001M solution of nitric acid is ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.001",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10.0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "11",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "14",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Annual",
+   "q_en": "The gas which protects the earth surface from ultraviolet radiations is ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CO₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "N₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "O₃",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "O₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Annual",
+   "q_en": "Permanent hardness of water is removed by adding ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Washing soda",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Soda lime",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Caustic soda",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Baking soda",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Annual",
+   "q_en": "Water gas is a mixture of ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CO and H₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "C and H₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CO and H₂O",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "C and H₂O",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Annual",
+   "q_en": "When sodium bicarbonate is heated to get sodium carbonate, all are produced except ......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CO",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CO₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Na₂CO₃",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "H₂O",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Annual",
+   "q_en": "Blister copper is refined through ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Concentration",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Reduction",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Smelting",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Electrolysis",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

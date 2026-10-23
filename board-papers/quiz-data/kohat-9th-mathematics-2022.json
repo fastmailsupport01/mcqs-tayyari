@@ -1,0 +1,430 @@
+{
+ "board": "BISE Kohat",
+ "board_slug": "kohat",
+ "class": "9th",
+ "subject": "Mathematics",
+ "year": 2022,
+ "slug": "kohat-9th-mathematics-2022",
+ "questions": [
+  {
+   "n": "i",
+   "group": "Annual",
+   "q_en": "The diagonal of ……… does not divide it into two congruent triangles.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "rectangle",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "square",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "parallelogram",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "trapezium",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ii",
+   "group": "Annual",
+   "q_en": "A diagonal of a parallelogram divides the parallelogram into ………congruent triangles.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "one",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "two",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "three",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iii",
+   "group": "Annual",
+   "q_en": "Perpendicular bisectors of a triangle are …………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "congruent",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "concurrent",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "parallel to each other",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "perpendicular",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iv",
+   "group": "Annual",
+   "q_en": "Determinant of [4 -1; -9 2] is ….",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "–1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "17",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "–17",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "v",
+   "group": "Annual",
+   "q_en": "Factors of x² + 2x – 24 are …..",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x + 4, x – 6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x – 4, x + 6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x + 3, x – 8",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x + 8, x – 3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vi",
+   "group": "Annual",
+   "q_en": "The value of polynomial P(x) = x³ – x² – 5x + 3 at x = 3 is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "–15",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "27",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vii",
+   "group": "Annual",
+   "q_en": "Simplified form of a/(25a²–b²) – b/(5a–b) is……",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5a/(25a²–b²)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "+5a/(5a–b)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "–5a/(5a+b)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "–5a/(25a²–b²)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "viii",
+   "group": "Annual",
+   "q_en": "If x, y and z are any three real numbers then, if x < y and y < z => x < z is called …..property.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "trichotomy",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "additive",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "transitive",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "multiplicative",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ix",
+   "group": "Annual",
+   "q_en": "The two coordinate axes intersect at an angle of ….",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "30°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "90°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "x",
+   "group": "Annual",
+   "q_en": "The points (-3,4) lies in which quadrant?.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "II",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "I",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "IV",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "III",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xi",
+   "group": "Annual",
+   "q_en": "A matrix with \"m\" rows and \"n\" columns has order ………………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "m/n",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "m × n",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "mⁿ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "m – n",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xii",
+   "group": "Annual",
+   "q_en": "√3 is an example of …………… number.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "rational",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "irrational",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "prime",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "natural",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiii",
+   "group": "Annual",
+   "q_en": "√(-(-9)²)= ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "9",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "9 + i",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "9–i",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9i",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiv",
+   "group": "Annual",
+   "q_en": "0.069 can be written in scientific notation as.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "6.9 × 10²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6.9 x 10⁻³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.69 x 10³",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "69 x 10²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xv",
+   "group": "Annual",
+   "q_en": "(a+b)² – (a–b)² = …………………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a⁴–b⁴",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2(a²+b²)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a²–4ab+2b²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4ab",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

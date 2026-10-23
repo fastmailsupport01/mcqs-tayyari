@@ -1,0 +1,514 @@
+{
+ "board": "BISE Kohat",
+ "board_slug": "kohat",
+ "class": "12th",
+ "subject": "Physics",
+ "year": 2021,
+ "slug": "kohat-12th-physics-2021",
+ "questions": [
+  {
+   "n": "i",
+   "group": "Annual",
+   "q_en": "Capacitive reactance Xc = ………………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2π/fc",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "fc/2π",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2πfc",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/2πfc",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ii",
+   "group": "Annual",
+   "q_en": "For an atom of Hydrogen the radius of the first orbit is given by………………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "h/me²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "me/4h²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "h²/4π²kme²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "h²me²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iii",
+   "group": "Annual",
+   "q_en": "For full wave rectifier, the minimum number of diodes required is……………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iv",
+   "group": "Annual",
+   "q_en": "Most of the electrons in the base of an NPN transistor flows………………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Out of the base lead",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Into the collector",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Into the emit",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Into the Base supply",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "v",
+   "group": "Annual",
+   "q_en": "De Broglie waves are associated with………………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Moving charged particles only",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Moving neutral particles only",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "All moving particles",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All particles whether in motion or at rest",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vi",
+   "group": "Annual",
+   "q_en": "In accordance with Bohr's theory the K.E of the electron is equal to……………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ze²/2r²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ze²/r",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ze²/2r",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vii",
+   "group": "Annual",
+   "q_en": "The device in which induced emf is statically induced emf is ………………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Transformer",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Alternator",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "AC generator",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Dynamo",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "viii",
+   "group": "Annual",
+   "q_en": "Half-life of given sample is 22 years. The sample will reduce to 50% of the original value after?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "11 years",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "22 years",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "44 years",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ix",
+   "group": "Annual",
+   "q_en": "The binding energy for nucleus A is 7.7 MeV and that for nucleus B is 7.8 MeV, which nucleus has the larger mass?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nucleus A",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Nucleus B",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Less than Nucleus A",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "x",
+   "group": "Annual",
+   "q_en": "When air is replaced by a medium of dielectric constant K, the force of attraction between two charges separated by a distance r………………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Decreases K times",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Remain unchanged",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Increases K times",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Increases K² times.",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xi",
+   "group": "Annual",
+   "q_en": "One electron volt is equal to………………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "9.11x10⁻¹⁸ J",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "13.6x10⁻¹² J",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.60 x10⁻¹⁹ J",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6.3x10⁻¹⁸ J",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xii",
+   "group": "Annual",
+   "q_en": "Ohm's law is valid for ………………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Thermistors",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Filament of bulb",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Semi conductor diode",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Metals",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiii",
+   "group": "Annual",
+   "q_en": "Wheatstone bridge is used to determine………………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Current",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Un-known resistances",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Potential difference",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Electric power",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiv",
+   "group": "Annual",
+   "q_en": "One Weber is equal to………………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "N/C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "N/m A",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A.m/N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "N-m/A",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xv",
+   "group": "Annual",
+   "q_en": "In order to convert Galvanometer into ammeter one has to connect …… to Galvanometer",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Small resistance in series",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Small resistance in parallel",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "High resistance in series",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "High resistance in parallel",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xvi",
+   "group": "Annual",
+   "q_en": "One Gauss (1G) is equal to………………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10⁴ Telsa",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10⁻⁴ Telsa",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10⁴ Telsa",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10⁻⁸ Telsa",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xvii",
+   "group": "Annual",
+   "q_en": "The unit of self-inductance is………………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Henry",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Curie",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Tesla",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Volt",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xviii",
+   "group": "Annual",
+   "q_en": "When an AC supply is connected to a pure resistance then………………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Voltage and current are in phase",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Voltage leads in current by 90°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Current leads the voltage by 90°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Power loss in resistor is zero",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

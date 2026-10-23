@@ -1,0 +1,570 @@
+{
+ "board": "BISE Mardan",
+ "board_slug": "mardan",
+ "class": "11th",
+ "subject": "Mathematics",
+ "year": 2023,
+ "slug": "mardan-11th-mathematics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Annual",
+   "q_en": "Tan2α = ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2tanα/(1−tan²α)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(1−tan²α)/2tanα",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2tanα/(1+tan²α)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(1+tan²α)/2tanα",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Annual",
+   "q_en": "Sin(π/2 − α) = ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sinα",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cosα",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−Sinα",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cosα",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Annual",
+   "q_en": "A triangle which has no right angle is called ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Oblique triangle",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Right angled triangle",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Both A and B",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Annual",
+   "q_en": "√(s(s−a)/bc) = ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sinα/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cosβ/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cosα/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "tanα/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Annual",
+   "q_en": "Period of tan3x is ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2π/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2π",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π/3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Annual",
+   "q_en": "²⁰C₁₈ = ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "360",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "190",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "40",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Annual",
+   "q_en": "1 + oi is called ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Multiplicative identity",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Multiplicative inverse",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Additive inverse",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Additive identity",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Annual",
+   "q_en": "If z = x + iy and (z+5i)/(z−5i) = 1 then z lies on:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x-axis",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "y-axis",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Line y=5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Annual",
+   "q_en": "A system of linear equation has a unique solution, then the system is ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Inconsistent",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Consistent",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Both A and B",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Annual",
+   "q_en": "If A and B are non-singular matrices. Then (AB)⁻¹ = ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A⁻¹B⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "B⁻¹A⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(BA)⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Annual",
+   "q_en": "A⃗ = 2i + j − k then |A⃗| = ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Annual",
+   "q_en": "The general term of a geometric sequence is ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a₁rⁿ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a₁rⁿ⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a₁rⁿ⁺¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a₁+(n−1)d",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Annual",
+   "q_en": "Relation between geometric and Harmonic mean is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "G > H",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "G < H",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "G = H",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "G = AH",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Annual",
+   "q_en": "What is the nth term of the series 1+(1+2)+(1+2+3)+............?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(n+1)/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "n(n+1)/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "n²(n²+1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(n+1)(2n+3)/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Annual",
+   "q_en": "If A = [1 3 1; −1 2 0; 2 0 −2] then A₂₃ = ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Annual",
+   "q_en": "If tₙ = 6n+5 then tₙ₊₁ = ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "6n−1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6n+11",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6n+6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6n−5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Annual",
+   "q_en": "(n+1)!/(n−1)! = ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "n²+n",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(n+1)(n+2)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/(n(n+1))",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(n+2)!/n",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Annual",
+   "q_en": "For any natural number n, 1 + 2 + 3 + 4 + ............ + n = ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "{n(n+1)/2}²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "n(n+1)/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "n(n+1)(n+2)/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "n²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Annual",
+   "q_en": "The domain of y = x/√(x²−3x+2) is ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(∞,1)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(2,∞)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(∞,1)U(2,∞)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(−∞,1)U(2,∞)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Annual",
+   "q_en": "Which of the following point is a solution of inequality 2x−y≥ 0",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(−1,0)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(−1,−1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(1,−1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

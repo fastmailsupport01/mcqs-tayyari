@@ -1,0 +1,346 @@
+{
+ "board": "BISE Mardan",
+ "board_slug": "mardan",
+ "class": "10th",
+ "subject": "Physics",
+ "year": 2021,
+ "slug": "mardan-10th-physics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Annual",
+   "q_en": "The focal length of a convex mirror with a radius of curvature of 10 cm is ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "+ 10 cm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "− 10 cm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "− 5 cm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "+ 5 cm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Annual",
+   "q_en": "Which of the following materials will refract light more?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Air",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Diamond",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Glass",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Water",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Annual",
+   "q_en": "The unit of electric potential is ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "NC⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Farad",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Coulomb",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Volt",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Annual",
+   "q_en": "Kilowatt (kWh) is the unit of electrical ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Power",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Energy",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Charge",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "emf",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Annual",
+   "q_en": "Which of the following represents one ohm?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "VA⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "JS⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "WA⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "JC⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Annual",
+   "q_en": "A step-up transformer increases ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Energy",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Power",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Current",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Voltage",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Annual",
+   "q_en": "The Boolean equation for the NOR function is ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "X = Ā",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "X = AB with overline",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "X = A+B with overline",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "X = A",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Annual",
+   "q_en": "Cathode rays are the beam of ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ions",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Neutrons",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Protons",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Electrons",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Annual",
+   "q_en": "Which one or more of the three decay processes (α, β and γ) results in a new element?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Only α",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Only β",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Only γ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "α and β",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Annual",
+   "q_en": "What is the number of neutrons in the plutonium ₉₂²⁴²Pu",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "92",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "142",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "150",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "242",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Annual",
+   "q_en": "The distance travelled by wave in unit time is called ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Wave cycle",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Wavelength",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Wave speed",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Amplitude",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Annual",
+   "q_en": "The pitch of a note depends upon ............ of the sound wave.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Amplitude",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Loudness",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Displacement",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Frequency",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

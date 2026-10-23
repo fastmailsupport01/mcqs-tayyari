@@ -1,0 +1,318 @@
+{
+ "board": "BISE Kohat",
+ "board_slug": "kohat",
+ "class": "9th",
+ "subject": "Computer Science",
+ "year": 2022,
+ "slug": "kohat-9th-computer-science-2022",
+ "questions": [
+  {
+   "n": "i",
+   "group": "Annual",
+   "q_en": "Which of the following is an input device for voice recording?",
+   "q_ur": "کون سا آلہ آواز کی ریکارڈنگ کے لیے ان پٹ کے طور پر استعمال ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "scanner",
+     "ur": "سکینر"
+    },
+    {
+     "k": "B",
+     "en": "keyboard",
+     "ur": "کی بورڈ"
+    },
+    {
+     "k": "C",
+     "en": "speaker",
+     "ur": "سپیکر"
+    },
+    {
+     "k": "D",
+     "en": "microphone",
+     "ur": "مائیکروفون"
+    }
+   ]
+  },
+  {
+   "n": "ii",
+   "group": "Annual",
+   "q_en": "Which program is used to view internet sites/pages?",
+   "q_ur": "کون سا پروگرام انٹرنیٹ پر موجود ویب سائٹس اور پیجز دیکھنے کے لیے استعمال کیا جاتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "internet explorer",
+     "ur": "انٹرنیٹ ایکسپلورر"
+    },
+    {
+     "k": "B",
+     "en": "web viewer",
+     "ur": "ویب ویور"
+    },
+    {
+     "k": "C",
+     "en": "word",
+     "ur": "ورڈ"
+    },
+    {
+     "k": "D",
+     "en": "excel",
+     "ur": "ایکسل"
+    }
+   ]
+  },
+  {
+   "n": "iii",
+   "group": "Annual",
+   "q_en": "Which of the following are the blank spaces around the edges of the page?",
+   "q_ur": "ذیل میں سے کون سی آپشن صفحے کے ارد گرد کناروں پر موجود خالی جگہ کو ظاہر کرتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "header",
+     "ur": "ہیڈر"
+    },
+    {
+     "k": "B",
+     "en": "footer",
+     "ur": "فوٹر"
+    },
+    {
+     "k": "C",
+     "en": "page margins",
+     "ur": "پیج مارجن"
+    },
+    {
+     "k": "D",
+     "en": "alignment",
+     "ur": "الائنمنٹ"
+    }
+   ]
+  },
+  {
+   "n": "iv",
+   "group": "Annual",
+   "q_en": "Which of the following keyboard shortcut is used to open print dialog box?",
+   "q_ur": "ان میں سے کون سی کی بورڈ [illegible in source scan] سے پرنٹ ڈائیلاگ باکس کھل جاتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ctrl+S",
+     "ur": "Ctrl+S"
+    },
+    {
+     "k": "B",
+     "en": "Ctrl+P",
+     "ur": "Ctrl+P"
+    },
+    {
+     "k": "C",
+     "en": "Ctrl+N",
+     "ur": "Ctrl+N"
+    },
+    {
+     "k": "D",
+     "en": "Ctrl+T",
+     "ur": "Ctrl+T"
+    }
+   ]
+  },
+  {
+   "n": "v",
+   "group": "Annual",
+   "q_en": "………… are graphic presentation of data from a worksheet.",
+   "q_ur": "………… گرافکس کی مدد سے ورک شیٹ میں موجود ڈیٹا کی نمائش کرتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "formula",
+     "ur": "فارمولا"
+    },
+    {
+     "k": "B",
+     "en": "charts",
+     "ur": "چارٹ"
+    },
+    {
+     "k": "C",
+     "en": "file",
+     "ur": "فائل"
+    },
+    {
+     "k": "D",
+     "en": "formula bar",
+     "ur": "فارمولا بار"
+    }
+   ]
+  },
+  {
+   "n": "vi",
+   "group": "Annual",
+   "q_en": "What is a device used in a communication system to send or transmit data to another device called?",
+   "q_ur": "درج ذیل میں سے کون سا آلہ ایک آلے سے ڈیٹا کو دوسرے آلے تک منتقل کرنے کے لیے مواصلاتی نظام میں استعمال کیا جاتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "receiver",
+     "ur": "ریسیور"
+    },
+    {
+     "k": "B",
+     "en": "medium",
+     "ur": "میڈیم"
+    },
+    {
+     "k": "C",
+     "en": "sender",
+     "ur": "سینڈر"
+    },
+    {
+     "k": "D",
+     "en": "channel",
+     "ur": "چینل"
+    }
+   ]
+  },
+  {
+   "n": "vii",
+   "group": "Annual",
+   "q_en": "Which communication technique allows several users to share a band of frequencies?",
+   "q_ur": "کس مواصلاتی تکنیک میں کئی صارفین فریکوئنسی کے مشترکہ بینڈ کا اشتراک کرتے ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "diau-up",
+     "ur": "ڈائل اپ"
+    },
+    {
+     "k": "B",
+     "en": "DSL",
+     "ur": "ڈی ایس ایل"
+    },
+    {
+     "k": "C",
+     "en": "ISDN",
+     "ur": "آئی ایس ڈی این"
+    },
+    {
+     "k": "D",
+     "en": "CDMA",
+     "ur": "سی ڈی ایم اے"
+    }
+   ]
+  },
+  {
+   "n": "viii",
+   "group": "Annual",
+   "q_en": "Which of the following should not be written down or shared with others?",
+   "q_ur": "مندرجہ ذیل میں سے کس چیز کو لکھ کر یا شیئر نہیں کرنا چاہیے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "password",
+     "ur": "پاس ورڈ"
+    },
+    {
+     "k": "B",
+     "en": "user ID",
+     "ur": "یوزر آئی ڈی"
+    },
+    {
+     "k": "C",
+     "en": "program",
+     "ur": "پروگرام"
+    },
+    {
+     "k": "D",
+     "en": "data",
+     "ur": "ڈیٹا"
+    }
+   ]
+  },
+  {
+   "n": "ix",
+   "group": "Annual",
+   "q_en": "In which generation computers transistors were used?",
+   "q_ur": "کمپیوٹر کی کس نسل میں ٹرانزسٹر استعمال کیے گئے تھے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "first",
+     "ur": "پہلی"
+    },
+    {
+     "k": "B",
+     "en": "second",
+     "ur": "دوسری"
+    },
+    {
+     "k": "C",
+     "en": "third",
+     "ur": "تیسری"
+    },
+    {
+     "k": "D",
+     "en": "fourth",
+     "ur": "چوتھی"
+    }
+   ]
+  },
+  {
+   "n": "x",
+   "group": "Annual",
+   "q_en": "In which transmission, data flow only in one direction from the sending device to the receiving device?",
+   "q_ur": "کس مواصلات میں ڈیٹا بھیجنے والے آلے سے وصول کرنے والے آلے کی طرف [illegible in source scan] جاتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "simplex",
+     "ur": "سمپلیکس"
+    },
+    {
+     "k": "B",
+     "en": "duplex",
+     "ur": "ڈوپلیکس"
+    },
+    {
+     "k": "C",
+     "en": "half duplex",
+     "ur": "ہاف ڈوپلیکس"
+    },
+    {
+     "k": "D",
+     "en": "full duplex",
+     "ur": "فل ڈوپلیکس"
+    }
+   ]
+  },
+  {
+   "n": "xi",
+   "group": "Annual",
+   "q_en": "Which of the following is an updated form of unix operating system?",
+   "q_ur": "ذیل میں سے کون سا آپریٹنگ سسٹم Unix کی جدید شکل ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "windows",
+     "ur": "Windows"
+    },
+    {
+     "k": "B",
+     "en": "linux",
+     "ur": "Linux"
+    },
+    {
+     "k": "C",
+     "en": "DOS",
+     "ur": "DOS"
+    },
+    {
+     "k": "D",
+     "en": "netware",
+     "ur": "Netware"
+    }
+   ]
+  }
+ ]
+}
