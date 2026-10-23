@@ -1,0 +1,962 @@
+{
+ "board": "BISE Bahawalpur",
+ "board_slug": "bahawalpur",
+ "class": "12th",
+ "subject": "Physics",
+ "year": 2021,
+ "slug": "bahawalpur-12th-physics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group Ist",
+   "q_en": "The Gradient of the Scalar Field is always be a:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Scalar Quantity",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Vector Quantity",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Variable Quantity",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Fixed Quantity",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group Ist",
+   "q_en": "Work done by Magnetic Force on a charge particle while moving through Magnetic Field is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "qvB",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "vB/q",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "q/vB",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group Ist",
+   "q_en": "Which one of the following is used to determine internal resistance of a cell:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Potentiometer",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Wheat Stone Bridge",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ammeter",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Voltmeter",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group Ist",
+   "q_en": "On removing the dielectric from a charged capacitor, its energy:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Increases",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Remains Unchanged",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Decreases",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group Ist",
+   "q_en": "The Ratio of Magnetic Force (Fm) and Electric Force (Fe) acting on a charge moving undeflected through the field is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "E / B",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "B / E",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "E / vB",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group Ist",
+   "q_en": "The emf induced in 1 mH inductance in which current changes from 5A to 3A in 1ms is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2 x 10-6 V",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8 x 10-6 V",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2 V",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8 V",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group Ist",
+   "q_en": "The Inductance of Coil is proportional to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Its shape",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "The number of turns",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "The Resistance of Coil",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "The Square of the number of turns",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group Ist",
+   "q_en": "In an A.C. Circuit, a Resistance R is connected in Series with an inductance L if phase angle between voltage and current be 45o, the value of inductive reactance will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2 R",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "R",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "R / 2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "R / 4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group Ist",
+   "q_en": "An A.C. varies as a function of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Time",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Current",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Voltage",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Displacement",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group Ist",
+   "q_en": "In Common Emitter Transistor Amplifier the Input Signal and Output Signal are always:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Have the same Magnitude",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Have Same Phase",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Out of the Phase by 180o",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Negative",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group Ist",
+   "q_en": "The value of Input Resistance of OP - Amplifier is of the order of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Few Ohms",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Milli Ohms",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Kilo Ohms",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mega Ohms",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group Ist",
+   "q_en": "Very weak magnetic field produced by brain can be detected by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "MRI",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Metallic Needle",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Squids",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cat Scanner",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group Ist",
+   "q_en": "Who gave the idea of Matter Waves:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "de - Broglie",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Einstein",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Huygen",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Max - planck",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group Ist",
+   "q_en": "Dead Time of G.M. Counter is approximately:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10-6 s",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10-5 s",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10-4 s",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10-3 s",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group Ist",
+   "q_en": "In order to increase the stopping potential of ejected photoelectrons, there should be an increase in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Intensity of Radiation",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Wavelength of Radiation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Frequency of Radiation",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Both Wavelength of Radiation and Intensity of Radiation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group Ist",
+   "q_en": "Leptons are particles do not experience:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Strong Nuclear Force",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Weak Nuclear Force",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Electric Force",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Magnetic Force",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group Ist",
+   "q_en": "Which of the following is the energy required (in ev) for ionizing an excited Hydrogen atom:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "13.6 ev",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10.2 ev",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "More than 13.6 ev",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3.4 ev or less than it",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group 2nd",
+   "q_en": "Electric Flux does not depend upon:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Charge Enclosed",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Medium",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Medium and Charge Enclosed",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Shape of Closed Surface",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group 2nd",
+   "q_en": "One Tesla in terms of other units i-e 1T = ?:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 NA-1m-1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1 NmA-1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1 NA-1m-2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1 NA-1m2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group 2nd",
+   "q_en": "Kirchhoff's Second Rule is based on the Law of Conservation of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mass",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Momentum",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Energy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Charge",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group 2nd",
+   "q_en": "Electric Intensity at a point close to an infinite sheet of charge is given by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "σ/2εo",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2σ/εo",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "εo/σ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "σ/εo",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group 2nd",
+   "q_en": "An Electric Circuit in CRO that provides voltage to X plates is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Tweet",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Sweep",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Sleep",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cheap",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group 2nd",
+   "q_en": "The sum of positive and negative peak values of an A.C. Cycle is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Instantaneous Value",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Peak Value",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "P-P Value",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "rms Value",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group 2nd",
+   "q_en": "Assembly of Coil and Cylinder is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Generator",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Solenoid",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Router",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Armature",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group 2nd",
+   "q_en": "One Henry is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Vs-1A",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Vs-1A-1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "VsA-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "VsA",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group 2nd",
+   "q_en": "In Free Space, the speed of Electromagnetic Waves is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "332 ms-1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3 x 108 ms-1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.1 x 103 ms-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2.6 x 104 ms-1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group 2nd",
+   "q_en": "Number of Diodes used in Full Wave (bridge) rectifier circuit are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group 2nd",
+   "q_en": "The value of Potential Barrier for Silicon at room temperature is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.3 V",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.5 V",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.7 V",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.9 V",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group 2nd",
+   "q_en": "A Semi Conductor will behave as an insulator at temperature:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0 K",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0oC",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10 K",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10oC",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group 2nd",
+   "q_en": "Momentum of a Photon is given by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "hf/λ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "hλ/C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "fλ/C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "hf/C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group 2nd",
+   "q_en": "In a Nuclear Transmutation when Thorium is transformed into Protactinium, the emitted particle is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A Beta Particle",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A Neutron",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A Proton",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "An Alpha Particle",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group 2nd",
+   "q_en": "The energy required to completely remove an electron from the first Bohr Orbit is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Excitation Energy",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ionization Energy",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Potential Energy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Kinetic Energy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group 2nd",
+   "q_en": "A photon of Radio Wave has an energy of the order of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10-16 eV",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10-10 eV",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1 eV",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1 KeV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group 2nd",
+   "q_en": "The temperature of the core of the sun is about:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5 MoC",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10 MoC",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "20 MoC",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "40 MoC",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

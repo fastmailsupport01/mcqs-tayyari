@@ -1,0 +1,962 @@
+{
+ "board": "BISE Bahawalpur",
+ "board_slug": "bahawalpur",
+ "class": "11th",
+ "subject": "Physics",
+ "year": 2021,
+ "slug": "bahawalpur-11th-physics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group Ist",
+   "q_en": "If the percentage uncertainty in the radius of sphere is 3 %, then total uncertainty in volume is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4 %",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "7 %",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "9 %",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "13 %",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group Ist",
+   "q_en": "The magnitudes of Dot and Cross Product of two vectors are 2√3 and 2 respectively, then the angle between vectors is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "30°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "90°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group Ist",
+   "q_en": "If two unit vectors are perpendicular to each other, then magnitude of their resultant is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "√2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√2.5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2√2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group Ist",
+   "q_en": "√(F×l/m) is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Torque",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Frequency",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Speed",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Power",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group Ist",
+   "q_en": "Acceleration of Rocket is given by the relation:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a = M/mv",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a = mv/M",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a = m/Mv",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a = Mv/m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group Ist",
+   "q_en": "The speed of hoop on reaching the bottom of an inclined plane is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "√(3/4 gh)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "√gh",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√(4/3 gh)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√2gh",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group Ist",
+   "q_en": "Kilo Watt - Second is the unit of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Power",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Energy",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Momentum",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Time",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group Ist",
+   "q_en": "For which pair of angles, Range is same:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(15°, 60°)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(35°, 65°)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(30°, 60°)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(20°, 45°)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group Ist",
+   "q_en": "The ratio of Rotational and Translational K.E. of hoop is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1:2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1:√2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1:1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√2:1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group Ist",
+   "q_en": "The value of r for diatomic gas is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.29",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.67",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.73",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group Ist",
+   "q_en": "Time Period of Simple Pendulum is directly proportional to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ℓ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ℓ²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ℓ1/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "g",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group Ist",
+   "q_en": "If Radius of Droplet is halved, then its Terminal Velocity becomes:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Half",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Double",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "One Fourth",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Four Times",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group Ist",
+   "q_en": "The speed of sound at a given temperature is v, by doubling pressure speed of sound is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.5 v",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "v",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2 v",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3 v",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group Ist",
+   "q_en": "Pressure of a Gas is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(2/3) ρ<v²>",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(3/2) ρ<v²>",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(1/3) ρ<v²>",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ρ<v²>",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group Ist",
+   "q_en": "If a Convex Lens of Focal Length 5 cm is used as a Simple Microscope, then its magnifying Power is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "25",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group Ist",
+   "q_en": "Angle between Wavefront and Ray of light is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "90°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group Ist",
+   "q_en": "For a Diatomic Gas Cv = 5R/2 then γ for this gas is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5/7",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "7/5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4/3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3/4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group 2nd",
+   "q_en": "In earth's Gravitational Field, work done in a closed path is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Maximum",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Positive",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Negative",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group 2nd",
+   "q_en": "A two meter high tank is full of water. A hole appears at its middle, what is speed of Efflux:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3.75 m/s",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4.91 m/s",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4.42 m/s",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5.11 m/s",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group 2nd",
+   "q_en": "A particle execute SHM of amplitude A. Potential Energy is maximum when the displacement is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "± A",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "± A/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "± A/√2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group 2nd",
+   "q_en": "In Young's Double Slit Experiment the Fringe Spacing is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "d/λL",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "L/λd",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "λL/d",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ld/λ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group 2nd",
+   "q_en": "Expression for Resolving Power of Lens is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "αmin = λ/D",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "R = 1/αmin",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "R = D/1.22λ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "R = λ/λ2-λ1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group 2nd",
+   "q_en": "Which of the following measurement is more precise:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3127 s",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "312.7 s",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "31.27 s",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3.127 s",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group 2nd",
+   "q_en": "A system takes 88 seconds to complete 25 oscillations. Time period of the system is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3.52 s",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "35.2 s",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3.82 s",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.032 s",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group 2nd",
+   "q_en": "If r = 5 m and F = 4 N are along same direction then Torque is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5 N-m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "20 N-m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10 N-m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group 2nd",
+   "q_en": "If Vector makes angle θ with the x-axis, its x-component is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A Sinθ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A Tanθ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A Cosθ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A Secθ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group 2nd",
+   "q_en": "Which of the given variable is present in all three equations of Motion:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Acceleration",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Distance",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Time",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Torque",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group 2nd",
+   "q_en": "Motion along y-axis is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "One Dimensional",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Two Dimensional",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Three Dimensional",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Angular",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group 2nd",
+   "q_en": "One Radian is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2π rev",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/4 rev",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/2 rev",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/2π rev",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group 2nd",
+   "q_en": "S.I. Unit of Angular Acceleration is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "rad/s²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "rev/s²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "degree/s²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "m/s²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group 2nd",
+   "q_en": "If 20 Waves passes through medium in 1 second with speed of 20 ms⁻¹, then Wavelength is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "20 m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "200 m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "400 m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1 m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group 2nd",
+   "q_en": "Velocity of Sound is maximum in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Air",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Nitrogen",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Metal",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Glass",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group 2nd",
+   "q_en": "The Efficiency of Heat Engine is 100 %, when temperature of Sink is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0°C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0°F",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0 K",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "273 K",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group 2nd",
+   "q_en": "Area under p-v Diagram of Carnot Engine represents:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Heat Input",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Heat Output",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Efficiency",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Work done",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

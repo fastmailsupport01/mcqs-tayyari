@@ -1,0 +1,430 @@
+{
+ "board": "BISE Bahawalpur",
+ "board_slug": "bahawalpur",
+ "class": "11th",
+ "subject": "Computer Science",
+ "year": 2021,
+ "slug": "bahawalpur-11th-computer-science-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group Ist",
+   "q_en": "Which of the following is the largest unit of Data:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Bit",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Byte",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Terabyte",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Kilobyte",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group Ist",
+   "q_en": "The Layer that is in between of Session and Application Layer is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Network Layer",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "DLL",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Transport Layer",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Presentation Layer",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group Ist",
+   "q_en": "What type of Network is the Internet:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "LAN",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "WAN",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "MAN",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "PAN",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group Ist",
+   "q_en": "What comes after the Design Phase in SDLC:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Coding",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Testing",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Analysis",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Implementation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group Ist",
+   "q_en": "Digital Signal represents a sequence of --------- values:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Discrete",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Continuous",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Unique",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Bytes",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group Ist",
+   "q_en": "An important characteristic of RAM is that it is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Read Only",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Write Only",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Volatile",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Non Volatile",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group Ist",
+   "q_en": "A --------- is an automatic programmable machine:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CAM",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ROBOT",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CAD",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CBT",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group Ist",
+   "q_en": "Which of the following is the Insulation on a Fiber Optic Cable:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sheathing",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Braiding",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Housing",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cladding",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group Ist",
+   "q_en": "CU stands for:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cache Unit",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Control Unit",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Calculating Unit",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Class Unit",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group Ist",
+   "q_en": "The letters \"NT\" in Windows NT stands for:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Not Tested",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "New Technology",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Network Terminal",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Network Technology",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group Ist",
+   "q_en": "Every Webpage has unique address on the World Wide Web known as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "URL",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "HTML",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "HTTP",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Hyperlink",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group Ist",
+   "q_en": "A Virus that deletes all the Microsoft Office Files from the disk is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Chernobal Virus",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Worm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Vaccine",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Bomb",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group Ist",
+   "q_en": "The tool used to find a similar or alternative word in a document is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Finder",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Dictionary",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Style",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Thesaurus",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group Ist",
+   "q_en": "The intersection of a row and a column is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Intersection",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Field",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cell",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Address",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group Ist",
+   "q_en": "Which of the following is a type of User Interface:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Design Interface",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "System Interface",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Command Line",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Chart Interface",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

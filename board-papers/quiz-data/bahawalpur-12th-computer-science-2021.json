@@ -1,0 +1,430 @@
+{
+ "board": "BISE Bahawalpur",
+ "board_slug": "bahawalpur",
+ "class": "12th",
+ "subject": "Computer Science",
+ "year": 2021,
+ "slug": "bahawalpur-12th-computer-science-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group Ist",
+   "q_en": "A Collection of Related Fields is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Characters",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Records",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Database",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "File",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group Ist",
+   "q_en": "A Primary Key consists of more than one attribute, is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Foreign Key",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Composite Key",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Multivalued Key",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Global Key",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group Ist",
+   "q_en": "In an ER Diagram, a Rectangle represents:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Entity",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Attribute",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Relationship",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Fields",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group Ist",
+   "q_en": "Which form of Dependency is removed in 2nd Normal Form:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Functional",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Transitive",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Associative",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Partial",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group Ist",
+   "q_en": "Which object is used to store Data in Database:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Table",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Macro",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Form",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Report",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group Ist",
+   "q_en": "How many table view are available in Microsoft Access:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group Ist",
+   "q_en": "The Statement written by the programmer is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Source Code",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Object Code",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Syntax",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Keyword",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group Ist",
+   "q_en": "A program's syntax errors are detected by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Compiler",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Debugger",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Loader",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Linker",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group Ist",
+   "q_en": "The Modulus Operator is used for:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Exponent",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Multiply",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Division",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Remainder",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group Ist",
+   "q_en": "Another name for Keyword is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Reserved Word",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Special Word",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Comments",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Identifier",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group Ist",
+   "q_en": "Format Specifiers starts with symbol:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "?",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "%",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "&",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "*",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group Ist",
+   "q_en": "The number of Columns used to display a value on the screen is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Format Specifier",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Field Width Specifier",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Field Format",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Space Width",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group Ist",
+   "q_en": "Another name for Conditional Operator is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ternary Operator",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Binary Operator",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Byte",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Iteration",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group Ist",
+   "q_en": "One Execution of Loop is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Series",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Duration",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Iteration",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Life Cycle",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group Ist",
+   "q_en": "Global Variables are created in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "RAM",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ROM",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Hard Disk",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cache",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,570 @@
+{
+ "board": "BISE Bahawalpur",
+ "board_slug": "bahawalpur",
+ "class": "11th",
+ "subject": "Mathematics",
+ "year": 2021,
+ "slug": "bahawalpur-11th-mathematics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group Ist",
+   "q_en": "If Cos x = -√3/2, then its Reference Angle is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π/3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-π/6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group Ist",
+   "q_en": "Cos(Sec⁻¹(1)) =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "30°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group Ist",
+   "q_en": "√(s(s-a)/bc) =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sin α/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Sin β/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cos β/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cos α/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group Ist",
+   "q_en": "If ABC be any Triangle and γ = 90°, then:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a² + b² = c²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a² + c² = b²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "b² + c² = a²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a² + b² + c² = 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group Ist",
+   "q_en": "Period of Sin x/5 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2π",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10π",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5π",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group Ist",
+   "q_en": "2 Sin12° Sin46° =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cos34° Cos58°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Sin34° + Sin58°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Sin34° - Sin58°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cos34° - Cos58°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group Ist",
+   "q_en": "3π/2 Radians equals to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "120°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "150°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "270°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "190°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group Ist",
+   "q_en": "The Vertex of an angle in standard form is at:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(0,0)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(1,0)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(0,1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(1,1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group Ist",
+   "q_en": "In the Expansion of (a+b)⁷, the 2nd term is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a⁷",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "7a⁶b",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7ab⁶",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "7b⁶",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group Ist",
+   "q_en": "ⁿPₙ = ------:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "n!",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(n+1)!",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(n-1)!",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group Ist",
+   "q_en": "Harmonic Mean between x and y is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2(x+y)/xy",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2xy/(x+y)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(x+y)/2xy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(x+y)/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group Ist",
+   "q_en": "The nth term of the sequence 1/3, 2/5, 3/7, 4/9 ------- is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "n/(2n-1)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "n/(2n+1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "n/(3n-1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "n/(3n+1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group Ist",
+   "q_en": "The next two terms of the sequence 1,3,7,15,31 ------- are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "112,288",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "122,144",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "102,188",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "63,127",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group Ist",
+   "q_en": "Partial Fractions of 1/x(x+1) are = ---------:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/(x-1) + 1/(x+1)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/(x-1) - 1/(x+1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/x + 1/(x+1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/x - 1/(x+1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group Ist",
+   "q_en": "If α,β are the roots of the equation x²-4x+5=0, then αβ is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group Ist",
+   "q_en": "(a+b)x = ax + bx is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Identity",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Equation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Conditional",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Fraction",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group Ist",
+   "q_en": "If A = [[1,-2,3],[-2,3,1],[4,-3,2]], then A₃₃ equals:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-7",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group Ist",
+   "q_en": "[[K,0],[0,K]] is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero Matrix",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Non-Diagonal Matrix",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Identity Matrix",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Scalar Matrix",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group Ist",
+   "q_en": "If A ⊆ B and B ⊆ A, then:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A = ∅",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A = B",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "B = ∅",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A ∩ B = ∅",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group Ist",
+   "q_en": "The Multiplicative Inverse of Complex Number (0,1) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(0,-1)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(0,1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(-1,0)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(0,0)",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

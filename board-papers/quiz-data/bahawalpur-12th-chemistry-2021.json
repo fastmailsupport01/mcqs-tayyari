@@ -1,0 +1,962 @@
+{
+ "board": "BISE Bahawalpur",
+ "board_slug": "bahawalpur",
+ "class": "12th",
+ "subject": "Chemistry",
+ "year": 2021,
+ "slug": "bahawalpur-12th-chemistry-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group Ist",
+   "q_en": "Mark the correct statement: (A) All Lanthanides are present in the same group. (B) All Halogens are present in the same period. (C) All the Alkali Metals are present in the same group. (D) All the Noble Gases are present in the same period.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "All Lanthanides are present in the same group.",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "All Halogens are present in the same period.",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "All the Alkali Metals are present in the same group.",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All the Noble Gases are present in the same period.",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group Ist",
+   "q_en": "Laughing Gas is chemically:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "NO",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "N2O",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NO2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "N2O4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group Ist",
+   "q_en": "Which Element forms an Ion with charge +3:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Beryllium",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Aluminium",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Carbon",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Silicon",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group Ist",
+   "q_en": "Which of the following Sulphate is not soluble in water:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sodium Sulphate",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Potassium Sulphate",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Zinc Sulphate",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Barium Sulphate",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group Ist",
+   "q_en": "Chlorine Heptaoxide (Cl2O7) reacts with water to form:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hypochlorous Acid",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Chloric Acid",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Perchloric Acid",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Chlorine and Oxygen",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group Ist",
+   "q_en": "The State of Hybridization of Carbon Atom in Methane is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "sp3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "sp2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "sp",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "dsp2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group Ist",
+   "q_en": "Which of the given is a typical transition metal:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sc",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Y",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ra",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Co",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group Ist",
+   "q_en": "Which one is Chlorous Acid:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "HClO",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "HClO2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "HClO3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "HClO4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group Ist",
+   "q_en": "Vinyl acetylene combines with HCl to form:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Polyacetylene",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Benzene",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Chloroprene",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Divinyl Acetylene",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group Ist",
+   "q_en": "Which Compound is called Universal Solvent:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "H2O",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CH3OH",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "C2H5OH",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CH3-O-CH3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group Ist",
+   "q_en": "For which Mechanisms, the first step involved is the same:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "E1 and E2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "E2 and SN2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "SN1 and E2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "E1 and SN1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group Ist",
+   "q_en": "Amongst the following, the compound that can be most readily Sulphonated is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Toluene",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Benzene",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Nitrobenzene",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Chlorobenzene",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group Ist",
+   "q_en": "Acetone reacts with HCN to form a Cyanohydrin. It is an example of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electrophilic Addition",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Electrophilic Substitution",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Nucleophilic Addition",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nucleophilic Substitution",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group Ist",
+   "q_en": "The flavour of Octylacetate is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Orange",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Apricot",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Banana",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Jasmine",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group Ist",
+   "q_en": "Micro Nutrients are required in quantity ranging from:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4-40 g",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6-200 g",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6-200 Kg",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4-40 Kg",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group Ist",
+   "q_en": "Aldol Condensation is given by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Acetaldehyde",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Formaldehyde",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Benzaldehyde",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Trimethyl Acetaldehyde",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group Ist",
+   "q_en": "The solution of which Acid is used for seasoning of food:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Formic Acid",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Acetic Acid",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Benzoic Acid",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Butanoic Acid",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group 2nd",
+   "q_en": "Which statement is incorrect: (A) All the metals are good conductor of electricity. (B) All the metals are good conductor of heat. (C) All the metals form positive ions. (D) All the metals form Acidic Oxides.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "All the metals are good conductor of electricity.",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "All the metals are good conductor of heat.",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "All the metals form positive ions.",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All the metals form Acidic Oxides.",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group 2nd",
+   "q_en": "Chile Saltpetre has the chemical formula:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "NaNO3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "KNO3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Na2B4O7",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Na2CO3H2O",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group 2nd",
+   "q_en": "Tincal is mineral of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Al",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "B",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Si",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group 2nd",
+   "q_en": "Laughing Gas is chemically:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "NO",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "N2O",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NO2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "N2O4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group 2nd",
+   "q_en": "Bleaching Powder may be produced by passing Chlorine over:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Calcium Carbonate",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Hydrated Calcium Sulphate",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Anhydrous Calcium Sulphate",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Calcium Hydroxide",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group 2nd",
+   "q_en": "The Bond Angle in OF2 molecule is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "105°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "106°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "107°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "108°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group 2nd",
+   "q_en": "The strength of binding energy of transition elements depends upon:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Number of Electron Pairs",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Number of Unpaired Electrons",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Number of Neutrons",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Number of Protons",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group 2nd",
+   "q_en": "A Double Bond consists of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Two Sigma Bonds",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "One Sigma and One Pi Bond",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "One Sigma and Two Pi Bonds",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Two Pi Bonds",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group 2nd",
+   "q_en": "Vinyl Acetylene combines with HCl to form:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Polyacetylene",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Benzene",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Chloroprene",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Divinyl Acetylene",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group 2nd",
+   "q_en": "Amongst the following, the compound that can be most readily Sulphonated is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Toluene",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Benzene",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Nitrobenzene",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Chlorobenzene",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group 2nd",
+   "q_en": "For which Mechanisms, the first step involved is the same:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "E1 and E2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "E2 and SN2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "SN1 and E2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "E1 and SN1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group 2nd",
+   "q_en": "Which Compound is called Universal Solvent:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "H2O",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CH3OH",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "C2H5OH",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CH3-O-CH3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group 2nd",
+   "q_en": "Cannizzaro's Reaction is not given by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Formaldehyde",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Acetaldehyde",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Benzaldehyde",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Trimethyl Acetaldehyde",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group 2nd",
+   "q_en": "Which of the following reagents will react with both Aldehydes and Ketones:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Grignard Reagents",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Tollen's Reagents",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Fehling's Reagents",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Benedict's Reagents",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group 2nd",
+   "q_en": "The solution of which Acid is used for seasoning of food:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Formic Acid",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Acetic Acid",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Benzoic Acid",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Butanoic Acid",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group 2nd",
+   "q_en": "Which one of these is the formula of Palmitic Acid:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "C15H31COOH",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "C16H31COOH",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "C17H35COOH",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "C18H37COOH",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group 2nd",
+   "q_en": "Which is not a Calcarious Material:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Lime",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Clay",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Marble",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Marine Shell",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

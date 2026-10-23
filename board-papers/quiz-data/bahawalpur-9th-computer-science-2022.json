@@ -1,0 +1,570 @@
+{
+ "board": "BISE Bahawalpur",
+ "board_slug": "bahawalpur",
+ "class": "9th",
+ "subject": "Computer Science",
+ "year": 2022,
+ "slug": "bahawalpur-9th-computer-science-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group Ist",
+   "q_en": "The process of solving difficult and complex problems is called:",
+   "q_ur": "مشکل اور پیچیدہ مسائل کو حل کرنے کا عمل کہلاتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Problem Solving",
+     "ur": "مسائل حل کرنا"
+    },
+    {
+     "k": "B",
+     "en": "Defining a Problem",
+     "ur": "مسئلے کا تجزیہ"
+    },
+    {
+     "k": "C",
+     "en": "Use Guesses",
+     "ur": "مسئلے کا پتہ لگانا"
+    },
+    {
+     "k": "D",
+     "en": "Act it Out",
+     "ur": "ایکشن اٹ آؤٹ"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group Ist",
+   "q_en": "Secondary Memory stores data -----:",
+   "q_ur": "سیکنڈری میموری ڈیٹا کو ----- محفوظ کرتی ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Important",
+     "ur": "خاص"
+    },
+    {
+     "k": "B",
+     "en": "Expensive",
+     "ur": "قیمتی"
+    },
+    {
+     "k": "C",
+     "en": "Temporarily",
+     "ur": "عارضی"
+    },
+    {
+     "k": "D",
+     "en": "Permanently",
+     "ur": "مستقل"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group Ist",
+   "q_en": "1024 Bytes is equal to ---------:",
+   "q_ur": "1024 بائٹس ----- کے برابر ہوتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 Kilo Byte",
+     "ur": "ایک کلو بائٹ"
+    },
+    {
+     "k": "B",
+     "en": "1 Mega Byte",
+     "ur": "ایک میگا بائٹ"
+    },
+    {
+     "k": "C",
+     "en": "1 Tera Byte",
+     "ur": "ایک ٹیرا بائٹ"
+    },
+    {
+     "k": "D",
+     "en": "1 Giga Byte",
+     "ur": "ایک گیگا بائٹ"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group Ist",
+   "q_en": "--------- helps to save time:",
+   "q_ur": "----- وقت کی بچت میں مددگار ثابت ہوتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Prototype",
+     "ur": "نمونہ"
+    },
+    {
+     "k": "B",
+     "en": "Analysis",
+     "ur": "تجزیہ"
+    },
+    {
+     "k": "C",
+     "en": "Candid Solution",
+     "ur": "کینڈڈ سلوشن"
+    },
+    {
+     "k": "D",
+     "en": "Start",
+     "ur": "سٹارٹ"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group Ist",
+   "q_en": "A.(B + C) = (A.B) + (A.C) represents to ---------:",
+   "q_ur": "A.(B + C) = (A.B) + (A.C) ----- کا اظہار ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Distributive Law",
+     "ur": "قانون تقسیمی"
+    },
+    {
+     "k": "B",
+     "en": "Associative Law",
+     "ur": "قانون تلازم"
+    },
+    {
+     "k": "C",
+     "en": "Commutative Law",
+     "ur": "قانون مبادلہ"
+    },
+    {
+     "k": "D",
+     "en": "Coductive Law",
+     "ur": "کنڈکٹو قانون"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group Ist",
+   "q_en": "Good password should contain at least ----- characters long:",
+   "q_ur": "اچھے پاسورڈ کی لمبائی کم از کم ----- حروف پر مشتمل ہو :",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "12",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "16",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group Ist",
+   "q_en": "In HTML ----- tag is used to underline the word \"COUNTRY\":",
+   "q_ur": "لفظ \"COUNTRY\" کو انڈر لائن کرنے کیلئے ----- ٹیگ استعمال کیا جاتا ہے HTML میں :",
+   "options": [
+    {
+     "k": "A",
+     "en": "< u >",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "< ul >",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "< ui >",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "< uli >",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group Ist",
+   "q_en": "The IPV4 Address is made up of ----- Binary Bits:",
+   "q_ur": "IPV4 ایڈریس ----- بائنری بٹس سے بنتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "29",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "30",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "31",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "32",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group Ist",
+   "q_en": "Which of the following Protocol is used while sending and receiving email:",
+   "q_ur": "ای۔ میل بھیجتے اور وصول کرتے وقت کونسا پروٹوکول استعمال ہوتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "FTP",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "HTTP",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "STP",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "SMTP",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group Ist",
+   "q_en": "Which of the following includes in the types of Software Piracy:",
+   "q_ur": "درج ذیل میں سے کیا سافٹ وئیر پائریسی کی اقسام میں شامل ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Soft Lifting",
+     "ur": "سافٹ لفٹنگ"
+    },
+    {
+     "k": "B",
+     "en": "Liability",
+     "ur": "ذمہ داری"
+    },
+    {
+     "k": "C",
+     "en": "Client Server Over use",
+     "ur": "کلائنٹ سرور اوور یوز"
+    },
+    {
+     "k": "D",
+     "en": "Online Piracy",
+     "ur": "آن لائن پائیریسی"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group 2nd",
+   "q_en": "Number of Digits in Decimal Number System is:",
+   "q_ur": "اعشاری عددی نظام میں ہندسوں کی تعداد ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "16",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group 2nd",
+   "q_en": "The ◇ symbol in a Flowchart represents:",
+   "q_ur": "◇ علامت فلوچارٹ میں استعمال ہوتی ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Input",
+     "ur": "ان پٹ"
+    },
+    {
+     "k": "B",
+     "en": "Output",
+     "ur": "آؤٹ پٹ"
+    },
+    {
+     "k": "C",
+     "en": "Decision Making",
+     "ur": "فیصلہ سازی"
+    },
+    {
+     "k": "D",
+     "en": "Opening",
+     "ur": "آغاز"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group 2nd",
+   "q_en": "Flowchart is a --------- representation of the steps to be followed to solve a problem:",
+   "q_ur": "فلوچارٹ مسئلہ کو حل کرنے کے مراحل کا ----- اظہار ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Graphical",
+     "ur": "تصویری"
+    },
+    {
+     "k": "B",
+     "en": "Historical",
+     "ur": "تاریخی"
+    },
+    {
+     "k": "C",
+     "en": "Text",
+     "ur": "ٹیکسٹ"
+    },
+    {
+     "k": "D",
+     "en": "Numerical",
+     "ur": "عددی"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group 2nd",
+   "q_en": "Convert the Binary Number (1110000)2 into Decimal:",
+   "q_ur": "ثنائی عدد (1110000)2 کو اعشاری نظام میں تبدیل کیجیے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "(222)10",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(108)10",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(112)10",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(112)16",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group 2nd",
+   "q_en": "Installing more copies of the Software than you have licence for is called:",
+   "q_ur": "حاصل کردہ لائسنس کے مقابلے میں سافٹ وئیر کی مزید کاپیاں انسٹال کرنا کہلاتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Client Server Over Use",
+     "ur": "کلائنٹ سرور اوور یوز"
+    },
+    {
+     "k": "B",
+     "en": "Hard Disk Loading",
+     "ur": "ہارڈ ڈسک لوڈنگ"
+    },
+    {
+     "k": "C",
+     "en": "Counterfeiting",
+     "ur": "جعل سازی"
+    },
+    {
+     "k": "D",
+     "en": "Online Piracy",
+     "ur": "آن لائن پائیریسی"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group 2nd",
+   "q_en": "< P > is a --------- tag:",
+   "q_ur": "< P > ایک ----- ٹیگ ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Opening",
+     "ur": "اوپننگ"
+    },
+    {
+     "k": "B",
+     "en": "Closing",
+     "ur": "کلوزنگ"
+    },
+    {
+     "k": "C",
+     "en": "Singular",
+     "ur": "سنگلر"
+    },
+    {
+     "k": "D",
+     "en": "Ending",
+     "ur": "اینڈنگ"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group 2nd",
+   "q_en": "A ----- is used to check whether a preposition is true or not:",
+   "q_ur": "پریپوزیشن کے درست یا غلط ہونے کو جانچنے کے لئے ----- استعمال ہوتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Gate Table",
+     "ur": "گیٹ ٹیبل"
+    },
+    {
+     "k": "B",
+     "en": "Logic Table",
+     "ur": "لاجک ٹیبل"
+    },
+    {
+     "k": "C",
+     "en": "Gate Log",
+     "ur": "گیٹ لاگ"
+    },
+    {
+     "k": "D",
+     "en": "Truth Table",
+     "ur": "ٹرتھ ٹیبل"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group 2nd",
+   "q_en": "A Password contains at least ----- characters long:",
+   "q_ur": "ایک پاسورڈ کم سے کم ----- حروف پر مشتمل ہوتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "9",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group 2nd",
+   "q_en": "Which of the following Protocol is used while Browsing Internet:",
+   "q_ur": "انٹرنیٹ براؤزنگ کرتے وقت کونسا پروٹوکول استعمال ہوتا ہے :",
+   "options": [
+    {
+     "k": "A",
+     "en": "FTP",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "HTTP",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "SMTP",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "STP",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group 2nd",
+   "q_en": "By Clicking on Special Text called ----- which bring you to the next page:",
+   "q_ur": "ہم ایک خاص ٹیکسٹ جو کہ ----- کہلاتا ہے پر کلک کر کے دوسرے پیج پر جا سکتے ہیں :",
+   "options": [
+    {
+     "k": "A",
+     "en": "Anchor",
+     "ur": "اینکر"
+    },
+    {
+     "k": "B",
+     "en": "Tag",
+     "ur": "ٹیگ"
+    },
+    {
+     "k": "C",
+     "en": "Hyperlink",
+     "ur": "ہائپر لنک"
+    },
+    {
+     "k": "D",
+     "en": "Hypertext",
+     "ur": "ہائپر ٹیکسٹ"
+    }
+   ]
+  }
+ ]
+}
