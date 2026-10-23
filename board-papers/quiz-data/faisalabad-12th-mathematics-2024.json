@@ -1,0 +1,1130 @@
+{
+ "board": "BISE Faisalabad",
+ "board_slug": "faisalabad",
+ "class": "12th",
+ "subject": "Mathematics",
+ "year": 2024,
+ "slug": "faisalabad-12th-mathematics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Two non-parallel lines intersect each other at:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 point",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0 point",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "∞ point",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2 points",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Equation of a straight line passing through P(c , d) and parallel to x-axis is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "y = 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x = d",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "y = d",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Normal form of equation of straight line is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "y = mx + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x sin(90° - α) + y cos(90° - α) = p",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x/a + y/b = 1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x = y/2 - 5/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "ax + b > 0 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "An identity",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A linear equation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Equation",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Inequality",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "For hyperbola b² = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "c2 - a2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a2 - c2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "c2 + a2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ac - 1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Parametric equations of a circle are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x = a cosθ , y = b sinθ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x = a sinθ , y = b cosθ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x = a cosθ , y = a sinθ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x = b cosθ , y = a sinθ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The equation ax² + by² + 2gx + 2fy + c = 0 will represent circle if:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a < b",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a = b",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a > b",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a ≠ b",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "If terminal point B of vector AB coincides with its initial point A, then such a vector is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Null vector",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Unit vector",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Coincident vector",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Free vector",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "If α, β, γ are direction angles of a vector, then:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0 < α < π/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0 ≤ α ≤ π/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0 < α < π",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0 ≤ α ≤ π",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "If ū = aī + bj̄ + ck̄, then projection of ū along k̄ is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "b",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ū · k̄",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The equations of the form x = a cosθ , y = a sinθ are called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Implicit equations",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Explicit equations",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Parametric equations",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Homogeneous equations",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Domain of f(x) = 2 + √(x - 1) ∀x ∈ ℝ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[-1 , +∞)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[0 , +∞)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[1 , +∞)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[2 , +∞)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "If f(x) = c³, where c is any constant, then f'(x) = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3c2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "c2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3/c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "If y = x⁴ + 2x² + 3, then dy/dx = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4x√(y - 1)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4x√(y - 2)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4x√(y - 3)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4x√(y - 4)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "At a point of maximum value of a function, its derivative is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Positive",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Negative",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Infinite",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "If y = sin 3x , then y₂ = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3cos 3x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-9 sin 3x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-27 cos 3x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "81 sin 3x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "∫₀^√3 dx/(1 + x²) = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π/6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group I",
+   "q_en": "∫ (sin x + cos x)/√(1 + sin 2x) dx = ? is :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "sin x + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "cos x + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "cos²x + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group I",
+   "q_en": "∫ tan²x dx = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "tan x + x + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2 tan x sec2 x + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "sec x - x + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "tan x - x + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group I",
+   "q_en": "∫ ln x dx = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "xlnx + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "xlnx - x + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x/lnx + x + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "lnx + x + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "The suitable substitution for √(x² - a²) to be integrated:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x = a sinθ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x = a secθ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x = a tanθ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x = a cosθ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "∫ (ax + b)ⁿ dx = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(ax + b)^{n+1}/[a(n + 1)] + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(ax + b)^{n+1}/[b(n + 1)] + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(ax + b)^{n+1}/[a(n - 1)] + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a(ax + b)^{n+1}/(n + 1) + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "∫ √(1 - cos 2x) dx = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-√2 cos x + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "√2 sin x + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√2 cos x + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-√2 sin x + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "∫ e^x (1/x + lnx) dx = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(1/x) ex + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ex(lnx) + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "e^x/lnx + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "lnx/e^x + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "d/dx (yⁿ) = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ny^{n-1}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ny^{n+1}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ny^{n-1} dy/dx",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ny^{n-1} dx/dy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "d/dx (3^x) = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3x ln3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x3^{x-1}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3^{x+1}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "If f(x) = 1/(x - 1) , then f'(2) = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "f(x) = -3x² has maximum value at:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x = -2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x = -1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x = 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x = 1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "The function f(x) = (x + 2)² is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Even",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Odd",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Both A and B",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Neither even nor odd",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Lim x→0 (1 + 3x)^{2/x} = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "e2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "e8",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "e6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "e4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "(ī × k̄) × ī = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-j̄",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ī",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "| cosα ī + sinα j̄ + 0k̄ | = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "If ā + b̄ + c̄ = 0 then:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ā × b̄ × c̄ = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ā × b̄ = b̄ × c̄ = c̄ × ā",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ā · b̄ = b̄ · c̄ = c̄ · ā",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ā = b̄ = c̄",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "Focus of the parabola x² = -16y is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(0 , 4)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(0 , -4)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(4 , 0)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(-4 , 0)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "A circle is called a point circle if:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "r = 1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "r = 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "r = 2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "r = 3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "Eccentricity of ellipse is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "e = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "e > 1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0 < e < 1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "e = 1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "The point (-1 , 2) satisfies the inequality:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x - y > 4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x - y ≥ 4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x + y < 4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x + y > 5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group II",
+   "q_en": "Equation of horizontal line through (7 , -9) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "y = -9",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "y = 7",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x = -9",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x = 7",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group II",
+   "q_en": "If m₁ and m₂ are the slopes of two lines then lines are perpendicular if:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "m₁m₂ = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "m₁m₂ + 1 = 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "m₁m₂ + 2 = 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "m₁ = m₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group II",
+   "q_en": "Distance of point (1 , -2) from y-axis is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

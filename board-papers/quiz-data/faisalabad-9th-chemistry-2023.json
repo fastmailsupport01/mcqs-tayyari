@@ -1,0 +1,346 @@
+{
+ "board": "BISE Faisalabad",
+ "board_slug": "faisalabad",
+ "class": "9th",
+ "subject": "Chemistry",
+ "year": 2023,
+ "slug": "faisalabad-9th-chemistry-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The type of bond is present in HF molecule:",
+   "q_ur": "HF کے مالیکیول میں یہ بانڈ پایا جاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ionic bond",
+     "ur": "آئینک بانڈ"
+    },
+    {
+     "k": "B",
+     "en": "Non-polar bond",
+     "ur": "نان پولر بانڈ"
+    },
+    {
+     "k": "C",
+     "en": "Coordinate covalent bond",
+     "ur": "کوآرڈینیٹ کوویلنٹ بانڈ"
+    },
+    {
+     "k": "D",
+     "en": "Polar covalent bond",
+     "ur": "پولر کوویلنٹ بانڈ"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Covalent bond is formed due to:",
+   "q_ur": "کوویلنٹ بانڈ بنتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Donation of electrons",
+     "ur": "الیکٹران کا عطیہ"
+    },
+    {
+     "k": "B",
+     "en": "Acceptance of electrons",
+     "ur": "الیکٹران کی قبولیت"
+    },
+    {
+     "k": "C",
+     "en": "Sharing of electrons",
+     "ur": "الیکٹران کی شراکت"
+    },
+    {
+     "k": "D",
+     "en": "Repulsion of electrons",
+     "ur": "الیکٹران کی دفعہ"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "d-block elements are called:",
+   "q_ur": "d-بلاک ایلیمنٹس کہلاتے ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Alkali metals",
+     "ur": "الکلی میٹلز"
+    },
+    {
+     "k": "B",
+     "en": "Halogens",
+     "ur": "ہیلوجنز"
+    },
+    {
+     "k": "C",
+     "en": "Transition metals",
+     "ur": "ٹرانزیشن میٹلز"
+    },
+    {
+     "k": "D",
+     "en": "Alkaline earth metals",
+     "ur": "الکلائن ارتھ میٹلز"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The concept of orbit was used by:",
+   "q_ur": "آربٹ کا خیال کس نے متعارف کرایا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Rutherford",
+     "ur": "ردرفرڈ"
+    },
+    {
+     "k": "B",
+     "en": "Plank",
+     "ur": "پلانک"
+    },
+    {
+     "k": "C",
+     "en": "Bohr",
+     "ur": "بوہر"
+    },
+    {
+     "k": "D",
+     "en": "J.J. Thomson",
+     "ur": "جے جے تھامسن"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Formula of common salt is:",
+   "q_ur": "عام کھانے کے نمک کا فارمولا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "NaCl",
+     "ur": "NaCl"
+    },
+    {
+     "k": "B",
+     "en": "CaCl₂",
+     "ur": "CaCl₂"
+    },
+    {
+     "k": "C",
+     "en": "SiO₂",
+     "ur": "SiO₂"
+    },
+    {
+     "k": "D",
+     "en": "CaO",
+     "ur": "CaO"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The study of manufacturing of chemical compounds on commercial base is:",
+   "q_ur": "تجارتی پیمانے پر کیمیکلز کے بنانے کے مطالعے کو کہتے ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Physical Chemistry",
+     "ur": "فزیکل کیمسٹری"
+    },
+    {
+     "k": "B",
+     "en": "Industrial Chemistry",
+     "ur": "انڈسٹریل کیمسٹری"
+    },
+    {
+     "k": "C",
+     "en": "Inorganic Chemistry",
+     "ur": "ان آرگینک کیمسٹری"
+    },
+    {
+     "k": "D",
+     "en": "Biochemistry",
+     "ur": "بائیو کیمسٹری"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Non-metal which is lustrous:",
+   "q_ur": "نان میٹل جو چمکدار ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sulphur",
+     "ur": "سلفر"
+    },
+    {
+     "k": "B",
+     "en": "Iodine",
+     "ur": "آئیوڈین"
+    },
+    {
+     "k": "C",
+     "en": "Phosphorous",
+     "ur": "فاسفورس"
+    },
+    {
+     "k": "D",
+     "en": "Carbon",
+     "ur": "کاربن"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "A weak electrolyte is:",
+   "q_ur": "کمزور الیکٹرولائٹ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "NaOH",
+     "ur": "NaOH"
+    },
+    {
+     "k": "B",
+     "en": "NaCl",
+     "ur": "NaCl"
+    },
+    {
+     "k": "C",
+     "en": "Ca(OH)₂",
+     "ur": "Ca(OH)₂"
+    },
+    {
+     "k": "D",
+     "en": "H₂SO₄",
+     "ur": "H₂SO₄"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The most common example of corrosion is:",
+   "q_ur": "زنگ کی عام مثال ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Chemical decay",
+     "ur": "کیمیائی تحلیل"
+    },
+    {
+     "k": "B",
+     "en": "Rusting of iron",
+     "ur": "آئرن کا زنگ لگنا"
+    },
+    {
+     "k": "C",
+     "en": "Rusting of aluminum",
+     "ur": "ایلومینیم کا زنگ لگنا"
+    },
+    {
+     "k": "D",
+     "en": "Rusting of tin",
+     "ur": "ٹن کا زنگ لگنا"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Which is called a universal solvent?",
+   "q_ur": "یونیورسل سالونٹ کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ether",
+     "ur": "ایتھر"
+    },
+    {
+     "k": "B",
+     "en": "Water",
+     "ur": "پانی"
+    },
+    {
+     "k": "C",
+     "en": "Sodium carbonate",
+     "ur": "سوڈیم کاربونیٹ"
+    },
+    {
+     "k": "D",
+     "en": "Sulphur",
+     "ur": "سلفر"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Which is insoluble in water?",
+   "q_ur": "کونسی چیز پانی میں حل نہیں ہوتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Alcohol",
+     "ur": "الکحل"
+    },
+    {
+     "k": "B",
+     "en": "Sugar",
+     "ur": "شکر"
+    },
+    {
+     "k": "C",
+     "en": "Sodium carbonate",
+     "ur": "سوڈیم کاربونیٹ"
+    },
+    {
+     "k": "D",
+     "en": "Petrol",
+     "ur": "پیٹرول"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Transition temperature of tin (Sn) is:",
+   "q_ur": "ٹن (Sn) کا ٹرانزیشن ٹمپریچر ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "12.2°C",
+     "ur": "12.2°C"
+    },
+    {
+     "k": "B",
+     "en": "13.2°C",
+     "ur": "13.2°C"
+    },
+    {
+     "k": "C",
+     "en": "14.2°C",
+     "ur": "14.2°C"
+    },
+    {
+     "k": "D",
+     "en": "15.2°C",
+     "ur": "15.2°C"
+    }
+   ]
+  }
+ ]
+}

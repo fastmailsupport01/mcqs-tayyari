@@ -1,0 +1,290 @@
+{
+ "board": "BISE Faisalabad",
+ "board_slug": "faisalabad",
+ "class": "9th",
+ "subject": "Computer Science",
+ "year": 2023,
+ "slug": "faisalabad-9th-computer-science-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Routers connect multiple ______ together.",
+   "q_ur": "روٹرز بہت سارے ______ کو آپس میں ملاتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Networks",
+     "ur": "نیٹ ورکس"
+    },
+    {
+     "k": "B",
+     "en": "Channels",
+     "ur": "چینلز"
+    },
+    {
+     "k": "C",
+     "en": "Addresses",
+     "ur": "ایڈریسز"
+    },
+    {
+     "k": "D",
+     "en": "Protocols",
+     "ur": "پروٹوکول"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Some companies sell software with a confidential text, it is called:",
+   "q_ur": "کچھ کمپنیاں سافٹ ویئر کو خفیہ متن کے ساتھ فروخت کرتی ہیں اسے ______ کہتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Password",
+     "ur": "پاس ورڈ"
+    },
+    {
+     "k": "B",
+     "en": "Encryption",
+     "ur": "انکرپشن"
+    },
+    {
+     "k": "C",
+     "en": "Software key",
+     "ur": "سافٹ ویئر کی"
+    },
+    {
+     "k": "D",
+     "en": "Description",
+     "ur": "بیانیہ"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "______ means making illegal and unauthorized copies of the software without owner's permission.",
+   "q_ur": "______ کا مطلب ہے مالک کی اجازت کے بغیر سافٹ ویئر کی غیر قانونی نقل تیار کرنا۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Right",
+     "ur": "رائٹ"
+    },
+    {
+     "k": "B",
+     "en": "Browsing",
+     "ur": "براؤزنگ"
+    },
+    {
+     "k": "C",
+     "en": "Piracy",
+     "ur": "پائریسی"
+    },
+    {
+     "k": "D",
+     "en": "Privacy",
+     "ur": "پرائیویسی"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "______ is useful for situations where you have multiple options for single item in a list.",
+   "q_ur": "جب ایک آئٹم کے لیے ایک سے زیادہ آپشنز ہوں تو کون سی لسٹ استعمال ہوگی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nested list",
+     "ur": "نیسٹڈ لسٹ"
+    },
+    {
+     "k": "B",
+     "en": "Ordered list",
+     "ur": "آرڈرڈ لسٹ"
+    },
+    {
+     "k": "C",
+     "en": "Definition list",
+     "ur": "ڈیفینیشن لسٹ"
+    },
+    {
+     "k": "D",
+     "en": "Un-ordered list",
+     "ur": "ان آرڈرڈ لسٹ"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "______ link allows you to go from one part of the webpage to another part.",
+   "q_ur": "______ آپ کو ایک ویب پیج کے ایک حصے سے دوسرے حصے تک لے جاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Anchor",
+     "ur": "اینکر"
+    },
+    {
+     "k": "B",
+     "en": "Tag",
+     "ur": "ٹیگ"
+    },
+    {
+     "k": "C",
+     "en": "Hyperlink",
+     "ur": "ہائپر لنک"
+    },
+    {
+     "k": "D",
+     "en": "Link",
+     "ur": "لنک"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "How many \"Ws\" are necessary to understand a problem?",
+   "q_ur": "ایک مسئلہ کو سمجھنے کے لیے کتنے \"Ws\" ضروری ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "6",
+     "ur": "6"
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": "2"
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": "3"
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": "5"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Which solution is not reached through proper algorithm planning or work planning?",
+   "q_ur": "کس حل کو مناسب الگورتھم پلاننگ (Planning) سے نہیں لکھا جاتا؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Prepared solution",
+     "ur": "تیار شدہ حل"
+    },
+    {
+     "k": "B",
+     "en": "Candid solution",
+     "ur": "کینڈڈ حل"
+    },
+    {
+     "k": "C",
+     "en": "Strategized solution",
+     "ur": "حکمت عملی پر مبنی حل"
+    },
+    {
+     "k": "D",
+     "en": "Best solution",
+     "ur": "بہترین حل"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Sometimes we assemble more than one proposition to make one proposition, it is called:",
+   "q_ur": "بعض اوقات ہم ایک سے زیادہ پروپوزیشنز کو ایک ساتھ ملاتے ہیں، اسے کہتے ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Boolean propositions",
+     "ur": "بولین پروپوزیشنز"
+    },
+    {
+     "k": "B",
+     "en": "Compound propositions",
+     "ur": "کمپاؤنڈ پروپوزیشنز"
+    },
+    {
+     "k": "C",
+     "en": "Complex propositions",
+     "ur": "کمپلیکس پروپوزیشنز"
+    },
+    {
+     "k": "D",
+     "en": "Truth table",
+     "ur": "ٹرتھ ٹیبل"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "A ______ is the system for representation of numeric data.",
+   "q_ur": "عددی ڈیٹا اصطلاح اور نمائندگی کے لیے ایک سسٹم استعمال کرتا ہے، اسے کہتے ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Number system",
+     "ur": "نمبر سسٹم"
+    },
+    {
+     "k": "B",
+     "en": "Binary system",
+     "ur": "بائنری سسٹم"
+    },
+    {
+     "k": "C",
+     "en": "Decimal system",
+     "ur": "ڈیسیمل سسٹم"
+    },
+    {
+     "k": "D",
+     "en": "Octal number",
+     "ur": "آکٹل نمبر"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "E-mail stands for:",
+   "q_ur": "ای میل ______ کا مخفف ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electrical mail",
+     "ur": "الیکٹریکل میل"
+    },
+    {
+     "k": "B",
+     "en": "Electronic mail",
+     "ur": "الیکٹرانک میل"
+    },
+    {
+     "k": "C",
+     "en": "Electronic medium",
+     "ur": "الیکٹرانک میڈیم"
+    },
+    {
+     "k": "D",
+     "en": "Electronic message",
+     "ur": "الیکٹرانک میسج"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,346 @@
+{
+ "board": "BISE Faisalabad",
+ "board_slug": "faisalabad",
+ "class": "9th",
+ "subject": "Physics",
+ "year": 2023,
+ "slug": "faisalabad-9th-physics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "False ceiling is done to:",
+   "q_ur": "مصنوعی اندرونی چھت لگانے کا مقصد ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Lower the height of ceiling",
+     "ur": "چھت کی اونچائی کم کرنا"
+    },
+    {
+     "k": "B",
+     "en": "Keep the roof clean",
+     "ur": "چھت کو صاف رکھنا"
+    },
+    {
+     "k": "C",
+     "en": "Cool the room",
+     "ur": "کمرے کو ٹھنڈا کرنا"
+    },
+    {
+     "k": "D",
+     "en": "Insulate the ceiling",
+     "ur": "چھت کو انسولیٹ کرنا"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Which affects evaporation?",
+   "q_ur": "کونسا جزو بخیر و تسخیر کو متاثر کرتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Temperature",
+     "ur": "درجہ حرارت"
+    },
+    {
+     "k": "B",
+     "en": "Surface area of the liquid",
+     "ur": "مائع کی سطح کا رقبہ"
+    },
+    {
+     "k": "C",
+     "en": "Air",
+     "ur": "ہوا"
+    },
+    {
+     "k": "D",
+     "en": "All these",
+     "ur": "یہ تمام"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "A mercury barometer tube length is:",
+   "q_ur": "ایک مرکری بیرومیٹر کی ٹیوب کی لمبائی ہوتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 m",
+     "ur": "1 میٹر"
+    },
+    {
+     "k": "B",
+     "en": "1.5 m",
+     "ur": "1.5 میٹر"
+    },
+    {
+     "k": "C",
+     "en": "1.4 m",
+     "ur": "1.4 میٹر"
+    },
+    {
+     "k": "D",
+     "en": "1.3 m",
+     "ur": "1.3 میٹر"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Density of air is:",
+   "q_ur": "ہوا کی ڈینسٹی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "2kgm⁻³",
+     "ur": "2kgm⁻³"
+    },
+    {
+     "k": "B",
+     "en": "1.3kgm⁻³",
+     "ur": "1.3kgm⁻³"
+    },
+    {
+     "k": "C",
+     "en": "1kgm⁻³",
+     "ur": "1kgm⁻³"
+    },
+    {
+     "k": "D",
+     "en": "3kgm⁻³",
+     "ur": "3kgm⁻³"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "If the velocity of a body becomes double, then its kinetic energy will:",
+   "q_ur": "اگر کسی جسم کی ولاسٹی دوگنا ہو جائے تو اس کی کائنیٹک انرجی:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Remain constant",
+     "ur": "مستقل رہتی ہے"
+    },
+    {
+     "k": "B",
+     "en": "Become double",
+     "ur": "دوگنا ہو جاتی ہے"
+    },
+    {
+     "k": "C",
+     "en": "Become four times",
+     "ur": "چار گنا ہو جاتی ہے"
+    },
+    {
+     "k": "D",
+     "en": "Become half",
+     "ur": "نصف ہو جاتی ہے"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Which one converts light into electrical energy?",
+   "q_ur": "کونسی ڈیوائس لائٹ انرجی کو الیکٹریکل انرجی میں تبدیل کرتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electric bulb",
+     "ur": "الیکٹرک بلب"
+    },
+    {
+     "k": "B",
+     "en": "Electric generator",
+     "ur": "الیکٹرک جنریٹر"
+    },
+    {
+     "k": "C",
+     "en": "Photocell",
+     "ur": "فوٹو سیل"
+    },
+    {
+     "k": "D",
+     "en": "Electric cell",
+     "ur": "الیکٹرک سیل"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Radius of the Earth is:",
+   "q_ur": "زمین کا ریڈیس ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "6.4×10⁶m",
+     "ur": "6.4×10⁶m"
+    },
+    {
+     "k": "B",
+     "en": "6.4×10⁶km",
+     "ur": "6.4×10⁶km"
+    },
+    {
+     "k": "C",
+     "en": "6.4×10⁴m",
+     "ur": "6.4×10⁴m"
+    },
+    {
+     "k": "D",
+     "en": "6×10²⁴m",
+     "ur": "6×10²⁴m"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "tan 45° = ?",
+   "q_ur": "tan 45° برابر ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": "1"
+    },
+    {
+     "k": "B",
+     "en": "0.203",
+     "ur": "0.203"
+    },
+    {
+     "k": "C",
+     "en": "0.503",
+     "ur": "0.503"
+    },
+    {
+     "k": "D",
+     "en": "0.404",
+     "ur": "0.404"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Newton's first law of motion is valid only in the absence of:",
+   "q_ur": "کس کی غیر موجودگی میں نیوٹن کے پہلے قانون کی اطلاق ہوتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Force",
+     "ur": "فورس"
+    },
+    {
+     "k": "B",
+     "en": "Net force",
+     "ur": "نیٹ فورس"
+    },
+    {
+     "k": "C",
+     "en": "Friction",
+     "ur": "فرکشن"
+    },
+    {
+     "k": "D",
+     "en": "Momentum",
+     "ur": "مومنٹم"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Which quantity is an example of scalar quantity?",
+   "q_ur": "کونسی مقدار سکیلر مقدار کی مثال ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Velocity",
+     "ur": "ولاسٹی"
+    },
+    {
+     "k": "B",
+     "en": "Length",
+     "ur": "لمبائی"
+    },
+    {
+     "k": "C",
+     "en": "Force",
+     "ur": "فورس"
+    },
+    {
+     "k": "D",
+     "en": "Torque",
+     "ur": "ٹارک"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Amount of a substance in terms of numbers is measured in:",
+   "q_ur": "کسی شے میں مادے کی مقدار معلوم کرنے کا یونٹ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Gram",
+     "ur": "گرام"
+    },
+    {
+     "k": "B",
+     "en": "Kilogram",
+     "ur": "کلوگرام"
+    },
+    {
+     "k": "C",
+     "en": "Newton",
+     "ur": "نیوٹن"
+    },
+    {
+     "k": "D",
+     "en": "Mole",
+     "ur": "مول"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Kilo = ?",
+   "q_ur": "کلو = ؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "10",
+     "ur": "10"
+    },
+    {
+     "k": "B",
+     "en": "10²",
+     "ur": "10²"
+    },
+    {
+     "k": "C",
+     "en": "10³",
+     "ur": "10³"
+    },
+    {
+     "k": "D",
+     "en": "10⁴",
+     "ur": "10⁴"
+    }
+   ]
+  }
+ ]
+}

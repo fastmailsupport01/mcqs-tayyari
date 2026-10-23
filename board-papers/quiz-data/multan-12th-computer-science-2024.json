@@ -1,0 +1,1354 @@
+{
+ "board": "BISE Multan",
+ "board_slug": "multan",
+ "class": "12th",
+ "subject": "Computer Science",
+ "year": 2024,
+ "slug": "multan-12th-computer-science-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "A collection of related field is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Character",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Record",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Database",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "File",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "CREATE command is used to create:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Record",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "View",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Report",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Query",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Customers, cars are examples of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Entity",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Attribute",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cardinals",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Relationship",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The columns of a table corresponds to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Table",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Record",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Field",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cell",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "In 3NF, a non-key attribute must not depend on a:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Non-key attribute",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Key attribute",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Composite key",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Sort key",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "In a relational database, a single piece of information is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Table",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Record",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Entity",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Attribute",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The extension of header file is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": ".cpp",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": ".txt",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": ".E",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": ".h",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Variable and constant name can not contain a(n):",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Number",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Underscore",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Letter",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Period",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The function that is used to display output on screen is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "printf",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "scanf",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "pow",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "display",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The format specifier %d is used for:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "81",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "'F'",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4.83",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "'9'",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "An other term for a computer making a decision is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sequential",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Iteration",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Selection",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Repetition",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "When x = 40, f = (x < 50) ? 10 : 20;, after executing the statement, the value of x is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "20",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "40",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "100",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "A loop within a loop is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nested loop",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Complex loop",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Infinite loop",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Dual loop",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "A built in function:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Can not be redefine",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Can be redefined",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Can not return a value",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Should be redefined",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "The mode opens only an existing file for both reading and writing is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "\"W\" Output mode",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "\"W+\" Append mode",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "\"R+\" Create mode",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "\"A+\" Read mode",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The diamond in a flow-chart indicates:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Progress",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Input",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Output",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Condition",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Variable and constant name can not contain a(n):",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Number",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Underscore",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Letter",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Period",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "BASIC was introduced in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1960 AD",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1950 AD",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1970 AD",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1980 AD",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Which event detects the processing of standard displayable characters?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Key down",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Key up",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Key press",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Keyboard",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "An other term for a computer making a decision is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sequential",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Iteration",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Selection",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Repetition",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "When a relational expression is false, it has the value:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Less than zero",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "A loop within a loop is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nested loop",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Complex loop",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Infinite loop",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Dual loop",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "A built in function:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Can not be redefine",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Can be redefined",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Can not return a value",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Should be redefined",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "To create a new record, the file must be opened in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Output mode",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Append mode",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Create mode",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Read mode",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "Which database object is used to retrieve data from database?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Queries",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Forms",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Reports",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Tables",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "The data in tables is entered in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Design view",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Normal view",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Datasheet view",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Layout view",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Which is also known as data set?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Module",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "File",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Record",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Field",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "A relation is also known as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Table",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Tuple",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Attribute",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Relationship",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "In an ER diagram, a rectangle represents:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Attribute",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Field",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Flow",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Entity",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Different attributes in two different tables having same name are called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Synonym",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Acronym",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Homonym",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mutually exclusive",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "A function can return ______ value(s).",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Many",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Which function is used to write a string to a file?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "puts",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "printf",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "fputs( )",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "getch",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Void occupy how many bytes in memory?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Four",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Three",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Two",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "For initializing a variable, we use ______ operator.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "→",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "=",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "?",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "@",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "The function getch( ) is defined in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "conio.h",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "stdio.h",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "math.h",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "input.h",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "If int z = 222, then the statement printf(\"%5d\",z) will display:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "□222□",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "222□□",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "□□222",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "\"222\"",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "What will be the value of n after executing the following statement: n=(100 > 200) ? 100 : 200 ;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "100",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "200",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "100200",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "200100",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "Which is valid case statement in a switch?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "case x < 2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "case \"one\"",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "case 1.2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "case 1 :",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "How many types of looping structure are available in C?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "The property that indicates the number of selected item in the list box control is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "selcount",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "count",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "sum",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "index",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "The property that specifies maximum number of characters that can be entered in a text box:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "length",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "max",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "max length",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "multi length",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Forms and controls are collectively recognized as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Properties",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Methods",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Events",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Object",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Methods characterize an object's:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Appearance",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Behaviour",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Value",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Style",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Variable and constant names can not contain:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Periods",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Number",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Underscore",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Letter",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "The integer data type in VB occupies ______ bytes.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "12",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "The loop which never ends is called ______ loop.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "nested",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "infinite",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "inner",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "outer",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "If number of iterations are known in advance, the suitable loop is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Do loop while",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Do loop until",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Do while loop",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "For Next",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "Image control holds a graphic that is assigned to ______ property.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "caption",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "picture",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "text",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "auto size",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

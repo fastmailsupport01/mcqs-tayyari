@@ -1,0 +1,682 @@
+{
+ "board": "BISE Rawalpindi",
+ "board_slug": "lahore",
+ "class": "9th",
+ "subject": "physics",
+ "year": 2023,
+ "slug": "rawalpindi-9th-physics-2023",
+ "questions": [
+  {
+   "n": "1.1",
+   "group": "Group I",
+   "q_en": "A measuring cylinder is used to measure:",
+   "q_ur": "پیمائش سلنڈر سے معلوم کیا جاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mass",
+     "ur": "ماس"
+    },
+    {
+     "k": "B",
+     "en": "Area",
+     "ur": "ایریا"
+    },
+    {
+     "k": "C",
+     "en": "volume",
+     "ur": "والیوم"
+    },
+    {
+     "k": "D",
+     "en": "level of a liquid",
+     "ur": "کسی مائع کا لیول"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Least count of Digital Vernier callipers is:",
+   "q_ur": "ڈیجیٹل ورنیئر کیلیپرز کا لیسٹ کاؤنٹ ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.1 mm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.01 mm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.001 mm [best read]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1 mm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "A change in position is called:",
+   "q_ur": "پوزیشن میں تبدیلی کہلاتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Speed",
+     "ur": "سپیڈ"
+    },
+    {
+     "k": "B",
+     "en": "Velocity",
+     "ur": "ولاسٹی"
+    },
+    {
+     "k": "C",
+     "en": "Displacement",
+     "ur": "ڈسپلیسمنٹ"
+    },
+    {
+     "k": "D",
+     "en": "Distance",
+     "ur": "فاصلہ"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Inertia depends upon:",
+   "q_ur": "انرشیا کا انحصار کس پر ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Force",
+     "ur": "فورس"
+    },
+    {
+     "k": "B",
+     "en": "Net Force",
+     "ur": "نیٹ فورس"
+    },
+    {
+     "k": "C",
+     "en": "Mass",
+     "ur": "ماس"
+    },
+    {
+     "k": "D",
+     "en": "Velocity",
+     "ur": "ولاسٹی"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Two equal but unlike parallel forces having different line of action produce:",
+   "q_ur": "دو مساوی لیکن ناہموار متوازی قوتوں کا لائن آف ایکشن مختلف ہو تو کیا پیدا ہوتی ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Torque",
+     "ur": "ٹارک"
+    },
+    {
+     "k": "B",
+     "en": "A couple",
+     "ur": "کپل"
+    },
+    {
+     "k": "C",
+     "en": "Equilibrium",
+     "ur": "ایکویلیبریم"
+    },
+    {
+     "k": "D",
+     "en": "Neutral equilibrium",
+     "ur": "نیوٹرل ایکویلیبریم"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Earth gravitational force of attraction vanishes at:",
+   "q_ur": "زمین کی کشش ثقل کی قوت ---- فاصلہ پر ختم ہو جاتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "6400 Km",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Infinity",
+     "ur": "لامتناہی"
+    },
+    {
+     "k": "C",
+     "en": "42300 Km",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1000 Km",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Value of g increases with the :",
+   "q_ur": "g کی قیمت بڑھتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Increase in mass of body",
+     "ur": "جسم کا ماس بڑھنے سے"
+    },
+    {
+     "k": "B",
+     "en": "Increase in altitude",
+     "ur": "بلندی بڑھنے سے"
+    },
+    {
+     "k": "C",
+     "en": "decrease in altitude",
+     "ur": "بلندی کم ہونے سے"
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": "ان میں سے کوئی نہیں"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The work done will be zero when the angle between force and distance is:",
+   "q_ur": "ورک ڈن صفر ہو گا جب فورس اور فاصلہ کے درمیان زاویہ ---- ہو:",
+   "options": [
+    {
+     "k": "A",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "180°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Which of the substance is the lightest one?",
+   "q_ur": "کون سے (مادہ) سب سے ہلکی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Copper",
+     "ur": "کاپر"
+    },
+    {
+     "k": "B",
+     "en": "Mercury",
+     "ur": "مرکری"
+    },
+    {
+     "k": "C",
+     "en": "Aluminium",
+     "ur": "ایلومینیم"
+    },
+    {
+     "k": "D",
+     "en": "Lead",
+     "ur": "سیسہ"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Water freezes at:",
+   "q_ur": "پانی کس درجہ پر منجمد ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "0°F",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "32°C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-273 K",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0 K",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "In solids, heat is transferred by:",
+   "q_ur": "ٹھوس اجسام میں انتقال حرارت کا طریقہ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Radiation",
+     "ur": "ریڈی ایشن"
+    },
+    {
+     "k": "B",
+     "en": "Conduction",
+     "ur": "کنڈکشن"
+    },
+    {
+     "k": "C",
+     "en": "Convection",
+     "ur": "کنویکشن"
+    },
+    {
+     "k": "D",
+     "en": "Absorption",
+     "ur": "ابزربشن"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Thermal conductivity of wood is:",
+   "q_ur": "لکڑی کی حرارتی کنڈکٹیویٹی ---- ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.08 w m⁻¹ k⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.59 w m⁻¹ k⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.03 w m⁻¹ k⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.8 w m⁻¹ k⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "1.1",
+   "group": "Group II",
+   "q_en": "The SI unit of force is Newton (N) which is equal to:",
+   "q_ur": "فورس کا SI یونٹ نیوٹن (N) ہے جو برابر ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "Kgm²s⁻²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Kgms⁻²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Kgms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "A measuring cylinder is used to measure :",
+   "q_ur": "پیمائش سلنڈر سے معلوم کیا جاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mass",
+     "ur": "ماس"
+    },
+    {
+     "k": "B",
+     "en": "Area",
+     "ur": "ایریا"
+    },
+    {
+     "k": "C",
+     "en": "Volume",
+     "ur": "والیوم"
+    },
+    {
+     "k": "D",
+     "en": "Weight",
+     "ur": "وزن"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "50 Kmh⁻¹ is equal to:",
+   "q_ur": "50 Kmh⁻¹ برابر ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.388 mS⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "13.88 mS⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1388 mS⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "(Pf-Pi)/t is equal to:",
+   "q_ur": "(Pf-Pi)/t برابر ہے: [best read]",
+   "options": [
+    {
+     "k": "A",
+     "en": "F",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "S",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "V",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "The number of perpendicular components of a force are:",
+   "q_ur": "کسی فورس کے عمودی کمپوننٹس کی تعداد ہوتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Mathematical form of 1st condition of equilibrium is:",
+   "q_ur": "ایکویلیبریم کی پہلی شرط کی حسابی شکل ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "∑F=0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "∑τ=0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "∑P=0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "∑W=0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "The formula to find the orbital speed (V0) of a low orbit satellite is :",
+   "q_ur": "زمین کے قریب ترین چکر لگانے والے سیٹلائٹ کی سپیڈ (V0) کا فارمولا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "V0=gR",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "V0=gR²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "V0=√gR",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "V0=√gR²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "The K.E. of a body of mass 2kg is 25J. Its speed is :",
+   "q_ur": "2 کلو گرام کے ایک جسم کی کائینٹک انرجی 25J ہے۔ اس کی سپیڈ ہو گی:",
+   "options": [
+    {
+     "k": "A",
+     "en": "50 mS⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "25 mS⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "12.5 mS⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5 mS⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "The density of water is :",
+   "q_ur": "پانی کی ڈینسٹی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "10 kg m⁻³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "100 kg m⁻³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1000 kg m⁻³",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10000 kg m⁻³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "What should be the approximate length of a glass tube to construct a water barometer?",
+   "q_ur": "پانی والا بیرومیٹر بنانے کے لیے شیشے کی ٹیوب کی لمبائی اندازاً کتنی ہونی چاہیے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "11 m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2.5 m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1 m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.5 m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Water freezes at :",
+   "q_ur": "پانی جس درجہ پر منجمد ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "0°F",
+     "ur": ""
+    },
+    {
+     "k": "A",
+     "en": "32°F",
+     "ur": ""
+    },
+    {
+     "k": "A",
+     "en": "37°F",
+     "ur": ""
+    },
+    {
+     "k": "A",
+     "en": "100°F",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Example of bad conductor of heat is :",
+   "q_ur": "حرارت کے ناقص کنڈکٹر کی مثال ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Gold",
+     "ur": "سونا"
+    },
+    {
+     "k": "B",
+     "en": "iron",
+     "ur": "لوہا"
+    },
+    {
+     "k": "C",
+     "en": "Wool",
+     "ur": "اون"
+    },
+    {
+     "k": "D",
+     "en": "Graphite",
+     "ur": "گریفائٹ"
+    }
+   ]
+  }
+ ]
+}

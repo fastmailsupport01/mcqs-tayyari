@@ -1,0 +1,1130 @@
+{
+ "board": "BISE Rawalpindi",
+ "board_slug": "rawalpindi",
+ "class": "12th",
+ "subject": "mathematics",
+ "year": 2024,
+ "slug": "rawalpindi-12th-mathematics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Midpoint of A(2,0), B(0,2) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(0,2)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(2,0)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(2,2)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(1,1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The ___ point satisfies x + 2y < 6",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(4,1)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(3,1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(1,3)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(1,4)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "In a conic, the ratio of the distance from a fixed point to the distance from a fixed line is: [sic]",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Focus",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Vertex",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ecentricity [sic]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Centre",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Standard equation of Parabola is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "y² = 4ax",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x² + y² = a²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x²/a² − y²/b² = 1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x²/a² + y²/b² = 1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Equation of tangent to circle x² + y² = a² at P(x₁,y₁) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "xx₁ + yy₁ = a²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "xx₁ − yy₁ = a²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "xy₁ + yx₁ = a²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "xy₁ − yx₁ = a²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The volume of parallelopiped = ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(u̱ × v̱).ω̱",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(u̱ × v̱) × ω̱",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "u̱ × (v̱ × ω̱)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "u̱ × (u̱ × v̱)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The non-zero vectors are perpendicular when:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "u̱.v̱ = 1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "|u̱.v̱| = 1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "u̱.v̱ = 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "u̱.v̱ ≠ 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "j̱ × ḵ = _______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "i̱",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−i̱",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ḵ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The range of f(x) = 2 + √(x − 1) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[1,+∞)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[2,+∞)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(1,+∞)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(2,+∞)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The perimeter P of square as a function of its area A:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3√A",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4√A",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√A",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2√A",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "If f(x) = 1/x² then ḟ(3) = _______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/9",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−2/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−2/27",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/27",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "If ḟ(c) = 0 & f″(c) > 0 then C is point of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Maxima",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Minima",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Inflection",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Constant",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "d/dx(logₐx) = _______. [option (C) partially obscured by watermark; as shown]",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/(xlna)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "lna/x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−1/(xlna)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "d/dx(cot ax) = _______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "cosec²ax",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a cosec²ax",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−a cosec²ax",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−a cosec ax",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "∫1/√(1−x²) dx = _______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sin⁻¹x + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cos⁻¹x + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−Sin⁻¹x + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−Cos⁻¹x + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "∫(1/x) dx = _______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "lnx + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/x² + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−1/x² + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/x + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "The solution of differential equation dy/dx = −y is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "y = xe⁻ˣ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "y = ce⁻ˣ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "y = eˣ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "y = ceˣ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group I",
+   "q_en": "∫₀¹ 1/(1+x²) dx = _______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π/4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2π/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3π/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group I",
+   "q_en": "x − intercept of the line 2x + 5y − 1 = 0 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group I",
+   "q_en": "Slope of y − axis is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Undefined",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "If r = 0, the circle is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Unit circle",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Circle",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ellipse",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Point circle",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "[i̱ j̱ ḵ] =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "i̱",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−i̱",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "If u̱ = 2i̱ − j̱ + ḵ, v̱ = 4i̱ + 2j̱ − ḵ then u̱ × u̱ = [sic]",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "u²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "If u̱, v̱ are two non-zero vectors, then area of parallelogram =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "|u̱ × v̱|",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/2|u̱ × v̱|",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/6|u̱ × v̱|",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/2(u̱ × v̱)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "If k is any real number, lim_{x→a}[kf(x)] =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "lim_{x→a} f(x)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "lim_{x→a} k",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "k lim_{x→a} f(x)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "f(x)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "If f(x) = x + 3 then: lim_{x→3} f(x) =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "If y = e^{f(x)} then dy/dx = [sic: options (B) and (C) duplicate]",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "e^{f(x)}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "f(x)e^{f(x)}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "f(x)e^{f(x)}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ḟ(x)e^{f(x)}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Derivative of x√(x² + 3) w. r. t x is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(2x² + 3)/√(x² + 3)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3x/(2√(x² + 3))",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(3x² + 3)/(x√(x² + 3))",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(3x² + 3)/(2x√(x² + 3))",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "Derivative of tanh(x²) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2x sech²x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2 sech²x²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2x sech²x²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "sech²x²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Derivative of \"x\" w. r. t \"x\" is: [sic]",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "In integration, substitution of √(4 − x²) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x = sinθ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x = 2 sinθ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x = sin2θ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x = 2 cosθ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "∫Tan x dx = [sic: option (B) partially struck through as shown]",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ln cos x + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/ln cosx ⋯ c [as shown]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−ln|cos x| + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Sec²x + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "Solution of differential equation: (eˣ + e⁻ˣ) dy/dx = eˣ − e⁻ˣ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−ln(eˣ + e⁻ˣ) + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ln(eˣ − e⁻ˣ) + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ln(eˣ + e⁻ˣ) + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(eˣ + e⁻ˣ)²/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "∫Sinx Cos x dx =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sin²x/2 + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cos²x/2 + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−Sin x + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cosx + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "The line: ay + b = 0 is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Parallel to y-axis",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Parallel to x-axis",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Passing through origin",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Lies in Quad. I",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "The slope of line joining the points (−2,4); (5,11) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−45°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "The location of the plane of the point P(x,y) for which y = 0 at:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Origin",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "y − axis",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x − axis",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ist Quad",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group II",
+   "q_en": "The maximum and minimum values occur at:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Corner point",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Any point",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Convex region",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Corner points of feasible region",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group II",
+   "q_en": "The line intersect the circle at:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "One point",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Two points",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Infinite points",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "More than two points",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group II",
+   "q_en": "Diameter of circle: x² + y² = 16 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "16",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "32",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

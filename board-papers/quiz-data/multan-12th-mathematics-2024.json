@@ -1,0 +1,1130 @@
+{
+ "board": "BISE Multan",
+ "board_slug": "multan",
+ "class": "12th",
+ "subject": "Mathematics",
+ "year": 2024,
+ "slug": "multan-12th-mathematics-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "lim(n→∞) (1 + 1/n)^(2n) = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "e⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "e^(−1/2)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "e²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "e³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The function f(x) = (x²+1)/(x−1) is discontinuous at:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x = 2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x = 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x = −1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x = 1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Derivative of x⁰ with respect to 'x' is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "d/dx [fog(x)] = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "f'[g(x)]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "f[g'(x)]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "f'[g(x)]g'(x)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "f[g(x)]g'(x)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Geometrically dy/dx means:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Tangent of slope",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Slope of line",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Slope of x−axis",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Slope of tangent",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "lim(h→0) [f(a+h)−f(a)]/h = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "f'(a)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "f'(x)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "f'(a+h)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "f(a)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "∫ f'(x)/f(x) dx = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ln|x|+c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ln|f(x)|+c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ln|f'(x)|+c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "f(x)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "∫(ax+b)^n dx where n ≠ −1 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(ax+b)^(n+1)/(n+1)+c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(ax+b)^(n+1)/a+c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(ax+b)^(n+1)/a(n+1)+c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(ax+b)^(n+1)/n+c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "∫2^x dx = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x2^(x−1)+c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2^x ln2+c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2^(x+1)/(x+1)+c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2^x/ln2+c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "When expression √(a²−x²) involve in integration, we substitute:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x = a sinθ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x = a secθ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x = a tanθ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x = sinθ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "All points (x, y) with x<0, y<0 lies in quadrant:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "I",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "II",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "III",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "IV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Slope of line passing through points A(x₁, y₁) and B(x₂, y₂) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(x₂−x₁)/(y₂−y₁)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(y₂+y₁)/(x₂+x₁)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(y₂−x₂)/(y₁−x₁)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(y₂−y₁)/(x₂−x₁)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Equation of vertical line through points (3, −5) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "y = −5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "y = 5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x = 3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x = −3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "Which of the following ordered pair does not satisfy 4x−3y<2:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(1, 1)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(3, 0)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(−2, 1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(0, 0)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Radius of circle x²+y² = 5 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "25",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "Length of latus ractum of ellipse x²/a² + y²/b² = 1 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2a²/b",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a²/b",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "b²/a",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2b²/a",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "Equation of tangent to circle x²+y² = a² at (x₁, y₁) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "xx₁+yy₁ = a²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "xx₁−yy₁ = a²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "xy₁+x₁y = a²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "xy₁−x₁y = a²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group I",
+   "q_en": "If α, β, γ are direction cosines of a vector then cos²α+cos²β+cos²γ = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group I",
+   "q_en": "For what value of 'α' vectors 5î−ĵ+k̂ and αî+3ĵ−3k̂ are parallel to each other:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "15",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−15",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group I",
+   "q_en": "If any two vectors of scalar triple product are equal then value is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "If y = cos⁻¹(x/a), then cos y = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x/a",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "y/a",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "sin y",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "∫₀^π sin x dx = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "cos π",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "∫ tan x dx = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ln|sec x|+c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ln|cosec x|+c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ln|sin x|+c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ln|cot x|+c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "∫ e^x/(e^x+5) dx = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(e^x+5)+c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ln(e^x+5)+c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "e^(2x)+5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "e^(2x)+7+c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "∫ −cosec²x dx = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "cos x+c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "tan x+c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "cosec x+c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "cot x+c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "If α is the inclination of line l, then (x−x₁)/cos α = (y−y₁)/sin α = r(say) is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Point-slope form",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Normal form",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Symmetric form",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Two-points form",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Equation of line bisecting first and third quadrant is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "y = 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "y = −x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "y = x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "The perpendicular distance of line 3x+4y−15 = 0 from the origin is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "The graph of 2x ≥ 4 lies in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Upper Half Plane",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Lower Half Plane",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Left Half Plane",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Right Half Plane",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Radius of circle x²+y² = 5 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "25",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "The equation of directix of the parabola x² = −16y is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "y+4 = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "y−4 = 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x+4 = 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x−4 = 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "The eccentricity of y²/4 − x² = 1 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "√5/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2/√5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−2/√5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "3î·(2ĵ×k̂) = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "Cos θ equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "â×b̂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "â·b̂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "|â×b̂|",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a̲×b̲",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "The length of the vector 2î−2ĵ−k̂ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "The function x²+xy+y² = 2 of x and y is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Constant",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Even",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Implicit",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Explicit",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "If f(x) = 2x−8, then f⁻¹(x) = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "8−2x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8+2x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(x−8)/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(x+8)/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group II",
+   "q_en": "d/dx(3^x) = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3^x/ln3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x ln3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3^x ln3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3^x ln x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group II",
+   "q_en": "If y = cos⁻¹(x/a), then dy/dx = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−1/√(a²−x²)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−a/√(x²−a²)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a/√(x²−a²)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a/√(a²−x²)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group II",
+   "q_en": "d/dx(cos x) = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "sin x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−sec x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "sec x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−sin x",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

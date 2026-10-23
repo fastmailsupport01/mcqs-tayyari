@@ -1,0 +1,346 @@
+{
+ "board": "BISE Faisalabad",
+ "board_slug": "faisalabad",
+ "class": "10th",
+ "subject": "Physics",
+ "year": 2023,
+ "slug": "faisalabad-10th-physics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The combined resistance of two identical resistors connected in series is 8Ω. Their combined resistance in a parallel arrangement will be:",
+   "q_ur": "دو یکساں مزاحمتوں کو سیریز میں جوڑا جائے تو ان کی کل مزاحمت 8Ω ہوتی ہے۔ اگر ان ہی مزاحمتوں کو پیرالل میں جوڑا جائے تو ان کی کل مزاحمت ہوگی:",
+   "options": [
+    {
+     "k": "A",
+     "en": "2Ω",
+     "ur": "2Ω"
+    },
+    {
+     "k": "B",
+     "en": "4Ω",
+     "ur": "4Ω"
+    },
+    {
+     "k": "C",
+     "en": "8Ω",
+     "ur": "8Ω"
+    },
+    {
+     "k": "D",
+     "en": "12Ω",
+     "ur": "12Ω"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Which statement is true about the magnetic poles?",
+   "q_ur": "میگنٹک پولز کے متعلق کونسا بیان درست ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Unlike poles repel",
+     "ur": "مخالف پولز دفع کرتے ہیں"
+    },
+    {
+     "k": "B",
+     "en": "Like poles attract",
+     "ur": "ایک جیسے پولز کشش کرتے ہیں"
+    },
+    {
+     "k": "C",
+     "en": "Magnetic poles do not affect each other",
+     "ur": "میگنٹک پولز ایک دوسرے پر اثر انداز نہیں ہوتے"
+    },
+    {
+     "k": "D",
+     "en": "A single magnetic pole does not exist",
+     "ur": "ایکیلا میگنٹک پول ناپید موجود مزاحمتوں رہ سکتا"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The output of two-input NOR gate is 1 when:",
+   "q_ur": "دو ان پٹ والے نار گیٹ کی آؤٹ پٹ 1 ہوتی ہے جب:",
+   "options": [
+    {
+     "k": "A",
+     "en": "A = 1 & B = 0",
+     "ur": "A = 1 اور B = 0"
+    },
+    {
+     "k": "B",
+     "en": "A = 0 & B = 1",
+     "ur": "A = 0 اور B = 1"
+    },
+    {
+     "k": "C",
+     "en": "A = 0 & B = 0",
+     "ur": "A = 0 اور B = 0"
+    },
+    {
+     "k": "D",
+     "en": "A = 1 & B = 1",
+     "ur": "A = 1 اور B = 1"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "A switch has only possible states:",
+   "q_ur": "ایک سوئچ کی ممکنہ حالتیں ہوتی ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": "2"
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": "3"
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": "4"
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": "5"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "The brain of any computer system is:",
+   "q_ur": "کسی بھی کمپیوٹر سسٹم کا دماغ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Monitor",
+     "ur": "مانیٹر"
+    },
+    {
+     "k": "B",
+     "en": "Memory",
+     "ur": "میموری"
+    },
+    {
+     "k": "C",
+     "en": "CPU",
+     "ur": "سی پی یو"
+    },
+    {
+     "k": "D",
+     "en": "Control unit",
+     "ur": "کنٹرول یونٹ"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Generally an atom is represented by the symbol:",
+   "q_ur": "عام طور پر اٹم کو علامت سے ظاہر کیا جاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "_B^A X",
+     "ur": "_B^A X"
+    },
+    {
+     "k": "B",
+     "en": "_Z^A X",
+     "ur": "_Z^A X"
+    },
+    {
+     "k": "C",
+     "en": "_A^Z X",
+     "ur": "_A^Z X"
+    },
+    {
+     "k": "D",
+     "en": "_A^B X",
+     "ur": "_A^B X"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Waves transfer:",
+   "q_ur": "ویوز منتقل کرتی ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Energy",
+     "ur": "انرجی"
+    },
+    {
+     "k": "B",
+     "en": "Frequency",
+     "ur": "فریکوئنسی"
+    },
+    {
+     "k": "C",
+     "en": "Wavelength",
+     "ur": "ویولینتھ"
+    },
+    {
+     "k": "D",
+     "en": "Velocity",
+     "ur": "ولاسٹی"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Which is an example of a longitudinal wave?",
+   "q_ur": "لانگیٹیوڈنل ویوز کی مثال ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sound wave",
+     "ur": "ساؤنڈ ویو"
+    },
+    {
+     "k": "B",
+     "en": "Light wave",
+     "ur": "لائٹ ویو"
+    },
+    {
+     "k": "C",
+     "en": "Radio wave",
+     "ur": "ریڈیو ویو"
+    },
+    {
+     "k": "D",
+     "en": "Water wave",
+     "ur": "پانی کی ویو"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "1 bel is equal to:",
+   "q_ur": "ایک بیل برابر ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "20dB",
+     "ur": "20dB"
+    },
+    {
+     "k": "B",
+     "en": "10dB",
+     "ur": "10dB"
+    },
+    {
+     "k": "C",
+     "en": "100dB",
+     "ur": "100dB"
+    },
+    {
+     "k": "D",
+     "en": "5dB",
+     "ur": "5dB"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Which is not changed during refraction of light?",
+   "q_ur": "روشنی کی ریفریکشن کے دوران کونسی مقدار تبدیل نہیں ہوتی؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Its direction",
+     "ur": "اس کی سمت"
+    },
+    {
+     "k": "B",
+     "en": "Its speed",
+     "ur": "اس کی سپیڈ"
+    },
+    {
+     "k": "C",
+     "en": "Its frequency",
+     "ur": "اس کی فریکوئنسی"
+    },
+    {
+     "k": "D",
+     "en": "Its wavelength",
+     "ur": "اس کی ویولینتھ"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "SI unit of electric charge is:",
+   "q_ur": "الیکٹرک چارج کا ایس آئی (SI) یونٹ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Coulomb",
+     "ur": "کولمب"
+    },
+    {
+     "k": "B",
+     "en": "Ampere",
+     "ur": "ایمپئر"
+    },
+    {
+     "k": "C",
+     "en": "Volt",
+     "ur": "وولٹ"
+    },
+    {
+     "k": "D",
+     "en": "Watt",
+     "ur": "واٹ"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Five joules of work is needed to shift 10C of charge from one place to another. The potential difference between the places is:",
+   "q_ur": "ایک 10C چارج کو ایک جگہ سے دوسری جگہ لے جانے کے لیے 5J ورک کرنا پڑتا ہے۔ ان دونوں مقامات کے درمیان پوٹینشل ڈفرنس ہوگا:",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.5V",
+     "ur": "0.5V"
+    },
+    {
+     "k": "B",
+     "en": "2V",
+     "ur": "2V"
+    },
+    {
+     "k": "C",
+     "en": "5V",
+     "ur": "5V"
+    },
+    {
+     "k": "D",
+     "en": "10V",
+     "ur": "10V"
+    }
+   ]
+  }
+ ]
+}

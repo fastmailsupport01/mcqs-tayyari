@@ -1,0 +1,850 @@
+{
+ "board": "BISE Faisalabad",
+ "board_slug": "faisalabad",
+ "class": "9th",
+ "subject": "Mathematics",
+ "year": 2023,
+ "slug": "faisalabad-9th-mathematics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "A quadrilateral having each angle equal to 90° is called:",
+   "q_ur": "ایک چوکور جس کا ہر زاویہ 90° ہو کہلاتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Parallelogram",
+     "ur": "متوازی الاضلاع"
+    },
+    {
+     "k": "B",
+     "en": "Rectangle",
+     "ur": "مستطیل"
+    },
+    {
+     "k": "C",
+     "en": "Trapezium",
+     "ur": "ذوزنقہ"
+    },
+    {
+     "k": "D",
+     "en": "Rhombus",
+     "ur": "معین"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Congruent figures have ______ area.",
+   "q_ur": "متشابہ اشکال کا رقبہ ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Different",
+     "ur": "مختلف"
+    },
+    {
+     "k": "B",
+     "en": "Same",
+     "ur": "ایک جیسا"
+    },
+    {
+     "k": "C",
+     "en": "Half",
+     "ur": "نصف"
+    },
+    {
+     "k": "D",
+     "en": "Greater",
+     "ur": "بڑا"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Equality of two ratios is called:",
+   "q_ur": "دو نسبتوں کے درمیان برابری کو تناسب کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ratio",
+     "ur": "نسبت"
+    },
+    {
+     "k": "B",
+     "en": "Proportion",
+     "ur": "تناسب"
+    },
+    {
+     "k": "C",
+     "en": "Inequality",
+     "ur": "نامساوی"
+    },
+    {
+     "k": "D",
+     "en": "Equality",
+     "ur": "برابری"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The right bisectors of sides of triangle are:",
+   "q_ur": "کسی مثلث کے اضلاع کے عمودی ناصف ہوتے ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Concurrent",
+     "ur": "ہم نقطہ"
+    },
+    {
+     "k": "B",
+     "en": "Equal",
+     "ur": "برابر"
+    },
+    {
+     "k": "C",
+     "en": "Perpendicular",
+     "ur": "عمود"
+    },
+    {
+     "k": "D",
+     "en": "Parallel",
+     "ur": "متوازی"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "In a parallelogram, opposite angles are:",
+   "q_ur": "متوازی الاضلاع کے مخالف زاویے ہوتے ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Smaller",
+     "ur": "چھوٹے"
+    },
+    {
+     "k": "B",
+     "en": "Equal",
+     "ur": "برابر"
+    },
+    {
+     "k": "C",
+     "en": "Greater",
+     "ur": "بڑے"
+    },
+    {
+     "k": "D",
+     "en": "Concurrent",
+     "ur": "ہم نقطہ"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "In a triangle there can be only ______ right angle.",
+   "q_ur": "کسی مثلث میں صرف ______ قائمہ زاویہ ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": "1"
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": "2"
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": "3"
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": "4"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Distance between the points (1, 0) and (0, 1) is:",
+   "q_ur": "نقاط (1,0) اور (0,1) کا درمیانی فاصلہ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": "0"
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": "1"
+    },
+    {
+     "k": "C",
+     "en": "√2",
+     "ur": "√2"
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": "2"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "If (x, 0) = (0, y), then (x, y) is:",
+   "q_ur": "اگر (x,0) = (0,y) تو (x,y) برابر ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "(0, 1)",
+     "ur": "(0, 1)"
+    },
+    {
+     "k": "B",
+     "en": "(1, 0)",
+     "ur": "(1, 0)"
+    },
+    {
+     "k": "C",
+     "en": "(0, 0)",
+     "ur": "(0, 0)"
+    },
+    {
+     "k": "D",
+     "en": "(1, 1)",
+     "ur": "(1, 1)"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "x = ______ is a solution of the inequality -2 < x < 3/2.",
+   "q_ur": "x = ______ غیر مساوات -2 < x < 3/2 کے حل سیٹ کا رکن ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "-5",
+     "ur": "-5"
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": "3"
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": "0"
+    },
+    {
+     "k": "D",
+     "en": "3/2",
+     "ur": "3/2"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "H.C.F. of x-2 and x²+x-6 is:",
+   "q_ur": "x-2 اور x²+x-6 کا عاد اعظم ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "x²+x-6",
+     "ur": "x²+x-6"
+    },
+    {
+     "k": "B",
+     "en": "x+3",
+     "ur": "x+3"
+    },
+    {
+     "k": "C",
+     "en": "x-2",
+     "ur": "x-2"
+    },
+    {
+     "k": "D",
+     "en": "x+2",
+     "ur": "x+2"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Factors of 3x²-x-2 are:",
+   "q_ur": "3x²-x-2 کے اجزائے ضربی ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "(x+1),(3x-2)",
+     "ur": "(x+1),(3x-2)"
+    },
+    {
+     "k": "B",
+     "en": "(x+1),(3x+2)",
+     "ur": "(x+1),(3x+2)"
+    },
+    {
+     "k": "C",
+     "en": "(x-1),(3x-2)",
+     "ur": "(x-1),(3x-2)"
+    },
+    {
+     "k": "D",
+     "en": "(x-1),(3x+2)",
+     "ur": "(x-1),(3x+2)"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "a³+b³ is equal to:",
+   "q_ur": "a³+b³ برابر ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "(a-b)(a²+ab+b²)",
+     "ur": "(a-b)(a²+ab+b²)"
+    },
+    {
+     "k": "B",
+     "en": "(a+b)(a²-ab+b²)",
+     "ur": "(a+b)(a²-ab+b²)"
+    },
+    {
+     "k": "C",
+     "en": "(a-b)(a²-ab+b²)",
+     "ur": "(a-b)(a²-ab+b²)"
+    },
+    {
+     "k": "D",
+     "en": "(a-b)(a²+ab-b²)",
+     "ur": "(a-b)(a²+ab-b²)"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "The logarithm of unity to any base is:",
+   "q_ur": "کسی اساس پر \"1\" کا لاگارتھم ______ کے برابر ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": "1"
+    },
+    {
+     "k": "B",
+     "en": "10",
+     "ur": "10"
+    },
+    {
+     "k": "C",
+     "en": "e",
+     "ur": "e"
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": "0"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "Write 4 2/3 with radical sign:",
+   "q_ur": "2/3 4 کو ریڈیکل فازم میں لکھیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "∛4²",
+     "ur": "∛4²"
+    },
+    {
+     "k": "B",
+     "en": "√4³",
+     "ur": "√4³"
+    },
+    {
+     "k": "C",
+     "en": "²√4³",
+     "ur": "²√4³"
+    },
+    {
+     "k": "D",
+     "en": "√4⁶",
+     "ur": "√4⁶"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Which is order of a square matrix?",
+   "q_ur": "کونسا اسکوائر میٹرکس کا آرڈر ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "2-by-2",
+     "ur": "2-by-2"
+    },
+    {
+     "k": "B",
+     "en": "1-by-2",
+     "ur": "1-by-2"
+    },
+    {
+     "k": "C",
+     "en": "2-by-1",
+     "ur": "2-by-1"
+    },
+    {
+     "k": "D",
+     "en": "3-by-2",
+     "ur": "3-by-2"
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "The median of a triangle cut each other in the ratio:",
+   "q_ur": "مثلث کے وسطانیے ایک دوسرے کو ______ کی نسبت سے قطع کرتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1:4",
+     "ur": "1:4"
+    },
+    {
+     "k": "B",
+     "en": "1:3",
+     "ur": "1:3"
+    },
+    {
+     "k": "C",
+     "en": "2:1",
+     "ur": "2:1"
+    },
+    {
+     "k": "D",
+     "en": "1:1",
+     "ur": "1:1"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "Area of parallelogram:",
+   "q_ur": "متوازی الاضلاع کا رقبہ:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Length × length",
+     "ur": "لمبائی × لمبائی"
+    },
+    {
+     "k": "B",
+     "en": "Base × altitude",
+     "ur": "ارتفاع × قاعدہ"
+    },
+    {
+     "k": "C",
+     "en": "½(base×altitude)",
+     "ur": "ارتفاع × قاعدہ (½)"
+    },
+    {
+     "k": "D",
+     "en": "Length × width",
+     "ur": "چوڑائی × لمبائی"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "Symbol used for congruent is:",
+   "q_ur": "متشابہ کے لیے علامت استعمال ہوتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "~",
+     "ur": "~"
+    },
+    {
+     "k": "B",
+     "en": "≈",
+     "ur": "≈"
+    },
+    {
+     "k": "C",
+     "en": "=",
+     "ur": "="
+    },
+    {
+     "k": "D",
+     "en": "≅",
+     "ur": "≅"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Bisection means to divide into ______ equal part / parts.",
+   "q_ur": "تنصیف سے مراد ______ برابر حصوں میں تقسیم کرنا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": "2"
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": "3"
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": "4"
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": "1"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "Diagonals of a parallelogram intersect each other at ______ point / points.",
+   "q_ur": "متوازی الاضلاع کے قطر ایک دوسرے کو ______ نقطہ / نقاط پر قطع کرتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": "1"
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": "2"
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": "3"
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": "4"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Two parallel lines intersect at ______ point / points.",
+   "q_ur": "دو متوازی خطوط ______ نقطہ پر قطع کرتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": "1"
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": "2"
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": "3"
+    },
+    {
+     "k": "D",
+     "en": "No point",
+     "ur": "کسی نقطہ پر بھی نہیں"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Mid point of the points (0, 0) and (2, 2) is:",
+   "q_ur": "نقاط (0,0) اور (2,2) کا درمیانی نقطہ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "(1, 1)",
+     "ur": "(1, 1)"
+    },
+    {
+     "k": "B",
+     "en": "(1, 0)",
+     "ur": "(1, 0)"
+    },
+    {
+     "k": "C",
+     "en": "(0, 1)",
+     "ur": "(0, 1)"
+    },
+    {
+     "k": "D",
+     "en": "(-1, -1)",
+     "ur": "(-1, -1)"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "Point (2,-3) lies in quadrant:",
+   "q_ur": "نقطہ (2,-3) مستوی کے ربع میں ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "I",
+     "ur": "I"
+    },
+    {
+     "k": "B",
+     "en": "II",
+     "ur": "II"
+    },
+    {
+     "k": "C",
+     "en": "III",
+     "ur": "III"
+    },
+    {
+     "k": "D",
+     "en": "IV",
+     "ur": "IV"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "If the capacity c of an elevator is at most 1600 pounds then:",
+   "q_ur": "ایک لفٹ کی گنجائش c کی مقدار زیادہ سے زیادہ 1600 پاؤنڈ ہو تو:",
+   "options": [
+    {
+     "k": "A",
+     "en": "c < 1600",
+     "ur": "c < 1600"
+    },
+    {
+     "k": "B",
+     "en": "c ≥ 1600",
+     "ur": "c ≥ 1600"
+    },
+    {
+     "k": "C",
+     "en": "c ≤ 1600",
+     "ur": "c ≤ 1600"
+    },
+    {
+     "k": "D",
+     "en": "c > 1600",
+     "ur": "c > 1600"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "The square root of a² - 2a + 1 is:",
+   "q_ur": "a² - 2a + 1 کا جزر المربع ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "±(a+1)",
+     "ur": "±(a+1)"
+    },
+    {
+     "k": "B",
+     "en": "±(a-1)",
+     "ur": "±(a-1)"
+    },
+    {
+     "k": "C",
+     "en": "a-1",
+     "ur": "a-1"
+    },
+    {
+     "k": "D",
+     "en": "a+1",
+     "ur": "a+1"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Factors of a⁴ - 4b⁴ are:",
+   "q_ur": "a⁴ - 4b⁴ کے اجزائے ضربی ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "(a-b)(a+b)(a²+4b²)",
+     "ur": "(a-b)(a+b)(a²+4b²)"
+    },
+    {
+     "k": "B",
+     "en": "(a²-2b²)(a²+2b²)",
+     "ur": "(a²-2b²)(a²+2b²)"
+    },
+    {
+     "k": "C",
+     "en": "(a-b)(a+b)(a²-4b²)",
+     "ur": "(a-b)(a+b)(a²-4b²)"
+    },
+    {
+     "k": "D",
+     "en": "(a-2b)(a²+2b²)",
+     "ur": "(a-2b)(a²+2b²)"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "Conjugate of surd a + √b is:",
+   "q_ur": "مقدار اعظم a + √b کا جوزین جملہ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "a - √b",
+     "ur": "a - √b"
+    },
+    {
+     "k": "B",
+     "en": "-a + √b",
+     "ur": "-a + √b"
+    },
+    {
+     "k": "C",
+     "en": "-a - √b",
+     "ur": "-a - √b"
+    },
+    {
+     "k": "D",
+     "en": "√a + √b",
+     "ur": "√a + √b"
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "log(mⁿ) can be written as:",
+   "q_ur": "log(mⁿ) کو ______ بھی لکھا جا سکتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "(log m)ⁿ",
+     "ur": "(log m)ⁿ"
+    },
+    {
+     "k": "B",
+     "en": "m log n",
+     "ur": "m log n"
+    },
+    {
+     "k": "C",
+     "en": "n log m",
+     "ur": "n log m"
+    },
+    {
+     "k": "D",
+     "en": "log(mn)",
+     "ur": "log(mn)"
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "Every real number is a:",
+   "q_ur": "ہر حقیقی نمبر ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Positive integer",
+     "ur": "ایک مثبت صحیح عدد"
+    },
+    {
+     "k": "B",
+     "en": "Rational number",
+     "ur": "ایک ناطق عدد"
+    },
+    {
+     "k": "C",
+     "en": "Negative integer",
+     "ur": "ایک منفی صحیح عدد"
+    },
+    {
+     "k": "D",
+     "en": "Complex number",
+     "ur": "ایک کمپلیکس نمبر"
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "Which is order of a square matrix?",
+   "q_ur": "کونسا اسکوائر میٹرکس کا آرڈر ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "2-by-1",
+     "ur": "2-by-1"
+    },
+    {
+     "k": "B",
+     "en": "2-by-2",
+     "ur": "2-by-2"
+    },
+    {
+     "k": "C",
+     "en": "1-by-2",
+     "ur": "1-by-2"
+    },
+    {
+     "k": "D",
+     "en": "3-by-2",
+     "ur": "3-by-2"
+    }
+   ]
+  }
+ ]
+}
