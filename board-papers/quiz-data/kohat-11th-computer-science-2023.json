@@ -1,0 +1,430 @@
+{
+ "board": "BISE Kohat",
+ "board_slug": "kohat",
+ "class": "11th",
+ "subject": "Computer Science",
+ "year": 2023,
+ "slug": "kohat-11th-computer-science-2023",
+ "questions": [
+  {
+   "n": "i",
+   "group": "Annual",
+   "q_en": "Which of the following is the fastest slot?.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "AGP",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "PCL",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "PSLe",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ISA",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ii",
+   "group": "Annual",
+   "q_en": "………………is considered to be the first computer.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "difference engine",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ABACUS",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "tabulating machine",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Marks-1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iii",
+   "group": "Annual",
+   "q_en": "………………software is delivered to the user without payment for trial uses with limited functionality and for a specific period of time.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "open source",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "firmware",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "shareware",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "freeware",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iv",
+   "group": "Annual",
+   "q_en": "Which of the following cards facilitates the input and output of audio signals to and from a computer?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "video card",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "modem card",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "sound card",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "network interface card",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "v",
+   "group": "Annual",
+   "q_en": "SIMM stand for……………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "system in-line memory module",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "synchronous in-line memory module",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "single in-line memory module",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "serial in-line memory module",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vi",
+   "group": "Annual",
+   "q_en": "…………is the data/information that is to be communicated over the network.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "message",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "sender",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "medium",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "receiver",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vii",
+   "group": "Annual",
+   "q_en": "1 Tera Byte memory is equal to …………….",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1024 kilo bytes",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1000 kilo bytes",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1024 Giga bits",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1024 Giga bytes",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "viii",
+   "group": "Annual",
+   "q_en": "Class D is used for………………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "large network",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "small networks",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Experimental research",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "multicasting",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ix",
+   "group": "Annual",
+   "q_en": "Class E is used for………………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "large network",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "small network",
+     "ur": ""
+    },
+    {
+     "k": "A",
+     "en": "experimental research",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "multicasting",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "x",
+   "group": "Annual",
+   "q_en": "The GPS system consists of ……………satellites.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "20",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "22",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "24",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "25",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xi",
+   "group": "Annual",
+   "q_en": "Default subnet mask of class C is ………………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "255.255.0.0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "255.255.255.0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "255.0.0.0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "255.255.255.255",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xii",
+   "group": "Annual",
+   "q_en": "A row in a table is also known as……………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Column",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Relation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "tuple",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Field",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiii",
+   "group": "Annual",
+   "q_en": "The maximum size of text field type in Access is ……………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "253",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "254",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "255",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "256",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiv",
+   "group": "Annual",
+   "q_en": "Hierarchical DBMS organizes data elements into………………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "segments",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "data compartments",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "data units",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "objects",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xv",
+   "group": "Annual",
+   "q_en": "Which of the following is logical data type?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "text",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "memo",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "auto number",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "yes/no",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,570 @@
+{
+ "board": "BISE Kohat",
+ "board_slug": "kohat",
+ "class": "11th",
+ "subject": "Mathematics",
+ "year": 2023,
+ "slug": "kohat-11th-mathematics-2023",
+ "questions": [
+  {
+   "n": "i",
+   "group": "Annual",
+   "q_en": "If A = [1 3 1; -1 2 0; 2 0 -2] then A₂₃ = …",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ii",
+   "group": "Annual",
+   "q_en": "The transpose of a row matrix is …….",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "column matrix",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Row matrix",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Square matrix",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Rectangular matrix",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iii",
+   "group": "Annual",
+   "q_en": "If α, β and γ are direction angles of a vector r = xi + yj + zk, then cos γ = …",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x/|r|",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "y/|r|",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "z/|r|",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iv",
+   "group": "Annual",
+   "q_en": "Find the fifth term of the sequence, -8,-3,2,7, ………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-10",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "12",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-14",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "16",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "v",
+   "group": "Annual",
+   "q_en": "The numbers in the range of a sequence are real numbers.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "terms of the sequence",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Domain",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Series",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Real number",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vi",
+   "group": "Annual",
+   "q_en": "Σ(k=0 to 3) 2ᵏ = ____",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "13",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "14",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "15",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "16",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vii",
+   "group": "Annual",
+   "q_en": "If det (A) = 5, then find det (15A) where A is of order 2 × 2.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "225",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "75",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "375",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1125",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "viii",
+   "group": "Annual",
+   "q_en": "The geometric mean of 9 and 16 is ………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "12",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "9",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "16",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "7",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ix",
+   "group": "Annual",
+   "q_en": "P(E) = n(E)/n(S)",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0 > P(E) > 1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0 < P(E) < 1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0 ≤ P(E) ≤ 1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0 < P(E) > 1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "x",
+   "group": "Annual",
+   "q_en": "The maximum distance between the graph of the Sine or Cosine and horizontal axis is called ….",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Amplitude",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Frequency",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Period",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xi",
+   "group": "Annual",
+   "q_en": "Maximum value of y = 3+2 Cos (3θ – 2)",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xii",
+   "group": "Annual",
+   "q_en": "i⁸ + i¹⁹ = …………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "i",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-i",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiii",
+   "group": "Annual",
+   "q_en": "If z₁ = 2+4i and z₂ =1–3i then z₁ – 3z₂ = ……",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 – 3i",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "–1 + 13i",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5+13i",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "–5 + 13i",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiv",
+   "group": "Annual",
+   "q_en": "¹⁰C₁ + ¹⁰C₃ + ¹⁰C₅ + …..+ ¹⁰C₉ = …….",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "512",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1024",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2048",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1023",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xv",
+   "group": "Annual",
+   "q_en": "If f(x) = x² – 3x + 4 then find the values of x satisfying the equation, f(x) = f(2x + 1)",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5/3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xvi",
+   "group": "Annual",
+   "q_en": "The variables used in the system of linear inequalities relating to the problem are non-negative called ….",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Decision variables",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "problem constraints",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "linear programming",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "feasible solution",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xvii",
+   "group": "Annual",
+   "q_en": "The angles which are connected with basic angles of measure θ by a right angle or its multiple are known as …….",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "trigonometric ratio",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "allied angles",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "not allied angles",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "law of sine",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xviii",
+   "group": "Annual",
+   "q_en": "Cos(2 π +θ) = ………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sin θ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "– Sin θ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cos θ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "– Cos θ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xix",
+   "group": "Annual",
+   "q_en": "Cos (α + β) = …………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "cosαcosβ–SinaSinβ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "SinaSinβ+CosaCosβ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CosaSinβ+CosβSinα",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CosaCosβ+SinaSinβ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xx",
+   "group": "Annual",
+   "q_en": "1/2 b² sinα sinβ / sinθ",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Δ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Δ²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(1-n)ⁿ",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

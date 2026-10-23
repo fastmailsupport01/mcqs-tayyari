@@ -1,0 +1,318 @@
+{
+ "board": "BISE Kohat",
+ "board_slug": "kohat",
+ "class": "10th",
+ "subject": "Computer Science",
+ "year": 2022,
+ "slug": "kohat-10th-computer-science-2022",
+ "questions": [
+  {
+   "n": "i",
+   "group": "Annual",
+   "q_en": "………… is a well defined list of steps for solving a particular problem.",
+   "q_ur": "مخصوص اور طے شدہ اقدامات کی فہرست کسی خاص مسئلے کے حل کے لیے ہوتی ہے اسے ………… کہلاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "algorithm",
+     "ur": "الگورتھم"
+    },
+    {
+     "k": "B",
+     "en": "flow chart",
+     "ur": "فلوچارٹ"
+    },
+    {
+     "k": "C",
+     "en": "complexity of an algorithm",
+     "ur": "الگورتھم کی کمپلیکسٹی"
+    },
+    {
+     "k": "D",
+     "en": "all of the above",
+     "ur": "یہ تمام"
+    }
+   ]
+  },
+  {
+   "n": "ii",
+   "group": "Annual",
+   "q_en": "The execution of a C program starts from function……",
+   "q_ur": "سی پروگرام کا آغاز ………… فنکشن سے ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "const ()",
+     "ur": "const ()"
+    },
+    {
+     "k": "B",
+     "en": "main ()",
+     "ur": "main ()"
+    },
+    {
+     "k": "C",
+     "en": "name ()",
+     "ur": "name ()"
+    },
+    {
+     "k": "D",
+     "en": "start ()",
+     "ur": "start ()"
+    }
+   ]
+  },
+  {
+   "n": "iii",
+   "group": "Annual",
+   "q_en": "Which of the following is called modulus operator?",
+   "q_ur": "ان میں سے کون سا آپریٹر ماڈولس کہلاتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "+",
+     "ur": "+"
+    },
+    {
+     "k": "B",
+     "en": "%",
+     "ur": "%"
+    },
+    {
+     "k": "C",
+     "en": "/",
+     "ur": "/"
+    },
+    {
+     "k": "D",
+     "en": "*",
+     "ur": "*"
+    }
+   ]
+  },
+  {
+   "n": "iv",
+   "group": "Annual",
+   "q_en": "Which operator is used to add 1 to the value of an integer variable?",
+   "q_ur": "کون سا آپریٹر انٹیجر کی قیمت میں ایک کا اضافہ کرتا ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "+",
+     "ur": "+"
+    },
+    {
+     "k": "B",
+     "en": "=",
+     "ur": "="
+    },
+    {
+     "k": "C",
+     "en": "--",
+     "ur": "--"
+    },
+    {
+     "k": "D",
+     "en": "++",
+     "ur": "++"
+    }
+   ]
+  },
+  {
+   "n": "v",
+   "group": "Annual",
+   "q_en": "The conditional portion of If statement is enclosed within ……………",
+   "q_ur": "If اسٹیٹمنٹ کی شرط ………… میں بند کیا جاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "{ }",
+     "ur": "{}"
+    },
+    {
+     "k": "B",
+     "en": "( )",
+     "ur": "()"
+    },
+    {
+     "k": "C",
+     "en": "[ ]",
+     "ur": "[]"
+    },
+    {
+     "k": "D",
+     "en": "< >",
+     "ur": "<>"
+    }
+   ]
+  },
+  {
+   "n": "vi",
+   "group": "Annual",
+   "q_en": "In which loop the condition comes after the body of the loop?",
+   "q_ur": "کس لوپ میں شرط لوپ کے باڈی کے بعد آتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "For",
+     "ur": "for"
+    },
+    {
+     "k": "B",
+     "en": "while",
+     "ur": "while"
+    },
+    {
+     "k": "C",
+     "en": "do-while",
+     "ur": "do-while"
+    },
+    {
+     "k": "D",
+     "en": "none of these",
+     "ur": "none"
+    }
+   ]
+  },
+  {
+   "n": "vii",
+   "group": "Annual",
+   "q_en": "The output of which gate is 1 only when all its inputs are 1?",
+   "q_ur": "کس گیٹ کا آؤٹ پٹ 1 ہوتا ہے جب اس کے تمام ان پٹس 1 ہوں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "AND gate",
+     "ur": "AND گیٹ"
+    },
+    {
+     "k": "B",
+     "en": "OR gate",
+     "ur": "OR گیٹ"
+    },
+    {
+     "k": "C",
+     "en": "NOT gate",
+     "ur": "NOT گیٹ"
+    },
+    {
+     "k": "D",
+     "en": "NAND gate",
+     "ur": "NAND گیٹ"
+    }
+   ]
+  },
+  {
+   "n": "viii",
+   "group": "Annual",
+   "q_en": "Internet address which identifies a website is called……………",
+   "q_ur": "جو انٹرنیٹ ایڈریس کسی ویب سائٹ کو شناخت کرتا ہے اسے ………… کہتے ہیں۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "web page",
+     "ur": "ویب پیج"
+    },
+    {
+     "k": "B",
+     "en": "web site",
+     "ur": "ویب سائٹ"
+    },
+    {
+     "k": "C",
+     "en": "web server",
+     "ur": "ویب سرور"
+    },
+    {
+     "k": "D",
+     "en": "URL",
+     "ur": "URL"
+    }
+   ]
+  },
+  {
+   "n": "ix",
+   "group": "Annual",
+   "q_en": "Which language is used for creating web pages?",
+   "q_ur": "ویب پیجز بنانے کے لیے کون سی زبان استعمال ہوتی ہے؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "HTML",
+     "ur": "HTML"
+    },
+    {
+     "k": "B",
+     "en": "C language",
+     "ur": "C زبان"
+    },
+    {
+     "k": "C",
+     "en": "URL",
+     "ur": "URL"
+    },
+    {
+     "k": "D",
+     "en": "Web browser",
+     "ur": "ویب براؤزر"
+    }
+   ]
+  },
+  {
+   "n": "x",
+   "group": "Annual",
+   "q_en": "The output of the compiler is called……………",
+   "q_ur": "کمپائلر کے آؤٹ پٹ کو ………… کہا جاتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "the program",
+     "ur": "پروگرام"
+    },
+    {
+     "k": "B",
+     "en": "source code",
+     "ur": "سورس کوڈ"
+    },
+    {
+     "k": "C",
+     "en": "linked code",
+     "ur": "لنکڈ کوڈ"
+    },
+    {
+     "k": "D",
+     "en": "object code",
+     "ur": "آبجیکٹ کوڈ"
+    }
+   ]
+  },
+  {
+   "n": "xi",
+   "group": "Annual",
+   "q_en": "The case blocks ends with …………………",
+   "q_ur": "Case کے بلاکس کا اختتام ………… پر ہوتا ہے۔",
+   "options": [
+    {
+     "k": "A",
+     "en": "}",
+     "ur": "}"
+    },
+    {
+     "k": "B",
+     "en": "{",
+     "ur": "{"
+    },
+    {
+     "k": "C",
+     "en": "break;",
+     "ur": "break;"
+    },
+    {
+     "k": "D",
+     "en": "default",
+     "ur": "default"
+    }
+   ]
+  }
+ ]
+}

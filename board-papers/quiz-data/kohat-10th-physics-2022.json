@@ -1,0 +1,346 @@
+{
+ "board": "BISE Kohat",
+ "board_slug": "kohat",
+ "class": "10th",
+ "subject": "Physics",
+ "year": 2022,
+ "slug": "kohat-10th-physics-2022",
+ "questions": [
+  {
+   "n": "i",
+   "group": "Annual",
+   "q_en": "Telephone communication is the example of transmission of signals through ….",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electric wires",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Optical fibers",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Electromagnetic waves",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ii",
+   "group": "Annual",
+   "q_en": "The current which reverses direction after regular interval of time is ……",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "DC",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "AC",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Conventional Current",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Both A&B",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iii",
+   "group": "Annual",
+   "q_en": "The SI unit of electric field intensity is …..",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "NC⁻²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Nm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NC⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NA",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iv",
+   "group": "Annual",
+   "q_en": "Radium-226 decays by emitting an alpha particle, what is the daughter nucleus?.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Rn",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Rd",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Bi",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Pb",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "v",
+   "group": "Annual",
+   "q_en": "A shock absorber is designed to introduce …. forces.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electric",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Damping",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Magnetic",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Gravitational",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vi",
+   "group": "Annual",
+   "q_en": "The resistance of wire will decrease by increasing",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Temperature",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Length",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Diameter",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Both A&B",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vii",
+   "group": "Annual",
+   "q_en": "The Boolean equation for OR gate is………………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "X = A·B",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "X = A+B",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "X = (AB)̅",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "X = (A+B)̅",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "viii",
+   "group": "Annual",
+   "q_en": "The frequency for oscillation for time period 0.02s is …………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "500 HZ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/5 HZ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "50 HZ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ix",
+   "group": "Annual",
+   "q_en": "The speed of sound on a warm day when the outdoor temperature is 38°C is ………………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "331 m/s",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "345 m/s",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "362 m/s",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "354 m/s",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "x",
+   "group": "Annual",
+   "q_en": "Minimum echo distance is reduced in …………………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Winter",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Summer",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Space",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Spring",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xi",
+   "group": "Annual",
+   "q_en": "If the angle of incidence is 30° the angle of reflection will be ……",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "30°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "90°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xii",
+   "group": "Annual",
+   "q_en": "The unit of electric potential is ………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Farad",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Volt",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Coulomb",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NC⁻¹",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

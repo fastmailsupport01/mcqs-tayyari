@@ -1,0 +1,430 @@
+{
+ "board": "BISE Kohat",
+ "board_slug": "kohat",
+ "class": "10th",
+ "subject": "Mathematics",
+ "year": 2023,
+ "slug": "kohat-10th-mathematics-2023",
+ "questions": [
+  {
+   "n": "i",
+   "group": "Annual",
+   "q_en": "The solution of the equation x² + 7x – 18 = 0 are………….",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-2 or –9",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2 or –9",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-2 or 9",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2 or 9",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ii",
+   "group": "Annual",
+   "q_en": "If 'w' is the complex cube root of unity then w² = …..",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-1/w",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "w³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/w",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iii",
+   "group": "Annual",
+   "q_en": "Sum of the roots of mx² – 5x + n = 0 is …….",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5/m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-5/m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "n/m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-n/m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iv",
+   "group": "Annual",
+   "q_en": "Direct variation between a and b is expressed as …….",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a = b",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a = 1/b",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a ∝ b",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a ∝ 1/b",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "v",
+   "group": "Annual",
+   "q_en": "Factors of x⁴ – x² – 6 are ………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(x² + 3), (x² – 2)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(x²–3), (x² +2)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(x² – 3), (x² – 2)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(x² + 3), (x² + 2)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vi",
+   "group": "Annual",
+   "q_en": "If A and B are any two sets then {x|x ∈ A and x ∉ B} = ………",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "B – A",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A'",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A – B",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vii",
+   "group": "Annual",
+   "q_en": "(sum of data)/(number of data) = …………….",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Median",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Mode",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mean",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Range",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "viii",
+   "group": "Annual",
+   "q_en": "In the set of data 5,7,7,5,3,7,2,8,2. The mode is ………..",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ix",
+   "group": "Annual",
+   "q_en": "45° = ………… radian.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π/4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "x",
+   "group": "Annual",
+   "q_en": "sin²θ + cos²θ = …",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "tan θ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "–1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xi",
+   "group": "Annual",
+   "q_en": "If a,b,c are three sides of a triangle where 'c' is the largest side and a² + b² = c² then it is triangle.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Right angle",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "acute angle",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "obtuse angle",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "none of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xii",
+   "group": "Annual",
+   "q_en": "Perpendicular from the center of a circle on a chord ……. it.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "intersects",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Bisects",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "trisects",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "divides",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiii",
+   "group": "Annual",
+   "q_en": "At any point on the circumference of a circle ……. tangents can be drawn.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "two",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "one and only one",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "three",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "many",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiv",
+   "group": "Annual",
+   "q_en": "The angle whose vertex is on the circle and whose sides contain chords of the circle is ….. angle.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "inscribed",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "escribed",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "right",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "acute",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xv",
+   "group": "Annual",
+   "q_en": "If 2ˣ = 2 then x = …",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}
