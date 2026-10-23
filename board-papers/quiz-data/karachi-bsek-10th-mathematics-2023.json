@@ -1,0 +1,430 @@
+{
+ "board": "BSEK Karachi",
+ "board_slug": "karachi-bsek",
+ "class": "10th",
+ "subject": "Mathematics",
+ "year": 2023,
+ "slug": "karachi-bsek-10th-mathematics-2023",
+ "questions": [
+  {
+   "n": "1",
+   "group": "Group",
+   "q_en": "If (x, 6) = (2, y − 6) then x + y = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "12",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "14",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "group": "Group",
+   "q_en": "If A = {1, 2, 3, 4} and B = {2, 4, 6} then A Δ B:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "{1, 2}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{6}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{1, 3, 6}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{1, 4}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "group": "Group",
+   "q_en": "If 1, 9, x and 45 are in proportion, then x = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "27",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "group": "Group",
+   "q_en": "If ‘m’ denotes the number of rows and ‘n’ denotes the number of columns such that m = n, then matrix is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "rectangular matrix",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "equal matrix",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "square matrix",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "null matrix",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "group": "Group",
+   "q_en": "5π/4 radians:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "115°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "225°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "135°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "45°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "group": "Group",
+   "q_en": "1 + ω = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ω²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ω",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−ω",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "group": "Group",
+   "q_en": "The fraction (2x+5)/(x²+5x+6) is known as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "proper",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "improper",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "both proper and improper",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "none of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "group": "Group",
+   "q_en": "If x/y = w/z then according to dividendo property is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(x−y)/y = (w−z)/z",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(x+y)/y = (w+z)/z",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x/(x+y) = w/(w+z)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "none of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "group": "Group",
+   "q_en": "The A.M. of (0, 90, k, 10, 100) is 40, then k = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "90",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "100",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "group": "Group",
+   "q_en": "In a right angled triangle, the greatest angle is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "100°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "80°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "110°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "group": "Group",
+   "q_en": "If the ratio of two corresponding sides of similar triangles is 5:7 then ratio of their areas is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5 : 7",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "7 : 5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "25 : 7",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "25 : 49",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "group": "Group",
+   "q_en": "Cosecθ . sinθ:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "group": "Group",
+   "q_en": "A circle touches all the sides of a triangle is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "circum circle",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "in circle",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "escribed circle",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "none of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "group": "Group",
+   "q_en": "An inscribed angle of a minor arc of a circle is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "acute",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "obtuse",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "right",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "reflex",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "group": "Group",
+   "q_en": "Diameter divides the circle into parts:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "two",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "three",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "four",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "five",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

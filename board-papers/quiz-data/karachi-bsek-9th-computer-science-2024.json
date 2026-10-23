@@ -1,0 +1,346 @@
+{
+ "board": "BSEK Karachi",
+ "board_slug": "karachi-bsek",
+ "class": "9th",
+ "subject": "Computer Science",
+ "year": 2024,
+ "slug": "karachi-bsek-9th-computer-science-2024",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group",
+   "q_en": "The device that converts hard copy into soft copy, is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Printer",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Plotter",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Scanner",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group",
+   "q_en": "GUI was developed in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Second Generation",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Fourth Generation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mechanical Era",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Electra Mechanical Era",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group",
+   "q_en": "The software which performs all basic tasks, is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Operating System",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Start Menu",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Antivirus",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Office Automation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group",
+   "q_en": "Extension of notepad is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": ".txt",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": ".xls",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": ".ppt",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": ".bmp",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group",
+   "q_en": "The software that is used for accounting purpose, is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "MS Word",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "MS Excel",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "MS Power point",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "MS Access",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group",
+   "q_en": "The topology connecting all computers to a central device Hub is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "BUS",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Star",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ring",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Tree",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group",
+   "q_en": "The number orbits used In a IPV4 address are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "16",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "32",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "64",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "128",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group",
+   "q_en": "The authentication mechanism that only allows the real person to access data or device is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "User name and Password",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "PIN",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Biometric",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Scan code",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group",
+   "q_en": "The smallest component in a database is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Record",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "File",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Data",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Field",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group",
+   "q_en": "The data type which occupies the most space in memory is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Character",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "String",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Floating point",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Double floating point",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group",
+   "q_en": "Converting digital signals to analog signals, is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Modulation",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Modification",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Bandwidth",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Multiplexing",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group",
+   "q_en": "Softwares are mostly protected under:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Patents",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Copyrights",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Trademark",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Logos",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

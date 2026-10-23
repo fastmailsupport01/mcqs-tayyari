@@ -1,0 +1,346 @@
+{
+ "board": "BSEK Karachi",
+ "board_slug": "karachi-bsek",
+ "class": "10th",
+ "subject": "Chemistry",
+ "year": 2025,
+ "slug": "karachi-bsek-10th-chemistry-2025",
+ "questions": [
+  {
+   "n": "1",
+   "group": "Group",
+   "q_en": "The unit of active mass is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "gm/cm³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "mol dm⁻⁴",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "dm³",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "mg",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "group": "Group",
+   "q_en": "pH value of black coffee is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10.2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "12.0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3.8",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5.0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "group": "Group",
+   "q_en": "It is used for surfacing roads:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Neptha",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Paraffin",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Coal",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Bitumen",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "group": "Group",
+   "q_en": "Protein is derived from Greek word proteios which means:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Second",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "First",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Third",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "group": "Group",
+   "q_en": "In the reaction N₂ + 2O₂ ⇌ 2NO₂ equilibrium constant expression is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "|N₂||O₂| / O",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "|NO| / |N₂||O₂|",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "|N₂||O₂| / |NO|²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "|NO|² / |N₂||O₂|²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "group": "Group",
+   "q_en": "The functional group – COOH is used for:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Alkynes",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Alcohols",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Phenol",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Carboxylic Acid",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "group": "Group",
+   "q_en": "Benzene is a/an:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Inorganic compound",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Heterocyclic compound",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "cyclic compound",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Alicyclic compound",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "group": "Group",
+   "q_en": "Glucose is a/an:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Saccharides",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ketoses",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Pentosts",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "aldoses",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "group": "Group",
+   "q_en": "This vitamin helps in clotting of blood:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "D",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "E",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "K",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "group": "Group",
+   "q_en": "It causes the production of smog:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "sulphurdioxide",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Carbon monoxide",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Nitrogen oxide",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ozone",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "group": "Group",
+   "q_en": "Water which does not form lather with soup, is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Soft water",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Polluted water",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Hard water",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Distilled water",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "group": "Group",
+   "q_en": "Sensitive and technical procedure is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Advanced Instrumental method",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Instrumental method",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Spectroscopy method",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Classical method",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

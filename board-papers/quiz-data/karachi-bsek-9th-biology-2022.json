@@ -1,0 +1,682 @@
+{
+ "board": "BSEK Karachi",
+ "board_slug": "karachi-bsek",
+ "class": "9th",
+ "subject": "Biology",
+ "year": 2022,
+ "slug": "karachi-bsek-9th-biology-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group",
+   "q_en": "Science of identification and classification of organism is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Histology",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cytology",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Taxonomy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Anatomy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group",
+   "q_en": "Scientific name of frog is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Palaeon",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Rana tigrina",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Periplaneta",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Pheretima",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group",
+   "q_en": "Volvox is a polyphyletic genus which belongs to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Green algae",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Red algae",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Brown algae",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group",
+   "q_en": "Biological method involves all of the following, except :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Data collection",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Observation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Experiment",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Proportion",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group",
+   "q_en": "Field of research that examines mathematical representation of : biological system, is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ratio",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Proportion",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mathematical Biology",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Law",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group",
+   "q_en": "These are involved in classification, except:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Analogous",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Homologous",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cytology",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Genetics",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group",
+   "q_en": "Cell organelle found in animal cell and help in intracellular : digestion:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Lysosomes",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ribosomes",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mitochondria",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Golgi apparatus",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group",
+   "q_en": "The comparison of two values is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ratio",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Proportion",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Graph",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Table",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group",
+   "q_en": "Members of this kingdom have cell wall and are all : heterotrophic:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Monera",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Protista",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Plantae",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Fungi",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group",
+   "q_en": "Sequence of physiological changes by which cell commit suicide, : is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Apoptosis",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Necrosis",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Apomixes",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group",
+   "q_en": "The point where the enzyme is most active, is known as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Neutral pH",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Acidic pH",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "pH",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "pH",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group",
+   "q_en": "Stage of aerobic respiration takes place at the cristae of mitochondria, is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electron transport chain",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Glycolysis",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Krebs's cycle",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "C3 cycle C3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group",
+   "q_en": "Phenomenon in which pair of homologous chromosome fails to separate is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Non disjunction",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Terminalization",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Synapsis",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Linkage",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group",
+   "q_en": "Each mole of ATP stores energy: : ATP",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "7.3 kcal",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "7.3 kj",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7.3 kj",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "7.3 kcal",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group",
+   "q_en": "Chemical reaction requires these particular conditions to carry down at Proper rate:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Temperature and nature",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Nature and pressure",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Nature and structure",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Temperature and pressure",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group",
+   "q_en": "Deficiency of vitamin – K causes the disease of: : K",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Rickets",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Anemia",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Scurvey",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Beriberi",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group",
+   "q_en": "Movement of Water molecules from the area of higher : potential to the area of lower water potential, is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Diffusion",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Osmosis",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Active transport",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Water potential",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group",
+   "q_en": "Secondary cell wall is made up of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Pectin and Cellulose",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cellulose and Protein",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cellulose and Lignin",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Lignin and Pectin",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group",
+   "q_en": "All factors fled enzyme's activity, except:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "substrate concentration",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Organic solvent",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Temperature",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "pH",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group",
+   "q_en": "These are involved in the clotting of blood:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Platelets",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Haemoglobin",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Albumin",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Globulin",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "group": "Group",
+   "q_en": "The movement of organic material (food) takes place through: : ( )",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Xylem",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Vessels",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Tracheid",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Phloem",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "group": "Group",
+   "q_en": "In human digestive system, trachea and esophagus both : connect to the:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Large intestine",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Stomach",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Pharynx",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Rectum",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "group": "Group",
+   "q_en": "Splitting of water in presence of light, is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hydrolysis",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Glycolysis",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Photolysis",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "group": "Group",
+   "q_en": "Metabolic reactions are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Constructive",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Destructive",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Inhibiting",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

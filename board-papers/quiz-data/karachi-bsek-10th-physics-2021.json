@@ -1,0 +1,626 @@
+{
+ "board": "BSEK Karachi",
+ "board_slug": "karachi-bsek",
+ "class": "10th",
+ "subject": "Physics",
+ "year": 2021,
+ "slug": "karachi-bsek-10th-physics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group",
+   "q_en": "The center of gravity of a uniform rod is at the:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "end of rod",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "centre of rod",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "edge of rod",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "none of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group",
+   "q_en": "If Fx = 3N and Fy = 4N, then value of F will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "7",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group",
+   "q_en": "Time period is the reciprocal of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Frequency",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Amplitude",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Vibration",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group",
+   "q_en": "An object appears in lighter in water because of one of the properties of water:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Elasticity",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Surface tension",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Viscosity",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Buoyancy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group",
+   "q_en": "The speed of light in air is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3 × 108 m/s",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3 × 106 m/s",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3 × 1010 m/s",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.86 × 108 m/s",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group",
+   "q_en": "Which of the following is more penetrating?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "α − rays",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "β − rays",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "γ − rays",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "none of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group",
+   "q_en": "One radian is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5.73°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "57.3°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "53.7°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "573°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group",
+   "q_en": "Radius of curvature of a concave mirror is 20 cm, its focal length will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "20 cm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "15cm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10 cm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5cm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group",
+   "q_en": "The only scalar quantity is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Displacement",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Work",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Force",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Velocity",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group",
+   "q_en": "If the speed of a body is doubled, its kinetic energy becomes:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Half",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Twice",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Three Times",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Four Times",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group",
+   "q_en": "The radiation hat produces the sensation of heat is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Invisible Light",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ultraviolet Rays",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Infrared Rays",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Visible Light",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group",
+   "q_en": "According to Quantum Theory of light photon are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Waves",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Electromagnetic Waves",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Energy Packets",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Particles",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group",
+   "q_en": "The relation between electric current and the magnetic field was discovered by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Newton",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Fleming",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Faraday",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Oersted",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group",
+   "q_en": "If the mass of a body is 5 kg, its weight will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4.9 N",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "49N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "9.8N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.49N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group",
+   "q_en": "Archimedes principle is applied to determine:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Specific Heat",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Specific Gravity",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mass",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group",
+   "q_en": "The formula of volume of sphere is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "πr2l",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "πr3l",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4 3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3 3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group",
+   "q_en": "Magnetic lines of force can easily pass through:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Iron",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Air",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Water",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Wood",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group",
+   "q_en": "If q = 6cm and p = 3cm then the magnification of the lens is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group",
+   "q_en": "The unit of capacity of a capacitor is known as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Coulomb",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Volt",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Farad",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ohm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group",
+   "q_en": "The branch of science deals with interaction of matter and energy is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Astronomy",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Chemistry",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Physics",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Biology",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "group": "Group",
+   "q_en": "The specific heat of water is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4200 J kg−1k−1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2100 J kg−1k−1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "500 J kg−1k−1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1000 J kg−1k−1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "group": "Group",
+   "q_en": "The produce N-Type crystals germanium is doped with a substance that is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Divalent",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Trivalent",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Tetravalent",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Pentavalent",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

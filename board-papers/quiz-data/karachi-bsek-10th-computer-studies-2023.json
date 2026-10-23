@@ -1,0 +1,346 @@
+{
+ "board": "BSEK Karachi",
+ "board_slug": "karachi-bsek",
+ "class": "10th",
+ "subject": "Computer Studies",
+ "year": 2023,
+ "slug": "karachi-bsek-10th-computer-studies-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group",
+   "q_en": "The BASIC language developed in the:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mid-40s",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Mid-50s",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mid-60s",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mid-70s",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group",
+   "q_en": "It deletes the program currently in memory and clears all variables:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CLS",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "KILL",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NEW",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "DELETE",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group",
+   "q_en": "Errors detected by the use, are called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Syntax errors",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Logical errors",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Runtime errors",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group",
+   "q_en": "AND, OR and NOT operators are known as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Arithmetic operators",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Relational operators",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Logical operators",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group",
+   "q_en": "The functions, defined by the program, are called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Built-in-function",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "User-defined function",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Sub functions",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group",
+   "q_en": "If we are to write more than one statement in a line we use a:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Colon (:)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Semi colon (;)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Comma (,)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Bar (-)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group",
+   "q_en": "The computer language has its own set of words, that is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Command",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Statement",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Function",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Reserved words",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group",
+   "q_en": "This command is used to exit from BASIC and to return to operating system:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CLEAR",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "KILL",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "SYSTEM",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NEW",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group",
+   "q_en": "The process of finding and removing the errors in a computer program, is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Deleting",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Debugging",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Coding",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group",
+   "q_en": "The computer receives the numerical and string data during program execution with the help of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "LET statement",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "REM statement",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "INPUT statement",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "PRINT statement",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group",
+   "q_en": "The screen output is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Softcopy",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Software",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Hardcopy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Hardware",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group",
+   "q_en": "A statement that assigns a value to a variable is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "REM statement",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "PRINT statement",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "LET statement",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "LOCATE statement",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

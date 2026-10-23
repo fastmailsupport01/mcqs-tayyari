@@ -1,0 +1,346 @@
+{
+ "board": "BSEK Karachi",
+ "board_slug": "karachi-bsek",
+ "class": "9th",
+ "subject": "Computer Science",
+ "year": 2023,
+ "slug": "karachi-bsek-9th-computer-science-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group",
+   "q_en": "A web page is a document commonly written in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "HTML",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "HTLM",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Machine code",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Low level code",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group",
+   "q_en": "An Intermediate storage, available inside microprocessor is known as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Internal cache",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ROM",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "External cache",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group",
+   "q_en": "A method through which personal information, using fake e-mail and websites are obtained from:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hacking",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Phishing",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cracking",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Click jacking",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group",
+   "q_en": "For transmission, FM, AM, TV and cordless phones use:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Microwaves",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Magnetic waves",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Radio waves",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ultra violet waves",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group",
+   "q_en": "If you are an electrical or electronic engineer, you should join:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ANSI",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "IEEE",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "IETF",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ITU",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group",
+   "q_en": "For MS-Office 2013 the minimum requirement of processor is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.6 GHz",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2GHz",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.8 GHz",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3GHz",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group",
+   "q_en": "The operating system in which jobs are executed in group, is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Time sharing",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Real time",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Batch processing",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Single user",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group",
+   "q_en": "The codes used in HTML are denoted by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "{}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": ">>",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "<<",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "<>",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group",
+   "q_en": "Communication system is made up of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Five components",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Three components",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Six components",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Four components",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group",
+   "q_en": "The loss of energy in transmission signals, refer to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "noise",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "jitter",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "distortion",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "attenuation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group",
+   "q_en": "Since it neither harms and nor it steals data, so the least harmful malware is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Trojan",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Adware",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Spyware",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Virus",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group",
+   "q_en": "A web browser translates codes in a web page if the extension of the document is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": ".pdf",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": ".doc",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": ".txt",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": ".html",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

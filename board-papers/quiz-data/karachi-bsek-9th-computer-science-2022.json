@@ -1,0 +1,682 @@
+{
+ "board": "BSEK Karachi",
+ "board_slug": "karachi-bsek",
+ "class": "9th",
+ "subject": "Computer Science",
+ "year": 2022,
+ "slug": "karachi-bsek-9th-computer-science-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group",
+   "q_en": "The device that converts softcopy into hardcopy, is called",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Printer",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Plotter",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Scanner",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Barcode reader",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group",
+   "q_en": "The service that is responsible for making websites publicly accessible through the internet is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Web Server",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Web Hosting",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Website",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Web Browser",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group",
+   "q_en": "Media player software is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Business",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Educational",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Entertainment",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Productivity",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group",
+   "q_en": "Modern languages use:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Compiler",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Interpreter",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Convertor",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Assembler",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group",
+   "q_en": "Disk Operating System (DOS) is an example of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Real Time Processing",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Multi-Processing",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Single User",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Multi User",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group",
+   "q_en": "Computer cannot start without:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Operating System",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Utility Program",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Device Driver",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Business Software",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group",
+   "q_en": "A program that enables user to interact with computer, is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "My Document",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Start Menu",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Desktop",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Interface",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group",
+   "q_en": "Software that is used for accounting purpose is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "MS-Word",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "MS-Excel",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "MS-Power Point",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "MS-Access",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group",
+   "q_en": "The function which is used to re-arrange data according to specific criteria, is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Filtering",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Sorting",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Organizing",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Grouping",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group",
+   "q_en": "If we want to change the overall design of a MS-Word Document, we should use:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Themes",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Page Layout",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Watermark",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Margins",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group",
+   "q_en": "Software are mostly protected under:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Patents",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Copyrights",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Trademarks",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Logos",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group",
+   "q_en": "In MS-Excel, charts are basically used to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Design Table",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Organize Data in Table",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Sort Data",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Show Data Graphically",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group",
+   "q_en": "Wired media is also called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Targeted Media",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Directed Media",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Guided Media",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Unguided Media",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group",
+   "q_en": "Which of the following Microsoft office package is DBMS?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "MS-Word",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "MS-Excel",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "MS-Power Point",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "MS-Access",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group",
+   "q_en": "In relational database, keys are used to create a:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Table",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Fields",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Records",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Relationship",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group",
+   "q_en": "Change in the shape of signal between sender and receiver, is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Attenuation",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Interruption",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Noise",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Distortion",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group",
+   "q_en": "Converting digital signal to analog signal, is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Modulation",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Modification",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Bandwidth",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Multiplexing",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group",
+   "q_en": "The broad term that encompasses different harmful software is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Virus",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Malware",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Adware",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Spyware",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group",
+   "q_en": "The malware that replicates itself and doesn’t need to attach with any file is a/an:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Virus",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Worm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Adware",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Spyware",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group",
+   "q_en": "The number of users that can access the resources simultaneously on a multiuser OS is/are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "One",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Two",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Many",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Only Administrator",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "group": "Group",
+   "q_en": "In which operating system jobs are executed in groups?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Batch Processing",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Time Sharing",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Single User",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Real Time",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "group": "Group",
+   "q_en": "A web browser will translate the codes in a web page if the extension of the document is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": ".html",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": ".txt",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": ".doc",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": ".pdf",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "group": "Group",
+   "q_en": "In a database table of a “Students”, the address of the student will be a/an:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Record",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Field",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Entry",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Data Type",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "group": "Group",
+   "q_en": "The “tag” used to automatically add line space before and after the containing text is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "<br>",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "<hr>",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "<p>",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "<pre>",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

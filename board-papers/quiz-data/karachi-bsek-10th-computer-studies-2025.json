@@ -1,0 +1,346 @@
+{
+ "board": "BSEK Karachi",
+ "board_slug": "karachi-bsek",
+ "class": "10th",
+ "subject": "Computer Studies",
+ "year": 2025,
+ "slug": "karachi-bsek-10th-computer-studies-2025",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group",
+   "q_en": "\"Continue\" statement controls to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "The top of loop",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "The end of loop",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "The top of function",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "The end of function",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group",
+   "q_en": "The universal gate is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "NOR",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NOT",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "OR",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group",
+   "q_en": "With the combination of three variables, outputs are expected altogether:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Four",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Six",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Eight",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ten",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group",
+   "q_en": "When the data is pushed in stack, it means the data is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "inserted",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "deleted",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "sorted",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Editied",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group",
+   "q_en": "!= operator belongs to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Relational",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Logical",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Arithmetical",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group",
+   "q_en": "To compare two values of variables, the correct operator is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "=",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "<=",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "==",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group",
+   "q_en": "Loop within a loop is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Inner loop",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Outer loop",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Enclosed loop",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nested loop",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group",
+   "q_en": "\"break\" statements is used with:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "if",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "switch",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "for",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "while",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group",
+   "q_en": "To change the position of sprite on screen, we use:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Coordinate",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Stage information",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Command pallets",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Costume Tap",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group",
+   "q_en": "In binary tree, each child can have maximum:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "one node",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "two nodes",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "three nodes",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "four nodes",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group",
+   "q_en": "Syntax of High Level Language is easily readable for:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "humans",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "machines",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "human and machines both",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "none of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group",
+   "q_en": "The logic of program is graphically called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Date structures",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Graph",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Algorithm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Flowchart",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

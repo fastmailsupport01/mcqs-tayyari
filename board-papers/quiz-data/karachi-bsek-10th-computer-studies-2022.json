@@ -1,0 +1,687 @@
+{
+ "board": "BSEK Karachi",
+ "board_slug": "karachi-bsek",
+ "class": "10th",
+ "subject": "Computer Studies",
+ "year": 2022,
+ "slug": "karachi-bsek-10th-computer-studies-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group",
+   "q_en": "The type of function which is the part of a computer language is known as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "user-define function",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "library function",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "sub-program",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group",
+   "q_en": "The process of converting source code into object code is known as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Compiling",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Executing",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Linking",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Saving",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group",
+   "q_en": "An inverter is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "OR",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "AND",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NOT",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "none of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group",
+   "q_en": "Step by step solution of a problem in simple language is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Problem solving",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Algorithm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Flowchart",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Data Structure",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group",
+   "q_en": "The looks of sprite can be changed by using:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "backdrop tab",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "costume tab",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "script tab",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "control tab",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group",
+   "q_en": "The type of data that is used for decimal point value is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "int",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "char",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "boot",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "float",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group",
+   "q_en": "The parts of switch statements are \"case\" and:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "have",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "if",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "default",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "for",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group",
+   "q_en": "Loop within a loop is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "inner",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "outer",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "enclosed",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "nested",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group",
+   "q_en": "In a flowchart, an arrow represents:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "decision making",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "start",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "data flow",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "stop",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group",
+   "q_en": "\"!=\" operator belongs to which type of operator?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Arithmetic",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Logical",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Relational",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group",
+   "q_en": "Which of the following needs pressing \"Enter key\" from keyboard?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "getch()",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "getche()",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "getchar()",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "gets()",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group",
+   "q_en": "In Boolean Algebra, A.A =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A̅",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group",
+   "q_en": "Which operator is used for input stream from the following:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "<",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": ">>",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "<<",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "→",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group",
+   "q_en": "The Boolean expression of NOR gate two variables is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A+B̅",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A̅+B̅",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A+B",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A̅.B̅",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group",
+   "q_en": "To send value, to the calling function we use:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "throw statement",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "send statement",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "return statement",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "back statement",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group",
+   "q_en": "The number of bytes used by \"int\" type in C++ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group",
+   "q_en": "C++ statement ends at:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": ".",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": ";",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": ",",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": ":",
+     "ur": ""
+    },
+    {
+     "k": "E",
+     "en": "",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group",
+   "q_en": "In scratch, the character which moves on the stage is called a:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "sprite",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "command",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "script",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "event",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group",
+   "q_en": "Which of the following operator works only with integer value?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "/",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "%",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "+",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "*",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group",
+   "q_en": "The process of given variable, its starting value is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "declaring",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "naming",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Initializing",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "none of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "group": "Group",
+   "q_en": "The universal gate is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "NAND Gate",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "AND Gate",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "OR Gate",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "group": "Group",
+   "q_en": "The word \"prototype\" means:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Declaration",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Calling",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Definition",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "group": "Group",
+   "q_en": "All errors detected by a user are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "syntax errors",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "run time errors",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "logical errors",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "none of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "group": "Group",
+   "q_en": "\"break\" statement is used with:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "if",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "switch",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "for",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "while",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

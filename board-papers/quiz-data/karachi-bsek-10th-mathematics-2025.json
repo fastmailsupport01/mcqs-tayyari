@@ -1,0 +1,430 @@
+{
+ "board": "BSEK Karachi",
+ "board_slug": "karachi-bsek",
+ "class": "10th",
+ "subject": "Mathematics",
+ "year": 2025,
+ "slug": "karachi-bsek-10th-mathematics-2025",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group",
+   "q_en": "Which one is subset of N:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Z",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Q",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "E",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "P",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group",
+   "q_en": "If A = {1, 2, 3, 4} and = {2, 4, 6}, then A∆B =.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "{1, 2}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{6}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{1, 3}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{1, 3, 6}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group",
+   "q_en": "If a : b = c : d then according to alternator property:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a = c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a+b = c+d",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "b = d",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a = b",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group",
+   "q_en": "The order of matrix [1 5 8] is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3×1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1×2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1×3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3×3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group",
+   "q_en": "If two circle of radil 5cm and 2cm touch each other internally, then the distance between their centres is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5cm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10cm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3cm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2cm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group",
+   "q_en": "An improper fraction can be reduced into proper fraction by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Addition",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Multiplication",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Subtraction",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Division",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group",
+   "q_en": "The Arithmetic mean of {0, 90, k, 10, 100} is 40 then k =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "90",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "100",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group",
+   "q_en": "Which of the following are the sides of a right angled triangle:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3, 4, 5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2, 3, 4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5, 6, 7",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4, 5, 6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group",
+   "q_en": "In a right angled triangle, the greatest angle is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "100°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "80°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "110°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group",
+   "q_en": "A circle is an example of a curve:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Simple and closed",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Simple and open",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Non Simple and closed",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Non Simple and open",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group",
+   "q_en": "Diameter divides the circle into:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Two parts",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Three parts",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Four parts",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group",
+   "q_en": "Two equilateral triangles are also:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Congruent",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Similar",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Proportional",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Equivalent",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group",
+   "q_en": "A circle which touches all the sides of a triangle is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Circum circle",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "In-circle",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ex-circle",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group",
+   "q_en": "The symbol of similarity of triangle is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "=",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "≅",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "~",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "↔",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group",
+   "q_en": "Cosecθ . Sinθ =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,710 @@
+{
+ "board": "BSEK Karachi",
+ "board_slug": "karachi-bsek",
+ "class": "10th",
+ "subject": "Mathematics",
+ "year": 2021,
+ "slug": "karachi-bsek-10th-mathematics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group",
+   "q_en": "{0,1,2,3,.........} is the set of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Integers",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Whole-Numbers",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Even Numbers",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Prime Numbers",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group",
+   "q_en": "(−6, −8) is in quadrant:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1st",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2nd",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3rd",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4th",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group",
+   "q_en": "If log_a 16 = 4 than a =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "16",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group",
+   "q_en": "If a + b = 2 and a − b = 2 then a² + b² =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group",
+   "q_en": "(√x + √y)(√x − √y):",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x + y",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x² + y²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x − y",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x² − y²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group",
+   "q_en": "The solution set of √(y−2) = −4 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "{18}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{±4}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group",
+   "q_en": "Order of [a + b  c] is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 × 2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3 × 1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2 × 3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1 × 3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group",
+   "q_en": "The degree of polynomial x³y + xy + 25 is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group",
+   "q_en": "A triangle having no side congruent, is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Equilateral Triangle",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Isosceles Triangle",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Scalene Triangle",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group",
+   "q_en": "The value of sec 45° is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "√2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/√2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group",
+   "q_en": "If R = {(1,2), (2,3), (3,4)} then Dom(R) = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "{1}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{1,2}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{2,3,4}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{1,2,3}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group",
+   "q_en": "Additive inverse of a − b is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/(a−b)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "a + b",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−a − b",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "b − a",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group",
+   "q_en": "The natural logarithm has the base:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "e",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group",
+   "q_en": "(x² − y²) ÷ (x − y) =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x + y",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x² + y²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x − y",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group",
+   "q_en": "H. C. F. of x³ − 8 and x⁴ − 16 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x³ − 8",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x⁴ − 16",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x² − x + 2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group",
+   "q_en": "2√8 + 6√8 − 2√2 =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "6√2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4√2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "12√2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10√2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group",
+   "q_en": "If [[2, 2], [8, p]] is a singular matrix then the value of p is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "7",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group",
+   "q_en": "A chord which passes through the centre of the circle, is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "diameter",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "radius",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "tangent",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "none of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group",
+   "q_en": "cos 80° =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Sec 10°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Sin 10°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Sin 80°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cot 10°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group",
+   "q_en": "The characteristic of log 0.0226 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1̅",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "group": "Group",
+   "q_en": "L.C.M. of 9x² and 15x³ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "45x³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3x²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3x³",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "15x³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "group": "Group",
+   "q_en": "cotθ / cosθ =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "cos θ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "sin θ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "cosec θ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "sec θ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "group": "Group",
+   "q_en": "x⁴ + 16x² will be a perfect square by adding:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "16",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "64",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "group": "Group",
+   "q_en": "The sum of two complementary angles is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "360°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "180°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "45°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 25,
+   "group": "Group",
+   "q_en": "Cosec²θ − 1 = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cos²θ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Sin²θ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cot²θ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Sec²θ",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}
