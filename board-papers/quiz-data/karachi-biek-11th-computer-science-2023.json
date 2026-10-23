@@ -1,0 +1,430 @@
+{
+ "board": "BIEK Karachi",
+ "board_slug": "karachi-biek",
+ "class": "11th",
+ "subject": "Computer Science",
+ "year": 2023,
+ "slug": "karachi-biek-11th-computer-science-2023",
+ "questions": [
+  {
+   "n": "i",
+   "group": "Annual Examination",
+   "q_en": "This is an example of system software:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "MS Excel",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "MS Word",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Operating System",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Basic",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ii",
+   "group": "Annual Examination",
+   "q_en": "This is a low level language:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Assembly",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Visual Basic",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Java",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "C++",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iii",
+   "group": "Annual Examination",
+   "q_en": "This is a sequantial storage medium",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CD",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Magnetic Tape",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Punch Card",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Hard disk",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iv",
+   "group": "Annual Examination",
+   "q_en": "This topology has central hub:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mesh",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Star",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ring",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Bus",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "v",
+   "group": "Annual Examination",
+   "q_en": "The process of converting digital signals to analog signals is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Modulation",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Demodulation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Synchronization",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Transformation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vi",
+   "group": "Annual Examination",
+   "q_en": "This is a set of rules that govern data communications:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Buses",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Registers",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Routers",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Protocols",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vii",
+   "group": "Annual Examination",
+   "q_en": "This is not a computer virus:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Trojan Horse",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Time Bomb",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Avast",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Worm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "viii",
+   "group": "Annual Examination",
+   "q_en": "This is a computer virus that replicates itself:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Bug",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Worm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Vaccine",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Bomb",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ix",
+   "group": "Annual Examination",
+   "q_en": "Bluetooth is an example of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Personal area Network",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Local Area Network",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Virtual Private Network",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Wide Area Network",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "x",
+   "group": "Annual Examination",
+   "q_en": "This is a printer that works by spearing ionized ink at sheet of paper.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ink-jet Printer",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Dot matrix",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "laser Printer",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Chain Printer",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xi",
+   "group": "Annual Examination",
+   "q_en": "In topology all of the nudes in the network are connected to a single cable or line: (Note printed in scan: Correct answer is Bus)",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ring",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Star",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Tree",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mesh",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xii",
+   "group": "Annual Examination",
+   "q_en": "A television broadcast is an example of this transmission mode:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Half Duplex",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Simplex",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Full-Duplex",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Multiplex",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiii",
+   "group": "Annual Examination",
+   "q_en": "DPI stands for",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Dot Per Inch",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Decimal Per Inch",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Digit Per Inch",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Data Per Inch",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiv",
+   "group": "Annual Examination",
+   "q_en": "A group of bits that tells the computer to perform a specific operation is known as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Instruction Code",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Algorithm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Accumulator",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Register.",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "group": "Annual Examination",
+   "q_en": "A person who gains illegal access to a computer system is known as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hacker",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Spy",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Pirate",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Theif",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

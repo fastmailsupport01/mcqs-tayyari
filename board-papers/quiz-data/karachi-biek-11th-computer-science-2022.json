@@ -1,0 +1,822 @@
+{
+ "board": "BIEK Karachi",
+ "board_slug": "karachi-biek",
+ "class": "11th",
+ "subject": "Computer Science",
+ "year": 2022,
+ "slug": "karachi-biek-11th-computer-science-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Annual Examination",
+   "q_en": "One Gigabyte (GB) is equivalent to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1024 KB",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1024 MB",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1024 TB",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1024 ZB",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Annual Examination",
+   "q_en": "EBCDIC is the abbreviation of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Extended Bit Code Decimal Interchange Code",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Extended Binary Coded Decimal Interchange Code",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Extended Bit Case Decimal Interchange Code",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Extended Binary Code Decimal Interchange Code",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Annual Examination",
+   "q_en": "A bar-code reader is an example of a/an:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Processing device",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Storage device",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Input device",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Output device",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Annual Examination",
+   "q_en": "This is the common language of internet to develop a web page:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "HTML",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "BASIC",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "www",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "HTTP",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Annual Examination",
+   "q_en": "This is the fastest data communication medium:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Co-axial cable",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Twisted pair cable",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Fiber optic cable",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Microwave",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Annual Examination",
+   "q_en": "In Full duplex transmission, data travels in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "parallel direction",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "two directions but simultaneously",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "two directions but not simultaneously",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "one direction",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Annual Examination",
+   "q_en": "The internal process of starting up a computer is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "booting",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "self-start",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "warm-up",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "start-up",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Annual Examination",
+   "q_en": "This register holds the instructions awaiting execution:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "MCR",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "MBR",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "AC Register",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Program Counter",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Annual Examination",
+   "q_en": "A Computer Virus is a:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "bacteria",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "malware",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "firmware",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "hardware",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Annual Examination",
+   "q_en": "It controls all parts of the computer system:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ALU",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CU",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "MU",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "RAM",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Annual Examination",
+   "q_en": "The process of converting analogue signals into digital signals is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Modulation",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Demodulation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Telecommunication",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Communication",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Annual Examination",
+   "q_en": "DOS, Linus and Unix are the examples of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "operating system",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "viruses",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "language translator",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a program",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Annual Examination",
+   "q_en": "Hardware and software combination used for connecting similar network is a:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "router",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "gateway",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "bridge",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "switch",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Annual Examination",
+   "q_en": "A software that enables to display web pages is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "HTML",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Web Browser",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "www",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Compiler",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Annual Examination",
+   "q_en": "This program translates whole program at a time:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Interpreter",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Simulator",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Compiler",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Assembler",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Annual Examination",
+   "q_en": "This network topology always uses central server:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ring",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Star",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Bus",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Hybrid",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Annual Examination",
+   "q_en": "This technology is used in compact disks:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mechanical",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Electrical",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Electro Magnetic",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Laser",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Annual Examination",
+   "q_en": "RAM is also called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Secondary memory",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Main memory",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "External memory",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Non-volatile memory",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Annual Examination",
+   "q_en": "The electrical path used to transfer data in CPU is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Wire",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Bus",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Cable",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Port",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Annual Examination",
+   "q_en": "The set of rules to send and receive data is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Register",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Protocol",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Bus",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ethernet",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "group": "Annual Examination",
+   "q_en": "This is a sequantial storage medium:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Magnetic Disk",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Magnetic Tape",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "DVD",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Floppy Disk",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "group": "Annual Examination",
+   "q_en": "This termis used to describe the data handling capacity of a given media:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "MHz",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "bandwidth",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "byte",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "frequency",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "group": "Annual Examination",
+   "q_en": "The peripheral devices are attached with computer through:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "sockets",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "connector",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ports",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "plugs",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "group": "Annual Examination",
+   "q_en": "The network of networks is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Intranet",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Internet",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Extranet",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "LAN",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 25,
+   "group": "Annual Examination",
+   "q_en": "A group of 4 bits is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Word",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Byte",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Character",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nibble",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 26,
+   "group": "Annual Examination",
+   "q_en": "This is the physical path over which a message travels:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Compiler",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Protocol",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Medium",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Operating system",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 27,
+   "group": "Annual Examination",
+   "q_en": "OSI stands for:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Operating System Interconnection",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Open System Interconnection",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Organization for Standard Internet",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Open System Internet",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 28,
+   "group": "Annual Examination",
+   "q_en": "Illegal copies of copyrighted software is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "fake",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "privacy",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "piracy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "photocopy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 29,
+   "group": "Annual Examination",
+   "q_en": "This virus replicates itself:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "worm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "bug",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "vaccine",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "bomb",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

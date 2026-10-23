@@ -1,0 +1,934 @@
+{
+ "board": "BIEK Karachi",
+ "board_slug": "karachi-biek",
+ "class": "11th",
+ "subject": "Physics",
+ "year": 2022,
+ "slug": "karachi-biek-11th-physics-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Annual Examination",
+   "q_en": "The S.I unit of angular momentum is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "J−s",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "J/s",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "S/J",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "J−s²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Annual Examination",
+   "q_en": "If the velocity of a body is doubled and the mass is reduced to one fourth, the kinetic energy will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "doubled",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "unchanged",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "halved",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "four fold",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Annual Examination",
+   "q_en": "The range of audible sound is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 Hz to 10 Hz",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "20 Hz to 20,000 Hz",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "21,000 Hz to 24,000 Hz",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "25,000 Hz and onwards",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Annual Examination",
+   "q_en": "Bragg's law is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2dsinθ = mλ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2mλ = dsinθ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "dsinθ = mλ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "dcosθ = 2λ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Annual Examination",
+   "q_en": "If A⃗.B⃗ = 0, A⃗×B⃗ = 0 and A⃗ ≠ 0⃗ vector, then B⃗ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "zero vector",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "equal to A⃗",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "perpendicular to A⃗",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "not parallel to A⃗",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Annual Examination",
+   "q_en": "An object is falling through a viscous fluid with terminal velocity. Its velocity will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "decreased",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "increased",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "constant",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Annual Examination",
+   "q_en": "The angle between centripetal and tengential accelerations in circular motion is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "180°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "45°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Annual Examination",
+   "q_en": "One kilowatt hour is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3.6 × 10⁸ J",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3.6 × 10⁶ J",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3.9 × 10⁶ J",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3.6 × 10⁹ J",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Annual Examination",
+   "q_en": "The weight of a man is 600N at the earth, his weight on the moon where gₘ = g/6 will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3600N",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "300N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "100N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "600N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Annual Examination",
+   "q_en": "The dot product of force and velocity is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "work",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "power",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "momentum",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "energy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Annual Examination",
+   "q_en": "Huygen's Principle is used to determine:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "the speed of light",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "position of wave front",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "polarization",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "refractive index",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Annual Examination",
+   "q_en": "If F⃗ = 3î and d⃗ = 6ĵ, then work done will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2J",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "9J",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "22J",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0J",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Annual Examination",
+   "q_en": "A truck covers a distance of 360km in 5 hours, its speed will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "180 km/h",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "360 km/h",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "72 km/h",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "36 km/h",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Annual Examination",
+   "q_en": "The point which describe the motion of the whole system or body is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "inertia",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "centre of mass",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "centre of gravity",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "moments of inertia",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Annual Examination",
+   "q_en": "Wave front near the point source is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "plane",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "spherical",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "conical",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "cylinderical",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Annual Examination",
+   "q_en": "The first Muslim scientist who invented intravenous injection:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Al-Beruni",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ibn-ul-Haitham",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Yaqoob-al-Kindi",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ibn-e-Sina",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Annual Examination",
+   "q_en": "The bending of light around sharp obstacles is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Interference",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Polarization",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Refraction",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Diffraction",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Annual Examination",
+   "q_en": "î.(k̂ × ĵ) is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "î",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Annual Examination",
+   "q_en": "For oscillatory motion of a simple pendulum, restoring force is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "mgsinθ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "mgcosθ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "mgtanθ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "mg",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Annual Examination",
+   "q_en": "Dimension of ratio between angular momentum and linear momentum is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "L⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ML",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "L",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "L⁻²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "group": "Annual Examination",
+   "q_en": "If 'Mₒ' and 'Mₑ' are magnifying powers of objective and eyepiece of a compound microscope respectively, then total magnification will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mₒ × Mₑ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Mₒ − Mₑ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mₒ + Mₑ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mₒ/Mₑ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "group": "Annual Examination",
+   "q_en": "A body pushes a toy car, on a horizontal floor with a force of 10N up to a displacement of 2m, then work done by the gravity on the car is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "20J",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10J",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5J",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0J",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "group": "Annual Examination",
+   "q_en": "The acceleration of a projectile at the top of the trajectory will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "g",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "½g",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "zero",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2g",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "group": "Annual Examination",
+   "q_en": "If a vector has three rectangular components each equal to 'a' the magnitude of vector will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "√3a",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3a",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a³",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√3a",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 25,
+   "group": "Annual Examination",
+   "q_en": "In a spectrometer, parallel beam of light is obtained by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Beam splitter",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Collimator",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Diffraction Grating",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Prism",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 26,
+   "group": "Annual Examination",
+   "q_en": "It is not a vector quantity:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Force",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Torque",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Frequency",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Weight",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 27,
+   "group": "Annual Examination",
+   "q_en": "A ball is dropped from a height of 100m, its acceleration at half of its height will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "9.8 m/s²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4.9 m/s²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10 m/s²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5 m/s²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 28,
+   "group": "Annual Examination",
+   "q_en": "If elevator moves upward with the acceleration 'a', the apparent weight of a body of mass 'm' in elevator will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "mg − ma",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "mg",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "mg + ma",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 29,
+   "group": "Annual Examination",
+   "q_en": "Pitch of sound depends upon:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Amplitude",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Intensity",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Frequency",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Loudness",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 30,
+   "group": "Annual Examination",
+   "q_en": "2nd condition of equilibrium is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ΣF = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ΣF = 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Στ = 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Σa = 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 31,
+   "group": "Annual Examination",
+   "q_en": "A force acting on a body is perpendicular to its displacement, the work done is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Positive",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Negative",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Infinite",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 32,
+   "group": "Annual Examination",
+   "q_en": "Distance between two consecutive nodes in a standing wave is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "λ/4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "λ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "λ/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "λ/3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 33,
+   "group": "Annual Examination",
+   "q_en": "The number of significant figures in 2.0305 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,486 @@
+{
+ "board": "BIEK Karachi",
+ "board_slug": "karachi-biek",
+ "class": "11th",
+ "subject": "Chemistry",
+ "year": 2025,
+ "slug": "karachi-biek-11th-chemistry-2025",
+ "questions": [
+  {
+   "n": "i",
+   "group": "Annual Examination",
+   "q_en": "At 4°C the density of water is 1 gm/cm³ then the mass of 2 dm³ of water is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "8gm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "100gm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1000 gm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2000gm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ii",
+   "group": "Annual Examination",
+   "q_en": "Total number of atoms in one mole of methane (CH₄) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "6.02 × 10²³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3.01 × 10²⁴",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.81 × 10²³",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "30.1 × 10²⁴",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iii",
+   "group": "Annual Examination",
+   "q_en": "This colour has longest wave length:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Red",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Blue",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Green",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Orange",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iv",
+   "group": "Annual Examination",
+   "q_en": "The magnetic quantum number for the last sub-shell having 3 electrons in phosphorous ₁₃P³¹ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-1, 0, +1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-1, 0, -1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-1, 0, +2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-1, 0, -2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "v",
+   "group": "Annual Examination",
+   "q_en": "Maximum number of electrons in a sub-shell is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2l + 1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2l - 1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2(2l + 1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2(2l + 1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vi",
+   "group": "Annual Examination",
+   "q_en": "This is the least polar molecule:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "HF",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "HCl",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "HBr",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "HI",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vii",
+   "group": "Annual Examination",
+   "q_en": "The rate of diffusion of gas is 1/2 of that hydrogen then its molecular mass will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "8 amu",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10 amu",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "25 amu",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "50 amu",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "viii",
+   "group": "Annual Examination",
+   "q_en": "This pair of gases do not obey Dalton's law of partial pressure:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "H₂ and He",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "H₂ and O₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "N₂ and O₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NH₃ and HCl",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ix",
+   "group": "Annual Examination",
+   "q_en": "This compound does not contain hydrogen bond:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CH₄",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "H₂O",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "NH₃",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "HF",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "x",
+   "group": "Annual Examination",
+   "q_en": "In crystalline structure, the length of axes and angles are unequal then crystal system will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cubic",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Monoclinic",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Orthorhombic",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Triclinic",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xi",
+   "group": "Annual Examination",
+   "q_en": "Kc = Kp, when Δn is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "+1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xii",
+   "group": "Annual Examination",
+   "q_en": "This pair of ions is not iso-electronic:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Na⁺ and Mg²⁺",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Na⁺ and N⁻³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Na⁺ and S⁻²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Al³⁺ and Na⁺",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiii",
+   "group": "Annual Examination",
+   "q_en": "Quantum number values for 3p orbital are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "n = 2, l = 1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "n = 3, l = 2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "n = 3, l = 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "n = 3, l = 1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiv",
+   "group": "Annual Examination",
+   "q_en": "Two different solid having same crystal structure are called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Allotropy",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Polymorphous",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Isotopes",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Isomorphous",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xv",
+   "group": "Annual Examination",
+   "q_en": "A colloidal solution of a liquid into another liquid is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Emulsion",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Foam",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Gel",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Sol",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xvi",
+   "group": "Annual Examination",
+   "q_en": "This liquid shows maximum surface tension:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Water",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ethyl Alcohol",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mercury",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Gasoline",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xvii",
+   "group": "Annual Examination",
+   "q_en": "A reaction is first order with respect to \"A\" and second order with respect to \"B\" then the rate expression is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Rate = K[A][B]²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Rate = K[A]²[B]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Rate = K[A][B]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Rate = K[A][B]³",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

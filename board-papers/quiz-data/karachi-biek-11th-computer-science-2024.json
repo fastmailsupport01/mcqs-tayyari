@@ -1,0 +1,430 @@
+{
+ "board": "BIEK Karachi",
+ "board_slug": "karachi-biek",
+ "class": "11th",
+ "subject": "Computer Science",
+ "year": 2024,
+ "slug": "karachi-biek-11th-computer-science-2024",
+ "questions": [
+  {
+   "n": "i",
+   "group": "Annual Examination",
+   "q_en": "This is an object-oriented language:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Assembly",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Pascal",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "C++",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ii",
+   "group": "Annual Examination",
+   "q_en": "It is called the brain of computer:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CPU",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "MAR",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "MDR",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "IR",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iii",
+   "group": "Annual Examination",
+   "q_en": "The term PUSH in STACK means to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Add Element",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Delete Element",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Update Element",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Find Element",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iv",
+   "group": "Annual Examination",
+   "q_en": "It is unauthorized duplication of computer software:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Switching",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Networking",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Software Piracy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cyber Security",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "v",
+   "group": "Annual Examination",
+   "q_en": "This virus duplicates itself:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Trojan Horses",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Worm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Time Bomb",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "File Infector",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vi",
+   "group": "Annual Examination",
+   "q_en": "A telephone conversation is an example of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Simplex",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Half-Duplex",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Full Duplex",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "IMpex",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vii",
+   "group": "Annual Examination",
+   "q_en": "Unix is a / an:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Operating System",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Virus",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Compiler",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "API",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "viii",
+   "group": "Annual Examination",
+   "q_en": "It is used to develop a web page:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "HTML",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "HTTP",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "BASIC",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "WWW",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ix",
+   "group": "Annual Examination",
+   "q_en": "This software displays web page:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Compiler",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Browser",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Text Editor",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Spread Sheet",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "x",
+   "group": "Annual Examination",
+   "q_en": "This interface allows user to interact with the computer by typing command:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CLI",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "GUI",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CPI",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "MBR",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xi",
+   "group": "Annual Examination",
+   "q_en": "Conversion of computer code into a secret code is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Normalization",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Encryption",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Fine Code",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Data Centralization",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xii",
+   "group": "Annual Examination",
+   "q_en": "This is the scanning input device:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Keyboard",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "MAR",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mouse",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "OMR",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiii",
+   "group": "Annual Examination",
+   "q_en": "It is a line printer:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Dot Matrix",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Daisy Wheel",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Drum Printer",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Inkjet Printer",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiv",
+   "group": "Annual Examination",
+   "q_en": "A computer virus is a:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hardware",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Firmware",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Malware",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Software",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xv",
+   "group": "Annual Examination",
+   "q_en": "Monitor is a:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hardware",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Software",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Firmware",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Footwear",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,570 @@
+{
+ "board": "BIEK Karachi",
+ "board_slug": "karachi-biek",
+ "class": "11th",
+ "subject": "Mathematics",
+ "year": 2025,
+ "slug": "karachi-biek-11th-mathematics-2025",
+ "questions": [
+  {
+   "n": "i",
+   "group": "Annual Examination",
+   "q_en": "If Z = −3i + 4, then Z̄ =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3i + 4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3i − 4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−3i + 4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−3i − 4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ii",
+   "group": "Annual Examination",
+   "q_en": "For n is an even integer, then iⁿ is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "i",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−i",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1 or −1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "i or −1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iii",
+   "group": "Annual Examination",
+   "q_en": "The number of non-zero rows in echelon from of a matrix is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Order of a matrix",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Rank of matrix",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Leading column",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Leading row",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iv",
+   "group": "Annual Examination",
+   "q_en": "The cofactor A₂₂ of [[1,2,4],[−1,2,5],[0,1,−1]] =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "v",
+   "group": "Annual Examination",
+   "q_en": "If O be the urges and OP⃗ = 2î + 3ĵ − 4k̂ and OQ⃗ = 5î + 4ĵ − 3k̂, then PQ⃗ is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "7î + 7ĵ − 7k̂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−3î + ĵ − k̂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3î + ĵ + k̂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−7î + 7ĵ + 7k̂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vi",
+   "group": "Annual Examination",
+   "q_en": "The volume of tetrahedron determined by the vectors ā, b̄ and c̄ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[ā,b̄,c̄]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/3[ā,b̄,c̄]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/6[ā,b̄,c̄]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ā.(b̄ × c̄)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vii",
+   "group": "Annual Examination",
+   "q_en": "If aₙ − aₙ₋₁ = n + 1 and aₙ = 14 then a₅ =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "14",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "20",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "viii",
+   "group": "Annual Examination",
+   "q_en": "If (a^{n+1}+b^{n+1})/(aⁿ+bⁿ) is an A.M between a and b, then n is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ix",
+   "group": "Annual Examination",
+   "q_en": "Σ(n+1 to 10) n⁰ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "9",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "12",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "x",
+   "group": "Annual Examination",
+   "q_en": "If n = 0, then (n+1)!/n! =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "n",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "∞",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xi",
+   "group": "Annual Examination",
+   "q_en": "The number of ways that a machine of n beads of different colours be made is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(n + 1)!",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "n!/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(n−1)!/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(n − 1)!",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xii",
+   "group": "Annual Examination",
+   "q_en": "The number of terms in the expansion of (1 + x)⁷ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "9",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiii",
+   "group": "Annual Examination",
+   "q_en": "For |x| < 1 then 1 − x + x² − x³ + ... is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(1 + x)⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(1 − x)⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(1 + x)⁻²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(1 − x)⁻²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiv",
+   "group": "Annual Examination",
+   "q_en": "Inverse of a function exists if f it is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Injective",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Bijective",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Surjective",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Inverse",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xv",
+   "group": "Annual Examination",
+   "q_en": "Domain of the function f(x) = x²/(x²−4) is the set of all real numbers except:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "±2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xvi",
+   "group": "Annual Examination",
+   "q_en": "sin(θ/2) is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "±√((1+sinθ)/2)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "±√((1−cosθ)/2)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "±√((1+cosθ)/2)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "±√((1−sinθ)/2)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xvii",
+   "group": "Annual Examination",
+   "q_en": "Hero's formula is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "▲ = s(s−a)(s−b)(s−c)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "▲ = √((s−a)(s−b)(s−c))",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "▲ = √(s(s−a)(s−b)(s−c))",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "▲ = (a+b+c)/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xviii",
+   "group": "Annual Examination",
+   "q_en": "A circle which touches one side of the triangle externally and two extended sides internally is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "circum-circle",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "in-circle",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "tri-circle",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "escribed-circle",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xix",
+   "group": "Annual Examination",
+   "q_en": "The graph of a linear function is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "straight line",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "circle",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "parabola",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "triangle",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xx",
+   "group": "Annual Examination",
+   "q_en": "cos(sin⁻¹(1/2)) =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2/√3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2√3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√3/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/(2√3)",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

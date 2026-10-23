@@ -1,0 +1,1018 @@
+{
+ "board": "BIEK Karachi",
+ "board_slug": "karachi-biek",
+ "class": "11th",
+ "subject": "Computer Science",
+ "year": 2021,
+ "slug": "karachi-biek-11th-computer-science-2021",
+ "questions": [
+  {
+   "n": "i",
+   "group": "Annual Examination",
+   "q_en": "This virus replicate itself:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Torjan",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Worm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Bomb",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cyclone",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ii",
+   "group": "Annual Examination",
+   "q_en": "It is the process of loading the operating system into RAM:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Linking",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Compiling",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Booting",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Formatting",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iii",
+   "group": "Annual Examination",
+   "q_en": "FM stands for:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Frequent Modulation",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Functional Modulation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Frequencey Modification",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Frequency Modulation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iv",
+   "group": "Annual Examination",
+   "q_en": "This software is used to keep computer secure during communication with the internet:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Firewall",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Brower",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Media Player",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Search Engine",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "v",
+   "group": "Annual Examination",
+   "q_en": "Dot Matrix is a type of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Non-Impact Printer",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Plotter",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Antivirus",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Thermal Printers",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vi",
+   "group": "Annual Examination",
+   "q_en": "This software is used to create, store, modify, format, copy and print text:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Word processor",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Spreadsheet",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Antivirus",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Computer",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vii",
+   "group": "Annual Examination",
+   "q_en": "This is process of converting an analog signal to digital signal:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Modulation",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Demodulation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Line switchin",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Compilation",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "viii",
+   "group": "Annual Examination",
+   "q_en": "This software is used to manage and maintaion data record:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Windows",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Database",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Compiler",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Operating System",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ix",
+   "group": "Annual Examination",
+   "q_en": "The physical layout of a LAN is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Media",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Broadcast",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Packet",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Topology",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "x",
+   "group": "Annual Examination",
+   "q_en": "This computer program converts an entire program into machine code:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Generator",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Simulator",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Compiler",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Commander",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xi",
+   "group": "Annual Examination",
+   "q_en": "LCD stand for:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Logical Character Display",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Logical Code Display",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Loop Character Display",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Liquid Crystal Display",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xii",
+   "group": "Annual Examination",
+   "q_en": "Thes software enables users to wark with rows and columns of data:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Virus",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Spreadsheet",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Accumulator",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Operatings System",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiii",
+   "group": "Annual Examination",
+   "q_en": "This is a the simplest topology:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Bus",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Star",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Token ring",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Hybrid",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiv",
+   "group": "Annual Examination",
+   "q_en": "Keyboard and Mouse are examples of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Output Devices",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Input Devices",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Backup Devices",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Processing Devices",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xv",
+   "group": "Annual Examination",
+   "q_en": "This is the fastes types of computer:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Notebook",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Laptop",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Personal computer",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Super computer",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xvi",
+   "group": "Annual Examination",
+   "q_en": "Spreadsheet is a type of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Virus",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "System Software",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Application Software",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Firewall",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xvii",
+   "group": "Annual Examination",
+   "q_en": "These are the devices that accept data from outside and transfer into CPU:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Output Devices",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Input Devices",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Storage Devices",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Control Devices",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xviii",
+   "group": "Annual Examination",
+   "q_en": "This is not a perciperal device in Computer system:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Router",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Keyboard",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mouse",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Printer",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xix",
+   "group": "Annual Examination",
+   "q_en": "A byte consists of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "13 bits",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "14 bits",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8 bits",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10 bits",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xx",
+   "group": "Annual Examination",
+   "q_en": "In boolean algebra 1+0 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "01",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxi",
+   "group": "Annual Examination",
+   "q_en": "If an input A is given to un invester, the output will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-A",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxii",
+   "group": "Annual Examination",
+   "q_en": "A third generation programming language design to handle business problem is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "FORTRRAN",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "PROLOG",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "COBOL",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "FOXPRO",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxiii",
+   "group": "Annual Examination",
+   "q_en": "This is not a Boolean operation:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "AND",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "OUT",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "OR",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NOT",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxiv",
+   "group": "Annual Examination",
+   "q_en": "X Y = Y.X is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "De Morgan's Law",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Distributive Law",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Compulative Law",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Associative Law",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxv",
+   "group": "Annual Examination",
+   "q_en": "Laser beam technology is used in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Magnetice tape",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Floppy disk",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Hard disk",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Optical disc",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxvi",
+   "group": "Annual Examination",
+   "q_en": "Boolean algebra was invented by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "george Boole",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Charles Boole",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Denis Ritche",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Babbage",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxvii",
+   "group": "Annual Examination",
+   "q_en": "Once programm has been translated into machine laguage it is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A system programm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Logical programm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "An Object program",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "An application programm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxviii",
+   "group": "Annual Examination",
+   "q_en": "A group of 4 bits is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nibble",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Byte",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Bit",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Double",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxix",
+   "group": "Annual Examination",
+   "q_en": "People who gain illegal access to a computer system are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Operators",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Programmers",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "DBAs",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Hackers",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxx",
+   "group": "Annual Examination",
+   "q_en": "This device provides the network with a single point of contact for all other devices:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hub",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Repeator",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Router",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Gatway",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxxi",
+   "group": "Annual Examination",
+   "q_en": "This printer uses some sort of physical contact with the paper to produce image:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Thermal",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Non-Impact",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Impact",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Inkjet",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxxii",
+   "group": "Annual Examination",
+   "q_en": "This software allows user and application to interact with computer hardware:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Application software",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Operating system",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Data Base Management system",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Firmware",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxxiii",
+   "group": "Annual Examination",
+   "q_en": "This netwrok topology places all nodes on a singles cricular cables:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Bus",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Star",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ring",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mesh",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxxiv",
+   "group": "Annual Examination",
+   "q_en": "Arrange is descending order the units of memory TB,KB,GB,MD.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "TB>MB>GB>KB",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "MB>GB>TB>KB",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "KB>MB>GB>TB",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "TB>GB>MB>KB",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxxv",
+   "group": "Annual Examination",
+   "q_en": "How many OR gates are required to proceed X=AB+XD+EF.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xxxvi",
+   "group": "Annual Examination",
+   "q_en": "Microcomputer is also called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Desktop Computer",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Mini Computer",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Super Computer",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mainframe Computer",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

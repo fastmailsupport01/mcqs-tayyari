@@ -1,0 +1,570 @@
+{
+ "board": "BIEK Karachi",
+ "board_slug": "karachi-biek",
+ "class": "11th",
+ "subject": "Mathematics",
+ "year": 2024,
+ "slug": "karachi-biek-11th-mathematics-2024",
+ "questions": [
+  {
+   "n": "i",
+   "group": "Annual Examination",
+   "q_en": "Multiplicative inverse of (−3, 4) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(3/25, 4/25)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(3/25, −4/25)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(−3/25, −4/25)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(1, 0)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ii",
+   "group": "Annual Examination",
+   "q_en": "Real part of (2+i)/i is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iii",
+   "group": "Annual Examination",
+   "q_en": "A square matrix A is skew − symmetric if :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Aᵗ = A",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(Ā)ᵗ = A",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Aᵗ = −A",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Aᵗ = |A|",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iv",
+   "group": "Annual Examination",
+   "q_en": "If A = [−7], then |A| = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−7",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "v",
+   "group": "Annual Examination",
+   "q_en": "The number of non-zero rows in echelon form of matrix is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Order of matrix",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Leading rows",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Leading columns",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Rank of a matrix",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vi",
+   "group": "Annual Examination",
+   "q_en": "If three vectors ā, b̄ and c̄ are coplanar, then [ā b̄ c̄] = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ā",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "b̄",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "c̄",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vii",
+   "group": "Annual Examination",
+   "q_en": "k̂ × ĵ = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "î",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−î",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ĵ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−ĵ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "viii",
+   "group": "Annual Examination",
+   "q_en": "No term in G.P is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "i",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ix",
+   "group": "Annual Examination",
+   "q_en": "If a = 3, d = 7 and aₙ = 59 then n is equal to :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "9",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "11",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "x",
+   "group": "Annual Examination",
+   "q_en": "Σn is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "n(n+1)(2n+1)/6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "n(n+1)/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[(n(n+1))/2]²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "n(n+1)/4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xi",
+   "group": "Annual Examination",
+   "q_en": "If n = r, then ⁿPᵣ = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(n − r)!",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "n!",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xii",
+   "group": "Annual Examination",
+   "q_en": "1 − x + x² − x³ + ........ =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(1 − x)⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(1 + x)⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(1 + x)⁻²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(1 − x)⁻²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiii",
+   "group": "Annual Examination",
+   "q_en": "One to one function is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Inverse function",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Surjective function",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Bijective function",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Injective function",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiv",
+   "group": "Annual Examination",
+   "q_en": "A function f(x) = |x| − x² is a/an:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "odd",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Even",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Linear",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Circular",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xv",
+   "group": "Annual Examination",
+   "q_en": "(sin(θ/2) − cos(θ/2))² = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 − cosθ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1 + cosθ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1 + sinθ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1 − sinθ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xvi",
+   "group": "Annual Examination",
+   "q_en": "If f(x) = 2x + 5, then find f(2):",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "12",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "11",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xvii",
+   "group": "Annual Examination",
+   "q_en": "The region of solution in L.P problem is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Infeasibie region",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Unbounded region",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Infinite region",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Feasible region",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xviii",
+   "group": "Annual Examination",
+   "q_en": "In any triangle ABC, Area of triangle is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/2 absinγ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "absinγ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/2 absinα",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/2 absinβ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xix",
+   "group": "Annual Examination",
+   "q_en": "The period of sin(x/2) =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2π",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3π",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4π",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xx",
+   "group": "Annual Examination",
+   "q_en": "sec[sin⁻¹(−1/2)]:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "√3/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2/√3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−2/√3",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

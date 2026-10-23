@@ -1,0 +1,1130 @@
+{
+ "board": "BIEK Karachi",
+ "board_slug": "karachi-biek",
+ "class": "11th",
+ "subject": "Mathematics",
+ "year": 2022,
+ "slug": "karachi-biek-11th-mathematics-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Annual Examination",
+   "q_en": "(A')' = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "B'",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "U",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "U'",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Annual Examination",
+   "q_en": "√2 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Rational number",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Irrational number",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Odd number",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Even number",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Annual Examination",
+   "q_en": "The value of i⁹ is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−i",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "i",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Annual Examination",
+   "q_en": "If z = 3 + 4i then z + z̄ = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8i",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "16",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Annual Examination",
+   "q_en": "2x² + 3y² = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(2x + 3iy)(2x − 3iy)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(√2x + √3iy)(√2x − √3iy)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(2x − 3y)(2x + 3y)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(√2x + √3y)(√2x − √3y)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Annual Examination",
+   "q_en": "The roots of quadratic equation x² − 4x = 0 are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Imaginary",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Rational and Different",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Irrational",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Rational and Equal",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Annual Examination",
+   "q_en": "If D>0 and perfect square then roots of ax² + bx + c = 0 are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Equal",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Imaginary",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Rational",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Irrational",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Annual Examination",
+   "q_en": "The sum of the all cube roots of unity is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "w",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Annual Examination",
+   "q_en": "If 4 and −5 are the roots of an equation then quadratic equation will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x² + x − 20 = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x² − x + 20 = 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x² + x + 20 = 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x² − x − 20 = 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Annual Examination",
+   "q_en": "The matrix [[4,0,0],[0,4,0],[0,0,4]] is a:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Diagonal matrix",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Scalar matrix",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Unit matrix",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Null matrix",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Annual Examination",
+   "q_en": "If A = [[a,b],[c,d]] then Adj. A = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[[d,−b],[−c,a]]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[[a,−b],[−c,d]]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[[−a,c],[b,−d]]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[[a,c],[b,d]]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Annual Examination",
+   "q_en": "[0] is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Square matrix",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Rectangular matrix",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Scalar matrix",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Unit matrix",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Annual Examination",
+   "q_en": "If [[6,λ],[3,2]] is singular matrix then λ = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "12",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "18",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Annual Examination",
+   "q_en": "For any two non-singular n-square matrices A and B, (AB)⁻¹ = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "AB",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "B⁻¹A⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A⁻¹B⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A⁻¹B",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Annual Examination",
+   "q_en": "A binary operation * on a set is said to be associative if:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "a*b = b × a",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(a*b)*c = a*(b*c)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "a*b = b*a",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a*e = e*a = a",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Annual Examination",
+   "q_en": "If first term is a and second term is b of H.P then d = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(a−b)/ab",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ab/(a−b)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(a+b)/(a−b)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ab/(a+b)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Annual Examination",
+   "q_en": "If n ∈ N, then number of terms in (a + b)ⁿ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "n",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(n − 1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(n + 1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(n + 2)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Annual Examination",
+   "q_en": "The G.M between √2 and 1/√2 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "±2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "±√2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "±1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "±1/√2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Annual Examination",
+   "q_en": "The A.M. between 3√5 and 5√5 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "√5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2√5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3√5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4√5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Annual Examination",
+   "q_en": "0.97777 ........ =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.9̇7̇",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.97̇",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.97",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.97",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 21,
+   "group": "Annual Examination",
+   "q_en": "The harmonic mean between 2a and 2b is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "±√ab",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(a+b)/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4ab/(a+b)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2ab/(a−b)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 22,
+   "group": "Annual Examination",
+   "q_en": "A coin is tossed twice, the probability of getting both tail is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3/4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 23,
+   "group": "Annual Examination",
+   "q_en": "The value of ⁿP₀ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "n!",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/n",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "group": "Annual Examination",
+   "q_en": "The number of possible permutations of the letters of word EQUATION is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "40320",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "40032",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "40023",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "40230",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 25,
+   "group": "Annual Examination",
+   "q_en": "The value of (n+1)!/(n−1)! is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "n(n + 1)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(n + 1)!",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(n+1)/(n−1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "n(n + 1)!",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 26,
+   "group": "Annual Examination",
+   "q_en": "The middle term in the expansion (1 + 2x)⁶ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1st term",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4th term",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2nd term",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3rd term",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 27,
+   "group": "Annual Examination",
+   "q_en": "If x is so small that its square and higher powers be neglected then (1 − x)⁻² = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1 + 2x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1 − 2x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1 − x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1 + x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 28,
+   "group": "Annual Examination",
+   "q_en": "cos²θ − sin²θ = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "cos(θ/2)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "cosθ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "cos2θ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−cos2θ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 29,
+   "group": "Annual Examination",
+   "q_en": "If in ΔABC a = 2cm, b = 3cm and c = 4cm then 2s = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "6cm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "7cm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "9cm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10cm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 30,
+   "group": "Annual Examination",
+   "q_en": "tanθ cotθ = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "cosθ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "sinθ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "secθ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "cosecθ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 31,
+   "group": "Annual Examination",
+   "q_en": "If cosθ > 0 and sinθ < 0, then ρ(θ) lies in this quadrant:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1st",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2nd",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3rd",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4th",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 32,
+   "group": "Annual Examination",
+   "q_en": "sin(180° + θ) = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−cosθ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−sinθ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−tanθ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "cotθ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 33,
+   "group": "Annual Examination",
+   "q_en": "1 − cosθ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2cos²(θ/2)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2tan²(θ/2)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2sec²(θ/2)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2sin²(θ/2)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 34,
+   "group": "Annual Examination",
+   "q_en": "One degree in radians is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "180/π",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3π/180",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/180",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "one",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 35,
+   "group": "Annual Examination",
+   "q_en": "(sin²(π/2) + cos²(π/2)) − (sin²(π/3) + cos²(π/3)) = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "∞",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 36,
+   "group": "Annual Examination",
+   "q_en": "cos(−θ) = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "sinθ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−sinθ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "cosθ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−cosθ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 37,
+   "group": "Annual Examination",
+   "q_en": "In the 3rd quadrant cosecθ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "positive",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "negative",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "both positive & negative",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 38,
+   "group": "Annual Examination",
+   "q_en": "The function y = sin⁻¹x, its domain is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−1 ≤ x ≤ 1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−1 < x < 1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0 ≤ x ≤ 1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0 ≤ x < 1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 39,
+   "group": "Annual Examination",
+   "q_en": "If the radius of the circle is 'r' then its area = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2πr",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "πr",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "πr²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3πr",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 40,
+   "group": "Annual Examination",
+   "q_en": "In ΔABC, a + b − c = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2s",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2(s − a)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2(s − b)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2(s − c)",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,570 @@
+{
+ "board": "BIEK Karachi",
+ "board_slug": "karachi-biek",
+ "class": "11th",
+ "subject": "Mathematics",
+ "year": 2023,
+ "slug": "karachi-biek-11th-mathematics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Annual Examination",
+   "q_en": "If z = 4 + 3i then z + z̄:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9i",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Annual Examination",
+   "q_en": "(1 + i)² =: (where i = √−1):",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−2i",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2i",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Annual Examination",
+   "q_en": "If A = [−7], then |A|",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−7",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Annual Examination",
+   "q_en": "If |ā × b̄| = |ā . b̄| then the angle between ā and b̄ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Annual Examination",
+   "q_en": "Σ(n=3 to 20) n⁰:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "18",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "19",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "20",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Annual Examination",
+   "q_en": "The factorial form of 12.11.10 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "12!/9!",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "12!",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(12 choose 9)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(12!).(9!)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Annual Examination",
+   "q_en": "No term of a G.P. is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Negative",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "∞",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Annual Examination",
+   "q_en": "sin(α/2) = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "√((s−b)(s−c)/bc)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "√((s−c)(s−a)/ca)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√((s−a)(s−b)/ba)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√(s(s−a)(s−b)(s−c))",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Annual Examination",
+   "q_en": "Solution space of the linear inequality 2x + 3y ≤ 6 ∀ x,y ∈ R includes:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "All points above the line",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "All points on and below the line",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "All points below the line",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All points on and above the line",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Annual Examination",
+   "q_en": "A circle, which passes through all vertices of a triangle is called the:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "tri-circle",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "e-circle",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "incircle",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "circum circle",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Annual Examination",
+   "q_en": "If K is a scalar and A, B, C are the square matrices of the same order, then (kABC)ᵗ =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "kAᵗBᵗCᵗ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "kCᵗBᵗAᵗ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "k(BA)ᵗ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "kᵗ(A.B)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Annual Examination",
+   "q_en": "If (a−b)/(b−c) = a/b, then a, b and c are in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A.P",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "G.P",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "H.P",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A.G.P",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Annual Examination",
+   "q_en": "If aₙ = 5 − 3n + 2n², then a₂ₙ = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5 − 6n + 2n²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5 − 6n + 4n²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5 + 6n + 4n²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5 − 6n + 8n²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Annual Examination",
+   "q_en": "In tossing a coin, the probability of getting the tail is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Annual Examination",
+   "q_en": "1 + x + x² + x³ + ........ = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(1 + x)⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(1 − x)⁻²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(1 + x)⁻²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(1 − x)⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Annual Examination",
+   "q_en": "The graph of a linear function is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "curve",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "parabola",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "straight line",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "triangle",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Annual Examination",
+   "q_en": "If f and g are equal, where f(x) = 7x − 4 and g(x) = x, then x = :",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4/3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Annual Examination",
+   "q_en": "cos(2π + θ) =:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "sinθ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−sinθ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "cosθ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−cosθ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Annual Examination",
+   "q_en": "If y = sinx, then its range is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−1 ≤ y ≤ 1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "R",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0 ≤ y ≤ π",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−π/2 ≤ y ≤ π/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Annual Examination",
+   "q_en": "The solution of √2 sinθ − 1 = 0 in the interval [π/2, π] is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π/4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5π/4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3π/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "7π/4",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

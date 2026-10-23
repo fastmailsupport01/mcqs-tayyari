@@ -1,0 +1,430 @@
+{
+ "board": "BIEK Karachi",
+ "board_slug": "karachi-biek",
+ "class": "11th",
+ "subject": "Computer Science",
+ "year": 2025,
+ "slug": "karachi-biek-11th-computer-science-2025",
+ "questions": [
+  {
+   "n": "i",
+   "group": "Annual Examination",
+   "q_en": "The primary function of CPU in computer is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "To input data",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "To store data",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "To process data",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "To output data",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ii",
+   "group": "Annual Examination",
+   "q_en": "This is considered the 'brain' of the computer:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "RAM",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Hard disk drive",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "CPU",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Keyboard",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iii",
+   "group": "Annual Examination",
+   "q_en": "Smallest unit of the data in computer is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Bit",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Byte",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Megabyte",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Gigabyte",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "iv",
+   "group": "Annual Examination",
+   "q_en": "This programming language is commonly used for web development:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Turbo C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "C++",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Python",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "HTML",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "v",
+   "group": "Annual Examination",
+   "q_en": "In internet 'URL' stand for:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Universal Resource Locator",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Unique Resource Locator",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Unique Resource Locator",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Ultimate Resource Locator",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vi",
+   "group": "Annual Examination",
+   "q_en": "This is not a type of computer network:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "LAN",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "WAU",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "MAN",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "CPU",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "vii",
+   "group": "Annual Examination",
+   "q_en": "The purpose of a compiler in programming language is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "convert high-level language into machine code",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "execute the program",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "translate source code into assembly language",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "debug errors in the code",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "viii",
+   "group": "Annual Examination",
+   "q_en": "SNA stands for:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "System Network Architecture",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Small Network Area",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Small Network Access",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Serial Network Adaptor",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "ix",
+   "group": "Annual Examination",
+   "q_en": "The third generation of computer used:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Vacuum tubes",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Transistors",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Integrated circuits",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Micro processors",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "x",
+   "group": "Annual Examination",
+   "q_en": "Data transmission in which data flows in both directions at the same time is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Simplex",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Half Duplex",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Full Duplex",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Multiplex",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xi",
+   "group": "Annual Examination",
+   "q_en": "This is not a type of operating system:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Windows",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Linux",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mac OS",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Oracle",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xii",
+   "group": "Annual Examination",
+   "q_en": "This is an example of stem software:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "MS Word",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Adobe Photoshop",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Windows",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Chrome Browser",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiii",
+   "group": "Annual Examination",
+   "q_en": "Main purpose of data communication is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "To store large amounts of data",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "To display images",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "To transfer data between devices",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "To protect against viruses",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xiv",
+   "group": "Annual Examination",
+   "q_en": "Logic elite produce 1 output when all of its inputs are set to 1 otherwise 0:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "AND",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "NOT",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "OR",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NOR",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "xv",
+   "group": "Annual Examination",
+   "q_en": "Computer can't boot if it does not have:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Compiler",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Browser",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Operating System",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Loader",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}
