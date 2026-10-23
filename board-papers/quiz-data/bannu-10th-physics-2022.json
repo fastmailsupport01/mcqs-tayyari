@@ -1,0 +1,346 @@
+{
+ "board": "BISE Bannu",
+ "board_slug": "bannu",
+ "class": "10th",
+ "subject": "Physics",
+ "year": 2022,
+ "slug": "bannu-10th-physics-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Single Paper",
+   "q_en": "The bending of waves around the edges of the obstacle is.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Reflection",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Refraction",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Diffraction",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Damping",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Single Paper",
+   "q_en": "The speed of sound on a warm day when the outdoor temperature is 38°C is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "331 m/s",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "354 m/s",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "345 m/s",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "362 m/s",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Single Paper",
+   "q_en": "Which of the following cannot transmit sound?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Solid",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Liquid",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Gas",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Vaccum",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Single Paper",
+   "q_en": "A convex lens with focal length 8.00 cm has the power of lens",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2.05 D",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4 D",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "12.5 D",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "16 D",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Single Paper",
+   "q_en": "The unit of Electric Potential is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Farad",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Coulomb",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Volt",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NC⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Single Paper",
+   "q_en": "A capacitor C has a charge Q. The actual charges on its plates are.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Q, Q",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Q,0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Q/2, Q/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Q, -Q",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Single Paper",
+   "q_en": "The wire made from which of the following material is a conductor.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Silver",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Silk",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Glass",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Rubber",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Single Paper",
+   "q_en": "Slip rings are part of",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "DC motor",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "AC generator",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Transformer",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Magnet",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Single Paper",
+   "q_en": "A step-up transformer increases",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Power",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Voltage",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Energy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Current",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Single Paper",
+   "q_en": "The Boolean equation for NAND gate is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "X = AB",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "X = A+B",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "X = AB with overline",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "X = A with overline + B with overline",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Single Paper",
+   "q_en": "Telephone communication is the example of transmission of signals through",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electric wires",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Optical fibers",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Electromagnetic waves",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Single Paper",
+   "q_en": "Origin of energy from the sun and star is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Fusion",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Fission",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Carbon dating",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Radioactivity",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,514 @@
+{
+ "board": "BISE Bannu",
+ "board_slug": "bannu",
+ "class": "11th",
+ "subject": "Physics",
+ "year": 2021,
+ "slug": "bannu-11th-physics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Single Paper",
+   "q_en": "The longer the pendulum, greater will be it's........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Frequency",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Time period",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "mass",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Single Paper",
+   "q_en": "The time period of a simple pendulum is 2 sec. It its length is increased by 4 times then its T..........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "8sec",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "12sec",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4sec",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "16sec",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Single Paper",
+   "q_en": "The portion of a wave below the mean position is called...",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Crest",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "trough",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "wave length",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "amplitude.",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Single Paper",
+   "q_en": "The principle of diffraction grating is based on the ..........and diffraction of light waves.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Reflection",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "refraction",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "interference",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "none",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Single Paper",
+   "q_en": "Maximum work can be obtained in ..........process.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Adiabatic",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Isochoric",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "cyclic",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Isothermal",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Single Paper",
+   "q_en": "2π radians = .........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "360⁰",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1 revolution",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "180⁰",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Both A and B",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Single Paper",
+   "q_en": "Work can be expressed in terms of base units are......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Kg ms⁻²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "kg m².s⁻²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "kg m².s⁻³",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "kg m⁻¹.s⁻²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Single Paper",
+   "q_en": "The end point is usually called .......of the vector.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Tail",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "origin",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "mid",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "head",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Single Paper",
+   "q_en": "When moment arm \"r\"and force are parallel then Torque is..........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Negative",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "maximum",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "zero",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "minimum",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Single Paper",
+   "q_en": "The vertical component of velocity changes uniformly and is.....at height point in projectile motion.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Maximum",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "minimum",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "constant",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Single Paper",
+   "q_en": "If θ = 1800 then work done is...........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Positive",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "zero",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "negative",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "maximum",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Single Paper",
+   "q_en": "In British Engineering system the unit of power is...",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Pascal",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Joule",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Watt",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "horse power",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Single Paper",
+   "q_en": "If momentum is increased by 20% then kinetic energy increases by..........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "55%",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "44%",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "77%",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "66%",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Single Paper",
+   "q_en": "The minimum required velocity to put a satallte inot the orbit is called.........velocity.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cirtical",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "terminal",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "angular",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "escape",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Single Paper",
+   "q_en": "Moment of Inertia of a Ring or Thin walled cylinder is I ...",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/2MR²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "MR²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2/5MR²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/12MR²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Single Paper",
+   "q_en": "The unit for a solid angle in three deimensional space is...",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Radian",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "steradian",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Candela",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Revolution",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Single Paper",
+   "q_en": "Bernoulli's equation is based upon law of conservation of..",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Momentum",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "charge",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mass",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "energy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Single Paper",
+   "q_en": "Density of air is...................",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.2kg. m⁻³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.2g. cm⁻³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "11.2 kg.m⁻³",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "11.2 g. cm⁻³",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

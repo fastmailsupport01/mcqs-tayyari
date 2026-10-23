@@ -1,0 +1,430 @@
+{
+ "board": "BISE Bannu",
+ "board_slug": "bannu",
+ "class": "9th",
+ "subject": "Mathematics",
+ "year": 2022,
+ "slug": "bannu-9th-mathematics-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Single Paper",
+   "q_en": "Age of x years old boy after 4 years shall be ______ years.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4 + x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Single Paper",
+   "q_en": "a < b, b < c ⇒ a < c shows ______ property",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Transversal",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Transpose",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Transitive",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Trichotomy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Single Paper",
+   "q_en": "The line x = a is parallel to ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x-axis",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "y-axis",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Both A & B",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Neither A nor B",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Single Paper",
+   "q_en": "The point having its coordinates (0,0) is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ordinate",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Abscissa",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Origin",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Critical point",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Single Paper",
+   "q_en": "Any non zero number raised to the zero power equals ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Not defined",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Single Paper",
+   "q_en": "L.C.M of x² - x + 1 and x³ + 1 is ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x² - x + 1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x³ + 1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(x² - x + 1)(x - 1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(x + 1)³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Single Paper",
+   "q_en": "y coordinates of (y, -x) is ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "y",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-y",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Single Paper",
+   "q_en": "The coordinates of midpoint of the segment with end points (2,4) and (0,0) are ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(2,4)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(1,2)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(0,0)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(-2,-4)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Single Paper",
+   "q_en": "i - (-i) = ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "i²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Single Paper",
+   "q_en": "Base of common logarithm is ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "e",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Single Paper",
+   "q_en": "(a+b)² - (a-b)² = ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4ab",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2(a²+b²)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2(a+b)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Single Paper",
+   "q_en": "√15/3 = ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "√5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "√5/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5/√3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "√5/√3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Single Paper",
+   "q_en": "Factors of 12 used in the factorization of a² - 7a + 12 are ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2,6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1,2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3,4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Single Paper",
+   "q_en": "H.C.F of (x-3)(x-1) and (x-2)(x-1) is ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(x-1)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(x-2)(x-3)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(x-2)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(x-1)(x-2)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Single Paper",
+   "q_en": "For the matrices M and N, (MN)ᵗ = ______.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mᵗ + Nᵗ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Mᵗ - Nᵗ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "MᵗNᵗ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NᵗMᵗ",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

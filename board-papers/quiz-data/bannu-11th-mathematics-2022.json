@@ -1,0 +1,1130 @@
+{
+ "board": "BISE Bannu",
+ "board_slug": "bannu",
+ "class": "11th",
+ "subject": "Mathematics",
+ "year": 2022,
+ "slug": "bannu-11th-mathematics-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "z·z̄ = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "|z|",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "|z|²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Re(z)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Im(z)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Area of triangle is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "|a⃗×b⃗|",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "|a⃗+b⃗|",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "½|a⃗×b⃗|",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The modulus of i = (0,1) is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "∞",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "A square matrix A is said to be singular if:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A ≠ 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "|A| = 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "|A| ≠ 0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "If A = [[1,-2,5],[3,0,1],[5,2,0]] then the cofactor of A₁₃ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "A vector whose magnitude is one is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Unit vector",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Null vector",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Negative vector",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The angle (θ) between a⃗ and b⃗ is 0 or π, then a⃗ and b⃗ are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "parallel",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Perpendicular",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Collinear",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Both A and C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "i⃗·(k⃗×j⃗) is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The [illegible in source scan] term of the H.P. 1/3, 1/5, 1/7, ... is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/12",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/13",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/14",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/15",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "The series 2+2+2+2+2+... is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Convergent",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Divergent",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Finite",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Bounded",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "0.2̅1̅ in fraction form is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "7/31",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "7/32",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7/33",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "7/34",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "(6 / 2,3,1) = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "36",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "60",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "12",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "The sum of the coefficients in the expansion of (x + y)⁵ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "32",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "64",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "98",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "106",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "The period of sin θ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2π",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-π",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "1 + 3 + 5 + ... + (2n - 1) = ?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "n²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "n³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2ⁿ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3ⁿ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "Which of the function is (1-1)?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "f(x) = |x|",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "f(x) = x²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "f(x) = x³",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "f(x) = sin x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "sin(π - θ) is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "sin θ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "cos θ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-sin θ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-cos θ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group I",
+   "q_en": "Range of f(x) = cos x is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "R",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[-1,1]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(-1,1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(0, ∞)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group I",
+   "q_en": "The period of cos 6x is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2π",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group I",
+   "q_en": "Absolute value of i is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "i",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "±1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 1,
+   "group": "Group II",
+   "q_en": "In the expansion of (a+b)ⁿ if n is even, then there will be ______ middle term(s).",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "n+1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group II",
+   "q_en": "The amplitude of y = sin 6θ is ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2π",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group II",
+   "q_en": "1/19, 1/14, 1/10, 1/6, ______ is.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Geometric sequence",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Arithmetic sequence",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Asymptotic sequence",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Harmonic sequence",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group II",
+   "q_en": "Σ(j=1 to n) j² = ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "n(n+1)(2n+1)/3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "n(n+1)(2n+1)/6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "n(n+1)/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "n²(n+1)²/4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group II",
+   "q_en": "If 2,5,8,.........is an A.P., then a₁₅ = ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "44",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "41",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "47",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "50",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group II",
+   "q_en": "Geometric mean of -6 and -216 is ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-11",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "±36",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-222",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-210",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group II",
+   "q_en": "Period of cos 6x ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2π",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group II",
+   "q_en": "If C(n,8) = C(n,12) then n = ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "18",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "17",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group II",
+   "q_en": "If α, β, γ are the direction angles of r⃗, then cos²α + cos²β + cos²γ = ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group II",
+   "q_en": "Maximum value of y=1+2sinθ, is ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group II",
+   "q_en": "Tan⁻¹(x/y) - Tan⁻¹((x-y)/(x+y)) = ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3π/4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group II",
+   "q_en": "(-i)²³ = ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-i",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "i",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group II",
+   "q_en": "For any complex number z if -z = z̄, then z is ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Purely imaginary",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Real",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1 + 0i",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group II",
+   "q_en": "If a⃗ = 3i - 5j, b⃗ = -2i + 3j, then |a⃗/b⃗| = ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "34/13",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "13/34",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√(34/13)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-√(34/13)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group II",
+   "q_en": "If |a⃗| = 3, |b⃗| = 4 and φ = 60°, then a⃗·b⃗ = ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "√(3/2)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group II",
+   "q_en": "With usual notation rr₁r₂r₃ = ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "abc/Δ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Δ/abc",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Δ²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Δ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group II",
+   "q_en": "If A = [[1,-2,5],[3,0,-1],[5,2,0]], then A₁₃ = ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Group II",
+   "q_en": "The area of the inscribed circle is given by ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2πr",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(1/3)πr²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(1/2)πr²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "πr²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Group II",
+   "q_en": "The domain of f(x) = (2-x)/√(x+2) is ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[-4,2)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(-2,2)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(-2,2]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Group II",
+   "q_en": "The period of 3 sin(x/3) is = ______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "6π",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3π",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2π",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

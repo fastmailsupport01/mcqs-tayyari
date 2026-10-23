@@ -1,0 +1,570 @@
+{
+ "board": "BISE Bannu",
+ "board_slug": "bannu",
+ "class": "11th",
+ "subject": "Mathematics",
+ "year": 2021,
+ "slug": "bannu-11th-mathematics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Single Paper",
+   "q_en": "Period of sec (3x) is..........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2π",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2π/3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Single Paper",
+   "q_en": "The graph of y = 2x² + 1 is..........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Parabola",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "circle",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "straight line",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "none",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Single Paper",
+   "q_en": "The amplitude of 5sin (2x) is..........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Single Paper",
+   "q_en": "The inverse function of f(x) = x/(x-1) is..........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(x-1)/x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(x+1)/(x-1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x/(1-x)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x/(x-1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Single Paper",
+   "q_en": "When x = 5 then 7!(x+6) / x!(x+1)! = .........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "36",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "42",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "7!",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Single Paper",
+   "q_en": "1 - x + x2 - x3 + ............... is the expension of......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(1 - x)⁻²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(1 - x)⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(1 + x)⁻²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(1 + 2)⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Single Paper",
+   "q_en": "If c⃗ lies in the plane of the a⃗ and b⃗, then c⃗ = .........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "αa⃗ + βb⃗",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "αa⃗ X βb⃗",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "αa⃗ · βb⃗",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0⃗",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Single Paper",
+   "q_en": "The domain of f(x) = √(x + 1) is the set of all.........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "X > 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x > 1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x ≥ 1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Single Paper",
+   "q_en": "The solution of linear inequality 3x - 2 ≥ 8 + 5x is......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[-∞, -5)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(-∞, -5]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[-∞, 5]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Single Paper",
+   "q_en": "In right angled △ABC α = 57° then β = .........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "57⁰",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "90⁰",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "33⁰",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "22⁰",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Single Paper",
+   "q_en": "The multiplicative inverse of Z = 2 + 3i is...........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2 - 3i",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-2 - 3i",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2/13 - 3/13 i",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2/13 + 3/13 i",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Single Paper",
+   "q_en": "Let A = [[3,-2],[5,7]] then the co-factor of -2 is ..............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Single Paper",
+   "q_en": "The direction cosines of a⃗ = 2i - j + k are ..........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2,1,1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2,-1,1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2/√6, -1/√6, 1/√6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Single Paper",
+   "q_en": "Let A² = A then Σ(j=1 to 3) Aʲ = ..............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2A",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A³",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3A",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Single Paper",
+   "q_en": "Σ(k=1 to n) K² = ..............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "n(n+1)/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "n(n+1)(2n+1)/6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[n(n+1)/2]²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Single Paper",
+   "q_en": "A fair die is rolled, the probability that even integer will occur is ..............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Single Paper",
+   "q_en": "The A.M between 6th and 8th term of the A.P 1, 4, 7, 10 ..........is...........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "16",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "22",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "19",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "48",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Single Paper",
+   "q_en": "The vector perpendicular to -I + 2j + k and 3i - k is...",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5i - j - 3k",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-5i - j - 3k",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-5i + j + 3k",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "group": "Single Paper",
+   "q_en": "If p/q is the third term of H.P, then theird term of corresponding A.P will be..............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "P",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "q/p",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "U",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-p/q",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "group": "Single Paper",
+   "q_en": "Domin of sin 2x is ................",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "R",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "R - {2}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2π",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,430 @@
+{
+ "board": "BISE Bannu",
+ "board_slug": "bannu",
+ "class": "10th",
+ "subject": "Mathematics",
+ "year": 2022,
+ "slug": "bannu-10th-mathematics-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Single Paper",
+   "q_en": "If R = {(0,0), (8,2), (10,3), (14,12)}, the Dom(R) is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "{0,8,10,14}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{0,2,3,12}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{8,10,4}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{0,10}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Single Paper",
+   "q_en": "Find the mode of the data, 3,2,1,1,1,5,3,1,2,1,2",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Single Paper",
+   "q_en": "1+tan²θ = ________",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "sin²θ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "cos²θ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "cosec²θ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "sec²θ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Single Paper",
+   "q_en": "The solutions of the equation x² + 7x - 18 = 0 are",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2 or -9",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-2 or 9",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-2 or -9",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2 or 9",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Single Paper",
+   "q_en": "If 7:9 :: x:27 then",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x = 21",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x = 3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x = 7",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x = 81",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Single Paper",
+   "q_en": "(x²+2) / (x²+2x+2) is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Proper fraction",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Improper fraction",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Irrational fraction",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Single Paper",
+   "q_en": "a/b = c/d = e/f = ________",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(a-c-e)/(b-d-f)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(a+c+e)/(b-d-f)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(a+c+e)/(b+d+f)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(a-c-e)/(b+d-f)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Single Paper",
+   "q_en": "(A∪B)' ________",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A'∪B'",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "A'∩B'",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "A∪B",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A∩B",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Single Paper",
+   "q_en": "The number of times a value appears on a set of data is called ________",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Frequency",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Average",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mode",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Median",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Single Paper",
+   "q_en": "A chord is 5cm from the center of a circle of radius 13cm. The length of the chord is;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "6cm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "12cm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "24cm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "30cm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Single Paper",
+   "q_en": "Sum of roots of 2x²-3x-4=0 is ________",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-3/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4/3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Single Paper",
+   "q_en": "Apollonius is the name of a ________",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "City",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Town",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Country",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mathematician",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Single Paper",
+   "q_en": "In a circle, two chords are equally distant from the center of the circle. The chords are",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Parallel",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Non-parallel",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Congruent",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Not congruent",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Single Paper",
+   "q_en": "The line which meets the circle at one point is ________",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Secant",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Diameter",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Chord",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Tangent",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Single Paper",
+   "q_en": "In the quadratic formula, the expression b² - 4ac is called ________ of the quadratic equation ax²+bx+c=0",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Discriminant",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Roots",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Square",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Cube",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

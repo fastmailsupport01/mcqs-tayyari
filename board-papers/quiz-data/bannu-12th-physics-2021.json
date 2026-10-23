@@ -1,0 +1,514 @@
+{
+ "board": "BISE Bannu",
+ "board_slug": "bannu",
+ "class": "12th",
+ "subject": "Physics",
+ "year": 2021,
+ "slug": "bannu-12th-physics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Single Paper",
+   "q_en": "The unit of charge is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "coulomb",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "volt",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "farad",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ampere.",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Single Paper",
+   "q_en": "Coulomb's force is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "attractive",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "repulsive",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "both a,b",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "none",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Single Paper",
+   "q_en": "The flux through spherical surface is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "q/ε₀",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "q²/ε₀",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2q/ε₀",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "q/3ε₀",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Single Paper",
+   "q_en": "The unit of current is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "watt",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ampere",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "volt",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "joule",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Single Paper",
+   "q_en": "Relation between intensity and potential is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "E = -ΔV/Δr",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "V = ΔE/Δr",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ΔE/Δr",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "VE",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Single Paper",
+   "q_en": "1eV =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.6×10⁻¹⁹J",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.27×10⁻⁷J",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "None of these",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "E²ΔV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Single Paper",
+   "q_en": "The relation for power dissipated is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "P = IV",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "P = I²R",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "P = V²/R",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Single Paper",
+   "q_en": "Magnetic field due to solenoid is given by,",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "B = μ₀nI",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "B = μ₀n²I",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "B = μ₀²nI",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "B = μ₀nL",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Single Paper",
+   "q_en": "The unit of conductance is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "mho.m⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "mbo",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ohm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "ampere",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Single Paper",
+   "q_en": "For step up transformer",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nₛ > Nₚ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Nₛ < Nₚ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Nₛ = Nₚ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Single Paper",
+   "q_en": "The resonance frequency is given by,",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "fᵣ = 1/2π√LC",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "fᵣ = 1/4π√LC",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "fᵣ = 1/√LC",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "fᵣ = 2π/√LC",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Single Paper",
+   "q_en": "The inductive reactance is given by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "X_L = 2π√fL",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "X_L = 2πfL",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "X_L = 1/2πfL",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "X_L = 4πfL",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Single Paper",
+   "q_en": "The unit of stress is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "N/m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "N.m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "N/m²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Pascal.m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Single Paper",
+   "q_en": "The strain energy is given by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "½Fℓ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Fℓ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "½F²ℓ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2Fℓ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Single Paper",
+   "q_en": "Copper is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Paramagnetic",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Diamagnetic",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ferromagnetic",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Single Paper",
+   "q_en": "Rest mass of photon is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.51kg",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "9.1×10⁻³¹kg",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.67×10⁻²⁷kg",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Single Paper",
+   "q_en": "The De-Broglie wavelength is given by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "λ = hmv",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "λ = h/mv",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "λ = h/√mv",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "λ = 2h/mc",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Single Paper",
+   "q_en": "1 curie =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3.7×10¹⁰Bq",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3.7×10⁻¹⁰Bq",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3.7×10⁸Bq",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3.7×10¹¹Bq",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

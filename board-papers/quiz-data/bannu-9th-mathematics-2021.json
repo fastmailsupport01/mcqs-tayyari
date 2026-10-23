@@ -1,0 +1,430 @@
+{
+ "board": "BISE Bannu",
+ "board_slug": "bannu",
+ "class": "9th",
+ "subject": "Mathematics",
+ "year": 2021,
+ "slug": "bannu-9th-mathematics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Single Paper",
+   "q_en": "The matrix [-3 0; 0 -3] is ............ matrix.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Diagonal",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Scalar",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Additive identity",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Single Paper",
+   "q_en": "{0, 1, 2, 3, 4...........} set of ...........numbers.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Natural",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Whole",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Irrational",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Integers.",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Single Paper",
+   "q_en": "Characteristic of log (3958) is..............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "- 3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "- 4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Single Paper",
+   "q_en": "If log₆ x = 3, then x = .............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "36",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "84",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "216",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "221",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Single Paper",
+   "q_en": "Degree of polynomial P (t) = 5t² -10t + 4 is ...........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Single Paper",
+   "q_en": "Factor of 2x - 8 are ...............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x - 4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2, x - 4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x + 4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Single Paper",
+   "q_en": "L.C.M of (a -b )⁴ and (a - b )³ is...............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(a - b)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(a - b)²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(a - b)⁴",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(a - b)⁷",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Single Paper",
+   "q_en": "The solution set of √x = -10 are...............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "{100}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{10}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{-10}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Single Paper",
+   "q_en": "The point (4, 6) is located in a ......... quadrant.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1st",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2nd",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3rd",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4th",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Single Paper",
+   "q_en": "Two perpendicular segments meet in a ........angle.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "180°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Single Paper",
+   "q_en": "If sum of measure of < A and < C of a parallelogram ABCD is 130°, then < B = ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "25°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "50°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "65°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of them",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Single Paper",
+   "q_en": "In a quadrilateral triangle, all the perpendicular bisects are....",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Congruent",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Concurrent",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "The angle bisector as well",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Single Paper",
+   "q_en": "....... Represented sides of a right angled triangle.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2,3,5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3,4,5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4,5,6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5,6,7",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Single Paper",
+   "q_en": "Perpendicular from the vertex of a triangle to its opposite side is called .............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Median",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Perpendicular bisector",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Altitude",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "angle bisector",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Single Paper",
+   "q_en": "In practical geometry, it is necessary to write...........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Given",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "To prove",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Step of construction",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Proof",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

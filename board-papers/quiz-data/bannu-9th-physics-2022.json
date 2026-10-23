@@ -1,0 +1,346 @@
+{
+ "board": "BISE Bannu",
+ "board_slug": "bannu",
+ "class": "9th",
+ "subject": "Physics",
+ "year": 2022,
+ "slug": "bannu-9th-physics-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Single Paper",
+   "q_en": "The relation between coefficient of linear and volume expansion is.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "α = 3γ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "γ = 3α",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "γ = α/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "γ = 6α",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Single Paper",
+   "q_en": "In gases, heat is mainly transferred by",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Conduction",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Convection",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Radiation",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Both A & B",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Single Paper",
+   "q_en": "A measuring cylinder is used to measure",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mass",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Area",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Volume",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Level of liquid",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Single Paper",
+   "q_en": "A car starts from rest. It acquires a speed of 25ms⁻¹ after 20s. The distance moved by the car during this time is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "31.25 m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "250 m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "500 m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5000 m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Single Paper",
+   "q_en": "A body moving with uniform velocity. What will be its acceleration?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Uniform",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10 ms⁻²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-10 ms⁻²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Single Paper",
+   "q_en": "Force needed to produce an acceleration of 10 ms⁻² in a ball of mass 0.5 Kg is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "20 N",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10.5 N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "9.5 N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5 N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Single Paper",
+   "q_en": "The weight of body is 147 N, its mass will be ________ when g = 9.8 ms⁻².",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "14.7 N",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.47 N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "15 N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "15.7 N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Single Paper",
+   "q_en": "The unit of torque is ;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nm⁻²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ncm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Nm⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Single Paper",
+   "q_en": "The orbital speed of geostationary communication satellite is ________.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3.07 Kms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3.07 Kmh⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "30.7 Kms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "30.7 Kmh⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Single Paper",
+   "q_en": "The radius of the earth rₑ is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "9.8 m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6.67×10⁻¹¹ m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6×10²⁴ m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6.4×10⁶ m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Single Paper",
+   "q_en": "A 2 Kg hammer head moving with a speed of 4 ms⁻¹ has a kinetic energy of ________.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "32 J",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "16 J",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8 J",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4 J",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Single Paper",
+   "q_en": "The unit of strain is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Kgm⁻³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Pa",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Nm⁻²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

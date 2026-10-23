@@ -1,0 +1,430 @@
+{
+ "board": "BISE Bannu",
+ "board_slug": "bannu",
+ "class": "10th",
+ "subject": "Mathematics",
+ "year": 2021,
+ "slug": "bannu-10th-mathematics-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Single Paper",
+   "q_en": "Let be a function from A to B, then f is onto fraction if...",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Range f=A",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Range f = B",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Range f ≠ A",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Range f ≠ B",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Single Paper",
+   "q_en": "A commutative frequency curve is called.........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "histogram",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ogive",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "pie chart",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "frequency polygon",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Single Paper",
+   "q_en": "Mode of the data 5, 5 7, 9, 9, 9, 9, 11, 11, 11, 11, 12, and 12 is........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "9",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "11",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "both 9 and 11",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "both 5 and 12",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Single Paper",
+   "q_en": "Circumference of a circle having radius is........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "44/7",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "22/7",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "44",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "22",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Single Paper",
+   "q_en": "√(1 - sin²θ) = .........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "cos θ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "sin θ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "cot θ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "tan θ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Single Paper",
+   "q_en": "The line which meets the circle at one point is.......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "chord",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "secant",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "tangent",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "diameter.",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Single Paper",
+   "q_en": "Angle in a same-circle is a/an .........angle.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Acute",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "right",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "obtuse",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "interior",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Single Paper",
+   "q_en": "AUB = ...........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "{x/x∈ A U x ∈B}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{x/x∈ A ∩ x ∈B}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{x/x∈ A U x ∉B}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{x/x∈ A ∩ x ∉ BB}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Single Paper",
+   "q_en": "The sum of (x + 1) and the reciprocal of (x -1) is...........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x/(x-1)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x/(x+1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x²/(x-1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2x/(x-1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Single Paper",
+   "q_en": "If in a quadratic equations b² - 4ac < 0 the roots will be..",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "equal and imaginary",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "equal and real",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "unequal and imaginary",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "unequal and real",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Single Paper",
+   "q_en": "If α and β be the roots of the equation ax² + b + c = 0 then the product roots will be.............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "c/a",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-b/a",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-c/a",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Single Paper",
+   "q_en": "If x, y and z is in continued proportion, then ...............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x/y = y/z",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "z/x = x²/y²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x/z = y²/r²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "z/a = b²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Single Paper",
+   "q_en": "If x ∝ 1/y and y ∝ 1/z the .................",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/z",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x ∝ z",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "xy ∝ z",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "xz ∝ y",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Single Paper",
+   "q_en": "(x²+x-3)/(x³+x²-x+1) is ........... Fraction.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "proper rational",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "proper irrational",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "improper rational",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "improper rational",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Single Paper",
+   "q_en": "If (A∩B). ∅. Then A and B are .......... Sets.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Empty",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "equal",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "overlapping",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "disjoint.",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,430 @@
+{
+ "board": "BISE Bannu",
+ "board_slug": "bannu",
+ "class": "11th",
+ "subject": "Computer Science",
+ "year": 2022,
+ "slug": "bannu-11th-computer-science-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Single Paper",
+   "q_en": "How many op-code a two-address instruction has?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Single Paper",
+   "q_en": "Which of the following is the firmware built into the computer system?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Slot",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "RAM",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Port",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "BIOS",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Single Paper",
+   "q_en": "How many layers does the OSI model consist of?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Single Paper",
+   "q_en": "In Relational terminology an attribute is also called................",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Record",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Tuple",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Field",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Table",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Single Paper",
+   "q_en": "The distance between the pixels on the monitor is called................",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Site",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Dot pitch",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Resolution",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Refresh rate",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Single Paper",
+   "q_en": "Which material is used to make memory chips?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Iron",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Gold",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Silver",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Silicon",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Single Paper",
+   "q_en": "WIMAX uses IEEE................standard for communication.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "802.11(a)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "802.16",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "802.15",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "802.11",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Single Paper",
+   "q_en": "Which of the following is logical data type?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Text",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Form",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Yes/No",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Memo",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Single Paper",
+   "q_en": "Router is used in................layer of OSI model.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Data link",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Network",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Transport",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Physical",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Single Paper",
+   "q_en": "A field in a relation that uniquely identifies each record is called................",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Foreign Key",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Secondary Key",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Primary key",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Alternate key",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Single Paper",
+   "q_en": "................ instruction is used when number of statements is to repeated.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "LD",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Loop",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "JMP",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "MOV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Single Paper",
+   "q_en": "Which of the following is volatile memory?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ROM",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Registers",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "PROM",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "EPROM",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Single Paper",
+   "q_en": "................translates a high level language program line by line.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Interpreter",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Compiler",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Assembler",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Processor",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Single Paper",
+   "q_en": "Which of the following is used to store data in a database?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Form",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Table",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Query",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Report",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Single Paper",
+   "q_en": "................is a new technology cable for connecting storage drives to computer.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "IDE",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "PCIe",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "FD",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Sata",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

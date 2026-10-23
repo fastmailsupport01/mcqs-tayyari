@@ -1,0 +1,318 @@
+{
+ "board": "BISE Bannu",
+ "board_slug": "bannu",
+ "class": "10th",
+ "subject": "Computer Science",
+ "year": 2021,
+ "slug": "bannu-10th-computer-science-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Single Paper",
+   "q_en": "Conditions in a flowchart are represented by .... Symbol.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Rectangle",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Round rectangles.",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Parallelogram",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Diamond shape",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Single Paper",
+   "q_en": "WHILE-WEND loops are executed until the condition becomes?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "True",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "False",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "None",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Both A and B",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Single Paper",
+   "q_en": "There are .........types of arrays in BASIC.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Seven",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Three",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Two",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Five",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Single Paper",
+   "q_en": "Trigonometric functions are.............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Numerical",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Alphabetical",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Alphanumerical",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Single Paper",
+   "q_en": "BUH.T-IN functions are also called ............. function.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Use defined",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "System defined",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Trigonometry",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Single Paper",
+   "q_en": "There are .........mode of drawing graphics.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Two",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "four",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Three",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Five",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Single Paper",
+   "q_en": "The statement, 10 DIM x (4, 5) declares any array having.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4 columns, 5 rows",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4 rows, 5 columns",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Both A and B",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Single Paper",
+   "q_en": "Remarks are a flowchart is represented through.........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Process box",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Decision box",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Terminal box",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "annotation symbol.",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Single Paper",
+   "q_en": "Which one has the highest priority in hierarchy of operations?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Exponentiation",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Multiplication",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Parenthesis",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Addition",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Single Paper",
+   "q_en": "Indentation means to set the position of the text from....margins.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Left",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "right",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Both A and B",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Single Paper",
+   "q_en": "Implementation is the process of ..............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Writing computer programs",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Modifying the programs",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Detecting errors in program",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these.",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

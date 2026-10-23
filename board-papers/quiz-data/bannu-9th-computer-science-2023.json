@@ -1,0 +1,318 @@
+{
+ "board": "BISE Bannu",
+ "board_slug": "bannu",
+ "class": "9th",
+ "subject": "Computer Science",
+ "year": 2023,
+ "slug": "bannu-9th-computer-science-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Single Paper",
+   "q_en": "United states census used punch cards to store data in:",
+   "q_ur": "امریکہ کے مردم شماری کرنے کے لیے پنچ کارڈز کو ڈیٹا سٹور کرنے کے لیے ________ میں استعمال کیے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "1885",
+     "ur": "1885"
+    },
+    {
+     "k": "B",
+     "en": "1890",
+     "ur": "1890"
+    },
+    {
+     "k": "C",
+     "en": "1887",
+     "ur": "1887"
+    },
+    {
+     "k": "D",
+     "en": "1892",
+     "ur": "1892"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Single Paper",
+   "q_en": "Information security analyst deals with:",
+   "q_ur": "انفارمیشن سیکیورٹی اینالسٹ ________ سے تعلق رکھتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Web designer",
+     "ur": "ویب ڈیزائنر"
+    },
+    {
+     "k": "B",
+     "en": "Antivirus and firewall",
+     "ur": "اینٹی وائرس اور فائر وال"
+    },
+    {
+     "k": "C",
+     "en": "Hardware repair",
+     "ur": "ہارڈ ویئر ریپئر"
+    },
+    {
+     "k": "D",
+     "en": "Online marketing",
+     "ur": "آن لائن مارکیٹنگ"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Single Paper",
+   "q_en": "Resource management provides the facility of:",
+   "q_ur": "ریسورس مینجمنٹ ________ کی سہولت فراہم کرتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Backup & recovery",
+     "ur": "بیک اپ اور ریکوری"
+    },
+    {
+     "k": "B",
+     "en": "Back up & management",
+     "ur": "بیک اپ اور مینجمنٹ"
+    },
+    {
+     "k": "C",
+     "en": "Management & internet",
+     "ur": "مینجمنٹ اور انٹرنیٹ"
+    },
+    {
+     "k": "D",
+     "en": "Backup & intranet",
+     "ur": "بیک اپ اور انٹرانیٹ"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Single Paper",
+   "q_en": "Batch processing is integral type of:",
+   "q_ur": "بیچ پروسیسنگ ________ کی ایک لازمی قسم ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Single user interface",
+     "ur": "سنگل یوزر انٹرفیس"
+    },
+    {
+     "k": "B",
+     "en": "Single tasking interface",
+     "ur": "سنگل ٹاسکنگ انٹرفیس"
+    },
+    {
+     "k": "C",
+     "en": "Multiuser interface",
+     "ur": "ملٹی یوزر انٹرفیس"
+    },
+    {
+     "k": "D",
+     "en": "Multitasking interface",
+     "ur": "ملٹی ٹاسکنگ انٹرفیس"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Single Paper",
+   "q_en": "Short key board command to create new document in word is:",
+   "q_ur": "Word میں نیا ڈاکومنٹ بنانے کے لیے شارٹ کٹ Key ________ ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ctrl+O",
+     "ur": "Ctrl+O"
+    },
+    {
+     "k": "B",
+     "en": "Ctrl+N",
+     "ur": "Ctrl+N"
+    },
+    {
+     "k": "C",
+     "en": "Shift+O",
+     "ur": "Shift+O"
+    },
+    {
+     "k": "D",
+     "en": "Shift+N",
+     "ur": "Shift+N"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Single Paper",
+   "q_en": "Filling of specified pattern of data in cells is:",
+   "q_ur": "سیلوں میں مخصوص ترتیب کے ڈیٹا کو بھرنا ________ کہلاتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Re-fill",
+     "ur": "ری فل"
+    },
+    {
+     "k": "B",
+     "en": "Self-fill",
+     "ur": "سیلف فل"
+    },
+    {
+     "k": "C",
+     "en": "Auto-fill",
+     "ur": "آٹو فل"
+    },
+    {
+     "k": "D",
+     "en": "Manual-fill",
+     "ur": "مینول فل"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Single Paper",
+   "q_en": "Block by block data is transmitted in:",
+   "q_ur": "بلاک با بلاک ڈیٹا ________ میں منتقل ہوتا ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Transmission medium",
+     "ur": "ٹرانسمیشن میڈیم"
+    },
+    {
+     "k": "B",
+     "en": "Asynchronous transmission",
+     "ur": "اسنکرونس ٹرانسمیشن"
+    },
+    {
+     "k": "C",
+     "en": "Synchronous transmission",
+     "ur": "سنکرونس ٹرانسمیشن"
+    },
+    {
+     "k": "D",
+     "en": "Isochronous",
+     "ur": "آئسوکرونس"
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Single Paper",
+   "q_en": "Loss of information is a condition of:",
+   "q_ur": "معلومات کا ضائع ہونا ________ کی حالت ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Transmission impairment",
+     "ur": "ٹرانسمیشن امپئرمنٹ"
+    },
+    {
+     "k": "B",
+     "en": "Attenuation",
+     "ur": "اٹینیوایشن"
+    },
+    {
+     "k": "C",
+     "en": "Amplification",
+     "ur": "ایمپلیفیکیشن"
+    },
+    {
+     "k": "D",
+     "en": "Distortion",
+     "ur": "ڈسٹورشن"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Single Paper",
+   "q_en": "How many pairs of computers can communicate at same time on LAN?",
+   "q_ur": "LAN پر ایک ہی وقت میں کتنے جوڑے کمپیوٹرز رابطہ کر سکتے ہیں؟",
+   "options": [
+    {
+     "k": "A",
+     "en": "Multiple",
+     "ur": "ملٹی پل"
+    },
+    {
+     "k": "B",
+     "en": "Three",
+     "ur": "تین"
+    },
+    {
+     "k": "C",
+     "en": "Two",
+     "ur": "دو"
+    },
+    {
+     "k": "D",
+     "en": "One",
+     "ur": "ایک"
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Single Paper",
+   "q_en": "The network communication that covers the whole globe is:",
+   "q_ur": "نیٹ ورک کمیونیکیشن جو پوری دنیا کو کور کرتی ہے ________ کہلاتی ہے:",
+   "options": [
+    {
+     "k": "A",
+     "en": "LAN",
+     "ur": "LAN"
+    },
+    {
+     "k": "B",
+     "en": "MAN",
+     "ur": "MAN"
+    },
+    {
+     "k": "C",
+     "en": "WAN",
+     "ur": "WAN"
+    },
+    {
+     "k": "D",
+     "en": "Internet",
+     "ur": "انٹرنیٹ"
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Single Paper",
+   "q_en": "Process of bypassing the registration and payment option of a copy righted software is:",
+   "q_ur": "کاپی رائٹڈ سافٹ ویئر کے رجسٹریشن اور ادائیگی کے آپشن کو بائی پاس کرنے کے عمل کو ________ کہتے ہیں:",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hacking",
+     "ur": "ہیکنگ"
+    },
+    {
+     "k": "B",
+     "en": "Cracking",
+     "ur": "کریکنگ"
+    },
+    {
+     "k": "C",
+     "en": "Freeware",
+     "ur": "فری ویئر"
+    },
+    {
+     "k": "D",
+     "en": "Shareware",
+     "ur": "شیئر ویئر"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,346 @@
+{
+ "board": "BISE Bannu",
+ "board_slug": "bannu",
+ "class": "9th",
+ "subject": "Physics",
+ "year": 2023,
+ "slug": "bannu-9th-physics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Single Paper",
+   "q_en": "Which of the following is base physical quantity?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Area",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Density",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Length",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Volume",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Single Paper",
+   "q_en": "The speed of car is 5m/s on straight road, its velocity is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0m/s",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5m/s",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10m/s",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "25m/s",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Single Paper",
+   "q_en": "The force which compels a body to move in a circular path is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Gravitational",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Friction",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Centripetal",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nuclear",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Single Paper",
+   "q_en": "The centripetal force on an object of mass 0.5kg moving with 4m/s in a circle of radius 2m is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4N",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Single Paper",
+   "q_en": "The horizontal component of force is 19N and vertical component is 11N. The resultant force makes and angle with x.axis is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "30°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "45°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "60°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Single Paper",
+   "q_en": "Which condition is true for balancing a see-saw?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "τ Clockwise = τ anti clock wise",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "τ Clockwise < τ anti clock wise",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "τ Clockwise > τ anti clock wise",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "τ Clockwise ≤ τ anti clock wise",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Single Paper",
+   "q_en": "Gravitational field strength is similar to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Acceleration due to gravity",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Mass of body",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Weight of body",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Gravitational constant",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Single Paper",
+   "q_en": "A man pulls a trolley through 25m applying a force 400N, the work done by the man is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4000J",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8000J",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10,000J",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "20,000J",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Single Paper",
+   "q_en": "Mathematically, gravitational potential energy can be expressed as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "wgh",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "mgh",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "mgs",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "mg/h",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Single Paper",
+   "q_en": "We do not feel atmospheric pressure because the pressure inside and outside of our body is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Equal",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Different",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Variable",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Single Paper",
+   "q_en": "How many times specific heat of water is more than specific heat of soil?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Single Paper",
+   "q_en": "When a solid is heated its atoms?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Move forward only",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Move backward only",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Vibrate violently",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Remain stationary",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

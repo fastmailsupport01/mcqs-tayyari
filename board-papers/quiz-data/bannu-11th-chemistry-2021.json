@@ -1,0 +1,514 @@
+{
+ "board": "BISE Bannu",
+ "board_slug": "bannu",
+ "class": "11th",
+ "subject": "Chemistry",
+ "year": 2021,
+ "slug": "bannu-11th-chemistry-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Single Paper",
+   "q_en": "How many moles are in 6.023 x 10²³ fromula units of MgO?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.5 moles",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.5 moles",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1 mole",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2 moles",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Single Paper",
+   "q_en": "Bohr model of Hydrogen atom is based on................",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ruther ford model",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Dalton's model",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Plank's model",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Einstein theory",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Single Paper",
+   "q_en": "Which one of the following will have angular geometry?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "NH₃",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "SnCl₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Becl₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "BF₃",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Single Paper",
+   "q_en": "The S.I unit of pressure is..........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Atm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "psi",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Nm⁻²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "all of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Single Paper",
+   "q_en": "The attractive forces within a molecule of a liquid are called...........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Intermolecular forces",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "hydrogen bonding",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Intra molecular forces",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "vander Waal forces",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Single Paper",
+   "q_en": "Which one is the example of liquid cyrstals?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Benzo cane",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Stearin",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Hydrazine",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Single Paper",
+   "q_en": "A cubic crystal has .........centres of symmetry.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "One",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "two",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "three",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "four",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Single Paper",
+   "q_en": "The value of Kc is independence of the...........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Temperature",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Initial concentration",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Pressure",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Single Paper",
+   "q_en": "10-3 moles of HNO3 is dissolved /liter, its pH is ..........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Single Paper",
+   "q_en": "No work is done at constant.................",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Pressure",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Volume",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Temperature",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "mass",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Single Paper",
+   "q_en": "The fuel used in cell can be ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Gas",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "liquid",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "solid",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "all of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Single Paper",
+   "q_en": "ΔH is positive when heat is ...........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Obsorb ed",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "released",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "removed",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "none",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Single Paper",
+   "q_en": "Which one is not electromagnetic?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "IR rays",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Uv rays",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "γ rays",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "cathode rays",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Single Paper",
+   "q_en": "The efficiency of chemical reaction can be determind from .............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Actual yield",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "theoretical yield",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "percentage yield",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "quantum yield",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Single Paper",
+   "q_en": "Weak acid and its salt with a strong base will have pH?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "More than 7",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "less than 7",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "neutral",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "none",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Single Paper",
+   "q_en": "The enzyme used to convert starch into sugar during enzyme catalysis is.........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zymase",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Invertase",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ptyalin",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "pepsin",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Single Paper",
+   "q_en": "The stability of colloidal system depends on..........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Charge",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "solvation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Brownian motion",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "all of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Single Paper",
+   "q_en": "Endothermic reactions are favored in forward direction by..........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cooling",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Freezing",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Heating",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "adding catalyst",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,346 @@
+{
+ "board": "BISE Bannu",
+ "board_slug": "bannu",
+ "class": "10th",
+ "subject": "Physics",
+ "year": 2023,
+ "slug": "bannu-10th-physics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Single Paper",
+   "q_en": "If iron bob of a pendulum is replaced with lead bob of the same size, its time period will;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Decrease",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Increase",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Remains the same",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Single Paper",
+   "q_en": "The loudness of a sound is most closely related to its;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Frequency",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Amplitude",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Period",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Wavelength",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Single Paper",
+   "q_en": "The focal length of a concave spherical mirror is equal to;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "R",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2R",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/4 R",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/2 R",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Single Paper",
+   "q_en": "Which of the following is an example of longitudinal waves?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Water waves",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Sound waves",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Light waves",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Microwaves",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Single Paper",
+   "q_en": "The capacitance is defined as;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "W/Q",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Q/Q",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "V/Q",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Q/V",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Single Paper",
+   "q_en": "The SI unit of resistance is;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ohm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ampere",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Volt",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Watt",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Single Paper",
+   "q_en": "The principal of AC generator is;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Magnetic field",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Electrostatic induction",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Electromagnetic induction",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mutual induction",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Single Paper",
+   "q_en": "If the turns ratio is 5, the secondary voltage is greater than the primary voltage by a factor of;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2.5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Single Paper",
+   "q_en": "The Boolean expression for OR gate is;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "X = A with overline",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "X = AB",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "X = A+B with overline",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "X = A+B",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Single Paper",
+   "q_en": "Which of the following information storage device is least used these days?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Floppy",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "CD",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "HDD",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "USB",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Single Paper",
+   "q_en": "What is the number of protons in ₇N¹⁵?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "15",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Single Paper",
+   "q_en": "Time rate of flow of charge is called;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electric potential",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Current",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Resistance",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Capacitance",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

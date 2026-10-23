@@ -1,0 +1,570 @@
+{
+ "board": "BISE Bannu",
+ "board_slug": "bannu",
+ "class": "12th",
+ "subject": "Mathematics",
+ "year": 2021,
+ "slug": "bannu-12th-mathematics-2021",
+ "questions": [
+  {
+   "n": null,
+   "group": "Single Paper",
+   "q_en": "The range of y = 1/(x−3) is ........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "R",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "R−{y|y=3}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "R−{y|y=0}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "R−{3}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Single Paper",
+   "q_en": "The function f(x) = |x|/x is discontinuous at..",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x = 1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x = −1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x = 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x = 2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Single Paper",
+   "q_en": "d/dx (3^x) = ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x3^{x−1}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3^x ln 3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3^x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3^{x+1}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Single Paper",
+   "q_en": "d/dx (Sinh⁻¹3x) = ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3/√(1+9x²)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3/√(1−9x²)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−3/√(1+9x²)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−3/√(1−9x²)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Single Paper",
+   "q_en": "f(x) = 2^{3x} then f'(x) = ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3^5 2^{3x}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3^5 2^{3x}log2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3^5 2^{3x}log2^5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3^5 2^{3x}(log2)^5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Single Paper",
+   "q_en": "The slope of the tangent line on a curve y = f(x) at a particular point P(x1,y1) is ...",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "f'(x1)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "f'(y1)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "f'(x1,y1)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "f(x1,y1)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Single Paper",
+   "q_en": "A function f(x) is defined at a number K and either f'(K) = 0 or f'(K) does not exist. Then the number K is called a ........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Maximum value",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Minimum value",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Stationary value",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Critical value",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Single Paper",
+   "q_en": "The vector function f(x) = <Sin x, (1−x²)^{-1}, lnx> is continuous at ...",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "R",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x≠1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "R−{0}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x>0, x≠1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Single Paper",
+   "q_en": "∫5^{2x}dx = ............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5^{2x}/2 + c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5^{2x}/(2ln5) + c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5^{2x}/ln5 + c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(2.5^{2x})/ln2 + c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Single Paper",
+   "q_en": "The eccentricity of an ellips lies between.....",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "−1 and [illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0 and 1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1 and 2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Single Paper",
+   "q_en": "In ∫ dx/(a²+x²) dx we substitute x = .......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Tan θ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Sec θ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3 Tan θ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3 Sec θ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Single Paper",
+   "q_en": "In ∫ dx/((x²+1)(x²−1)) we use the method of .....",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "By Parts",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Logarithmic",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Partial Fraction",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Single Paper",
+   "q_en": "∫(1 to 2) (x²+2)dx = .........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "12",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Single Paper",
+   "q_en": "The slope of a straight line coincides or parallel to X-axis is .......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "−1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "∞",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Single Paper",
+   "q_en": "When the radius of a circle is zero then such a circle is called ........circle.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Semi",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Point",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Virtual",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Imaginary",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Single Paper",
+   "q_en": "The slope of a line bisecting the 1st and 3rd quadrant is .......",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "−1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Single Paper",
+   "q_en": "In parabola y²−12x = 0 the length of focal chord is .........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "12",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−12",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4/3",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Single Paper",
+   "q_en": "The equation of normal to the elips x²/a²+y²/b² = 1 at a point P(x1, y1) is ........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "xx1/a² + yy1/b² = 1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x1/x + y1/y = 1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(y−y1)/(y1/b²) = (x−x1)/(x1/a²)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "xx1/a² − yy1/b² = 1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Single Paper",
+   "q_en": "The differential equation d³y/dx³ − 9(d²y/dx²)² + x⁴(dy/dx)³ + 2y +3 is of degree,",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Single Paper",
+   "q_en": "If the function values f(a) and f(c) at x=a and x=c have opposite signs then the root lies in the interval............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[c,a]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[a,c]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "(c,a)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "(a,c)",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

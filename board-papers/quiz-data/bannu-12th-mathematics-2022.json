@@ -1,0 +1,1130 @@
+{
+ "board": "BISE Bannu",
+ "board_slug": "bannu",
+ "class": "12th",
+ "subject": "Mathematics",
+ "year": 2022,
+ "slug": "bannu-12th-mathematics-2022",
+ "questions": [
+  {
+   "n": null,
+   "group": "Group I (Fresh)",
+   "q_en": "If f'(x) = 0 for all 'x' then f(x) is ________",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Maximum",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Inflection",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Minimum",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group I (Fresh)",
+   "q_en": "lim (1+1/x)^x = ________  (n→∞)",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "∞",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "e",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group I (Fresh)",
+   "q_en": "d/dx (4x³) = ________",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3x²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4x²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "12x²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "12x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group I (Fresh)",
+   "q_en": "Geometrically derivative represent slope of ________ line to the curve.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Tangent",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Normal",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Secant",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Chord",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group I (Fresh)",
+   "q_en": "A line which passes through focus and perpendicular to major axis is called ________",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Directrix",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Latus Rectum",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Focus",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Chord",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group I (Fresh)",
+   "q_en": "The function f(x) is said to be increasing on interval [a,b], if ________",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "f'(x)<0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "f'(x)=0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "f'(x)≠0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "f'(x)>0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group I (Fresh)",
+   "q_en": "The point where the convacity of differential function changes is called ________",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Inflection point",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Critical point",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Minima",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Maxima",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group I (Fresh)",
+   "q_en": "∫x² dx = ________",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x³+C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x²+C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3x²+C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x³/3+C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group I (Fresh)",
+   "q_en": "∫(a to a) f(x)dx = ________",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2a",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "f(a)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "a",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group I (Fresh)",
+   "q_en": "The set of all points whose distance from a fixed point is equal to distance from a fixed line is called ________",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Hyperbola",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Parabola",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ellipse",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Circle",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group I (Fresh)",
+   "q_en": "The degree of the equation of parabola is ________",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group I (Fresh)",
+   "q_en": "The x-intercept of line 2x+4y+6=0 ________",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group I (Fresh)",
+   "q_en": "The lines represented by homogenous equation ax²+2hxy+by²=0 are real and coincident if ________",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "h²−ab>0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "h²−ab<0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "h²−ab=0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "h²−ab≠0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group I (Fresh)",
+   "q_en": "The line y=mx+c is tangent to circle x²+y²=a² if c= ________",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "±√(1+m²)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "±m√(1+a²)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "±√(1+a²)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "±a√(1+m²)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group I (Fresh)",
+   "q_en": "The length of tangent from point P(3,4) on circle x²+y²=9 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "9",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "7",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group I (Fresh)",
+   "q_en": "The length of major axis of ellipse x²/9+y²/4=1 is ________",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "13",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group I (Fresh)",
+   "q_en": "The Hyperbola whose asymptotes are at right angle is called ________",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Horizontal",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Vertical",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Rectangular",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Imaginary",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group I (Fresh)",
+   "q_en": "The order of differential equation dy/dx = xy is :________",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group I (Fresh)",
+   "q_en": "f(x,y)=x³y+xy³, then fx = ________",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3x²+y³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3x²y+y³",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x³+y²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x²+2xy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group I (Fresh)",
+   "q_en": "The function y=f(x) has at least one root in [a,b] if ________",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "f(a) = f(b)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "f(a) < f(b)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "f(a).f(b)>0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "f(a).f(b)<0",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group II (Re-appear)",
+   "q_en": "If f(x) = 3x²+7x−5 then f(3) is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "43",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "45",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "46",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "48",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group II (Re-appear)",
+   "q_en": "lim(θ→0) sin5θ/θ is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group II (Re-appear)",
+   "q_en": "log(a) x is not defined if:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x<0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x>0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x=a",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x<a",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group II (Re-appear)",
+   "q_en": "d/dx ((e^x−e^{−x})/2) = ......?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "cosh x",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "sinh x",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "tanh x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "sech x",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group II (Re-appear)",
+   "q_en": "In the interval [0,π], the function f(x) = sin x has a maximum at:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π/4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group II (Re-appear)",
+   "q_en": "If V⃗ is the velocity of a moving object, then V⃗/|V⃗| describes its:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Position vector",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Acceleration",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Speed",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Direction of motion",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group II (Re-appear)",
+   "q_en": "∫(−3 to 3) |x|dx is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "9",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "18",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group II (Re-appear)",
+   "q_en": "Function f(x) is increasing if:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "f'(x) = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "f'(x) > 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "f'(x) < 0",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group II (Re-appear)",
+   "q_en": "Distance between points P(3,−2) and Q(−1,−5) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group II (Re-appear)",
+   "q_en": "The equation of the line with slope 4, when the y-intercept is 6 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "y = 6x+4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "y = 4x+6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x+y = 6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x−y = 4",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group II (Re-appear)",
+   "q_en": "The perpendicular distance from a line 7x+3y−9=0 to a point P(2,3) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "14/58",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "−14",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "14/√58",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "58/14",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group II (Re-appear)",
+   "q_en": "The vector equation of x−axis is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "r⃗·i⃗ = 0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "r⃗·j⃗ = 0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "r⃗·i⃗ = x",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "r⃗·j⃗ = y",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group II (Re-appear)",
+   "q_en": "If 3x−8y−7 = 0, then point (−3,−1) lies:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "On the line",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Above the line",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Below the line",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Opposite to the line",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group II (Re-appear)",
+   "q_en": "The distance of P(x,y) from the origin is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x+y",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x²+y²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "√(x²+y²)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group II (Re-appear)",
+   "q_en": "If the eccentricity e = 5/3, then conic will be a:________",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Circle",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Parabola",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ellipse",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Hyperbola",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group II (Re-appear)",
+   "q_en": "The degree of differential equation (d²y/dx³)² − d³y/dx² + dy/dx +5 = 0 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group II (Re-appear)",
+   "q_en": "The specialty of Euler's theorem is to verify the degree of a:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Linear function",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "General function",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Homogenous function",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group II (Re-appear)",
+   "q_en": "The equation of a circle with radius 4 units is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "x²+y² = 2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "x²+y² = 16",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "x²+y² = 4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "x²+y² = 8",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group II (Re-appear)",
+   "q_en": "The function (√x+√y)/(y+x) is homogenous of degree:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "No degree",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group II (Re-appear)",
+   "q_en": "The process of shifting of origin only where the new axes are parallel to the old one is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Translation",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Rotation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Transformation",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Linearization",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

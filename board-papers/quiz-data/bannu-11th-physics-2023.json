@@ -1,0 +1,514 @@
+{
+ "board": "BISE Bannu",
+ "board_slug": "bannu",
+ "class": "11th",
+ "subject": "Physics",
+ "year": 2023,
+ "slug": "bannu-11th-physics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Single Paper",
+   "q_en": "How many significant figures does 1.362+25.2 have?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "5",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Single Paper",
+   "q_en": "If the dot product of two non-zero vectors A and B is zero, then magnitude of their cross product is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "AB",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-AB",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Single Paper",
+   "q_en": "In an isothermal change, internal energy",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Decreases",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Increases",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Becomes zero",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Remains contant",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Single Paper",
+   "q_en": "The time rate of change of momentum gives",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Acceleration",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Impulse",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Power",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Force",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Single Paper",
+   "q_en": "Which of the following forces are conservative?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electric force",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Elastic spring force",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Gravitation force",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All of them",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Single Paper",
+   "q_en": "Which of the following factors has no effect on the speed of sound in gas?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Humidity",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Pressure",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Temperature",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Density",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Single Paper",
+   "q_en": "If the period of oscillation of mass M suspended from a spring is 2s, then the period of mass 4M will be,",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1s",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2s",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3s",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4s",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Single Paper",
+   "q_en": "At terminal velocity the acceleration of a falling object is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1ms⁻²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-9.8ms⁻²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "+9.8ms⁻²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Single Paper",
+   "q_en": "Linear acceleration a=rα when 'θ' is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "180°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "360°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Single Paper",
+   "q_en": "The angle formed by an arc at the center of the circle whose length is equal to the circumference of circle is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π/2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "π",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2π",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Single Paper",
+   "q_en": "If the amplitude of a wave is doubled, then its intensity is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Doubled",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Halved",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Quadrupled",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "One fourth",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Single Paper",
+   "q_en": "Which one is constant for a satellite in orbit?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Velocity",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "K.E",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Potential energy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Angular momentum",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Single Paper",
+   "q_en": "Triple point of water is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "273.16°F",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "372.16K",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "273.16K",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "373.16°F",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Single Paper",
+   "q_en": "When Fx=3N and Fy=4N, then F=______",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "7N",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "3N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Single Paper",
+   "q_en": "The numerical value of escape velocity on the surface of earth is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "11.2×10³ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "11.2×10³Kms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "11.2ms⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "11.2×10³ms⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Single Paper",
+   "q_en": "SI unit of impulse is;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Kgms⁻²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Ns",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ns⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Single Paper",
+   "q_en": "Work is said to be negative when F and d are;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Parallel",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Anti-parallel",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Perpendicular",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "At 45°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Single Paper",
+   "q_en": "Venturi meter is a device use to measure the",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mass of fluid",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Viscosity of fluid",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Speed of fluid",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Density of fluid",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

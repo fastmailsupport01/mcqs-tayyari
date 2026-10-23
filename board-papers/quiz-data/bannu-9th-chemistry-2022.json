@@ -1,0 +1,346 @@
+{
+ "board": "BISE Bannu",
+ "board_slug": "bannu",
+ "class": "9th",
+ "subject": "Chemistry",
+ "year": 2022,
+ "slug": "bannu-9th-chemistry-2022",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Single Paper",
+   "q_en": "In groups from top to bottom ionization energy.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Increase",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Decreases",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Unchanged",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Remains constant",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Single Paper",
+   "q_en": "Elements in a……have similar chemical properties.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Period",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Group",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Both A and B",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Neither a nor b",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Single Paper",
+   "q_en": "C₂Cl₂ contains.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ionic bond",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Covalent bond",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Metallic bond",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Coordinate covalent bond",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Single Paper",
+   "q_en": "The study of hydrocarbons is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Organic chemistry",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Inorganic chemistry",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Physical chemistry",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nuclear Chemistry",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Single Paper",
+   "q_en": "The molecular mass of ethane (C₂H₆) is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "8 amu",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "18 amu",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "30 amu",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "44 amu",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Single Paper",
+   "q_en": "P subshell can accommodate a maximum of ………electrons",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "14",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Single Paper",
+   "q_en": "The SI unit of pressure is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "NM⁻²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "N/m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "N/m²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Both A & C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Single Paper",
+   "q_en": "How many electrons are shared in a single covalent bond.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Single Paper",
+   "q_en": "the number of moles of solute dissolved per liter of solution is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Percentage composition",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Molarity",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Molality",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Single Paper",
+   "q_en": "NaOH is called……………electrolyte.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Weak",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Poor",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Non",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Strong",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Single Paper",
+   "q_en": "Halogens react with non-metals forming.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ionic halides",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Covalent Halides",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Metallic hydrides",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nitrides",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Single Paper",
+   "q_en": "Graphite is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Conductor",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Superconductor",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Non-conductor",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Insulator",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

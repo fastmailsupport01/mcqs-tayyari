@@ -1,0 +1,430 @@
+{
+ "board": "BISE Bannu",
+ "board_slug": "bannu",
+ "class": "12th",
+ "subject": "Computer Science",
+ "year": 2022,
+ "slug": "bannu-12th-computer-science-2022",
+ "questions": [
+  {
+   "n": null,
+   "group": "Single Paper",
+   "q_en": "The entities having a positive or negative influence in the project completion are known as...........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Stakeholders",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Stake supervisors",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Stake owners",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Single Paper",
+   "q_en": "DOS stand for...........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Doctor of system",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Documents of system",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Disk operating system",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Single Paper",
+   "q_en": "The expression E =6+5*4%3 evaluate to.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "11",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "13",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Single Paper",
+   "q_en": "Which of the following is a jump statement in C++?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Switch",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "If",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Until",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Goto",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Single Paper",
+   "q_en": "Which of the following is a ternary operator?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": ">=",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "?:",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[illegible in source scan]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "||",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Single Paper",
+   "q_en": "Which of the following header file must be included to use 'setw' manipulator?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "<. string.h>",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "<iostream.h>",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "<conio.h>",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "<iomanip.h>",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Single Paper",
+   "q_en": "Arguments of a function are separated with...........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Comma (,)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Semicolon (;)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Colon (:)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Single Paper",
+   "q_en": "A variable that stores the address of another variable is called...........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Local variable",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Pointer",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Global variable",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Static variable",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Single Paper",
+   "q_en": "Constructors are usually used for...........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Constructing programs",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Running classes",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Initializing objects",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Single Paper",
+   "q_en": "Default mode parameter for of stream is...........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "ios::out",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ios::in",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "ios::binary",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Both A & B",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Single Paper",
+   "q_en": "Inheritance is used to...........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Increase the site of program",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Make the program simpler",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Provide the facility of code reusability",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Provide data hiding",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Single Paper",
+   "q_en": "Float *ptr; points to which type of variable?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Integer type variable",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Character type variable",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Floating point type variable",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Single Paper",
+   "q_en": "The most recently launched operating system of Microsoft is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Windows 8",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Windows NT",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Windows 8.1",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Windows 11",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Single Paper",
+   "q_en": "Which of the following loop executes once if the condition false?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "For loop",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Do while loop",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "While loop",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nested loop",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Single Paper",
+   "q_en": "Variables inside parenthesis of functions declarations have...........level access.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Local",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Global",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Module",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Universal",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

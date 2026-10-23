@@ -1,0 +1,430 @@
+{
+ "board": "BISE Bannu",
+ "board_slug": "bannu",
+ "class": "9th",
+ "subject": "Mathematics",
+ "year": 2023,
+ "slug": "bannu-9th-mathematics-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Single Paper",
+   "q_en": "If z = 2 - 9i then conjugate of z is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-2 + 9i",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2 + 9i",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "9i",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Single Paper",
+   "q_en": "8.3x10⁻⁵ can be written in standard form as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.000083",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.00083",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.0000083",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.8300000",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Single Paper",
+   "q_en": "Which of the following is the base of common logarithm?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "π",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "e",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Single Paper",
+   "q_en": "Which of the following is a polynomial?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "y² + 1/y² + 2 (where y ≠ 0)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "y² + y⁻³ + 3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "y² + y⁻⁴ + 4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "y² + y⁻⁵ + 5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Single Paper",
+   "q_en": "(2p - q)³ =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "8p³ - q³ + 6pq (2p - q)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "8p³ + q³ + 6pq (2p + q)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "8p³ + q³ - 6pq (2p + q)",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8p³ - q³ - 6pq (2p - q)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Single Paper",
+   "q_en": "The factorization 4x² + 4xy + y² is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "(2x - y)(2x - y)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(2x + y)(2x + y)",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4x (x + y) + y²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4x (x + y) - y²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Single Paper",
+   "q_en": "If C and D are two polynomials and their HCF and LCM are respectively H and L then D =",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "C / (H×L)",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "(H×L) / C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "C / L",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "C / H",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Single Paper",
+   "q_en": "The solution of linear equation 2z + 3 = -6z + 5 is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/4",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "-1/4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "-2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Single Paper",
+   "q_en": "If S = {3,7} and T = {1,2}, then which of the following is ordered pair of S x T?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "{(3,1), (1,2)}",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "{(7,1)}",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "{(1,3)}",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "{(2,7), (1,3)}",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Single Paper",
+   "q_en": "Which of the following elements represent one of the columns of the matrix [[7, 2, 5],[4, 9, 8],[1, 6, 3]]",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "7, 2, 5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4, 9, 8",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7, 9, 3",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "2, 9, 6",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Single Paper",
+   "q_en": "Which of the following two matrices are equal? D = [[3-4, 2+3],[-6, 0+4]], E = [[4-5, 1+4],[-12+6, 4]], F = [[3-5, 3+3],[1, 0]], H = [[6-6, 0+5],[1, 0]]",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "D and E",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "E and F",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "F and H",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "H and D",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Single Paper",
+   "q_en": "Which of the following is an identity matrix?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[[0, 0, 0],[0, 0, 0],[0, 0, 0]]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[[1, 1, 1],[1, 1, 1],[1, 1, 1]]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[[1, 0, 0],[0, 1, 0],[0, 0, 1]]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[[1, 1, 0],[0, 1, 1],[1, 1, 0]]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Single Paper",
+   "q_en": "If R== [[-2, 3],[4, -5]] and T= [[1, -3],[-1, -4]] the R-T is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "[[-1, 0],[3, -1]]",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "[[-3, 6],[5, -1]]",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "[[3, 0],[3, 1]]",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "[[-2, -9],[-4, 20]]",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Single Paper",
+   "q_en": "The rational number 4/3 can be expressed as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "4.666666667",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.2142857143",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.33333333",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.33333333",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Single Paper",
+   "q_en": "y^(2/3) can be expressed in radical form as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "⁷√y³",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "⁷√y",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "³√y⁷",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "³√y",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

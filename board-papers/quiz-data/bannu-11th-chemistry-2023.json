@@ -1,0 +1,514 @@
+{
+ "board": "BISE Bannu",
+ "board_slug": "bannu",
+ "class": "11th",
+ "subject": "Chemistry",
+ "year": 2023,
+ "slug": "bannu-11th-chemistry-2023",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Single Paper",
+   "q_en": "Hydrogen gas molecules would have no kinetic energy at",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "-273°C",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0°C",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "25°C",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "273°C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Single Paper",
+   "q_en": "Which energy level allows only absorption and not emission of energy",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3d",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2p",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2s",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1s",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Single Paper",
+   "q_en": "Bohr's atomic model fails to explain the spectrum of",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "H⁺¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "He⁺¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Li⁺²",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Be⁺³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Single Paper",
+   "q_en": "In pressure cooker, the boiling point of liquid is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Constant",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Increased",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Decreased",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Single Paper",
+   "q_en": "A limiting reactant in the following reaction is H₂ + Cl₂ ⟶ 2HCl",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "H₂",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cl₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "HCl",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Single Paper",
+   "q_en": "Diamond and graphite are",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Isomorphs",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Isotopes",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Allotropes",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Isotones",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Single Paper",
+   "q_en": "At 25°C, which gas will show maximum deviation from ideal behaviour",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "CH₄",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "N₂",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "O₂",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "NH₃",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Single Paper",
+   "q_en": "Magnetic quantum number explains",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Stark effect",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Zeeman effect",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Tunnel effect",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Single Paper",
+   "q_en": "The least acidic of the following is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "HI",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "HBr",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "HCl",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "HF",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Single Paper",
+   "q_en": "What is the mass (in grams) of 5 moles of water (H₂O)",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "90g",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "36g",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "18g",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "100g",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Single Paper",
+   "q_en": "pH of an aquous solution is 9. It pOH is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "11",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "9",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "7",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Single Paper",
+   "q_en": "No work is done at constant:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Pressure",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Volume",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Temperature",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mass",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Single Paper",
+   "q_en": "Salt hydrolysis is the reverse of",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Neutralization",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Hydration",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Desalination",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Esterification",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Single Paper",
+   "q_en": "Comparatively more dilute aqueous solution of the following is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1M NaOH",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1N NaOH",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1m NaOH",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.5M NaOH",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Single Paper",
+   "q_en": "When moles of reactants and products are equal, then",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Kp =Kc",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Kp> Kc",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Kp< Kc",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Kp≥ Kc",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Single Paper",
+   "q_en": "A buffer solution that completely neutralizes the added strong acid, is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Acidic",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Basic",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Neutral",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Single Paper",
+   "q_en": "A binary ionic compound of greater lattice energy is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "NaCl",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "KBr",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "KI",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "LiF",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "group": "Single Paper",
+   "q_en": "The angle between two un-hybrid p-orbitals of the same atom / ion is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "109.5°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "120°",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1018 @@
+{
+ "board": "BISE Bannu",
+ "board_slug": "bannu",
+ "class": "12th",
+ "subject": "Physics",
+ "year": 2022,
+ "slug": "bannu-12th-physics-2022",
+ "questions": [
+  {
+   "n": null,
+   "group": "Group I",
+   "q_en": "If the charge is at rest in magnetic field, then force on charge is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "qvB",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "qvBsinθ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "qvBcosθ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group I",
+   "q_en": "The principle of dynamically induced emf is used in a",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Choke",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Transformer",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Thermocouple",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Generator",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group I",
+   "q_en": "In a choke coil the reactance X_L and resistance R are related as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "X_L = R",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "X_L << R",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "X_L >> R",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "X_L = ∞",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group I",
+   "q_en": "An alternating voltage is given by 20 sin157t. The frequency of alternating voltage is;",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "25Hz",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "50Hz",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "100Hz",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1000Hz",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group I",
+   "q_en": "A proton is about 1840 times heavier than an electron. When it is accelerated by a potential difference of 1KV, its kinetic energy will be",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1840KeV",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/1840 KeV",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1KeV",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "920KeV",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group I",
+   "q_en": "When a wire is stretched and its radius becomes r/2, then its resistance will be",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2R",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "16R",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "8R",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group I",
+   "q_en": "Step-up transformer has a transformation ratio of 3/2. What is the voltage in secondary coil, if the voltage in primary coil is 30V?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "45V",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "15V",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "90V",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "300V",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group I",
+   "q_en": "The torque in the coil can be increased by increasing",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Current, magnetic field, turns and Area of coil",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "No of turns only",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Current and magnetic field",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Area of coil",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group I",
+   "q_en": "By doubling the absolute temperature of blackbody, the total energy radiated will change by a factor of",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.5",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "16",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group I",
+   "q_en": "In order to achieve high accuracy, the slide wire of a potentiometer should be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "As short as possible",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "As long as possible",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Very thin",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Very thick",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group I",
+   "q_en": "A wire is stretched to double of its length the strain is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.5",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group I",
+   "q_en": "In He-Ne LASER, the discharged tube is filled with",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "85% He & 15% Ne",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "50% He & 50% Ne",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "15% He & 85% Ne",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "99% He & 1% Ne",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group I",
+   "q_en": "If x-rays are scattered from protons instead of electrons, the change in its wavelength for a given angle of scattering",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Increases",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Decreases",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Is unchanged",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "is one radian",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group I",
+   "q_en": "The quantity of U²³⁵ in naturally occurring uranium is about",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "99%",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "63%",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.7%",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "27%",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group I",
+   "q_en": "The shear modulus of elasticity G is given by",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "A1/Fθ",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "F1/Aθ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "F/Aθ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "A1/F",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group I",
+   "q_en": "If both the length and radius of the rod are doubled, then the modulus of elasticity will",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Increases",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Decreases",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Doubled",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Remains the same",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group I",
+   "q_en": "When transistor are used in digital circuits, they usually operate in the",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Active region",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Saturation and cut off regions",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Breakdown region",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Linear region",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group I",
+   "q_en": "In a transistor both collector base and base emitter junctions are reversed biased then it is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cut off region",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Active region",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Saturation regions",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Q-points",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group II",
+   "q_en": "Some charge is being given to the conductor then its potential is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Maximum at surface",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Maximum at center",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Remains constant",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group II",
+   "q_en": "A one microfarad capacitor of a TV is subjected to 4000 V potential difference. The energy stored in capacitor is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "8J",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "16J",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.004J",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.002J",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group II",
+   "q_en": "10⁶ electrons are moving in a conductor in one second, the current developed in the conductor is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.6×10⁻¹⁹A",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1A",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.6×10⁻¹³A",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10⁶A",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group II",
+   "q_en": "A wire of uniform cross section A, length L and resistance R is cut into two equal halves, the resistivity of each half will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Doubled",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Remains same",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Become half",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group II",
+   "q_en": "The magnetic flux will be maximum for an angle of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0°",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "180°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group II",
+   "q_en": "The force on a charge particle moving parallel to magnetic field is [illegible in source scan]",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Maximum",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Minimum",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group II",
+   "q_en": "In step-up transformer ______ remains constant:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Heat",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Current",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Voltage",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Power",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group II",
+   "q_en": "The emf induced in the stationary conductor placed in moving magnetic field is called ______ emf.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Motional",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Dynamically induced",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Statically induced",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Negative",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group II",
+   "q_en": "The phase difference between the current and voltage at resonance is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "π",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "-π",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "π/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group II",
+   "q_en": "______ waves are not the example of electromagnetic waves.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Radio",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Micro",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ultrasonic",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "X-rays",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group II",
+   "q_en": "Atoms are arranged in perfectly periodic manner in ______ solids.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Amorphous",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Polycrystalline",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Crystalline",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group II",
+   "q_en": "In a transistor, collector current is controlled by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Collector voltage",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Base current",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Collector resistance",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group II",
+   "q_en": "Pair production cannot take place in vacuum because of law of conservation of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Charge",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Mass",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Momentum",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Energy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group II",
+   "q_en": "Davisson and Germer experiment confirm ______ nature of electron:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Particle",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Wave",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Dual",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group II",
+   "q_en": "LASER is a device that produce ______ beam of light:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Highly intense",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Monochromatic",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Unidirectional",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group II",
+   "q_en": "In Bohr's model of hydrogen atom, the lowest orbit corresponds to ______ energy:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Infinite",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Maximum",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Minimum",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group II",
+   "q_en": "The unit of decay constant λ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "ms",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "s⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "s",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": null,
+   "group": "Group II",
+   "q_en": "Gamma radiations are emitted due to ______ of the nucleus:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "De-excitation",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Excitation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Spin motion",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,430 @@
+{
+ "board": "BISE Bannu",
+ "board_slug": "bannu",
+ "class": "11th",
+ "subject": "Computer Science",
+ "year": 2021,
+ "slug": "bannu-11th-computer-science-2021",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Single Paper",
+   "q_en": "..........translate a high level language program as a whole.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Interpreter",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Complier",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Assembler",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Processor",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Single Paper",
+   "q_en": "Hierarchical DBMS organizes data elements into..........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Segments",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Data compartments",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Data units",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Objects",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Single Paper",
+   "q_en": "Class C is used for............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Large Networks",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Small Networks",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Experimental",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Multicasting",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Single Paper",
+   "q_en": "............technology is most expensive to implement.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Star",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Bus",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Ring",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mesh",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Single Paper",
+   "q_en": "..........is volatile memory.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ram",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Rom",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Prom",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Hard disc",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Single Paper",
+   "q_en": "Notebook computer is example of .............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Microcomputer",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Mini Computer",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Super Computer",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Embedded computer",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Single Paper",
+   "q_en": "A software which controls a particular device is called.........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Utility software",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Device Driver",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "RAM",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Processor",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Single Paper",
+   "q_en": "Common data transfer instructions is/ are",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "MOV",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "LOAD",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "STORED",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Single Paper",
+   "q_en": "Which of the following is called firmware?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "DOS",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Windows",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "UNIX",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "BIOS",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Single Paper",
+   "q_en": "Which of the following is called a DBMS?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "MS word",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "MS Excel",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "MS Access",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "MS PowerPoint",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Single Paper",
+   "q_en": "In ERD, oval symbol is used for............",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Entity",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Relationship",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Attribute",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Network",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Single Paper",
+   "q_en": "Television and radio transmission is an example of.........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Simplex",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "half duplex",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Full Duplex",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Duplex",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Single Paper",
+   "q_en": "............uses 802.11 standard developed by IEEE.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Wi-Fi",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Bluetooth",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Infa-red",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Wimax",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Single Paper",
+   "q_en": "A row in a table is also known as..........",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Column",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Relation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Tuple",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Field",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Single Paper",
+   "q_en": "IP address are divided into...........classes.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "4",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "5",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}
