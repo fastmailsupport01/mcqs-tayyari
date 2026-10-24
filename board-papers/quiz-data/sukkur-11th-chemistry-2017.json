@@ -1,0 +1,486 @@
+{
+ "board": "BISE Sukkur",
+ "board_slug": "sukkur",
+ "class": "11th",
+ "subject": "Chemistry",
+ "year": 2017,
+ "slug": "sukkur-11th-chemistry-2017",
+ "questions": [
+  {
+   "n": "(i)",
+   "group": "Group I",
+   "q_en": "In determining empirical formula the mole ratio of elements is calculated by dividing the percentage of each element with its:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Atomic number",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Atomic mass",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Smallest quotient",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Formula mass",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "(ii)",
+   "group": "Group I",
+   "q_en": "64g O2 at S.T.P occupies volume:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "22.4 dm³",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "44.8 dm³",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "11.2 dm³",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "5.6 dm³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "(iii)",
+   "group": "Group I",
+   "q_en": "3.01×10²⁰ molecules of glucose (C₆H₁₂O₆) have mass in grams:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "0.9",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "2.24 m3",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "0.0224 m³",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "N.m²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "(iv)",
+   "group": "Group I",
+   "q_en": "In general gas equation when pressure is 101300 Nm⁻² then volume of gas will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "22.4 m3",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "2.24 m³",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "0.0224 m³",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "11.2m³",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "(v)",
+   "group": "Group I",
+   "q_en": "The S.I Unit of viscosity is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "erg. s.m²",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "N.s.m⁻²",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "N.s.m²",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "N.m²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "(vi)",
+   "group": "Group I",
+   "q_en": "Electron behaves as a wave is the statement of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Niels Bohr",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Rutherford",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Heisenberg",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "De Broglie",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "(vii)",
+   "group": "Group I",
+   "q_en": "The maximum number of electrons which can be accommodated in an energy sub level is determined by formula:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "2(l + 1)",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "2(2l + 1)",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "2(2l + 2)",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "(n + l)",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "(viii)",
+   "group": "Group I",
+   "q_en": "For the removal of valence electron from Na atom the value of energy required in KJ/moles is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "395",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "595",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "495",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "594",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "(ix)",
+   "group": "Group I",
+   "q_en": "The molecule which has two partially filled 2p_y and 2p_z orbitals is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "N₂",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "H₂",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Cl₂",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "O₂",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "(x)",
+   "group": "Group I",
+   "q_en": "The bond angle in CH₄ molecule is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "109.5°",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "104.5°",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "107.5°",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "90°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "(xi)",
+   "group": "Group I",
+   "q_en": "In a reversible reaction when there is a decrease in the volume on the product side the relation is expressed as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Kp = Kc",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Kp > Kc",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Kp < Kc",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "(xii)",
+   "group": "Group I",
+   "q_en": "Ionic product of dissolved ions is called as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Common Ion Effect",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Solubility Product",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Normality",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Molarity",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "(xiii)",
+   "group": "Group I",
+   "q_en": "The ability of an ion to form hydrate depends upon:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Molecular mass",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Atomic mass",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Charge density",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Nature of ion",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "(xiv)",
+   "group": "Group I",
+   "q_en": "Hydrolysis does not occur in the solution (aq.) of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "NaOH",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "[illegible in source scan]Cl",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "NaCl",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "NH₄Cl",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "(xv)",
+   "group": "Group I",
+   "q_en": "In super oxide the O.N. of oxygen is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "2⁻",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "1⁻",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "−1/2",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "1/2",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "(xvi)",
+   "group": "Group I",
+   "q_en": "Oxidation number of Mn in MnO₄⁻ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "1⁺",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "3⁺",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "5⁺",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "7⁺",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": "(xvii)",
+   "group": "Group I",
+   "q_en": "The sum of exponents of concentration is called as:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Rate of reaction",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Order of reaction",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Molecularity of reaction",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Fast reaction",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,486 @@
+{
+ "board": "BISE Sukkur",
+ "board_slug": "sukkur",
+ "class": "12th",
+ "subject": "Physics",
+ "year": 2019,
+ "slug": "sukkur-12th-physics-2019",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Electric charge of 100 μc is 0.13m from the another charge of 16.9 μc. The electric force between them is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "9×10² N",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "9×10⁵ N",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "9×10⁻⁴ N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9×10⁻⁷ N",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "If the De-Broglie wave length is same for all the particles, whose velocity will be more:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electron",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Proton",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Deutron",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "α – particle",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "The magnetic field strength of Solenoid is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "β = μo n / I",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "β = μo n I",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "β = μo N² / l",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "β = nI / μo",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "A current carrying conductor is placed in uniform magnetic field parallel to it. The magnetic force experience by the conductor is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "BIL",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "IL / β sin θ",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "IL / β cos θ",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "A 5 μf capacitor has p.d across its plates of 200 volts. The charge on the capacitor is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "2.5×10⁻⁴ c",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4×10⁻³ c",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1×10⁻³ c",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1×10³ c",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "Universal gas constant per molecule is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Avogadro number",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Boltzmann Constant",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "General gas constant",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The number of electrons in one coulomb charge is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "6.2×10²¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1.6×10⁻¹⁹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "6.2×10¹⁸",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3.2×10¹⁹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "How much heat does a 40 watt generates in one hour?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "144000 J",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "14400 J",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1440 J",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "144 J",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "A metal rod 25 cm in length is moving at a speed of 0.5 m/s in the direction perpendicular to magnetic field of 0.25 Weber/m². Emf produce in rod is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero volt",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "3.125 volt",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "0.3125 volt",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "0.03125 volt",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "If the material object moves with speed of light, its mass becomes:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Equal to rest mass",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Double of its rest mass",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Infinite",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The most accurate resistance measuring instrument is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Meter bridge",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Carey foster bridge",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "P.O Box",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Callender bridge",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "A wire of uniform area of cross section “A” length “L” and resistance “R” cut into two parts, the resistivity of each part is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Remains the same",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Double",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Halved",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Which of the following works on Torque on the current carrying conductor placed in the magnetic field?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Galvanometer",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Electric motor",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "D.C motor",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "S. I unit of permittivity of free space is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Nm²C²",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "C²/Nm²",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "mC²/N",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nm/C",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Electromagnetic waves transport:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Energy",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Charge",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mass",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Force",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "Iso Thermal process follows:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Graham's Law",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Pascal Law",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Charles Law",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Boyle's Law",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "A Dynamo converts:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Mechanical energy into Electrical energy",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Electrical energy into Mechanical energy",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Magnetic energy into Electric energy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

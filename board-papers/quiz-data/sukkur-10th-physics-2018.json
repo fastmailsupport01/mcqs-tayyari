@@ -1,0 +1,486 @@
+{
+ "board": "BISE Sukkur",
+ "board_slug": "sukkur",
+ "class": "10th",
+ "subject": "Physics",
+ "year": 2018,
+ "slug": "sukkur-10th-physics-2018",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group",
+   "q_en": "What is pivot point?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Force",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Fulcrum",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Lever",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Pulley",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group",
+   "q_en": "Magnetic field outside a solenoid is ________",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Strong",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Infinite",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Negligible",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group",
+   "q_en": "In Gamma emission charge in nucleon number is ________",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Increase by 1",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "definite",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Decrease by 1",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group",
+   "q_en": "Electromagnetic waves carries ________",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Energy",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Frequency",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Charge",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Wave length",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group",
+   "q_en": "By using prefixes we can write 335×10⁻⁸ s as.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "0.335μs",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "33.5μs",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "335μs",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3.35μs",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group",
+   "q_en": "The presence of impurities ________ the freezing point of water.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Increases",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Decreases",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Accelerates",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Does not effect on",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group",
+   "q_en": "The index of refraction depends on ________",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Focal length",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Speed of light",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Image distance",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Object distance",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group",
+   "q_en": "Measuring unit of nuclear radiation is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Curie",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Newton",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Watt",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Rem",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group",
+   "q_en": "The work done in lifting a brick of mass 2kg through a height of 5cm above ground will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "25 J",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10 J",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "50 J",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "100 J",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group",
+   "q_en": "Radioactive decay is a ________ process",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Random",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Regular",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Massive",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Non-Spontaneous",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group",
+   "q_en": "Potential energy and kinetic energy are types of ________ energy",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Electrical",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Magnetic",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Thermal",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Mechanical",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group",
+   "q_en": "Coefficient of volume expansion of solids is ________",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Greater than liquids",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Equal to gases",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Less than liquids",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Equal to liquids",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group",
+   "q_en": "Inertia depends upon ________",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Force",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Net force",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Mass",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Velocity",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group",
+   "q_en": "The maximum value of the A.C in either direction is known as its ________",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Average",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Square",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Root mean square",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Peak value",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group",
+   "q_en": "The half life of a certain isotope is 1 day. What is the quantity of isotope after 2 days?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1/2",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "1/4",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1/8",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group",
+   "q_en": "Most of the electric charge around us is bound in ________",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Negative atom",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Neutral atom",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Positive atom",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Remain same",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group",
+   "q_en": "Which very sensitive instrument can detect small current in a circuit?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Am meter",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Volt meter",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Battery",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Galvanometer",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

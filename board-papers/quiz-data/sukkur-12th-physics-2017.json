@@ -1,0 +1,486 @@
+{
+ "board": "BISE Sukkur",
+ "board_slug": "sukkur",
+ "class": "12th",
+ "subject": "Physics",
+ "year": 2017,
+ "slug": "sukkur-12th-physics-2017",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Capacitance of parallel plate capacitor does not depend upon",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Area of plates",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Medium between the plates",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Seperation of the plates",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nature of material of the plates",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The absolute potential at a point distance 20 cm from a charge of 2 μc is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "9×10² V",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "9×10³ V",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "9×10⁴ V",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9×10⁵ V",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Which of the following represents an Electric Current?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Erg c⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Cs⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Js⁻¹",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Vm⁻¹",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "If the resistance of 2 ohm and 4 ohm are connected in parallel, the equivalent resistance will be",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "6 Ohm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "4 Ohm",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "1.5 Ohm",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.33 Ohm",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Which one of the following instrument can measure the unknown resistance with sufficient accuracy?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Slide wire bridge",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Post office box",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Potentiometer",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Galvanometer",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The SI unit of magnetic induction is Tesla which is also equal to",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10⁴ Gauss",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10⁻⁴ Gauss",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10⁻³ Gauss",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10⁻² Gauss",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Weber is the unit of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Magnetic field intensity",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Magnetic induction",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Magnetic flux",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Magnetic flux density",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The common doorbell requires a voltage of about",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "7 volts",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10 volts",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "9 volts",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "4 volts",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "The higher frequency wave having constant amplitude and a fixed frequency is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Modulated carrier waves",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Carrier waves",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Modulated signal",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Electromagnetic waves",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Which one of the following substance cannot be used to form n – type substance?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Aluminium",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Antimony",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Phosphorus",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Arsenic",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "The maximum speed of electrons ejected by incident light on a metal surface depends only on:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Intensity of incident light",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Temperature of metal surface",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Frequency of incident light",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Nature of metal",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "The rest mass energy of an electron is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "1.02 Mev",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "0.511 Mev",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "931.5 Mev",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "9.11×10⁻³⁰ Mev",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "Life time of meta stable state is",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10⁻⁵ sec",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10⁻⁴ sec",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10⁻³ sec",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10⁻² sec",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "Mass defect per nucleon is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Binding energy",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Packing fraction",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Average energy",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Excitation energy",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "The natural direction of flow of heat between two reservoirs depends upon",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Whether they are in Solids, liquid state",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Their pressure",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Their temperature difference",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Their heat content",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "The internal energy of an ideal gas depends upon",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Only temperature",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Only pressure",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Only volume",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Temperature and pressure",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "Various types of Cancer are treated by",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Cobalt – 60",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Stronium – 90",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Carbon – 14",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Iodine – 131",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

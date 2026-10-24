@@ -1,0 +1,486 @@
+{
+ "board": "BISE Sukkur",
+ "board_slug": "sukkur",
+ "class": "11th",
+ "subject": "Physics",
+ "year": 2018,
+ "slug": "sukkur-11th-physics-2018",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "The unit of thermodynamic temperature is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "C° and F°",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "F° and K",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Only C°",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Only K",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "Linear momentum and impulse has same:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Dimension",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Unit",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Physical significance",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Both Dimension & Unit",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "If a vector A⃗ is multiplied by negative number (n < 0) then its direction is changed by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "0°",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "60°",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "180°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The resultant of two forces of magnitude 5N each has also magnitude of 5N, the angle between the forces",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "0°",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "90°",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "120°",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "180°",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Coplanar forces are those which are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Right angle to each other",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Parallel to each other",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Anti parallel to each other",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Acting in common plane",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "For uniform motion of a car along a straight line, the acceleration will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Uniform",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Variable",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Average",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The range of projectile is directly proportional to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "sin 2θ",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "cos 2θ",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "sin² θ",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "2 sin θ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "The unit of work in CGS system is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Joule",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Newton",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Dyne",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Ergs",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Work energy principle is applied on:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "K.E",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Gravitational P.E",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Elastic P.E",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "For positive angular displacement the rotation would be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Clockwise",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Anti clockwise",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Parallel",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Perpendicular",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "A man in an elevator descending with acceleration will conclude that his weight has:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Increased",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Decreased",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Remain same",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Zero",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "When a bob of simple pendulum is at extreme position then it has maximum:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "K.E",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "P.E",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Both K.E & P.E",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "The component of weight mg sin θ in simple pendulum is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Along the centre",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Perpendicular to string",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Along the string",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "Sonar is used to detect:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Location of submarine",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Depth of sea",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Control anti-submarine weapons",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Beats are used to find:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Frequency",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "wavelength",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Intensity",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Speed",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "The electromagnetic wave theory was proposed by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Hertz",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Maxwell",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Einstein",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Huygen",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "The Collimator in a spectrometer is used to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Disperse the light beam",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Reflect the light beam",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Make the beam light parallel",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Converge the light beam",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

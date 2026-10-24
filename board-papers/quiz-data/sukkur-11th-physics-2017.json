@@ -1,0 +1,486 @@
+{
+ "board": "BISE Sukkur",
+ "board_slug": "sukkur",
+ "class": "11th",
+ "subject": "Physics",
+ "year": 2017,
+ "slug": "sukkur-11th-physics-2017",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Unit of luminous intensity is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "N/C",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "N/m²",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Jm²",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Candela",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "The resultant of two equal and opposite vector is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Unit vector",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Null vector",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Position vector",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Free vector",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Rate of change of momentum is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Torque",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Work",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Force",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Power",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "Limiting friction is given by F = μR, where μ is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Mass per length",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Coefficient of viscosity",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Coefficient of friction",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Weight per length.",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Acceleration of a body moving down a smooth plane inclined at 30° will be:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "980 m/sec²",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "9.8 m/sec²",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "4.9 m/sec²",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "9.4 m/sec²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "If a body falls freely, the distance covered by it in 2 seconds is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "9.8 m",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "1.96 m",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "19.6 m",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "9.2 m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "Direction of angular velocity can be determined by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Law of Sine",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Law of Cosine",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Right Hand Rule",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Left Hand Rule",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "At the distance equal to double the earth’s radius the value of “g” reduces to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "One half",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "One third",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "One fourth",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "One ninth",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Gravitational P.E possessed by a body lifted through small vertical height \"h\" is given by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Mg/h",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "mh/g",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "mgh",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "1/2 mv²",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "Decibel is the unit of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Intensity of sound",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Pitch of sound",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Loudness of sound",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Intensity level",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "Maximum number of beats/seconds that a normal human ear can hear clearly is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "3 beats /sec",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "7 beats/sec",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "10 beats/sec",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "15 beats/sec",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Beats are produced due to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Diffraction",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Interference",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Polarization",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Resonance",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "“Sone” is the unit of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Intensity level",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Intensity of sound",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Pitch of sound",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Loudness of sound",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "In case of a thin film conditions for path difference for constructive interference is equal to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "(m + 1/2) λ",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "mλ",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "mλ/2",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "(m − 1/2) λ",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "Polarization of light shows that light waves are:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Electromagnetic",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Mechanical",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Longitudinal",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Transverse",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "Wave theory of light cannot explain:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "Polarization",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "Photo electric effect",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "Interference",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "Dispersion",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "Acceleration of simple pendulum is given by:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "a",
+     "en": "− glx",
+     "ur": ""
+    },
+    {
+     "k": "b",
+     "en": "− g/l x",
+     "ur": ""
+    },
+    {
+     "k": "c",
+     "en": "− l/g x",
+     "ur": ""
+    },
+    {
+     "k": "d",
+     "en": "− g/2l x²",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}

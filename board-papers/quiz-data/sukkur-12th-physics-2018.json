@@ -1,0 +1,486 @@
+{
+ "board": "BISE Sukkur",
+ "board_slug": "sukkur",
+ "class": "12th",
+ "subject": "Physics",
+ "year": 2018,
+ "slug": "sukkur-12th-physics-2018",
+ "questions": [
+  {
+   "n": 1,
+   "group": "Group I",
+   "q_en": "Which of these is non –ohm conductors:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Copper",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Silver",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Iron",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Semi conductor",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "group": "Group I",
+   "q_en": "To measure the current in a circuit an ammeter is always connected in:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Series",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Parallel",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Neither parallel nor series",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Some time parallel some time series",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "group": "Group I",
+   "q_en": "Which one of the following is called inertia of electricity",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Back - emf",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Solar cell",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Potential gradient",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "group": "Group I",
+   "q_en": "The resistors of resistance 2 Ohms, 5 Ohms and 7 Ohms are connected in parallel. If the potential difference across 5 Ohms is 5 volt, the potential difference across other resistors is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "9 volt",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "5 volt",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "2.5 volt",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "1.5 volt",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "group": "Group I",
+   "q_en": "Television announced 48° temperature of Sukkur in cold January day, this temperature corresponds to:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Fahrenheit",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Celsius",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Kelvin",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "All of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "group": "Group I",
+   "q_en": "The mass of a particle moving with velocity of light is equal to: What?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Zero",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Infinite",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Finite",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Unit",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "group": "Group I",
+   "q_en": "The velocities of seven molecules are 1 Km/h, 2Km/h, 3Km/h, 4Km/h, 5 Km/h, 6Km/h and 7 Km/h respectively. Find the mean square speed of these gas molecules.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "20 Km/h",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "100 Km/h",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "40 Km/h",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "140 Km/h",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "group": "Group I",
+   "q_en": "Work function for a metal is 4.14 ev. Threshold frequency of the incident light for the metal is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10¹² Hz",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10¹⁵ Hz",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10¹³ Hz",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "10¹⁶ Hz",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "group": "Group I",
+   "q_en": "Three dimensional images of objects obtained by using lasers in a process called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Crystalography",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Holography",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Geography",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "group": "Group I",
+   "q_en": "In a p – n junction diode the width of depletion layer is 0.5 μm and potential barrier is 0.5 volt. Calculate the barrier electric field:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "10⁻⁶ V/m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "10⁴ V/m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "10⁶ V/m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "None of these",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "group": "Group I",
+   "q_en": "An electron passing close to a target nucleus there by slows down by radiating some of its energy, this process is called:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Compton effect",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Photo electric effect",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Bremsstrahlung",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Laser",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "group": "Group I",
+   "q_en": "Which one of the following quantities in electricity is analogous to temperature?",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Potential",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Resistance",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Charge",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Heat",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "group": "Group I",
+   "q_en": "A proton falls freely under gravity. What will be de – Broglies wavelength after 10 seconds of its motion. (Take g=10 ms⁻¹)",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "3×10⁻⁸ m",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "6.63×10⁻³⁴ m",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "19.6×10⁻¹⁴ m",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "3.95×10⁻⁹ m",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "group": "Group I",
+   "q_en": "Which term relates to magnetism:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Ohm",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "mole",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Gauss",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Temperature",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "group": "Group I",
+   "q_en": "When the p-n junction is forward – biased the width of depletion region.",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Increases",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Decreases",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Remains same",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "p-n junction cannot be forward-biased",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "group": "Group I",
+   "q_en": "An electric eye operates because of:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Compton effect",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "γ – radiation",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Radiation pressure",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Photoelectric effect",
+     "ur": ""
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "group": "Group I",
+   "q_en": "The quantity that remains unchanged in a transformer is:",
+   "q_ur": "",
+   "options": [
+    {
+     "k": "A",
+     "en": "Voltage",
+     "ur": ""
+    },
+    {
+     "k": "B",
+     "en": "Current",
+     "ur": ""
+    },
+    {
+     "k": "C",
+     "en": "Potential difference",
+     "ur": ""
+    },
+    {
+     "k": "D",
+     "en": "Frequency",
+     "ur": ""
+    }
+   ]
+  }
+ ]
+}
