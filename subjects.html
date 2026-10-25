@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Subjects | MCQs Tayyari — PPSC Test Preparation</title>
-<meta name="description" content="Browse all 10 PPSC subjects on MCQs Tayyari: Computer Science, English, Urdu, Islamiyat, Everyday Science, Pak Study, GK, Current Affairs, Basic Mathematics, Past Papers.">
+<title>PPSC Subjects MCQs | All 10 Subjects | MCQs Tayyari</title>
+<meta name="description" content="Practice all 10 PPSC subjects free: Computer Science, English, Urdu, Islamiyat, Everyday Science, Pak Study, GK, Current Affairs, Basic Math and Past Papers.">
 <meta name="robots" content="index, follow">
 <link rel="canonical" href="https://mcqstayyari.online/subjects">
 <link rel="icon" href="favicon.png">
@@ -33,8 +33,8 @@
   <div class="wrap">
     <div class="sec-head">
       <span class="sec-kicker">Study Library</span>
-      <h2>All Subjects</h2>
-      <p>Pick a subject and start practicing. Answers stay hidden until you attempt — just like the real exam.</p>
+      <h1>All Subjects for PPSC &amp; Competitive Exams</h1>
+      <p>Practice subject-wise MCQs for PPSC, FPSC, CSS and all competitive exams in Pakistan. Choose a subject — Computer Science, English, Urdu, Islamiyat, Everyday Science, Pak Study, General Knowledge, Current Affairs, Basic Mathematics or Past Papers — and attempt questions with answers hidden until you try. Free, no login.</p>
     </div>
     <div class="grid" id="allSubjects"></div>
   </div>
@@ -69,9 +69,11 @@
       var link = s.slug === "past-papers"
         ? '<a class="btn btn-orange" href="past-papers">Browse Papers →</a>'
         : '<a class="btn '+(n?'btn-green':'btn-outline')+'" href="practice?subject='+s.slug+'">Practice →</a>';
+      var guides = {"computer-science":"blog/computer-science-mcqs-most-repeated-ppsc","english":"blog/english-for-ppsc-fpsc-30-day-grammar-plan","islamiyat":"blog/islamiat-competitive-exams-high-scoring-topics","everyday-science":"blog/everyday-science-ppsc-most-repeated-topics","pak-study":"blog/pakistan-studies-mcqs-complete-revision-guide","current-affairs":"blog/current-affairs-2026-ppsc-fpsc-preparation-guide","basic-mathematics":"blog/basic-mathematics-ppsc-formulas-guide","past-papers":"blog/ppsc-past-papers-toppers-strategy"};
+      var extra = '<div style="margin-top:10px;font-size:14px"><a href="ebooks">'+MT.esc(s.name)+' free ebook</a>' + (guides[s.slug] ? ' · <a href="'+guides[s.slug]+'">'+MT.esc(s.name)+' preparation guide</a>' : '') + '</div>';
       d.innerHTML = '<div class="card-icon">'+s.icon+'</div><h3>'+MT.esc(s.name)+'</h3><p>'+MT.esc(s.desc)+'</p>'
         + '<div class="meta">'+(n ? '<span class="badge live">'+n+' MCQs</span>' : '<span class="badge soon">Coming soon</span>')+'</div>'
-        + link;
+        + link + extra;
       grid.appendChild(d);
     });
   }
