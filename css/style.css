@@ -346,3 +346,99 @@ footer ul a:hover{color:var(--orange);transform:translateX(4px)}
   .mobile-nav{display:none!important}
   body{padding-bottom:0!important}
 }
+
+/* ==========================================================================
+   Theme refresh (2026-10-28): clean, modern, airy — mcqlearn-inspired spirit.
+   Brand colors (green + orange) kept to match the logo. This block sits last
+   so it wins at equal specificity. Theme tokens and surface styles only —
+   no content, URL, nav, schema, ad, or quiz-logic changes.
+   ========================================================================== */
+:root{
+  --ink:#17211c;
+  --muted:#5f6f66;
+  --line:#e7ebe8;
+  --bg-soft:#f7faf8;
+  --shadow-card:0 1px 3px rgba(16,42,29,.06),0 14px 34px -18px rgba(8,117,64,.20);
+  --shadow-card-hover:0 3px 8px rgba(16,42,29,.07),0 24px 44px -18px rgba(8,117,64,.26);
+}
+body{font-size:16px;line-height:1.7}
+.wrap{padding:0 28px}
+
+/* Header: slimmer, flatter, cleaner */
+header.site{box-shadow:0 1px 0 var(--line),0 10px 30px -18px rgba(8,117,64,.15)}
+.header-inner{height:70px}
+.brand img{height:44px;filter:none}
+nav.main-nav a{padding:9px 14px;font-size:15px}
+nav.main-nav a:hover{transform:none;background:var(--green-light)}
+.nav-cta{box-shadow:0 8px 20px -8px rgba(247,107,18,.55)!important}
+.nav-cta:hover{transform:translateY(-1px)!important;box-shadow:0 12px 24px -8px rgba(247,107,18,.6)!important}
+.nav-cta:active{transform:translateY(0)!important;box-shadow:0 4px 12px -6px rgba(247,107,18,.5)!important}
+
+/* Hero: airier, calmer */
+.hero{padding:76px 0 84px}
+.hero::before{opacity:.3}
+.orb{opacity:.32}
+.hero h1{letter-spacing:-.5px}
+.hero-stat{box-shadow:none;border-radius:14px}
+.hero-stat:hover{transform:translateY(-2px)}
+
+/* Buttons: flat-modern, no 3D bottom bar */
+.btn{box-shadow:none}
+.btn-orange{background:linear-gradient(180deg,#ff8a2a,var(--orange));box-shadow:0 10px 24px -10px rgba(247,107,18,.55)}
+.btn-orange:hover{transform:translateY(-2px);box-shadow:0 14px 28px -10px rgba(247,107,18,.6)}
+.btn-orange:active{transform:translateY(0);box-shadow:0 6px 14px -8px rgba(247,107,18,.5)}
+.btn-green{background:linear-gradient(180deg,#12a35c,var(--green));box-shadow:0 10px 24px -10px rgba(8,117,64,.5)}
+.btn-green:hover{transform:translateY(-2px);box-shadow:0 14px 28px -10px rgba(8,117,64,.55)}
+.btn-green:active{transform:translateY(0);box-shadow:0 6px 14px -8px rgba(8,117,64,.45)}
+.btn-outline{box-shadow:none}
+.btn-outline:hover{transform:translateY(-2px);box-shadow:0 10px 20px -12px rgba(8,117,64,.4)}
+.btn-outline:active{transform:translateY(0);box-shadow:none}
+.btn-ghost{box-shadow:none}
+.btn-ghost:hover{transform:translateY(-2px)}
+.btn-ghost:active{transform:translateY(0)}
+
+/* Sections: more air */
+section.block{padding:84px 0}
+.sec-head{margin-bottom:44px}
+.sec-kicker{box-shadow:0 6px 14px -8px rgba(8,117,64,.45)}
+
+/* Cards: clean, light, gentle lift */
+.card{border-radius:18px;padding:28px 26px}
+.card::before{height:4px}
+.card:hover{transform:translateY(-6px)}
+.card-icon{border-radius:14px;box-shadow:0 8px 16px -8px rgba(8,117,64,.45)}
+.card:hover .card-icon{transform:scale(1.06)}
+.exam-logo{box-shadow:0 8px 18px -10px rgba(8,117,64,.3)}
+.card:hover .exam-logo{transform:scale(1.04)}
+/* Subject counts as tidy flat pills (prominent counts, mcqlearn-style) */
+.meta .badge.live{background:var(--green-light);color:var(--green-dark);box-shadow:none}
+.meta .badge.soon{box-shadow:none}
+.blog-card:hover{transform:translateY(-4px)}
+.page-block{border-radius:20px}
+.page-block::before{height:5px}
+
+/* FAQ + tables: soften, keep structure */
+.faq-item{box-shadow:0 2px 10px -6px rgba(8,117,64,.18)}
+.faq-item:hover{box-shadow:0 10px 24px -12px rgba(8,117,64,.28)}
+.faq-item.open{box-shadow:0 12px 26px -12px rgba(8,117,64,.3)}
+.faq-q span.arrow{box-shadow:0 3px 10px -2px rgba(247,107,18,.5)}
+
+/* Footer: a touch lighter */
+footer{padding:56px 0 24px}
+
+/* Responsive: match slimmer header */
+@media(max-width:640px){
+  nav.main-nav{top:70px}
+  .hero{padding:56px 0 64px}
+  section.block{padding:60px 0}
+  .card{padding:24px 20px}
+}
+@media(min-width:1024px){
+  .hero{padding:96px 0 104px}
+  section.block{padding:92px 0}
+}
+/* Keep reduced-motion protection after the overrides above */
+@media(prefers-reduced-motion:reduce){
+  *,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}
+  html{scroll-behavior:auto}
+}
