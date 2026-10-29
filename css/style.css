@@ -442,3 +442,132 @@ footer{padding:56px 0 24px}
   *,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}
   html{scroll-behavior:auto}
 }
+/* ==========================================================================
+   Full-site redesign (2026-10-29): light, editorial, modern — whole site,
+   hero included. Brand green + orange kept to match the logo; logo untouched.
+   This block sits last so it wins at equal specificity. Design/CSS only —
+   no content, URL, nav, schema, ad, or quiz-logic changes.
+   ========================================================================== */
+:root{
+  --shadow-card:0 1px 2px rgba(16,42,29,.05),0 16px 36px -20px rgba(8,117,64,.22);
+  --shadow-card-hover:0 2px 6px rgba(16,42,29,.06),0 26px 48px -20px rgba(8,117,64,.28);
+  --shadow-soft:0 10px 28px -16px rgba(8,117,64,.28);
+}
+
+/* ---------- Header: solid white + brand accent line ---------- */
+header.site{background:#fff;-webkit-backdrop-filter:none;backdrop-filter:none;border-bottom:1px solid var(--line);box-shadow:none}
+header.site::after{content:"";position:absolute;left:0;right:0;bottom:-1px;height:3px;background:linear-gradient(90deg,var(--green),#22b86a 45%,var(--orange))}
+.header-inner{height:70px}
+.brand img{height:44px;filter:none}
+nav.main-nav a{padding:9px 14px;font-size:15px;border-radius:10px}
+nav.main-nav a:hover{transform:none;background:transparent;color:var(--orange-dark);box-shadow:inset 0 -3px 0 var(--orange)}
+nav.main-nav a.active{background:transparent;color:var(--green-dark);box-shadow:inset 0 -3px 0 var(--orange)}
+.nav-cta{background:var(--orange)!important;color:#fff!important;box-shadow:0 8px 20px -10px rgba(247,107,18,.6)!important}
+.nav-cta:hover{background:var(--orange-dark)!important;transform:translateY(-1px)!important;box-shadow:0 12px 24px -10px rgba(247,107,18,.65)!important}
+.nav-cta:active{transform:translateY(0)!important;box-shadow:0 4px 12px -8px rgba(247,107,18,.55)!important}
+
+/* ---------- Hero: LIGHT (was dark-green gradient + photo) ---------- */
+.hero{color:var(--ink);padding:84px 0 92px;background:linear-gradient(180deg,#f2f8f4 0%,#ffffff 72%)}
+.hero::before{background-image:radial-gradient(rgba(8,117,64,.12) 1.5px,transparent 1.5px);opacity:.55}
+.hero::after{content:"";position:absolute;inset:0;background:radial-gradient(560px 280px at 86% 0%,rgba(247,107,18,.14),transparent 70%),radial-gradient(520px 300px at 8% 100%,rgba(8,117,64,.12),transparent 70%);pointer-events:none}
+.orb{opacity:.5;filter:blur(60px)}
+.orb-a{background:#bfe8cf}
+.orb-b{background:#ffd9ae}
+.orb-c{background:#d8f0e2}
+.hero-badge{background:#fff;border:1px solid #cde7d8;color:var(--ink);-webkit-backdrop-filter:none;backdrop-filter:none;box-shadow:0 8px 20px -12px rgba(8,117,64,.35)}
+.hero h1{color:var(--ink);text-shadow:none;letter-spacing:-1.2px}
+.hero h1 .hl{background:linear-gradient(92deg,#0a8a4b,#f76b12);-webkit-background-clip:text;background-clip:text;color:transparent}
+.hero p{color:#44554c;opacity:1;text-shadow:none}
+.hero-stat{background:#fff;border:1px solid var(--line);-webkit-backdrop-filter:none;backdrop-filter:none;box-shadow:var(--shadow-soft)}
+.hero-stat b{color:var(--green-dark)}
+.hero-stat span{color:var(--muted);opacity:1}
+.hero-stat:hover{transform:translateY(-2px)}
+
+/* ---------- Buttons: flat pills, no gradients, no shine, no 3D bar ---------- */
+.btn{border-radius:999px;box-shadow:none}
+.btn::after{display:none}
+.btn-orange{background:var(--orange);text-shadow:none;box-shadow:0 10px 24px -12px rgba(247,107,18,.6)}
+.btn-orange:hover{transform:translateY(-2px);box-shadow:0 14px 28px -12px rgba(247,107,18,.65)}
+.btn-orange:active{transform:translateY(0);box-shadow:0 6px 14px -10px rgba(247,107,18,.55)}
+.btn-green{background:var(--green);text-shadow:none;box-shadow:0 10px 24px -12px rgba(8,117,64,.55)}
+.btn-green:hover{transform:translateY(-2px);box-shadow:0 14px 28px -12px rgba(8,117,64,.6)}
+.btn-green:active{transform:translateY(0);box-shadow:0 6px 14px -10px rgba(8,117,64,.5)}
+.btn-outline{background:#fff;border:2px solid var(--green);box-shadow:none}
+.btn-outline:hover{background:var(--green-light);transform:translateY(-2px);box-shadow:0 10px 20px -14px rgba(8,117,64,.4)}
+.btn-outline:active{transform:translateY(0);box-shadow:none}
+.btn-ghost{background:#fff;color:var(--green-dark);border:2px solid var(--green);-webkit-backdrop-filter:none;backdrop-filter:none;box-shadow:0 10px 22px -14px rgba(8,117,64,.45)}
+.btn-ghost:hover{background:var(--green-light);transform:translateY(-2px)}
+.btn-ghost:active{transform:translateY(0)}
+
+/* ---------- Sections: new kicker + heading accent ---------- */
+section.block{padding:84px 0}
+.sec-head{margin-bottom:44px}
+.sec-kicker{background:#fff;color:var(--green-dark);border:2px solid var(--green);box-shadow:none}
+.sec-head h2{letter-spacing:-.6px}
+.sec-head h2::after{content:"";display:block;width:56px;height:4px;background:var(--orange);border-radius:4px;margin:14px auto 0}
+
+/* ---------- Cards: no top stripe, softer, icon on tint ---------- */
+.card{border-radius:20px;padding:28px 26px;box-shadow:var(--shadow-card)}
+.card::before{display:none}
+.card:hover{transform:translateY(-4px);box-shadow:var(--shadow-card-hover)}
+.card-icon{background:var(--green-light);box-shadow:none}
+.card:hover .card-icon{transform:scale(1.06)}
+.exam-logo{box-shadow:0 8px 18px -12px rgba(8,117,64,.3),inset 0 0 0 1px var(--line)}
+.card:hover .exam-logo{transform:scale(1.04)}
+
+/* ---------- Tables / FAQ: flat ---------- */
+table.spec th{background:var(--green-dark);text-shadow:none}
+.faq-item{border-radius:16px;box-shadow:0 2px 10px -8px rgba(8,117,64,.2)}
+.faq-item:hover{box-shadow:0 10px 24px -14px rgba(8,117,64,.3)}
+.faq-item.open{box-shadow:0 12px 26px -14px rgba(8,117,64,.32)}
+.faq-q span.arrow{background:var(--green-light);color:var(--green-dark);box-shadow:none}
+
+/* ---------- Quiz engine: flat options, flat timer ---------- */
+.q-card{box-shadow:var(--shadow-card)}
+.q-timer{background:var(--green-dark);box-shadow:0 8px 18px -10px rgba(8,117,64,.5)}
+.q-timer.warn{background:#c0392b;box-shadow:none}
+.opt{background:#fff;border-bottom-width:2px;box-shadow:none}
+.opt:hover:not(:disabled){transform:translateY(-1px);box-shadow:0 10px 20px -12px rgba(8,117,64,.4)}
+.opt:active:not(:disabled){transform:translateY(0);border-bottom-width:2px}
+.opt.correct{background:#eefbf3;box-shadow:none}
+.opt.wrong{background:#fdecea;box-shadow:none}
+.result-card{box-shadow:var(--shadow-card-hover)}
+
+/* ---------- Content pages / blog: new accents ---------- */
+.page-block{border-radius:20px;box-shadow:var(--shadow-card)}
+.page-block::before{height:4px;background:var(--green)}
+.contact-card{background:var(--bg-soft)}
+.blog-card{border-radius:20px;box-shadow:var(--shadow-card)}
+.blog-card:hover{transform:translateY(-4px);box-shadow:var(--shadow-card-hover)}
+.article-body h2{color:var(--ink)}
+.article-body h2::after{content:"";display:block;width:48px;height:4px;background:linear-gradient(90deg,var(--green),var(--orange));border-radius:4px;margin-top:10px}
+.key-takeaways{background:var(--orange-light);border-left:4px solid var(--orange)}
+.article-cta{background:linear-gradient(135deg,#ff8a2a,var(--orange) 100%)}
+.article-cta .btn{background:#fff;color:var(--orange-dark)}
+
+/* ---------- Practice pager: flat ---------- */
+.pg-btn{border-bottom-width:2px}
+.pg-btn:active:not(:disabled):not(.active){border-bottom-width:2px}
+.pg-btn.active{background:var(--green-dark);border-color:var(--green-dark);border-bottom-color:var(--green-deep);box-shadow:0 6px 16px -8px rgba(8,117,64,.6)}
+
+/* ---------- Footer: flat deep green + heading accents ---------- */
+footer{background:#0f2a1c;padding:56px 0 24px}
+footer::before{height:6px}
+footer h4{color:#fff}
+footer h4::after{content:"";display:block;width:26px;height:3px;background:var(--orange);border-radius:3px;margin-top:10px}
+
+/* ---------- Responsive: keep new hero airy ---------- */
+@media(max-width:640px){
+  nav.main-nav{top:70px}
+  .hero{padding:60px 0 68px}
+  section.block{padding:60px 0}
+  .card{padding:24px 20px}
+}
+@media(min-width:1024px){
+  .hero{padding:88px 0 96px}
+  section.block{padding:92px 0}
+}
+@media(prefers-reduced-motion:reduce){
+  *,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}
+  html{scroll-behavior:auto}
+}

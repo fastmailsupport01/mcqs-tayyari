@@ -212,3 +212,25 @@
   padding:13px 16px; font-size:14.5px; line-height:1.6; color:#24344d; }
 .cbt-att { align-self:center; font-size:14px; color:var(--cbt-muted); }
 .cbt-att b { color:var(--cbt-navy); }
+/* ==========================================================================
+   CBT refresh (2026-10-29): flat, modern chrome — navy exam identity and
+   palette state colors kept (they carry meaning). No logic changes.
+   ========================================================================== */
+.cbt-top{background:var(--cbt-navy);box-shadow:0 2px 12px rgba(15,34,66,.25)}
+.cbt-btn{border-radius:10px}
+.cbt-btn.submit{background:var(--cbt-orange);border-color:var(--cbt-orange)}
+.cbt-btn.submit:hover{background:#e07f22}
+.cbt-qtext{border-radius:14px;box-shadow:0 2px 10px -6px rgba(20,40,80,.12)}
+.cbt-opt{border-radius:12px}
+.cbt-opt:hover{border-color:#9db6dd;background:#f2f5fa}
+.cbt-opt.sel{background:#eef9f1}
+.cbt-act{border-radius:10px}
+.cbt-pal{border-radius:0}
+.cbt-pq{border-radius:10px}
+.cbt-instr{border-radius:16px}
+.cbt-dialog{border-radius:16px}
+.cbt-rcard{border-radius:16px}
+.cbt-review .rv{border-radius:12px}
+.mode-card{border-radius:16px}
+.mode-card:hover{border-color:#9db6dd}
+.cbt-start{border-radius:10px}
