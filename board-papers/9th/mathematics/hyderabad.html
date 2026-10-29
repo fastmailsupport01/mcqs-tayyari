@@ -51,10 +51,20 @@
 </head>
 <body>
 <header class="site">
-  <div class="wrap header-inner">
-    <a class="brand" href="/" aria-label="MCQs Tayyari home"><img src="/logo.png" alt="MCQs Tayyari logo"></a>
-    <button class="menu-btn" id="menuBtn" aria-label="Menu">☰</button>
-    <nav class="main-nav" id="mainNav">
+  <div class="header-bar">
+    <div class="wrap header-inner">
+      <a class="brand" href="/" aria-label="MCQs Tayyari home"><img src="/logo.png" alt="MCQs Tayyari logo"></a>
+      <div class="site-search" role="search">
+        <input type="search" id="siteSearchInput" placeholder="Search exams, subjects, papers, blog…" aria-label="Search site" autocomplete="off">
+        <button type="button" id="siteSearchBtn" aria-label="Search">🔍</button>
+        <div class="site-search-results" id="siteSearchResults" hidden></div>
+      </div>
+      <button class="menu-btn" id="menuBtn" aria-label="Menu">☰</button>
+    </div>
+  </div>
+  <div class="nav-strip">
+    <div class="wrap">
+      <nav class="main-nav" id="mainNav">
       <a href="/">Home</a>
       <a href="/blog">Blog</a>
       <a href="/ebooks">eBooks</a>
@@ -63,8 +73,10 @@
       <a href="/about">About</a>
       <a href="/contact">Contact</a>
     </nav>
+    </div>
   </div>
-</header><div class="wrap" style="padding-top:18px"><div class="crumbs"><a href="/">Home</a> &nbsp;›&nbsp; <a href="/board-papers">Board Papers</a> &nbsp;›&nbsp; <a href="/board-papers/9th">9th Class</a> &nbsp;›&nbsp; <a href="/board-papers/9th/mathematics">Mathematics</a> &nbsp;›&nbsp; <span>BISE Hyderabad</span></div></div>
+</header>
+<script src="/js/search.js" defer></script><div class="wrap" style="padding-top:18px"><div class="crumbs"><a href="/">Home</a> &nbsp;›&nbsp; <a href="/board-papers">Board Papers</a> &nbsp;›&nbsp; <a href="/board-papers/9th">9th Class</a> &nbsp;›&nbsp; <a href="/board-papers/9th/mathematics">Mathematics</a> &nbsp;›&nbsp; <span>BISE Hyderabad</span></div></div>
 <section class="block"><div class="wrap">
 <div class="sec-head"><span class="sec-kicker">Board Past Papers</span><h1>BISE Hyderabad — 9th Class Mathematics</h1><p>Year-wise papers — PDF download karein:</p></div>
 <div class="grid"><div class="card"><div class="card-icon">📄</div><h3>Past Paper 2023</h3>
