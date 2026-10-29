@@ -28,10 +28,20 @@
 </head>
 <body>
 <header class="site">
-  <div class="wrap header-inner">
-    <a class="brand" href="/" aria-label="MCQs Tayyari home"><img src="/logo.png" alt="MCQs Tayyari logo"></a>
-    <button class="menu-btn" id="menuBtn" aria-label="Menu">☰</button>
-    <nav class="main-nav" id="mainNav">
+  <div class="header-bar">
+    <div class="wrap header-inner">
+      <a class="brand" href="/" aria-label="MCQs Tayyari home"><img src="/logo.png" alt="MCQs Tayyari logo"></a>
+      <div class="site-search" role="search">
+        <input type="search" id="siteSearchInput" placeholder="Search exams, subjects, papers, blog…" aria-label="Search site" autocomplete="off">
+        <button type="button" id="siteSearchBtn" aria-label="Search">🔍</button>
+        <div class="site-search-results" id="siteSearchResults" hidden></div>
+      </div>
+      <button class="menu-btn" id="menuBtn" aria-label="Menu">☰</button>
+    </div>
+  </div>
+  <div class="nav-strip">
+    <div class="wrap">
+      <nav class="main-nav" id="mainNav">
       <a href="/">Home</a>
       <a href="/blog">Blog</a>
       <a href="/ebooks">eBooks</a>
@@ -40,8 +50,10 @@
       <a href="/about">About</a>
       <a href="/contact">Contact</a>
     </nav>
+    </div>
   </div>
-</header><div class="wrap" style="padding-top:18px"><div class="crumbs"><a href="/">Home</a> &nbsp;›&nbsp; <a href="/board-papers">Board Papers</a></div></div>
+</header>
+<script src="/js/search.js" defer></script><div class="wrap" style="padding-top:18px"><div class="crumbs"><a href="/">Home</a> &nbsp;›&nbsp; <a href="/board-papers">Board Papers</a></div></div>
 <section class="block"><div class="wrap">
 <div class="sec-head"><span class="sec-kicker">Board Past Papers</span><h1>Board Past Papers — 9th to 12th Class, All Boards</h1><p>Real board papers, retyped in our style — same questions, no changes. Pehle class select karein:</p></div>
 <div class="grid"><div class="card"><img class="exam-logo" src="/img/board-classes/class-9th.jpg" alt="9th Class past papers" loading="lazy"><h3>9th Class</h3><p>BISE past papers for 9th Class — all subjects, year-wise.</p><div class="meta">321 papers</div><a class="btn btn-orange" href="/board-papers/9th">Open →</a></div><div class="card"><img class="exam-logo" src="/img/board-classes/class-10th.jpg" alt="10th Class past papers" loading="lazy"><h3>10th Class</h3><p>BISE past papers for 10th Class — all subjects, year-wise.</p><div class="meta">358 papers</div><a class="btn btn-orange" href="/board-papers/10th">Open →</a></div><div class="card"><img class="exam-logo" src="/img/board-classes/class-11th.jpg" alt="11th Class past papers" loading="lazy"><h3>11th Class</h3><p>BISE past papers for 11th Class — all subjects, year-wise.</p><div class="meta">304 papers</div><a class="btn btn-orange" href="/board-papers/11th">Open →</a></div><div class="card"><img class="exam-logo" src="/img/board-classes/class-12th.jpg" alt="12th Class past papers" loading="lazy"><h3>12th Class</h3><p>BISE past papers for 12th Class — all subjects, year-wise.</p><div class="meta">317 papers</div><a class="btn btn-orange" href="/board-papers/12th">Open →</a></div></div>

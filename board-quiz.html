@@ -13,10 +13,20 @@
 </head>
 <body>
 <header class="site">
-  <div class="wrap header-inner">
-    <a class="brand" href="/" aria-label="MCQs Tayyari home"><img src="/logo.png" alt="MCQs Tayyari logo"></a>
-    <button class="menu-btn" id="menuBtn" aria-label="Menu">☰</button>
-    <nav class="main-nav" id="mainNav">
+  <div class="header-bar">
+    <div class="wrap header-inner">
+      <a class="brand" href="/" aria-label="MCQs Tayyari home"><img src="/logo.png" alt="MCQs Tayyari logo"></a>
+      <div class="site-search" role="search">
+        <input type="search" id="siteSearchInput" placeholder="Search exams, subjects, papers, blog…" aria-label="Search site" autocomplete="off">
+        <button type="button" id="siteSearchBtn" aria-label="Search">🔍</button>
+        <div class="site-search-results" id="siteSearchResults" hidden></div>
+      </div>
+      <button class="menu-btn" id="menuBtn" aria-label="Menu">☰</button>
+    </div>
+  </div>
+  <div class="nav-strip">
+    <div class="wrap">
+      <nav class="main-nav" id="mainNav">
       <a href="/">Home</a>
       <a href="/blog">Blog</a>
       <a href="/ebooks">eBooks</a>
@@ -25,8 +35,10 @@
       <a href="/about">About</a>
       <a href="/contact">Contact</a>
     </nav>
+    </div>
   </div>
-</header><div class="wrap" style="padding-top:18px"><div class="crumbs"><a href="/">Home</a> &nbsp;›&nbsp; <a href="/board-papers">Board Papers</a> &nbsp;›&nbsp; <span>Quiz</span></div></div><section class="block"><div class="wrap">
+</header>
+<script src="/js/search.js" defer></script><div class="wrap" style="padding-top:18px"><div class="crumbs"><a href="/">Home</a> &nbsp;›&nbsp; <a href="/board-papers">Board Papers</a> &nbsp;›&nbsp; <span>Quiz</span></div></div><section class="block"><div class="wrap">
 <style>
 .quiz-card{max-width:760px;margin:18px auto}
 .qprog{height:8px;background:#eee;border-radius:99px;overflow:hidden;margin-bottom:12px}
