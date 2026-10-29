@@ -571,3 +571,156 @@ footer h4::after{content:"";display:block;width:26px;height:3px;background:var(-
   *,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}
   html{scroll-behavior:auto}
 }
+/* ==========================================================================
+   MCQLEARN-STYLE REBUILD (2026-10-29) — simple, card-based study-portal look
+   adapted to our brand (logo unchanged; green + orange accents kept).
+   Dark header bar + prominent pill search + light nav strip; pale page
+   background; white rounded cards; understated grey counts; plain type;
+   modest pills; light footer. Design/CSS only — no content, URL, nav-label,
+   schema, ad, meta, or quiz-logic changes. This block sits LAST so it wins
+   at equal specificity. It styles BOTH the old header (nav inside
+   .header-inner, dark bar, white links) and the new header (nav in the
+   light .nav-strip, dark-green links) so no intermediate push breaks nav.
+   ========================================================================== */
+:root { --page-bg:#f3f5f4; --bar:#0f2a1c; --band:#065c33; }
+
+/* ---------- pale page + plain type ---------- */
+body { background:var(--page-bg); font-size:16px; line-height:1.7; }
+
+/* ---------- dark header bar (both structures) ---------- */
+header.site { background:var(--bar); border-bottom:none;
+  box-shadow:0 2px 12px rgba(0,0,0,.25); }
+header.site::after { display:none; }
+.header-inner { height:64px; gap:14px; }
+.brand img { background:#fff; border-radius:10px; padding:4px 8px; height:40px; }
+
+/* ---------- pill search in the dark bar ---------- */
+.site-search { flex:1; max-width:460px; margin:0 14px; position:relative; }
+.site-search input { width:100%; padding:11px 46px 11px 18px; border-radius:999px;
+  border:2px solid transparent; background:#fff; font:inherit; font-size:15px;
+  color:var(--ink); }
+.site-search input:focus { outline:none; border-color:var(--orange); }
+.site-search button { position:absolute; right:5px; top:50%; transform:translateY(-50%);
+  width:34px; height:34px; border-radius:50%; background:var(--green); color:#fff;
+  border:none; font-size:16px; cursor:pointer; line-height:1; }
+.site-search-results { position:absolute; top:calc(100% + 10px); left:0; right:0;
+  background:#fff; border:1px solid var(--line); border-radius:14px;
+  box-shadow:0 18px 40px -12px rgba(0,0,0,.25); z-index:200; max-height:380px;
+  overflow-y:auto; padding:6px; }
+.site-search-results[hidden] { display:none; }
+.site-search-results a { display:block; padding:10px 14px; border-radius:10px;
+  color:var(--ink); text-align:left; }
+.site-search-results a:hover { background:var(--bg-soft); }
+.site-search-results .sr-type { display:block; font-size:11px; letter-spacing:1px;
+  text-transform:uppercase; color:var(--muted); margin-bottom:2px; }
+.site-search-results .sr-title { font-weight:700; font-size:14.5px; }
+.site-search-results .sr-empty { padding:14px; color:var(--muted); font-size:14px; }
+
+/* ---------- light nav strip (new header) + old-header nav on dark bar ---------- */
+.nav-strip { background:#fff; border-bottom:1px solid var(--line); }
+.nav-strip > .wrap { padding-top:0; padding-bottom:0; }
+nav.main-nav a { color:#fff; padding:11px 13px; font-size:14.5px; border-radius:8px; }
+nav.main-nav a:hover { background:rgba(255,255,255,.12); color:#fff; box-shadow:none;
+  transform:none; }
+nav.main-nav a.active { background:transparent; color:#fff;
+  box-shadow:inset 0 -3px 0 var(--orange); }
+.nav-strip nav.main-nav a { color:var(--green-dark); }
+.nav-strip nav.main-nav a:hover { background:var(--green-light); color:var(--green-dark); }
+.nav-strip nav.main-nav a.active { color:var(--green-dark);
+  box-shadow:inset 0 -3px 0 var(--orange); background:transparent; }
+.nav-strip nav.main-nav { position:static; }
+
+/* ---------- hero: plain white intro card ---------- */
+.hero { background:var(--page-bg); padding:56px 0 64px; }
+.hero::before, .hero::after, .orb { display:none; }
+.hero-inner { background:#fff; border-radius:24px; max-width:860px;
+  box-shadow:0 1px 3px rgba(16,42,29,.06), 0 24px 48px -24px rgba(8,117,64,.25);
+  padding:36px 36px 30px; }
+.hero-badge { background:#fff; border:2px solid var(--green); color:var(--green-dark);
+  box-shadow:none; }
+.hero h1 { color:var(--ink); text-shadow:none; }
+.hero h1 .hl { background:none; color:var(--green-dark);
+  -webkit-background-clip:initial; background-clip:initial; }
+.hero p { color:#44554c; text-shadow:none; }
+.hero-stat { background:transparent; border:none; box-shadow:none; padding:10px 14px;
+  min-width:0; }
+.hero-stat b { color:var(--ink); font-size:24px; }
+.hero-stat span { color:var(--muted); opacity:1; text-transform:none; letter-spacing:0; }
+
+/* ---------- sections as white rounded cards ---------- */
+section.block { padding:40px 0; }
+section.block > .wrap { background:#fff; border-radius:20px;
+  box-shadow:0 1px 3px rgba(16,42,29,.06), 0 16px 36px -24px rgba(8,117,64,.22);
+  padding-top:32px; padding-bottom:32px; }
+
+/* ---------- plain section titles (no accent bars, no pills) ---------- */
+.sec-kicker { background:none; border:none; color:var(--muted); font-size:12.5px;
+  letter-spacing:2px; padding:0; box-shadow:none; text-transform:uppercase; }
+.sec-head h2::after { display:none; }
+.sec-head { margin-bottom:32px; }
+
+/* ---------- cards: white, rounded, soft shadow, understated counts ---------- */
+.card { border-radius:18px;
+  box-shadow:0 1px 3px rgba(16,42,29,.06), 0 14px 30px -20px rgba(8,117,64,.20); }
+.card::before { display:none; }
+.card h3 { color:var(--ink); }
+.card-icon { background:var(--green-light); box-shadow:none; }
+.card:hover { transform:translateY(-3px); }
+.card:hover .card-icon { transform:none; }
+.card .meta { color:#66766c; font-weight:600; text-align:center; }
+.card .meta .badge.live, .card .meta .badge.soon { background:none; box-shadow:none;
+  color:var(--muted); padding:0; font-weight:700; }
+
+/* ---------- modest flat buttons ---------- */
+.btn { padding:12px 26px; font-size:15px; border-radius:999px; }
+
+/* ---------- plain headings inside articles + flat CTA ---------- */
+.article-body h2::after { display:none; }
+.page-block::before, .result-card::before { display:none; }
+.article-cta { background:var(--green-dark); }
+.article-cta .btn { background:#fff; color:var(--green-dark); }
+
+/* ---------- title bands on NEW landing sections ---------- */
+.band-title { background:var(--band); color:#fff; border-radius:14px 14px 0 0;
+  padding:14px 20px; margin:0; font-size:19px; }
+.band-body { border:1px solid var(--line); border-top:none; border-radius:0 0 14px 14px;
+  padding:20px; background:#fff; }
+.band-body p { margin:0 0 14px; color:#44554c; }
+.band-body .ebook-list { font-size:14.5px; color:#44554c; line-height:1.7; }
+
+/* ---------- exam landing picture banner ---------- */
+.exam-banner { margin:0 0 32px; border-radius:20px; overflow:hidden;
+  box-shadow:0 1px 3px rgba(16,42,29,.06), 0 16px 36px -24px rgba(8,117,64,.22); }
+.exam-banner img { width:100%; height:340px; object-fit:cover; display:block; }
+
+/* ---------- light, simple footer ---------- */
+footer { background:#eceeec; color:#4a5750; padding:44px 0 24px; }
+footer::before { display:none; }
+footer h4 { color:var(--ink); }
+footer h4::after { display:none; }
+footer ul a { color:#4a5750; }
+footer ul a:hover { color:var(--green-dark); transform:none; }
+.foot-brand img { background:#fff; }
+.foot-brand p { color:#4a5750; }
+.foot-bottom { border-top:1px solid #d5dbd7; }
+.credit { color:var(--green-dark); }
+
+/* ---------- mobile: search full-width second row; both nav structures ---------- */
+@media (max-width:640px){
+  .header-inner { flex-wrap:wrap; height:auto; padding-top:12px; padding-bottom:12px;
+    gap:10px; }
+  .brand { order:1; }
+  .menu-btn { order:2; }
+  .site-search { order:3; flex:1 1 100%; max-width:none; margin:0; }
+  .header-inner > nav.main-nav { top:64px; }
+  .nav-strip nav.main-nav { position:static; top:auto; }
+  .hero { padding:36px 0 44px; }
+  .hero-inner { padding:26px 22px 22px; }
+  .exam-banner img { height:200px; }
+}
+
+/* ---------- print stays clean white ---------- */
+@media print {
+  body { background:#fff; }
+  .site-search, .nav-strip { display:none !important; }
+}

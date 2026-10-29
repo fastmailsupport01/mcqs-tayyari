@@ -39,18 +39,30 @@
 </head>
 <body>
 <header class="site">
-  <div class="wrap header-inner">
-    <a class="brand" href="../"><img src="../logo.png" alt="MCQs Tayyari logo"></a>
-    <button class="menu-btn" id="menuBtn" aria-label="Menu">☰</button>
-    <nav class="main-nav" id="mainNav">
+  <div class="header-bar">
+    <div class="wrap header-inner">
+      <a class="brand" href="../"><img src="../logo.png" alt="MCQs Tayyari logo"></a>
+      <div class="site-search" role="search">
+        <input type="search" id="siteSearchInput" placeholder="Search exams, subjects, papers, blog…" aria-label="Search site" autocomplete="off">
+        <button type="button" id="siteSearchBtn" aria-label="Search">🔍</button>
+        <div class="site-search-results" id="siteSearchResults" hidden></div>
+      </div>
+      <button class="menu-btn" id="menuBtn" aria-label="Menu">☰</button>
+    </div>
+  </div>
+  <div class="nav-strip">
+    <div class="wrap">
+      <nav class="main-nav" id="mainNav">
       <a href="../">Home</a>
       <a href="../subjects">Subjects</a><a href="../blog">Blog</a>
       <a href="../exam" class="nav-cta">Mock Test</a>
       <a href="../about">About</a>
       <a href="../contact">Contact</a>
     </nav>
+    </div>
   </div>
 </header>
+<script src="/js/search.js" defer></script>
 
 <section class="block">
   <div class="wrap">
@@ -139,6 +151,15 @@
         <tr><td>Negative Marking</td><td>−0.25 per wrong answer</td></tr>
       </table>
       <p style="margin-top:12px;font-size:14px;color:#5a6b85">Note: General Knowledge paper is 100% objective (100 MCQs, -0.25); Islamiyat &amp; Pakistan Affairs mix objective + subjective.</p>
+    </div>
+
+    <div style="margin-bottom:56px">
+      <h2 class="band-title">📚 Books & eBooks</h2>
+      <div class="band-body">
+        <p>Free eBooks for your PMS preparation — 10 books with 1,000 original MCQs covering the subjects in this exam’s pattern.</p>
+        <p class="ebook-list">Basic Mathematics · English Grammar & Vocabulary · Everyday Science · General Knowledge · Pakistan Studies · Islamiyat · Computer Science · Urdu Adab & Qawaid · Current Affairs 2025-26 · PPSC One Paper — Grand Practice</p>
+        <a class="btn btn-green" href="../ebooks">Browse Free eBooks →</a>
+      </div>
     </div>
 
     <div class="sec-head" style="margin-bottom:26px">
