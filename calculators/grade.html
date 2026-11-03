@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Grade Calculator — Old & 2026 New System | MCQs Tayyari</title>
+<meta name="description" content="Grade calculator — sirf percentage dalen, purana Punjab system aur 2026 naya IBCC/Sindh system, dono ka grade dekhen.">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://mcqstayyari.online/calculators/grade">
+<link rel="icon" href="../favicon.png">
+<link rel="stylesheet" href="../css/style.css">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9781370643011781"
+     crossorigin="anonymous"></script>
+</head>
+<body>
+<header class="site">
+  <div class="wrap header-inner">
+    <a class="brand" href="../"><img src="../logo.png" alt="MCQs Tayyari logo"></a>
+    <button class="menu-btn" id="menuBtn" aria-label="Menu">☰</button>
+    <nav class="main-nav" id="mainNav">
+      <a href="../">Home</a><a href="../subjects">Subjects</a><a href="../blog">Blog</a><a href="../ebooks">eBooks</a><a href="../board-papers">Board Papers</a><a href="../progress">Progress</a><a href="../calculators" class="active">Calculators</a><a href="../exam" class="nav-cta">Mock Test</a><a href="../about">About</a><a href="../contact">Contact</a>
+    </nav>
+  </div>
+</header>
+<section class="block"><div class="wrap">
+  <div class="sec-head"><span class="sec-kicker">Grade Calculator</span><h2>Grade Calculator — Purana + 2026 Naya System</h2><p>Sirf percentage dalen, system chunen, grade foran dekhen.</p></div>
+  <div class="page-block"><div class="calc-form">
+    <div class="calc-field"><label for="pct">Percentage — apni percentage likhen</label><input type="number" id="pct" min="0" max="100" step="0.01" placeholder="jaise 75"></div>
+    <div class="calc-field"><label for="sys">System — khud chunen</label>
+      <select id="sys"><option value="both">Dono systems</option><option value="old">Purana system</option><option value="new">2026 naya system</option></select></div>
+    <div style="text-align:center"><button class="btn btn-green" id="calcBtn">Calculate — Grade Dekhen</button></div>
+    <div id="out"></div>
+    <p style="margin-top:22px;color:var(--muted);font-size:14.5px"><strong>Note zaroori:</strong> Naya system SSC-I/HSSC-I par First Annual 2026 se aur SSC-II/HSSC-II par 2027 se laagu ho raha hai, is liye apni class ke mutabiq system chunen taake confuse na hon.</p>
+    <p style="color:var(--muted);font-size:14.5px"><strong>Purana system:</strong> 80%+ A+, 70–79% A, 60–69% B, 50–59% C, 40–49% D, 33–39% E, 33% se kam Fail (per subject pass 33%).<br><strong>2026 naya system:</strong> 96–100% A++, 91–95% A+, 86–90% A, 81–85% B++, 76–80% B+, 71–75% B, 61–70% C+, 51–60% C, 40–50% D, 40% se kam U (Ungraded/Fail).</p>
+  </div></div>
+</div></section>
+<div class="wrap"><div class="ad-slot"><span>Advertisement</span><div class="ad-note">AdSense ad unit — responsive</div></div></div>
+<footer><div class="wrap"><div class="foot-grid"><div class="foot-brand"><img src="../logo.png" alt="MCQs Tayyari logo"><p>Free PPSC test preparation — subject-wise MCQs, past papers and a real exam simulator.</p></div><div><h4>Quick Links</h4><ul><li><a href="../">Home</a></li><li><a href="../subjects">Subjects</a></li><li><a href="../progress">My Progress</a></li><li><a href="../calculators">Calculators</a></li><li><a href="../exam">Mock Test</a></li><li><a href="../about">About Us</a></li></ul></div><div><h4>Legal</h4><ul><li><a href="../privacy">Privacy Policy</a></li><li><a href="../terms">Terms of Service</a></li><li><a href="../contact">Contact Us</a></li></ul></div></div><div class="foot-bottom"><span>© 2026 MCQs Tayyari. All rights reserved.</span><span>Developed by <span class="credit">cos (chishti office sammundri)</span> · +92 3264025618</span></div></div></footer>
+<script src="../js/app.js"></script>
+<script src="../js/calculators.js"></script>
+<script>
+document.getElementById("calcBtn").addEventListener("click", function(){
+  var p = MTCalc.numVal("pct"), sys = document.getElementById("sys").value;
+  if(isNaN(p) || p < 0 || p > 100){ MTCalc.showErr("out", "0 se 100 ke darmiyan percentage likhen."); return; }
+  var h = '<div class="calc-result show"><div class="big">' + p.toFixed(2) + '%</div>';
+  if(sys === "old" || sys === "both") h += '<p><b>Purana system:</b> ' + MTCalc.gradeOld(p) + ' — ' + (p >= 33 ? 'Pass' : 'Fail') + '</p>';
+  if(sys === "new" || sys === "both") h += '<p><b>2026 naya system:</b> ' + MTCalc.gradeNew(p) + ' — ' + (p >= 40 ? 'Pass' : 'Fail (U)') + '</p>';
+  document.getElementById("out").innerHTML = h + '</div>';
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>My Progress | MCQs Tayyari — Saved Test Scores</title>
+<meta name="description" content="Your saved MCQs Tayyari test scores — total tests, overall percentage, best score and subject-wise averages. No login, saved only on this device.">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://mcqstayyari.online/progress/">
+<link rel="icon" href="../favicon.png">
+<link rel="stylesheet" href="../css/style.css">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9781370643011781"
+     crossorigin="anonymous"></script>
+</head>
+<body>
+<header class="site">
+  <div class="wrap header-inner">
+    <a class="brand" href="../"><img src="../logo.png" alt="MCQs Tayyari logo"></a>
+    <button class="menu-btn" id="menuBtn" aria-label="Menu">☰</button>
+    <nav class="main-nav" id="mainNav">
+      <a href="../">Home</a>
+      <a href="../subjects">Subjects</a>
+      <a href="../blog">Blog</a>
+      <a href="../ebooks">eBooks</a>
+      <a href="../board-papers">Board Papers</a>
+      <a href="../progress" class="active">Progress</a>
+      <a href="../calculators">Calculators</a>
+      <a href="../exam" class="nav-cta">Mock Test</a>
+      <a href="../about">About</a>
+      <a href="../contact">Contact</a>
+    </nav>
+  </div>
+</header>
+
+<section class="block">
+  <div class="wrap">
+    <div class="sec-head">
+      <span class="sec-kicker">My Progress</span>
+      <h2>Your Test Scores, In One Place</h2>
+      <p>Har practice test ka score yahan save hota hai — apni behtari dekhen aur agla test den.</p>
+      <p style="margin-top:10px"><strong>Ye record sirf is device par save hai.</strong> Doosre phone ya browser par ye nazar nahi aayega, kyun ke koi login ya account nahi hai.</p>
+    </div>
+
+    <div class="grid" id="statCards" style="margin-bottom:36px"></div>
+
+    <div class="page-block" style="margin-bottom:28px">
+      <h2>Subject-wise Summary — har subject ka average</h2>
+      <div id="subjectSummary"></div>
+    </div>
+
+    <div class="page-block">
+      <h2>Har Attempt Ki List</h2>
+      <div id="attemptList"></div>
+      <div style="text-align:center;margin-top:24px">
+        <button class="btn btn-orange" id="clearBtn">Clear History — sab record delete karen</button>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="wrap"><div class="ad-slot"><span>Advertisement</span><div class="ad-note">AdSense ad unit — responsive</div></div></div>
+
+<footer>
+  <div class="wrap">
+    <div class="foot-grid">
+      <div class="foot-brand"><img src="../logo.png" alt="MCQs Tayyari logo"><p>Free PPSC test preparation — subject-wise MCQs, past papers and a real exam simulator.</p></div>
+      <div><h4>Quick Links</h4><ul><li><a href="../">Home</a></li><li><a href="../subjects">Subjects</a></li><li><a href="../blog">Blog</a></li><li><a href="../progress">My Progress</a></li><li><a href="../calculators">Calculators</a></li><li><a href="../exam">Mock Test</a></li><li><a href="../about">About Us</a></li></ul></div>
+      <div><h4>Legal</h4><ul><li><a href="../privacy">Privacy Policy</a></li><li><a href="../terms">Terms of Service</a></li><li><a href="../contact">Contact Us</a></li></ul></div>
+    </div>
+    <div class="foot-bottom"><span>© 2026 MCQs Tayyari. All rights reserved.</span><span>Developed by <span class="credit">cos (chishti office sammundri)</span> · +92 3264025618</span></div>
+  </div>
+</footer>
+
+<script src="../js/app.js"></script>
+<script src="../js/progress.js"></script>
+<script>
+(function(){
+  function render(){
+    var s = MTProgress.stats();
+    var cards = document.getElementById("statCards");
+    cards.innerHTML =
+      '<div class="card"><h3>Kul Tests</h3><p style="font-size:2rem;font-weight:800;color:var(--green-dark)">' + s.totalTests + '</p><p>Practice tests diye gaye</p></div>' +
+      '<div class="card"><h3>Kul Correct %</h3><p style="font-size:2rem;font-weight:800;color:var(--green-dark)">' + s.overall.toFixed(2) + '%</p><p>' + s.totalCorrect + ' correct / ' + s.totalAttempted + ' attempted</p></div>' +
+      '<div class="card"><h3>Behtareen Score</h3><p style="font-size:2rem;font-weight:800;color:var(--green-dark)">' + s.best.toFixed(2) + '%</p><p>Aik test me sab se zyada %</p></div>' +
+      '<div class="card"><h3>Aakhri Test</h3><p style="font-size:1.3rem;font-weight:800;color:var(--green-dark)">' + (s.lastDate ? MTProgress.dateLabel(s.lastDate) : '—') + '</p><p>Aakhri dafa test diya</p></div>';
+    var sub = document.getElementById("subjectSummary");
+    if(!s.subjects.length){
+      sub.innerHTML = '<div class="empty"><h3>Abhi koi record nahi</h3><p>Practice test den, score khud-ba-khud yahan save ho jayega.</p><a class="btn btn-green" href="../subjects" style="margin-top:18px">Practice Shuru Karen →</a></div>';
+    } else {
+      var h = '<table class="spec"><thead><tr><th>Subject</th><th>Attempts</th><th>Average %</th></tr></thead><tbody>';
+      s.subjects.forEach(function(r){
+        h += '<tr><td>' + MTProgress.esc(r.subject) + '</td><td>' + r.attempts + '</td><td>' + r.avg.toFixed(2) + '%</td></tr>';
+      });
+      sub.innerHTML = h + '</tbody></table>';
+    }
+    var list = document.getElementById("attemptList");
+    if(!s.list.length){
+      list.innerHTML = '<div class="empty"><h3>List khaali hai</h3><p>Abhi tak koi test save nahi hua.</p></div>';
+    } else {
+      var t = '<table class="spec"><thead><tr><th>Tareekh</th><th>Test</th><th>Score</th></tr></thead><tbody>';
+      s.list.forEach(function(a){
+        t += '<tr><td>' + MTProgress.dateLabel(a.date) + '</td><td>' + MTProgress.esc(a.test) + '</td><td><b>' + a.correct + '/' + a.total + '</b> = ' + Number(a.percentage).toFixed(2) + '%</td></tr>';
+      });
+      list.innerHTML = t + '</tbody></table>';
+    }
+  }
+  document.getElementById("clearBtn").addEventListener("click", function(){
+    if(confirm("Sab progress record delete kar dun? Ye wapas nahi aayega.")){
+      MTProgress.clear(); render();
+    }
+  });
+  render();
+})();
+</script>
+<nav class="mobile-nav" aria-label="Mobile">
+  <a href="/"><span class="mi">🏠</span>Home</a>
+  <a href="/subjects"><span class="mi">📚</span>Subjects</a>
+  <a href="/exam"><span class="mi">📝</span>Mock Test</a>
+  <a href="/progress"><span class="mi">📈</span>Progress</a>
+  <a href="/blog"><span class="mi">📰</span>Blog</a>
+</nav>
+</body>
+</html>

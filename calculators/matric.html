@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Matric Percentage Calculator | MCQs Tayyari</title>
+<meta name="description" content="Matric percentage calculator — 9th + 10th marks se percentage, grade (old + 2026 new system) aur pass/fail. Punjab 1100, Sindh 850 ya custom total.">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://mcqstayyari.online/calculators/matric">
+<link rel="icon" href="../favicon.png">
+<link rel="stylesheet" href="../css/style.css">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9781370643011781"
+     crossorigin="anonymous"></script>
+</head>
+<body>
+<header class="site">
+  <div class="wrap header-inner">
+    <a class="brand" href="../"><img src="../logo.png" alt="MCQs Tayyari logo"></a>
+    <button class="menu-btn" id="menuBtn" aria-label="Menu">☰</button>
+    <nav class="main-nav" id="mainNav">
+      <a href="../">Home</a><a href="../subjects">Subjects</a><a href="../blog">Blog</a><a href="../ebooks">eBooks</a><a href="../board-papers">Board Papers</a><a href="../progress">Progress</a><a href="../calculators" class="active">Calculators</a><a href="../exam" class="nav-cta">Mock Test</a><a href="../about">About</a><a href="../contact">Contact</a>
+    </nav>
+  </div>
+</header>
+<section class="block"><div class="wrap">
+  <div class="sec-head"><span class="sec-kicker">Matric Calculator</span><h2>Matric Percentage Calculator</h2><p>9th aur 10th ke marks dalen, percentage aur grade foran dekhen.</p></div>
+  <div class="page-block"><div class="calc-form">
+    <div class="calc-field"><label for="preset">Board / Total — board chunen</label>
+      <select id="preset"><option value="punjab">Punjab — 1100 (9th 550 + 10th 550)</option><option value="sindh">Sindh — 850 (total)</option><option value="custom">Custom — khud total likhen</option></select></div>
+    <div class="calc-field"><label>Mode</label>
+      <select id="mode"><option value="split">Dono classes alag alag</option><option value="total">Sirf total marks</option></select></div>
+    <div id="splitFields">
+      <div class="calc-field"><label for="m9">9th Obtained Marks — 9th me jitne number aaye</label><input type="number" id="m9" min="0" placeholder="jaise 480"></div>
+      <div class="calc-field"><label for="m10">10th Obtained Marks — 10th me jitne number aaye</label><input type="number" id="m10" min="0" placeholder="jaise 500"></div>
+      <div class="calc-field" id="customSplit" style="display:none"><label for="t9">9th Total Marks</label><input type="number" id="t9" min="1" placeholder="jaise 550"><label for="t10" style="margin-top:14px">10th Total Marks</label><input type="number" id="t10" min="1" placeholder="jaise 550"></div>
+    </div>
+    <div id="totalFields" style="display:none">
+      <div class="calc-field"><label for="obt">Total Obtained Marks — kul jitne number aaye</label><input type="number" id="obt" min="0" placeholder="jaise 980"></div>
+      <div class="calc-field" id="customTotal" style="display:none"><label for="tot">Total Marks</label><input type="number" id="tot" min="1" placeholder="jaise 1100"></div>
+    </div>
+    <div style="text-align:center"><button class="btn btn-green" id="calcBtn">Calculate — Percentage Nikalen</button></div>
+    <div id="out"></div>
+  </div></div>
+</div></section>
+<div class="wrap"><div class="ad-slot"><span>Advertisement</span><div class="ad-note">AdSense ad unit — responsive</div></div></div>
+<footer><div class="wrap"><div class="foot-grid"><div class="foot-brand"><img src="../logo.png" alt="MCQs Tayyari logo"><p>Free PPSC test preparation — subject-wise MCQs, past papers and a real exam simulator.</p></div><div><h4>Quick Links</h4><ul><li><a href="../">Home</a></li><li><a href="../subjects">Subjects</a></li><li><a href="../progress">My Progress</a></li><li><a href="../calculators">Calculators</a></li><li><a href="../exam">Mock Test</a></li><li><a href="../about">About Us</a></li></ul></div><div><h4>Legal</h4><ul><li><a href="../privacy">Privacy Policy</a></li><li><a href="../terms">Terms of Service</a></li><li><a href="../contact">Contact Us</a></li></ul></div></div><div class="foot-bottom"><span>© 2026 MCQs Tayyari. All rights reserved.</span><span>Developed by <span class="credit">cos (chishti office sammundri)</span> · +92 3264025618</span></div></div></footer>
+<script src="../js/app.js"></script>
+<script src="../js/calculators.js"></script>
+<script>
+(function(){
+  function sync(){
+    var preset = document.getElementById("preset").value;
+    var mode = document.getElementById("mode").value;
+    document.getElementById("splitFields").style.display = mode === "split" ? "block" : "none";
+    document.getElementById("totalFields").style.display = mode === "total" ? "block" : "none";
+    document.getElementById("customSplit").style.display = (preset === "custom" && mode === "split") ? "block" : "none";
+    document.getElementById("customTotal").style.display = (preset === "custom" && mode === "total") ? "block" : "none";
+    if(preset === "sindh" && mode === "split"){
+      // Sindh ka total 850 hai, us ki class-wise taqseem blueprint me nahi di gayi,
+      // is liye Sindh ke liye sirf total mode rakha gaya hai.
+      document.getElementById("mode").value = "total";
+      document.getElementById("splitFields").style.display = "none";
+      document.getElementById("totalFields").style.display = "block";
+    }
+  }
+  document.getElementById("preset").addEventListener("change", sync);
+  document.getElementById("mode").addEventListener("change", sync);
+  sync();
+  document.getElementById("calcBtn").addEventListener("click", function(){
+    var preset = document.getElementById("preset").value, mode = document.getElementById("mode").value, obt, tot;
+    if(mode === "split"){
+      var a = MTCalc.numVal("m9"), b = MTCalc.numVal("m10");
+      if(preset === "punjab"){ tot = 1100; }
+      else { var t9 = MTCalc.numVal("t9"), t10 = MTCalc.numVal("t10"); if(isNaN(t9) || isNaN(t10)){ MTCalc.showErr("out", "Dono classes ke total marks likhen."); return; } tot = t9 + t10; }
+      if(isNaN(a) || isNaN(b)){ MTCalc.showErr("out", "9th aur 10th dono ke obtained marks likhen."); return; }
+      obt = a + b;
+    } else {
+      obt = MTCalc.numVal("obt");
+      tot = preset === "punjab" ? 1100 : (preset === "sindh" ? 850 : MTCalc.numVal("tot"));
+      if(isNaN(obt) || isNaN(tot)){ MTCalc.showErr("out", "Obtained aur total marks dono likhen."); return; }
+    }
+    if(obt > tot){ MTCalc.showErr("out", "Obtained marks total se zyada nahi ho sakte"); return; }
+    if(obt < 0 || tot <= 0){ MTCalc.showErr("out", "Sahi marks likhen."); return; }
+    var p = MTCalc.pct(obt, tot);
+    var oldG = MTCalc.gradeOld(p), newG = MTCalc.gradeNew(p);
+    document.getElementById("out").innerHTML = '<div class="calc-result show"><div class="big">' + p.toFixed(2) + '%</div>' +
+      '<div class="sub">' + obt + ' / ' + tot + '</div>' +
+      '<p><b>Purana system:</b> ' + oldG + ' — ' + (p >= 33 ? 'Pass' : 'Fail') + '</p>' +
+      '<p><b>2026 naya system:</b> ' + newG + ' — ' + (p >= 40 ? 'Pass' : 'Fail (U)') + '</p></div>';
+  });
+})();
+</script>
+</body>
+</html>

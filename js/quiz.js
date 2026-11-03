@@ -94,6 +94,28 @@
     var page = 1;
     var answers = {};                       // qi -> picked option "A".."D"
     var qopts = questions.map(function(m){ return toOptions(m); });  // shuffle once
+    // Progress Tracker: one record per page load, updated as answers grow.
+    // The /exam simulator is deliberately NOT connected here.
+    var progressSessionId = "practice-" + Date.now() + "-" + Math.floor(Math.random() * 100000);
+    function saveProgress(){
+      if(typeof window.MTProgress === "undefined") return;
+      var s = score();
+      if(!s.a) return;
+      MTProgress.saveSession(progressSessionId, {
+        date: new Date().toISOString(),
+        test: subjectName + " Practice",
+        subject: subjectName,
+        total: questions.length,
+        attempted: s.a,
+        correct: s.c,
+        wrong: s.a - s.c,
+        skipped: questions.length - s.a,
+        percentage: Math.round(s.c / s.a * 10000) / 100
+      });
+      var note = el("progressNote");
+      if(note) note.innerHTML = 'Score save ho gaya — <a href="progress">Progress dekhen</a>';
+    }
+
 
     function score(){
       var a = 0, c = 0;
@@ -159,7 +181,7 @@
     function render(){
       var start = (page-1)*perPage;
       var slice = questions.slice(start, start+perPage);
-      var html = '<div class="score-strip" id="scoreStrip"></div>';
+      var html = '<div class="score-strip" id="scoreStrip"></div><div class="progress-note" id="progressNote"></div>';
       slice.forEach(function(m, i){ html += qCard(m, start+i, start+i+1); });
       html += pagerHtml();
       box.innerHTML = html;
@@ -172,6 +194,7 @@
             answers[qi] = b.getAttribute("data-k");
             lockCardVisual(card, qi);
             updateScore();
+            saveProgress();
           });
         });
       });
