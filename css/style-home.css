@@ -585,3 +585,19 @@ footer h4::after{content:"";display:block;width:26px;height:3px;background:var(-
   *,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}
   html{scroll-behavior:auto}
 }
+
+/* Hybrid: hero hook + Quiz of the Day */
+.hero-hook{font-weight:800;color:#ffd9a8;margin-top:-14px;margin-bottom:6px}
+.qod-card{max-width:780px;margin:0 auto;background:#fff;border:1px solid var(--line);border-radius:20px;padding:32px 30px;box-shadow:var(--shadow-card)}
+.qod-q{font-size:21px;font-weight:800;line-height:1.5;margin-bottom:22px}
+.qod-opts{display:grid;gap:12px}
+.qod-opt{display:block;width:100%;text-align:left;background:linear-gradient(180deg,#ffffff,#f4faf6);border:2px solid var(--line);border-bottom-width:5px;border-radius:14px;padding:16px 20px;font-size:16px;font-weight:600;font-family:var(--font);cursor:pointer;transition:all .16s;color:var(--ink)}
+.qod-opt:hover:not(:disabled){border-color:var(--green);transform:translateY(-2px)}
+.qod-opt:disabled{cursor:default;opacity:.85}
+.qod-opt.correct{background:#e8f5ee;border-color:#087540;color:#054d2b}
+.qod-opt.wrong{background:#fdecea;border-color:#c0392b;color:#7c1f1f}
+.qod-feedback{font-weight:800;font-size:17px;margin-top:18px;min-height:26px;text-align:center}
+@media(max-width:720px){
+  .qod-card{padding:24px 18px}
+  .qod-q{font-size:18px}
+}

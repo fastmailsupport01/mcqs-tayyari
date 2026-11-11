@@ -58,8 +58,9 @@
     <span class="hero-badge"><span class="dot"></span>Pakistan Test Preparation Platform</span>
     <h1>Prepare <span class="hl">Smarter</span> for Every Competitive Exam</h1>
     <p>PPSC, FPSC, CSS, PMS, NTS & more — subject-wise MCQs, solved past papers, and real exam simulators. Free forever, no login needed.</p>
+    <p class="hero-hook">100 MCQs · 90 minutes · −0.25 negative marking — bilkul asli paper jaisa.</p>
     <div class="btn-row">
-      <a class="btn btn-orange" href="exam">Start Mock Test</a>
+      <a class="btn btn-orange" href="exam">Free Mock Test Start Karein →</a>
       <a class="btn btn-ghost" href="subjects">Browse Subjects</a>
       <a class="btn btn-ghost" href="downloads/mcqstayyari-app.apk" download>📱 Download App</a>
     </div>
@@ -173,6 +174,52 @@
     <p style="text-align:center;margin-top:1.8rem"><a class="btn btn-green" href="blog">All guides &rarr;</a></p>
   </div>
 </section>
+
+<section class="block" id="quiz-of-the-day">
+  <div class="wrap">
+    <div class="sec-head">
+      <span class="sec-kicker">Quiz of the Day</span>
+      <h2>Aaj Ka Sawal</h2>
+      <p>Roz ek naya sawal — jawab dein, foran pata chalega sahi hai ya ghalat.</p>
+    </div>
+    <div class="qod-card">
+      <p class="qod-q" id="qodQ"></p>
+      <div class="qod-opts" id="qodOpts"></div>
+      <p class="qod-feedback" id="qodFeedback" aria-live="polite"></p>
+      <p style="text-align:center;margin-top:1.2rem"><a class="btn btn-orange" href="exam">Full Mock Test Dein →</a></p>
+    </div>
+  </div>
+</section>
+<script>
+(function(){
+  var Q=[
+    {q:"Neelum District is located in which province/territory of Pakistan?",o:["Islamabad Capital Territory","Azad Jammu and Kashmir","Sindh","Gilgit-Baltistan"],a:1},
+    {q:"The province of Baluchistan is a _____.",o:["Mountain","Plain","Plateau","None of the above"],a:2},
+    {q:"M.A.O School at Aligarh was upgraded to the level of a college in _____.",o:["1875","1876","1877","1886"],a:2},
+    {q:"The Sutlej is approximately how long?",o:["208 km","250 km","1,500 km","480 km"],a:2},
+    {q:"John Rockefeller made his fortune in what industry?",o:["automobile","oil","steel","railroad"],a:1},
+    {q:"If you have a 'sawbuck' how much money do you have?",o:["$1","$5","$10","$20"],a:2},
+    {q:"Which coefficient indicates the strongest correlation?",o:["-1","-0.33","0","0.5"],a:0}
+  ];
+  var item=Q[new Date().getDay()%Q.length];
+  var qEl=document.getElementById('qodQ');
+  var optsEl=document.getElementById('qodOpts');
+  var fb=document.getElementById('qodFeedback');
+  qEl.textContent=item.q;
+  var done=false;
+  item.o.forEach(function(text,i){
+    var b=document.createElement('button');
+    b.type='button'; b.className='qod-opt'; b.textContent=text;
+    b.addEventListener('click',function(){
+      if(done)return; done=true;
+      optsEl.querySelectorAll('.qod-opt').forEach(function(x){x.disabled=true;});
+      if(i===item.a){b.classList.add('correct');fb.textContent='Sahi jawab! \uD83C\uDF89';}
+      else{b.classList.add('wrong');optsEl.children[item.a].classList.add('correct');fb.textContent='Ghalat \u2014 sahi jawab: '+item.o[item.a];}
+    });
+    optsEl.appendChild(b);
+  });
+})();
+</script>
 
 
 <style>
