@@ -16,7 +16,7 @@
 <meta name="twitter:image" content="https://mcqstayyari.online/logo.png">
 <link rel="canonical" href="https://mcqstayyari.online/">
 <link rel="icon" href="favicon.png">
-<link rel="stylesheet" href="css/style-home.css?v=2">
+<link rel="stylesheet" href="css/style-home.css?v=3">
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
 {"@type":"Question","name":"What is the PPSC one-paper exam pattern?","acceptedAnswer":{"@type":"Answer","text":"The PPSC one-paper exam has 100 MCQs for 100 marks, 90 minutes duration, 40% passing marks, and 0.25 negative marking per wrong answer."}},
@@ -52,15 +52,16 @@
   </div>
 </header>
 
-<div class="hero">
+<div class="hero hero-dark">
   <span class="orb orb-a"></span><span class="orb orb-b"></span><span class="orb orb-c"></span>
   <div class="wrap hero-inner">
     <span class="hero-badge"><span class="dot"></span>Pakistan Test Preparation Platform</span>
     <h1>Prepare <span class="hl">Smarter</span> for Every Competitive Exam</h1>
     <p>PPSC, FPSC, CSS, PMS, NTS & more — subject-wise MCQs, solved past papers, and real exam simulators. Free forever, no login needed.</p>
-    <p class="hero-hook">100 MCQs · 90 minutes · −0.25 negative marking — bilkul asli paper jaisa.</p>
+    <p class="hero-hook">100 MCQs · 90 minutes · Pass ya Fail — foran result!</p>
+    <p class="hero-timer">Aaj ka Quiz khatam hone me: <b id="qodTimer">--:--:--</b></p>
     <div class="btn-row">
-      <a class="btn btn-orange" href="exam">Free Mock Test Start Karein →</a>
+      <a class="btn btn-orange btn-xl" href="exam">Free Mock Test Start Karein →</a>
       <a class="btn btn-ghost" href="subjects">Browse Subjects</a>
       <a class="btn btn-ghost" href="downloads/mcqstayyari-app.apk" download>📱 Download App</a>
     </div>
@@ -433,5 +434,25 @@
   <a href="/ebooks"><span class="mi">📖</span>eBooks</a>
   <a href="/blog"><span class="mi">📰</span>Blog</a>
 </nav>
+<div class="sticky-cta" id="stickyCta" role="region" aria-label="Mock test">
+  <span class="sticky-cta-text"><b>Free Mock Test</b> · 100 MCQs · 90 min · foran result</span>
+  <a class="btn btn-orange sticky-cta-btn" href="exam">Start Karein →</a>
+  <button type="button" class="sticky-cta-close" id="stickyCtaClose" aria-label="Band karein">×</button>
+</div>
+<script>
+(function(){
+  var el=document.getElementById('qodTimer');
+  function pad(n){return (n<10?'0':'')+n;}
+  function tick(){
+    var now=new Date();
+    var mid=new Date(now); mid.setHours(24,0,0,0);
+    var s=Math.max(0,Math.floor((mid-now)/1000));
+    el.textContent=pad(Math.floor(s/3600))+':'+pad(Math.floor(s%3600/60))+':'+pad(s%60);
+  }
+  tick(); setInterval(tick,1000);
+  var bar=document.getElementById('stickyCta');
+  document.getElementById('stickyCtaClose').addEventListener('click',function(){bar.style.display='none';});
+})();
+</script>
 </body>
 </html>
